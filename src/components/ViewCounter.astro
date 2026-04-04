@@ -54,8 +54,9 @@ const { slug, track = false } = Astro.props;
   // Fetch all counts
   const slugs = Array.from(slugSet).join(',');
   fetch(`/api/views?slugs=${encodeURIComponent(slugs)}`)
-    .then(r => r.json())
+    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
     .then(data => {
+      if (data.error) return;
       Object.entries(data).forEach(([slug, views]) => {
         updateCounters(slug, views);
       });
@@ -63,12 +64,14 @@ const { slug, track = false } = Astro.props;
     .catch(() => {});
 
   function updateCounters(slug, views) {
+    if (views == null || isNaN(views)) return;
     document.querySelectorAll(`.view-counter[data-slug="${slug}"] .view-count`).forEach(el => {
-      el.textContent = formatViews(views);
+      el.textContent = formatViews(Number(views));
     });
   }
 
   function formatViews(n) {
+    if (!n || isNaN(n)) return '0';
     if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
     if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
     return String(n);

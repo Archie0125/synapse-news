@@ -1,7 +1,12 @@
 export const prerender = false;
 
-import { kv } from '@vercel/kv';
+import { Redis } from '@upstash/redis';
 import type { APIRoute } from 'astro';
+
+const redis = new Redis({
+  url: import.meta.env.UPSTASH_REDIS_REST_URL || process.env.UPSTASH_REDIS_REST_URL || '',
+  token: import.meta.env.UPSTASH_REDIS_REST_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN || '',
+});
 
 // POST /api/views — increment view count for a slug
 export const POST: APIRoute = async ({ request }) => {
@@ -12,7 +17,7 @@ export const POST: APIRoute = async ({ request }) => {
     }
 
     const key = `views:${slug}`;
-    const count = await kv.incr(key);
+    const count = await redis.incr(key);
 
     return new Response(JSON.stringify({ slug, views: count }), {
       headers: { 'Content-Type': 'application/json' },
@@ -32,7 +37,7 @@ export const GET: APIRoute = async ({ url }) => {
 
     const slugs = slugsParam.split(',').slice(0, 50);
     const keys = slugs.map(s => `views:${s}`);
-    const counts = await kv.mget<number[]>(...keys);
+    const counts = await redis.mget<number[]>(...keys);
 
     const result: Record<string, number> = {};
     slugs.forEach((slug, i) => {

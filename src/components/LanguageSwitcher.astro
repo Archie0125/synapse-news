@@ -10,7 +10,9 @@ const otherLang: Lang = lang === 'en' ? 'zh' : 'en';
 
 // Build the alternate URL by swapping the lang prefix
 const currentPath = Astro.url.pathname;
-const alternatePath = currentPath.replace(`/${lang}/`, `/${otherLang}/`).replace(`/${lang}`, `/${otherLang}`);
+const alternatePath = currentPath === '/' || currentPath === ''
+  ? `/${otherLang}/`
+  : currentPath.replace(`/${lang}/`, `/${otherLang}/`).replace(`/${lang}`, `/${otherLang}`);
 ---
 
 <a

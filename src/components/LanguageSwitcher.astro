@@ -1,0 +1,22 @@
+---
+import { LANG_LABELS, type Lang } from '../lib/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const otherLang: Lang = lang === 'en' ? 'zh' : 'en';
+
+// Build the alternate URL by swapping the lang prefix
+const currentPath = Astro.url.pathname;
+const alternatePath = currentPath.replace(`/${lang}/`, `/${otherLang}/`).replace(`/${lang}`, `/${otherLang}`);
+---
+
+<a
+  href={alternatePath || `/${otherLang}/`}
+  class="px-2.5 py-1 text-sm font-medium rounded-lg bg-[var(--color-surface)] text-[var(--color-text)] hover:bg-[var(--color-border)] transition-colors"
+  title={LANG_LABELS[otherLang]}
+>
+  {otherLang === 'zh' ? '中文' : 'EN'}
+</a>

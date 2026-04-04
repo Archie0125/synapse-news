@@ -1,0 +1,63 @@
+name: Daily News Pipeline
+
+on:
+  schedule:
+    # Run twice daily at 6 AM and 6 PM UTC
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: # Allow manual triggers
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline.main
+
+      - name: Build Astro site
+        run: npx astro build
+
+      - name: Commit new articles
+        run: |
+          git config user.name "Synapse Bot"
+          git config user.email "bot@synapse-news.ai"
+          git add data/ src/content/articles/
+          git diff --staged --quiet || git commit -m "chore: daily pipeline run $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Deploy to Vercel
+        if: success()
+        uses: amondnet/vercel-action@v25
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'
+          working-directory: ./

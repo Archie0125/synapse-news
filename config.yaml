@@ -1,0 +1,191 @@
+site:
+  name: "Synapse"
+  description: "AI-powered tech news, autonomously researched and published daily"
+  url: "https://synapse-news.vercel.app"
+  language: "en"
+
+feeds:
+  # AI & ML
+  - name: "MIT Technology Review"
+    slug: "mittechreview"
+    url: "https://www.technologyreview.com/feed/"
+    category: "ai-ml"
+  - name: "OpenAI Blog"
+    slug: "openai"
+    url: "https://openai.com/blog/rss.xml"
+    category: "ai-ml"
+  - name: "Anthropic Blog"
+    slug: "anthropic"
+    url: "https://www.anthropic.com/rss.xml"
+    category: "ai-ml"
+  - name: "Google AI Blog"
+    slug: "googleai"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "ai-ml"
+  - name: "Hugging Face Blog"
+    slug: "huggingface"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "ai-ml"
+  - name: "AI News (VentureBeat)"
+    slug: "venturebeat-ai"
+    url: "https://venturebeat.com/category/ai/feed/"
+    category: "ai-ml"
+
+  # Startups
+  - name: "TechCrunch"
+    slug: "techcrunch"
+    url: "https://techcrunch.com/feed/"
+    category: "startups"
+  - name: "Crunchbase News"
+    slug: "crunchbase"
+    url: "https://news.crunchbase.com/feed/"
+    category: "startups"
+  - name: "Y Combinator Blog"
+    slug: "ycombinator"
+    url: "https://www.ycombinator.com/blog/rss/"
+    category: "startups"
+  - name: "SaaStr"
+    slug: "saastr"
+    url: "https://www.saastr.com/feed/"
+    category: "startups"
+
+  # Products
+  - name: "The Verge"
+    slug: "theverge"
+    url: "https://www.theverge.com/rss/index.xml"
+    category: "products"
+  - name: "Engadget"
+    slug: "engadget"
+    url: "https://www.engadget.com/rss.xml"
+    category: "products"
+  - name: "9to5Mac"
+    slug: "9to5mac"
+    url: "https://9to5mac.com/feed/"
+    category: "products"
+  - name: "9to5Google"
+    slug: "9to5google"
+    url: "https://9to5google.com/feed/"
+    category: "products"
+
+  # Policy
+  - name: "EFF"
+    slug: "eff"
+    url: "https://www.eff.org/rss/updates.xml"
+    category: "policy"
+  - name: "Brookings TechTank"
+    slug: "brookings"
+    url: "https://www.brookings.edu/topic/technology-policy/feed/"
+    category: "policy"
+  - name: "TechPolicy.press"
+    slug: "techpolicy"
+    url: "https://techpolicy.press/feed"
+    category: "policy"
+  - name: "Lawfare"
+    slug: "lawfare"
+    url: "https://www.lawfaremedia.org/feed"
+    category: "policy"
+
+  # Industry
+  - name: "Hacker News"
+    slug: "hn"
+    url: "https://hnrss.org/frontpage?points=100"
+    category: "industry"
+  - name: "Ars Technica"
+    slug: "arstechnica"
+    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    category: "industry"
+  - name: "Wired"
+    slug: "wired"
+    url: "https://www.wired.com/feed/rss"
+    category: "industry"
+  - name: "Reuters Tech"
+    slug: "reuters"
+    url: "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best&best-sectors=tech"
+    category: "industry"
+
+  # Developer Tools
+  - name: "GitHub Blog"
+    slug: "github"
+    url: "https://github.blog/feed/"
+    category: "developer-tools"
+  - name: "Dev.to"
+    slug: "devto"
+    url: "https://dev.to/feed"
+    category: "developer-tools"
+  - name: "InfoQ"
+    slug: "infoq"
+    url: "https://feed.infoq.com/"
+    category: "developer-tools"
+  - name: "The New Stack"
+    slug: "thenewstack"
+    url: "https://thenewstack.io/feed/"
+    category: "developer-tools"
+
+  # Hardware
+  - name: "Tom's Hardware"
+    slug: "tomshardware"
+    url: "https://www.tomshardware.com/feeds/all"
+    category: "hardware"
+  - name: "AnandTech / Chips and Cheese"
+    slug: "chipsandcheese"
+    url: "https://chipsandcheese.com/feed/"
+    category: "hardware"
+  - name: "Semianalysis (substack)"
+    slug: "semianalysis"
+    url: "https://www.semianalysis.com/feed"
+    category: "hardware"
+  - name: "ServeTheHome"
+    slug: "servethehome"
+    url: "https://www.servethehome.com/feed/"
+    category: "hardware"
+
+pipeline:
+  max_articles_per_feed: 15
+  max_articles_per_day: 100
+  articles_per_category: 3        # Target: 3 articles per category per day
+  trending_count: 7
+  analysis_count: 5
+  fetch_delay_seconds: 1.0
+  batch_size: 10
+
+api:
+  summarize_model: "claude-sonnet-4-6"
+  analysis_model: "claude-opus-4-6"
+  max_retries: 3
+  rate_limit_rpm: 50
+
+categories:
+  - slug: "ai-ml"
+    name: "AI & ML"
+    color: "#8B5CF6"
+  - slug: "startups"
+    name: "Startups"
+    color: "#F59E0B"
+  - slug: "products"
+    name: "Products"
+    color: "#10B981"
+  - slug: "policy"
+    name: "Policy"
+    color: "#EF4444"
+  - slug: "industry"
+    name: "Industry"
+    color: "#3B82F6"
+  - slug: "developer-tools"
+    name: "Dev Tools"
+    color: "#06B6D4"
+  - slug: "hardware"
+    name: "Hardware"
+    color: "#F97316"
+
+threads:
+  posts_per_day: 6
+  start_hour: 8           # UTC
+  end_hour: 22             # UTC
+  delay_between_posts: 30  # seconds
+
+paths:
+  raw: "data/raw"
+  wiki: "data/wiki"
+  dedup: "data/dedup"
+  content: "src/content/articles"
+  prompts: "prompts"

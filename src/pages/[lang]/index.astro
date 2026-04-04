@@ -1,0 +1,142 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HeroStory from '../../components/HeroStory.astro';
+import StoryCard from '../../components/StoryCard.astro';
+import StoryCardCompact from '../../components/StoryCardCompact.astro';
+import TrendingBar from '../../components/TrendingBar.astro';
+import CategoryPill from '../../components/CategoryPill.astro';
+import { CATEGORIES } from '../../lib/categories';
+import { LANGS, t, getCategoryName, type Lang } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return LANGS.map(lang => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+
+const allArticles = await getCollection('articles');
+const langArticles = allArticles
+  .filter(a => a.data.lang === lang)
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+const featured = langArticles.find(a => a.data.featured) ?? langArticles[0];
+const remaining = langArticles.filter(a => a !== featured);
+
+const trending = langArticles
+  .filter(a => a.data.trending)
+  .slice(0, 6)
+  .map(a => ({ title: a.data.title, category: a.data.category, slug: a.id }));
+
+const latest = remaining.slice(0, 12);
+
+const mostRead = langArticles.filter(a => a.data.type === 'analysis').slice(0, 5);
+const sidebarItems = mostRead.length > 0 ? mostRead : langArticles.slice(0, 5);
+
+const byCategory = CATEGORIES.map(cat => ({
+  ...cat,
+  localName: getCategoryName(lang, cat.slug),
+  articles: langArticles.filter(a => a.data.category === cat.slug).slice(0, 4),
+})).filter(cat => cat.articles.length > 0);
+---
+
+<BaseLayout lang={lang}>
+  {trending.length > 0 && <TrendingBar items={trending} lang={lang} />}
+
+  <div class="container py-6">
+    {featured && (
+      <HeroStory
+        title={featured.data.title}
+        summary={featured.data.summary}
+        category={featured.data.category}
+        publishedAt={featured.data.publishedAt}
+        slug={featured.id}
+        content={featured.body ?? ''}
+        type={featured.data.type}
+        lang={lang}
+      />
+    )}
+
+    <div class="grid lg:grid-cols-3 gap-8 mb-12">
+      <div class="lg:col-span-2">
+        <h2 class="font-headline text-2xl mb-4">{t(lang, 'home.latest')}</h2>
+        <div>
+          {latest.map(article => (
+            <StoryCard
+              title={article.data.title}
+              summary={article.data.summary}
+              category={article.data.category}
+              publishedAt={article.data.publishedAt}
+              slug={article.id}
+              content={article.body ?? ''}
+              lang={lang}
+            />
+          ))}
+        </div>
+      </div>
+
+      <aside class="hidden lg:block">
+        <h2 class="font-headline text-xl mb-4">{t(lang, 'home.top_stories')}</h2>
+        <div>
+          {sidebarItems.map((article, i) => (
+            <StoryCardCompact
+              title={article.data.title}
+              category={article.data.category}
+              publishedAt={article.data.publishedAt}
+              slug={article.id}
+              index={i + 1}
+              lang={lang}
+            />
+          ))}
+        </div>
+
+        <div class="mt-8 p-4 bg-[var(--color-surface)] rounded-xl">
+          <h3 class="text-sm font-semibold uppercase tracking-wider text-[var(--color-text-muted)] mb-3">
+            {t(lang, 'home.categories')}
+          </h3>
+          <div class="flex flex-wrap gap-2">
+            {CATEGORIES.map(cat => (
+              <CategoryPill category={cat.slug} lang={lang} />
+            ))}
+          </div>
+        </div>
+
+        <div class="mt-6 p-4 bg-[var(--color-surface)] rounded-xl text-center">
+          <p class="text-sm text-[var(--color-text-muted)] mb-2">{t(lang, 'home.stay_updated')}</p>
+          <a href="/rss.xml" class="inline-flex items-center gap-2 px-4 py-2 bg-[var(--color-accent)] text-white rounded-lg text-sm font-medium hover:opacity-90 transition-opacity">
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M6.503 20.752c0 1.794-1.456 3.248-3.251 3.248-1.796 0-3.252-1.454-3.252-3.248 0-1.794 1.456-3.248 3.252-3.248 1.795.001 3.251 1.454 3.251 3.248zm-6.503-12.572v4.811c6.05.062 10.96 4.966 11.022 11.009h4.817c-.062-8.71-7.118-15.758-15.839-15.82zm0-8.18v4.819c12.951.115 23.405 10.601 23.5 23.581h4.5c-.094-15.673-12.808-28.354-28-28.4z"/>
+            </svg>
+            {t(lang, 'home.subscribe_rss')}
+          </a>
+        </div>
+      </aside>
+    </div>
+
+    {byCategory.map(cat => (
+      <section class="mb-10">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <h2 class="font-headline text-2xl">{cat.localName}</h2>
+            <div class="h-0.5 w-12 mt-1 rounded" style={`background-color: ${cat.color}`}></div>
+          </div>
+          <a href={`/${lang}/${cat.slug}/`} class="text-sm text-[var(--color-accent)] hover:underline">
+            {t(lang, 'home.see_all')} &rarr;
+          </a>
+        </div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {cat.articles.map(article => (
+            <article class="group">
+              <a href={`/${lang}/${article.data.category}/${article.id}/`}>
+                <h3 class="font-headline text-base mb-1 text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">
+                  {article.data.title}
+                </h3>
+              </a>
+              <p class="text-xs text-[var(--color-text-muted)] line-clamp-2">{article.data.summary}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</BaseLayout>

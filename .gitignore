@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+venv/
+.env
+
+# Node
+node_modules/
+.astro/
+
+# Build output
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Pipeline state (keep structure, ignore large data)
+data/raw/
+data/dedup/seen_hashes.json
+
+# Threads token (sensitive)
+data/threads/token.json
+
+# Don't ignore wiki or content - that's our knowledge base
+.gstack/

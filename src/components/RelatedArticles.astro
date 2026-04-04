@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import StoryCard from './StoryCard.astro';
+import { t, type Lang } from '../lib/i18n';
+
+interface Props {
+  slugs: string[];
+  lang?: Lang;
+}
+
+const { slugs, lang = 'en' } = Astro.props;
+const allArticles = await getCollection('articles');
+const related = allArticles
+  .filter(a => slugs.includes(a.id) && a.data.lang === lang)
+  .slice(0, 3);
+---
+
+{related.length > 0 && (
+  <section class="container py-8 border-t border-[var(--color-border)]">
+    <h2 class="font-headline text-2xl mb-4">{t(lang, 'article.related')}</h2>
+    <div class="grid md:grid-cols-3 gap-4">
+      {related.map(article => (
+        <StoryCard
+          title={article.data.title}
+          summary={article.data.summary}
+          category={article.data.category}
+          publishedAt={article.data.publishedAt}
+          slug={article.id}
+          content={article.body ?? ''}
+          lang={lang}
+        />
+      ))}
+    </div>
+  </section>
+)}

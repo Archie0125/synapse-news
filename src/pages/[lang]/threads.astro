@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { LANGS, t, type Lang } from '../../lib/i18n';
+import { readFileSync, existsSync } from 'node:fs';
+
+export function getStaticPaths() {
+  return LANGS.map(lang => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+
+// Load Threads queue data
+let queueData: any = { pending: [], recent_posted: [], stats: { pending_count: 0, posted_today: 0, total_posted: 0 } };
+const queuePath = 'src/data/threads-queue.json';
+try {
+  if (existsSync(queuePath)) {
+    queueData = JSON.parse(readFileSync(queuePath, 'utf-8'));
+  }
+} catch {}
+
+const pending = queueData.pending || [];
+const recentPosted = queueData.recent_posted || [];
+const stats = queueData.stats || {};
+
+const title = lang === 'zh' ? 'Threads 發文排程' : 'Threads Queue';
+const subtitle = lang === 'zh' ? '即將發佈到 Threads 的內容預覽' : 'Preview of upcoming Threads posts';
+---
+
+<BaseLayout title={title} lang={lang}>
+  <div class="container py-8 md:py-12 max-w-[720px] mx-auto">
+    <header class="mb-8">
+      <h1 class="font-headline text-3xl md:text-4xl mb-2">{title}</h1>
+      <p class="text-[var(--color-text-muted)]">{subtitle}</p>
+    </header>
+
+    <!-- Stats -->
+    <div class="grid grid-cols-3 gap-4 mb-8">
+      <div class="bg-[var(--color-surface)] rounded-xl p-4 text-center">
+        <div class="text-2xl font-bold text-[var(--color-accent)]">{stats.pending_count || 0}</div>
+        <div class="text-xs text-[var(--color-text-muted)]">{lang === 'zh' ? '待發佈' : 'Pending'}</div>
+      </div>
+      <div class="bg-[var(--color-surface)] rounded-xl p-4 text-center">
+        <div class="text-2xl font-bold text-emerald-500">{stats.posted_today || 0}</div>
+        <div class="text-xs text-[var(--color-text-muted)]">{lang === 'zh' ? '今日已發' : 'Posted Today'}</div>
+      </div>
+      <div class="bg-[var(--color-surface)] rounded-xl p-4 text-center">
+        <div class="text-2xl font-bold text-[var(--color-text)]">{stats.total_posted || 0}</div>
+        <div class="text-xs text-[var(--color-text-muted)]">{lang === 'zh' ? '累計發文' : 'Total Posted'}</div>
+      </div>
+    </div>
+
+    <!-- Pending Posts -->
+    {pending.length > 0 ? (
+      <section class="mb-10">
+        <h2 class="font-headline text-xl mb-4">
+          {lang === 'zh' ? '排程中' : 'Scheduled'}
+        </h2>
+        <div class="space-y-4">
+          {pending.map((post: any, i: number) => (
+            <div class="bg-[var(--color-surface)] rounded-xl p-5 border border-[var(--color-border)]">
+              <div class="flex items-center gap-2 mb-3">
+                <span class={`text-xs font-semibold px-2 py-0.5 rounded-full ${
+                  post.type === 'hot_take'
+                    ? 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400'
+                    : 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400'
+                }`}>
+                  {post.type === 'hot_take'
+                    ? (lang === 'zh' ? '觀點' : 'Hot Take')
+                    : (lang === 'zh' ? '文章推廣' : 'Article')}
+                </span>
+                <span class="text-xs text-[var(--color-text-muted)]">
+                  {post.lang === 'zh' ? '繁中' : 'EN'}
+                </span>
+                {post.scheduled_for && (
+                  <span class="text-xs text-[var(--color-text-muted)] ml-auto">
+                    {new Date(post.scheduled_for).toLocaleTimeString(lang === 'zh' ? 'zh-TW' : 'en-US', {
+                      hour: '2-digit', minute: '2-digit'
+                    })}
+                  </span>
+                )}
+              </div>
+              <p class="text-sm leading-relaxed whitespace-pre-line">{post.text}</p>
+              {post.article_url && (
+                <a href={post.article_url} class="inline-block mt-2 text-xs text-[var(--color-accent)] hover:underline">
+                  {lang === 'zh' ? '查看文章 →' : 'View article →'}
+                </a>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+    ) : (
+      <div class="text-center py-12 text-[var(--color-text-muted)]">
+        <p class="text-lg mb-2">
+          {lang === 'zh' ? '目前沒有排程中的發文' : 'No scheduled posts yet'}
+        </p>
+        <p class="text-sm">
+          {lang === 'zh'
+            ? '執行 pipeline 後，Threads 發文會自動排程在這裡'
+            : 'Run the pipeline and Threads posts will appear here'}
+        </p>
+      </div>
+    )}
+
+    <!-- Recent Posted -->
+    {recentPosted.length > 0 && (
+      <section>
+        <h2 class="font-headline text-xl mb-4">
+          {lang === 'zh' ? '最近已發佈' : 'Recently Posted'}
+        </h2>
+        <div class="space-y-3">
+          {recentPosted.map((post: any) => (
+            <div class="p-4 border border-[var(--color-border)] rounded-lg opacity-70">
+              <p class="text-sm whitespace-pre-line">{post.text}</p>
+              <span class="text-xs text-[var(--color-text-muted)] mt-1 block">
+                {post.posted_at ? new Date(post.posted_at).toLocaleDateString(lang === 'zh' ? 'zh-TW' : 'en-US') : ''}
+              </span>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>

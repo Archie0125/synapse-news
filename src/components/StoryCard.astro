@@ -1,0 +1,39 @@
+---
+import CategoryPill from './CategoryPill.astro';
+import { getRelativeTimeLocalized, getReadingTimeLocalized, type Lang } from '../lib/i18n';
+
+interface Props {
+  title: string;
+  summary: string;
+  category: string;
+  publishedAt: Date;
+  slug: string;
+  content: string;
+  lang?: Lang;
+}
+
+const { title, summary, category, publishedAt, slug, content, lang = 'en' } = Astro.props;
+const readingTime = getReadingTimeLocalized(content, lang);
+---
+
+<article class="group py-5 border-b border-[var(--color-border)] last:border-0">
+  <div class="flex items-start gap-3 mb-2">
+    <CategoryPill category={category} lang={lang} />
+  </div>
+
+  <a href={`/${lang}/${category}/${slug}/`} class="block">
+    <h3 class="font-headline text-lg md:text-xl mb-1.5 text-[var(--color-text)] group-hover:text-[var(--color-accent)] transition-colors line-clamp-2">
+      {title}
+    </h3>
+  </a>
+
+  <p class="text-sm text-[var(--color-text-muted)] mb-2 line-clamp-2">
+    {summary}
+  </p>
+
+  <div class="flex items-center gap-3 text-xs text-[var(--color-text-muted)]">
+    <time datetime={publishedAt.toISOString()}>{getRelativeTimeLocalized(publishedAt, lang)}</time>
+    <span class="w-1 h-1 rounded-full bg-[var(--color-text-muted)]"></span>
+    <span>{readingTime}</span>
+  </div>
+</article>

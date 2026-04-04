@@ -1,0 +1,29 @@
+{
+  "name": "synapse-news",
+  "version": "1.0.0",
+  "description": "AI-powered tech news, autonomously researched and published daily",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "pipeline": "python -m pipeline.main",
+    "pipeline:fetch": "python -m pipeline.main --phase fetch",
+    "pipeline:summarize": "python -m pipeline.main --phase summarize",
+    "pipeline:analyze": "python -m pipeline.main --phase analyze",
+    "pipeline:publish": "python -m pipeline.main --phase publish",
+    "threads:login": "python -m pipeline.threads.oauth",
+    "threads:refresh": "python -m pipeline.threads.oauth --refresh",
+    "threads:status": "python -m pipeline.threads.poster --status",
+    "threads:post": "python -m pipeline.threads.poster",
+    "threads:post-next": "python -m pipeline.threads.poster --post-next",
+    "threads:dry-run": "python -m pipeline.threads.poster --dry-run"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
+    "@astrojs/tailwind": "^6.0.2",
+    "astro": "^6.1.3",
+    "tailwindcss": "^3.4.19"
+  }
+}

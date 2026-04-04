@@ -1,0 +1,24 @@
+---
+import { getCategoryBySlug } from '../lib/categories';
+import { getCategoryName, type Lang } from '../lib/i18n';
+
+interface Props {
+  category: string;
+  linked?: boolean;
+  lang?: Lang;
+}
+
+const { category, linked = true, lang = 'en' } = Astro.props;
+const cat = getCategoryBySlug(category);
+const name = getCategoryName(lang, cat.slug);
+---
+
+{linked ? (
+  <a href={`/${lang}/${cat.slug}/`} class="category-pill" style={`background-color: ${cat.color}`}>
+    {name}
+  </a>
+) : (
+  <span class="category-pill" style={`background-color: ${cat.color}`}>
+    {name}
+  </span>
+)}

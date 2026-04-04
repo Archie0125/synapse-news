@@ -1,0 +1,36 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
+import { LANGS, type Lang } from '../../../lib/i18n';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(article => ({
+    params: {
+      lang: article.data.lang,
+      category: article.data.category,
+      slug: article.id,
+    },
+    props: { article },
+  }));
+}
+
+const lang = Astro.params.lang as Lang;
+const { article } = Astro.props;
+const { Content } = await render(article);
+---
+
+<ArticleLayout
+  title={article.data.title}
+  summary={article.data.summary}
+  category={article.data.category}
+  publishedAt={article.data.publishedAt}
+  sources={article.data.sources}
+  tags={article.data.tags}
+  content={article.body ?? ''}
+  relatedSlugs={article.data.relatedSlugs}
+  type={article.data.type}
+  lang={lang}
+>
+  <Content />
+</ArticleLayout>

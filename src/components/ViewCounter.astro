@@ -1,0 +1,77 @@
+---
+interface Props {
+  slug: string;
+  track?: boolean; // true = increment on load (article page), false = display only (cards)
+}
+
+const { slug, track = false } = Astro.props;
+---
+
+<span class="view-counter inline-flex items-center gap-1 text-xs text-[var(--color-text-muted)]"
+  data-slug={slug}
+  data-track={track ? 'true' : 'false'}
+>
+  <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+    <circle cx="12" cy="12" r="3" />
+  </svg>
+  <span class="view-count">—</span>
+</span>
+
+<script is:inline>
+(function() {
+  if (window.__viewCounterInit) return;
+  window.__viewCounterInit = true;
+
+  const counters = document.querySelectorAll('.view-counter');
+  if (!counters.length) return;
+
+  // Collect all slugs that need fetching
+  const slugSet = new Set();
+  let trackSlug = null;
+
+  counters.forEach(el => {
+    const slug = el.dataset.slug;
+    slugSet.add(slug);
+    if (el.dataset.track === 'true') trackSlug = slug;
+  });
+
+  // Track view (increment) for article page
+  if (trackSlug) {
+    const key = `viewed:${trackSlug}`;
+    if (!sessionStorage.getItem(key)) {
+      fetch('/api/views', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ slug: trackSlug }),
+      }).then(r => r.json()).then(data => {
+        sessionStorage.setItem(key, '1');
+        updateCounters(trackSlug, data.views);
+      }).catch(() => {});
+    }
+  }
+
+  // Fetch all counts
+  const slugs = Array.from(slugSet).join(',');
+  fetch(`/api/views?slugs=${encodeURIComponent(slugs)}`)
+    .then(r => r.json())
+    .then(data => {
+      Object.entries(data).forEach(([slug, views]) => {
+        updateCounters(slug, views);
+      });
+    })
+    .catch(() => {});
+
+  function updateCounters(slug, views) {
+    document.querySelectorAll(`.view-counter[data-slug="${slug}"] .view-count`).forEach(el => {
+      el.textContent = formatViews(views);
+    });
+  }
+
+  function formatViews(n) {
+    if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+    if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
+    return String(n);
+  }
+})();
+</script>

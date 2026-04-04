@@ -4,6 +4,7 @@ import CategoryPill from '../components/CategoryPill.astro';
 import Byline from '../components/Byline.astro';
 import SourcesList from '../components/SourcesList.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
+import ViewCounter from '../components/ViewCounter.astro';
 import { getReadingTimeLocalized, t, type Lang } from '../lib/i18n';
 
 interface Props {
@@ -17,6 +18,7 @@ interface Props {
   relatedSlugs?: string[];
   type?: string;
   lang?: Lang;
+  slug?: string;
 }
 
 const {
@@ -30,6 +32,7 @@ const {
   relatedSlugs = [],
   type = 'news',
   lang = 'en',
+  slug = '',
 } = Astro.props;
 
 const readingTime = getReadingTimeLocalized(content, lang);
@@ -62,7 +65,10 @@ const readingTime = getReadingTimeLocalized(content, lang);
         {summary}
       </p>
 
-      <Byline date={publishedAt} readingTime={readingTime} lang={lang} />
+      <div class="flex items-center gap-4">
+        <Byline date={publishedAt} readingTime={readingTime} lang={lang} />
+        {slug && <ViewCounter slug={slug} track={true} />}
+      </div>
 
       <hr class="mt-6 border-[var(--color-border)]" />
     </header>

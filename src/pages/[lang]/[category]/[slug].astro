@@ -31,6 +31,7 @@ const { Content } = await render(article);
   relatedSlugs={article.data.relatedSlugs}
   type={article.data.type}
   lang={lang}
+  slug={article.id}
 >
   <Content />
 </ArticleLayout>

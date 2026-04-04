@@ -1,5 +1,6 @@
 ---
 import CategoryPill from './CategoryPill.astro';
+import ViewCounter from './ViewCounter.astro';
 import { getRelativeTimeLocalized, getReadingTimeLocalized, type Lang } from '../lib/i18n';
 
 interface Props {
@@ -35,5 +36,7 @@ const readingTime = getReadingTimeLocalized(content, lang);
     <time datetime={publishedAt.toISOString()}>{getRelativeTimeLocalized(publishedAt, lang)}</time>
     <span class="w-1 h-1 rounded-full bg-[var(--color-text-muted)]"></span>
     <span>{readingTime}</span>
+    <span class="w-1 h-1 rounded-full bg-[var(--color-text-muted)]"></span>
+    <ViewCounter slug={slug} />
   </div>
 </article>

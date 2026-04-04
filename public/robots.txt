@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://synapse-news.vercel.app/sitemap-index.xml
+Sitemap: https://faq.com.tw/sitemap-index.xml

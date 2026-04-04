@@ -12,7 +12,7 @@ export const LANG_LABELS: Record<Lang, string> = {
 const translations = {
   en: {
     // Site
-    'site.name': 'Synapse',
+    'site.name': 'FAQ',
     'site.tagline': 'AI News',
     'site.description': 'AI-powered tech news, autonomously researched and published daily',
     'site.powered_by': 'Powered by AI',
@@ -54,10 +54,17 @@ const translations = {
 
     // Footer
     'footer.rss': 'RSS',
+
+    // Newsletter
+    'newsletter.title': 'Weekly Top 10',
+    'newsletter.description': 'Get the 10 most-read articles delivered every weekend.',
+    'newsletter.placeholder': 'your@email.com',
+    'newsletter.subscribe': 'Subscribe',
+    'newsletter.thanks': 'Thanks for subscribing!',
   },
   zh: {
     // Site
-    'site.name': 'Synapse',
+    'site.name': 'FAQ',
     'site.tagline': 'AI 新聞',
     'site.description': '由 AI 驅動的科技新聞，每日自主研究與發佈',
     'site.powered_by': 'AI 驅動',
@@ -99,6 +106,13 @@ const translations = {
 
     // Footer
     'footer.rss': 'RSS 訂閱',
+
+    // Newsletter
+    'newsletter.title': '每週精選十大',
+    'newsletter.description': '每週末收到最多人閱讀的 10 篇文章。',
+    'newsletter.placeholder': 'your@email.com',
+    'newsletter.subscribe': '訂閱',
+    'newsletter.thanks': '感謝訂閱！',
   },
 } as const;
 

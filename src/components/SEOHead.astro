@@ -9,6 +9,7 @@ interface Props {
   article?: boolean;
   publishedAt?: Date;
   lang?: Lang;
+  category?: string;
 }
 
 const {
@@ -18,6 +19,7 @@ const {
   article = false,
   publishedAt,
   lang = 'en',
+  category,
 } = Astro.props;
 
 const siteDescription = t(lang, 'site.description');
@@ -63,22 +65,35 @@ const alternateURL = new URL(alternatePath, SITE.url);
 
 <!-- JSON-LD -->
 {article ? (
-  <script type="application/ld+json" set:html={JSON.stringify({
-    '@context': 'https://schema.org',
-    '@type': 'NewsArticle',
-    headline: title,
-    description: desc,
-    datePublished: publishedAt?.toISOString(),
-    inLanguage: htmlLang,
-    author: { '@type': 'Organization', name: SITE.author },
-    publisher: {
-      '@type': 'Organization',
-      name: SITE.name,
-      logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', SITE.url).href },
-    },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL.href },
-    image: ogImageURL.href,
-  })} />
+  <>
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'NewsArticle',
+      headline: title,
+      description: desc,
+      datePublished: publishedAt?.toISOString(),
+      inLanguage: htmlLang,
+      author: { '@type': 'Organization', name: SITE.author },
+      publisher: {
+        '@type': 'Organization',
+        name: SITE.name,
+        logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', SITE.url).href },
+      },
+      mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL.href },
+      image: ogImageURL.href,
+    })} />
+    {category && (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/${lang}/` },
+          { '@type': 'ListItem', position: 2, name: category, item: `${SITE.url}/${lang}/${category}/` },
+          { '@type': 'ListItem', position: 3, name: title },
+        ],
+      })} />
+    )}
+  </>
 ) : (
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',

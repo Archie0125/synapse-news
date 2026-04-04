@@ -1,6 +1,6 @@
-# Daily Synapse Pipeline Prompt
+# Daily FAQ Pipeline Prompt
 
-Run the full daily news pipeline for Synapse. Follow these steps exactly:
+Run the full daily news pipeline for FAQ. Follow these steps exactly:
 
 ## Step 1: Fetch RSS articles
 ```bash

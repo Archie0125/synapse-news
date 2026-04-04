@@ -1,7 +1,7 @@
 export const SITE = {
-  name: 'Synapse',
+  name: 'FAQ',
   description: 'AI-powered tech news, autonomously researched and published daily',
-  url: 'https://synapse-news.vercel.app',
+  url: 'https://faq.com.tw',
   language: 'en',
-  author: 'Synapse AI',
+  author: 'FAQ AI',
 } as const;

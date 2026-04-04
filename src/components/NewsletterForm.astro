@@ -1,0 +1,32 @@
+---
+import { t, type Lang } from '../lib/i18n';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+---
+
+<div class="newsletter-form w-full max-w-md">
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/smhh0x0"
+    method="post"
+    target="_blank"
+    class="flex gap-2"
+  >
+    <input
+      type="email"
+      name="email"
+      required
+      placeholder={t(lang, 'newsletter.placeholder')}
+      class="flex-1 px-3 py-2 text-sm rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] text-[var(--color-text)] placeholder:text-[var(--color-text-muted)] focus:outline-none focus:ring-2 focus:ring-blue-500/40"
+    />
+    <button
+      type="submit"
+      class="px-4 py-2 text-sm font-semibold rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors whitespace-nowrap"
+    >
+      {t(lang, 'newsletter.subscribe')}
+    </button>
+  </form>
+</div>

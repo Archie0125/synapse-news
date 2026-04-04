@@ -12,6 +12,7 @@ interface Props {
   article?: boolean;
   publishedAt?: Date;
   lang?: Lang;
+  category?: string;
 }
 
 const {
@@ -21,6 +22,7 @@ const {
   article = false,
   publishedAt,
   lang = 'en',
+  category,
 } = Astro.props;
 
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
@@ -42,12 +44,15 @@ const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
     article={article}
     publishedAt={publishedAt}
     lang={lang}
+    category={category}
   />
   <script is:inline>
     const theme = localStorage.getItem('theme') ||
       (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.setAttribute('data-theme', theme);
   </script>
+  <!-- Vercel Web Analytics -->
+  <script defer src="/_vercel/insights/script.js"></script>
 </head>
 <body class="min-h-screen flex flex-col">
   <Header lang={lang} />

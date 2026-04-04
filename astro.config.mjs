@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://synapse-news.vercel.app',
+  site: 'https://faq.com.tw',
   integrations: [
     tailwind(),
     sitemap(),

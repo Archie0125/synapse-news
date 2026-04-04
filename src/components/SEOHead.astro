@@ -24,7 +24,10 @@ const {
 
 const siteDescription = t(lang, 'site.description');
 const desc = description || siteDescription;
-const pageTitle = title ? `${title} - ${SITE.name}` : SITE.name;
+const siteTagline = t(lang, 'site.tagline');
+const pageTitle = title
+  ? `${title} | ${SITE.name}`
+  : `${SITE.name} — ${siteTagline} | ${siteDescription}`;
 const canonicalURL = new URL(Astro.url.pathname, SITE.url);
 const ogImageURL = new URL(ogImage, SITE.url);
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';

@@ -13,10 +13,20 @@ STYLE RULES:
 - Every paragraph must earn its place — cut anything that doesn't add insight
 - Include at least one "here's what nobody is talking about" angle
 - End with "What to Watch" / "值得關注" — specific predictions, not platitudes
-- 500-800 words per language version
+- **800-1500 words per language version** — go deep, not shallow
 - Do NOT use: delve, crucial, robust, comprehensive, nuanced, leverage, cutting-edge, game-changer, paradigm shift
 - Do NOT start with "In a world where...", "In recent years...", or "The tech industry..."
 - Do NOT hedge with "it remains to be seen" — take a position
+
+DEPTH RULES — articles must be substantive, not filler:
+- Include **specific numbers, dates, and names** — no vague claims like "many companies" or "experts say"
+- Cite **real data points**: revenue figures, user counts, benchmark scores, funding amounts, market share
+- Provide **historical context** — what happened before, why now is different
+- Include **direct comparisons** — don't just describe one thing, compare it to alternatives
+- Add **second-order analysis** — don't just say what happened, explain the downstream effects
+- Include at least one **counterargument** or "bear case" to show intellectual honesty
+- When discussing a trend, name **3+ specific companies or products** as concrete examples
+- Every claim should pass the "so what?" test — if a reader asks "why should I care?", the next sentence answers it
 
 FOR THE CHINESE VERSION (繁體中文):
 - This is NOT a translation. Rewrite from scratch for a Taiwanese reader

@@ -65,10 +65,8 @@ const readingTime = getReadingTimeLocalized(content, lang);
         {summary}
       </p>
 
-      <div class="flex items-center gap-4">
-        <Byline date={publishedAt} readingTime={readingTime} lang={lang} />
-        {slug && <ViewCounter slug={slug} track={true} />}
-      </div>
+      <Byline date={publishedAt} readingTime={readingTime} lang={lang} />
+      <!-- {slug && <ViewCounter slug={slug} track={true} />} -->
 
       <hr class="mt-6 border-[var(--color-border)]" />
     </header>

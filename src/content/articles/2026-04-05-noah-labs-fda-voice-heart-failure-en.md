@@ -1,6 +1,6 @@
 ---
 title: "A 5-Second Voice Clip Could Save Heart Failure Patients' Lives. The FDA Just Said So."
-summary: "Noah Labs has received FDA Breakthrough Device Designation for Vox, an AI-powered tool that analyzes five-second daily voice recordings to detect worsening heart failure before hospitalization becomes necessary. Validated with Mayo Clinic and UCSF, the designation signals regulators see real clinical evidence behind the approach."
+summary: "Noah Labs received FDA Breakthrough Device Designation for Vox, an AI tool that analyzes five-second voice recordings to detect worsening heart failure before hospitalization. Validated with Mayo Clinic and UCSF, the move signals real clinical evidence."
 category: "ai-ml"
 publishedAt: 2026-04-05
 lang: "en"

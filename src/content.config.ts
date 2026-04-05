@@ -5,7 +5,7 @@ const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
     title: z.string().max(120),
-    summary: z.string().max(500),
+    summary: z.string().max(1000),
     category: z.enum(['ai-ml', 'startups', 'products', 'policy', 'industry', 'developer-tools', 'hardware']),
     publishedAt: z.coerce.date(),
     featured: z.boolean().default(false),

@@ -8,11 +8,19 @@ import anthropic
 import frontmatter
 import yaml
 
+from pipeline.process.perspectives import compose_perspectives
+
 logger = logging.getLogger(__name__)
 
 
-def _load_prompt() -> str:
-    return Path("prompts/summarize.md").read_text(encoding="utf-8")
+def _load_prompt(perspective_names: list[str] | None = None) -> str:
+    base = Path("prompts/summarize.md").read_text(encoding="utf-8")
+    if not perspective_names:
+        return base
+    dna = compose_perspectives(perspective_names)
+    if not dna:
+        return base
+    return f"{base}\n\n{dna}\n"
 
 
 def _get_raw_articles(raw_path: str, status: str = "raw") -> list[tuple[Path, frontmatter.Post]]:
@@ -55,9 +63,10 @@ def summarize_batch(
     client: anthropic.Anthropic,
     batch: list[tuple[Path, frontmatter.Post]],
     model: str,
+    perspectives: list[str] | None = None,
 ) -> list[dict]:
     """Send a batch to Claude for bilingual summarization."""
-    prompt = _load_prompt()
+    prompt = _load_prompt(perspectives)
     articles_text = _format_articles_for_prompt(batch)
 
     try:
@@ -138,19 +147,22 @@ def run_summarization(config_path: str = "config.yaml"):
     raw_path = config["paths"]["raw"]
     model = config["api"]["summarize_model"]
     batch_size = config["pipeline"].get("batch_size", 10)
+    perspectives = (config.get("perspectives") or {}).get("summarize") or []
 
     articles = _get_raw_articles(raw_path, status="raw")
     if not articles:
         logger.info("No raw articles to summarize")
         return
 
+    if perspectives:
+        logger.info(f"Using editorial perspectives: {', '.join(perspectives)}")
     logger.info(f"Summarizing {len(articles)} articles (bilingual EN + zh-TW)")
     client = anthropic.Anthropic()
     batches = _build_batch(articles, batch_size)
 
     for i, batch in enumerate(batches):
         logger.info(f"Processing batch {i + 1}/{len(batches)} ({len(batch)} articles)")
-        summaries = summarize_batch(client, batch, model)
+        summaries = summarize_batch(client, batch, model, perspectives=perspectives)
         if summaries:
             apply_summaries(batch, summaries)
 

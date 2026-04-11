@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "feynman-perspective": {
+      "source": "alchaincyf/feynman-skill",
+      "sourceType": "github",
+      "computedHash": "778a9ed4f556dab4fdd209f2d2bc0f879bfdca7dcf38aa453942dd35d06f5abe"
+    },
+    "mrbeast-perspective": {
+      "source": "alchaincyf/mrbeast-skill",
+      "sourceType": "github",
+      "computedHash": "20ae79930cdc078c9d6faf52f7d0c144df9e82c7e2b4bb71717e050daff7708f"
+    },
+    "paul-graham-perspective": {
+      "source": "alchaincyf/paul-graham-skill",
+      "sourceType": "github",
+      "computedHash": "659e0171e67f335185d3b1e7d32a7e033524b2faa75ed79850c12ca12d571044"
+    },
+    "zhang-yiming-perspective": {
+      "source": "alchaincyf/zhang-yiming-skill",
+      "sourceType": "github",
+      "computedHash": "7b40850e71a2432ed780ac131b279837b58e4fc11e3b3d1a353aa36b464cd7f2"
+    }
+  }
+}

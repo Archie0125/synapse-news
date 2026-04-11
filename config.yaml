@@ -154,6 +154,15 @@ api:
   max_retries: 3
   rate_limit_rpm: 50
 
+# Editorial DNA injection (女娲 perspective skills).
+# Each phase can blend in mental models + heuristics + expression DNA from
+# installed skills under .claude/skills/<name>-perspective/. Set to [] to disable.
+# Available short names: mrbeast, feynman, paul-graham (pg), zhang-yiming.
+perspectives:
+  summarize: [mrbeast, feynman]
+  # generate_analysis: [paul-graham, zhang-yiming]  # future
+  # threads: [mrbeast]                              # future
+
 categories:
   - slug: "ai-ml"
     name: "AI & ML"

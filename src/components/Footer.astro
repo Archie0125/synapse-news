@@ -22,7 +22,7 @@ const { lang = 'en' } = Astro.props;
     </div>
 
     <div class="flex items-center justify-between text-sm text-[var(--color-text-muted)] pt-4 border-t border-[var(--color-border)]">
-      <a href="/rss.xml" class="hover:text-[var(--color-text)] flex items-center gap-1">
+      <a href={lang === 'zh' ? '/zh/rss.xml' : '/rss.xml'} class="hover:text-[var(--color-text)] flex items-center gap-1">
         <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
           <path d="M6.503 20.752c0 1.794-1.456 3.248-3.251 3.248-1.796 0-3.252-1.454-3.252-3.248 0-1.794 1.456-3.248 3.252-3.248 1.795.001 3.251 1.454 3.251 3.248zm-6.503-12.572v4.811c6.05.062 10.96 4.966 11.022 11.009h4.817c-.062-8.71-7.118-15.758-15.839-15.82zm0-8.18v4.819c12.951.115 23.405 10.601 23.5 23.581h4.5c-.094-15.673-12.808-28.354-28-28.4z"/>
         </svg>

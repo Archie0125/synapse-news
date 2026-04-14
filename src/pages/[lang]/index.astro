@@ -8,6 +8,7 @@ import TrendingBar from '../../components/TrendingBar.astro';
 import CategoryPill from '../../components/CategoryPill.astro';
 import { CATEGORIES } from '../../lib/categories';
 import { LANGS, t, getCategoryName, type Lang } from '../../lib/i18n';
+import { SITE } from '../../data/site';
 
 export function getStaticPaths() {
   return LANGS.map(lang => ({ params: { lang } }));
@@ -41,6 +42,24 @@ const byCategory = CATEGORIES.map(cat => ({
 ---
 
 <BaseLayout lang={lang}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: t(lang, 'site.name') + ' — ' + t(lang, 'site.tagline'),
+    description: t(lang, 'site.description'),
+    url: `${SITE.url}/${lang}/`,
+    inLanguage: lang === 'zh' ? 'zh-TW' : 'en',
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: langArticles.slice(0, 20).map((a, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `${SITE.url}/${lang}/${a.data.category}/${a.id}/`,
+        name: a.data.title,
+      })),
+    },
+  })} />
+
   {trending.length > 0 && <TrendingBar items={trending} lang={lang} />}
 
   <div class="container py-6">
@@ -103,7 +122,7 @@ const byCategory = CATEGORIES.map(cat => ({
 
         <div class="mt-6 p-4 bg-[var(--color-surface)] rounded-xl text-center">
           <p class="text-sm text-[var(--color-text-muted)] mb-2">{t(lang, 'home.stay_updated')}</p>
-          <a href="/rss.xml" class="inline-flex items-center gap-2 px-4 py-2 bg-[var(--color-accent)] text-white rounded-lg text-sm font-medium hover:opacity-90 transition-opacity">
+          <a href={lang === 'zh' ? '/zh/rss.xml' : '/rss.xml'} class="inline-flex items-center gap-2 px-4 py-2 bg-[var(--color-accent)] text-white rounded-lg text-sm font-medium hover:opacity-90 transition-opacity">
             <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
               <path d="M6.503 20.752c0 1.794-1.456 3.248-3.251 3.248-1.796 0-3.252-1.454-3.252-3.248 0-1.794 1.456-3.248 3.252-3.248 1.795.001 3.251 1.454 3.251 3.248zm-6.503-12.572v4.811c6.05.062 10.96 4.966 11.022 11.009h4.817c-.062-8.71-7.118-15.758-15.839-15.82zm0-8.18v4.819c12.951.115 23.405 10.601 23.5 23.581h4.5c-.094-15.673-12.808-28.354-28-28.4z"/>
             </svg>

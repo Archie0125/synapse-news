@@ -1,6 +1,6 @@
 ---
 import { SITE } from '../data/site';
-import { t, type Lang } from '../lib/i18n';
+import { t, type Lang, getAlternateUrl } from '../lib/i18n';
 
 interface Props {
   title?: string;
@@ -10,6 +10,7 @@ interface Props {
   publishedAt?: Date;
   lang?: Lang;
   category?: string;
+  tags?: string[];
 }
 
 const {
@@ -20,6 +21,7 @@ const {
   publishedAt,
   lang = 'en',
   category,
+  tags = [],
 } = Astro.props;
 
 const siteDescription = t(lang, 'site.description');
@@ -31,17 +33,19 @@ const pageTitle = title
 const canonicalURL = new URL(Astro.url.pathname, SITE.url);
 const ogImageURL = new URL(ogImage, SITE.url);
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
-const alternateLang = lang === 'zh' ? 'en' : 'zh';
-const alternatePath = Astro.url.pathname.replace(`/${lang}/`, `/${alternateLang}/`);
+const alternateLang: 'en' | 'zh' = lang === 'zh' ? 'en' : 'zh';
+const alternatePath = getAlternateUrl(Astro.url.pathname, lang, alternateLang);
 const alternateURL = new URL(alternatePath, SITE.url);
+const xDefaultURL = lang === 'en' ? canonicalURL : new URL(getAlternateUrl(Astro.url.pathname, lang, 'en'), SITE.url);
 ---
 
 <title>{pageTitle}</title>
 <meta name="description" content={desc} />
 <link rel="canonical" href={canonicalURL} />
-<link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
+<link rel="alternate" type="application/rss+xml" title={SITE.name} href={lang === 'zh' ? '/zh/rss.xml' : '/rss.xml'} />
 <link rel="alternate" hreflang={htmlLang} href={canonicalURL} />
 <link rel="alternate" hreflang={alternateLang === 'zh' ? 'zh-TW' : 'en'} href={alternateURL} />
+<link rel="alternate" hreflang="x-default" href={xDefaultURL} />
 
 <!-- Open Graph -->
 <meta property="og:type" content={article ? 'article' : 'website'} />
@@ -63,6 +67,8 @@ const alternateURL = new URL(alternatePath, SITE.url);
   <>
     <meta property="article:published_time" content={publishedAt.toISOString()} />
     <meta property="article:author" content={SITE.author} />
+    {category && <meta property="article:section" content={category} />}
+    {tags.map(tag => <meta property="article:tag" content={tag} />)}
   </>
 )}
 
@@ -75,6 +81,7 @@ const alternateURL = new URL(alternatePath, SITE.url);
       headline: title,
       description: desc,
       datePublished: publishedAt?.toISOString(),
+      dateModified: publishedAt?.toISOString(),
       inLanguage: htmlLang,
       author: { '@type': 'Organization', name: SITE.author },
       publisher: {

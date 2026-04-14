@@ -13,6 +13,7 @@ interface Props {
   publishedAt?: Date;
   lang?: Lang;
   category?: string;
+  tags?: string[];
 }
 
 const {
@@ -23,6 +24,7 @@ const {
   publishedAt,
   lang = 'en',
   category,
+  tags = [],
 } = Astro.props;
 
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
@@ -45,6 +47,7 @@ const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
     publishedAt={publishedAt}
     lang={lang}
     category={category}
+    tags={tags}
   />
   <script is:inline>
     const theme = localStorage.getItem('theme') ||

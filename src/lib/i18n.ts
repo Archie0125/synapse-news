@@ -159,3 +159,11 @@ export function getReadingTimeLocalized(content: string, lang: Lang): string {
   const minutes = Math.max(1, Math.round(words / 230));
   return `${minutes} ${t(lang, 'article.min_read')}`;
 }
+
+export function getAlternateUrl(currentPath: string, fromLang: Lang, toLang: Lang): string {
+  if (currentPath === '/' || currentPath === '') return `/${toLang}/`;
+  let alt = currentPath.replace(`/${fromLang}/`, `/${toLang}/`);
+  // Swap slug language suffix (-en/-zh) at end of path
+  alt = alt.replace(new RegExp(`-${fromLang}(\/?)$`), `-${toLang}$1`);
+  return alt || `/${toLang}/`;
+}

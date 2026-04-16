@@ -18,6 +18,12 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     type: z.enum(['news', 'analysis']).default('news'),
     lang: z.enum(['en', 'zh']).default('en'),
+    // Optional — pipeline doesn't emit these yet; present articles still validate
+    modifiedAt: z.coerce.date().optional(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).default([]),
   }),
 });
 

@@ -2,8 +2,18 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import SEOHead from '../components/SEOHead.astro';
+import OrganizationSchema from '../components/OrganizationSchema.astro';
 import '../styles/global.css';
 import type { Lang } from '../lib/i18n';
+
+interface Source {
+  name: string;
+  url: string;
+}
+interface FAQ {
+  question: string;
+  answer: string;
+}
 
 interface Props {
   title?: string;
@@ -11,9 +21,13 @@ interface Props {
   ogImage?: string;
   article?: boolean;
   publishedAt?: Date;
+  modifiedAt?: Date;
   lang?: Lang;
   category?: string;
   tags?: string[];
+  sources?: Source[];
+  faqs?: FAQ[];
+  wordCount?: number;
 }
 
 const {
@@ -22,9 +36,13 @@ const {
   ogImage,
   article = false,
   publishedAt,
+  modifiedAt,
   lang = 'en',
   category,
   tags = [],
+  sources = [],
+  faqs = [],
+  wordCount,
 } = Astro.props;
 
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
@@ -50,10 +68,15 @@ const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
     ogImage={ogImage}
     article={article}
     publishedAt={publishedAt}
+    modifiedAt={modifiedAt}
     lang={lang}
     category={category}
     tags={tags}
+    sources={sources}
+    faqs={faqs}
+    wordCount={wordCount}
   />
+  <OrganizationSchema />
   <script is:inline>
     const theme = localStorage.getItem('theme') ||
       (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');

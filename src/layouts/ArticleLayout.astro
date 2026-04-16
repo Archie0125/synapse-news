@@ -8,11 +8,17 @@ import ShareButtons from '../components/ShareButtons.astro';
 import ViewCounter from '../components/ViewCounter.astro';
 import { getReadingTimeLocalized, t, type Lang } from '../lib/i18n';
 
+interface FAQ {
+  question: string;
+  answer: string;
+}
+
 interface Props {
   title: string;
   summary: string;
   category: string;
   publishedAt: Date;
+  modifiedAt?: Date;
   sources: Array<{ name: string; url: string }>;
   tags: string[];
   content: string;
@@ -20,6 +26,7 @@ interface Props {
   type?: string;
   lang?: Lang;
   slug?: string;
+  faqs?: FAQ[];
 }
 
 const {
@@ -27,6 +34,7 @@ const {
   summary,
   category,
   publishedAt,
+  modifiedAt,
   sources,
   tags,
   content,
@@ -34,9 +42,14 @@ const {
   type = 'news',
   lang = 'en',
   slug = '',
+  faqs = [],
 } = Astro.props;
 
 const readingTime = getReadingTimeLocalized(content, lang);
+// Approximate word count from markdown body (strip markdown tokens cheaply)
+const wordCount = content
+  ? content.replace(/[#*_`~>\-\[\]\(\)!]/g, ' ').trim().split(/\s+/).filter(Boolean).length
+  : undefined;
 ---
 
 <BaseLayout
@@ -44,9 +57,13 @@ const readingTime = getReadingTimeLocalized(content, lang);
   description={summary}
   article={true}
   publishedAt={publishedAt}
+  modifiedAt={modifiedAt}
   lang={lang}
   category={category}
   tags={tags}
+  sources={sources}
+  faqs={faqs}
+  wordCount={wordCount}
 >
   <div id="reading-progress" class="reading-progress"></div>
   <script is:inline>
@@ -73,7 +90,7 @@ const readingTime = getReadingTimeLocalized(content, lang);
         {title}
       </h1>
 
-      <p class="text-lg text-[var(--color-text-muted)] mb-4">
+      <p class="article-summary text-lg text-[var(--color-text-muted)] mb-4">
         {summary}
       </p>
 
@@ -101,6 +118,22 @@ const readingTime = getReadingTimeLocalized(content, lang);
           </span>
         ))}
       </div>
+    )}
+
+    {faqs.length > 0 && (
+      <section class="max-w-[680px] mx-auto mt-10 pt-6 border-t border-[var(--color-border)]" aria-labelledby="faq-heading">
+        <h2 id="faq-heading" class="font-headline text-2xl mb-4">
+          {lang === 'zh' ? '常見問題' : 'Frequently Asked Questions'}
+        </h2>
+        <div class="flex flex-col gap-4">
+          {faqs.map((f) => (
+            <details class="border border-[var(--color-border)] rounded-lg p-4">
+              <summary class="font-semibold cursor-pointer">{f.question}</summary>
+              <div class="mt-2 text-[var(--color-text-muted)]">{f.answer}</div>
+            </details>
+          ))}
+        </div>
+      </section>
     )}
 
     <div class="max-w-[680px] mx-auto mt-8 pt-6 border-t border-[var(--color-border)]">

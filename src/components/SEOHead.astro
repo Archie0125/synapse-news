@@ -2,15 +2,28 @@
 import { SITE } from '../data/site';
 import { t, type Lang, getAlternateUrl } from '../lib/i18n';
 
+interface Source {
+  name: string;
+  url: string;
+}
+interface FAQ {
+  question: string;
+  answer: string;
+}
+
 interface Props {
   title?: string;
   description?: string;
   ogImage?: string;
   article?: boolean;
   publishedAt?: Date;
+  modifiedAt?: Date;
   lang?: Lang;
   category?: string;
   tags?: string[];
+  sources?: Source[];
+  faqs?: FAQ[];
+  wordCount?: number;
 }
 
 const {
@@ -19,9 +32,13 @@ const {
   ogImage = '/og-default.png',
   article = false,
   publishedAt,
+  modifiedAt,
   lang = 'en',
   category,
   tags = [],
+  sources = [],
+  faqs = [],
+  wordCount,
 } = Astro.props;
 
 const siteDescription = t(lang, 'site.description');
@@ -37,6 +54,97 @@ const alternateLang: 'en' | 'zh' = lang === 'zh' ? 'en' : 'zh';
 const alternatePath = getAlternateUrl(Astro.url.pathname, lang, alternateLang);
 const alternateURL = new URL(alternatePath, SITE.url);
 const xDefaultURL = lang === 'en' ? canonicalURL : new URL(getAlternateUrl(Astro.url.pathname, lang, 'en'), SITE.url);
+const logoURL = new URL(SITE.logo, SITE.url).href;
+
+const effectiveModified = modifiedAt ?? publishedAt;
+
+const citation = sources
+  .filter((s) => s.url && s.url.length > 0)
+  .map((s) => ({
+    '@type': 'Article',
+    name: s.name,
+    url: s.url,
+  }));
+
+const newsArticleSchema: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: title,
+  description: desc,
+  datePublished: publishedAt?.toISOString(),
+  dateModified: effectiveModified?.toISOString(),
+  inLanguage: htmlLang,
+  isAccessibleForFree: true,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL.href },
+  image: {
+    '@type': 'ImageObject',
+    url: ogImageURL.href,
+  },
+  author: {
+    '@type': 'Organization',
+    '@id': `${SITE.url}/#organization`,
+    name: SITE.author,
+    url: SITE.url,
+  },
+  publisher: {
+    '@type': 'NewsMediaOrganization',
+    '@id': `${SITE.url}/#organization`,
+    name: SITE.name,
+    logo: {
+      '@type': 'ImageObject',
+      url: logoURL,
+      width: 512,
+      height: 512,
+    },
+  },
+};
+if (category) newsArticleSchema.articleSection = category;
+if (tags.length > 0) newsArticleSchema.keywords = tags.join(', ');
+if (wordCount) newsArticleSchema.wordCount = wordCount;
+if (citation.length > 0) newsArticleSchema.citation = citation;
+// Speakable: let voice/AI surfaces read headline + summary aloud
+newsArticleSchema.speakable = {
+  '@type': 'SpeakableSpecification',
+  cssSelector: ['h1', '.article-summary'],
+};
+
+const breadcrumbSchema = category
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/${lang}/` },
+        { '@type': 'ListItem', position: 2, name: category, item: `${SITE.url}/${lang}/${category}/` },
+        { '@type': 'ListItem', position: 3, name: title },
+      ],
+    }
+  : null;
+
+const faqSchema = faqs.length > 0
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: f.answer,
+        },
+      })),
+    }
+  : null;
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${SITE.url}/#website`,
+  name: SITE.name,
+  description: siteDescription,
+  url: SITE.url,
+  inLanguage: ['en', 'zh-TW'],
+  publisher: { '@id': `${SITE.url}/#organization` },
+};
 ---
 
 <title>{pageTitle}</title>
@@ -66,6 +174,7 @@ const xDefaultURL = lang === 'en' ? canonicalURL : new URL(getAlternateUrl(Astro
 {article && publishedAt && (
   <>
     <meta property="article:published_time" content={publishedAt.toISOString()} />
+    {effectiveModified && <meta property="article:modified_time" content={effectiveModified.toISOString()} />}
     <meta property="article:author" content={SITE.author} />
     {category && <meta property="article:section" content={category} />}
     {tags.map(tag => <meta property="article:tag" content={tag} />)}
@@ -75,42 +184,14 @@ const xDefaultURL = lang === 'en' ? canonicalURL : new URL(getAlternateUrl(Astro
 <!-- JSON-LD -->
 {article ? (
   <>
-    <script type="application/ld+json" set:html={JSON.stringify({
-      '@context': 'https://schema.org',
-      '@type': 'NewsArticle',
-      headline: title,
-      description: desc,
-      datePublished: publishedAt?.toISOString(),
-      dateModified: publishedAt?.toISOString(),
-      inLanguage: htmlLang,
-      author: { '@type': 'Organization', name: SITE.author },
-      publisher: {
-        '@type': 'Organization',
-        name: SITE.name,
-        logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', SITE.url).href },
-      },
-      mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL.href },
-      image: ogImageURL.href,
-    })} />
-    {category && (
-      <script type="application/ld+json" set:html={JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/${lang}/` },
-          { '@type': 'ListItem', position: 2, name: category, item: `${SITE.url}/${lang}/${category}/` },
-          { '@type': 'ListItem', position: 3, name: title },
-        ],
-      })} />
+    <script type="application/ld+json" set:html={JSON.stringify(newsArticleSchema)} />
+    {breadcrumbSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    )}
+    {faqSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     )}
   </>
 ) : (
-  <script type="application/ld+json" set:html={JSON.stringify({
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    name: SITE.name,
-    description: siteDescription,
-    url: SITE.url,
-    inLanguage: ['en', 'zh-TW'],
-  })} />
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
 )}

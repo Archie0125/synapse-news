@@ -25,6 +25,7 @@ const { Content } = await render(article);
   summary={article.data.summary}
   category={article.data.category}
   publishedAt={article.data.publishedAt}
+  modifiedAt={article.data.modifiedAt}
   sources={article.data.sources}
   tags={article.data.tags}
   content={article.body ?? ''}
@@ -32,6 +33,7 @@ const { Content } = await render(article);
   type={article.data.type}
   lang={lang}
   slug={article.id}
+  faqs={article.data.faqs}
 >
   <Content />
 </ArticleLayout>

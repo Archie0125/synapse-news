@@ -1,0 +1,25 @@
+---
+import { SITE } from '../data/site';
+
+const socials = Object.values(SITE.social).filter((v) => typeof v === 'string' && v.length > 0);
+
+const organization: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsMediaOrganization',
+  '@id': `${SITE.url}/#organization`,
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  logo: {
+    '@type': 'ImageObject',
+    url: new URL(SITE.logo, SITE.url).href,
+    width: 512,
+    height: 512,
+  },
+  foundingDate: '2026',
+  knowsLanguage: ['en', 'zh-TW'],
+  publishingPrinciples: `${SITE.url}/`,
+};
+if (socials.length > 0) organization.sameAs = socials;
+---
+<script type="application/ld+json" set:html={JSON.stringify(organization)} />

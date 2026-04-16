@@ -2,7 +2,7 @@
 title: "Anthropic Brings Claude Into Microsoft Word With a Native Sidebar That Rewrites Documents and Tracks Every Change"
 summary: "Anthropic has launched Claude for Word in public beta, a native add-in that embeds Claude directly into Microsoft Word as a persistent sidebar for Team and Enterprise customers. The integration supports drafting, editing, and structural revisions with all AI-generated changes surfaced as native tracked changes — and connects to Claude for Excel and PowerPoint so a single conversation can span all three open documents simultaneously."
 category: "products"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:05:00Z
 lang: "en"
 featured: false
 trending: true

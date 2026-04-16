@@ -2,7 +2,7 @@
 title: "OpenAI 七年首度開源：gpt-oss 挑戰 Meta Llama 霸主地位"
 summary: "OpenAI 發布兩款開放權重模型 gpt-oss-20b 與 gpt-oss-120b，採用 Apache 2.0 授權，終結長達七年的開源缺席。這兩款模型針對 AI 代理工作流程最佳化，直接與 Meta Llama 系列在效能與授權彈性上一較高下。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:15:00Z
 lang: "zh"
 featured: true
 trending: true

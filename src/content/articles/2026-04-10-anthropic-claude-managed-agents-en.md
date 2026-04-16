@@ -2,7 +2,7 @@
 title: "Anthropic Launches Claude Managed Agents: A Fully Hosted Platform to Run AI Agents at Scale"
 summary: "Anthropic has launched Claude Managed Agents, a cloud-hosted service that handles all production infrastructure for AI agents—including sandboxed execution, state management, credential handling, permissions, and end-to-end tracing. Priced at $0.08 per runtime hour, the platform is already live with enterprise customers including Notion, Rakuten, and Asana."
 category: "developer-tools"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:05:00Z
 lang: "en"
 featured: false
 trending: true

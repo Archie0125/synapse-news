@@ -2,7 +2,7 @@
 title: "Microsoft Releases Agent Framework 1.0: Production-Ready Multi-Agent SDK for .NET and Python"
 summary: "Microsoft has shipped Agent Framework 1.0, the stable, production-ready release of its open-source multi-agent SDK for .NET and Python. The framework unifies Semantic Kernel's enterprise foundations with AutoGen's orchestration concepts into a single SDK, supports seven first-party model providers including Claude, Gemini, and Ollama, and introduces stable APIs with a long-term support commitment — giving enterprise developers their first mature platform for building production multi-agent AI systems."
 category: "developer-tools"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:10:00Z
 lang: "en"
 featured: false
 trending: true

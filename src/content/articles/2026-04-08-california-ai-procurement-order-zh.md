@@ -2,7 +2,7 @@
 title: "加州成為全美首個強制要求 AI 安全揭露的州，並明言可推翻聯邦採購決定"
 summary: "加州州長 Newsom 簽署第 N-5-26 號行政命令，要求 AI 供應商公開 CSAM 防制、公民權利及反歧視政策，方可取得州政府合約。命令更授權加州獨立推翻聯邦政府的 AI 供應鏈風險認定，與川普政府直接碰撞，為美國 AI 治理的聯邦─州關係帶來深遠影響。"
 category: "policy"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:15:00Z
 lang: "zh"
 featured: false
 trending: true

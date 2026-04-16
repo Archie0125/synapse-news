@@ -2,7 +2,7 @@
 title: "蘋果測試四款智慧眼鏡原型，全力備戰 Meta Ray-Bans"
 summary: "彭博記者 Mark Gurman 獨家披露，蘋果正測試至少四種鏡框設計，預計 2027 年推出搭載自研 N401 晶片與雙鏡頭的 AI 智慧眼鏡。此款無螢幕穿戴裝置直接瞄準 Meta Ray-Ban 市場，同步傳出 AI 主管 John Giannandrea 宣告退休，由前微軟高管接任。"
 category: "hardware"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:05:00Z
 lang: "zh"
 featured: false
 trending: true

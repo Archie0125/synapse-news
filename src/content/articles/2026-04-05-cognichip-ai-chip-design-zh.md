@@ -2,7 +2,7 @@
 title: "Cognichip 獲 6,000 萬美元融資，以 AI 設計下一代晶片，Intel 執行長親自入董事會"
 summary: "舊金山新創 Cognichip 利用物理資訊 AI 模型大幅壓縮晶片設計成本與週期，完成由 Seligman Ventures 領投的 6,000 萬美元 A 輪融資。公司宣稱可實現 75% 成本降低與 50% 週期縮短。Intel 執行長 Lip-Bu Tan 加入董事會，為這家旨在顛覆 EDA 工作流程的新創公司送出了業界最重量級的背書。"
 category: "startups"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

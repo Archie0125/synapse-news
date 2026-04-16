@@ -2,7 +2,7 @@
 title: "2026 AI 新創融資潮：這個泡沫怎麼還不破？"
 summary: "VC 的錢像瀑布一樣砸進 AI 新創，但 90% 的公司數學根本算不過來。清算會來的，只是時機跟你想的不一樣。"
 category: "startups"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:05:00Z
 lang: "zh"
 featured: false
 trending: true

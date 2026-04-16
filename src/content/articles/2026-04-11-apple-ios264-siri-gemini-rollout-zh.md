@@ -2,7 +2,7 @@
 title: "Gemini驅動的全新Siri登陸iOS 26.4——但完整升級還要再等幾個月"
 summary: "iOS 26.4已開始向全球裝置推送，帶來Apple與Google每年10億美元合作的首階段成果：螢幕感知、情境理解與電子郵件摘要。然而，Apple在今年1月合作公告時承諾的革命性對話AI，已被拆分至多個系統更新分批交付——完整的第二階段能力被推遲至5月的iOS 26.5與9月的iOS 27。這令早期採用者感到挫折，也讓外界對Apple在AI執行力上的疑慮再度浮現。"
 category: "products"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:00:00Z
 lang: "zh"
 featured: false
 trending: false

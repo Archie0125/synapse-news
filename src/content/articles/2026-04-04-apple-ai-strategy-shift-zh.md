@@ -2,7 +2,7 @@
 title: "Apple 的 AI 靜默革命：為什麼庫比蒂諾押注一切在端側智慧上"
 summary: "Apple 正在進行十年來最大的策略轉向，從依賴雲端的 AI 轉向完全端側智慧架構。這不只是隱私策略，而是一場豪賭：AI 的未來屬於個人，不屬於中心化伺服器。"
 category: "industry"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:15:00Z
 lang: "zh"
 featured: true
 trending: true

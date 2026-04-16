@@ -2,7 +2,7 @@
 title: "量子運算新里程：IonQ 首度以光子網路連結兩台量子電腦，同日贏得 DARPA 合約"
 summary: "IonQ 於 4 月 14 日宣布，成功實現全球首次以光子互連技術連結兩套獨立商用俘獲離子量子系統，在兩台分處不同地點的量子電腦間建立量子糾纏。同日，公司獲選參與 DARPA HARQ 計畫，負責建構多量子位元異質量子網路，消息帶動股價飆漲近 20%。"
 category: "hardware"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "AI 版權上法庭：將定義下個十年科技發展的判決"
 summary: "三個里程碑案件正在美國法院審理中。結果將決定 AI 公司是否欠下數十億授權費，還是用公開資料訓練仍屬合理使用。"
 category: "policy"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:00:00Z
 lang: "zh"
 featured: false
 trending: false

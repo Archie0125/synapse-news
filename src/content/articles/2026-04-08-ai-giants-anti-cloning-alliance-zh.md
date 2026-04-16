@@ -2,7 +2,7 @@
 title: "OpenAI、Google、Anthropic 聯手對抗中國 AI 模型複製攻擊"
 summary: "三大 AI 巨頭透過 Frontier Model Forum 共享機密威脅情報，共同防禦「對抗性蒸餾」攻擊——中國競爭對手透過數萬個假帳號，從美國頂尖 AI 模型中大規模擷取訓練資料。這場史無前例的競爭對手合作，標誌著美國 AI 產業在國家安全壓力下的重大轉折。"
 category: "ai-ml"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:05:00Z
 lang: "zh"
 featured: true
 trending: true

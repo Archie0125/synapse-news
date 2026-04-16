@@ -2,7 +2,7 @@
 title: "ChatGPT Opens Self-Serve Ads to All Marketers After Hitting $100M Annualized Revenue"
 summary: "OpenAI launched self-serve access to ChatGPT's advertising platform in April 2026, lowering the minimum spend threshold from $250,000 to $50,000 and opening the channel to a far broader range of advertisers. The move follows the ad pilot crossing $100 million in annualized revenue within just six weeks of its February launch, as OpenAI eyes $2.5 billion in ad revenue for 2026 and a $100 billion target by 2030."
 category: "industry"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:10:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Trump Executive Order Activates DOJ Task Force to Override State AI Laws"
 summary: "The DOJ's AI Litigation Task Force, operational since January 10, is now actively challenging state AI statutes that conflict with the Trump administration's December 2025 executive order preempting local regulation. With over 20 states having enacted comprehensive AI laws, the outcome of this federal-state standoff will define who governs AI in America for the next decade."
 category: "policy"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:35:00Z
 lang: "en"
 featured: false
 trending: true

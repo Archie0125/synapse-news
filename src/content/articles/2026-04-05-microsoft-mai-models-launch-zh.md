@@ -2,7 +2,7 @@
 title: "微軟發布三款自研 AI 模型，宣告戰略去 OpenAI 依賴"
 summary: "微軟 MAI 超級智慧團隊於 4 月 2 日發布 MAI-Transcribe-1、MAI-Voice-1 及 MAI-Image-2，正式在語音辨識、語音合成與圖像生成領域向 OpenAI 和 Google 發起挑戰。這場由 Mustafa Suleyman 主導的技術獨立宣言，標誌微軟 AI 策略的根本性轉變。"
 category: "developer-tools"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:50:00Z
 lang: "zh"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "Vision Pro Year Two: Apple's $3,500 Bet Is Quietly Starting to Pay Off"
 summary: "Everyone wrote off Vision Pro after the hype died. But enterprise adoption is growing, developer tools are maturing, and Apple just slashed the price. The spatial computing story isn't over."
 category: "products"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:35:00Z
 lang: "en"
 featured: false
 trending: false

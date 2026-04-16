@@ -2,7 +2,7 @@
 title: "1,340 億美元的 AI 世紀大審：馬斯克控告 OpenAI 案將於 4 月 27 日開庭"
 summary: "馬斯克控告 OpenAI 案的陪審員遴選將於 4 月 27 日在加州奧克蘭聯邦法院展開。馬斯克求償最高達 1,340 億美元，並要求撤換執行長 Sam Altman；OpenAI 則斥之為開庭前夕的「法律突襲」，指控馬斯克在最後關頭大幅擴張訴求，意圖癱瘓公司防禦準備。"
 category: "policy"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:25:00Z
 lang: "zh"
 featured: true
 trending: true

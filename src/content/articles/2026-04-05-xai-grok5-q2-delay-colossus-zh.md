@@ -2,7 +2,7 @@
 title: "Grok 5 錯過第一季發布，xAI 將 Colossus 2 超算擴容至 1.5 GW"
 summary: "xAI 傳聞中擁有 6 兆參數混合專家架構的 Grok 5 未能在 2026 年第一季如期發布，目標改為第二季。馬斯克確認，位於田納西州孟菲斯的 Colossus 2 超算正從 1 GW 擴充至 1.5 GW，為日後的模型微調與大規模推理提供算力支撐。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:40:00Z
 lang: "zh"
 featured: false
 trending: true

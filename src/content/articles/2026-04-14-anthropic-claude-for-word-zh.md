@@ -2,7 +2,7 @@
 title: "Anthropic 完成 Office 三連勝：Claude for Word 測試版上線，鎖定律師與知識工作者"
 summary: "Anthropic 推出 Claude for Word 原生微軟 Office 增益集，正式完成在 Word、Excel、PowerPoint 三大應用程式的全面佈局。這個於 4 月 10 日開放測試的新工具，以法律合約審查為主要使用情境，支援追蹤修訂與跨應用程式共享上下文，直接挑戰微軟自家的 Copilot 生態系。"
 category: "developer-tools"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:00:00Z
 lang: "zh"
 featured: false
 trending: true

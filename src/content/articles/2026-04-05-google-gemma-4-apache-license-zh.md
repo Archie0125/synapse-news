@@ -2,7 +2,7 @@
 title: "Google 發布 Gemma 4，首度採用 Apache 2.0 授權，企業部署障礙一舉清除"
 summary: "Google 推出 Gemma 4 系列模型，參數量從 20 億到 310 億，基於 Gemini 3 同等研究成果打造。這是 Gemma 系列首次採用 Apache 2.0 授權，一口氣消除了過去阻擋企業大規模部署的所有授權限制。憑藉歷代累計超過 4 億次下載，這次授權轉變是 Google 爭奪開放權重模型主導地位最清晰的宣示。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Big Tech Puts Its Money Behind Nuclear: How AI's Power Hunger Is Reviving an Industry"
 summary: "Microsoft, Meta, Amazon, and Google have collectively committed to sourcing tens of gigawatts of nuclear power for their AI data centers, transforming hyperscalers from energy consumers into financiers of next-generation reactors. The deals — spanning restarted plants, life extensions, and small modular reactors from TerraPower, Oklo, and Kairos Power — signal that AI's electricity demand has permanently reshaped the energy investment landscape."
 category: "industry"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:15:00Z
 lang: "en"
 featured: true
 trending: true

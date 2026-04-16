@@ -2,7 +2,7 @@
 title: "Big Tech's Great Swap: Laying Off Humans, Hiring AI Engineers at 3x the Salary"
 summary: "Tech companies cut 180,000 jobs in the past year while simultaneously posting record numbers of AI-related positions at eye-watering compensation. The workforce transformation is happening in real time."
 category: "industry"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:20:00Z
 lang: "en"
 featured: false
 trending: false

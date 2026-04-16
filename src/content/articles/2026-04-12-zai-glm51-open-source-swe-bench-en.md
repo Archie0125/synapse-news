@@ -2,7 +2,7 @@
 title: "Z.ai's GLM-5.1 Becomes First Open-Source Model to Top SWE-Bench Pro — Trained on Huawei Chips"
 summary: "Chinese AI lab Z.ai released GLM-5.1, a 754-billion-parameter open-weight model under the MIT license that scored 58.4% on SWE-Bench Pro — surpassing GPT-5.4 and Claude Opus 4.6 on real-world code repair. The model can operate autonomously for up to eight hours and was trained entirely on Huawei Ascend 910B hardware, with no Nvidia involvement."
 category: "ai-ml"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:35:00Z
 lang: "en"
 featured: false
 trending: true

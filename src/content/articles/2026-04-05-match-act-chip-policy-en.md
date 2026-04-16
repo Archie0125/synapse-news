@@ -2,7 +2,7 @@
 title: "The MATCH Act: US Congress Moves to Force Allies to Cut Off Chip Tool Exports to China"
 summary: "Bipartisan legislation introduced April 2 would require US allies — including the Netherlands and Japan — to restrict deep ultraviolet lithography equipment exports to China, and threatens extraterritorial US jurisdiction if they don't comply. The bill specifically targets ASML and Tokyo Electron equipment still flowing to Huawei and SMIC."
 category: "policy"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:45:00Z
 lang: "en"
 featured: false
 trending: true

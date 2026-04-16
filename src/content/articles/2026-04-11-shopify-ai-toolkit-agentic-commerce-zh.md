@@ -2,7 +2,7 @@
 title: "Shopify AI 工具包正式開放：讓 Claude Code、Cursor 直接操作你的商店"
 summary: "Shopify 於 4 月 9 日發布了開源 AI 工具包，讓 Claude Code、Cursor、Gemini CLI 等 AI 編程工具可直接連接 Shopify 平台，存取即時 API 文件、驗證程式碼，並透過自然語言執行真實的商店操作。工具包內含 16 個技能模組，涵蓋商品、訂單、主題、折扣等所有主要功能面向。"
 category: "developer-tools"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:25:00Z
 lang: "zh"
 featured: true
 trending: false

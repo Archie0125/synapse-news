@@ -2,7 +2,7 @@
 title: "Apple 免費企業平台 4 月 14 日上線：直攻 Microsoft 365 與 Google Workspace"
 summary: "Apple 將於 4 月 14 日在 200 多個國家推出「Apple Business」——一個完全免費的統一平台，整合裝置管理、自訂網域企業郵件、行事曆與公司通訊錄。這是 Apple 有史以來對企業軟體市場最積極的一次出擊。"
 category: "products"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:10:00Z
 lang: "zh"
 featured: false
 trending: true

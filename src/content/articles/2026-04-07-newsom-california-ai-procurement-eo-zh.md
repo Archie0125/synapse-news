@@ -2,7 +2,7 @@
 title: "加州對抗華盛頓：紐森簽署全美首創AI採購行政命令，宣示自行評估AI風險"
 summary: "加州州長紐森（Gavin Newsom）簽署行政命令N-5-26，建立全美首套州政府AI採購標準，並明確指示州政府機構自行評估AI供應鏈風險、不再依賴聯邦認定。這道命令既是治理工具，也是一份政治宣言——加州正在與川普政府展開一場誰來主導美國AI監管的決定性對抗。"
 category: "policy"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

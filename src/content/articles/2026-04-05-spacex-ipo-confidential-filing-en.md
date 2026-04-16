@@ -2,7 +2,7 @@
 title: "SpaceX Files Confidentially for IPO at $1.75 Trillion Valuation — The Biggest Offering in History"
 summary: "SpaceX submitted a confidential draft S-1 registration to the SEC on April 1, targeting a June 2026 public listing at a $1.75 trillion valuation and a $75 billion capital raise — more than three times the largest US IPO on record. The offering would come as SpaceX's xAI merger adds AI infrastructure to its launch and satellite business, setting up the first mega-IPO in a year expected to include OpenAI and Anthropic."
 category: "industry"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:30:00Z
 lang: "en"
 featured: false
 trending: true

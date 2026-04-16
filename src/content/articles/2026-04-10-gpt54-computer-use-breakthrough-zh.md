@@ -2,7 +2,7 @@
 title: "OpenAI GPT-5.4電腦操控能力超越人類基準，重新定義AI代理的邊界"
 summary: "OpenAI於3月5日發布的GPT-5.4，是首款在電腦使用基準測試中超越人類表現的通用AI模型，在OSWorld-Verified上達到75%成功率，超過人類基準的72.4%。搭配百萬token上下文視窗與原生滑鼠、鍵盤、截圖互動支援，GPT-5.4標誌著自主AI代理在企業與開發者工作流程中的歷史轉折點。"
 category: "ai-ml"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:15:00Z
 lang: "zh"
 featured: false
 trending: true

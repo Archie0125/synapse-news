@@ -2,7 +2,7 @@
 title: "NVIDIA發布Cosmos Reason 2與GR00T N1.6，全力加速實體AI機器人發展"
 summary: "2026年全國機器人週期間，NVIDIA發布Cosmos Reason 2——一個在物理世界推理排行榜上名列前茅的視覺語言模型——以及GR00T N1.6，一個用於仿人機器人全身控制的開源VLA模型。搭配Isaac Lab-Arena評估框架與OSMO算力架構，NVIDIA正積極打造下一代機器人領域的平台層，吸引從Franka到NEURA Robotics的全球合作夥伴紛紛加入。"
 category: "ai-ml"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:25:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Meta 與 Broadcom 簽下超大規模客製晶片協議：承諾部署逾 1 吉瓦算力"
 summary: "Meta Platforms 於 4 月 14 日宣布大幅擴大與 Broadcom 的合作，承諾基於 Broadcom XPU 平台，跨多代 MTIA 晶片部署逾 1 吉瓦的客製 AI 加速器，合約期延伸至 2029 年。這項多年期協議清楚表明 Meta 減少對 Nvidia 依賴的決心，也是當前 AI 基礎設施軍備競賽中最具指標意義的一步。"
 category: "hardware"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

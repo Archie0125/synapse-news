@@ -2,7 +2,7 @@
 title: "The $134 Billion AI Trial: OpenAI vs. Elon Musk Heads to Court on April 27"
 summary: "Jury selection in Elon Musk's lawsuit against OpenAI begins April 27 in Oakland, California. Musk is seeking up to $134 billion in alleged wrongful gains and demanding the removal of CEO Sam Altman, while OpenAI accuses him of a last-minute 'legal ambush' that dramatically expanded the case's scope just weeks before trial."
 category: "policy"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:25:00Z
 lang: "en"
 featured: true
 trending: true

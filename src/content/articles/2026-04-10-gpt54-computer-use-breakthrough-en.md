@@ -2,7 +2,7 @@
 title: "OpenAI's GPT-5.4 Surpasses Human Performance at Computer Control, Reshaping What AI Agents Can Do"
 summary: "OpenAI's GPT-5.4, released March 5, is the first general-purpose AI model to surpass human baseline performance on computer-use benchmarks, achieving a 75% success rate on OSWorld-Verified versus the 72.4% human baseline. With a 1-million-token context window and native support for mouse, keyboard, and screenshot interactions, GPT-5.4 marks a turning point for autonomous AI agents in enterprise and developer workflows."
 category: "ai-ml"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:15:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Anthropic Withholds Claude Mythos: The AI That Can Hack Almost Everything"
 summary: "Anthropic has released its most powerful model yet, Claude Mythos Preview, only to a select group of 12 defensive security partners after discovering it can autonomously identify and exploit zero-day vulnerabilities across every major operating system and browser. The decision marks the first time in nearly seven years that a leading AI lab has publicly withheld a model over safety concerns."
 category: "ai-ml"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:10:00Z
 lang: "en"
 featured: true
 trending: true

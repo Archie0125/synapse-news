@@ -2,7 +2,7 @@
 title: "OpenAI 超級應用野心：ChatGPT、Codex 與瀏覽器合而為一，重新定義人機介面"
 summary: "OpenAI 正在打造一款桌面超級應用，將 ChatGPT、程式助理 Codex 與全新的 Atlas 瀏覽器整合進單一的「Agent 優先」體驗——直接挑戰作業系統、生產力套件，乃至軟體本身的傳統概念。這一舉措揭示了 OpenAI 的雄心：成為人類與電腦之間最主要的介面。"
 category: "products"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:35:00Z
 lang: "zh"
 featured: false
 trending: false

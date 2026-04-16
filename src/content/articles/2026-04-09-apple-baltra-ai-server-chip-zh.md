@@ -2,7 +2,7 @@
 title: "蘋果秘密 AI 伺服器晶片升級玻璃基板，三星供應樣品"
 summary: "蘋果代號「Baltra」的首款自研 AI 伺服器晶片開發加速，三星電機已開始提供實驗性玻璃基板樣品作為封裝材料。此舉讓蘋果成為最後一家打造自有 AI 矽晶片的超大規模雲端業者，而玻璃基板技術代表晶片封裝的世代性躍進，可能在 2027-2028 年間重塑 AI 硬體經濟格局。"
 category: "hardware"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:05:00Z
 lang: "zh"
 featured: false
 trending: false

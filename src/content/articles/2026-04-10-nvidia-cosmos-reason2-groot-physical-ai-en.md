@@ -2,7 +2,7 @@
 title: "NVIDIA Releases Cosmos Reason 2 and GR00T N1.6 to Accelerate Physical AI Robotics"
 summary: "During National Robotics Week 2026, NVIDIA released Cosmos Reason 2 — a leaderboard-topping reasoning vision-language model for physical AI — alongside GR00T N1.6, an open VLA model for full-body humanoid control. With Isaac Lab-Arena for evaluation and the OSMO compute framework, NVIDIA is positioning itself as the Android-like platform layer for next-generation robotics, drawing in global partners from Franka to NEURA Robotics."
 category: "ai-ml"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:25:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Agentic AI Foundation：科技業最強勁的對手，為何聯手打造 AI Agent 開放標準？"
 summary: "Linux Foundation 旗下的 Agentic AI Foundation（AAIF）悄悄成為 AI 史上最重要的治理行動之一——OpenAI、Anthropic、Google、微軟、AWS 和 Block 共同加入，攜手為 AI Agent 建立開放標準。MCP 月下載量突破 9,700 萬次、AGENTS.md 被 6 萬個以上開源專案採用，AAIF 正將競爭對手轉變為基礎設施合作夥伴。"
 category: "developer-tools"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:00:00Z
 lang: "zh"
 featured: false
 trending: false

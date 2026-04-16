@@ -2,7 +2,7 @@
 title: "Meta 推出 Muse Spark：從開源轉向專有，豪賭超級智能"
 summary: "Meta 發布 Muse Spark，這是由 Alexandr Wang 領導的 Meta 超級智能實驗室打造的第一個模型，代表 Meta 從開源 Llama 策略的最大轉向——改走專有封閉路線。此舉清楚表明 Zuckerberg 在競爭敗退數月後，決心縮短與 OpenAI、Google 的差距。"
 category: "ai-ml"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

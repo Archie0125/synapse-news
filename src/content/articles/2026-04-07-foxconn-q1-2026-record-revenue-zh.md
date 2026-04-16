@@ -2,7 +2,7 @@
 title: "鴻海Q1營收創歷史新高，AI伺服器需求爆發帶動年增29.7%"
 summary: "鴻海2026年第一季營收達新台幣2.13兆元，創下公司成立52年來最高單季紀錄，其中3月單月年增率高達45.6%。亮眼數字背後，AI伺服器訂單暴增才是真正的推手，也讓鴻海從代工廠搖身一變成為全球AI基礎建設最關鍵的供應鏈核心。"
 category: "industry"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:15:00Z
 lang: "zh"
 featured: false
 trending: true

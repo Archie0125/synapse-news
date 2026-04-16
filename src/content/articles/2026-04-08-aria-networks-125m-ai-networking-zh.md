@@ -2,7 +2,7 @@
 title: "Aria Networks 獲 1.25 億美元融資，打造專為 AI 設計的資料中心網路基礎設施"
 summary: "帕羅奧圖新創公司 Aria Networks 宣布完成 1.25 億美元首輪融資，由 Snowflake 背後的 Sutter Hill Ventures 領投，目標是打造跨廠商、專為 AI 工作負載設計的資料中心網路基礎設施。此輪融資宣布之際，超大規模雲端業者 2026 年 AI 基礎設施投入已逾 4,700 億美元，而網路層正成為 AI 技術棧中最關鍵、也最未被充分建設的一環。"
 category: "startups"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:10:00Z
 lang: "zh"
 featured: false
 trending: false

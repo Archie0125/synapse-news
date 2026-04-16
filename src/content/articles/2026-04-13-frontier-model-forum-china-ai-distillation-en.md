@@ -2,7 +2,7 @@
 title: "Silicon Valley Unites Against Chinese AI Theft: The Frontier Model Forum Goes to War"
 summary: "OpenAI, Anthropic, and Google have activated the Frontier Model Forum as a live threat-intelligence operation, pooling defenses against an industrial-scale adversarial distillation campaign traced to DeepSeek, Moonshot AI, and MiniMax. Anthropic alone documented 16 million unauthorized extractions via 24,000 fake accounts and has banned all Chinese-controlled companies from Claude."
 category: "policy"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:00:00Z
 lang: "en"
 featured: true
 trending: true

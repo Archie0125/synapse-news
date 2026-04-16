@@ -2,7 +2,7 @@
 title: "Anthropic 將 Claude 帶進 Microsoft Word：原生側邊欄改寫文件、所有修改皆以追蹤變更呈現"
 summary: "Anthropic 宣布 Claude for Word 進入公開測試，這款原生 Office 外掛程式將 Claude 以永久側邊欄形式直接嵌入 Word，適用於 Team 和 Enterprise 計畫用戶。整合支援起草、編輯與結構調整，所有 AI 生成的修改均以 Word 原生追蹤變更格式呈現，並可同時連接 Claude for Excel 與 Claude for PowerPoint，讓單次對話涵蓋三個同時開啟的文件。"
 category: "products"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:05:00Z
 lang: "zh"
 featured: false
 trending: false

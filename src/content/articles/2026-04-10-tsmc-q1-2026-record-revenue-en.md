@@ -2,7 +2,7 @@
 title: "TSMC Posts Record $35.6 Billion Q1 Revenue as AI Chip Demand Smashes Expectations"
 summary: "Taiwan Semiconductor Manufacturing Company reported first-quarter 2026 revenue of $35.6 billion, a 35% year-on-year surge that beat analyst consensus, driven by insatiable demand for AI accelerators and the company's monopoly on advanced packaging technology. TSMC shares crossed 2,000 New Taiwan dollars for the first time, and the full earnings call is set for April 16."
 category: "hardware"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:35:00Z
 lang: "en"
 featured: true
 trending: true

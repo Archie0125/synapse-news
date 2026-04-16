@@ -2,7 +2,7 @@
 title: "Rockstar Games 遭駭：ShinyHunters 透過第三方 SaaS 入侵，4 月 14 日勒索截止"
 summary: "駭客組織 ShinyHunters 聲稱透過雲端成本監控 SaaS 供應商 Anodot，入侵 Rockstar Games 的 Snowflake 資料庫環境，竊取內部財務記錄、行銷計畫等資料。4 月 14 日為勒索截止日，Rockstar 確認遭駭但淡化影響，強調 GTA VI 仍將如期於 2026 年 11 月上市。"
 category: "industry"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:30:00Z
 lang: "zh"
 featured: false
 trending: false

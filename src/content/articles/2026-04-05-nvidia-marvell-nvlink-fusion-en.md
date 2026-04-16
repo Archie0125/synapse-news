@@ -2,7 +2,7 @@
 title: "Nvidia's $2 Billion Marvell Bet: NVLink Fusion Is the New Moat"
 summary: "Nvidia took a $2B stake in Marvell and launched NVLink Fusion, letting third-party AI accelerators plug into Nvidia's interconnect fabric. The deal signals a pivot: long-term dominance may rest on owning the networking layer, not GPU monopoly."
 category: "hardware"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:05:00Z
 lang: "en"
 featured: false
 trending: true

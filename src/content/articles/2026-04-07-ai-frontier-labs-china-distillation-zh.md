@@ -2,7 +2,7 @@
 title: "OpenAI、Anthropic、Google聯合出擊，阻斷中國AI模型「蒸餾抄襲」"
 summary: "全球三大AI巨頭透過前沿模型論壇正式共享情報，協力封堵「對抗性蒸餾」攻擊——中國AI業者以自動化程式向美國模型發送數百萬筆提示，藉此複製模型能力。Anthropic單獨記錄到1600萬次疑似來自DeepSeek等中企的竊取嘗試，美中AI智慧財產爭端正式升級為政策戰場。"
 category: "policy"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:00:00Z
 lang: "zh"
 featured: true
 trending: true

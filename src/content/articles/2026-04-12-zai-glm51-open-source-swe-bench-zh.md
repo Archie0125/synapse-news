@@ -2,7 +2,7 @@
 title: "Z.ai 的 GLM-5.1 成為首個登頂 SWE-Bench Pro 的開源模型——全程跑在華為晶片上"
 summary: "中國 AI 實驗室 Z.ai 發布 GLM-5.1，這款擁有 7,540 億參數的開源模型在 SWE-Bench Pro 上拿下 58.4% 的成績，超越 GPT-5.4 與 Claude Opus 4.6，成為首個在業界最嚴苛程式碼修復基準上擊敗所有閉源模型的開放權重系統。更引人注目的是，整個訓練流程完全在華為昇騰 910B 晶片上完成，未使用任何 Nvidia 硬體。"
 category: "ai-ml"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:35:00Z
 lang: "zh"
 featured: false
 trending: true

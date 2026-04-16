@@ -2,7 +2,7 @@
 title: "Google Gemini 3.1 Flash Live：即時多模態語音AI正式向開發者開放"
 summary: "Google 發布 Gemini 3.1 Flash Live，一款支援低延遲音訊對話、螢幕分享互動與即時工具呼叫的語音與視覺模型，全程透過單一 API 完成。模型支援逾90種語言，在多步驟函式呼叫基準測試中拿下90.8%，現已透過 Google AI Studio 與 Vertex AI 的 Live API 向開發者開放。"
 category: "ai-ml"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:10:00Z
 lang: "zh"
 featured: false
 trending: true

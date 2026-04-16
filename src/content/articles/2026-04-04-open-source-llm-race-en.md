@@ -2,7 +2,7 @@
 title: "The Open-Source LLM Race: Llama 4 vs Mistral Large vs Qwen 3 — Who's Actually Winning?"
 summary: "Open-source models are closing the gap with proprietary ones faster than anyone expected. But 'open' means very different things to Meta, Mistral, and Alibaba."
 category: "ai-ml"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:45:00Z
 lang: "en"
 featured: false
 trending: true

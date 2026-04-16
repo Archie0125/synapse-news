@@ -2,7 +2,7 @@
 title: "Rockstar Games Hacked Through Third-Party SaaS Tool: ShinyHunters Sets April 14 Ransom Deadline"
 summary: "ShinyHunters has claimed responsibility for a data breach at Rockstar Games, exploiting cloud cost-monitoring SaaS vendor Anodot to access Rockstar's Snowflake environment. The group set an April 14 ransom deadline, threatening to leak internal financial records, marketing plans, and player spending data. Rockstar confirmed the breach but downplayed its scope, and GTA VI remains on track for its November 2026 release."
 category: "industry"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:30:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Google 把 Gemini 塞進所有產品：天才佈局還是飢不擇食？"
 summary: "Gemini 現在在搜尋、Gmail、Docs、Android、Chrome、Maps 和 Photos 裡都有。Google 把 AI 塞進它擁有的每一個產品。問題是，無處不在等於有價值嗎？"
 category: "products"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:35:00Z
 lang: "zh"
 featured: true
 trending: true

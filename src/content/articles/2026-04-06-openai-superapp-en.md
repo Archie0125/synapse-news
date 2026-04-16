@@ -2,7 +2,7 @@
 title: "OpenAI's Super App Gambit: Merging ChatGPT, Codex, and Browser Into One Agent-First Platform"
 summary: "OpenAI is building a desktop super app that combines ChatGPT, its Codex coding assistant, and a new Atlas browser into a single agent-first experience — a direct challenge to operating systems, productivity suites, and the conventional notion of software itself. The move signals OpenAI's ambition to become the primary interface between humans and computing."
 category: "products"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:35:00Z
 lang: "en"
 featured: false
 trending: true

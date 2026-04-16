@@ -2,7 +2,7 @@
 title: "美銀上調 2026 半導體預測至 1.3 兆美元，2030 年目標劍指 2 兆"
 summary: "美國銀行分析師 Vivek Arya 將 2026 年全球半導體營收預測大幅上調至 1.3 兆美元，距上一次預測僅四個月，上修幅度達 3,000 億美元。美銀點名 Nvidia、Broadcom、Marvell、AMD、科磊及泛林半導體為最大受益者，同時示警：若雲端資本支出未能突破 1 兆美元，2027 年的成長目標將面臨壓力。"
 category: "hardware"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:10:00Z
 lang: "zh"
 featured: false
 trending: true

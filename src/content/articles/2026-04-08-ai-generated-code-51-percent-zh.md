@@ -2,7 +2,7 @@
 title: "JetBrains 調查：GitHub 超過半數程式碼已由 AI 生成，Claude Code 滿意度奪冠"
 summary: "JetBrains 針對 1 萬名以上開發者的調查顯示，51% 提交至 GitHub 的程式碼為 AI 生成或大量 AI 輔助，AI 編碼工具市場規模達 128 億美元。GitHub Copilot 仍擁有最廣泛的採用率，但成長趨緩；Claude Code 意識度半年內飆升 26 個百分點，滿意度以 91% CSAT 領先所有工具。"
 category: "developer-tools"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:00:00Z
 lang: "zh"
 featured: false
 trending: false

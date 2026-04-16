@@ -2,7 +2,7 @@
 title: "Apple's Quiet AI Pivot: Why Cupertino Is Betting Everything on On-Device Intelligence"
 summary: "Apple is making its biggest strategic shift in a decade, moving away from cloud-dependent AI toward a fully on-device intelligence stack. This isn't just a privacy play — it's a bet that the future of AI is personal, not centralized."
 category: "industry"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:15:00Z
 lang: "en"
 featured: true
 trending: true

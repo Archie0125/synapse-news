@@ -2,7 +2,7 @@
 title: "Mastra 完成2200萬美元A輪融資，搶當 TypeScript AI 代理人框架的標準答案"
 summary: "開源 TypeScript AI 代理人框架 Mastra 宣布完成由 Spark Capital 領投的2200萬美元A輪融資，總融資額達3500萬美元。憑藉逾22,000個 GitHub Star、每週30萬次 npm 下載量，以及 Brex、Sanity、Factorial 等企業的生產環境採用，Mastra 正朝著「AI 代理人的 Rails」目標大步前進。"
 category: "developer-tools"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

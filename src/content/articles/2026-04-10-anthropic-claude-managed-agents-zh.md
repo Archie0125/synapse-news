@@ -2,7 +2,7 @@
 title: "Anthropic 推出 Claude 代理人代管平台：讓企業把 AI 代理人交給它養"
 summary: "Anthropic 於4月8日發布 Claude Managed Agents，一套全代管的雲端服務，涵蓋沙盒執行、狀態管理、憑證處理、權限控管與端對端追蹤等生產環境所需的基礎建設。服務定價每運行小時0.08美元，Notion、樂天、Asana 等企業已是首批用戶。"
 category: "developer-tools"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:05:00Z
 lang: "zh"
 featured: false
 trending: true

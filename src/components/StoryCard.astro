@@ -11,13 +11,34 @@ interface Props {
   slug: string;
   content: string;
   lang?: Lang;
+  featured?: boolean;
+  trending?: boolean;
+  type?: 'news' | 'analysis';
 }
 
-const { title, summary, category, publishedAt, slug, content, lang = 'en' } = Astro.props;
+const {
+  title,
+  summary,
+  category,
+  publishedAt,
+  slug,
+  content,
+  lang = 'en',
+  featured = false,
+  trending = false,
+  type = 'news',
+} = Astro.props;
 const readingTime = getReadingTimeLocalized(content, lang);
 ---
 
-<article class="group py-5 border-b border-[var(--color-border)] last:border-0">
+<article
+  class="group py-5 border-b border-[var(--color-border)] last:border-0"
+  data-sortable-item
+  data-published-at={publishedAt.toISOString()}
+  data-featured={featured ? '1' : '0'}
+  data-trending={trending ? '1' : '0'}
+  data-type={type}
+>
   <div class="flex items-start gap-3 mb-2">
     <CategoryPill category={category} lang={lang} />
   </div>

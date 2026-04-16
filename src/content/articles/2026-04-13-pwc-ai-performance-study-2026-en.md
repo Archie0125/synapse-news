@@ -2,7 +2,7 @@
 title: "PwC Study: 74% of AI's Economic Value Is Captured by Just 20% of Companies"
 summary: "A landmark PwC study of 1,217 senior executives across 25 sectors, released April 13, 2026, finds that three-quarters of AI's measurable economic gains flow to just one-fifth of organizations. The dividing line isn't budget — it's strategy: AI leaders pursue business reinvention and new revenue from industry convergence, while the majority remain stuck deploying AI purely for cost efficiency."
 category: "industry"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:15:00Z
 lang: "en"
 featured: false
 trending: true

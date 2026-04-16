@@ -2,7 +2,7 @@
 title: "BofA Hikes 2026 Semiconductor Forecast to $1.3 Trillion, Eyes $2T by 2030"
 summary: "Bank of America analyst Vivek Arya raised his 2026 global semiconductor revenue target to $1.3 trillion—a $300 billion upward revision made just four months after the prior estimate—citing AI-driven surges in compute and storage demand. The bank names Nvidia, Broadcom, Marvell, AMD, Lam Research, and KLA as the top beneficiaries, while warning that cloud capex must surpass $1 trillion by 2027 to sustain the current growth trajectory."
 category: "hardware"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:10:00Z
 lang: "en"
 featured: false
 trending: true

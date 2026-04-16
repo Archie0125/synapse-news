@@ -2,7 +2,7 @@
 title: "微軟發布Agent Framework 1.0：企業級多智能體SDK正式進入量產時代"
 summary: "微軟正式推出Agent Framework 1.0——其開源多智能體SDK的穩定量產版本，同時支援.NET與Python。這款框架將Semantic Kernel的企業級基礎與AutoGen的多智能體協作理念整合為單一SDK，支援包含Claude、Gemini、Ollama在內的七家模型供應商，並以長期支援承諾提供穩定API，讓企業開發者首次擁有成熟的量產多智能體AI系統開發平台。"
 category: "developer-tools"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:10:00Z
 lang: "zh"
 featured: false
 trending: true

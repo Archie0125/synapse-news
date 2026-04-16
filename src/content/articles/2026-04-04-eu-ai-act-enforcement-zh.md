@@ -2,7 +2,7 @@
 title: "歐盟 AI 法案正式開罰：第一波執法行動來了"
 summary: "布魯塞爾不是在嚇人。三家公司本週收到 AI 法案透明度條款的正式通知。真正的問題是，這到底是幫助還是傷害了歐洲的 AI 競爭力。"
 category: "policy"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:30:00Z
 lang: "zh"
 featured: false
 trending: true

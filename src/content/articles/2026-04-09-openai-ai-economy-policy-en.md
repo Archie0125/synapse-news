@@ -2,7 +2,7 @@
 title: "OpenAI Calls for Robot Taxes, a National Wealth Fund, and a Four-Day Workweek"
 summary: "OpenAI has published a sweeping 13-page policy document urging governments to prepare for approaching superintelligence by taxing automated labor, creating public wealth funds seeded by AI companies, and piloting a 32-hour workweek with no pay cuts. Released days before a likely IPO roadshow, the proposals position OpenAI as a responsible steward of economic disruption — while critics note the company stands to benefit from the regulatory frameworks it is proposing."
 category: "policy"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:15:00Z
 lang: "en"
 featured: false
 trending: true

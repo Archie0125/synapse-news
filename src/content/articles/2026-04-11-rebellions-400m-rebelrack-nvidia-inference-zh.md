@@ -2,7 +2,7 @@
 title: "韓國AI晶片商Rebellions獲4億美元融資，推出RebelRack挑戰輝達推論霸主地位"
 summary: "南韓AI晶片新創Rebellions完成4億美元Pre-IPO融資，估值達23.4億美元，股東包含三星、SK海力士與沙烏地阿美。同步發表RebelRack與RebelPOD推論系統，其核心Rebel100 NPU據稱以3.2倍的功耗效率達到與輝達H200相當的效能。最新與SK電信及Arm的合作更將版圖延伸至主權AI與電信基礎設施市場。"
 category: "hardware"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

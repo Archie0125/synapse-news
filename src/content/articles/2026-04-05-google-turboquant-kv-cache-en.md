@@ -2,7 +2,7 @@
 title: "Google's TurboQuant Compresses LLM Memory 6x With No Accuracy Loss — If the Results Hold"
 summary: "Google Research unveiled TurboQuant, a training-free algorithm that compresses LLM KV cache from 16-bit to ~3 bits, claiming 6x memory reduction and 8x attention speedup with no accuracy loss. It faces peer review at ICLR 2026 in April."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:30:00Z
 lang: "en"
 featured: false
 trending: true

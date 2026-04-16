@@ -2,7 +2,7 @@
 title: "Anthropic 意外將 51.2 萬行 Claude Code 原始碼上傳至 npm"
 summary: "Claude Code v2.1.88 的建置錯誤導致包含 1,906 個 TypeScript 檔案、共 51.2 萬行的原始碼被公開上傳至 npm 套件庫，內容涵蓋 Claude 使用工具、管理檔案、協調多 Agent 工作流程的完整代碼邏輯。在 Anthropic 下架套件前，相關程式碼已在 GitHub 上累積超過 5 萬顆星。"
 category: "developer-tools"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:15:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Rust in Production: The Companies That Made the Switch and What Actually Happened"
 summary: "Discord rewrote their message store. Cloudflare replaced their C++ proxy. AWS built Firecracker. After years of hype, the real-world Rust migration data is finally in — and it's not all good news."
 category: "developer-tools"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:20:00Z
 lang: "en"
 featured: false
 trending: false

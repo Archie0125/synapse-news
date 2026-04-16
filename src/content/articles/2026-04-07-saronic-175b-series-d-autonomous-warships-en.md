@@ -2,7 +2,7 @@
 title: "Saronic Raises $1.75B at $9.25B Valuation to Build Autonomous Warships at Scale"
 summary: "Austin-based Saronic Technologies closed a $1.75 billion Series D led by Kleiner Perkins, more than doubling its valuation to $9.25 billion. The company is building autonomous surface vessels for the U.S. Navy at an industrial scale — a bet that unmanned maritime systems will fundamentally reshape naval power projection in the Pacific era."
 category: "startups"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:30:00Z
 lang: "en"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "Waymo 開始在倫敦路測無人計程車，瞄準首個美國境外商業市場"
 summary: "Waymo 已開始在倫敦公共道路上以安全駕駛員監督模式運行自動駕駛 Jaguar I-Pace，計畫在英國政府完成審批後於今年稍晚推出商業服務——這將是 Waymo 踏出美國的第一個商業市場。倫敦左行交通、複雜路況與百年有機路網，是這家 Alphabet 旗下公司迄今面臨的最高難度測試。"
 category: "products"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:15:00Z
 lang: "zh"
 featured: false
 trending: true

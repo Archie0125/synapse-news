@@ -2,7 +2,7 @@
 title: "猶他州允許 AI 聊天機器人無需醫師授權自行續開精神科藥物"
 summary: "猶他州監管沙盒於 4 月 3 日批准新創公司 Legion Health，讓其 AI 聊天機器人可自主為患者續開 15 種精神科藥物，成為全球首個授權 AI 自主開立精神科處方的政府。然而此舉發生在猶他州前一個 AI 開藥試點被研究人員破解、誤導系統開出三倍 OxyContin 劑量後短短六週，引發外界對醫療 AI 安全的嚴重憂慮。"
 category: "policy"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:40:00Z
 lang: "zh"
 featured: false
 trending: true

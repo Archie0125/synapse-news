@@ -2,7 +2,7 @@
 title: "The MATCH Act: Congress Moves to Cut China's Last Chipmaking Lifeline"
 summary: "A bipartisan group of U.S. lawmakers has introduced the MATCH Act, legislation that would ban exports of deep-ultraviolet (DUV) immersion lithography systems and related chipmaking equipment to Huawei, SMIC, CXMT, YMTC, and other Chinese firms. The bill also pressures allied nations — including the Netherlands, Japan, and South Korea — to align their own export controls within 150 days or face U.S. sanctions."
 category: "policy"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:30:00Z
 lang: "en"
 featured: false
 trending: true

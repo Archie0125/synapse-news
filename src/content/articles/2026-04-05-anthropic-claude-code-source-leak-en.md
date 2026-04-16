@@ -2,7 +2,7 @@
 title: "Anthropic Accidentally Leaks 512,000 Lines of Claude Code Source via npm Bug"
 summary: "A Bun bundler bug exposed the complete source code of Claude Code v2.1.88 — 1,900 TypeScript files and 512,000 lines — on the npm registry for over three hours. A trojanized HTTP client bundled in the same window raised supply chain attack concerns before Anthropic pulled the package."
 category: "developer-tools"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:00:00Z
 lang: "en"
 featured: true
 trending: false

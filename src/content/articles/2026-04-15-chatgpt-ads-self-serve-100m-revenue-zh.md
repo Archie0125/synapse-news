@@ -2,7 +2,7 @@
 title: "ChatGPT 廣告年化營收破億美元，OpenAI 開放自助廣告平台搶攻行銷市場"
 summary: "OpenAI 於 2026 年 4 月開放 ChatGPT 廣告平台的自助存取，將最低投放門檻從 25 萬美元大幅調降至 5 萬美元，讓更多品牌得以直接投放。此前廣告試點業務在 2 月正式上線後僅六週便達到 1 億美元年化營收，OpenAI 對 2026 年廣告營收的目標已上看 25 億美元，並設定 2030 年達到千億美元的長期目標。"
 category: "industry"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:10:00Z
 lang: "zh"
 featured: false
 trending: false

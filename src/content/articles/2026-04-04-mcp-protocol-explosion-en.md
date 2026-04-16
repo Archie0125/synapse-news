@@ -2,7 +2,7 @@
 title: "MCP Is the New API: Why Model Context Protocol Is Quietly Reshaping AI Infrastructure"
 summary: "Anthropic's open protocol for connecting AI models to tools just crossed 10,000 community implementations. MCP might be the most important infrastructure standard since REST."
 category: "developer-tools"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:40:00Z
 lang: "en"
 featured: false
 trending: true

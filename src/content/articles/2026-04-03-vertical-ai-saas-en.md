@@ -2,7 +2,7 @@
 title: "Vertical AI SaaS Is Eating the World, One Boring Industry at a Time"
 summary: "The most exciting AI companies in 2026 aren't building chatbots. They're automating insurance claims, dental records, and freight logistics. Here's why boring wins."
 category: "startups"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:30:00Z
 lang: "en"
 featured: false
 trending: false

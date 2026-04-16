@@ -2,7 +2,7 @@
 title: "Synthetic Data Is Eating Real Data: The Training Data Crisis Nobody Talks About"
 summary: "AI labs are running out of high-quality human-generated training data. The solution — training on AI-generated data — works surprisingly well but creates risks nobody fully understands."
 category: "ai-ml"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T10:00:00Z
 lang: "en"
 featured: false
 trending: false

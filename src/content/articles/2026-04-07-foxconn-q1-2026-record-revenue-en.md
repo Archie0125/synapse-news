@@ -2,7 +2,7 @@
 title: "Foxconn Logs All-Time High Q1 Revenue as AI Server Boom Drives 29.7% Growth"
 summary: "Foxconn posted T$2.13 trillion in Q1 2026 revenue — a company record — powered by surging AI server demand and a jaw-dropping 45.6% spike in March alone. The results underscore how the global AI infrastructure buildout is reshaping the contract manufacturing giant into an indispensable pillar of the AI economy."
 category: "industry"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:15:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "微軟單飛：三款自研 MAI 模型宣告終結對 OpenAI 的依賴"
 summary: "微軟發布三款完全自主研發的基礎 AI 模型——MAI-Transcribe-1、MAI-Voice-1 與 MAI-Image-2，是迄今為止微軟最明確的訊號，顯示其意圖直接與 OpenAI 競爭。這一舉措背後，是雙方重新談判的合作協議——微軟獲得自建前沿模型的自由，同時保留至 2032 年取用 OpenAI 成果的授權。"
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:30:00Z
 lang: "zh"
 featured: true
 trending: true

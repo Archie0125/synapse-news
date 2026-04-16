@@ -2,7 +2,7 @@
 title: "矽谷聯手抵制中國 AI 竊密：前沿模型論壇正式宣戰"
 summary: "OpenAI、Anthropic 與 Google 透過前沿模型論壇展開即時情報共享，聯手對抗被點名的中國 AI 企業——深度求索、月之暗面與 MiniMax——所發動的大規模「對抗性蒸餾」攻勢。Anthropic 單獨記錄到逾 1,600 萬次未授權查詢，並已全面封鎖中資企業存取 Claude。"
 category: "policy"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:00:00Z
 lang: "zh"
 featured: true
 trending: true

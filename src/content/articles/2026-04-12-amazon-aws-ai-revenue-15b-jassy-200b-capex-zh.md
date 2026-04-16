@@ -2,7 +2,7 @@
 title: "AWS AI 營收突破 150 億美元年化規模，Jassy 力挺 2,000 億美元資本支出豪賭"
 summary: "亞馬遜執行長 Andy Jassy 在年度股東信中揭露，AWS AI 服務在 2026 年第一季達到 150 億美元年化營收規模——約為 AWS 同期規模的 260 倍。這個數字是亞馬遜力挺 2026 年史上最大單年企業資本支出計畫的核心論據：2,000 億美元。"
 category: "industry"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:00:00Z
 lang: "zh"
 featured: false
 trending: true

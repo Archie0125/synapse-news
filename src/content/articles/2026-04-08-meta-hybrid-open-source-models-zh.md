@@ -2,7 +2,7 @@
 title: "Meta 新掌門 Alexandr Wang 首批 AI 模型將採「混合開源」策略，告別全面開放"
 summary: "根據 Axios 報導，Meta 旗下 Alexandr Wang 正在籌備發布首批由他主導開發的 AI 模型，計劃採取混合策略：較小型版本開源，但最強的前沿模型將保持專有——這是與 Llama 系列全面開放路線的重大轉向。此舉反映 Meta 面臨的競爭壓力加劇，也意味著 Meta 正式踏入與 OpenAI 爭奪全球開發者生態的直接對決。"
 category: "ai-ml"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

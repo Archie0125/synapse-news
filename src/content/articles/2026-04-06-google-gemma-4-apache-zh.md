@@ -2,7 +2,7 @@
 title: "Google 以 Apache 2.0 釋出 Gemma 4——授權條款的改變或許比評測成績更重要"
 summary: "Google DeepMind 於 4 月 2 日發布 Gemma 4，首次採用 Apache 2.0 開源授權，移除了前幾代限制商業應用的自定義條款。旗艦版 31B Dense 模型在 Arena AI 排行榜全球排名第三，超越眾多商業閉源系統；而 26B MoE 版本以僅約 4B 的推理成本達到全球第六的性能表現。"
 category: "developer-tools"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

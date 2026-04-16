@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import CategoryLayout from '../../../layouts/CategoryLayout.astro';
 import StoryCard from '../../../components/StoryCard.astro';
+import SortBar from '../../../components/SortBar.astro';
 import { CATEGORIES } from '../../../lib/categories';
 import { LANGS, t, type Lang } from '../../../lib/i18n';
 
@@ -25,19 +26,25 @@ const articles = allArticles
 
 <CategoryLayout category={category!} lang={lang}>
   {articles.length > 0 ? (
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-6">
-      {articles.map(article => (
-        <StoryCard
-          title={article.data.title}
-          summary={article.data.summary}
-          category={article.data.category}
-          publishedAt={article.data.publishedAt}
-          slug={article.id}
-          content={article.body ?? ''}
-          lang={lang}
-        />
-      ))}
-    </div>
+    <>
+      <SortBar lang={lang} listId="cat-list" />
+      <div id="cat-list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-6">
+        {articles.map(article => (
+          <StoryCard
+            title={article.data.title}
+            summary={article.data.summary}
+            category={article.data.category}
+            publishedAt={article.data.publishedAt}
+            slug={article.id}
+            content={article.body ?? ''}
+            lang={lang}
+            featured={article.data.featured}
+            trending={article.data.trending}
+            type={article.data.type}
+          />
+        ))}
+      </div>
+    </>
   ) : (
     <p class="text-[var(--color-text-muted)] text-lg py-12 text-center">
       {t(lang, 'category.no_articles')}

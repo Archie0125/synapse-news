@@ -2,7 +2,7 @@
 title: "紐約 RAISE 法案正式生效，美國 AI 監管聯邦對州大戰開打"
 summary: "紐約州長 Kathy Hochul 於 3 月 27 日簽署《負責任 AI 安全與教育法》（RAISE Act），成為美國迄今最嚴格的州級 AI 安全法規。法案於 2027 年 1 月 1 日生效，但川普政府的司法部 AI 訴訟特別工作組已就位、準備提出挑戰，一場決定美國 AI 監管誰說了算的憲法大戰正式開打。"
 category: "policy"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:55:00Z
 lang: "zh"
 featured: false
 trending: false

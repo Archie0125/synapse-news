@@ -2,7 +2,7 @@
 title: "Anthropic Hits $30B ARR, Surpasses OpenAI as World's Highest-Revenue AI Company"
 summary: "Anthropic has reached $30 billion in annualized revenue, overtaking OpenAI's $25 billion ARR to become the world's highest-earning AI company. The milestone accompanies a massive compute deal with Google and Broadcom for multi-gigawatt TPU capacity coming online in 2027, and signals that both companies are on accelerating paths toward IPOs — even as compute costs threaten to outpace revenue growth."
 category: "industry"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:05:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Apple's Free Enterprise Platform Launches April 14: A Direct Strike at Microsoft 365 and Google Workspace"
 summary: "Apple will launch 'Apple Business' on April 14 in 200+ countries — a unified, completely free platform consolidating device management, business email with custom domains, calendar, and company directory. It's Apple's most aggressive move into enterprise software in the company's history."
 category: "products"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:10:00Z
 lang: "en"
 featured: false
 trending: true

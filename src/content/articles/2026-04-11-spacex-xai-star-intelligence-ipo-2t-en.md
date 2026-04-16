@@ -2,7 +2,7 @@
 title: "SpaceX-xAI IPO Valuation Target Revised Above $2 Trillion as Orbital AI Pitch Takes Shape"
 summary: "Two months after SpaceX officially acquired xAI in a $1.25 trillion all-stock deal, Bloomberg reports that bankers have revised the combined entity's IPO valuation target above $2 trillion in testing-the-waters conversations with prospective investors. The pitch now centers on a concept Elon Musk calls 'orbital intelligence': space-based data centers powered by Starlink that could sidestep the terrestrial energy bottleneck constraining AI growth."
 category: "startups"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:30:00Z
 lang: "en"
 featured: false
 trending: true

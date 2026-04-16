@@ -2,7 +2,7 @@
 title: "Anthropic：Claude Mythos 太危險，不能公開發布——於是打造了 Project Glasswing"
 summary: "Anthropic 啟動 Project Glasswing，將旗下前沿模型 Claude Mythos Preview 限制性開放給 40 多個頂尖組織存取。這款模型已在所有主流作業系統與瀏覽器中識別出數千個零時差漏洞，其中最古老的一個已潛伏 27 年。Anthropic 認為此模型威力過強，無法公開發布，本次做法在 AI 產業史上史無前例。"
 category: "ai-ml"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:00:00Z
 lang: "zh"
 featured: false
 trending: true

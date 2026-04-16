@@ -1,0 +1,97 @@
+---
+import { t, type Lang } from '../lib/i18n';
+
+interface Props {
+  lang: Lang;
+  listId: string;
+  className?: string;
+}
+
+const { lang, listId, className = '' } = Astro.props;
+
+const options = [
+  { value: 'latest', label: t(lang, 'sort.latest') },
+  { value: 'oldest', label: t(lang, 'sort.oldest') },
+  { value: 'featured', label: t(lang, 'sort.featured') },
+  { value: 'trending', label: t(lang, 'sort.trending') },
+  { value: 'analysis', label: t(lang, 'sort.analysis') },
+];
+---
+
+<div class={`flex items-center gap-2 text-sm mb-4 ${className}`} data-sort-bar data-target={listId}>
+  <label class="text-[var(--color-text-muted)]" for={`sort-${listId}`}>
+    {t(lang, 'sort.label')}:
+  </label>
+  <select
+    id={`sort-${listId}`}
+    class="bg-[var(--color-surface)] text-[var(--color-text)] border border-[var(--color-border)] rounded-md px-2 py-1 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)]"
+  >
+    {options.map(opt => (
+      <option value={opt.value}>{opt.label}</option>
+    ))}
+  </select>
+</div>
+
+<script is:inline>
+  (function () {
+    function parseDate(el) {
+      const v = el.getAttribute('data-published-at');
+      return v ? new Date(v).getTime() : 0;
+    }
+    function flag(el, name) {
+      return el.getAttribute('data-' + name) === '1' ? 1 : 0;
+    }
+    function isAnalysis(el) {
+      return el.getAttribute('data-type') === 'analysis' ? 1 : 0;
+    }
+
+    function sortList(list, mode) {
+      const items = Array.from(list.querySelectorAll('[data-sortable-item]'));
+      if (items.length === 0) return;
+      const stable = items.map((el, i) => ({ el, i }));
+
+      stable.sort(function (a, b) {
+        if (mode === 'latest') {
+          return parseDate(b.el) - parseDate(a.el) || a.i - b.i;
+        }
+        if (mode === 'oldest') {
+          return parseDate(a.el) - parseDate(b.el) || a.i - b.i;
+        }
+        if (mode === 'featured') {
+          const f = flag(b.el, 'featured') - flag(a.el, 'featured');
+          if (f !== 0) return f;
+          return parseDate(b.el) - parseDate(a.el) || a.i - b.i;
+        }
+        if (mode === 'trending') {
+          const tr = flag(b.el, 'trending') - flag(a.el, 'trending');
+          if (tr !== 0) return tr;
+          return parseDate(b.el) - parseDate(a.el) || a.i - b.i;
+        }
+        if (mode === 'analysis') {
+          const an = isAnalysis(b.el) - isAnalysis(a.el);
+          if (an !== 0) return an;
+          return parseDate(b.el) - parseDate(a.el) || a.i - b.i;
+        }
+        return a.i - b.i;
+      });
+
+      const frag = document.createDocumentFragment();
+      stable.forEach(function (entry) {
+        frag.appendChild(entry.el);
+      });
+      list.appendChild(frag);
+    }
+
+    document.querySelectorAll('[data-sort-bar]').forEach(function (bar) {
+      const targetId = bar.getAttribute('data-target');
+      if (!targetId) return;
+      const list = document.getElementById(targetId);
+      if (!list) return;
+      const select = bar.querySelector('select');
+      if (!select) return;
+      select.addEventListener('change', function () {
+        sortList(list, select.value);
+      });
+    });
+  })();
+</script>

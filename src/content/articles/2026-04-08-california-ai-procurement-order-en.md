@@ -2,7 +2,7 @@
 title: "California Becomes First State to Mandate AI Safety Disclosures for Government Contracts"
 summary: "Governor Newsom signed Executive Order N-5-26, requiring AI vendors to disclose safety policies on CSAM, civil rights, and anti-discrimination as conditions for state contracts. The order also grants California the authority to independently overrule federal AI supply-chain risk designations, setting up a direct constitutional clash with the Trump administration."
 category: "policy"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:15:00Z
 lang: "en"
 featured: false
 trending: true

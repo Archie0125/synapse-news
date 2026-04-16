@@ -2,7 +2,7 @@
 title: "OpenAI's Leaked Memo Reveals Cracks in Microsoft Alliance as Amazon's $50B Deal Takes Center Stage"
 summary: "A leaked internal memo from OpenAI Chief Revenue Officer Denise Dresser states that the decade-long Microsoft partnership has 'limited our ability to meet enterprises where they are.' The memo, which simultaneously attacks Anthropic's revenue accounting, signals a historic realignment of AI's enterprise cloud landscape as Amazon's $50 billion investment begins reshaping where the industry's most powerful models get deployed."
 category: "industry"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:20:00Z
 lang: "en"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "Q1 2026 Shatters Every Venture Funding Record: $300B in a Single Quarter, 80% AI"
 summary: "Global venture investment hit $300 billion in Q1 2026 — up 150% year-over-year — with four of the five largest VC rounds in history closing in this single quarter. AI dominated at $242 billion, or 80% of all global venture funding, driven by mega-rounds from OpenAI, Anthropic, xAI, and Waymo."
 category: "startups"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:25:00Z
 lang: "en"
 featured: false
 trending: true

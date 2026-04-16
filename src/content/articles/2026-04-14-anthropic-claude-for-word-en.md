@@ -2,7 +2,7 @@
 title: "Anthropic Completes the Office Trifecta: Claude for Word Launches in Beta, Targeting Lawyers and Knowledge Workers"
 summary: "Anthropic has launched Claude for Word as a native Microsoft Office add-in, completing its integration across Word, Excel, and PowerPoint. The beta, available April 10, targets legal and enterprise document workflows with tracked-changes editing and cross-app shared context—a direct challenge to Microsoft's own Copilot franchise."
 category: "developer-tools"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:00:00Z
 lang: "en"
 featured: false
 trending: true

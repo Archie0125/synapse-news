@@ -2,7 +2,7 @@
 title: "Anthropic's 'Claude Mythos' Leaked: The Most Powerful AI Model Yet — and a Cybersecurity Threat"
 summary: "A CMS misconfiguration exposed Anthropic's secret model codenamed 'Mythos', positioned above Opus in a new 'Capybara' tier. The company is now privately briefing US officials about its unprecedented cybersecurity risks while conducting limited early access testing."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:05:00Z
 lang: "en"
 featured: true
 trending: false

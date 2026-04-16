@@ -2,7 +2,7 @@
 title: "Apple's Gemini-Powered Siri Arrives in iOS 26.4 — But the Full Upgrade Is Still Months Away"
 summary: "iOS 26.4 is rolling out with the first phase of Apple's $1 billion-per-year Google Gemini integration, bringing on-screen awareness, contextual understanding, and email summarization to Siri. But the transformational conversational AI Apple promised when it announced the partnership in January has been split across multiple OS updates, with full Phase 2 capabilities pushed to iOS 26.5 in May and iOS 27 in September — frustrating early adopters and raising questions about Apple's AI execution."
 category: "products"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:00:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Anthropic Hits $30B Revenue Run Rate and Locks In 3.5 Gigawatts of Compute with Google and Broadcom"
 summary: "Anthropic has tripled its annualized revenue in just 90 days, crossing $30 billion and surpassing OpenAI to become the AI industry's top revenue generator. Simultaneously, the company sealed a landmark compute agreement with Google and Broadcom for 3.5 gigawatts of next-generation TPU capacity starting in 2027—powering a future that CEO Dario Amodei admits he keeps underestimating."
 category: "startups"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:00:00Z
 lang: "en"
 featured: false
 trending: true

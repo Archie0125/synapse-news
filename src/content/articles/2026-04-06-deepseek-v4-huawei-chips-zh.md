@@ -2,7 +2,7 @@
 title: "DeepSeek V4：跑在華為晶片上的兆參數模型，正在改寫出口管制的邏輯"
 summary: "DeepSeek V4——一款專為全程運行於華為昇騰 950PR 晶片而設計的兆參數多模態模型——即將於本月公開發布，證明中國已在本土半導體硬體上實現前沿 AI 能力。以每百萬 token 0.5 美元的定價與估計僅 520 萬美元的訓練成本，它直接挑戰了「美國出口管制能約束中國 AI 發展」的基本前提。"
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:20:00Z
 lang: "zh"
 featured: false
 trending: false

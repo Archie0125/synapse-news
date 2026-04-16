@@ -2,7 +2,7 @@
 title: "Andy Jassy's $200 Billion Bet: AWS AI Revenue Hits $15B Run Rate as Amazon Goes All-In"
 summary: "In his 2026 annual shareholder letter, Amazon CEO Andy Jassy revealed that AWS's AI business has surpassed a $15 billion annual revenue run rate, growing 260x faster than AWS did at a comparable stage. Amazon plans to spend $200 billion on capital expenditures this year—primarily on AI infrastructure—backed by customer commitments including a $100 billion-plus deal with OpenAI."
 category: "industry"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:00:00Z
 lang: "en"
 featured: true
 trending: false

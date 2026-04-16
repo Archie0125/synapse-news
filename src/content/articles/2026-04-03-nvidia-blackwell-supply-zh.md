@@ -2,7 +2,7 @@
 title: "NVIDIA Blackwell 晶片賣到 2027 年都缺貨。這對所有人都有影響。"
 summary: "GPU 短缺不只是 NVIDIA 的問題 — 它正在重塑整個 AI 產業的權力結構。提前鎖定產能的公司正在拉開差距。其他人都在搶。"
 category: "hardware"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:10:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Aria Networks Raises $125M to Build Networking Infrastructure Designed Specifically for AI"
 summary: "Aria Networks, a Palo Alto startup, has closed a $125 million first round backed by Sutter Hill Ventures—the firm behind Snowflake—to build vendor-agnostic networking infrastructure purpose-built for AI data center workloads. The raise comes as hyperscalers commit over $470 billion to AI infrastructure in 2026, and networking has emerged as a critical but underbuilt layer in the AI stack that no incumbent vendor has yet solved at scale."
 category: "startups"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:10:00Z
 lang: "en"
 featured: false
 trending: false

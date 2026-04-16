@@ -2,7 +2,7 @@
 title: "Meta 發布首款自研 AI 模型 Muse Spark，告別開源路線正面迎戰 OpenAI 與 Google"
 summary: "Meta 旗下超智慧實驗室（Meta Superintelligence Labs）正式推出第一款自研 AI 模型 Muse Spark，由前 Scale AI 執行長 Alexandr Wang 主導開發。這款閉源模型代表 Meta 放棄延續多年的 Llama 開源策略，在醫療推理與視覺多模態任務上表現突出，直接挑戰 OpenAI 與 Google 的前沿模型地位。"
 category: "ai-ml"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:10:00Z
 lang: "zh"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "DeepSeek V4: A Trillion-Parameter Model on Huawei Chips That Changes the Export Control Calculus"
 summary: "DeepSeek V4 — a 1-trillion-parameter multimodal model built to run entirely on Huawei's Ascend 950PR chips — is launching this month, confirming that China has achieved frontier AI capability on domestic semiconductor hardware. At $0.50 per million tokens and an estimated $5.2M training cost, it directly challenges the premise that US export controls can constrain Chinese AI development."
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:20:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "PwC 研究：AI 74% 的經濟價值由 20% 的企業獨享"
 summary: "資誠（PwC）於 2026 年 4 月 13 日發布的重磅研究，訪查橫跨 25 個產業、1,217 位高階主管，發現四分之三的 AI 可量化經濟效益，流向僅五分之一的企業。分界線不在預算，而在策略：AI 領先企業追求的是商業模式再造與跨產業融合帶來的新收入，而大多數企業仍深陷只用 AI 削減成本的舊思維。"
 category: "industry"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

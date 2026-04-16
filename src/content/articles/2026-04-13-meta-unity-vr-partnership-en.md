@@ -2,7 +2,7 @@
 title: "Meta and Unity Extend Multi-Year VR Partnership, Betting the Metaverse Needs a Game Engine"
 summary: "Unity and Meta have signed an extended multi-year platform and enterprise agreement that deepens Unity's role as the primary development environment for Meta's VR ecosystem. The deal comes as Meta's Quest platform accelerates adoption across gaming and enterprise use cases, and signals that spatial computing's developer toolchain is consolidating rather than fragmenting."
 category: "developer-tools"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:10:00Z
 lang: "en"
 featured: false
 trending: false

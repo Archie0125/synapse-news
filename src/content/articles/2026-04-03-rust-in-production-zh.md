@@ -2,7 +2,7 @@
 title: "Rust 進入生產環境：那些做了轉換的公司，到底發生了什麼"
 summary: "Discord 重寫了訊息儲存。Cloudflare 替換了 C++ 代理。AWS 打造了 Firecracker。經過多年炒作，真實的 Rust 遷移數據終於出來了 — 不全是好消息。"
 category: "developer-tools"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:20:00Z
 lang: "zh"
 featured: false
 trending: false

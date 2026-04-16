@@ -2,7 +2,7 @@
 title: "Google Gemma 4：採用 Apache 2.0 授權、擊敗 4000 億參數對手的開放權重模型"
 summary: "Google 發布的 Gemma 4 系列共四個模型，參數規模從 20 億到 310 億，全部採用完全開放的 Apache 2.0 授權——這是開放式 AI 模型有史以來最重要的效能躍升之一。310 億稠密模型在 Arena AI 排行榜全球名列第三，在 AIME 2026 數學測試中得到 89.2 分，LiveCodeBench 編程測試達 80%，且可免費商業部署、修改與再發布。"
 category: "developer-tools"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:05:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "NVIDIA Vera Rubin NVL72 Enters Full Production — 5x Blackwell Performance Per Rack"
 summary: "NVIDIA's next-generation Vera Rubin NVL72 AI supercomputer has entered full production ahead of its originally guided H2 2026 schedule. The rack-scale system delivers 3.6 exaflops of inference compute and up to 5x greater inference performance and 10x lower cost per token compared to Blackwell, with AWS, Google Cloud, Microsoft Azure, and CoreWeave among the first deployment wave."
 category: "hardware"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:25:00Z
 lang: "en"
 featured: false
 trending: true

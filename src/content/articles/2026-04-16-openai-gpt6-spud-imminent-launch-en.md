@@ -2,7 +2,7 @@
 title: "OpenAI's GPT-6 'Spud' Misses April 14 Target — Prediction Markets Now Give 78% Odds of Launch Before May"
 summary: "OpenAI's next flagship model, codenamed Spud and widely expected to launch as GPT-6, completed pre-training on March 24 at Stargate's Abilene facility but failed to materialize on its widely anticipated April 14 release date. Prediction markets now place a 78% probability on release before April 30, while insiders claim the model delivers 40% better performance than GPT-5.4 with a 2-million-token context window."
 category: "ai-ml"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:05:00Z
 lang: "en"
 featured: false
 trending: true

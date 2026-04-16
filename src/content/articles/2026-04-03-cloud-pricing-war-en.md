@@ -2,7 +2,7 @@
 title: "The Cloud Pricing War Is Here: AWS vs Azure vs GCP in the AI Era"
 summary: "Cloud providers are slashing GPU instance prices by 30-50% while simultaneously locking customers into multi-year AI commitments. The economics of cloud computing are being rewritten."
 category: "industry"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:05:00Z
 lang: "en"
 featured: false
 trending: false

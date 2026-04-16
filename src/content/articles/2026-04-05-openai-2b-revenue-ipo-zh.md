@@ -2,7 +2,7 @@
 title: "OpenAI 月收入突破 20 億美元，估值 8,520 億美元，積極備戰 IPO"
 summary: "OpenAI 在完成史上最大單筆創投融資（1,220 億美元，估值 8,520 億美元）後，月經常性收入已突破 20 億美元，每週活躍用戶數接近 10 億。公司正積極籌備 IPO，同時退役 GPT-4o 並收購科技媒體資產，種種動作顯示 OpenAI 正從 AI 實驗室轉型為 AI 平台公司。"
 category: "industry"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:10:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "OpenAI, Google, and Anthropic Form Unprecedented Alliance to Stop Chinese AI Cloning"
 summary: "Three rival AI giants are sharing classified threat intelligence through the Frontier Model Forum to detect and block 'adversarial distillation' attacks, where Chinese competitors use millions of fake accounts to extract training data from US frontier models. The collaboration marks a historic moment of competitive solidarity driven by national security concerns."
 category: "ai-ml"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:05:00Z
 lang: "en"
 featured: true
 trending: true

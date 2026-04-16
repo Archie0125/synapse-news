@@ -2,7 +2,7 @@
 title: "GPT-5 內部跑分外洩 — 數據說的跟 OpenAI 想講的完全不同"
 summary: "內部測試結果顯示 GPT-5 的進步幅度比預期窄很多。「加大就對了」的時代可能正式結束了，但這對整個產業來說其實是好消息。"
 category: "ai-ml"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:50:00Z
 lang: "zh"
 featured: false
 trending: true

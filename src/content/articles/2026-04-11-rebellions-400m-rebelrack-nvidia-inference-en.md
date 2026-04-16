@@ -2,7 +2,7 @@
 title: "Rebellions Raises $400M, Launches RebelRack to Challenge Nvidia in AI Inference"
 summary: "South Korean AI chip maker Rebellions has closed a $400 million pre-IPO round at a $2.34 billion valuation, backed by Samsung, SK Hynix, and Saudi Aramco. Alongside the funding, the company unveiled RebelRack and RebelPOD — rack-scale inference systems built around its Rebel100 NPU, which the company claims matches Nvidia H200 performance at 3.2× better power efficiency. A new partnership with SK Telecom and Arm targets sovereign AI and global telecom infrastructure."
 category: "hardware"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:20:00Z
 lang: "en"
 featured: false
 trending: true

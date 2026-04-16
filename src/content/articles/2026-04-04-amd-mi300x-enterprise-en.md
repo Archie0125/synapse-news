@@ -2,7 +2,7 @@
 title: "AMD MI300X Is Finally Winning Enterprise Deals. Here's What Changed."
 summary: "After years of being NVIDIA's also-ran, AMD's AI GPU is landing real enterprise contracts. The CUDA moat is real but it's eroding, and the price difference is becoming impossible to ignore."
 category: "hardware"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:10:00Z
 lang: "en"
 featured: false
 trending: false

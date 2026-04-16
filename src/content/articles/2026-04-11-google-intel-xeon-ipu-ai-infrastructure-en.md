@@ -2,7 +2,7 @@
 title: "Google and Intel Expand Multiyear AI Chip Partnership With Xeon 6 and Custom IPUs"
 summary: "Google and Intel announced an expanded multiyear partnership on April 9 that commits Google Cloud to multiple generations of Intel Xeon 6 processors for AI workloads while deepening joint development of custom infrastructure processing units. The deal gives Intel a meaningful foothold in a data-center market long dominated by Nvidia and signals that CPUs are returning to relevance in AI infrastructure."
 category: "hardware"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:05:00Z
 lang: "en"
 featured: false
 trending: true

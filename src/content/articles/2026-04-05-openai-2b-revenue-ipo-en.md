@@ -2,7 +2,7 @@
 title: "OpenAI Hits $2B Monthly Revenue, Eyes IPO at $852B Valuation After Record $122B Round"
 summary: "OpenAI has crossed $2 billion in monthly recurring revenue and is approaching 1 billion weekly active users following its record-breaking $122 billion funding round at an $852 billion valuation. The company is actively preparing for an IPO, retired GPT-4o from all plans, and acquired a tech media property — moves that collectively signal a shift from AI lab to AI platform company."
 category: "industry"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:10:00Z
 lang: "en"
 featured: false
 trending: false

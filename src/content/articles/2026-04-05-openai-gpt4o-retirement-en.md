@@ -2,7 +2,7 @@
 title: "The End of GPT-4o: OpenAI Completes Model Retirement as GPT-5.4 Becomes the New Standard"
 summary: "OpenAI completed the full retirement of GPT-4o on April 3, 2026, alongside GPT-4.1 and o4-mini. Only 0.1% of daily users were still choosing GPT-4o at the time of retirement. GPT-5.4 — available in Standard, Thinking, and Pro variants — is now the platform baseline, while Gemini 3.1 Pro leads 13 of 16 major benchmarks at roughly one-third of the API cost."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:20:00Z
 lang: "en"
 featured: false
 trending: false

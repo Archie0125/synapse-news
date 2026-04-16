@@ -29,6 +29,12 @@ const { lang = 'en' } = Astro.props;
         </a>
       ))}
       <a
+        href={`/${lang}/all/`}
+        class="px-3 py-1.5 text-sm font-medium text-[var(--color-text-muted)] hover:text-[var(--color-text)] rounded-lg hover:bg-[var(--color-surface)] transition-colors"
+      >
+        {t(lang, 'nav.all')}
+      </a>
+      <a
         href={`/${lang}/threads/`}
         class="px-3 py-1.5 text-sm font-medium text-[var(--color-text-muted)] hover:text-[var(--color-text)] rounded-lg hover:bg-[var(--color-surface)] transition-colors"
       >
@@ -75,6 +81,12 @@ const { lang = 'en' } = Astro.props;
           {getCategoryName(lang, cat.slug)}
         </a>
       ))}
+      <a
+        href={`/${lang}/all/`}
+        class="px-3 py-2 text-sm font-medium text-[var(--color-text-muted)] hover:text-[var(--color-text)] rounded-lg hover:bg-[var(--color-surface)]"
+      >
+        {t(lang, 'nav.all')}
+      </a>
     </div>
   </nav>
 </header>

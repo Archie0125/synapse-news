@@ -2,7 +2,7 @@
 title: "RISC-V AI Accelerators: The Dark Horse Nobody's Watching"
 summary: "While everyone fights over NVIDIA and AMD GPUs, a handful of startups are building AI chips on the open RISC-V architecture. They're years from maturity — but the implications for AI sovereignty are enormous."
 category: "hardware"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:15:00Z
 lang: "en"
 featured: false
 trending: false

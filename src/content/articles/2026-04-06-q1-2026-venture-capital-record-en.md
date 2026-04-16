@@ -2,7 +2,7 @@
 title: "Q1 2026 Shatters All VC Records: $300 Billion Invested, AI Claims 80% of Global Startup Funding"
 summary: "Global venture capital investment hit $300 billion in Q1 2026, a new all-time quarterly record and 150% above both Q4 2025 and Q1 2025 levels. AI companies captured $242 billion of that total — 80% of all global startup funding — driven by OpenAI's $120 billion mega-round and similar raises by Anthropic, xAI, and Waymo. The concentration and scale raise urgent questions about whether the ecosystem has entered bubble territory."
 category: "startups"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:40:00Z
 lang: "en"
 featured: false
 trending: true

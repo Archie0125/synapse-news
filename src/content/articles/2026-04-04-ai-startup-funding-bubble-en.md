@@ -2,7 +2,7 @@
 title: "AI Startup Funding in 2026: The Bubble That Refuses to Pop"
 summary: "VC money is flooding into AI startups at unprecedented rates, but the math doesn't work for 90% of them. The reckoning is coming — just not when you'd expect."
 category: "startups"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:05:00Z
 lang: "en"
 featured: false
 trending: true

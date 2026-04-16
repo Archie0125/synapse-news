@@ -2,7 +2,7 @@
 title: "Cognichip Raises $60M to Let AI Design the Next Generation of Chips — Intel CEO Joins Board"
 summary: "Cognichip, a San Francisco startup using physics-informed AI models to radically cut chip design costs and timelines, raised a $60M Series A led by Seligman Ventures. The company claims 75% cost reduction and 50% timeline compression. Intel CEO Lip-Bu Tan's board seat sends a pointed signal about where the semiconductor industry thinks custom silicon design is heading."
 category: "startups"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:15:00Z
 lang: "en"
 featured: false
 trending: false

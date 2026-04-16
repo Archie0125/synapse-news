@@ -2,7 +2,7 @@
 title: "Intel Pays $14.2B to Buy Back Ireland's Fab 34 from Apollo — A Reversal That Signals Recovery"
 summary: "Intel will repurchase Apollo Global Management's 49% stake in its Leixlip, Ireland fabrication plant for $14.2 billion — paying a $3 billion premium over what Apollo paid just 18 months ago. The deal hands Intel full ownership of its most advanced EUV fab as the company positions itself to compete for foundry customers against TSMC."
 category: "hardware"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:40:00Z
 lang: "en"
 featured: false
 trending: true

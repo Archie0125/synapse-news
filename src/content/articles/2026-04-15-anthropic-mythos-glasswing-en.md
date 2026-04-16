@@ -2,7 +2,7 @@
 title: "Anthropic's AI Finds Thousands of Zero-Days—Then Launches a $100M Defense Fund Instead of Releasing It"
 summary: "Anthropic's Claude Mythos Preview autonomously identified thousands of previously unknown vulnerabilities in every major OS and browser, including bugs hidden for 27 years. Deeming the model too dangerous to release publicly, Anthropic instead launched Project Glasswing: a $100 million defensive initiative with 11 tech titans to patch critical software before adversaries can exploit similar capabilities."
 category: "ai-ml"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:05:00Z
 lang: "en"
 featured: true
 trending: true

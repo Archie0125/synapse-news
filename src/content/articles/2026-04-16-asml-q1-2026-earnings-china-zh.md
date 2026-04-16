@@ -2,7 +2,7 @@
 title: "ASML 第一季財報超預期、上調全年展望，但中國營收佔比暴跌至 19%"
 summary: "全球唯一極紫外光刻機製造商 ASML 公布 Q1 淨銷售額達 88 億歐元，並將全年營收預期上調至 360–400 億歐元，但中國市佔率從 36% 急墜至 19%，加上美國國會推進更嚴格出口禁令，股價逆勢收低。"
 category: "hardware"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:00:00Z
 lang: "zh"
 featured: false
 trending: true

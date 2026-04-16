@@ -2,7 +2,7 @@
 title: "The Solo Founder + AI Stack: Building a $1M Company With Zero Employees"
 summary: "A growing number of founders are using AI to run entire companies solo — no employees, no contractors, just one person and a stack of AI tools grossing seven figures."
 category: "startups"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:55:00Z
 lang: "en"
 featured: false
 trending: false

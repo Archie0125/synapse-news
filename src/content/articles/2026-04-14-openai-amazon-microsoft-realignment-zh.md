@@ -2,7 +2,7 @@
 title: "OpenAI 內部備忘錄外洩：微軟夥伴關係「受限」，亞馬遜 500 億美元大單成新軸心"
 summary: "OpenAI 首席營收長 Denise Dresser 傳給員工的內部備忘錄遭媒體披露，直言微軟合作夥伴關係「限制了我們觸及企業客戶的能力」。這份同時對 Anthropic 財務數字發出質疑的文件，標誌著 AI 企業雲端市場正經歷一場歷史性重組——亞馬遜 500 億美元的投資，正在從根本上改變世界最強大 AI 模型的部署路徑。"
 category: "industry"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:20:00Z
 lang: "zh"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "NVIDIA's Blackwell Chips Are Sold Out Through 2027. Here's Why That Matters for Everyone."
 summary: "The GPU shortage isn't just an NVIDIA problem — it's reshaping the entire AI industry's power structure. Companies that secured allocation early are pulling away. Everyone else is scrambling."
 category: "hardware"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:10:00Z
 lang: "en"
 featured: false
 trending: false

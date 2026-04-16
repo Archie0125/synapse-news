@@ -2,7 +2,7 @@
 title: "Anthropic's Claude Mythos Is Too Dangerous to Release. So It Built Project Glasswing Instead."
 summary: "Anthropic has launched Project Glasswing, a restricted cybersecurity initiative giving 40+ elite organizations access to Claude Mythos Preview — a frontier model Anthropic considers too powerful to release publicly. The model has already identified thousands of zero-day vulnerabilities in every major operating system and browser, some dormant for decades, raising urgent questions about the dual-use nature of advanced AI."
 category: "ai-ml"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:00:00Z
 lang: "en"
 featured: false
 trending: true

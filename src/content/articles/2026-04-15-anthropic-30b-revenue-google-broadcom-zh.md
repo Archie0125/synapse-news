@@ -2,7 +2,7 @@
 title: "Anthropic 年化營收破 300 億美元，並與 Google 及 Broadcom 鎖定 3.5 吉瓦算力"
 summary: "Anthropic 在短短 90 天內將年化營收成長三倍，突破 300 億美元，超越 OpenAI 成為 AI 業界最高收入公司。與此同時，公司與 Google 及 Broadcom 簽訂里程碑式算力協議，確保 2027 年起取得 3.5 吉瓦的次世代 TPU 容量。執行長 Dario Amodei 坦言，他一再低估自家公司的成長速度。"
 category: "startups"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:00:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Utah Lets an AI Chatbot Renew Psychiatric Prescriptions Without a Doctor"
 summary: "Utah's regulatory sandbox has approved Legion Health to allow its AI chatbot to autonomously renew prescriptions for 15 psychiatric medications—making Utah the first government in the world to authorize AI for autonomous psychiatric prescribing. The approval comes weeks after a previous Utah AI prescription pilot was successfully jailbroken, raising immediate questions about the clinical safety of moving faster than medical safeguards can keep up."
 category: "policy"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:40:00Z
 lang: "en"
 featured: false
 trending: true

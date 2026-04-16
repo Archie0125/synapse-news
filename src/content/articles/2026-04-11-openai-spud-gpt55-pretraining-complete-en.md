@@ -2,7 +2,7 @@
 title: "OpenAI's 'Spud' Finishes Pretraining — GPT-5.5 or GPT-6 Could Land Within Weeks"
 summary: "OpenAI completed pretraining on its next major model, internally codenamed 'Spud,' on March 24. CEO Sam Altman called it 'a very strong model that could really accelerate the economy,' while President Greg Brockman described it as 'two years of research' representing a qualitatively different kind of capability leap. With safety evaluation now underway, prediction markets put 78% odds on a public release before the end of April — and the final commercial name, GPT-5.5 or GPT-6, is still undecided."
 category: "ai-ml"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:15:00Z
 lang: "en"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "MCP 是新的 API：為什麼 Model Context Protocol 正在悄悄重塑 AI 基礎設施"
 summary: "Anthropic 的開源 AI 工具連接協議剛突破一萬個社群實作。MCP 可能是自 REST 以來最重要的基礎設施標準。"
 category: "developer-tools"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:40:00Z
 lang: "zh"
 featured: false
 trending: true

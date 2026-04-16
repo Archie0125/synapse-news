@@ -2,7 +2,7 @@
 title: "大科技的大置換：裁掉人類，用三倍薪水搶 AI 工程師"
 summary: "科技公司過去一年裁員 18 萬人，同時以驚人的薪資開出創紀錄的 AI 職缺。勞動力轉型正在即時發生。"
 category: "industry"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:20:00Z
 lang: "zh"
 featured: false
 trending: false

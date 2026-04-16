@@ -2,7 +2,7 @@
 title: "Google 與 Intel 擴大多年期 AI 晶片合作：Xeon 6 加客製 IPU 搶攻資料中心"
 summary: "Google 與 Intel 於 4 月 9 日宣布擴大多年期合作協議，Google Cloud 承諾採用多代 Intel Xeon 6 處理器執行 AI 工作負載，同時深化雙方自 2022 年起共同開發的客製基礎架構處理單元（IPU）。這項協議讓 Intel 在長期由 Nvidia 主導的資料中心市場取得重要立足點，也預示著 CPU 在 AI 基礎架構中的地位正悄然回歸。"
 category: "hardware"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:05:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "The Browser War Nobody Expected: What Arc's Pivot Means for the Future of Software"
 summary: "Arc didn't fail because the product was bad. It failed because building a better browser isn't a viable business. That's a much scarier lesson for the entire software industry."
 category: "products"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:00:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "IonQ Links Two Quantum Computers via Photonic Network in World First, Wins DARPA Contract"
 summary: "IonQ announced on April 14 that it has achieved the first-ever photonic interconnect between two separate commercial trapped-ion quantum systems, demonstrating quantum entanglement between two independent computers at a distance. The same day, the company was selected for DARPA's HARQ program to build multi-qubit heterogeneous quantum networks — sending its stock surging nearly 20%."
 category: "hardware"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:15:00Z
 lang: "en"
 featured: false
 trending: true

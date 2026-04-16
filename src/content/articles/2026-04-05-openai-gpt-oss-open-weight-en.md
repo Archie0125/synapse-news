@@ -2,7 +2,7 @@
 title: "OpenAI Releases First Open-Weight Models in Seven Years, Challenging Meta's Llama Dominance"
 summary: "OpenAI has released two open-weight models — gpt-oss-20b and gpt-oss-120b — under the Apache 2.0 license, ending a seven-year absence from open-source AI. The models target agentic workflows and directly compete with Meta's Llama series on both performance and permissive licensing."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:15:00Z
 lang: "en"
 featured: true
 trending: true

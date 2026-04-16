@@ -2,7 +2,7 @@
 title: "NVIDIA Vera Rubin NVL72正式量產：推論效能達Blackwell五倍，提前出貨"
 summary: "NVIDIA最新一代AI超級電腦Vera Rubin NVL72已提前進入量產，早於原定2026年下半年時程。這套機架級系統每架可提供3.6艾次方浮點運算的推論算力，每個Token成本較Blackwell降低最多十倍，AWS、Google Cloud、微軟Azure及CoreWeave等雲端巨頭已在首波部署名單之列。"
 category: "hardware"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Google Releases Gemma 4 Under Apache 2.0 — and the License Change May Matter More Than the Benchmarks"
 summary: "Google DeepMind released Gemma 4 on April 2 under the Apache 2.0 open-source license, a first for the Gemma family. The 31B dense model ranks #3 globally across all models on the Arena AI leaderboard, outperforming many closed commercial systems, while the Apache licensing removes the usage restrictions that limited enterprise and commercial adoption of previous Gemma versions."
 category: "developer-tools"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:25:00Z
 lang: "en"
 featured: false
 trending: true

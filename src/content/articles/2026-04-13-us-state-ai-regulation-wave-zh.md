@@ -2,7 +2,7 @@
 title: "聯邦共識瓦解，美國 AI 監管沿州界碎裂擴散"
 summary: "在聯邦 AI 立法陷入僵局的情況下，美國各州已成為消費者 AI 的實際監管者。本週內布拉斯加州通過《對話式 AI 安全法》，要求聊天機器人揭露 AI 身份並為未成年用戶建立危機應對協議。全國各地州級法案的拼布，正在製造業界警告將傷害創新的碎片化合規環境——而倡議者則指出，這是消費者目前擁有的唯一保護。"
 category: "policy"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:35:00Z
 lang: "zh"
 featured: false
 trending: false

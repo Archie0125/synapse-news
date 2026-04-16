@@ -2,7 +2,7 @@
 title: "Defense AI Startup Shield AI Raises $2B at $12.7B Valuation, Acquires Flight Simulator Firm"
 summary: "Shield AI closed a $2.25B capital package — a $1.5B Series G led by Advent International and JPMorgan Chase plus $500M in Blackstone preferred equity — valuing the autonomous warfare AI company at $12.7B, up 140% from its prior round. The company projects $540M+ in 2026 revenue and is acquiring Aechelon Technology to expand its autonomous combat training stack."
 category: "startups"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:35:00Z
 lang: "en"
 featured: false
 trending: true

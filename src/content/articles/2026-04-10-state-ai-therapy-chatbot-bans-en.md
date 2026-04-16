@@ -2,7 +2,7 @@
 title: "Maine and Missouri Move to Ban AI Therapy Chatbots as States Race to Regulate Mental Health AI"
 summary: "Maine's LD 2082, which bans licensed mental health providers from using AI for independent therapeutic decisions, passed both legislative chambers on April 7–8 and heads to the governor. Missouri's HB 2372 passed the full House on April 2 with a $10,000 first-offense penalty clause, and now sits in the Senate. The twin developments signal an accelerating state-level movement to draw hard legal lines around AI in mental healthcare."
 category: "policy"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:30:00Z
 lang: "en"
 featured: false
 trending: true

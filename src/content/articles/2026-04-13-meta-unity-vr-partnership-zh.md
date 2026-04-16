@@ -2,7 +2,7 @@
 title: "Meta 與 Unity 續簽多年 VR 合作協議，押注元宇宙需要一個遊戲引擎"
 summary: "Unity 與 Meta 簽署延長版多年平台合作協議，深化 Unity 作為 Meta VR 生態系主要開發工具的地位。協議涵蓋遊戲與企業應用，並提供更緊密的硬體整合支援。此舉也是 Unity 走出 2023 至 2024 年「Runtime Fee 風波」後，最具分量的外部背書。"
 category: "developer-tools"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:10:00Z
 lang: "zh"
 featured: false
 trending: false

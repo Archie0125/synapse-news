@@ -2,7 +2,7 @@
 title: "Cursor vs Devin vs Claude Code：AI 寫程式大戰越來越白熱化"
 summary: "三種截然不同的 AI 寫程式願景正在正面交鋒。最後的贏家不會是寫出最好程式碼的那個，而是最懂開發者的那個。"
 category: "developer-tools"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

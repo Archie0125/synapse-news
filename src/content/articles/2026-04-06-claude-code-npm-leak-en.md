@@ -2,7 +2,7 @@
 title: "Anthropic Accidentally Publishes 512,000 Lines of Claude Code Source to npm"
 summary: "A misconfigured build step in Claude Code v2.1.88 exposed 1,906 TypeScript files and 512,000 lines of source code to the public npm registry — the agentic harness governing how Claude uses tools, manages files, and orchestrates multi-agent workflows. The code spread to 50,000+ GitHub stars within hours before Anthropic pulled the package."
 category: "developer-tools"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:15:00Z
 lang: "en"
 featured: false
 trending: true

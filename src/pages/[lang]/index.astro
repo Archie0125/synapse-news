@@ -6,6 +6,7 @@ import StoryCard from '../../components/StoryCard.astro';
 import StoryCardCompact from '../../components/StoryCardCompact.astro';
 import TrendingBar from '../../components/TrendingBar.astro';
 import CategoryPill from '../../components/CategoryPill.astro';
+import SortBar from '../../components/SortBar.astro';
 import { CATEGORIES } from '../../lib/categories';
 import { LANGS, t, getCategoryName, type Lang } from '../../lib/i18n';
 import { SITE } from '../../data/site';
@@ -78,8 +79,11 @@ const byCategory = CATEGORIES.map(cat => ({
 
     <div class="grid lg:grid-cols-3 gap-8 mb-12">
       <div class="lg:col-span-2">
-        <h2 class="font-headline text-2xl mb-4">{t(lang, 'home.latest')}</h2>
-        <div>
+        <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
+          <h2 class="font-headline text-2xl">{t(lang, 'home.latest')}</h2>
+          <SortBar lang={lang} listId="home-latest" />
+        </div>
+        <div id="home-latest">
           {latest.map(article => (
             <StoryCard
               title={article.data.title}
@@ -89,6 +93,9 @@ const byCategory = CATEGORIES.map(cat => ({
               slug={article.id}
               content={article.body ?? ''}
               lang={lang}
+              featured={article.data.featured}
+              trending={article.data.trending}
+              type={article.data.type}
             />
           ))}
         </div>

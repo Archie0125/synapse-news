@@ -2,7 +2,7 @@
 title: "Grok 5 Misses Q1 Deadline as xAI Scales Colossus 2 to 1.5 Gigawatts"
 summary: "xAI's Grok 5, a reported 6-trillion-parameter Mixture-of-Experts model, slipped past its Q1 2026 launch window and is now targeting Q2. Meanwhile, Elon Musk confirmed that the Colossus 2 supercluster in Memphis is expanding from 1 gigawatt to 1.5 gigawatts by April to support fine-tuning and inference at scale."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:40:00Z
 lang: "en"
 featured: false
 trending: true

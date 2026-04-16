@@ -2,7 +2,7 @@
 title: "Waymo Opens Nashville as Its 11th Robotaxi City, Picks Lyft Over Uber in Strategic Shift"
 summary: "Waymo launched fully autonomous ride-hailing in Nashville on April 7, covering a 60-square-mile service area from Broadway to East Nashville. In a notable strategic choice, Waymo selected Lyft—not its longtime partner Uber—as its fleet management partner, signaling that Waymo is deliberately cultivating competition among ride-hailing platforms for the right to distribute its autonomous rides."
 category: "products"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:35:00Z
 lang: "en"
 featured: false
 trending: true

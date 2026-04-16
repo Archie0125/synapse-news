@@ -2,7 +2,7 @@
 title: "中美晶片戰 3.0：NVIDIA 不可能的平衡術"
 summary: "新一輪出口管制剛落地，NVIDIA 被夾在中間。他們損失 150 億美元以上的中國營收，同時北京加速國產晶片開發。這場遊戲沒有人贏。"
 category: "policy"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:25:00Z
 lang: "zh"
 featured: false
 trending: false

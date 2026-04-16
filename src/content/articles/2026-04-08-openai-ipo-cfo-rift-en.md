@@ -2,7 +2,7 @@
 title: "OpenAI's $1 Trillion IPO Dream Is Fracturing at the Top"
 summary: "Internal tensions between CEO Sam Altman and CFO Sarah Friar have surfaced over the timeline for OpenAI's landmark IPO, which Altman is targeting for Q4 2026 at a $1 trillion valuation. Friar has reportedly warned colleagues the company is not ready, citing a $600 billion spending commitment that outpaces revenue growth. The C-suite divide echoes OpenAI's 2023 board crisis and raises fresh questions about governance at the world's most valuable private AI company."
 category: "industry"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:25:00Z
 lang: "en"
 featured: true
 trending: true

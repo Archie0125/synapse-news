@@ -2,7 +2,7 @@
 title: "Google's Gemini-Everywhere Strategy: Brilliant Distribution or Desperate Dilution?"
 summary: "Gemini is now in Search, Gmail, Docs, Android, Chrome, Maps, and Photos. Google is shoving AI into every product it owns. The question is whether ubiquity equals value."
 category: "products"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:35:00Z
 lang: "en"
 featured: true
 trending: true

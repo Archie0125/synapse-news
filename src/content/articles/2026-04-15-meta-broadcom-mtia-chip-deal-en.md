@@ -2,7 +2,7 @@
 title: "Meta Commits 1 Gigawatt to Broadcom in Sweeping Custom AI Chip Deal"
 summary: "Meta Platforms announced a major expansion of its partnership with Broadcom on April 14, committing to deploy over one gigawatt of custom AI accelerators based on Broadcom's XPU platform through multiple MTIA chip generations. The multi-year deal extends through 2029 and signals Meta's serious intent to reduce its dependence on Nvidia as the AI infrastructure arms race intensifies."
 category: "hardware"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:20:00Z
 lang: "en"
 featured: false
 trending: true

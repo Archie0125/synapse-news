@@ -2,7 +2,7 @@
 title: "SpaceX-xAI 合并上市目標估值突破 2 兆美元：「軌道智慧」成新投資主軸"
 summary: "SpaceX 於 2 月正式以 1.25 兆美元合併 xAI，兩個月後據彭博報導，銀行業者在向機構投資人試水溫的過程中，已將合併實體的 IPO 目標估值上調至逾 2 兆美元。本次募資的核心論述已重新建構為馬斯克所稱的「軌道智慧」——以 Starlink 軌道衛星為基礎的太空資料中心，旨在繞過制約 AI 成長的地面能源瓶頸。"
 category: "startups"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:30:00Z
 lang: "zh"
 featured: false
 trending: true

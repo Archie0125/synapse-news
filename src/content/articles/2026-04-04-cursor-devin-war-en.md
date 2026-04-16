@@ -2,7 +2,7 @@
 title: "Cursor vs Devin vs Claude Code: The AI Coding War Is Getting Personal"
 summary: "Three very different visions for how AI should write code are now in direct competition. The winner won't be whoever writes the best code — it'll be whoever understands developers best."
 category: "developer-tools"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:25:00Z
 lang: "en"
 featured: false
 trending: true

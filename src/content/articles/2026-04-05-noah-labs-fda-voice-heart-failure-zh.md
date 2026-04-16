@@ -2,7 +2,7 @@
 title: "五秒錄音或能救心衰竭患者一命：FDA 給了 Noah Labs 一個關鍵認證"
 summary: "Noah Labs 的 AI 語音監測工具 Vox 獲得 FDA 突破性器材認定，透過分析每日五秒語音錄音，在住院前偵測心衰竭惡化跡象。這項工具已與梅奧診所及加大舊金山分校合作驗證，FDA 的認定代表主管機關認可其背後存在真實臨床證據。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:00:00Z
 lang: "zh"
 featured: false
 trending: false

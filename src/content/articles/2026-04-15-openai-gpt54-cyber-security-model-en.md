@@ -2,7 +2,7 @@
 title: "OpenAI Launches GPT-5.4-Cyber: A Specialized AI Model for Defensive Cybersecurity"
 summary: "OpenAI unveiled GPT-5.4-Cyber on April 14, a fine-tuned variant of its flagship GPT-5.4 model built exclusively for vetted cybersecurity professionals. The release includes tiered access under an expanded Trusted Access for Cyber program and marks the latest salvo in a rapidly escalating AI arms race for digital defense."
 category: "ai-ml"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:30:00Z
 lang: "en"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "Intel 斥資 142 億美元買回愛爾蘭 Fab 34 股權，股價單日飆升 8.8%"
 summary: "Intel 宣布以 142 億美元買回 Apollo 全球管理公司持有的愛爾蘭 Leixlip Fab 34 廠房 49% 股權，較 Apollo 2024 年的收購價溢價 27%。此舉是 Intel 執行長譚力行（Lip-Bu Tan）主導轉型計畫的有力背書，也顯示市場對晶片生產能力的戰略估值持續走高。"
 category: "hardware"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:35:00Z
 lang: "zh"
 featured: false
 trending: false

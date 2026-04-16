@@ -2,7 +2,7 @@
 title: "川普行政命令啟動司法部工作組，聯邦政府開始正面挑戰各州 AI 法規"
 summary: "美國司法部 AI 訴訟工作組自今年 1 月 10 日正式運作以來，已開始依據川普政府 2025 年 12 月簽署的行政命令，對牴觸聯邦政策的各州 AI 法規提起訴訟。在超過 20 個州已實施全面 AI 法律的背景下，這場聯邦與地方的對峙結果，將決定未來十年美國 AI 治理由誰主導。"
 category: "policy"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:35:00Z
 lang: "zh"
 featured: false
 trending: false

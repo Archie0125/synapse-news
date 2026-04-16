@@ -2,7 +2,7 @@
 title: "Microsoft Launches Three In-House AI Models, Declaring Independence from OpenAI"
 summary: "Microsoft's MAI Superintelligence team released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 on April 2, signaling a strategic pivot toward first-party AI capabilities. The move, led by Mustafa Suleyman, challenges OpenAI and Google on speech, voice, and image generation benchmarks."
 category: "developer-tools"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:50:00Z
 lang: "en"
 featured: true
 trending: true

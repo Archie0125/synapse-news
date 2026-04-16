@@ -2,7 +2,7 @@
 title: "Apple's Secret AI Server Chip Gets a Glass Upgrade — and Samsung Is Supplying It"
 summary: "Apple is advancing development of its first custom AI server chip, codenamed Baltra, while Samsung Electro-Mechanics has begun supplying experimental glass substrate samples for packaging. The collaboration marks Apple as the last major tech hyperscaler to build its own AI silicon, while the glass substrate technology represents a potential generational leap in chip packaging that could reshape AI hardware economics in the 2027–2028 timeframe."
 category: "hardware"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:05:00Z
 lang: "en"
 featured: false
 trending: true

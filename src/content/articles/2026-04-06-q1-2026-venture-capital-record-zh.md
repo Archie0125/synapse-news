@@ -2,7 +2,7 @@
 title: "Q1 2026 打破所有創投紀錄：單季 3,000 億美元，AI 佔全球新創融資八成"
 summary: "2026 年第一季全球創投金額達 3,000 億美元，創史上單季最高紀錄，較 2025 年第四季及去年同期均成長超過 150%。其中 AI 公司吸納 2,420 億美元，佔全球新創融資的 80%，由 OpenAI 1,200 億美元超大輪融資領頭，Anthropic、xAI 和 Waymo 緊隨其後。高度集中的資本流向與破紀錄的規模，引發外界對泡沫風險的高度警惕。"
 category: "startups"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:40:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "合成資料正在吃掉真實資料：沒人在談的訓練資料危機"
 summary: "AI 實驗室快用完高品質的人類生成訓練資料了。解方 — 用 AI 生成的資料來訓練 — 效果出奇地好，但產生了沒人完全理解的風險。"
 category: "ai-ml"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T10:00:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "America's AI Regulation Fractures Along State Lines as Federal Consensus Collapses"
 summary: "With federal AI legislation stalled, U.S. states have become the de facto regulators of consumer AI. Nebraska's Conversational AI Safety Act passed this week, mandating chatbot disclosures and crisis protocols for minor users. Across the country, a patchwork of state-level bills is creating a fragmented compliance landscape that industry groups warn could harm innovation — while advocates argue it is the only protection consumers have."
 category: "policy"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:35:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Saronic完成17.5億美元D輪融資，以92.5億美元估值打造工業規模自主無人艦隊"
 summary: "總部位於德州奧斯汀的Saronic Technologies宣布完成由Kleiner Perkins領投的17.5億美元D輪融資，公司估值從40億躍升至92.5億美元。這家新創正以超越傳統國防產業的速度與成本，為美國海軍大規模生產自主水面艦艇，押注無人海上系統將重塑未來戰場的力量投射方式。"
 category: "startups"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:30:00Z
 lang: "zh"
 featured: true
 trending: true

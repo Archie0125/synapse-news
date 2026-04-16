@@ -2,7 +2,7 @@
 title: "Nvidia 砸 20 億入股 Marvell：NVLink 互連網路才是真正護城河"
 summary: "Nvidia 宣布以 20 億美元入股 Marvell Technology，並推出 NVLink Fusion 平台，讓第三方客製 AI 加速器能直接接入 Nvidia 的高速互連架構。此舉揭示 Nvidia 的策略轉向：未來的主導地位或許不在 GPU 壟斷，而在掌控整個業界的網路層。"
 category: "hardware"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:05:00Z
 lang: "zh"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Waymo 進駐納什維爾成第 11 城：棄 Uber 選 Lyft，自動駕駛版圖戰略轉向"
 summary: "Waymo 於 4 月 7 日在納什維爾正式開放全自動叫車服務，初始服務覆蓋 60 平方英里範圍，從百老匯到東納什維爾一帶。值得注意的是，Waymo 這次選擇 Lyft——而非長期合作夥伴 Uber——擔任車隊管理夥伴，外界普遍解讀為 Waymo 正刻意讓叫車平台相互競爭，爭取分銷自動駕駛乘車服務的機會。"
 category: "products"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:35:00Z
 lang: "zh"
 featured: false
 trending: true

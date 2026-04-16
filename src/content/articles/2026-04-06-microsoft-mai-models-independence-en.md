@@ -2,7 +2,7 @@
 title: "Microsoft Breaks Free: Three In-House MAI Models Signal End of OpenAI Dependency"
 summary: "Microsoft has launched three foundational AI models built entirely in-house — MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 — marking the most concrete evidence yet that the company intends to compete directly with OpenAI. The move follows a renegotiated partnership that freed Microsoft to build frontier models while retaining access to OpenAI's output through 2032."
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:30:00Z
 lang: "en"
 featured: true
 trending: true

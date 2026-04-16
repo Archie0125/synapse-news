@@ -2,7 +2,7 @@
 title: "垂直 AI SaaS 正在一個接一個吃掉無聊產業"
 summary: "2026 年最讓人興奮的 AI 公司不是在做聊天機器人，而是在自動化保險理賠、牙科病歷和貨運物流。無聊的才會贏。"
 category: "startups"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:30:00Z
 lang: "zh"
 featured: false
 trending: false

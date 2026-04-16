@@ -2,7 +2,7 @@
 title: "Meta Launches Muse Spark, Its First Proprietary AI Model From Superintelligence Labs"
 summary: "Meta has officially launched Muse Spark, the first AI model built by Meta Superintelligence Labs under Alexandr Wang. The proprietary model marks a dramatic break from Meta's open-source Llama tradition, competing with frontier models from OpenAI and Google on benchmarks while showing standout strength in health reasoning and multimodal vision tasks."
 category: "ai-ml"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:10:00Z
 lang: "en"
 featured: true
 trending: true

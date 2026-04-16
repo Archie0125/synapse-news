@@ -2,7 +2,7 @@
 title: "OpenAI Launches GPT-5.4-Cyber, a Permissive AI Model for Verified Security Professionals"
 summary: "OpenAI has released GPT-5.4-Cyber, a specialized variant of its flagship model fine-tuned for defensive cybersecurity work, accessible only to vetted users through an expanded Trusted Access for Cyber program. The launch arrives exactly one week after Anthropic's own Mythos model shook the security community, signaling a new arms race in AI-assisted cyber defense."
 category: "ai-ml"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:25:00Z
 lang: "en"
 featured: false
 trending: true

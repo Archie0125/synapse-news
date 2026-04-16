@@ -2,7 +2,7 @@
 title: "科技巨頭押注核能：AI 的電力飢渴如何讓一個「垂死」產業起死回生"
 summary: "微軟、Meta、亞馬遜與 Google 已合計承諾為旗下 AI 資料中心採購數十 GW 的核電，超大規模雲端業者的角色正從「電力消費者」轉變為「新世代反應爐的融資者」。這些橫跨重啟電廠、壽命延役以及 TerraPower、Oklo、Kairos 等公司小型模組化反應爐的協議，標誌著 AI 的電力需求已永久改變能源投資格局。"
 category: "industry"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:15:00Z
 lang: "zh"
 featured: false
 trending: true

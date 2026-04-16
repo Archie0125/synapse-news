@@ -2,7 +2,7 @@
 title: "AMD MI300X 終於在拿下企業訂單了。到底什麼變了？"
 summary: "在當了 NVIDIA 配角多年之後，AMD 的 AI GPU 正在拿到真正的企業合約。CUDA 護城河是真的但正在侵蝕，而價差已經大到無法忽視。"
 category: "hardware"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:10:00Z
 lang: "zh"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "MATCH 法案：美國國會出手，劍指中國晶片業最後命脈"
 summary: "美國國會跨黨派議員提出 MATCH 法案，擬全面禁止向華為、中芯國際、長鑫、長江存儲等中國企業出口深紫外線（DUV）浸潤式微影設備及相關晶片製程工具，並要求荷蘭、日本、南韓等盟國在 150 天內跟進管制，否則將面臨美國直接制裁。"
 category: "policy"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:30:00Z
 lang: "zh"
 featured: false
 trending: true

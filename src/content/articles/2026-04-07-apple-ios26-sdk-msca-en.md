@@ -2,7 +2,7 @@
 title: "Apple Sets April 28 iOS 26 SDK Deadline as EU Forces Open App Distribution"
 summary: "Apple has announced that all App Store submissions must use the iOS 26 SDK starting April 28, 2026, forcing developers to update their toolchains. Simultaneously, EU Mobile Software Competition Act compliance in iOS 26.2 is unlocking alternative app marketplaces, third-party payment processing, and independent distribution for the first time — the biggest structural change to the App Store since its 2008 launch."
 category: "developer-tools"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:10:00Z
 lang: "en"
 featured: false
 trending: true

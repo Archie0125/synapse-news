@@ -2,7 +2,7 @@
 title: "WeRide and Uber Launch Fully Driverless Commercial Robotaxis in Dubai — No Safety Driver, No Exceptions"
 summary: "Chinese autonomous driving company WeRide has launched fully driverless, fare-charging robotaxi operations in Dubai in partnership with Uber, marking the first commercial driverless taxi service in the Middle East. Passengers book through the Uber app, no human operator is present in the vehicle, and the service covers major coastal and commercial districts with plans to expand to 1,200 vehicles across three Gulf cities by year-end."
 category: "products"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:45:00Z
 lang: "en"
 featured: false
 trending: true

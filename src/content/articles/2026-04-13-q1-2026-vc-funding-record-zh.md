@@ -2,7 +2,7 @@
 title: "AI 改寫創投史：2026 年第一季近 3,000 億美元資金湧入新創市場"
 summary: "2026 年第一季全球創投金額接近 3,000 億美元，創下單季歷史紀錄，其中 AI 企業吸納了 80% 的資金。OpenAI、Anthropic、xAI、Waymo 四家公司合計吸走全球創投總額的 65%，資金高度集中於少數前沿實驗室的現象引發熱議。"
 category: "industry"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

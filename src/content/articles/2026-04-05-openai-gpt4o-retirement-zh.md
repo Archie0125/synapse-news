@@ -2,7 +2,7 @@
 title: "GPT-4o 時代落幕：OpenAI 完成模型退役，GPT-5.4 成為新標準"
 summary: "OpenAI 於 2026 年 4 月 3 日完成 GPT-4o 的全面退役，同步下架 GPT-4.1 和 o4-mini。退役時，每日僅有 0.1% 的用戶仍選擇 GPT-4o。GPT-5.4 提供 Standard、Thinking 和 Pro 三個版本，已成為平台新基準——但 Gemini 3.1 Pro 以約三分之一的 API 成本，在 16 項主要基準測試中的 13 項領先。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:20:00Z
 lang: "zh"
 featured: false
 trending: false

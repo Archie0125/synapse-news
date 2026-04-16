@@ -2,7 +2,7 @@
 title: "Anthropic年化營收達300億美元，超越OpenAI登頂全球AI公司"
 summary: "Anthropic年化營收（ARR）已達300億美元，超越OpenAI的250億美元，成為全球收入最高的AI公司。這一里程碑伴隨著一項與Google及博通簽訂的巨型算力協議——多吉瓦特TPU產能將於2027年起上線——同時也顯示兩家公司都在加速朝IPO邁進，儘管算力成本的成長速度有追上甚至超過營收的風險。"
 category: "industry"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:05:00Z
 lang: "zh"
 featured: false
 trending: false

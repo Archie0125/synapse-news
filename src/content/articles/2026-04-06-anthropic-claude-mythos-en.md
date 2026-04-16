@@ -2,7 +2,7 @@
 title: "Anthropic's Claude Mythos: The Leaked 'Step-Change' Model Rewriting AI Safety Calculus"
 summary: "Anthropic has accidentally confirmed the existence of Claude Mythos — its most powerful model ever, leaked through a misconfigured content management system. Early testers describe it as a new tier beyond Opus, with unprecedented capabilities in reasoning and cybersecurity that bring both immense promise and serious dual-use risk."
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:05:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Anthropic Claude Mythos：意外洩露的「世代躍進」模型，重寫 AI 安全算式"
 summary: "Anthropic 因內容管理系統設定錯誤，無意間公開了其迄今最強大模型「Claude Mythos」的存在。早期測試者描述它是超越 Opus 的全新等級，在推理與資安領域展現出史無前例的能力——同時也帶來令人憂慮的雙重用途風險。"
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:05:00Z
 lang: "zh"
 featured: false
 trending: true

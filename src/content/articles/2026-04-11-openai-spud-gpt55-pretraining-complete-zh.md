@@ -2,7 +2,7 @@
 title: "OpenAI「Spud」完成預訓練——GPT-5.5還是GPT-6，數週內揭曉"
 summary: "OpenAI的下一代旗艦模型，內部代號「Spud」，已於3月24日完成預訓練。執行長Sam Altman形容這是「能真正加速經濟發展的強力模型」，總裁Greg Brockman則稱其代表「兩年研究成果」、帶來質的改變。預測市場目前給出78%的機率，認為公開版本將在4月底前上線——而最終商業名稱是GPT-5.5還是GPT-6，至今仍懸而未定。"
 category: "ai-ml"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:15:00Z
 lang: "zh"
 featured: true
 trending: true

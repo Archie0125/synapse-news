@@ -2,7 +2,7 @@
 title: "OpenAI, Anthropic, and Google Unite to Block Chinese AI Model Copying"
 summary: "Three of the world's leading AI labs are formally sharing intelligence through the Frontier Model Forum to detect and block 'adversarial distillation' — a technique where outside labs bombard US AI systems with automated prompts to clone their behavior. Anthropic alone documented 16 million extraction attempts linked to Chinese AI firms, escalating the fight over intellectual property at the AI frontier."
 category: "policy"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:00:00Z
 lang: "en"
 featured: true
 trending: true

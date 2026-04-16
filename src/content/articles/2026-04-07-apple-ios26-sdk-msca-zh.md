@@ -2,7 +2,7 @@
 title: "Apple訂4月28日iOS 26 SDK截止日，歐盟強制開放替代應用市集"
 summary: "Apple宣布自2026年4月28日起，所有App Store審核提交必須使用iOS 26 SDK建構，開發者工具鏈的升級迫在眉睫。與此同時，歐盟《行動軟體競爭法》（MSCA）要求Apple在iOS 26.2中開放替代應用市集、第三方支付及獨立發行，這是App Store自2008年上線以來結構最劇烈的一次變革。"
 category: "developer-tools"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:10:00Z
 lang: "zh"
 featured: false
 trending: false

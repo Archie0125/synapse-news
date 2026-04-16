@@ -2,7 +2,7 @@
 title: "New York's RAISE Act Becomes Law, Igniting Federal-State AI Regulation War"
 summary: "Governor Kathy Hochul signed New York's Responsible AI Safety and Education Act into law on March 27, establishing the most stringent AI safety framework enacted by any U.S. state. The law takes effect January 1, 2027, but the Trump administration's DOJ AI Litigation Task Force is already positioned to challenge it — setting up a defining constitutional battle over who governs AI in America."
 category: "policy"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:55:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "Google TurboQuant 宣稱 KV Cache 壓縮 6 倍且零精度損失，但關鍵考驗在 ICLR"
 summary: "Google Research 發表 TurboQuant，無需重新訓練即可將 LLM 的 KV 快取從 16 位元壓縮至約 3 位元，宣稱 6 倍記憶體縮減與 8 倍注意力加速且零精度損失。該技術將於 ICLR 2026 接受同儕審查。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:30:00Z
 lang: "zh"
 featured: false
 trending: false

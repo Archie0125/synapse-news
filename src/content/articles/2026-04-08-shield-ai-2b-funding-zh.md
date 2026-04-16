@@ -2,7 +2,7 @@
 title: "國防 AI 新創 Shield AI 融資 20 億美元、估值達 127 億美元，同步收購飛行模擬公司"
 summary: "Shield AI 完成 22.5 億美元融資，包含由 Advent International 與 JPMorgan Chase 領投的 15 億美元 G 輪，及黑石集團 5 億美元優先股投資，估值較前輪大漲 140% 至 127 億美元。公司預估 2026 年營收逾 5.4 億美元，並收購 Aechelon Technology 強化自主作戰訓練能力。"
 category: "startups"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:35:00Z
 lang: "zh"
 featured: false
 trending: false

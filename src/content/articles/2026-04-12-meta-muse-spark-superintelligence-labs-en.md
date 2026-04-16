@@ -2,7 +2,7 @@
 title: "Meta Launches Muse Spark: A Proprietary Bet on Superintelligence"
 summary: "Meta has unveiled Muse Spark, the first model from its newly formed Meta Superintelligence Labs led by Alexandr Wang, marking the company's sharpest pivot yet — from open-source Llama to a proprietary, closed frontier model. The launch signals Zuckerberg's determination to close the gap with OpenAI and Google after months of competitive losses."
 category: "ai-ml"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:25:00Z
 lang: "en"
 featured: false
 trending: true

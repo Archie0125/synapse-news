@@ -2,7 +2,7 @@
 title: "OpenAI 提出機器人稅、國家財富基金與四天工作制：AI 時代的經濟政策藍圖"
 summary: "OpenAI 發表一份 13 頁的政策文件，呼籲各國政府為超人工智慧的到來預做準備：對自動化勞動課稅、由 AI 公司注資設立公共財富基金，並試行每週 32 小時工作制且薪資不減。這份文件在可能的 IPO 路演前幾天發布，將 OpenAI 塑造成負責任的社會管理者，但批評者指出，公司在其提議的政策框架中存在明顯的利益衝突。"
 category: "policy"
-publishedAt: 2026-04-09
+publishedAt: 2026-04-09T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

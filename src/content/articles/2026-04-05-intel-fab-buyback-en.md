@@ -2,7 +2,7 @@
 title: "Intel Pays $14.2B to Reclaim Ireland's Fab 34 from Apollo — Stock Surges 8.8%"
 summary: "Intel is buying back Apollo Global Management's 49% stake in its Fab 34 facility in Leixlip, Ireland for $14.2 billion — a 27% premium over what Apollo paid in 2024. The deal signals renewed confidence in Intel's turnaround under CEO Lip-Bu Tan and strong demand for CPU and AI chip production."
 category: "hardware"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:35:00Z
 lang: "en"
 featured: false
 trending: false

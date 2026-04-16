@@ -2,7 +2,7 @@
 title: "SpaceX 秘密遞交 IPO 申請，估值 1.75 兆美元，衝擊史上最大規模上市"
 summary: "SpaceX 於 4 月 1 日向美國證管會（SEC）提交了保密版招股說明書草稿，目標在 2026 年 6 月以 1.75 兆美元估值、籌資最多 750 億美元完成上市——是美國史上最大 IPO 的三倍以上。本次上市包含已與 SpaceX 合併的 xAI 業務，預計是 OpenAI 與 Anthropic 上市潮的先行砲。"
 category: "industry"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:30:00Z
 lang: "zh"
 featured: false
 trending: true

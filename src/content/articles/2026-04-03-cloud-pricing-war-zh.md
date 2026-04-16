@@ -2,7 +2,7 @@
 title: "雲端價格戰開打：AWS vs Azure vs GCP 的 AI 時代攻防"
 summary: "雲端供應商把 GPU 實例價格砍了 30-50%，同時把客戶鎖進多年的 AI 承諾合約。雲端運算的經濟正在被重寫。"
 category: "industry"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:05:00Z
 lang: "zh"
 featured: false
 trending: false

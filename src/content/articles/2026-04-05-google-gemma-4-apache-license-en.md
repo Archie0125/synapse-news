@@ -2,7 +2,7 @@
 title: "Google Releases Gemma 4 Under Apache 2.0 — A License Shift That Unlocks Enterprise AI"
 summary: "Google's Gemma 4 family — spanning 2B to 31B parameters and built from the same research as Gemini 3 — is the first Gemma release under Apache 2.0, eliminating the licensing restrictions that previously blocked enterprise deployment at scale. With 400 million total downloads across prior generations, the license change is Google's clearest signal yet that it intends to compete for open-weight dominance."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:25:00Z
 lang: "en"
 featured: false
 trending: true

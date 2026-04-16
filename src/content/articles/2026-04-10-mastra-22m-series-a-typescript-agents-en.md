@@ -2,7 +2,7 @@
 title: "Mastra Raises $22M Series A to Become the Default TypeScript Framework for AI Agents"
 summary: "Mastra, the open-source TypeScript framework for building AI agents, workflows, and RAG pipelines, has closed a $22 million Series A led by Spark Capital, bringing total funding to $35 million. With 22,000+ GitHub stars, 300,000+ weekly npm downloads, and enterprise adoption at Brex, Sanity, and Factorial, Mastra is positioning itself as the 'Rails for AI agents.'"
 category: "developer-tools"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:20:00Z
 lang: "en"
 featured: false
 trending: true

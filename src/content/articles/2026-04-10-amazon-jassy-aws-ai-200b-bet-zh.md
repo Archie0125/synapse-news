@@ -2,7 +2,7 @@
 title: "賈西的2000億美元豪賭：AWS AI 年化營收突破150億，亞馬遜全力押注"
 summary: "亞馬遜執行長安迪·賈西在2026年度股東信中揭露，AWS旗下AI業務年化營收已突破150億美元，成長速度是AWS當年同期的260倍。亞馬遜今年計畫斥資2000億美元於AI基礎建設，背後有包含OpenAI逾百億美元合約在內的客戶承諾作為支撐。"
 category: "industry"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:00:00Z
 lang: "zh"
 featured: true
 trending: false

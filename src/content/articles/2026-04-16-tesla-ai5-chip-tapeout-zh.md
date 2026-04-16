@@ -2,7 +2,7 @@
 title: "Tesla AI5 晶片完成光罩定案：算力達 AI4 八倍，台積電亞利桑那廠與三星德州廠雙軌生產"
 summary: "馬斯克於 4 月 15 日宣布 Tesla 下一代 AI5 處理器已完成 Tape-out，算力為前代 AI4 的八倍、記憶體容量九倍、頻寬五倍。這顆晶片較原定時程晚了近兩年，將在美國境內由台積電亞利桑那廠與三星德州廠雙線製造，工程樣品預計今年底問世。"
 category: "hardware"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:10:00Z
 lang: "zh"
 featured: true
 trending: true

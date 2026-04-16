@@ -2,7 +2,7 @@
 title: "Anthropic 意外洩露 51.2 萬行 Claude Code 原始碼，npm 套件漏洞引發供應鏈危機"
 summary: "Bun 打包工具的已知 bug 導致 Claude Code v2.1.88 的完整原始碼——約 1,900 個 TypeScript 檔案、51.2 萬行程式碼——在 npm 上公開超過三小時。同一時間窗口內還出現了被植入木馬的 HTTP 客戶端套件，引發供應鏈攻擊疑慮。"
 category: "developer-tools"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:00:00Z
 lang: "zh"
 featured: true
 trending: false

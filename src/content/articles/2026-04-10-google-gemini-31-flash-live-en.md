@@ -2,7 +2,7 @@
 title: "Google's Gemini 3.1 Flash Live Brings Real-Time Multimodal Voice AI to Developers"
 summary: "Google has released Gemini 3.1 Flash Live, a real-time voice and vision model capable of low-latency audio dialogue, screen-sharing interactions, and live tool use—all within a single API. The model supports over 90 languages, scores 90.8% on multi-step function calling benchmarks, and is available now via the Live API in Google AI Studio and Vertex AI."
 category: "ai-ml"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:10:00Z
 lang: "en"
 featured: false
 trending: true

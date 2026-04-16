@@ -2,7 +2,7 @@
 title: "WeRide 攜手 Uber 在杜拜推出全自動無人計程車——車內無安全駕駛，正式商業收費"
 summary: "中國自動駕駛公司文遠知行（WeRide）與 Uber 合作，於 4 月 1 日在杜拜啟動全無人駕駛商業收費計程車服務，成為中東首個商業化全自動無人計程車服務。乘客透過 Uber 應用程式叫車，車內無任何人員，服務覆蓋主要海岸與商業區，並計畫年底前在波灣三城部署 1,200 輛車隊。"
 category: "products"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:45:00Z
 lang: "zh"
 featured: false
 trending: true

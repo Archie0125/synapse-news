@@ -2,7 +2,7 @@
 title: "Google Gemma 4: The Open-Weight Model That Beats 400B Rivals Under Apache 2.0"
 summary: "Google's Gemma 4 family — four models from 2B to 31B parameters, released under the fully permissive Apache 2.0 license — marks the most significant leap in open-weight AI performance since open models emerged as a serious alternative to proprietary systems. The 31B dense model ranks #3 globally on the Arena AI leaderboard, scoring 89.2% on AIME 2026 math and 80% on LiveCodeBench coding benchmarks while remaining free to deploy, modify, and redistribute commercially."
 category: "developer-tools"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:05:00Z
 lang: "en"
 featured: false
 trending: true

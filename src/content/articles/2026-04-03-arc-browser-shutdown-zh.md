@@ -2,7 +2,7 @@
 title: "瀏覽器戰爭的意外轉折：Arc 的轉型對軟體產業意味著什麼"
 summary: "Arc 不是因為產品爛才失敗。它失敗是因為做一個更好的瀏覽器根本不是可行的生意。這個教訓對整個軟體產業來說更可怕。"
 category: "products"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:00:00Z
 lang: "zh"
 featured: false
 trending: false

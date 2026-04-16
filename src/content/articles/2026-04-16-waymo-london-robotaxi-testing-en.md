@@ -2,7 +2,7 @@
 title: "Waymo Starts Testing Robotaxis on London Streets, Targeting First International Commercial Launch"
 summary: "Waymo has begun operating its autonomous Jaguar I-Pace vehicles on public roads in London with safety drivers, as the company prepares for a commercial robotaxi launch in the UK later this year — its first market outside the United States. The move marks a turning point for the autonomous vehicle industry's global ambitions, even as Waymo must retrain its AI systems for left-hand traffic and London's notoriously complex road conditions."
 category: "products"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:15:00Z
 lang: "en"
 featured: false
 trending: true

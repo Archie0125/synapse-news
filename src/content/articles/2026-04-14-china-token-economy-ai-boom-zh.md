@@ -2,7 +2,7 @@
 title: "中國每日處理 140 兆 AI tokens，「詞元經濟」重塑科技版圖"
 summary: "中國國家數據局為「token」創造了官方中文名詞「詞元」，全國每天處理的 AI tokens 達 140 兆個，兩年內暴增 1,400 倍。MiniMax 與智譜 AI 在香港的閃耀上市、AI 智能體狂潮，以及小馬智行向全球擴張的自動駕駛計程車業務，共同勾勒出中國 AI 繁榮已進入商業化攻勢階段，影響力正急速向境外蔓延。"
 category: "industry"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

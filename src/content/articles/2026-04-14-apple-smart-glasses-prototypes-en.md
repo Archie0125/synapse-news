@@ -2,7 +2,7 @@
 title: "Apple Tests Four Smart Glasses Designs as It Prepares to Take On Meta Ray-Bans"
 summary: "Bloomberg's Mark Gurman revealed Apple is testing at least four frame styles for AI-powered smart glasses set for a 2027 launch, powered by a custom N401 chip and dual cameras. The no-display device positions Apple squarely against Meta's wildly popular Ray-Ban smart glasses, while a simultaneous leadership shake-up sees AI chief John Giannandrea retire."
 category: "hardware"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:05:00Z
 lang: "en"
 featured: false
 trending: true

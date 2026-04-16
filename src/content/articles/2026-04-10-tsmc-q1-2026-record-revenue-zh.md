@@ -2,7 +2,7 @@
 title: "台積電Q1營收衝破356億美元歷史新高，AI晶片需求遠超預期"
 summary: "台積電2026年第一季營收達新台幣1.13兆元（約356億美元），年增35%，超越市場共識預期，由AI加速器的強勁需求與先進封裝技術的獨占優勢所驅動。台股首度突破2,000元大關，完整財報電話會議訂於4月16日登場。"
 category: "hardware"
-publishedAt: 2026-04-10
+publishedAt: 2026-04-10T09:35:00Z
 lang: "zh"
 featured: false
 trending: true

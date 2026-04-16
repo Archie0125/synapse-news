@@ -2,7 +2,7 @@
 title: "Vision Pro 第二年：Apple 的 3500 美元賭注正在悄悄回本"
 summary: "所有人在炒作退燒後就看衰 Vision Pro。但企業端採用在成長、開發工具在成熟、Apple 剛降了價。空間運算的故事還沒結束。"
 category: "products"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:35:00Z
 lang: "zh"
 featured: false
 trending: false

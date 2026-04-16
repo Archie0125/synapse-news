@@ -2,7 +2,7 @@
 title: "OpenAI Eyes Q4 2026 IPO at $1 Trillion Valuation, Opening Shares to Retail Investors"
 summary: "OpenAI is targeting a public listing in Q4 2026 with an ambition to hit a $1 trillion valuation — a figure that would make it the most valuable IPO in US history. In a departure from typical tech listings, the company plans to reserve a portion of the offering for individual retail investors, a move designed to broaden access to what many consider the defining technology company of this era."
 category: "startups"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:30:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "Meta's Alexandr Wang Is Preparing Its First AI Models—With a Hybrid Open-Source Twist"
 summary: "Meta is preparing to release its first AI models built under Alexandr Wang, the 28-year-old former Scale AI CEO who joined the company in a landmark $15 billion deal last year. In a meaningful strategic departure, the plans call for open-sourcing smaller versions while keeping the largest frontier models proprietary—abandoning the full-openness policy that made the Llama series a global developer phenomenon. The shift signals deepening competitive pressure and sets up a direct battle with OpenAI for the developer ecosystem."
 category: "ai-ml"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:20:00Z
 lang: "en"
 featured: false
 trending: true

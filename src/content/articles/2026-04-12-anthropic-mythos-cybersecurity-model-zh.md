@@ -2,7 +2,7 @@
 title: "Anthropic 壓下 Claude Mythos：這個 AI 幾乎能入侵一切"
 summary: "Anthropic 發布迄今最強大的模型 Claude Mythos Preview，卻只開放給 12 個防禦性資安夥伴使用，原因是它能自主找出並利用各大作業系統與瀏覽器的零時差漏洞。這是近七年來，第一次有頂尖 AI 實驗室因安全疑慮公開決定不對外發佈模型。"
 category: "ai-ml"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:10:00Z
 lang: "zh"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "Intel 以 142 億美元從 Apollo 買回愛爾蘭晶圓廠，逆轉之舉宣告復甦"
 summary: "Intel 宣布以 142 億美元買回 Apollo 全球管理公司在愛爾蘭 Leixlip 廠的 49% 股份，較 Apollo 僅 18 個月前的購入價溢價 30 億美元。交易完成後，Intel 將完全掌控其最先進的 EUV 晶圓廠，為向 TSMC 爭奪外部代工客戶的策略奠定基礎。"
 category: "hardware"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:40:00Z
 lang: "zh"
 featured: false
 trending: true

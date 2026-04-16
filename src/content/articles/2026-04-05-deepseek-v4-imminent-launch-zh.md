@@ -2,7 +2,7 @@
 title: "DeepSeek V4 即將發布：1 兆參數、Apache 2.0、訓練成本僅 520 萬美元"
 summary: "DeepSeek V4 據報數週內即將上線，模型已重寫以支援華為昇騰晶片而非 Nvidia 硬體。外洩的基準測試宣稱 SWE-bench Verified 達 80% 以上、訓練成本僅 520 萬美元——若屬實，將成為史上能力最強的開放權重模型，同時標誌著中國 AI 技術棧主動脫離美國管控硬體的里程碑。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:20:00Z
 lang: "zh"
 featured: false
 trending: false

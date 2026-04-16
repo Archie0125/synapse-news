@@ -2,7 +2,7 @@
 title: "史丹佛 AI 指數 2026：生成式 AI 全球採用率達 53%，但透明度危機正在逼近"
 summary: "史丹佛 HAI 於 2026 年 4 月 13 日發布年度 AI 指數報告，揭示生成式 AI 在短短三年內全球採用率達 53%，超越個人電腦與網際網路的普及速度，美國消費者每年創造的價值高達 1,720 億美元。然而報告也點出前沿 AI 實驗室透明度急遽下降，以及全球 47 個國家 AI 法規嚴重碎片化的隱憂。"
 category: "ai-ml"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

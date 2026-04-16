@@ -2,7 +2,7 @@
 title: "開源 LLM 大戰：Llama 4 vs Mistral Large vs Qwen 3 — 到底誰贏了？"
 summary: "開源模型追上閉源的速度比所有人預期的都快。但「開源」對 Meta、Mistral 和阿里巴巴來說意義完全不同。"
 category: "ai-ml"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:45:00Z
 lang: "zh"
 featured: false
 trending: true

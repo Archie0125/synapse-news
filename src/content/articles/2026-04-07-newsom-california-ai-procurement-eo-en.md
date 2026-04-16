@@ -2,7 +2,7 @@
 title: "California Breaks from Washington: Newsom Signs Historic AI Procurement Executive Order"
 summary: "Governor Gavin Newsom signed Executive Order N-5-26, establishing first-in-the-nation AI procurement standards for California state contracts and explicitly decoupling the state's supply chain risk assessments from federal designations. The move escalates the battle between California and the Trump administration over who gets to govern American AI."
 category: "policy"
-publishedAt: 2026-04-07
+publishedAt: 2026-04-07T09:20:00Z
 lang: "en"
 featured: false
 trending: true

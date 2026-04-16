@@ -2,7 +2,7 @@
 title: "Shopify's AI Toolkit Turns Claude Code, Cursor, and Gemini CLI Into Commerce Agents"
 summary: "Shopify released its open-source AI Toolkit on April 9, enabling AI coding agents—Claude Code, Cursor, Gemini CLI, and VS Code—to natively connect to the Shopify platform, read live API schemas, validate code, and execute real store operations through natural language. The toolkit ships with 16 skill files covering every major Shopify surface, from products and orders to storefront themes."
 category: "developer-tools"
-publishedAt: 2026-04-11
+publishedAt: 2026-04-11T09:25:00Z
 lang: "en"
 featured: true
 trending: false

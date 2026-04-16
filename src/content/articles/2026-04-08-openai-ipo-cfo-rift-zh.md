@@ -2,7 +2,7 @@
 title: "OpenAI 兆元 IPO 夢碎？執行長與財務長爆發內部決裂"
 summary: "根據《The Information》報導，OpenAI 執行長山姆·奧特曼（Sam Altman）與財務長莎拉·弗萊爾（Sarah Friar）在 IPO 時程上出現嚴重分歧。奧特曼積極推動 2026 年第四季以 1 兆美元估值上市，弗萊爾卻私下告知同僚公司尚未準備好，質疑高達 6,000 億美元的支出承諾是否與營收成長相符。這場 C 級主管風波，再度引發外界對 OpenAI 公司治理的深刻疑慮。"
 category: "industry"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:25:00Z
 lang: "zh"
 featured: true
 trending: true

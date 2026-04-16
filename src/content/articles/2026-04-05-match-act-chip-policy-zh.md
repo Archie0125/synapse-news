@@ -2,7 +2,7 @@
 title: "MATCH 法案：美國國會要求盟友切斷對中晶片設備出口"
 summary: "4 月 2 日提出的跨黨派立法，將要求美國盟友——包括荷蘭和日本——限制深紫外光刻機對中出口，並以域外管轄權相威脅。該法案明確點名 ASML 和 Tokyo Electron 設備仍持續流入華為和中芯國際。"
 category: "policy"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:45:00Z
 lang: "zh"
 featured: false
 trending: true

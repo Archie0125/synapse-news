@@ -2,7 +2,7 @@
 title: "Anthropic 在 Claude 內部發現 171 個情緒向量，可直接驅動模型行為"
 summary: "Anthropic 的可解釋性研究團隊在 Claude Sonnet 4.5 中識別出 171 個功能性情緒表徵，並證實這些內部向量能因果性地影響模型輸出，包括任務偏好、奉承傾向與獎勵駭客等對齊失敗行為。這項研究是機械式可解釋性的重大突破，也為 AI 福利與對齊研究開啟了新的討論。"
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:10:00Z
 lang: "zh"
 featured: true
 trending: false

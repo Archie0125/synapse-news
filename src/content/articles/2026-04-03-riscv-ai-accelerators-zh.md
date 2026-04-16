@@ -2,7 +2,7 @@
 title: "RISC-V AI 加速器：沒人在關注的黑馬"
 summary: "當所有人都在搶 NVIDIA 和 AMD GPU 時，一群新創正在用開源 RISC-V 架構打造 AI 晶片。離成熟還有幾年，但對 AI 主權的影響巨大。"
 category: "hardware"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

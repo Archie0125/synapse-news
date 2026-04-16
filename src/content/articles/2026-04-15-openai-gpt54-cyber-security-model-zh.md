@@ -2,7 +2,7 @@
 title: "OpenAI 推出 GPT-5.4-Cyber：專為防禦性資安設計的 AI 模型"
 summary: "OpenAI 於 4 月 14 日發布 GPT-5.4-Cyber，這是其旗艦 GPT-5.4 模型針對資安專業人員微調的特殊版本，採用分層授權的「可信存取」計畫管控使用。此次發布標誌著 AI 實驗室在數位防禦領域的軍備競賽進入新階段，並與 Anthropic 的 Claude Mythos 直接交鋒。"
 category: "ai-ml"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:30:00Z
 lang: "zh"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "GPT-5 Benchmarks Leaked — And They Tell a Very Different Story Than OpenAI Wants"
 summary: "Internal benchmark results suggest GPT-5's improvements are narrower than expected. The era of 'just scale it up' might officially be over, and that's actually good news for the industry."
 category: "ai-ml"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:50:00Z
 lang: "en"
 featured: false
 trending: true

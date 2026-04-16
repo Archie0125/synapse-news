@@ -2,7 +2,7 @@
 title: "Framework Teases 'Next Gen' Hardware on April 21, CEO Warns AI Could Kill Personal Computing"
 summary: "Framework Computer has announced a live hardware launch event for April 21, hinting at major modular laptop and desktop upgrades alongside a significant Linux-focused announcement. CEO Nirav Patel has published a stark warning: the AI boom's winner-takes-all dynamic over chips and storage could drive consumers toward cloud-leased, locked-down devices — and Framework is positioning its Next Gen lineup as a defense of user ownership."
 category: "hardware"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:20:00Z
 lang: "en"
 featured: false
 trending: false

@@ -2,7 +2,7 @@
 title: "AI Rewrites the Venture Capital Record Books: $300B Poured Into Startups in Q1 2026"
 summary: "Investors deployed nearly $300 billion into global startups in the first quarter of 2026 — an all-time record — with AI companies capturing 80% of that total. Four companies alone (OpenAI, Anthropic, xAI, Waymo) absorbed 65% of all global venture capital, concentrating the industry's largest-ever funding surge in a handful of frontier labs."
 category: "industry"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:20:00Z
 lang: "en"
 featured: false
 trending: true

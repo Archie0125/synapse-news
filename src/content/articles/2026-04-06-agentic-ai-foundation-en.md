@@ -2,7 +2,7 @@
 title: "The Agentic AI Foundation: How Tech's Biggest Rivals United to Build Open Standards for AI Agents"
 summary: "The Linux Foundation's Agentic AI Foundation (AAIF) has quietly become one of the most significant governance moves in AI history — uniting OpenAI, Anthropic, Google, Microsoft, AWS, and Block behind open standards for AI agents. With MCP crossing 97 million monthly downloads and AGENTS.md in 60,000+ open source projects, the foundation is turning competitive rivals into infrastructure collaborators."
 category: "developer-tools"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:00:00Z
 lang: "en"
 featured: false
 trending: false

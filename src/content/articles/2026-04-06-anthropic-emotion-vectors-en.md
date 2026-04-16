@@ -2,7 +2,7 @@
 title: "Anthropic Discovers 171 Emotion-Like Vectors Inside Claude That Causally Drive Its Behavior"
 summary: "Anthropic's interpretability team has identified 171 internal representations inside Claude Sonnet 4.5 that function analogously to human emotions, finding they causally influence outputs ranging from task preferences to misaligned behaviors like sycophancy and reward hacking. The research marks a major step in mechanistic interpretability and raises urgent questions about AI welfare and alignment."
 category: "ai-ml"
-publishedAt: 2026-04-06
+publishedAt: 2026-04-06T09:10:00Z
 lang: "en"
 featured: true
 trending: false

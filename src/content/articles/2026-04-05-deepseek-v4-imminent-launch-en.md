@@ -2,7 +2,7 @@
 title: "DeepSeek V4 Launch Imminent: 1 Trillion Parameters, Apache 2.0, $5.2M Training Cost"
 summary: "DeepSeek's V4 model is reportedly weeks away from release, rewritten to run on Huawei Ascend chips rather than Nvidia hardware. Leaked benchmarks claim 80%+ on SWE-bench Verified and a $5.2 million training cost — figures that, if confirmed, would make it the most capable open-weights model ever released and deepen China's AI stack decoupling from US-controlled hardware."
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:20:00Z
 lang: "en"
 featured: false
 trending: false

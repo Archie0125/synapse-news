@@ -2,7 +2,7 @@
 title: "OpenAI 鎖定 2026 年第四季上市，目標兆元估值並向散戶開放認股"
 summary: "OpenAI 正籌備 2026 年第四季上市，目標市值達 1 兆美元，若成功將成為美國史上最大 IPO。公司更計畫保留部分股份供散戶投資人認購，此舉罕見於這量級的科技上市案，也清楚傳達 OpenAI 將自身定位為消費科技公司、而非純企業軟體廠商的戰略意圖。"
 category: "startups"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:30:00Z
 lang: "zh"
 featured: false
 trending: false

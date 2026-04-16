@@ -2,7 +2,7 @@
 title: "一個人 + AI 工具鏈：零員工打造百萬美元公司"
 summary: "越來越多創辦人用 AI 獨力經營整間公司 — 沒有員工、沒有外包，一個人加上一堆 AI 工具就做到七位數營收。"
 category: "startups"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:55:00Z
 lang: "zh"
 featured: false
 trending: false

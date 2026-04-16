@@ -2,7 +2,7 @@
 title: "JetBrains Survey: Over Half of All GitHub Code Is Now AI-Generated"
 summary: "A JetBrains survey of 10,000+ developers finds that 51% of code committed to GitHub is now AI-generated or substantially AI-assisted, with the AI coding tools market hitting $12.8B. GitHub Copilot retains the widest adoption but satisfaction growth has stalled, while Claude Code has surged to lead all tools on satisfaction metrics with 91% CSAT."
 category: "developer-tools"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:00:00Z
 lang: "en"
 featured: false
 trending: false

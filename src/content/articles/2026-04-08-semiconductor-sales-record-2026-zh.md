@@ -2,7 +2,7 @@
 title: "全球晶片銷售額年增 62% 衝上 888 億美元，AI 帶動業界邁向兆元年"
 summary: "2026 年 2 月全球半導體銷售額達到 888 億美元，年增 61.8%、月增 7.6%，全年有望首次突破 1 兆美元大關。AI 加速器需求預計將占全年半導體營收的近半，但高頻寬記憶體（HBM）和先進封裝的瓶頸，正成為限制 AI 基礎設施實際擴張速度的關鍵卡點。"
 category: "hardware"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:30:00Z
 lang: "zh"
 featured: false
 trending: false

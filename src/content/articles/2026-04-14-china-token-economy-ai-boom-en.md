@@ -2,7 +2,7 @@
 title: "China Processes 140 Trillion AI Tokens Daily as New 'Token Economy' Reshapes Its Tech Landscape"
 summary: "China's National Data Administration has coined a new word for 'token' in Chinese — ciyuan — as the country processes 140 trillion tokens per day, up from 100 billion just two years ago. Blazing Hong Kong IPOs from AI labs MiniMax and Zhipu AI, a surging AI agent economy, and Pony AI's global robotaxi expansion signal that China's AI boom has entered an aggressive commercial phase that is increasingly visible beyond its borders."
 category: "industry"
-publishedAt: 2026-04-14
+publishedAt: 2026-04-14T09:15:00Z
 lang: "en"
 featured: false
 trending: true

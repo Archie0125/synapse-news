@@ -2,7 +2,7 @@
 title: "2026 年第一季創投融資打破所有紀錄：單季 3,000 億美元，八成流向 AI"
 summary: "2026 年第一季全球創業投資達到 3,000 億美元，年增逾 150%，史上規模最大的五輪融資中，有四輪在這單一季度完成。AI 以 2,420 億美元吸走全球八成創投資金，主要由 OpenAI、Anthropic、xAI 和 Waymo 的超大規模融資輪推動。"
 category: "startups"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T10:25:00Z
 lang: "zh"
 featured: false
 trending: true

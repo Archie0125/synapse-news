@@ -2,7 +2,7 @@
 title: "Global Chip Sales Surge 62% to $88.8 Billion in February, AI Drives Industry Toward $1 Trillion Year"
 summary: "Global semiconductor sales hit $88.8 billion in February 2026, up 61.8% year-over-year and 7.6% month-over-month, according to industry data. With AI accelerators on pace to account for roughly half of all semiconductor revenues this year, the industry is tracking toward its first $1 trillion annual revenue milestone—even as critical bottlenecks in high-bandwidth memory and advanced packaging constrain how fast AI infrastructure can actually scale."
 category: "hardware"
-publishedAt: 2026-04-08
+publishedAt: 2026-04-08T09:30:00Z
 lang: "en"
 featured: false
 trending: false

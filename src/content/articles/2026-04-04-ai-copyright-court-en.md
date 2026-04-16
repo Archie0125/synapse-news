@@ -2,7 +2,7 @@
 title: "AI Copyright Goes to Court: The Rulings That Will Shape the Next Decade of Tech"
 summary: "Three landmark cases are working through US courts right now. The outcomes will determine whether AI companies owe billions in licensing fees — or whether training on public data remains fair use."
 category: "policy"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:00:00Z
 lang: "en"
 featured: false
 trending: false

@@ -21,6 +21,7 @@ const translations = {
     // Navigation
     'nav.home': 'Home',
     'nav.search': 'Search',
+    'nav.all': 'All',
 
     // Categories
     'cat.ai-ml': 'AI & ML',
@@ -46,8 +47,21 @@ const translations = {
     'article.related': 'Related Stories',
     'article.min_read': 'min read',
     'article.just_now': 'Just now',
+    'article.minutes_ago': 'm ago',
     'article.hours_ago': 'h ago',
     'article.days_ago': 'd ago',
+
+    // Sort
+    'sort.label': 'Sort',
+    'sort.latest': 'Latest',
+    'sort.oldest': 'Oldest',
+    'sort.featured': 'Featured',
+    'sort.trending': 'Trending',
+    'sort.analysis': 'Analysis',
+
+    // All articles page
+    'all.title': 'All Articles',
+    'all.description': 'Browse every article published on this site.',
 
     // Category page
     'category.no_articles': 'No articles yet. The pipeline will populate this category soon.',
@@ -73,6 +87,7 @@ const translations = {
     // Navigation
     'nav.home': '首頁',
     'nav.search': '搜尋',
+    'nav.all': '全部',
 
     // Categories
     'cat.ai-ml': 'AI 與機器學習',
@@ -98,8 +113,21 @@ const translations = {
     'article.related': '相關報導',
     'article.min_read': '分鐘閱讀',
     'article.just_now': '剛剛',
+    'article.minutes_ago': '分鐘前',
     'article.hours_ago': '小時前',
     'article.days_ago': '天前',
+
+    // Sort
+    'sort.label': '排序',
+    'sort.latest': '最新',
+    'sort.oldest': '最舊',
+    'sort.featured': '精選',
+    'sort.trending': '熱門',
+    'sort.analysis': '深度分析',
+
+    // All articles page
+    'all.title': '全部文章',
+    'all.description': '瀏覽本站所有已發佈的文章。',
 
     // Category page
     'category.no_articles': '目前尚無文章，管線將很快補充此分類的內容。',
@@ -145,12 +173,23 @@ export function formatDateLocalized(date: Date, lang: Lang): string {
 export function getRelativeTimeLocalized(date: Date, lang: Lang): string {
   const now = new Date();
   const diff = now.getTime() - date.getTime();
-  const hours = Math.floor(diff / (1000 * 60 * 60));
+  const minutes = Math.floor(diff / (1000 * 60));
+  const hours = Math.floor(minutes / 60);
   const days = Math.floor(hours / 24);
 
-  if (hours < 1) return t(lang, 'article.just_now');
-  if (hours < 24) return `${hours}${t(lang, 'article.hours_ago')}`;
-  if (days < 7) return `${days}${t(lang, 'article.days_ago')}`;
+  if (minutes < 1) return t(lang, 'article.just_now');
+  if (minutes < 60) {
+    const sep = lang === 'zh' ? ' ' : '';
+    return `${minutes}${sep}${t(lang, 'article.minutes_ago')}`;
+  }
+  if (hours < 24) {
+    const sep = lang === 'zh' ? ' ' : '';
+    return `${hours}${sep}${t(lang, 'article.hours_ago')}`;
+  }
+  if (days < 7) {
+    const sep = lang === 'zh' ? ' ' : '';
+    return `${days}${sep}${t(lang, 'article.days_ago')}`;
+  }
   return formatDateLocalized(date, lang);
 }
 

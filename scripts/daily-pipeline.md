@@ -16,6 +16,7 @@ For each article:
 - Follow the KOL commentary style in `prompts/generate_analysis.md`
 - Filename format: `YYYY-MM-DD-slug-en.md` and `YYYY-MM-DD-slug-zh.md`
 - Include proper frontmatter: title, summary, category, publishedAt, lang, sources, tags
+- **`publishedAt` MUST be full ISO-8601 UTC datetime** (format: `2026-04-17T09:00:00Z`). Stagger each article in the same day by 5 minutes starting from `09:00:00Z` so sort order is stable and relative times differ. EN/ZH of the same story share the exact same timestamp.
 - ZH version should be rewritten for Taiwanese readers, not translated
 - Each article: 500-800 words, opinionated, with "What to Watch" section
 

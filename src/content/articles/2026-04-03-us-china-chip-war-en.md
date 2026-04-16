@@ -2,7 +2,7 @@
 title: "US-China Chip War 3.0: NVIDIA's Impossible Balancing Act"
 summary: "New export restrictions just dropped, and NVIDIA is caught in the middle. They're losing $15B+ in China revenue while Beijing accelerates domestic chip development. Nobody wins this game."
 category: "policy"
-publishedAt: 2026-04-03
+publishedAt: 2026-04-03T09:25:00Z
 lang: "en"
 featured: false
 trending: false

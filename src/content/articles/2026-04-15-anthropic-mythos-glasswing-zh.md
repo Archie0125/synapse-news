@@ -2,7 +2,7 @@
 title: "Anthropic AI 發現數千個零時差漏洞，卻選擇不公開——轉而砸 1 億美元成立資安防禦聯盟"
 summary: "Anthropic 的 Claude Mythos Preview 自主識別出各大作業系統與瀏覽器中數千個此前未知的安全漏洞，其中一個潛伏長達 27 年。Anthropic 認定模型風險過高，決定不對外公開，轉而推出「玻璃翼計畫」，攜手 11 家科技巨頭投入 1 億美元，搶在攻擊者利用類似 AI 能力之前修補關鍵軟體弱點。"
 category: "ai-ml"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:05:00Z
 lang: "zh"
 featured: true
 trending: true

@@ -2,7 +2,7 @@
 title: "The EU AI Act Just Got Teeth: First Enforcement Actions Are Here"
 summary: "Brussels isn't bluffing. Three companies received formal notices this week under the AI Act's transparency provisions. The real question is whether this helps or hurts European AI competitiveness."
 category: "policy"
-publishedAt: 2026-04-04
+publishedAt: 2026-04-04T09:30:00Z
 lang: "en"
 featured: false
 trending: true

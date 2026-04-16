@@ -2,7 +2,7 @@
 title: "Stanford AI Index 2026: Generative AI Hits 53% Global Adoption, But a Transparency Crisis Looms"
 summary: "Stanford HAI's landmark annual AI Index, released April 13, 2026, reveals that generative AI has reached 53% global population adoption in just three years — faster than the PC or internet — while consumer value hit $172 billion annually in the U.S. The report also flags a troubling transparency collapse among frontier AI labs and deepening regulatory fragmentation across 47 countries."
 category: "ai-ml"
-publishedAt: 2026-04-13
+publishedAt: 2026-04-13T09:25:00Z
 lang: "en"
 featured: true
 trending: true

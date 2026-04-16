@@ -2,7 +2,7 @@
 title: "OpenAI 推出 GPT-5.4-Cyber：專為通過身份驗證的資安專家設計的 AI 模型"
 summary: "OpenAI 發布 GPT-5.4-Cyber，這是其旗艦模型的資安專用變體，僅開放給通過「可信存取計畫」審核的資安專業人員使用。此次發布恰好在 Anthropic 公布 Mythos 模型一週後，標誌著 AI 輔助資安防禦領域的新一輪競賽正式開打。"
 category: "ai-ml"
-publishedAt: 2026-04-15
+publishedAt: 2026-04-15T09:25:00Z
 lang: "zh"
 featured: false
 trending: true

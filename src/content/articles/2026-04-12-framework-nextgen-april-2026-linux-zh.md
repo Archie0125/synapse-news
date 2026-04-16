@@ -2,7 +2,7 @@
 title: "Framework 預告 4 月 21 日 Next Gen 新品發表，CEO 警告 AI 恐終結個人電腦"
 summary: "Framework Computer 宣布將於 4 月 21 日舉行 Next Gen 直播發表會，暗示將推出重大模組化筆電與桌機升級，以及與 Linux 相關的重要公告。執行長 Nirav Patel 發出嚴肅警告：AI 熱潮對晶片與儲存裝置的「贏者全拿」競爭，可能迫使消費者轉向訂閱租用、封閉鎖定的雲端設備。Framework 將 Next Gen 系列定位為捍衛用戶所有權的宣示。"
 category: "hardware"
-publishedAt: 2026-04-12
+publishedAt: 2026-04-12T09:20:00Z
 lang: "zh"
 featured: false
 trending: false

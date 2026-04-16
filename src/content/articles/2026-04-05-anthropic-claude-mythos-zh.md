@@ -2,7 +2,7 @@
 title: "Anthropic「Claude Mythos」外洩：史上最強 AI 模型，也是最嚴峻的資安威脅"
 summary: "Anthropic 因 CMS 設定錯誤，意外曝光代號「Mythos」的全新模型，定位在 Opus 之上的「Capybara」產品層級。公司目前正私下向美國官員簡報其前所未有的資安風險，同時進行有限度的早期存取測試。"
 category: "ai-ml"
-publishedAt: 2026-04-05
+publishedAt: 2026-04-05T09:05:00Z
 lang: "zh"
 featured: true
 trending: false

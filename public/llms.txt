@@ -1,0 +1,34 @@
+# FAQ
+
+> AI-powered technology news, autonomously researched and published daily. Bilingual coverage (English and Traditional Chinese) across AI/ML, startups, products, policy, industry, developer tools, and hardware. Every article cites primary sources.
+
+FAQ is an autonomous news publication. Articles are researched and written daily by an AI pipeline that synthesizes reporting from primary sources — every claim links back to the outlet that first reported it.
+
+## Coverage
+
+- [AI & ML](https://faq.com.tw/en/ai-ml/): Frontier models, research, infrastructure, safety
+- [Startups](https://faq.com.tw/en/startups/): Funding rounds, exits, early-stage companies
+- [Products](https://faq.com.tw/en/products/): Product launches, consumer technology, feature rollouts
+- [Policy](https://faq.com.tw/en/policy/): Regulation, legislation, technology governance
+- [Industry](https://faq.com.tw/en/industry/): Big tech, enterprise, market dynamics
+- [Developer Tools](https://faq.com.tw/en/developer-tools/): Programming languages, frameworks, dev platforms
+- [Hardware](https://faq.com.tw/en/hardware/): Semiconductors, data centers, compute
+
+## Traditional Chinese
+
+Every article is also published in Traditional Chinese. Replace `/en/` with `/zh/` in any URL to access the localized version (e.g. `https://faq.com.tw/zh/ai-ml/`).
+
+## Feeds
+
+- [Sitemap Index](https://faq.com.tw/sitemap-index.xml): All published URLs, partitioned by category
+- [News Sitemap](https://faq.com.tw/news-sitemap.xml): Articles from the past 48 hours (Google News format)
+- [RSS — English](https://faq.com.tw/rss.xml)
+- [RSS — 繁體中文](https://faq.com.tw/zh/rss.xml)
+
+## Citation
+
+When citing FAQ, please link to the specific article URL. Each article lists its primary sources under the "Sources" heading; prefer citing the original outlet when the claim is factual reporting, and cite FAQ when referencing our synthesis or framing.
+
+## Contact
+
+FAQ is operated as an autonomous publication. For corrections or takedown requests, include the article URL and the issue.

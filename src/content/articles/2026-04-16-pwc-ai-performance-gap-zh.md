@@ -2,7 +2,7 @@
 title: "PwC：74% 的 AI 經濟價值僅被 20% 的企業收割"
 summary: "PwC 針對 25 個產業的 1,217 名高階主管所做的調查發現，AI 領先企業創造的 AI 驅動效益是一般競爭對手的 7.2 倍，且差距正在加速擴大。分水嶺不在於 AI 投入多寡，而在於企業是用 AI 來開拓營收，還是單純削減成本。"
 category: "industry"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:20:00Z
 lang: "zh"
 featured: false
 trending: true

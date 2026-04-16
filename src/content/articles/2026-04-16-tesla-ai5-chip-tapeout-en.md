@@ -2,7 +2,7 @@
 title: "Tesla Confirms AI5 Chip Tape-Out: 8× Compute Over AI4, Dual-Sourced at TSMC and Samsung in the US"
 summary: "Elon Musk announced on April 15 that Tesla's next-generation AI5 processor has completed tape-out, delivering up to 8× the compute, 9× the memory, and 5× the bandwidth of its predecessor. The chip — nearly two years behind the original schedule — will be fabricated at TSMC's Arizona plant and Samsung's Texas facility, with engineering samples expected by late 2026."
 category: "hardware"
-publishedAt: 2026-04-16T09:10:00Z
+publishedAt: 2026-04-16T09:30:00Z
 lang: "en"
 featured: true
 trending: true

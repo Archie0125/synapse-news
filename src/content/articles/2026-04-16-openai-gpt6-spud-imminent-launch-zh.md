@@ -2,7 +2,7 @@
 title: "OpenAI GPT-6「Spud」錯過 4 月 14 日視窗，預測市場給出 78% 機率於 5 月前上線"
 summary: "OpenAI 代號「Spud」的下一代旗艦模型（外界預期命名為 GPT-6）已於 3 月 24 日在德州艾比林的 Stargate 資料中心完成預訓練，但 4 月 14 日的廣傳發布日期悄悄過去，毫無動靜。預測市場目前給出 78% 的機率認為將在 4 月底前發布，傳聞性能較 GPT-5.4 提升 40%，並搭載 200 萬 token 上下文視窗。"
 category: "ai-ml"
-publishedAt: 2026-04-16T09:05:00Z
+publishedAt: 2026-04-16T09:15:00Z
 lang: "zh"
 featured: false
 trending: false

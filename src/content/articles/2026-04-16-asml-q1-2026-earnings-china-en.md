@@ -2,7 +2,7 @@
 title: "ASML Beats Q1 Estimates and Raises 2026 Guidance as China Revenue Collapses to 19%"
 summary: "The world's only maker of extreme ultraviolet lithography machines posted €8.8 billion in Q1 net sales and lifted its full-year outlook to €36–40 billion, but shares fell as China's share of system revenue plummeted from 36% to 19% and US lawmakers push to extend export bans to legacy DUV equipment."
 category: "hardware"
-publishedAt: 2026-04-16T09:00:00Z
+publishedAt: 2026-04-16T09:05:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "OpenAI 向認證資安人員開放 GPT-5.4-Cyber 模型"
 summary: "OpenAI 發布 GPT-5.4-Cyber，這是其旗艦模型的資安專用微調版本，具備「寬容網路」能力（包括二進位逆向工程），並透過擴大的「可信資安存取」計畫向數千名通過身份驗證的資安專業人員開放——此舉與 Anthropic 限制其強大的 Claude Mythos 模型形成鮮明對比。"
 category: "ai-ml"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:10:00Z
 lang: "zh"
 featured: false
 trending: true

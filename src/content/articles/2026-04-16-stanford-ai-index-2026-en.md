@@ -2,7 +2,7 @@
 title: "Stanford AI Index 2026: Capabilities Race Ahead While Transparency Collapses"
 summary: "The ninth annual Stanford HAI AI Index finds benchmark performance rocketing toward human parity, China closing the model quality gap to just 2.7%, and AI adoption outpacing every prior technology wave — all while AI companies disclose less about their systems than ever before."
 category: "industry"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:25:00Z
 lang: "en"
 featured: true
 trending: false

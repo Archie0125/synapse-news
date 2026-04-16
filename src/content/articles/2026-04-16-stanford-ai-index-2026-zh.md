@@ -2,7 +2,7 @@
 title: "史丹佛 AI 指數 2026：能力飛速躍進，透明度卻全面崩潰"
 summary: "史丹佛 HAI 第九份年度 AI 指數報告顯示，AI 基準測試表現正急速逼近人類水準，中美模型差距縮窄至僅 2.7%，AI 普及速度超越有史以來任何一項科技——然而 AI 公司揭露自家系統運作方式的意願卻降至歷史低點。"
 category: "industry"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:25:00Z
 lang: "zh"
 featured: true
 trending: false

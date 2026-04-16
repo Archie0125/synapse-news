@@ -2,7 +2,7 @@
 title: "PwC: 74% of AI's Economic Value Is Being Captured by Just 20% of Companies"
 summary: "A PwC study of 1,217 senior executives across 25 industries finds that AI leaders generate 7.2 times more AI-driven gains than the average competitor — and are pulling away faster than laggards can close the gap. The dividing line is not AI investment, but whether companies use AI to grow revenue or merely to cut costs."
 category: "industry"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:20:00Z
 lang: "en"
 featured: false
 trending: true

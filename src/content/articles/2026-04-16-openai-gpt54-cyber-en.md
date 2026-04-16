@@ -2,7 +2,7 @@
 title: "OpenAI Deploys GPT-5.4-Cyber for Vetted Security Defenders"
 summary: "OpenAI has unveiled GPT-5.4-Cyber, a specialized fine-tune of its flagship model with 'cyber-permissive' capabilities including binary reverse engineering, available to thousands of vetted security professionals through an expanded Trusted Access for Cyber program — a deliberate contrast to Anthropic's decision to restrict its powerful Claude Mythos model."
 category: "ai-ml"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:10:00Z
 lang: "en"
 featured: false
 trending: true

@@ -2,7 +2,7 @@
 title: "川普與科技巨頭簽署承諾，試圖平息 AI 資料中心的選民怒火"
 summary: "隨著電費帳單飆漲、全美 24 州民眾的反對聲浪持續擴大，川普總統和主要科技公司 CEO 共同簽署承諾，要求 AI 公司自行負擔電力成本——這是一次被迫的政治轉向，起因是選民怒火已在去年紐澤西、維吉尼亞和喬治亞州的期中選舉中令現任者落馬。"
 category: "policy"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:00:00Z
 lang: "zh"
 featured: false
 trending: true

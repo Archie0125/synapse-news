@@ -2,7 +2,7 @@
 title: "Trump and Tech Giants Sign Pledge to Defuse AI Data Center Voter Fury Ahead of Midterms"
 summary: "With electricity bills rising and community opposition spreading across 24 states, President Trump and major tech CEOs have signed a commitment to make AI companies pay for their own power — a political pivot forced by voter anger that has already delivered midterm-election losses to incumbents in New Jersey, Virginia, and Georgia."
 category: "policy"
-publishedAt: 2026-04-16
+publishedAt: 2026-04-16T09:00:00Z
 lang: "en"
 featured: false
 trending: true

@@ -120,6 +120,21 @@ def apply_summaries(
             post["key_points_en"] = summary.get("key_points_en", [])
             post["key_points_zh"] = summary.get("key_points_zh", [])
 
+            # Bilingual FAQs for FAQPage schema — gracefully skip malformed entries
+            def _clean_faqs(raw):
+                out = []
+                if not isinstance(raw, list):
+                    return out
+                for item in raw:
+                    if isinstance(item, dict):
+                        q = str(item.get("q") or item.get("question") or "").strip()
+                        a = str(item.get("a") or item.get("answer") or "").strip()
+                        if q and a:
+                            out.append({"q": q, "a": a})
+                return out
+            post["faqs_en"] = _clean_faqs(summary.get("faqs_en"))
+            post["faqs_zh"] = _clean_faqs(summary.get("faqs_zh"))
+
             # Add bilingual summary section to content
             kp_en = summary.get("key_points_en", [])
             kp_zh = summary.get("key_points_zh", [])

@@ -63,7 +63,18 @@ def _format_astro_frontmatter(post: frontmatter.Post, lang: str, article_type: s
         title = str(post.get("title", "Untitled"))[:120]
         summary = str(post.get("tldr_en", post.get("tldr", post.get("summary", ""))))[:300]
 
-    return {
+    # Pick language-specific FAQs and reshape {q,a} -> {question, answer} for Astro schema
+    raw_faqs = post.get("faqs_zh" if lang == "zh" else "faqs_en", [])
+    faqs = []
+    if isinstance(raw_faqs, list):
+        for f in raw_faqs:
+            if isinstance(f, dict):
+                q = str(f.get("q") or f.get("question") or "").strip()
+                a = str(f.get("a") or f.get("answer") or "").strip()
+                if q and a:
+                    faqs.append({"question": q, "answer": a})
+
+    meta = {
         "title": title,
         "summary": summary,
         "category": category,
@@ -76,6 +87,9 @@ def _format_astro_frontmatter(post: frontmatter.Post, lang: str, article_type: s
         "type": article_type,
         "lang": lang,
     }
+    if faqs:
+        meta["faqs"] = faqs
+    return meta
 
 
 def _translate_title_summary(client: anthropic.Anthropic, title: str, summary: str, model: str) -> dict:

@@ -1,5 +1,5 @@
 ---
-title: "Amazon Acquires Globalstar for $11.57 Billion to Build a Satellite Layer for AWS and Inherit Apple's Emergency SOS Business"
+title: "Amazon Acquires Globalstar for $11.57B to Add a Satellite Layer to AWS and Inherit Apple's Emergency SOS Business"
 summary: "Amazon announced on April 14 it would acquire Globalstar in an $11.57 billion cash-and-stock deal, folding the satellite operator into its Amazon Leo broadband initiative and locking in a long-term agreement with Apple to power Emergency SOS and direct-to-device features on future iPhones. The move positions Amazon as SpaceX Starlink's most credible orbital rival."
 category: "industry"
 publishedAt: 2026-04-19

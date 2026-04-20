@@ -1,5 +1,5 @@
 ---
-title: "Stanford AI Index 2026: China Closes to Within 2.7 Points of U.S., Transparency Scores Collapse, and AI Adoption Outpaces Every Prior Technology"
+title: "Stanford AI Index 2026: China Closes to 2.7 Points of U.S., Transparency Collapses, AI Adoption Outpaces All Tech"
 summary: "The ninth annual Stanford HAI AI Index report reveals a field accelerating past its own guardrails: U.S. and Chinese AI models have traded places at the top of global benchmarks, the Foundation Model Transparency Index has crashed from 58 to 40, and generative AI has reached 53% global adoption faster than the personal computer or the internet ever did."
 category: "ai-ml"
 publishedAt: 2026-04-19

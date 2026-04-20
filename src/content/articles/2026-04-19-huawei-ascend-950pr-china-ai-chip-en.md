@@ -1,5 +1,5 @@
 ---
-title: "Huawei's Ascend 950PR Enters Mass Production: China's Most Powerful AI Chip Draws $5.6B ByteDance Order and Reshapes Global Chip Race"
+title: "Huawei Ascend 950PR Enters Mass Production: China's Top AI Chip Draws $5.6B ByteDance Order, Reshapes Chip Race"
 summary: "Huawei has begun mass producing the Ascend 950PR, an AI inference chip delivering 2.8 times the FP4 performance of Nvidia's H20, paired with the Atlas 350 accelerator card. ByteDance has committed $5.6 billion for 750,000 units in 2026, while Alibaba and Tencent follow — marking China's most credible challenge yet to Nvidia's dominance in its own backyard."
 category: "hardware"
 publishedAt: 2026-04-19

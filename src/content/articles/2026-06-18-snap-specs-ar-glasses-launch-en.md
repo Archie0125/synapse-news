@@ -6,7 +6,6 @@ publishedAt: 2026-06-18
 lang: "en"
 featured: false
 trending: false
-trending: false
 sources:
   - name: "Upload VR"
     url: "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/"

@@ -3,6 +3,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import SEOHead from '../components/SEOHead.astro';
 import OrganizationSchema from '../components/OrganizationSchema.astro';
+import Analytics from '../components/Analytics.astro';
 import '../styles/global.css';
 import type { Lang } from '../lib/i18n';
 
@@ -77,6 +78,7 @@ const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
     wordCount={wordCount}
   />
   <OrganizationSchema />
+  <Analytics />
   <script is:inline>
     const theme = localStorage.getItem('theme') ||
       (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');

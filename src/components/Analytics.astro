@@ -1,0 +1,40 @@
+---
+// Third-party analytics + search-console verification.
+// Every ID comes from a PUBLIC_ env var (set in Vercel → Project Settings →
+// Environment Variables), so nothing is committed to git. Each block renders
+// only when its var is present, so unconfigured platforms cost zero bytes.
+const gaId = import.meta.env.PUBLIC_GA4_ID;
+const clarityId = import.meta.env.PUBLIC_CLARITY_ID;
+const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
+const bingVerification = import.meta.env.PUBLIC_BING_VERIFICATION;
+---
+
+{/* Search Console / Bing ownership — only needed for the meta-tag method
+    (skip these vars entirely if you verify via DNS TXT instead). */}
+{gscVerification && <meta name="google-site-verification" content={gscVerification} />}
+{bingVerification && <meta name="msvalidate.01" content={bingVerification} />}
+
+{/* Google Analytics 4 — async loader keeps it off the critical path. */}
+{gaId && (
+  <>
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+    <script is:inline set:html={`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${gaId}');
+    `}></script>
+  </>
+)}
+
+{/* Microsoft Clarity — self-async loader; must run on the main thread
+    (session-recording/heatmaps break inside a web worker, so no Partytown). */}
+{clarityId && (
+  <script is:inline set:html={`
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "${clarityId}");
+  `}></script>
+)}

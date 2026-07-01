@@ -4,7 +4,7 @@
 // Environment Variables), so nothing is committed to git. Each block renders
 // only when its var is present, so unconfigured platforms cost zero bytes.
 const gaId = import.meta.env.PUBLIC_GA4_ID;
-const clarityId = import.meta.env.PUBLIC_CLARITY_ID;
+const clarityId = import.meta.env.PUBLIC_CLARITY_ID ?? 'xflja7qzj9';
 const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
 const bingVerification = import.meta.env.PUBLIC_BING_VERIFICATION;
 ---
@@ -33,7 +33,7 @@ const bingVerification = import.meta.env.PUBLIC_BING_VERIFICATION;
   <script is:inline set:html={`
     (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "${clarityId}");
   `}></script>

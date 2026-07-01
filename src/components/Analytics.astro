@@ -3,7 +3,7 @@
 // Every ID comes from a PUBLIC_ env var (set in Vercel → Project Settings →
 // Environment Variables), so nothing is committed to git. Each block renders
 // only when its var is present, so unconfigured platforms cost zero bytes.
-const gaId = import.meta.env.PUBLIC_GA4_ID;
+const gaId = import.meta.env.PUBLIC_GA4_ID ?? 'G-C4TTJRZR4X';
 const clarityId = import.meta.env.PUBLIC_CLARITY_ID ?? 'xflja7qzj9';
 const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION;
 const bingVerification = import.meta.env.PUBLIC_BING_VERIFICATION;

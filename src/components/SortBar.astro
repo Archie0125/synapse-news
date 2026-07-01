@@ -82,16 +82,27 @@ const options = [
       list.appendChild(frag);
     }
 
-    document.querySelectorAll('[data-sort-bar]').forEach(function (bar) {
-      const targetId = bar.getAttribute('data-target');
-      if (!targetId) return;
-      const list = document.getElementById(targetId);
-      if (!list) return;
-      const select = bar.querySelector('select');
-      if (!select) return;
-      select.addEventListener('change', function () {
-        sortList(list, select.value);
+    function initSortBars() {
+      document.querySelectorAll('[data-sort-bar]').forEach(function (bar) {
+        const targetId = bar.getAttribute('data-target');
+        if (!targetId) return;
+        const list = document.getElementById(targetId);
+        if (!list) return;
+        const select = bar.querySelector('select');
+        if (!select) return;
+        select.addEventListener('change', function () {
+          sortList(list, select.value);
+        });
       });
-    });
+    }
+
+    // This inline script runs before the target list <div> is parsed, so
+    // getElementById() would return null and no listener would bind. Wait
+    // for the DOM to finish parsing before wiring up the sort controls.
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initSortBars);
+    } else {
+      initSortBars();
+    }
   })();
 </script>

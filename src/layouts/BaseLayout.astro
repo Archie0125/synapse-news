@@ -47,6 +47,15 @@ const {
 } = Astro.props;
 
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
+
+// Only zh pages pay for the CJK font; Playfair stays on both because zh
+// headlines still contain Latin brand names rendered in the headline face.
+const fontFamilies = [
+  'family=Inter:wght@400;500;600;700',
+  ...(lang === 'zh' ? ['family=Noto+Sans+TC:wght@400;500;700'] : []),
+  'family=Playfair+Display:wght@700',
+];
+const fontHref = `https://fonts.googleapis.com/css2?${fontFamilies.join('&')}&display=swap`;
 ---
 
 <!DOCTYPE html>
@@ -62,7 +71,11 @@ const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
   <meta name="theme-color" content="#2563EB" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet" />
+  {/* Non-render-blocking font load: media="print" defers CSS evaluation off
+      the critical path; onload flips it live. Text paints in the fallback
+      stack first (font-display=swap), then upgrades. */}
+  <link rel="stylesheet" href={fontHref} media="print" onload="this.onload=null;this.media='all'" />
+  <noscript><link rel="stylesheet" href={fontHref} /></noscript>
   <SEOHead
     title={title}
     description={description}

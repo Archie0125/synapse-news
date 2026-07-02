@@ -1,12 +1,7 @@
 export const prerender = false;
 
-import { Redis } from '@upstash/redis';
 import type { APIRoute } from 'astro';
-
-const redis = new Redis({
-  url: import.meta.env.UPSTASH_REDIS_REST_URL || process.env.UPSTASH_REDIS_REST_URL || '',
-  token: import.meta.env.UPSTASH_REDIS_REST_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN || '',
-});
+import { redis } from '../../lib/redis';
 
 // POST /api/views — increment view count for a slug
 export const POST: APIRoute = async ({ request }) => {

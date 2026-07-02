@@ -1,0 +1,27 @@
+---
+// Invisible read tracking: increments views:{slug} in Redis once per browser
+// session. Counts are recorded backend-only (read via GET /api/views or the
+// Upstash console) — nothing is displayed on the page.
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+---
+
+<script is:inline data-slug={slug}>
+  (function () {
+    const slug = document.currentScript.dataset.slug;
+    if (!slug) return;
+    const key = 'viewed:' + slug;
+    try {
+      if (sessionStorage.getItem(key)) return;
+      sessionStorage.setItem(key, '1');
+    } catch (e) {}
+    fetch('/api/views', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ slug: slug }),
+    }).catch(function () {});
+  })();
+</script>

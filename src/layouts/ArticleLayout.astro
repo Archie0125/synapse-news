@@ -5,7 +5,7 @@ import Byline from '../components/Byline.astro';
 import SourcesList from '../components/SourcesList.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import ShareButtons from '../components/ShareButtons.astro';
-import ViewCounter from '../components/ViewCounter.astro';
+import ViewTracker from '../components/ViewTracker.astro';
 import ReactionButtons from '../components/ReactionButtons.astro';
 import { getReadingTimeLocalized, t, type Lang } from '../lib/i18n';
 
@@ -96,7 +96,7 @@ const wordCount = content
       </p>
 
       <Byline date={publishedAt} readingTime={readingTime} lang={lang} />
-      {slug && <ViewCounter slug={slug} track={true} />}
+      {slug && <ViewTracker slug={slug} />}
 
       <hr class="mt-6 border-[var(--color-border)]" />
     </header>

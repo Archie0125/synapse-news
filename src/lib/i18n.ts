@@ -43,6 +43,8 @@ const translations = {
 
     // Article
     'article.analysis': 'Analysis',
+    'article.like': 'Like',
+    'article.dislike': 'Dislike',
     'article.sources': 'Sources',
     'article.related': 'Related Stories',
     'article.min_read': 'min read',
@@ -109,6 +111,8 @@ const translations = {
 
     // Article
     'article.analysis': '深度分析',
+    'article.like': '讚',
+    'article.dislike': '噓',
     'article.sources': '資料來源',
     'article.related': '相關報導',
     'article.min_read': '分鐘閱讀',

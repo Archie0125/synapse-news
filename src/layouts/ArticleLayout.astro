@@ -6,6 +6,7 @@ import SourcesList from '../components/SourcesList.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import ViewCounter from '../components/ViewCounter.astro';
+import ReactionButtons from '../components/ReactionButtons.astro';
 import { getReadingTimeLocalized, t, type Lang } from '../lib/i18n';
 
 interface FAQ {
@@ -95,7 +96,7 @@ const wordCount = content
       </p>
 
       <Byline date={publishedAt} readingTime={readingTime} lang={lang} />
-      <!-- {slug && <ViewCounter slug={slug} track={true} />} -->
+      {slug && <ViewCounter slug={slug} track={true} />}
 
       <hr class="mt-6 border-[var(--color-border)]" />
     </header>
@@ -136,7 +137,8 @@ const wordCount = content
       </section>
     )}
 
-    <div class="max-w-[680px] mx-auto mt-8 pt-6 border-t border-[var(--color-border)]">
+    <div class="max-w-[680px] mx-auto mt-8 pt-6 border-t border-[var(--color-border)] flex flex-wrap items-center justify-between gap-4">
+      {slug && <ReactionButtons slug={slug} lang={lang} />}
       <ShareButtons title={title} url={`/${lang}/${category}/${slug}/`} lang={lang} />
     </div>
   </article>

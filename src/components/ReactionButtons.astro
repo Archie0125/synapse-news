@@ -1,0 +1,134 @@
+---
+import { t, type Lang } from '../lib/i18n';
+
+interface Props {
+  slug: string;
+  lang?: Lang;
+}
+
+const { slug, lang = 'en' } = Astro.props;
+---
+
+<div class="reaction-buttons flex items-center gap-2" data-slug={slug}>
+  <button
+    type="button"
+    data-vote="like"
+    aria-pressed="false"
+    class="reaction-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-[var(--color-border)] text-sm text-[var(--color-text-muted)] hover:bg-[var(--color-surface)] transition-colors disabled:opacity-50"
+  >
+    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+      <path d="M14 9V5a3 3 0 00-3-3l-4 9v11h11.28a2 2 0 002-1.7l1.38-9a2 2 0 00-2-2.3zM7 22H4a2 2 0 01-2-2v-7a2 2 0 012-2h3" />
+    </svg>
+    <span>{t(lang, 'article.like')}</span>
+    <span class="reaction-count font-medium">—</span>
+  </button>
+  <button
+    type="button"
+    data-vote="dislike"
+    aria-pressed="false"
+    class="reaction-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-[var(--color-border)] text-sm text-[var(--color-text-muted)] hover:bg-[var(--color-surface)] transition-colors disabled:opacity-50"
+  >
+    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+      <path d="M10 15v4a3 3 0 003 3l4-9V2H5.72a2 2 0 00-2 1.7l-1.38 9a2 2 0 002 2.3zm7-13h2.67A2.31 2.31 0 0122 4v7a2.31 2.31 0 01-2.33 2H17" />
+    </svg>
+    <span>{t(lang, 'article.dislike')}</span>
+    <span class="reaction-count font-medium">—</span>
+  </button>
+</div>
+
+<style>
+  .reaction-btn[aria-pressed='true'] {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+</style>
+
+<script is:inline>
+(function () {
+  if (window.__reactionButtonsInit) return;
+  window.__reactionButtonsInit = true;
+
+  document.querySelectorAll('.reaction-buttons').forEach(function (root) {
+    const slug = root.dataset.slug;
+    if (!slug) return;
+    const storageKey = 'reaction:' + slug;
+    const buttons = {};
+    const counts = { like: 0, dislike: 0 };
+    let haveCounts = false;
+    let current = null;
+    let busy = false;
+
+    try {
+      const stored = localStorage.getItem(storageKey);
+      if (stored === 'like' || stored === 'dislike') current = stored;
+    } catch (e) {}
+
+    root.querySelectorAll('.reaction-btn').forEach(function (btn) {
+      buttons[btn.dataset.vote] = btn;
+      btn.addEventListener('click', function () { handleClick(btn.dataset.vote); });
+    });
+    render();
+
+    fetch('/api/reactions?slugs=' + encodeURIComponent(slug))
+      .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+      .then(function (data) {
+        if (!data[slug]) return;
+        counts.like = data[slug].likes || 0;
+        counts.dislike = data[slug].dislikes || 0;
+        haveCounts = true;
+        render();
+      })
+      .catch(function () {});
+
+    function handleClick(clicked) {
+      if (busy) return;
+      busy = true;
+      const prev = current;
+      const vote = clicked === prev ? null : clicked;
+
+      // Optimistic update; server response reconciles, failure reverts.
+      applyLocal(prev, vote);
+      setDisabled(true);
+
+      fetch('/api/reactions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ slug: slug, vote: vote, prev: prev }),
+      })
+        .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+        .then(function (data) {
+          counts.like = data.likes || 0;
+          counts.dislike = data.dislikes || 0;
+          render();
+        })
+        .catch(function () { applyLocal(vote, prev); })
+        .finally(function () { busy = false; setDisabled(false); });
+    }
+
+    function applyLocal(from, to) {
+      if (from) counts[from] = Math.max(0, counts[from] - 1);
+      if (to) counts[to] += 1;
+      haveCounts = true;
+      current = to;
+      try {
+        if (to) localStorage.setItem(storageKey, to);
+        else localStorage.removeItem(storageKey);
+      } catch (e) {}
+      render();
+    }
+
+    function render() {
+      ['like', 'dislike'].forEach(function (v) {
+        const btn = buttons[v];
+        if (!btn) return;
+        btn.setAttribute('aria-pressed', current === v ? 'true' : 'false');
+        btn.querySelector('.reaction-count').textContent = haveCounts ? String(counts[v]) : '—';
+      });
+    }
+
+    function setDisabled(on) {
+      Object.values(buttons).forEach(function (btn) { btn.disabled = on; });
+    }
+  });
+})();
+</script>

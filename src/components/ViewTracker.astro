@@ -16,12 +16,15 @@ const { slug } = Astro.props;
     const key = 'viewed:' + slug;
     try {
       if (sessionStorage.getItem(key)) return;
-      sessionStorage.setItem(key, '1');
     } catch (e) {}
     fetch('/api/views', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ slug: slug }),
+    }).then(function (r) {
+      // Mark as viewed only after the increment succeeded, so a transient
+      // failure retries on the next page load instead of losing the view.
+      if (r.ok) try { sessionStorage.setItem(key, '1'); } catch (e) {}
     }).catch(function () {});
   })();
 </script>

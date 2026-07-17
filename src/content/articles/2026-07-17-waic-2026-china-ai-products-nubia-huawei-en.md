@@ -1,5 +1,5 @@
 ---
-title: "WAIC 2026 Opens: 300 AI Debuts, the World's First AI Agent Phone, and China's Clearest Statement Yet on Global AI Leadership"
+title: "WAIC 2026 Opens: 300 AI Debuts, the World's First AI Agent Phone, and China's Boldest Claim on AI Leadership"
 summary: "The 2026 World Artificial Intelligence Conference opened in Shanghai on July 17 with over 300 global product debuts, including Nubia's NaviX Ultra — billed as the world's first AI agent smartphone — Huawei's Atlas 950 supernode, and MiniMax's M3 multimodal model. With Xi Jinping delivering a rare in-person keynote and 1,100 companies exhibiting, WAIC 2026 is China's most emphatic declaration yet that the AI race is genuinely bipolar."
 category: "products"
 publishedAt: 2026-07-17

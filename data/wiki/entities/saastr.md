@@ -1,0 +1,32 @@
+# SaaStr
+
+
+*Mentioned in 8 articles*
+
+
+## Recent Mentions
+
+
+- **Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work** (2026-11-07)
+  - Software's 14.6% growth looks healthy, but model spending and price hikes are carrying it while data centers quietly take all the share gains.
+
+- **A Critical App We Pay For Went Down for 2 Days. They Never Offered a Credit. I Won’t Forget.** (2026-11-07)
+  - A $330 credit nobody offered may cost a $60K renewal, proof that customers forgive outages but remember vendors who act like nothing happened.
+
+- **Top 5 Learnings from Vercel’s COO: 10 SDRs Down to 1, a $5K-a-Year Lead Agent, and 93% of Support Cases Handled by AI** (2026-11-06)
+  - Replacing 10 lead qualifiers with a $5K-a-year agent is no longer a forecast; Vercel did it in six weeks, and other GTM teams will now be measured against that math.
+
+- **SaaStr AI and 10K Featured in Wall Street Journal** (2026-11-06)
+  - SaaStr's AI marketing agent 10K has impressive numbers, but most of them are reported by SaaStr itself, and a 40% attendance jump after a 15% price cut is economics, not AI magic.
+
+- **We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.** (2026-11-05)
+  - The real story isn't which email vendor won. It's that an AI agent made rigorous vendor testing cheap enough that gut-feel procurement now looks negligent.
+
+- **The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic’s Dollar Growth.** (2026-11-04)
+  - The AI boom isn't over, but its whales just stopped growing, and since they drive 80% of frontier lab spend, Anthropic's slowdown is the first visible sign.
+
+- **AI Spend Hit $177 Billion This Year. Only 22% of It Came Out of Software Budgets.  The 4th Annual State of Enterprise AI Report from Menlo Ventures,** (2026-11-04)
+  - AI spending is exploding, but AI-native startups fighting for software budgets are chasing the smallest pool, and incumbents are winning most of it.
+
+- **5 Interesting Learnings from Anthropic at $17 Billion in Quarterly Revenue: $5.4B Added vs. $6.8B the Quarter Before, 900% NRR, and $895 Billion in Compute Commitments** (2026-11-03)
+  - Anthropic's $17B quarter is historic, but its first shrinking dollar add and $895B in compute commitments against $132B in cash show its constraint is now compute, not demand.

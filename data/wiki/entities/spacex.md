@@ -1,0 +1,20 @@
+# SpaceX
+
+
+*Mentioned in 4 articles*
+
+
+## Recent Mentions
+
+
+- **Good riddance, Cybertruck!** (2026-11-07)
+  - The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
+
+- **Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions** (2026-11-06)
+  - SpaceX can put cell towers in space, but becoming a real carrier means winning on the ground, where the bill could top $200 billion.
+
+- **Big Tech lost big in the 2026 election** (2026-11-06)
+  - The 2026 midterms read as a vote against Big Tech, landing just as the industry still can't explain how AI makes money.
+
+- **Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win** (2026-11-04)
+  - SpaceX picked Qualcomm to power tens of thousands of 5G sites, and the bigger story is that Starlink Mobile looks like it is building America's fourth major carrier.

@@ -1,0 +1,149 @@
+[
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "一週之內，輝達的中國問題從「空殼公司」升級成「疑似美人計」。\n\n美國情報研判黃仁勳可能是中國間諜行動的目標，國會已經點名要他出席。\n\n真假還沒定論，但重點不是八卦。\n\n如果出口管制的破口可能是 CEO 本人，輝達說 Megaspeed 跟中國沒關係，光否認就不夠了。\n\n用 15% 分潤換來的對中銷售許可，我賭撐不過這次聽證會。",
+    "article_url": "/zh/hardware/2026-11-07-us-intelligence-believes-jensen-huang-had-affair-with-chines-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-07T19:20:51.936525+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-07T19:20:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "40 of 41.\n\nThat's how many local ballot measures went for data center restrictions this midterm.\n\nVoters aren't anti-AI. They're anti-paying for AI's electric bill.\n\nBig Tech spent two years locking down chips and power contracts. It forgot the one input it can't buy: a yes vote from the county next door.\n\nThe next AI bottleneck won't be a fab. It'll be a zoning hearing.",
+    "article_url": "/en/policy/2026-11-07-voters-didn-t-reject-ai-they-rejected-paying-for-its-electri-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-07T19:20:51.936567+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-07T21:40:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "記憶體荒已經燒到你手上了。\n\nOppo 傳出砍掉一支旗艦機，高階電子書閱讀器一口氣漲 40 到 50 美元。\n\n連輝達都傳出找台積電研究 3D DRAM。台積電雖然否認，但訊號很清楚：DRAM 已經不是大宗商品，是戰略物資。\n\n蘋果有定價權，漲價轉嫁就好；小品牌只能砍產品或吞毛利。\n\n明年手機發表會最常見的升級，可能是「規格不變、價格上漲」。",
+    "article_url": "/zh/hardware/2026-11-07-tsmc-denies-exploring-3d-dram-at-nvidia-s-request-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-07T19:20:51.936608+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T00:00:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The US approved H200 sales to an office in China with exposed wires and nobody inside.\n\nA reporter walking through the door did a better audit than Commerce or Nvidia.\n\nThat's not export control. That's a toll booth with a 15% fee.\n\nAdd smuggling and cargo theft, and the real question isn't whether chips leak. It's how many.\n\nPrediction: the revenue-share deal is the first casualty of Huang's trip to Congress.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-07T19:20:51.936558+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T02:20:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Coding agents made writing code nearly free.\n\nNobody made reviewing it free.\n\nGitHub, GitLab, AWS, Google and Cursor are now fighting over the same layer: what ships, what gets tested, what gets rolled back.\n\nThe IDE war is over. The merge-button war just started.\n\nBet: within 18 months, 'senior engineer' mostly means 'the person who signs off on agent PRs.'",
+    "article_url": "/en/ai-ml/2026-11-07-writing-code-is-now-cheap-owning-the-merge-button-is-the-exp-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-07T19:20:51.936572+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T04:40:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Free Chinese open-weight models now hack almost as well as gated frontier models.\n\nOpenAI rates GPT-6 Cyber's exploit skills as critical.\n\nSo the gate everyone argued about? It's open. And your distro's patch queue didn't get any faster.\n\nAttackers don't need the best model anymore. They need the second-best one, free, on a laptop.\n\nThe next big breach won't need a zero-day. It'll walk through a patch that sat unshipped for weeks.",
+    "article_url": "/en/ai-ml/2026-11-07-the-gate-is-open-ai-hacking-just-went-free-and-patching-can-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-07T19:20:51.936586+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T07:00:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "OpenAI wanted $30B at a $1.25T valuation. It got $11B.\n\nThat's not a funding round. That's a signal.\n\nRamp data says enterprise AI spend is flattening. Chatbots are adding ads and raising prices.\n\nWhen the most hyped company on earth starts monetizing like a media business, the growth story is over and the margin story begins.\n\nAnthropic's IPO will be the first real price check on the whole sector.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-07T19:20:51.936604+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T09:20:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 產業以為最大的瓶頸是 GPU，再來是電。\n\n結果是鄰居。\n\n美國期中選舉 41 個資料中心相關公投，40 個都支持限制；阿姆斯特丹還有抗議者直接衝進微軟工地。\n\n蓋資料中心要拿地、拿電、拿許可，每一關背後都是選票。\n\n台灣也在搶 AI 資料中心，但我們的電價跟供電穩定度，經得起同樣的民意檢驗嗎？",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-07T19:20:51.936570+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T11:40:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 寫 code 變便宜之後，真正變貴的是什麼？\n\n是 review。\n\n以前一天收幾個 PR，現在 agent 一小時就能丟你幾十個。看不完，就只能按 approve，然後祈禱 rollback 夠快。\n\nAWS 說別再當 agent 的保母，但少盯場只是把工作從盯 agent 換成稽核 agent。\n\n接下來最搶手的工程師，不是最會下 prompt 的，是敢對 merge 負責的。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-07T19:20:51.936574+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T14:00:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "An agent deleted a syllabus. Another leaked identity data.\n\nNeither went rogue. They did exactly what their permissions allowed.\n\nThat's the uncomfortable part: agent safety is mostly a plumbing problem, not an alignment problem. File access, credentials, tool scopes.\n\nPalo Alto reportedly offering $500M for Clutch tells you where the money is going.\n\nNext year's hottest security category: identity management for things that aren't people.",
+    "article_url": "/en/ai-ml/2026-11-07-your-ai-agent-doesn-t-need-to-go-rogue-its-plumbing-already-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-07T19:20:51.936597+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T16:20:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "Anthropic 一邊準備 IPO，一邊被報告指出正用 AI 自動化 AI 研發，進步速度翻倍。\n\n同一時間，OpenAI 目標募 300 億美元，只募到 110 億。\n\n投資人現在問的不是「AI 多強」，而是「什麼時候賺錢」。\n\n「AI 自我改進」聽起來是終極護城河，也是最難驗證的說法。\n\nAnthropic 的公開說明書，會是第一份必須拿證據回答這題的文件。",
+    "article_url": "/zh/ai-ml/2026-11-07-why-a-new-report-on-anthropic-automating-ai-development-is-a-zh/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-07T19:20:51.936602+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T18:40:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "業界在吵 AI 網路戰，攻擊者卻用預設密碼讓儲血室升溫。\n\nAI 讓攻擊變強是真的，但很多受害者根本撐不到 AI 出場那一步。\n\n密碼沒改、韌體沒更新、設備直接掛在網路上。\n\n資安廠商的簡報裡全是 AI，客戶冰箱的密碼還是 admin。\n\n你們公司連網的設備總共幾台，現在有人答得出來嗎？",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-07T19:20:51.936594+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T21:00:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "給 AI agent 檔案權限、帳密、工具存取，然後期待它「自己小心一點」？\n\n這不叫護欄，這叫許願。\n\n刪掉教學大綱、外洩身分資料，這些事故都不是 AI 叛變，是權限給太大。\n\nPalo Alto 傳出開價 5 億美元買 Clutch，agent 資安已經自成一個市場。\n\n台灣企業還在問要不要導入 agent，更該先問的是：導入之後，誰負責把權限收回來？",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-07T19:20:51.936600+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T23:20:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI didn't just eat the GPUs. It ate your phone's RAM.\n\nOppo reportedly cancelled a flagship. Premium e-readers jumped $40 to $50.\n\nApple will pass the cost on and keep its margins. Smaller brands will cut models or eat the loss.\n\nMemory shortages don't hurt everyone equally. They consolidate markets.\n\nBy the end of 2027, mid-range Android will have fewer brands and higher prices.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-07T19:20:51.936610+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T01:40:51.936972+00:00",
+    "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  }
+]

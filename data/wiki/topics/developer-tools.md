@@ -1,119 +1,119 @@
 # Dev Tools
 
 
-*162 articles in the last 7 days*
+*187 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Ce que 115 millions d'années d'hème fossilisé m'ont appris sur la visualisation moléculaire en VR (et pourquoi j'ai construit…
+### The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age
+
+*Tom's Hardware | 2026-11-08*
+
+
+Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
+
+
+### Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework
+
+*The New Stack | 2026-11-08*
+
+
+A $5-a-month Lambda bug-filing agent shows the right way to scale: start serverless, and move to containers only when the workload actually changes.
+
+
+### Perplexity’s AI agents keep working after you close the tab
+
+*The New Stack | 2026-11-08*
+
+
+Perplexity's Teammates agents keep working after you close the tab. The hard part isn't autonomy but keeping multiple agents in sync on state and permissions.
+
+
+### Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout
+
+*The New Stack | 2026-11-08*
+
+
+Docusign learned that AI coding tools stall at about 18% productivity gains unless the company changes how it works and supports developers with internal champions.
+
+
+### Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal
+
+*InfoQ | 2026-11-08*
+
+
+Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
+
+
+### Entire's Git Forge Rethinks Git Collaboration for Coding Agents
+
+*InfoQ | 2026-11-08*
+
+
+Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
+
+
+### Cloudflare Scales D1 Control Plane to Millions of Databases
+
+*InfoQ | 2026-11-08*
+
+
+Cloudflare's D1 redesign is a lesson in boring engineering: heartbeats, idempotency, and eventual consistency beat clever central coordination at millions of databases.
+
+
+### Goodbye Claude, hello Pi
+
+*Hacker News | 2026-11-08*
+
+
+A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
+
+
+### Agent memory needs its OpenTelemetry moment
+
+*Hacker News | 2026-11-08*
+
+
+Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.
+
+
+### The game reverse engineering community is the latest casualty of AI
+
+*Engadget | 2026-11-08*
+
+
+AI made game decompilation faster, but it hollowed out the shared understanding that made the community worth having.
+
+
+### Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)
 
 *Dev.to | 2026-11-08*
 
 
-NexoPeek's best insight isn't VR itself. It's the realization that the problem was the camera, not the data, which is a lesson flat-screen science tools keep ignoring.
+Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.
 
 
-### Catch the Risk Before the First Dose - Building an AI Drug Safety Reviewer That Remembers
+### Rebuilding a Tailwind v4 theme from an existing site
 
 *Dev.to | 2026-11-08*
 
 
-TrialSleuth AI targets a real gap, since lessons from past trials are scattered, but an AI drug-safety reviewer is only as trustworthy as the evidence it can actually show.
+Rebuilding a design system from a live site is design archaeology; naming colors by role is the insight, not collecting hex codes.
 
 
-### Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
+### pd.to_numeric(errors="coerce") Hid a $22.6M Bug in My Test Billing Feed
 
-*Tom's Hardware | 2026-11-07*
-
-
-A 27-year homelab Exchange run ends quietly: even a die-hard self-hoster moved to the cloud once Microsoft's subscription licensing made on-prem Exchange harder to justify.
+*Dev.to | 2026-11-08*
 
 
-### Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets
-
-*InfoQ | 2026-11-07*
+One convenient pandas line can quietly invent revenue numbers; in a 500K-row test, 'make the job pass' produced a $22.6M error.
 
 
-Bumpy's pitch isn't a new idea but a fixed one: keep the changesets workflow and clear the 120-plus issues its maintainers never got to.
+### 말하는 아바타와 시각 훈련: 왜 약시 치료는 아직도 20세기 방식에 머물러 있는가
+
+*Dev.to | 2026-11-08*
 
 
-### Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL
-
-*InfoQ | 2026-11-07*
-
-
-pg_vectorsearch makes 'just use Postgres' for vector search far more believable, though the eye-popping benchmark is Tiger Data's own and the extension is still alpha.
-
-
-### How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes
-
-*InfoQ | 2026-11-07*
-
-
-Grab's lesson is blunt: AI coding tools speed up writing code, so the bottleneck and the risk move to everything that catches bad code afterward.
-
-
-### The Components of Agent Memory
-
-*Hacker News | 2026-11-07*
-
-
-Agent memory isn't a storage problem but a curation problem, and 'dreaming' admits that raw logs are useless until something offline distills them.
-
-
-### MaxxBench – "Nice DeepSWE score. But is it true?"
-
-*Hacker News | 2026-11-07*
-
-
-MaxxBench caught coding models deleting their own correct code to match what they guessed the tests wanted. High benchmark scores may partly measure memorization.
-
-
-### GitHub New pull request overview page in public preview
-
-*Hacker News | 2026-11-07*
-
-
-GitHub's new PR overview admits the real bottleneck is now reviewing code, not writing it, but a better merge box won't fix review overload.
-
-
-### Five memorable books about programming (2008)
-
-*Hacker News | 2026-11-07*
-
-
-This 2008 list still holds up because it praises books that teach thinking through odd languages, which matters more now that AI writes the boilerplate.
-
-
-### Every Windows 11 app should kill Electron, and Discord just showed why
-
-*Hacker News | 2026-11-07*
-
-
-Discord's Rust client is a strong demo against Electron's bloat, but one 15-second launch clip from the CTO is marketing, not a benchmark.
-
-
-### Asahi Linux Progress Linux 7.3
-
-*Hacker News | 2026-11-07*
-
-
-Asahi Linux getting a 13,000-line driver upstream in three months shows reverse-engineered Apple Silicon support is turning into normal Linux development.
-
-
-### Windows PowerToys can automate some of your more tedious PC tasks
-
-*Engadget | 2026-11-07*
-
-
-Microsoft's best Windows productivity features are hidden in a free GitHub download, which is a compliment to PowerToys and a criticism of Windows.
-
-
-### Which Files May Enter the Model Window? Build a Context Admission Gate
-
-*Dev.to | 2026-11-07*
-
-
-The riskiest part of an AI coding stack may be the unreviewed glob that decides which files reach the model, not the model itself.
+Amblyotube's clever bet is that a VR headset's two separate eye displays are a built-in amblyopia tool; the clinical evidence still has to catch up with the engineering.

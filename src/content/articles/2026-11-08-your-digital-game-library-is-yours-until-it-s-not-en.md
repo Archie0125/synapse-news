@@ -1,0 +1,82 @@
+---
+category: policy
+faqs:
+- answer: 2K will shut down NBA 2K25's online servers on December 31, 2026, ending
+    MyCareer and MyTeam. Offline modes such as Play Now, MyNBA, The W and MyWNBA will
+    remain playable.
+  question: What happens to NBA 2K25 when its servers shut down?
+- answer: No. Steam, PlayStation and Xbox sell digital games as licenses whose terms
+    are set by the seller, and those licenses can be revoked.
+  question: Do players own the digital games they buy?
+- answer: Yes. After Ubisoft shut down servers for The Crew in March 2024, players
+    reported that the company began deleting the game from their libraries.
+  question: Has a publisher ever removed a purchased game from libraries?
+featured: false
+lang: en
+publishedAt: '2026-11-08T14:45:00+00:00'
+relatedSlugs: []
+sources:
+- name: Engadget
+  url: https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/
+summary: NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is
+  really a rental with an undisclosed end date.
+tags:
+- policy
+- industry
+- products
+title: Your digital game library is yours, until it's not
+trending: false
+type: news
+---
+
+# Your digital game library is yours, until it's not
+
+Every major storefront sells games as revocable licenses, and the disc that used to be the fallback is going away.
+
+Anyone who paid $99.99 for the *NBA 2K25* All-Star Edition at launch in September 2024 gets a little over two years of MyCareer, the series' single-player story mode, before 2K pulls the plug. 2K removed the game from digital storefronts on October 30, 2026, and will shut down its online servers on December 31 of this year. Because MyCareer runs on those servers, it will disappear with them.
+
+While those who bought (or, I suppose, "licensed" is the correct term) the game can still redownload and play its offline modes, that's all they'll get after the game artificially "expires." While many players will be furious with 2K's decision, the fundamental truth is that you don't own the games in your Steam, PlayStation or Xbox library. You hold a license to play them on terms the company selling them sets. And that license can be revoked.
+
+## Server shutdowns and revoked licenses
+
+When a publisher delists a game, as 2K did with *NBA 2K25*, existing owners keep it in their library and can download it again; anyone who doesn't already have it only has the option to track down a disc copy, if available. But a server shutdown goes a step further: anything that depends on the publisher's online infrastructure stops working, including single-player modes built to check in with a server. That's why *NBA 2K25* loses MyCareer and MyTeam but keeps Play Now, MyNBA, The W and MyWNBA.
+
+The worst-case scenario is a revoked license, where the game is erased from your library entirely. There's precedent for this: Ubisoft shut down servers for *The Crew*, an always-online racer, in March 2024. Then, according to player reports, the company [started deleting *The Crew* from players' libraries](https://www.engadget.com/ubisoft-is-deleting-the-crew-from-players-libraries-reminding-us-we-own-nothing-165328083.html), moving it to an "inactive games" section on its Ubisoft Connect launcher that no longer allowed downloads.
+
+Platform rules can shift, too. PlayStation owners raised the alarm back in April after noticing a 30-day timer on new digital purchases, which they thought might be a regular check-in period. Although Sony told [*Game File*](https://www.gamefile.news/p/sony-30-day-playstation-check-in-explained) that this is a one-time license check, it does illustrate how fragile "ownership" of digital games can be. Sony's license agreement says that software is "licensed to you, not sold" and in an August 2026 court filing, the company argued that "reasonable consumers" wouldn't be misled into thinking otherwise.
+
+## Discs don't necessarily mean access forever
+
+Sony will [stop making disc-based PlayStation games](https://www.engadget.com/2205792/sony-will-stop-making-disc-based-playstation-games-starting-2028/) starting in January 2028, after which new titles will be sold only in digital formats through the PlayStation Store and retailers. Games released on disc before that date aren't affected, and Sony's announcement didn't say whether retailers will sell the digital-only titles as codes in boxes, cards or something else.
+
+The upcoming *Grand Theft Auto VI* has given us some clarity: Rockstar's boxed version, on sale ahead of the game's November 19 launch, contains a download code instead of a disc. Once that code is redeemed, the box is essentially nothing but plastic waste, with no disc-bound copy of the game left inside to lend or resell. But having a game on a disc isn't a guarantee that you'll always be able to play it, either. *The Crew* was also sold on disc, but because it required a constant connection to Ubisoft's servers, those physical copies stopped working at the same time as the digital ones.
+
+Nintendo already sells some Switch 2 games on game-key cards, which don't hold the full game. Once inserted, the console has to download the game and check in online the first time it's launched, then the card must to stay inserted to play that title. GOG has gone the other way, telling customers in July that they'll be able to download an offline installer for any game they've bought there and keep it, without needing the store's permission to play it. That's different from the Nintendo game-key card, which depends on Nintendo's servers.
+
+## What the law says
+
+California's AB 2426 law came into force in January 2025. It banned digital storefronts from using words like "buy" or "purchase" unless they also tell customers that they're getting a license, not buying a copy that they own. But the law doesn't do anything to stop publishers from pulling the plug on games and taking them offline further down the line, and its disclosure rule is currently being litigated through a proposed class action filed against Sony in June. It argues the PlayStation Store's purchase buttons violate the disclosure rule, and Sony has asked the court to send the case to arbitration or dismiss it.
+
+Representative Ritchie Torres (D-NY) announced in October that he'll [introduce a bill protecting video game ownership](https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/), which would have the FTC write rules treating purchased games as owned and requiring an offline mode before servers close. "If you pay for it, you own it," [Torres told *Kotaku*](https://kotaku.com/rep-ritchie-torres-announces-congressional-legislation-to-protect-video-game-ownership-2000746395). Meanwhile, in Europe, the [Stop Killing Games](https://www.stopkillinggames.com/en) campaign's citizens' initiative collected more than 1.29 million valid signatures, but the European Commission declined to propose a new law in June, committing instead to talks with publishers and consumer groups on a voluntary code of conduct.
+
+With Sony's 2028 cutoff fast approaching as [the shift to a digital-only gaming future continues](https://www.engadget.com/2230761/switch-to-digital-games-pros-cons/), more new games will reach players only as licenses. But right now, the strongest protection any government can conjure up is forcing storefronts to add a disclaimer at checkout that most people won't bother reading. And even if they did, it likely wouldn't affect their decision.
+
+## Summary
+
+**TLDR:** NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is really a rental with an undisclosed end date.
+
+- 2K delisted NBA 2K25 on October 30, 2026, and will shut its servers on December 31, killing the server-dependent MyCareer and MyTeam modes.
+- Offline modes like Play Now and MyNBA remain, but buyers of the $99.99 All-Star Edition get just over two years of MyCareer.
+- Steam, PlayStation and Xbox sell games as revocable licenses, not owned goods.
+- Ubisoft reportedly removed The Crew from players' libraries after shutting its servers in March 2024.
+- With physical discs disappearing, consumers are losing their last fallback for long-term access.
+
+## 摘要
+
+**重點摘要：** NBA 2K25 兩年後就失去 MyCareer，證明 99.99 美元的數位遊戲其實是沒寫明到期日的租約。
+
+- 2K 已於 2026 年 10 月 30 日下架 NBA 2K25，並將於 12 月 31 日關閉伺服器，依賴伺服器的 MyCareer 與 MyTeam 模式將隨之消失。
+- Play Now、MyNBA 等離線模式仍可遊玩，但 99.99 美元全明星版玩家只享有兩年多的 MyCareer。
+- Steam、PlayStation 和 Xbox 賣的都是可撤銷的授權，而不是你擁有的商品。
+- Ubisoft 在 2024 年 3 月關閉《The Crew》伺服器後，據玩家回報還將遊戲從收藏庫中刪除。
+- 實體光碟逐漸消失，玩家正失去長期保有遊戲的最後退路。

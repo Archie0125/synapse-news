@@ -1,11 +1,14 @@
 # Perplexity
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Perplexity’s AI agents keep working after you close the tab** (2026-11-08)
+  - Perplexity's Teammates agents keep working after you close the tab. The hard part isn't autonomy but keeping multiple agents in sync on state and permissions.
 
 - **Perplexity's 'teammates' are the company's AI agents for daily work tasks** (2026-11-06)
   - Perplexity's teammates promise AI agents that manage other AI agents around the clock. At $200 a month, the burden is on Perplexity to prove they actually get work done.

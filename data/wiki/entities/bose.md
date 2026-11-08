@@ -1,14 +1,11 @@
 # Bose
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **The 10 Best Early Black Friday Headphone Deals (2026)** (2026-11-07)
-  - Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
 
 - **Anker Soundcore Space 2 Pro review: Big bang for less bucks** (2026-11-06)
   - At $200, the Soundcore Space 2 Pro makes $400-plus flagship headphones look like a brand tax rather than a performance premium.

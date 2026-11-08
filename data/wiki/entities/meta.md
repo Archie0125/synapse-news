@@ -1,11 +1,14 @@
 # Meta
 
 
-*Mentioned in 11 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
+
+- **말하는 아바타와 시각 훈련: 왜 약시 치료는 아직도 20세기 방식에 머물러 있는가** (2026-11-08)
+  - Amblyotube's clever bet is that a VR headset's two separate eye displays are a built-in amblyopia tool; the clinical evidence still has to catch up with the engineering.
 
 - **Meta stellt Quest 2 ein – wer von euch trainiert noch mit alter Hardware, und was macht ihr dann?** (2026-11-07)
   - Meta ending Quest 2 updates looks like routine housekeeping, but it hits hardest the people who bought cheap used headsets for vision therapy.

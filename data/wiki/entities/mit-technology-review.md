@@ -1,17 +1,11 @@
 # MIT Technology Review
 
 
-*Mentioned in 5 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **The Download: Texas’s fragile AI boom and energy policy shifts** (2026-11-05)
-  - Texas voters just showed that data centers can lose elections, and hyperscalers' assumption of cheap, friendly land is now a political risk.
-
-- **A new bill could change how the US builds energy infrastructure** (2026-11-05)
-  - BAAJA could finally unclog US energy permitting, but because it is technology neutral, pipelines move as fast as solar farms.
 
 - **Securing the agentic enterprise with data lineage** (2026-11-04)
   - This sponsored piece has a real point under the vendor framing: once agents pass data to other agents, you can't secure what you can't trace.

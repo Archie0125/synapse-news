@@ -1,14 +1,11 @@
 # AMD
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount** (2026-11-07)
-  - When a $500-off prebuilt beats building your own, the memory shortage has quietly turned DIY PC building into a luxury hobby.
 
 - **Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100** (2026-11-06)
   - A $600 discount makes the HyperX Omen Max 16 competitive, but a mobile RTX 5070 Ti with 12GB of VRAM is still a compromise at $2,100.

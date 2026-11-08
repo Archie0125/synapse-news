@@ -290,5 +290,172 @@
     "status": "pending",
     "scheduled_for": "2026-11-09T14:20:00+00:00",
     "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "兩家獲准買 Nvidia 禁售晶片的中國公司，記者照地址找上門，辦公室是空的。\n\n連記者走一趟就能戳破的審查，到底審了什麼？\n\n華府想要對中強硬的名聲，又不想砍 Nvidia 的營收。空辦公室已經說明哪邊贏了。\n\n下一個被發現的空殼公司，不會只有兩家。",
+    "article_url": "/zh/policy/2026-11-08-two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-08T18:27:59.023926+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T18:27:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "64GB 配置的電腦少了 18%。\n\n不是玩家不想要，是記憶體都被 GPU 叢集搬走了。\n\nAI 熱潮正在對 PC 玩家收隱形稅，而且這筆稅不會出現在任何發票上。\n\n明年想組電腦的人，16GB 起跳可能要重新變成「夠用」的標準。",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-08T18:27:59.023972+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T20:47:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Millions of people chasing Pokémon were scanning sidewalks for robots without knowing it.\n\nWorld models will be won by whoever owns the most real-world footage.\n\nAnd most of that footage came from people who never agreed to train anything.\n\nThe next privacy fight won't be about your face. It'll be about your street.",
+    "article_url": "/en/ai-ml/2026-11-08-world-models-will-soon-be-inescapable-heres-what-you-need-to-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-08T18:27:59.023974+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T23:07:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "出口管制最弱的一環從來不是晶片，是審核表格。\n\n只要文件寫得漂亮、地址查得到，誰在那邊辦公根本沒人去看。\n\n台灣供應鏈要注意：華府哪天因為這種醜聞突然收緊，最先被要求加強查核的會是誰？\n\n我賭 2027 年前一定會有「現場查核」條款。",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T18:27:59.023959+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T01:27:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "《魔獸世界：Forever》上線用了 70,480 顆 CPU 核心、251 TB 記憶體。\n\n跟 17 年前比，核心變少，記憶體卻多了兩倍以上。\n\n算力早就不是難題，記憶體才是讓幾百萬人同時在線的真正成本。\n\n記憶體價格又在漲，暴雪下一筆帳單會有多痛？",
+    "article_url": "/zh/hardware/2026-11-08-wow-forever-launch-used-70480-cpu-cores-and-251-terabytes-of-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T18:27:59.023966+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T03:47:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "M6 MacBook Pro 多了一組神經網路引擎，價格多 200 美元。\n\n多數人用起來感受得到嗎？很難。\n\n現在蘋果最強的對手，是自家降價的 M5。\n\n想換機的人，這波 M5 特價大概才是今年最理性的選擇。",
+    "article_url": "/zh/hardware/2026-11-08-the-apple-macbook-pro-m5-is-on-sale-and-a-top-macbook-to-buy-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T18:27:59.023995+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T06:07:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "The Cybertruck might be the most expensive lesson yet that reservations are not revenue.\n\nThe crowd cheering at the launch didn't show up at checkout.\n\nA $100 refundable deposit measures excitement, not intent.\n\nEvery EV startup still pitching its preorder count should be asked one thing: how many converted?",
+    "article_url": "/en/hardware/2026-11-08-techcrunch-mobility-the-cybertruck-experiment-is-over-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T18:27:59.024013+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T08:27:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Every AR game, dashcam, and doorbell camera is now a data asset for world models.\n\nThe moat isn't the model architecture. Those leak in six months.\n\nThe moat is footage you can't buy anymore because the users already gave it away for free.\n\nWatch for the first lawsuit claiming a game was secretly a mapping operation.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T18:27:59.023977+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T10:47:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Raise the price $200 in summer. Cut it $200 in November. Get a \"lowest price\" headline.\n\nThat's the M5 MacBook Air right now.\n\nThe RAM shortage didn't just raise prices. It reset what a \"deal\" means.\n\nBy Black Friday, the original MSRP will be marketed as a doorbuster.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T18:27:59.023998+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T13:07:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Robots were supposed to change war in the open. Drones in the sky, machines on the field.\n\nInstead, Ukraine is sending them into underground gas pipelines.\n\nThe real use case for military robots is simple: the place no soldier wants to enter first.\n\nThe next wave won't be bigger robots. It'll be smaller ones.",
+    "article_url": "/en/hardware/2026-11-08-ukraine-builds-combat-robots-to-hunt-russian-troops-in-under-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T18:27:59.024002+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T15:27:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "關掉分頁，AI 代理還在幫你工作。聽起來很美。\n\n直到兩個代理互相覆蓋對方的成果。\n\n多代理產品的勝負不在模型多聰明，在協調做得好不好。\n\n明年最搶手的不是會寫 prompt 的人，是會設計代理分工的人。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T18:27:59.024020+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T17:47:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Peak Design owned the camera strap for a decade. Everyone copied their anchor system.\n\nNow Wandrd shows up with magnets.\n\nBeing the standard doesn't protect you once someone ships a better feel in the hand.\n\nPeak Design has maybe one product cycle to answer before \"magnetic\" becomes the default.",
+    "article_url": "/en/products/2026-11-08-wandrds-magnetic-camera-straps-are-my-new-favorite-accessory-en/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-08T18:27:59.023981+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T20:07:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "A pocket-sized receiver can intercept Russian drone video from six miles away.\n\nAnd Ukraine's own adviser says it could be obsolete as soon as Russia changes bands.\n\nDrone warfare now runs on product cycles measured in months.\n\nDefense procurement still runs on cycles measured in years. Only one of those survives.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-08T18:27:59.024009+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T22:27:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Linux 7.5 deleted 800 lines of Pentium-era MMX code and replaced them with 12.\n\nNobody throws a launch party for removing code.\n\nBut that's how a 35-year-old kernel stays fast while most software gets slower every year.\n\nThe best engineers on your team are probably the ones with negative line counts.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-08T18:27:59.024017+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T00:47:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Accessory markets look sleepy until they don't.\n\nOne small mechanical change, like a magnet instead of a clip, and a ten-year leader suddenly looks dated.\n\nThe lesson for every incumbent: your copycats aren't the threat. The company that skips your design entirely is.",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-08T18:27:59.023992+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T03:07:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "買 AI 程式工具授權，就像辦健身房會員。\n\n刷卡那天最有動力，一個月後沒人去。\n\nDocusign 在各團隊安插 75 位推動者，比任何強制命令都有效。\n\n你們公司買了多少授權，又有幾個人真的每天在用？說真的，大部分老闆不敢查。",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-08T18:27:59.024022+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T05:27:59.025452+00:00",
+    "queued_at": "2026-11-08T18:27:59.025452+00:00"
   }
 ]

@@ -1,11 +1,17 @@
 # NVIDIA
 
 
-*Mentioned in 5 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
+  - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
+
+- **Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)** (2026-11-08)
+  - Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.
 
 - **How Sub‑Millisecond AI is Revolutionizing Factories, Trucks, and Cars in 2026** (2026-11-07)
   - A sweeping claim that one decoupled predictor runs Waymo, Siemens, GE and Amazon, with neat regulation names and tidy gains but no sources. Treat it as speculation until proven.

@@ -1,11 +1,14 @@
 # MacBook Air
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple’s M5 MacBook Air is down to its lowest price since July** (2026-11-08)
+  - A $200 MacBook Air discount sounds generous, but it only undoes Apple's summer price hike. It's a deal only compared with the new, higher price.
 
 - **Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more** (2026-11-07)
   - Early Black Friday deals are clearing last-generation Apple hardware, and the M5 MacBook Air at up to $250 off is the one worth buying.

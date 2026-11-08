@@ -1,18 +1,82 @@
 # Open Source
 
 
-*52 articles in the last 7 days*
+*58 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets
+### The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age
 
-*InfoQ | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Bumpy's pitch isn't a new idea but a fixed one: keep the changesets workflow and clear the 120-plus issues its maintainers never got to.
+Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
+
+
+### Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU
+
+*Hacker News | 2026-11-08*
+
+
+Running a 284B model on a 64GB CPU box is a bold claim, but every number here is self-reported, and output quality matters more than tokens per second.
+
+
+### Agent memory needs its OpenTelemetry moment
+
+*Hacker News | 2026-11-08*
+
+
+Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.
+
+
+### The game reverse engineering community is the latest casualty of AI
+
+*Engadget | 2026-11-08*
+
+
+AI made game decompilation faster, but it hollowed out the shared understanding that made the community worth having.
+
+
+### Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)
+
+*Dev.to | 2026-11-08*
+
+
+Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.
+
+
+### Rebuilding a Tailwind v4 theme from an existing site
+
+*Dev.to | 2026-11-08*
+
+
+Rebuilding a design system from a live site is design archaeology; naming colors by role is the insight, not collecting hex codes.
+
+
+### pd.to_numeric(errors="coerce") Hid a $22.6M Bug in My Test Billing Feed
+
+*Dev.to | 2026-11-08*
+
+
+One convenient pandas line can quietly invent revenue numbers; in a 500K-row test, 'make the job pass' produced a $22.6M error.
+
+
+### I installed my stack on a machine with leftovers. Three green signals stayed green.
+
+*Dev.to | 2026-11-08*
+
+
+A green CI run proves your stack works on a clean machine and nothing more; this test shows green signals lying on real, messy hosts.
+
+
+### I counted every server in the official MCP Registry: 59,603 entries, and October alone added 16,282
+
+*Dev.to | 2026-11-08*
+
+
+MCP's registry reached nearly 60,000 servers and October alone added 16,282, which looks like adoption but may increasingly be noise.
 
 
 ### Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL
@@ -101,67 +165,3 @@ The interim hardening advice here is solid, but a vulnerability write-up with no
 
 
 OpenPilot's honest one-month numbers show what launch day hides: stars stall after week one, and only tutorials and actually answering users keep the momentum.
-
-
-### I put 7 Claude Code agents in my research lab's group chat with Switch. Here's how to set it up (and what broke on Windows)
-
-*Dev.to | 2026-11-07*
-
-
-Seven agents in a lab chat sounds like overkill, but the killer feature is one line: someone has been blocked since Nov 3, and nobody noticed.
-
-
-### Day 5: Fixing VLAN bugs and adding a configuration file.
-
-*Dev.to | 2026-11-07*
-
-
-A small but correct engineering move: pulling VLAN topology out of hardcoded loops into a config file is what turns a toy switch into something you can test.
-
-
-### 💡 Building Aftermath | A Journey of Learning and Collaboration
-
-*Dev.to | 2026-11-07*
-
-
-A project diary that talks about learning and pride but never says what Aftermath does, which makes it hard for anyone to care.
-
-
-### Free Chinese AI Models Are Getting Scary Good at Hacking
-
-*Wired | 2026-11-06*
-
-
-Free, downloadable Chinese models now nearly match gated frontier models at hacking. The 'buy time' logic behind restricted releases just ran out of time.
-
-
-### How Akai and Moog are embracing vibe-coded mods
-
-*The Verge | 2026-11-06*
-
-
-inMusic is betting that open-source hardware plus a reset button turns modders from a warranty headache into free R&D.
-
-
-### Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI
-
-*The New Stack | 2026-11-06*
-
-
-Google is donating its agent infrastructure to the CNCF to make it the default standard, just as it did with Kubernetes. Giving it away is how Google keeps influence over it.
-
-
-### Cognition turned an open model into a coding beast. But it won’t release the weights.
-
-*The New Stack | 2026-11-06*
-
-
-Cognition built SWE-2 Flash on open weights and then locked its version away, citing cybersecurity. That reason looks a lot like protecting a business advantage.
-
-
-### Underdog shows off a 32MB speech model in new demo
-
-*TechCrunch | 2026-11-06*
-
-
-Underdog's 32MB speech model runs offline in your browser and makes a stronger privacy argument than any slide deck about on-device AI.

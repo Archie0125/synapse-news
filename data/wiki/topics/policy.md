@@ -1,18 +1,42 @@
 # Policy
 
 
-*62 articles in the last 7 days*
+*55 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The American Dream Wasn’t Built for Climate Change
+### Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses
 
-*Wired | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Homeownership was sold as the safest way to build wealth, but climate risk and rising insurance costs are turning the house into a bet that can go badly wrong.
+If a reporter can find empty offices behind approved H200 buyers, US export controls on AI chips look more like a formality than a real check.
+
+
+### Person of Interest
+
+*Hacker News | 2026-11-08*
+
+
+A nostalgic rewatch of Person of Interest stings for one reason: the show's all-seeing Machine no longer looks like science fiction.
+
+
+### Your digital game library is yours, until it's not
+
+*Engadget | 2026-11-08*
+
+
+NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is really a rental with an undisclosed end date.
+
+
+### How do spam callers get your number in the first place?
+
+*Engadget | 2026-11-08*
+
+
+Spam calls aren't just bad luck. Most of them come from a legal data-broker market you probably signed up for when you joined some loyalty program.
 
 
 ### He Ran on Fighting Data Centers. Now, He’s Going to Congress
@@ -37,22 +61,6 @@ Wired's top router pick is an affordable Asus, but the bigger story is the FCC's
 
 
 Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China problem has grown beyond trade policy into national security.
-
-
-### The US let Nvidia sell chips to an empty office in China
-
-*The Verge | 2026-11-07*
-
-
-If an empty office can pass US export vetting for H200 chips, the controls are mostly for show, and a 15% revenue cut seems to have replaced due diligence.
-
-
-### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
-
-*TechCrunch | 2026-11-07*
-
-
-Spy rumors grab the headlines, but the bigger story is an approved Nvidia chip buyer whose listed office turned out to be an empty shell.
 
 
 ### After the midterms, things are looking rocky for Elon Musk and data centers
@@ -157,11 +165,3 @@ Nvidia is using its cloud partner status as a soft export-control tool, making i
 
 
 Permitting reform could cut power bills, but rushed through a lame-duck session it risks becoming a fast lane for AI data centers to skip local scrutiny.
-
-
-### Just about anyone can rent access to White House IP addresses
-
-*The Verge | 2026-11-06*
-
-
-The White House network apparently has a back door anyone can rent for a few dollars, and the likely culprit is just a sketchy app SDK.

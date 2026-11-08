@@ -1,119 +1,119 @@
 # Hardware
 
 
-*152 articles in the last 7 days*
+*173 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Ce que 115 millions d'années d'hème fossilisé m'ont appris sur la visualisation moléculaire en VR (et pourquoi j'ai construit…
+### World Models Will Soon Be Inescapable. Here’s What You Need to Know
 
-*Dev.to | 2026-11-08*
+*Wired | 2026-11-08*
 
 
-NexoPeek's best insight isn't VR itself. It's the realization that the problem was the camera, not the data, which is a lesson flat-screen science tools keep ignoring.
+World models are AI's next big story, and Niantic's turn from Pokémon Go to building them shows the scarce resource is real-world data, not clever models.
 
 
-### The 19 Best Early Black Friday Deals 2026
+### Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Black Friday has grown into a two-month season, and that sprawl helps retailers squeeze out urgency far more than it helps shoppers find real discounts.
+Wandrd's magnetic strap is a real improvement on Peak Design's widely copied Anchor Links, which proves even a decade-old industry standard can be beaten.
 
 
-### The 10 Best Early Black Friday Headphone Deals (2026)
+### The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
+Apple's new M6 MacBook Pro is a small upgrade with a $200 premium, which makes the discounted M5 the better buy for almost everyone.
 
 
-### Ecoflow Rapid Pro Power Bank Deal: Save $80
+### 8 Best Computer Speakers (2026) After Testing 30 Pairs
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-EcoFlow's Rapid Pro X is at its lowest price yet, and its fast recharge is the reason to buy it rather than the 300W headline number.
+Sound is still the most neglected part of a PC setup, and a decent pair of speakers is one of the cheapest upgrades that makes a clear difference.
 
 
-### Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+
+### WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM
 
-*Wired | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Wired's top router pick is an affordable Asus, but the bigger story is the FCC's foreign-made router ban, which could reshape what US buyers can get next year.
+Blizzard's smooth launch shows that in 2026 you avoid server meltdowns by throwing memory at the problem, which costs more every month as DRAM prices climb.
 
 
-### This week in Tom's Hardware Premium: November 7, 2026
+### Ukraine builds combat robots to hunt Russian troops in underground gas pipelines
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Tom's Hardware's paywalled week centers on Apple's late arrival to OLED touch laptops, but the stories with more weight are Micron's memory roadmap and GlobalFoundries skipping EUV.
+Underground pipelines are becoming a new front line, and Ukraine is betting that the soldier who goes in first should be a robot.
 
 
-### This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount
+### Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-When a $500-off prebuilt beats building your own, the memory shortage has quietly turned DIY PC building into a luxury hobby.
+If a reporter can find empty offices behind approved H200 buyers, US export controls on AI chips look more like a formality than a real check.
 
 
-### TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD
+### The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-TeamGroup's GA Pro has the PCIe 5.0 label, but in testing it often runs slower, hotter and less efficiently than the cheaper PCIe 4.0 drives it should beat.
+Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
 
 
-### Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot
+### Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China problem has grown beyond trade policy into national security.
+A 290-gram receiver that taps Russian drone video is clever, but Ukraine's own adviser warns that trusting a gadget too much could get soldiers killed.
 
 
-### New Bluetooth High Data Throughput may finally satisfy audiophiles
+### PC's with 64GB of RAM plummet 18% as memory prices soar
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Bluetooth HDT's 7.5 Mbps finally has room for lossless audio, but the bigger story is the bandwidth it opens up for AI wearables and XR.
+AI data centers are buying up the DRAM supply, and the first casualty is the enthusiast PC: 64GB builds are shrinking for the first time.
 
 
-### Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live
+### Chatbots might be coming to Apple’s HomeView
 
-*Tom's Hardware | 2026-11-07*
+*The Verge | 2026-11-08*
 
 
-Elegoo's early Black Friday deals are real, but the $1 filament bundles show where the money is: selling consumables to locked-in printer owners.
+A Conversational Apps flag in iOS 27.3 code hints Apple may let third-party chatbots into HomeView, a sign it is opening the smart home hub rather than relying only on Siri.
 
 
-### Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
+### Apple’s M5 MacBook Air is down to its lowest price since July
 
-*Tom's Hardware | 2026-11-07*
+*The Verge | 2026-11-08*
 
 
-A 27-year homelab Exchange run ends quietly: even a die-hard self-hoster moved to the cloud once Microsoft's subscription licensing made on-prem Exchange harder to justify.
+A $200 MacBook Air discount sounds generous, but it only undoes Apple's summer price hike. It's a deal only compared with the new, higher price.
 
 
-### EA producer found 20,000 archival media assets in secret physical vault at its HQ
+### TechCrunch Mobility: The Cybertruck experiment is over
 
-*Tom's Hardware | 2026-11-07*
+*TechCrunch | 2026-11-08*
 
 
-EA almost lost its own history in a forgotten room. It took one producer's after-hours work and fan modders to turn that archive into a remaster.
+About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
 
 
-### The US let Nvidia sell chips to an empty office in China
+### Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me
 
-*The Verge | 2026-11-07*
+*TechCrunch | 2026-11-08*
 
 
-If an empty office can pass US export vetting for H200 chips, the controls are mostly for show, and a 15% revenue cut seems to have replaced due diligence.
+Ninja's AutoBarista makes good espresso without any barista skill, but automating every decision also takes away the control some coffee lovers want.

@@ -1,159 +1,151 @@
 # Industry
 
 
-*159 articles in the last 7 days*
+*181 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The American Dream Wasn’t Built for Climate Change
+### World Models Will Soon Be Inescapable. Here’s What You Need to Know
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Homeownership was sold as the safest way to build wealth, but climate risk and rising insurance costs are turning the house into a bet that can go badly wrong.
+World models are AI's next big story, and Niantic's turn from Pokémon Go to building them shows the scarce resource is real-world data, not clever models.
 
 
-### The 19 Best Early Black Friday Deals 2026
+### Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Black Friday has grown into a two-month season, and that sprawl helps retailers squeeze out urgency far more than it helps shoppers find real discounts.
+Wandrd's magnetic strap is a real improvement on Peak Design's widely copied Anchor Links, which proves even a decade-old industry standard can be beaten.
 
 
-### The 10 Best Early Black Friday Headphone Deals (2026)
+### The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
+Apple's new M6 MacBook Pro is a small upgrade with a $200 premium, which makes the discounted M5 the better buy for almost everyone.
 
 
-### He Ran on Fighting Data Centers. Now, He’s Going to Congress
+### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
+NYT Cooking's AI recipe modifier actually works, but the 172 furious comments show readers care more about trust in the brand than about features.
 
 
-### GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off
+### How to Remind Your Boss of Your PTO Without Pissing Them Off
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-GoRuck's Black Friday sale makes its nearly indestructible Basic Rucker $79, but rucking itself only needs a backpack and some weight, so the gear is optional.
+The advice to overcommunicate your PTO is right, but needing a how-to guide for taking earned vacation says a lot about workplace culture.
 
 
-### Ecoflow Rapid Pro Power Bank Deal: Save $80
+### A 55-Year-Old Math Problem Was Solved—This Time by Humans
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-EcoFlow's Rapid Pro X is at its lowest price yet, and its fast recharge is the reason to buy it rather than the 300W headline number.
+In a year when AI keeps claiming math breakthroughs, this headline treats a human solution as news, and that framing says as much as the proof.
 
 
-### Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+
+### 8 Best Computer Speakers (2026) After Testing 30 Pairs
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Wired's top router pick is an affordable Asus, but the bigger story is the FCC's foreign-made router ban, which could reshape what US buyers can get next year.
+Sound is still the most neglected part of a PC setup, and a decent pair of speakers is one of the cheapest upgrades that makes a clear difference.
 
 
-### Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough
+### 6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Adding AI to caregiver apps can lighten the paperwork, but 63 million US caregivers need more support and better systems than a smarter reminder can provide.
+The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
 
 
-### This week in Tom's Hardware Premium: November 7, 2026
+### WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Tom's Hardware's paywalled week centers on Apple's late arrival to OLED touch laptops, but the stories with more weight are Micron's memory roadmap and GlobalFoundries skipping EUV.
+Blizzard's smooth launch shows that in 2026 you avoid server meltdowns by throwing memory at the problem, which costs more every month as DRAM prices climb.
 
 
-### Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
+### Ukraine builds combat robots to hunt Russian troops in underground gas pipelines
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-A 27-year homelab Exchange run ends quietly: even a die-hard self-hoster moved to the cloud once Microsoft's subscription licensing made on-prem Exchange harder to justify.
+Underground pipelines are becoming a new front line, and Ukraine is betting that the soldier who goes in first should be a robot.
 
 
-### EA producer found 20,000 archival media assets in secret physical vault at its HQ
+### PC's with 64GB of RAM plummet 18% as memory prices soar
 
-*Tom's Hardware | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-EA almost lost its own history in a forgotten room. It took one producer's after-hours work and fan modders to turn that archive into a remaster.
+AI data centers are buying up the DRAM supply, and the first casualty is the enthusiast PC: 64GB builds are shrinking for the first time.
 
 
-### Good riddance, Cybertruck!
+### Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout
 
-*The Verge | 2026-11-07*
+*The New Stack | 2026-11-08*
 
 
-The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
+Docusign learned that AI coding tools stall at about 18% productivity gains unless the company changes how it works and supports developers with internal champions.
 
 
-### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
+### TechCrunch Mobility: The Cybertruck experiment is over
 
-*TechCrunch | 2026-11-07*
+*TechCrunch | 2026-11-08*
 
 
-Spy rumors grab the headlines, but the bigger story is an approved Nvidia chip buyer whose listed office turned out to be an empty shell.
+About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
 
 
-### Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack
+### SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’
 
-*TechCrunch | 2026-11-07*
+*TechCrunch | 2026-11-08*
 
 
-Binance says its CFO's exit was planned for six months, but announcing it a week after a $6.3 billion hack makes that hard to take at face value.
+SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
 
 
-### After the midterms, things are looking rocky for Elon Musk and data centers
+### Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced
 
-*TechCrunch | 2026-11-07*
+*SaaStr | 2026-11-08*
 
 
-Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
+Stripe's Privy update shows a strategic buyer pays for how big a startup can grow after the deal. Revenue sets the price, but it isn't why they buy.
 
 
-### Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work
+### Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor
 
-*SaaStr | 2026-11-07*
+*SaaStr | 2026-11-08*
 
 
-Software's 14.6% growth looks healthy, but model spending and price hikes are carrying it while data centers quietly take all the share gains.
+A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
 
 
-### A Critical App We Pay For Went Down for 2 Days. They Never Offered a Credit. I Won’t Forget.
+### Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal
 
-*SaaStr | 2026-11-07*
+*InfoQ | 2026-11-08*
 
 
-A $330 credit nobody offered may cost a $60K renewal, proof that customers forgive outages but remember vendors who act like nothing happened.
+Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
 
 
-### How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes
+### Writing as a thinking tool
 
-*InfoQ | 2026-11-07*
+*Hacker News | 2026-11-08*
 
 
-Grab's lesson is blunt: AI coding tools speed up writing code, so the bottleneck and the risk move to everything that catches bad code afterward.
-
-
-### What I run on my $10 USD OpenStick homelab
-
-*Hacker News | 2026-11-07*
-
-
-A $10 LTE dongle running Debian beats a lot of overpriced smart-home hubs, and it's a reminder that self-hosting got cheap long before it got popular.
+Writing does more than record ideas. It upgrades your brain from a finite automaton to a Turing machine, which is a sharper argument than any productivity tip.

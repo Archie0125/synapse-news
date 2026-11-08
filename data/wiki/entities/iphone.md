@@ -1,11 +1,14 @@
 # iPhone
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More** (2026-11-08)
+  - The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
 
 - **Apple’s grey list: Words and phrases your iPhone won’t help you spell** (2026-11-07)
   - Apple's hidden list of 100,000+ blocked phrases isn't outright censorship, but quietly steering what users type, including political phrases, is a power that deserves scrutiny.

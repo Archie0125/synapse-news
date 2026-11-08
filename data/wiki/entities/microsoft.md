@@ -1,11 +1,14 @@
 # Microsoft
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
+  - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
 
 - **Windows PowerToys can automate some of your more tedious PC tasks** (2026-11-07)
   - Microsoft's best Windows productivity features are hidden in a free GitHub download, which is a compliment to PowerToys and a criticism of Windows.

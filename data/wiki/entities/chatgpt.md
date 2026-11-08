@@ -1,11 +1,17 @@
 # ChatGPT
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Chatbots might be coming to Apple’s HomeView** (2026-11-08)
+  - A Conversational Apps flag in iOS 27.3 code hints Apple may let third-party chatbots into HomeView, a sign it is opening the smart home hub rather than relying only on Siri.
+
+- **I counted every server in the official MCP Registry: 59,603 entries, and October alone added 16,282** (2026-11-08)
+  - MCP's registry reached nearly 60,000 servers and October alone added 16,282, which looks like adoption but may increasingly be noise.
 
 - **The end of Microsoft Research's AI Frontiers group** (2026-11-07)
   - Microsoft shut down the roughly 50-person group behind Autogen just as frontier research needs coordinated teams most, which suggests it would rather buy models than invent them.

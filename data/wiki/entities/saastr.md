@@ -1,11 +1,17 @@
 # SaaStr
 
 
-*Mentioned in 8 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
+  - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
+
+- **Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?** (2026-11-08)
+  - VCs notice confidence first, but the useful version is knowing your numbers cold and admitting what you don't know, not charisma.
 
 - **Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work** (2026-11-07)
   - Software's 14.6% growth looks healthy, but model spending and price hikes are carrying it while data centers quietly take all the share gains.

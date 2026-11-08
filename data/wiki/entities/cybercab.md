@@ -1,14 +1,11 @@
 # Cybercab
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
-
-- **Good riddance, Cybertruck!** (2026-11-07)
-  - The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
 
 - **RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd** (2026-11-06)
   - A million reservations turned into fewer than 50,000 sales. The Cybertruck's death is a reminder that hype isn't demand, and Tesla is now making the same bet on robotaxis.

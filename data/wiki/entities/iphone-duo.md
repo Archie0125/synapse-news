@@ -1,11 +1,14 @@
 # iPhone Duo
 
 
-*Mentioned in 10 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think** (2026-11-08)
+  - After inflation, the base iPhone barely costs more than it did in 2007. The real sticker shock comes from Apple's new $2,000-plus top tier.
 
 - **What is System Data on an iPhone's storage, and how much is normal?** (2026-11-07)
   - iPhone System Data is not a mystery. It is caches and leftovers that hurt more on 128GB phones now that Apple's storage upgrades cost more.

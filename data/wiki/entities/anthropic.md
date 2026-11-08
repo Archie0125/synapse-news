@@ -1,11 +1,20 @@
 # Anthropic
 
 
-*Mentioned in 17 articles*
+*Mentioned in 20 articles*
 
 
 ## Recent Mentions
 
+
+- **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
+  - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
+
+- **Goodbye Claude, hello Pi** (2026-11-08)
+  - A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
+
+- **Agent memory needs its OpenTelemetry moment** (2026-11-08)
+  - Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.
 
 - **The Components of Agent Memory** (2026-11-07)
   - Agent memory isn't a storage problem but a curation problem, and 'dreaming' admits that raw logs are useless until something offline distills them.
@@ -42,12 +51,3 @@
 
 - **I broke a working agent seven ways. The metric I was watching caught two of them.** (2026-11-05)
   - A perfect agent success rate hid the only behavior that mattered, and an unpinned model alias quietly rewrote the experiment. Your eval dashboard may be lying to you too.
-
-- **20VC x SaaStr: OpenAI Cuts to $1.25 Trillion, Anthropic’s Growth Goes From 12x to 2x, and Why Agents Are an Existential Risk to DoorDash** (2026-11-05)
-  - OpenAI's valuation trim isn't the AI bubble popping. It's investors finally pricing illiquidity and losses against a profitable, listed alternative.
-
-- **Claude Code sends your email address to websites** (2026-11-05)
-  - One angry bug report about emails leaking in User-Agent headers has become a referendum on whether AI coding agents can be trusted with identity data.
-
-- **Anthropic found a way to prove which AI model answered you — but there’s a costly catch** (2026-11-04)
-  - Anthropic's FlashProve tackles a real trust gap in AI APIs, but if proving the model's identity costs too much, few providers will actually use it.

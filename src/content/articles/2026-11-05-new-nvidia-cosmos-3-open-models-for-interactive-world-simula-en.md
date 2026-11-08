@@ -1,0 +1,154 @@
+---
+category: ai-ml
+faqs:
+- answer: NVIDIA released four open-weight Cosmos 3 checkpoints for driving simulation,
+    sensor generation, simulator-to-video transfer, and robot action-to-video prediction.
+    Each is post-trained from Cosmos 3 Nano with 16B trainable parameters.
+  question: What did NVIDIA release?
+- answer: Autonomous driving systems combine camera images with LiDAR 3D sensing,
+    so synthetic training data is only useful if both agree. Cosmos3-Nano-Sim-Auto
+    streams synchronized camera and LiDAR observations to keep appearance and geometry
+    consistent.
+  question: Why do synchronized camera and LiDAR outputs matter?
+- answer: Yes. The models are released under the OpenMDW1.1 license, which permits
+    both commercial and non-commercial use under its terms.
+  question: Can companies use these models commercially?
+featured: false
+lang: en
+publishedAt: '2026-11-05T19:35:16+00:00'
+relatedSlugs: []
+sources:
+- name: Hugging Face Blog
+  url: https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
+summary: NVIDIA is giving away world models so robotics and self-driving teams generate
+  their training data on NVIDIA GPUs, which is generous and strategic in equal measure.
+tags:
+- ai-ml
+- open-source
+- hardware
+title: New NVIDIA Cosmos 3 Open Models for Interactive World Simulation
+trending: false
+type: news
+---
+
+[15B • Updated   •  3.39k  •  19](/nvidia/Cosmos3-Nano-Sim-Auto)  
+
+**[NVIDIA Cosmos](https://www.nvidia.com/en-us/ai/cosmos/)** world model development platform adds four new open-weight checkpoints to its [Cosmos 3](https://huggingface.co/collections/nvidia/cosmos3) model family for generating interactive world simulation and multi-sensor multi-view driving scenes:
+
+- 🌦️ **[Cosmos3-Nano-Transfer-Auto](https://huggingface.co/nvidia/Cosmos3-Nano-Transfer-Auto)** : Generate multi-view driving data with varied weather, lighting, and time of day.
+- 🚗 **[Cosmos3-Nano-Sim-Auto](https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Auto)** : Stream synchronized camera and LiDAR observations for driving simulation.
+- 🎨 **[Cosmos3-Nano-Sim-Transfer](https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Transfer)** : Turn simulator controls and a text prompt into photorealistic video.
+- 🤖 **[Cosmos3-Nano-Sim-Bimanual](https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Bimanual)** : Predict video from robot or camera actions.
+
+All four models are post-trained examples of Cosmos 3 Nano and have 16B trainable parameters. The models use OpenMDW1.1, permitting commercial and non-commercial use under its terms.
+
+[Download the checkpoints](https://huggingface.co/collections/nvidia/cosmos3-examples) · [Read the technical report](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation/technical-report.pdf) . [Watch the demos](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation/)
+
+🦾 Robotics needs environments that can answer this across changing scenes and viewpoints. These checkpoints offer complementary ways to build them: Sim-Bimanual predicts visual consequences from actions, while Sim-Transfer turns a physics simulator’s controls into generated observations.
+
+🚦 For autonomous driving, appearance and geometry must agree. Synchronized camera and LiDAR generation connects visual observations with 3D sensing. Scene and traffic-signal controls let researchers vary road layouts and signal states, then study how a driving policy responds.
+
+🔄 Each observation can shape the next action. Streaming generation connects video prediction to ongoing interaction, giving world-model researchers a way to explore how actions and observations unfold together.
+
+🌐 An open foundation for others to build on. NVIDIA’s vision is to help researchers and developers create richer, more responsive simulated worlds. Open weights and post-training recipes provide a shared starting point for adapting models, comparing methods, and contributing improvements. These problems remain hard: the work ahead is to measure where the models faithfully support policy learning and evaluation, understand their limits, and improve where they fall short.
+
+**[Cosmos3-Nano-Transfer-Auto](https://huggingface.co/nvidia/Cosmos3-Nano-Transfer-Auto)** is a bidirectional model for offline synthetic driving data generation. It generates synchronized video across up to 11 camera views, including fisheyes, and supports joint RGB–LiDAR generation. Per-camera World Scenario Map (WSM) controls specify scene structure and traffic motion, while text prompts guide appearance.
+
+Developers can vary environmental conditions to expand training and evaluation coverage, with optional initial RGB images to anchor scene appearance. Joint LiDAR generation additionally uses aligned HD-map range-map controls. Transfer-Auto also serves as the foundation for adapting Cosmos to your own sensor rig and driving domain. Start by post-training it on your data to accommodate your camera layout, LiDAR configuration, and target environment. The adapted model can be used directly for offline data generation or undergo causal training and few-step distillation for fast streaming simulation—the development path used to create Cosmos3-Nano-Sim-Auto.
+
+**Point your agent to the open skill : [Run inference with Cosmos3-Nano-Transfer-Auto](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-transfer-auto/inference/SKILL.md)**
+
+**Prefer a notebook?** Open [Transfer-Auto](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cookbooks/cosmos3/simulation/auto/run_auto_with_cosmos_framework.ipynb).
+
+**[Cosmos3-Nano-Sim-Auto](https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Auto)** is the causally distilled streaming variant of Transfer-Auto. It generates successive small chunks of synchronized camera video and LiDAR in just a few denoising steps, using generated history and updated driving controls to support fast streaming and long, interactive rollouts.
+
+Provide per-camera captions and synchronized WSM controls, optionally adding initial RGB images. For LiDAR generation, include HD-Map range controls aligned with the camera controls. The distilled model generates successive chunks using its rolling history. Closed-loop interaction requires a simulation runtime and WSM renderer to update those controls from driving inputs. For a new sensor rig or domain, adapt Transfer-Auto first, then distill it into Sim-Auto.
+
+**Point your agent to the open skill : [Run inference with Cosmos3-Nano-Sim-Auto](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-auto/inference/SKILL.md)**
+
+**Prefer a notebook?** Open [Sim-Auto](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cookbooks/cosmos3/simulation/auto/run_sim-auto_with_cosmos_framework.ipynb).
+
+Your simulator computes motion, contacts, and physical state. Sim-Transfer uses its spatial controls and a text prompt to render color observations that a policy can consume.
+
+Action → simulator update → spatial controls → generated RGB → next policy action
+
+- **Depth:** relative distance from the camera.
+- **Segmentation:** regions and object boundaries.
+- **Edges:** scene contours.
+- **Blur:** coarse appearance and layout.
+
+Text guides appearance; physics and ground-truth state stay with the simulator.
+
+*Depth control to video*
+
+*Segmentation control to video*
+
+**Point your agent to the open skill : [Run inference with Cosmos3-Nano-Sim-Transfer](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-transfer/inference/SKILL.md)** 
+
+**Prefer a notebook?** Use [Transfer](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cookbooks/cosmos3/simulation/transfer/run_transfer_with_vllm_omni.ipynb).
+
+*Input Frames*
+
+*Output Video From Sim-Bimanual Simulation Checkpoint*
+
+**[Cosmos3-Nano-Sim-Bimanual](https://huggingface.co/nvidia/Cosmos3-Nano-Sim-Bimanual)** simulates how an environment evolves in response to a bimanual robot’s actions. It supports interactive two-arm simulation for YAM and AgiBot embodiments, controlled by a policy or human-operated joysticks.
+
+Start with an image, move the robot or camera, and generate the next observations. One control sequence can switch between viewpoint changes and manipulation.
+
+The mixed-action example uses 59 control values, padded to 64 during training. Its schema defines coordinate frames, rotations, gripper calibration, validity masks, and control domains. Follow those conventions so each value describes the intended motion.
+
+Keep timing aligned: T transitions need T+1 observations. Training transforms raw captures into the model’s action representation; released inference actions are already normalized.
+
+Here, Sim-Transfer generates visuals from a physics simulator’s updated state; Sim-Bimanual generates the next observation directly from the scene and robot actions.
+
+See the [data contract](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-bimanual/post-training/references/data-contract.md) and [action schema](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-bimanual/post-training/references/unified-v1-action-schema.md).
+
+**Requirements:** Linux, an NVIDIA GPU, Docker, and NVIDIA Container Toolkit. The published vLLM-Omni setup was tested on one GB200; this is not a minimum-memory specification. The server downloads weights; the clients fetch sample inputs.
+
+**Point your agent to the open skill : [Run inference with Cosmos3-Nano-Sim-Bimanual](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-bimanual/inference/SKILL.md#run-inference-with-cosmos3-nano-sim-bimanual)** 
+
+**Prefer a notebook?** Open [Bimanual](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cookbooks/cosmos3/simulation/bimanual/run_bimanual_with_vllm_omni.ipynb)
+
+Cosmos 3’s Mixture-of-Transformers backbone connects separate text-processing and visual-generation networks through attention. The generator predicts each short segment from the prompt, available controls, and generated history.
+
+Controls + history → generate chunk → decode images → update history
+
+Denoising refines noisy, compressed video representations into a segment. Temporal-causal attention lets it read available history and controls while blocking future target observations. A key/value cache retains attention information for the next prediction.
+
+The model operates on compressed video representations called latents. After the initial image, each latent time step represents four RGB frames. Transfer predicts one step per chunk; the optimized Bimanual setup in the report predicts two. Smaller chunks let new controls affect generation more often.
+
+- **Stage 0** — Bidirectional adaptation: learn the domain and its control-to-video relationships from complete recorded clips.
+- **Stage 1** — Teacher forcing: predict each chunk from earlier recorded observations and available controls, with the clean answer and future targets masked out.
+- **Stage 2** — Consistency distillation: use a frozen teacher to train a student that generates each chunk in four denoising steps.
+- **Stage 3** — Self-forcing: train on the student’s generated history. A frozen teacher and an auxiliary score model supply the distribution-matching signal.
+
+Why the final stage matters: a slightly mispredicted object becomes context for later frames, so errors can compound. Self-forcing exposes training to that generated history. Distillation and caching reduce the cost of producing each observation.
+
+The post-training recipes start from Cosmos3-Nano or compatible base weights and cover all four stages. Keep full training checkpoints to resume; exported inference weights omit optimizer and other training state.
+
+- [Transfer-auto](https://github.com/NVIDIA/cosmos-framework/tree/main/.agents/skills/cosmos3-nano-transfer-auto/post-training): Post-train on your driving data to adapt to your sensor rig and domain, and generate offline synthetic data.
+- [Sim-auto](https://github.com/NVIDIA/cosmos-framework/tree/main/.agents/skills/cosmos3-nano-sim-auto/post-training): Apply causal training and distillation to an adapted Transfer-Auto model for fast streaming simulation.
+- [Sim-Transfer](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-transfer/post-training/SKILL.md) : Post-train the checkpoint for your environment with local data preparation, stage configurations, and resume.
+- [Sim-Bimanual](https://github.com/NVIDIA/cosmos-framework/blob/main/.agents/skills/cosmos3-nano-sim-bimanual/post-training/SKILL.md): Post-train for your embodiment with data validation, stage configurations, checkpoint handoffs, and export.
+
+Give your coding agent the skill and dataset location. Follow the environment checks, validate a sample, and test training and restart before a longer run. Evaluate quality on held-out episodes: a successful short run verifies execution, not convergence.
+
+## Summary
+
+**TLDR:** NVIDIA is giving away world models so robotics and self-driving teams generate their training data on NVIDIA GPUs, which is generous and strategic in equal measure.
+
+- NVIDIA added four open-weight Cosmos 3 checkpoints: Nano-Transfer-Auto, Nano-Sim-Auto, Nano-Sim-Transfer, and Nano-Sim-Bimanual.
+- All four are post-trained from Cosmos 3 Nano with 16B trainable parameters and are released under OpenMDW1.1, which allows commercial use.
+- The driving models generate multi-view scenes with varied weather and lighting and stream synchronized camera and LiDAR data, so appearance and geometry agree.
+- Sim-Bimanual predicts video from robot actions and Sim-Transfer turns physics simulator controls into photorealistic video, aimed at robotics environments.
+- Synthetic data is becoming the bottleneck resource for physical AI, and NVIDIA wants to own the tools that produce it.
+
+## 摘要
+
+**重點摘要：** NVIDIA 免費釋出世界模型，好讓機器人與自駕團隊都在 NVIDIA GPU 上生成訓練資料。這既是慷慨，也是精算。
+
+- NVIDIA 新增四個開放權重的 Cosmos 3 檢查點：Nano-Transfer-Auto、Nano-Sim-Auto、Nano-Sim-Transfer 與 Nano-Sim-Bimanual。
+- 四個模型都是以 Cosmos 3 Nano 後訓練而成，具 16B 可訓練參數，採 OpenMDW1.1 授權，允許商用。
+- 駕駛相關模型可生成不同天氣與光線下的多視角場景，並同步串流相機與 LiDAR 資料，讓視覺外觀與 3D 幾何一致。
+- Sim-Bimanual 可根據機器人動作預測影片，Sim-Transfer 則把物理模擬器的控制訊號轉成擬真影片，目標是機器人訓練環境。
+- 合成資料正在成為實體 AI 的瓶頸資源，NVIDIA 想掌握生產這種資料的工具。

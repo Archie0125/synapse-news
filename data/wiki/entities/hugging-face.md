@@ -1,14 +1,11 @@
 # Hugging Face
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
-
-- **Egyptian and Nigerian English join the Open ASR Leaderboard** (2026-11-06)
-  - Adding Egyptian and Nigerian English to the Open ASR Leaderboard is a needed step against benchmaxxing, but under three hours of audio is a thin sample to judge by.
 
 - **Postcards from tomorrow: Powering the agentic era through open source** (2026-11-05)
   - With closed models only 3.3% ahead, the model is no longer the moat for many workloads. The real advantage moves to whoever runs the best fine-tuning and RL loop on their own data.

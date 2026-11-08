@@ -1,11 +1,14 @@
 # PlayStation 5
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Why you shouldn't remove the screen protector film on your Nintendo Switch 2** (2026-11-08)
+  - The Switch 2's 'screen protector' is actually part of the display assembly, and peeling it off for satisfaction could cost you a $500 console.
 
 - **Why you should never put your PlayStation 5 on a carpeted floor** (2026-11-07)
   - Sony's vague carpet guidance leaves PS5 owners guessing, but the advice is simple: carpet feeds dust into the vents, and the floor puts the console in harm's way.

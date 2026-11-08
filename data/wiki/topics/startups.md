@@ -1,10 +1,106 @@
 # Startups
 
 
-*71 articles in the last 7 days*
+*83 articles in the last 7 days*
 
 
 ## Latest
+
+
+### TechCrunch Mobility: The Cybertruck experiment is over
+
+*TechCrunch | 2026-11-08*
+
+
+About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
+
+
+### SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’
+
+*TechCrunch | 2026-11-08*
+
+
+SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
+
+
+### Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me
+
+*TechCrunch | 2026-11-08*
+
+
+Ninja's AutoBarista makes good espresso without any barista skill, but automating every decision also takes away the control some coffee lovers want.
+
+
+### He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.
+
+*TechCrunch | 2026-11-08*
+
+
+Stephen Ward's view that VCs should sell on the way up is more honest than most of the industry's IPO talk. Now he has to prove it as Brightmind's only GP.
+
+
+### Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced
+
+*SaaStr | 2026-11-08*
+
+
+Stripe's Privy update shows a strategic buyer pays for how big a startup can grow after the deal. Revenue sets the price, but it isn't why they buy.
+
+
+### Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor
+
+*SaaStr | 2026-11-08*
+
+
+A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
+
+
+### Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?
+
+*SaaStr | 2026-11-08*
+
+
+VCs notice confidence first, but the useful version is knowing your numbers cold and admitting what you don't know, not charisma.
+
+
+### Entire's Git Forge Rethinks Git Collaboration for Coding Agents
+
+*InfoQ | 2026-11-08*
+
+
+Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
+
+
+### Petered
+
+*Hacker News | 2026-11-08*
+
+
+The Peter Principle missed the dangerous part: people promoted past their competence don't stall quietly, they take risks or sabotage others to keep climbing.
+
+
+### OpenAI raises $11B at a $1.25T valuation
+
+*Hacker News | 2026-11-08*
+
+
+OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
+
+
+### I built a Korean real-estate data tool in 2 days. Then I found 7 others just like it.
+
+*Dev.to | 2026-11-08*
+
+
+AI coding agents made a two-day side project possible; the harder lesson was that speed shrinks your edge, so market research matters more than the code.
+
+
+### How I designed one workflow for 4 restaurant roles (owner, waiter, kitchen, cashier)
+
+*Dev.to | 2026-11-08*
+
+
+A student founder found the real restaurant-software problem: deciding who may change an order and when, not building more dashboards.
 
 
 ### Discogs’ Kevin Lewandowski can’t live without his AeroPress
@@ -13,30 +109,6 @@
 
 
 Discogs' founder lives on an AeroPress and barely posts on social media, which fits a business built on people leaving the algorithm for physical media.
-
-
-### Parents want safer phones for kids. These companies are answering the call.
-
-*TechCrunch | 2026-11-07*
-
-
-Kid phones are booming because Apple and Google never built a good kids mode, and startups are now charging parents monthly to fill that gap.
-
-
-### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
-
-*TechCrunch | 2026-11-07*
-
-
-Spy rumors grab the headlines, but the bigger story is an approved Nvidia chip buyer whose listed office turned out to be an empty shell.
-
-
-### Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack
-
-*TechCrunch | 2026-11-07*
-
-
-Binance says its CFO's exit was planned for six months, but announcing it a week after a $6.3 billion hack makes that hard to take at face value.
 
 
 ### Amazon’s new basic Kindle proves you don’t need all the bells and whistles
@@ -61,83 +133,3 @@ Musk spent half a billion dollars and came away with a bluer Texas and a voter b
 
 
 Base44 is the best argument yet for bootstrapping in AI, and the clearest sign Wix got the bargain: $80M for a product now at $200M ARR.
-
-
-### Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work
-
-*SaaStr | 2026-11-07*
-
-
-Software's 14.6% growth looks healthy, but model spending and price hikes are carrying it while data centers quietly take all the share gains.
-
-
-### A Critical App We Pay For Went Down for 2 Days. They Never Offered a Credit. I Won’t Forget.
-
-*SaaStr | 2026-11-07*
-
-
-A $330 credit nobody offered may cost a $60K renewal, proof that customers forgive outages but remember vendors who act like nothing happened.
-
-
-### One month of launching a solo open-source desktop agent: the real numbers
-
-*Dev.to | 2026-11-07*
-
-
-OpenPilot's honest one-month numbers show what launch day hides: stars stall after week one, and only tutorials and actually answering users keep the momentum.
-
-
-### I put Brazil agribusiness data behind x402: AI agents pay $0.05 USDC per call
-
-*Dev.to | 2026-11-07*
-
-
-Pay-per-call data for AI agents is a compelling primitive, and showing a public dashboard with zero revenue is the most honest go-to-market test you'll see.
-
-
-### Hosting gratis para bots de Discord: guía práctica 2026
-
-*Dev.to | 2026-11-07*
-
-
-A founder-written guide with an honest point: free Discord bot hosting is mostly about expiry dates, and a 4-day renewal cycle is a leash, not a gift.
-
-
-### Ask for a Ledger, Not a Demo
-
-*Dev.to | 2026-11-07*
-
-
-A great hiring idea in a sponsored wrapper: judge AI engineers by whether they can account for every token, not by a chatbot that answers three questions.
-
-
-### Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density
-
-*Tom's Hardware | 2026-11-06*
-
-
-Z2RAM targets AI's biggest bottleneck, memory, but its claims are still projections, and data that lasts 300 seconds is a lab result, not a product.
-
-
-### This see-through camera lets photographers maintain eye contact with their subjects
-
-*The Verge | 2026-11-06*
-
-
-HOA's see-through camera has a clever idea about eye contact, but a 100-unit run with no sample photos makes it more of a design statement than a proven camera.
-
-
-### OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO
-
-*The Verge | 2026-11-06*
-
-
-A $1.25 trillion valuation sounds triumphant, but raising $11 billion against a $30 billion target suggests even AI's biggest name is hitting investor fatigue.
-
-
-### Underdog shows off a 32MB speech model in new demo
-
-*TechCrunch | 2026-11-06*
-
-
-Underdog's 32MB speech model runs offline in your browser and makes a stronger privacy argument than any slide deck about on-device AI.

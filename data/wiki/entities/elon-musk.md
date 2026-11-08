@@ -1,17 +1,20 @@
 # Elon Musk
 
 
-*Mentioned in 11 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
 
+- **TechCrunch Mobility: The Cybertruck experiment is over** (2026-11-08)
+  - About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
+
+- **SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’** (2026-11-08)
+  - SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
+
 - **He Ran on Fighting Data Centers. Now, He’s Going to Congress** (2026-11-07)
   - Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
-
-- **Good riddance, Cybertruck!** (2026-11-07)
-  - The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
 
 - **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
   - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.

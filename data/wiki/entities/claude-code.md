@@ -1,11 +1,14 @@
 # Claude Code
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Goodbye Claude, hello Pi** (2026-11-08)
+  - A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
 
 - **I put 7 Claude Code agents in my research lab's group chat with Switch. Here's how to set it up (and what broke on Windows)** (2026-11-07)
   - Seven agents in a lab chat sounds like overkill, but the killer feature is one line: someone has been blocked since Nov 3, and nobody noticed.

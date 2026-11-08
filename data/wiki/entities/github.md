@@ -1,11 +1,14 @@
 # GitHub
 
 
-*Mentioned in 11 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
+
+- **Entire's Git Forge Rethinks Git Collaboration for Coding Agents** (2026-11-08)
+  - Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
 
 - **GitHub New pull request overview page in public preview** (2026-11-07)
   - GitHub's new PR overview admits the real bottleneck is now reviewing code, not writing it, but a better merge box won't fix review overload.

@@ -1,10 +1,50 @@
 # Cybersecurity
 
 
-*47 articles in the last 7 days*
+*51 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away
+
+*Tom's Hardware | 2026-11-08*
+
+
+A 290-gram receiver that taps Russian drone video is clever, but Ukraine's own adviser warns that trusting a gadget too much could get soldiers killed.
+
+
+### He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.
+
+*TechCrunch | 2026-11-08*
+
+
+Stephen Ward's view that VCs should sell on the way up is more honest than most of the industry's IPO talk. Now he has to prove it as Brightmind's only GP.
+
+
+### How to set up Google Authenticator on a new phone
+
+*Engadget | 2026-11-08*
+
+
+Cloud sync finally makes Google Authenticator easy to move to a new phone. The trade-off is that your 2FA codes now depend on how secure your Google account is.
+
+
+### How do spam callers get your number in the first place?
+
+*Engadget | 2026-11-08*
+
+
+Spam calls aren't just bad luck. Most of them come from a legal data-broker market you probably signed up for when you joined some loyalty program.
+
+
+### How to message the AI agent on your laptop from your phone with Telegram
+
+*Dev.to | 2026-11-08*
+
+
+Using a private Telegram bot as a remote control for a laptop agent is a smart low-tech idea, but it turns the bot token into your most sensitive credential.
 
 
 ### Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot
@@ -21,14 +61,6 @@ Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China pr
 
 
 AI is helping attackers find and exploit bugs faster than defenders can adapt, and the security industry is entering a dark age it has no answer for yet.
-
-
-### Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack
-
-*TechCrunch | 2026-11-07*
-
-
-Binance says its CFO's exit was planned for six months, but announcing it a week after a $6.3 billion hack makes that hard to take at face value.
 
 
 ### Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
@@ -133,35 +165,3 @@ When a pallet of AI chips is worth twice as much abroad, an $11.4 million truck 
 
 
 Leaking Zelda on launch day is embarrassing for Nintendo, but early retail shipments are the bigger failure, and broken emulation is its only temporary protection.
-
-
-### Just about anyone can rent access to White House IP addresses
-
-*The Verge | 2026-11-06*
-
-
-The White House network apparently has a back door anyone can rent for a few dollars, and the likely culprit is just a sketchy app SDK.
-
-
-### China reportedly recruited AI exec to spy on Jensen Huang
-
-*The Verge | 2026-11-06*
-
-
-If the report holds up, China didn't need to hack Nvidia. It allegedly just needed someone close to its CEO, the oldest and cheapest attack vector.
-
-
-### Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI
-
-*The New Stack | 2026-11-06*
-
-
-Google is donating its agent infrastructure to the CNCF to make it the default standard, just as it did with Kubernetes. Giving it away is how Google keeps influence over it.
-
-
-### Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M
-
-*TechCrunch | 2026-11-06*
-
-
-Paying 50x ARR for a $10M-revenue startup looks crazy, until you realize every enterprise is handing AI agents the keys and nobody knows who's watching them.

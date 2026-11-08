@@ -1,135 +1,135 @@
 # Products
 
 
-*290 articles in the last 7 days*
+*328 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Ce que 115 millions d'années d'hème fossilisé m'ont appris sur la visualisation moléculaire en VR (et pourquoi j'ai construit…
+### Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory
 
-*Dev.to | 2026-11-08*
+*Wired | 2026-11-08*
 
 
-NexoPeek's best insight isn't VR itself. It's the realization that the problem was the camera, not the data, which is a lesson flat-screen science tools keep ignoring.
+Wandrd's magnetic strap is a real improvement on Peak Design's widely copied Anchor Links, which proves even a decade-old industry standard can be beaten.
 
 
-### The 19 Best Early Black Friday Deals 2026
+### The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Black Friday has grown into a two-month season, and that sprawl helps retailers squeeze out urgency far more than it helps shoppers find real discounts.
+Apple's new M6 MacBook Pro is a small upgrade with a $200 premium, which makes the discounted M5 the better buy for almost everyone.
 
 
-### The 10 Best Early Black Friday Headphone Deals (2026)
+### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
+NYT Cooking's AI recipe modifier actually works, but the 172 furious comments show readers care more about trust in the brand than about features.
 
 
-### GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off
+### 8 Best Computer Speakers (2026) After Testing 30 Pairs
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-GoRuck's Black Friday sale makes its nearly indestructible Basic Rucker $79, but rucking itself only needs a backpack and some weight, so the gear is optional.
+Sound is still the most neglected part of a PC setup, and a decent pair of speakers is one of the cheapest upgrades that makes a clear difference.
 
 
-### Ecoflow Rapid Pro Power Bank Deal: Save $80
+### 6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More
 
-*Wired | 2026-11-07*
+*Wired | 2026-11-08*
 
 
-EcoFlow's Rapid Pro X is at its lowest price yet, and its fast recharge is the reason to buy it rather than the 300W headline number.
+The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
 
 
-### Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+
+### WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM
 
-*Wired | 2026-11-07*
+*Tom's Hardware | 2026-11-08*
 
 
-Wired's top router pick is an affordable Asus, but the bigger story is the FCC's foreign-made router ban, which could reshape what US buyers can get next year.
+Blizzard's smooth launch shows that in 2026 you avoid server meltdowns by throwing memory at the problem, which costs more every month as DRAM prices climb.
 
 
-### Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough
+### Chatbots might be coming to Apple’s HomeView
 
-*Wired | 2026-11-07*
+*The Verge | 2026-11-08*
 
 
-Adding AI to caregiver apps can lighten the paperwork, but 63 million US caregivers need more support and better systems than a smarter reminder can provide.
+A Conversational Apps flag in iOS 27.3 code hints Apple may let third-party chatbots into HomeView, a sign it is opening the smart home hub rather than relying only on Siri.
 
 
-### This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount
+### Apple’s M5 MacBook Air is down to its lowest price since July
 
-*Tom's Hardware | 2026-11-07*
+*The Verge | 2026-11-08*
 
 
-When a $500-off prebuilt beats building your own, the memory shortage has quietly turned DIY PC building into a luxury hobby.
+A $200 MacBook Air discount sounds generous, but it only undoes Apple's summer price hike. It's a deal only compared with the new, higher price.
 
 
-### TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD
+### Perplexity’s AI agents keep working after you close the tab
 
-*Tom's Hardware | 2026-11-07*
+*The New Stack | 2026-11-08*
 
 
-TeamGroup's GA Pro has the PCIe 5.0 label, but in testing it often runs slower, hotter and less efficiently than the cheaper PCIe 4.0 drives it should beat.
+Perplexity's Teammates agents keep working after you close the tab. The hard part isn't autonomy but keeping multiple agents in sync on state and permissions.
 
 
-### Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live
+### TechCrunch Mobility: The Cybertruck experiment is over
 
-*Tom's Hardware | 2026-11-07*
+*TechCrunch | 2026-11-08*
 
 
-Elegoo's early Black Friday deals are real, but the $1 filament bundles show where the money is: selling consumables to locked-in printer owners.
+About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
 
 
-### EA producer found 20,000 archival media assets in secret physical vault at its HQ
+### Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me
 
-*Tom's Hardware | 2026-11-07*
+*TechCrunch | 2026-11-08*
 
 
-EA almost lost its own history in a forgotten room. It took one producer's after-hours work and fan modders to turn that archive into a remaster.
+Ninja's AutoBarista makes good espresso without any barista skill, but automating every decision also takes away the control some coffee lovers want.
 
 
-### The US let Nvidia sell chips to an empty office in China
+### Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal
 
-*The Verge | 2026-11-07*
+*InfoQ | 2026-11-08*
 
 
-If an empty office can pass US export vetting for H200 chips, the controls are mostly for show, and a 15% revenue cut seems to have replaced due diligence.
+Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
 
 
-### NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake
+### Cloudflare Scales D1 Control Plane to Millions of Databases
 
-*The Verge | 2026-11-07*
+*InfoQ | 2026-11-08*
 
 
-NYT Cooking's AI assistant is a handy weeknight fixer, but baking shows its limits: a trusted recipe brand is lending its credibility to a tool that still needs supervision.
+Cloudflare's D1 redesign is a lesson in boring engineering: heartbeats, idempotency, and eventual consistency beat clever central coordination at millions of databases.
 
 
-### Good riddance, Cybertruck!
+### Goodbye Claude, hello Pi
 
-*The Verge | 2026-11-07*
+*Hacker News | 2026-11-08*
 
 
-The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
+A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
 
 
-### Discogs’ Kevin Lewandowski can’t live without his AeroPress
+### Your digital game library is yours, until it's not
 
-*The Verge | 2026-11-07*
+*Engadget | 2026-11-08*
 
 
-Discogs' founder lives on an AeroPress and barely posts on social media, which fits a business built on people leaving the algorithm for physical media.
+NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is really a rental with an undisclosed end date.
 
 
-### Costco members can get $5 off the reimagined Ocarina of Time
+### You can attach your Fitbit Air to almost any old-school watch
 
-*The Verge | 2026-11-07*
+*Engadget | 2026-11-08*
 
 
-A $5 Costco discount is small, but it shows Nintendo's Ocarina of Time remake is strong enough to hold full price almost everywhere else.
+The screenless Fitbit Air quietly solves the wearable's biggest problem: you can keep your mechanical watch and still track your health.

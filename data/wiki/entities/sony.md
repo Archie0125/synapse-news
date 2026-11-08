@@ -1,14 +1,11 @@
 # Sony
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **The 10 Best Early Black Friday Headphone Deals (2026)** (2026-11-07)
-  - Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
 
 - **Why you should never put your PlayStation 5 on a carpeted floor** (2026-11-07)
   - Sony's vague carpet guidance leaves PS5 owners guessing, but the advice is simple: carpet feeds dust into the vents, and the floor puts the console in harm's way.

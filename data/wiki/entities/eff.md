@@ -1,20 +1,11 @@
 # EFF
 
 
-*Mentioned in 8 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **EFF Submission to OHCHR Consultation on Child Rights and Safety in the Digital Environment** (2026-11-06)
-  - EFF's argument to the UN is the one child-safety regulators keep ignoring: cutting kids off from the internet can make their whole lives less safe.
-
-- **Reflecting on Digital Rights Wins and Losses in Sacramento** (2026-11-05)
-  - California just put rules on 'robo bosses,' and that matters, but EFF's warning about privacy losses shows the state's tech-regulation record is less consistent than its reputation.
-
-- **Join EFF to Celebrate the Life of Aaron Swartz** (2026-11-05)
-  - A hackathon is the right way to honor Aaron Swartz, but the CFAA that was used against him is still on the books, and that should matter more than the code.
 
 - **We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional** (2026-11-04)
   - Once the Supreme Court called geofence warrants searches, tower dumps that sweep up 1,700 phones to find one suspect became hard to defend. The Ninth Circuit now has to say so.

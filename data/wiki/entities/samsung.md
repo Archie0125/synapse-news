@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Parents want safer phones for kids. These companies are answering the call.** (2026-11-07)
-  - Kid phones are booming because Apple and Google never built a good kids mode, and startups are now charging parents monthly to fill that gap.
+- **Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program** (2026-11-08)
+  - The One UI 9.5 beta is almost here, but only for unlocked phones in six countries. Samsung's beta is more of a members-only preview than a public test.
 
 - **The disadvantages of owning smart refrigerators** (2026-11-07)
   - A refrigerator lasts more than a decade, while its smart features may lose software support much sooner, so buyers can pay extra for features that stop working.

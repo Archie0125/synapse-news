@@ -1,11 +1,17 @@
 # Google
 
 
-*Mentioned in 26 articles*
+*Mentioned in 28 articles*
 
 
 ## Recent Mentions
 
+
+- **You can attach your Fitbit Air to almost any old-school watch** (2026-11-08)
+  - The screenless Fitbit Air quietly solves the wearable's biggest problem: you can keep your mechanical watch and still track your health.
+
+- **How to set up Google Authenticator on a new phone** (2026-11-08)
+  - Cloud sync finally makes Google Authenticator easy to move to a new phone. The trade-off is that your 2FA codes now depend on how secure your Google account is.
 
 - **This GPS navigation app should be the go-to for older drivers** (2026-11-07)
   - For older drivers, the best navigation app is the one that stays quiet, and Google Maps wins by being the less flashy choice.
@@ -45,9 +51,3 @@
 
 - **I bought the knock-off Pixel Watch and Fitbit Air bands, and it’s crazy how good they are [Gallery]** (2026-11-06)
   - When knock-off bands look official and come in colors Google does not make, Google's accessory pricing is hard to justify.
-
-- **Google’s original Nest Doorbell is broken for many right now** (2026-11-06)
-  - A doorbell camera without live view barely works as a doorbell camera, and Google's silence on Nest Hello makes older Nest hardware look neglected.
-
-- **Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign** (2026-11-06)
-  - Remote Agents are the real story in Google's Antigravity update because coding agents can keep working after you close your laptop, while the redesign and Voice Mode matter much less.

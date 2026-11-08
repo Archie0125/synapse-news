@@ -1,11 +1,20 @@
 # OpenAI
 
 
-*Mentioned in 18 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions
 
+
+- **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
+  - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
+
+- **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
+  - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
+
+- **How to Use DeepSeek Through an OpenAI-Compatible API** (2026-11-08)
+  - OpenAI-compatible gateways make switching to DeepSeek a two-line change, but compatibility is a promise you still have to test, not a guarantee.
 
 - **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
   - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
@@ -42,12 +51,3 @@
 
 - **After the midterms, is the AI industry in for a rough two years?** (2026-11-06)
   - Voters backed data center restrictions in 40 of 41 ballot measures, a clear sign that AI's biggest obstacle may now be local voters rather than chips.
-
-- **Agentic shopping, and how AI shopping agents choose** (2026-11-06)
-  - In agentic shopping, your homepage is no longer your storefront; the AI agent is, and brands that don't feed it structured data simply won't exist to buyers.
-
-- **Agentic payments, explained** (2026-11-06)
-  - Agentic payments aren't really about AI; they're about rebuilding consent for a card system designed for humans typing numbers, and four rivals all want to own that proof.
-
-- **Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not** (2026-11-05)
-  - Chatbot ads are no longer an experiment. They are how most AI companies will have to pay for compute, and only very well-funded labs like Anthropic can afford to refuse them.

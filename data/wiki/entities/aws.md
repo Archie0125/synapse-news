@@ -1,11 +1,14 @@
 # AWS
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal** (2026-11-08)
+  - Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
 
 - **AWS Ships Continuum for Code Vulnerabilities** (2026-11-06)
   - AWS Continuum goes after the real security problem, which is alert noise rather than detection, but per-finding pricing quietly ties AWS revenue to how many problems it finds.

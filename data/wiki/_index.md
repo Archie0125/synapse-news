@@ -79,8 +79,8 @@
 
 - [Apple Music](entities/apple-music.md)
 
+- [Apple One](entities/apple-one.md)
+
 - [Apple Store](entities/apple-store.md)
 
 - [Apple Tv](entities/apple-tv.md)
-
-- [Apple Watch Ultra](entities/apple-watch-ultra.md)

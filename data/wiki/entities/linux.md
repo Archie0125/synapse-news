@@ -1,0 +1,14 @@
+# Linux
+
+
+*Mentioned in 2 articles*
+
+
+## Recent Mentions
+
+
+- **The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age** (2026-11-08)
+  - Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
+
+- **The $8 Linux Computer (2022)** (2026-11-07)
+  - An $8 RISC-V board that runs real Linux is exciting, but in 2022 the hard part was getting it to boot, not the price.

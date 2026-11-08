@@ -1,7 +1,7 @@
 # Amazon
 
 
-*Mentioned in 20 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **Amazon’s new basic Kindle proves you don’t need all the bells and whistles** (2026-11-07)
   - The basic Kindle wins by default: AI-driven memory shortages pushed premium e-readers up $40 to $50, making 'good enough' at $169.99 the smart buy.
+
+- **The disadvantages of owning smart refrigerators** (2026-11-07)
+  - A refrigerator lasts more than a decade, while its smart features may lose software support much sooner, so buyers can pay extra for features that stop working.
 
 - **How does the digital ink in ereaders work?** (2026-11-07)
   - E-ink reaches weeks of battery life with simple high school physics, but the same physics also limits how far it can compete with tablets.
@@ -48,6 +51,3 @@
 
 - **You can get a Philips Hue outdoor light strip for nearly 40% off right now** (2026-11-06)
   - A 40%-off Hue outdoor strip mainly shows how much Philips is charging for the new Omniglow, which makes the old model look like a bargain.
-
-- **Two more Garmin smartwatches are down to record-low prices** (2026-11-06)
-  - Garmin's $399 Fenix E deal shows the $799 list price was never the real price, and last year's Venu 3S may beat the new Venu 4.

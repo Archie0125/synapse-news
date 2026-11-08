@@ -1,14 +1,11 @@
 # Hugging Face
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
-
-- **ToyBlocks: A controlled world for robot learning and evaluation** (2026-11-06)
-  - Ai2's ToyBlocks trades flashy laundry-folding demos for something robotics lacks more: a controlled sandbox where you can actually trace why a robot fails.
 
 - **Egyptian and Nigerian English join the Open ASR Leaderboard** (2026-11-06)
   - Adding Egyptian and Nigerian English to the Open ASR Leaderboard is a needed step against benchmaxxing, but under three hours of audio is a thin sample to judge by.

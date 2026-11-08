@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **In the software factory, engineers become process engineers** (2026-11-07)
-  - Agents made writing code cheap, but shipping is the new bottleneck, and engineers who design the pipeline will be worth more than the ones who type.
+- **GitHub New pull request overview page in public preview** (2026-11-07)
+  - GitHub's new PR overview admits the real bottleneck is now reviewing code, not writing it, but a better merge box won't fix review overload.
 
 - **One month of launching a solo open-source desktop agent: the real numbers** (2026-11-07)
   - OpenPilot's honest one-month numbers show what launch day hides: stars stall after week one, and only tutorials and actually answering users keep the momentum.

@@ -1,26 +1,10 @@
 # Cybersecurity
 
 
-*48 articles in the last 7 days*
+*47 articles in the last 7 days*
 
 
 ## Latest
-
-
-### The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call
-
-*Wired | 2026-11-07*
-
-
-Everyone is worried about AI-powered hackers, but this year's scariest infrastructure attack came from internet-connected fridges with weak security basics.
-
-
-### US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation
-
-*Tom's Hardware | 2026-11-07*
-
-
-Leave the tabloid angle aside. The real concern in the FT report is whether China targeted the head of the world's top AI chip company to get around export controls.
 
 
 ### Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot
@@ -47,12 +31,28 @@ AI is helping attackers find and exploit bugs faster than defenders can adapt, a
 Binance says its CFO's exit was planned for six months, but announcing it a week after a $6.3 billion hack makes that hard to take at face value.
 
 
+### Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
+
+*Hacker News | 2026-11-07*
+
+
+Coldframe shows that the scariest attack surface in 2026 isn't AI. It's a supermarket fridge controller still running its factory password.
+
+
 ### Every Mac comes with an (undocumented) family member classifier
 
 *Hacker News | 2026-11-07*
 
 
 Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.
+
+
+### Apple’s grey list: Words and phrases your iPhone won’t help you spell
+
+*Hacker News | 2026-11-07*
+
+
+Apple's hidden list of 100,000+ blocked phrases isn't outright censorship, but quietly steering what users type, including political phrases, is a power that deserves scrutiny.
 
 
 ### Snapchat's Find Friends feature will be off by default for UK users under 18

@@ -145,5 +145,150 @@
     "status": "pending",
     "scheduled_for": "2026-11-09T01:40:51.936972+00:00",
     "queued_at": "2026-11-07T19:20:51.936972+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "40 out of 41.\n\nThat's how many local ballot measures voters backed to restrict data centers.\n\nMore than $400 million in tech-backed campaign money couldn't change that.\n\nEveryone kept watching chips and power grids as AI's limit. The real limit turned out to be a zoning board and a few thousand annoyed neighbors.\n\nMy bet: within two years, buying local consent costs more than buying the land.",
+    "article_url": "/en/policy/2026-11-08-voters-just-became-ai-s-hardest-bottleneck-and-400m-couldn-t-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-08T06:23:52.452521+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T08:00:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "黃仁勳被中國間諜盯上的新聞很聳動，但真正該緊張的是另一件事。\n\n一個美方核准購買 H200 的買家，地址查下去是一間空辦公室。\n\n間諜案考驗的是一個人，空辦公室考驗的卻是整套出口管制。\n\n連買家是不是真的存在都沒確認，那管制到底擋住了誰？\n\n我猜接下來華府會把審查責任推到輝達頭上，台灣供應鏈的客戶查核壓力也會一起上來。",
+    "article_url": "/zh/policy/2026-11-08-huang-ren-xun-de-jian-die-yi-yun-shi-yan-wu-dan-zhen-zheng-d-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-08T06:23:52.452571+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T10:20:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Forget the honeypot headline for a second.\n\nA US-approved buyer for H200s turned out to be an empty office. That's not espionage. That's paperwork nobody checked.\n\nExport controls are only as strong as the checks behind each license.\n\nLast month, Nvidia saying Megaspeed has no China ties was enough. Next month it won't be.\n\nPrediction: within a year, chipmakers become legally responsible for checking who actually ends up with their chips.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T06:23:52.452576+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T12:40:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 一秒推 7,200 次 code，你的 reviewer 還在看第一個 PR。\n\n寫程式已經不是瓶頸了，審查、測試、出事能不能 rollback 才是。\n\nGitHub、GitLab、Cursor、Google 都在把平台改成以 agent 為中心，不是沒有原因。\n\n沒有護欄會怎樣？已經有 agent 直接把整份課綱刪掉了。\n\n接下來兩年最搶手的工程師，不是寫最快的那個，而是敢為 merge 負責的那個。",
+    "article_url": "/zh/ai-ml/2026-11-08-ai-yi-miao-tui-7200-ci-code-ni-de-reviewer-huan-zai-kan-di-y-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T06:23:52.452586+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T15:00:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 泡沫沒有破，是開始被查帳了。\n\nOpenAI 目標募 300 億美元，最後只募到 110 億。\n\nRamp 數據顯示企業 AI 支出開始持平，但 token 用量還在漲。\n用得更多，付的錢卻沒變多，這才是重點。\n\n投資人不再為成長故事買單，要看變現，所以聊天機器人開始放廣告。\n\nAnthropic 偏偏這時候 IPO，會被打折賣，還是成為第一個交出漂亮成績單的 AI 實驗室？",
+    "article_url": "/zh/industry/2026-11-08-openai-mu-zi-da-liu-zhe-anthropic-cheng-chang-yao-zhan-ai-bu-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-08T06:23:52.452627+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T17:20:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 產業花了好幾年遊說華府，結果輸在密西根的地方投票。\n\n41 個地方公投，有 40 個支持限制資料中心。\n\n科技業砸了超過 4 億美元的競選經費，還是沒換到鄰居點頭。\n\n台灣也別以為事不關己。\n用電、用水、噪音，這些問題在桃園、在台南一樣會被拿出來問。\n\n下一個卡住 AI 的，可能不是 GPU 交期，是里民大會。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T06:23:52.452564+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T19:40:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Writing code is now the cheap part.\n\nThe cost has moved to whoever owns the merge button.\n\nAgents open more PRs in an hour than a team can properly review in a week. So teams quietly start rubber-stamping, and the human in the loop becomes a human somewhere near the loop.\n\nThe next big dev tools company won't sell a better code generator. It'll sell a better \"no.\"\n\nWhich senior engineer on your team is about to approve PRs full-time?",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T06:23:52.452591+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-08T22:00:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Gated AI hacking models had about a seven-month head start. It's gone.\n\nFree Chinese models now nearly match them at hacking. OpenAI rates GPT-6 Cyber's exploit skills as critical.\n\nBut finding bugs isn't the scary part. Fixing them is. Linux distros already can't ship patches as fast as bugs get found.\n\nWhen finding bugs is free and patching is slow, attackers win on math alone.\n\n2027 is the year patch speed becomes a board-level metric.",
+    "article_url": "/en/ai-ml/2026-11-08-gated-ai-hacking-models-just-lost-their-head-start-patching-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T06:23:52.452601+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T00:20:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Token usage: up.\nEnterprise AI spend: flat.\n\nThose two lines are the whole AI business model problem.\n\nCustomers use more AI and pay the same. Price cuts are eating the growth.\n\nSo the labs reach for the oldest revenue model on the internet: ads.\n\nWhen your chatbot starts recommending products, that's not a new feature. It's a slide from the investor deck.\n\nAnthropic's IPO will be priced on this reality, not the hype.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T06:23:52.452635+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T02:40:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 資料中心把記憶體吃光，帳單最後寄到你家。\n\n手機機種被砍、電子書閱讀器漲價，自組 PC 快變成有錢人的嗜好。\n\nApple 有定價權，漲價你還是會買。二線品牌沒有，只能砍規格或直接退場。\n\n台灣記憶體廠這波賺翻，下游組裝和通路卻會很痛。\n\n明年的中階手機，8GB RAM 搞不好又變回「旗艦配置」。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-08T06:23:52.452653+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T05:00:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "業界忙著談 AI 網路戰，攻擊者卻用預設密碼讓儲血室升溫。\n\nAI 確實讓找漏洞變便宜了，但多數受害者根本不是被頂級模型打穿的，而是門本來就沒鎖。\n\n網路上還有幾百個自主駭客工具就這樣曝露著，誰都能撿來用。\n\n你公司的 IoT 設備，有幾台還在用出廠密碼？\n\n下一次大規模事件，十之八九不是 AI 打進來的，是 admin/admin。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-08T06:23:52.452617+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T07:20:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The Cybertruck is dead, and the lesson is simple: preorders are not demand.\n\nRefundable $100 deposits bought headlines, not buyers.\n\nNow its factory space goes to robotaxis that haven't shipped yet. Tesla is trading one unproven bet for another.\n\nThe EV that wins the next five years is a cheap, small hatchback, not a stainless-steel wedge.\n\nWho builds it for the US market first: Tesla, Detroit, or whoever gets past the tariffs on BYD?",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-08T06:23:52.452643+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T09:40:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Cybertruck 停產，最好的教訓就一句：預購量不等於需求量。\n\n100 美元的可退訂金，換來的是新聞版面，不是買家。\n\n更妙的是，騰出來的產線要給還沒上路的 Robotaxi。\n拿一個沒驗證過的賭注，換另一個沒驗證過的賭注。\n\n電動車市場要的是便宜、小台、好停車，比亞迪早就懂了。\n\n我猜 Tesla 下一台真正賣爆的車，會長得很無聊。",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-08T06:23:52.452648+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T12:00:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI didn't just eat the GPUs. It's eating the RAM in your next phone.\n\nData centers are absorbing so much memory that phones are getting canceled, e-readers are getting pricier, and building a PC is turning into a luxury hobby.\n\nApple can pass the cost along. Everyone else shrinks.\n\nThe weird result: AI makes consumer hardware less competitive, not more.\n\nPrediction: in 2027, base models quietly get worse specs at the same price.",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-08T06:23:52.452657+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T14:20:00+00:00",
+    "queued_at": "2026-11-08T06:23:52.454090+00:00"
   }
 ]

@@ -1,25 +1,25 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-07*
+*Last updated: 2026-11-08*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-07](daily/2026-11-07.md)
+- [Daily Digest 2026-11-08](daily/2026-11-08.md)
 
 
 ## Recent Analysis
 
-- [AI 代理沒有叛變，是你的水管先漏了 — 自主代理安全護欄才是真戰場](analysis/2026-11-07-your-ai-agent-doesn-t-need-to-go-rogue-its-plumbing-already-zh.md)
+- [AI最難搞定的不是輝達，是鄰居：美國選民用40比1否決資料中心](analysis/2026-11-08-voters-just-became-ai-s-hardest-bottleneck-and-400m-couldn-t-zh.md)
 
-- [Your AI Agent Doesn't Need to Go Rogue. Its Plumbing Already Did.](analysis/2026-11-07-your-ai-agent-doesn-t-need-to-go-rogue-its-plumbing-already-en.md)
+- [Voters Just Became AI's Hardest Bottleneck, and $400M Couldn't Buy Past It](analysis/2026-11-08-voters-just-became-ai-s-hardest-bottleneck-and-400m-couldn-t-en.md)
 
-- [AI 寫 code 一秒鐘，人類審 code 兩天半：軟體業真正的瓶頸換位子了](analysis/2026-11-07-writing-code-is-now-cheap-owning-the-merge-button-is-the-exp-zh.md)
+- [OpenAI 募資打六折、Anthropic 成長腰斬：AI 不是泡沫破了，是開始被查帳了](analysis/2026-11-08-the-ai-bubble-isn-t-popping-it-s-being-asked-to-show-its-rec-zh.md)
 
-- [Writing Code Is Now Cheap. Owning the Merge Button Is the Expensive Part](analysis/2026-11-07-writing-code-is-now-cheap-owning-the-merge-button-is-the-exp-en.md)
+- [The AI Bubble Isn't Popping. It's Being Asked to Show Its Receipts.](analysis/2026-11-08-the-ai-bubble-isn-t-popping-it-s-being-asked-to-show-its-rec-en.md)
 
-- [40 場公投輸 39 場：AI 資料中心最大的敵人不是缺晶片，是隔壁鄰居](analysis/2026-11-07-voters-didn-t-reject-ai-they-rejected-paying-for-its-electri-zh.md)
+- [黃仁勳的間諜疑雲是煙霧彈，真正的炸彈是那間空辦公室](analysis/2026-11-08-nvidia-s-china-problem-isn-t-the-spy-it-s-the-empty-office-zh.md)
 
 
 ## Topics

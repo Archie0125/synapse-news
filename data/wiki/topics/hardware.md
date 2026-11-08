@@ -1,26 +1,18 @@
 # Hardware
 
 
-*148 articles in the last 7 days*
+*152 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call
+### Ce que 115 millions d'années d'hème fossilisé m'ont appris sur la visualisation moléculaire en VR (et pourquoi j'ai construit…
 
-*Wired | 2026-11-07*
-
-
-Everyone is worried about AI-powered hackers, but this year's scariest infrastructure attack came from internet-connected fridges with weak security basics.
+*Dev.to | 2026-11-08*
 
 
-### The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall
-
-*Wired | 2026-11-07*
-
-
-Cat fountains now come with AI cameras, but the features that matter most are still basic ones: easy cleaning, stainless steel, and a water level you can see.
+NexoPeek's best insight isn't VR itself. It's the realization that the problem was the camera, not the data, which is a lesson flat-screen science tools keep ignoring.
 
 
 ### The 19 Best Early Black Friday Deals 2026
@@ -55,36 +47,20 @@ EcoFlow's Rapid Pro X is at its lowest price yet, and its fast recharge is the r
 Wired's top router pick is an affordable Asus, but the bigger story is the FCC's foreign-made router ban, which could reshape what US buyers can get next year.
 
 
-### US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation
-
-*Tom's Hardware | 2026-11-07*
-
-
-Leave the tabloid angle aside. The real concern in the FT report is whether China targeted the head of the world's top AI chip company to get around export controls.
-
-
-### US FAA to eliminate floppy disks from air traffic control by 2028
-
-*Tom's Hardware | 2026-11-07*
-
-
-US air traffic control still relies on systems that once used floppy disks in 2026, and the FAA's plan to finish replacing them by 2028 is overdue and still slow.
-
-
-### TSMC denies exploring 3D DRAM at Nvidia's request
-
-*Tom's Hardware | 2026-11-07*
-
-
-TSMC denies making 3D DRAM for Nvidia, but the more telling part is that its biggest customer reportedly asked, which shows how scarce memory has become.
-
-
 ### This week in Tom's Hardware Premium: November 7, 2026
 
 *Tom's Hardware | 2026-11-07*
 
 
 Tom's Hardware's paywalled week centers on Apple's late arrival to OLED touch laptops, but the stories with more weight are Micron's memory roadmap and GlobalFoundries skipping EUV.
+
+
+### This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount
+
+*Tom's Hardware | 2026-11-07*
+
+
+When a $500-off prebuilt beats building your own, the memory shortage has quietly turned DIY PC building into a luxury hobby.
 
 
 ### TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD
@@ -117,3 +93,27 @@ Bluetooth HDT's 7.5 Mbps finally has room for lossless audio, but the bigger sto
 
 
 Elegoo's early Black Friday deals are real, but the $1 filament bundles show where the money is: selling consumables to locked-in printer owners.
+
+
+### Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
+
+*Tom's Hardware | 2026-11-07*
+
+
+A 27-year homelab Exchange run ends quietly: even a die-hard self-hoster moved to the cloud once Microsoft's subscription licensing made on-prem Exchange harder to justify.
+
+
+### EA producer found 20,000 archival media assets in secret physical vault at its HQ
+
+*Tom's Hardware | 2026-11-07*
+
+
+EA almost lost its own history in a forgotten room. It took one producer's after-hours work and fan modders to turn that archive into a remaster.
+
+
+### The US let Nvidia sell chips to an empty office in China
+
+*The Verge | 2026-11-07*
+
+
+If an empty office can pass US export vetting for H200 chips, the controls are mostly for show, and a 15% revenue cut seems to have replaced due diligence.

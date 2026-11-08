@@ -1,7 +1,7 @@
 # Sony
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,12 @@
 
 - **The 10 Best Early Black Friday Headphone Deals (2026)** (2026-11-07)
   - Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
+
+- **Why you should never put your PlayStation 5 on a carpeted floor** (2026-11-07)
+  - Sony's vague carpet guidance leaves PS5 owners guessing, but the advice is simple: carpet feeds dust into the vents, and the floor puts the console in harm's way.
+
+- **What discs can a PlayStation 5 play?** (2026-11-07)
+  - Sony is ending disc-based games in 2028, so the PS5's broad disc compatibility now matters less as a feature and more as a way to keep physical media alive.
 
 - **This see-through camera lets photographers maintain eye contact with their subjects** (2026-11-06)
   - HOA's see-through camera has a clever idea about eye contact, but a 100-unit run with no sample photos makes it more of a design statement than a proven camera.

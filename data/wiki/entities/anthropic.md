@@ -7,11 +7,11 @@
 ## Recent Mentions
 
 
-- **Why a new report on Anthropic automating AI development is alarming researchers** (2026-11-07)
-  - METR's report suggests AI-driven self-improvement has started showing up in a lab's real results. The awkward part is that it's happening at the company most loudly asking everyone to slow down.
-
 - **The Components of Agent Memory** (2026-11-07)
   - Agent memory isn't a storage problem but a curation problem, and 'dreaming' admits that raw logs are useless until something offline distills them.
+
+- **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
+  - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
 
 - **Free Chinese AI Models Are Getting Scary Good at Hacking** (2026-11-06)
   - Free, downloadable Chinese models now nearly match gated frontier models at hacking. The 'buy time' logic behind restricted releases just ran out of time.

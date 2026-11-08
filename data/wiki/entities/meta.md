@@ -1,14 +1,11 @@
 # Meta
 
 
-*Mentioned in 12 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
-
-- **From the front row to the hot seat — what the midterms mean for Big Tech** (2026-11-07)
-  - Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI fights are in statehouses and towns that don't want data centers.
 
 - **Meta stellt Quest 2 ein – wer von euch trainiert noch mit alter Hardware, und was macht ihr dann?** (2026-11-07)
   - Meta ending Quest 2 updates looks like routine housekeeping, but it hits hardest the people who bought cheap used headsets for vision therapy.

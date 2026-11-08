@@ -1,11 +1,17 @@
 # Samsung
 
 
-*Mentioned in 18 articles*
+*Mentioned in 19 articles*
 
 
 ## Recent Mentions
 
+
+- **Parents want safer phones for kids. These companies are answering the call.** (2026-11-07)
+  - Kid phones are booming because Apple and Google never built a good kids mode, and startups are now charging parents monthly to fill that gap.
+
+- **The disadvantages of owning smart refrigerators** (2026-11-07)
+  - A refrigerator lasts more than a decade, while its smart features may lose software support much sooner, so buyers can pay extra for features that stop working.
 
 - **5 Google Messages settings you might want to disable** (2026-11-07)
   - Google Messages beat third-party texting apps, but its default settings, from read receipts to AI extras, still don't serve users well.
@@ -18,9 +24,6 @@
 
 - **Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density** (2026-11-06)
   - Z2RAM targets AI's biggest bottleneck, memory, but its claims are still projections, and data that lasts 300 seconds is a lab result, not a product.
-
-- **The Download: a humanoid cleans house and Samsung builds for the AI boom** (2026-11-06)
-  - Samsung keeps building chip fabs for AI demand even as $2.5 trillion disappears from tech stocks, showing that the AI build-out and the AI market sentiment are now moving in different directions.
 
 - **Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life** (2026-11-06)
   - Samsung finally fixed the hardware basics, battery and brightness, which makes the Watch Ultra 2 a real Apple Watch Ultra rival, though its health metrics still vary in usefulness.
@@ -48,6 +51,3 @@
 
 - **The 7 Best Early Black Friday TV Deals (2026)** (2026-11-05)
   - Paying full price for a TV is almost always a mistake, and record-low prices on the LG C6 and Samsung S95H show that premium OLED is becoming mainstream.
-
-- **13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)** (2026-11-05)
-  - Black Friday now starts in early November, which makes the deadline feel fake. Shoppers who buy only tested products at proven discounts are the ones who come out ahead.

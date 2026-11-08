@@ -1,14 +1,17 @@
 # OpenAI
 
 
-*Mentioned in 17 articles*
+*Mentioned in 18 articles*
 
 
 ## Recent Mentions
 
 
-- **From the front row to the hot seat — what the midterms mean for Big Tech** (2026-11-07)
-  - Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI fights are in statehouses and towns that don't want data centers.
+- **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
+  - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
+
+- **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
+  - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
 
 - **AI Companies Really, Really Want to Buy Your Work Files and Emails** (2026-11-06)
   - AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
@@ -48,6 +51,3 @@
 
 - **Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not** (2026-11-05)
   - Chatbot ads are no longer an experiment. They are how most AI companies will have to pay for compute, and only very well-funded labs like Anthropic can afford to refuse them.
-
-- **OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane** (2026-11-05)
-  - OpenAI now rates GPT-6 Cyber's exploit skills as "critical," and a gated customer list is doing most of the safety work.

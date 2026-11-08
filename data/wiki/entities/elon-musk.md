@@ -1,14 +1,20 @@
 # Elon Musk
 
 
-*Mentioned in 9 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
 
+- **He Ran on Fighting Data Centers. Now, He’s Going to Congress** (2026-11-07)
+  - Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
+
 - **Good riddance, Cybertruck!** (2026-11-07)
   - The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
+
+- **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
+  - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
 
 - **The Cybertruck’s Death Is Actually Great News for EVs** (2026-11-06)
   - The Cybertruck's death isn't just Tesla's embarrassment: it signals that oversized EVs were a dead end and that battery cells belong in smaller, cheaper cars.

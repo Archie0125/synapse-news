@@ -1,18 +1,10 @@
 # Policy
 
 
-*69 articles in the last 7 days*
+*62 articles in the last 7 days*
 
 
 ## Latest
-
-
-### The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call
-
-*Wired | 2026-11-07*
-
-
-Everyone is worried about AI-powered hackers, but this year's scariest infrastructure attack came from internet-connected fridges with weak security basics.
 
 
 ### The American Dream Wasn’t Built for Climate Change
@@ -23,28 +15,20 @@ Everyone is worried about AI-powered hackers, but this year's scariest infrastru
 Homeownership was sold as the safest way to build wealth, but climate risk and rising insurance costs are turning the house into a bet that can go badly wrong.
 
 
+### He Ran on Fighting Data Centers. Now, He’s Going to Congress
+
+*Wired | 2026-11-07*
+
+
+Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
+
+
 ### Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+
 
 *Wired | 2026-11-07*
 
 
 Wired's top router pick is an affordable Asus, but the bigger story is the FCC's foreign-made router ban, which could reshape what US buyers can get next year.
-
-
-### US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation
-
-*Tom's Hardware | 2026-11-07*
-
-
-Leave the tabloid angle aside. The real concern in the FT report is whether China targeted the head of the world's top AI chip company to get around export controls.
-
-
-### US FAA to eliminate floppy disks from air traffic control by 2028
-
-*Tom's Hardware | 2026-11-07*
-
-
-US air traffic control still relies on systems that once used floppy disks in 2026, and the FAA's plan to finish replacing them by 2028 is overdue and still slow.
 
 
 ### Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot
@@ -55,14 +39,6 @@ US air traffic control still relies on systems that once used floppy disks in 20
 Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China problem has grown beyond trade policy into national security.
 
 
-### Why a new report on Anthropic automating AI development is alarming researchers
-
-*The Verge | 2026-11-07*
-
-
-METR's report suggests AI-driven self-improvement has started showing up in a lab's real results. The awkward part is that it's happening at the company most loudly asking everyone to slow down.
-
-
 ### The US let Nvidia sell chips to an empty office in China
 
 *The Verge | 2026-11-07*
@@ -71,12 +47,20 @@ METR's report suggests AI-driven self-improvement has started showing up in a la
 If an empty office can pass US export vetting for H200 chips, the controls are mostly for show, and a 15% revenue cut seems to have replaced due diligence.
 
 
-### From the front row to the hot seat — what the midterms mean for Big Tech
+### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
 
 *TechCrunch | 2026-11-07*
 
 
-Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI fights are in statehouses and towns that don't want data centers.
+Spy rumors grab the headlines, but the bigger story is an approved Nvidia chip buyer whose listed office turned out to be an empty shell.
+
+
+### After the midterms, things are looking rocky for Elon Musk and data centers
+
+*TechCrunch | 2026-11-07*
+
+
+Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
 
 
 ### Every Mac comes with an (undocumented) family member classifier
@@ -85,6 +69,14 @@ Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI 
 
 
 Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.
+
+
+### Apple’s grey list: Words and phrases your iPhone won’t help you spell
+
+*Hacker News | 2026-11-07*
+
+
+Apple's hidden list of 100,000+ blocked phrases isn't outright censorship, but quietly steering what users type, including political phrases, is a power that deserves scrutiny.
 
 
 ### What gamers should know when bringing their consoles through TSA
@@ -165,3 +157,11 @@ Nvidia is using its cloud partner status as a soft export-control tool, making i
 
 
 Permitting reform could cut power bills, but rushed through a lame-duck session it risks becoming a fast lane for AI data centers to skip local scrutiny.
+
+
+### Just about anyone can rent access to White House IP addresses
+
+*The Verge | 2026-11-06*
+
+
+The White House network apparently has a back door anyone can rent for a few dollars, and the likely culprit is just a sketchy app SDK.

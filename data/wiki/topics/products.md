@@ -1,26 +1,18 @@
 # Products
 
 
-*266 articles in the last 7 days*
+*290 articles in the last 7 days*
 
 
 ## Latest
 
 
-### This Totally Free App Can Free Up Space on Your Mac
+### Ce que 115 millions d'années d'hème fossilisé m'ont appris sur la visualisation moléculaire en VR (et pourquoi j'ai construit…
 
-*Wired | 2026-11-07*
-
-
-In a market full of subscription Mac cleaners, a free open-source app wins by being cautious and openly listing what it will and won't delete.
+*Dev.to | 2026-11-08*
 
 
-### The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall
-
-*Wired | 2026-11-07*
-
-
-Cat fountains now come with AI cameras, but the features that matter most are still basic ones: easy cleaning, stainless steel, and a water level you can see.
+NexoPeek's best insight isn't VR itself. It's the realization that the problem was the camera, not the data, which is a lesson flat-screen science tools keep ignoring.
 
 
 ### The 19 Best Early Black Friday Deals 2026
@@ -71,6 +63,14 @@ Wired's top router pick is an affordable Asus, but the bigger story is the FCC's
 Adding AI to caregiver apps can lighten the paperwork, but 63 million US caregivers need more support and better systems than a smarter reminder can provide.
 
 
+### This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount
+
+*Tom's Hardware | 2026-11-07*
+
+
+When a $500-off prebuilt beats building your own, the memory shortage has quietly turned DIY PC building into a luxury hobby.
+
+
 ### TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD
 
 *Tom's Hardware | 2026-11-07*
@@ -95,30 +95,6 @@ Elegoo's early Black Friday deals are real, but the $1 filament bundles show whe
 EA almost lost its own history in a forgotten room. It took one producer's after-hours work and fan modders to turn that archive into a remaster.
 
 
-### Zelda is back and better than ever
-
-*The Verge | 2026-11-07*
-
-
-Installer's headline pick is a remaster of a classic Zelda game, a reminder that some of this year's best holiday picks are updated older games.
-
-
-### Why a new report on Anthropic automating AI development is alarming researchers
-
-*The Verge | 2026-11-07*
-
-
-METR's report suggests AI-driven self-improvement has started showing up in a lab's real results. The awkward part is that it's happening at the company most loudly asking everyone to slow down.
-
-
-### The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance
-
-*The Verge | 2026-11-07*
-
-
-The Gem UV necklace's real value isn't vanity tracking. It's a nudge that makes you notice health risks you had been ignoring.
-
-
 ### The US let Nvidia sell chips to an empty office in China
 
 *The Verge | 2026-11-07*
@@ -141,3 +117,19 @@ NYT Cooking's AI assistant is a handy weeknight fixer, but baking shows its limi
 
 
 The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
+
+
+### Discogs’ Kevin Lewandowski can’t live without his AeroPress
+
+*The Verge | 2026-11-07*
+
+
+Discogs' founder lives on an AeroPress and barely posts on social media, which fits a business built on people leaving the algorithm for physical media.
+
+
+### Costco members can get $5 off the reimagined Ocarina of Time
+
+*The Verge | 2026-11-07*
+
+
+A $5 Costco discount is small, but it shows Nintendo's Ocarina of Time remake is strong enough to hold full price almost everywhere else.

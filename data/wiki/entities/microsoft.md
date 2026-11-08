@@ -1,14 +1,11 @@
 # Microsoft
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
-
-- **How we review 4x more AI code without reading every line** (2026-11-07)
-  - Aviator's real point is that line-by-line review was always mostly theater, and AI-scale code finally forces teams to review decisions instead of diffs.
 
 - **Windows PowerToys can automate some of your more tedious PC tasks** (2026-11-07)
   - Microsoft's best Windows productivity features are hidden in a free GitHub download, which is a compliment to PowerToys and a criticism of Windows.

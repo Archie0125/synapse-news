@@ -1,18 +1,10 @@
 # Open Source
 
 
-*50 articles in the last 7 days*
+*52 articles in the last 7 days*
 
 
 ## Latest
-
-
-### This Totally Free App Can Free Up Space on Your Mac
-
-*Wired | 2026-11-07*
-
-
-In a market full of subscription Mac cleaners, a free open-source app wins by being cautious and openly listing what it will and won't delete.
 
 
 ### Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets
@@ -31,12 +23,28 @@ Bumpy's pitch isn't a new idea but a fixed one: keep the changesets workflow and
 pg_vectorsearch makes 'just use Postgres' for vector search far more believable, though the eye-popping benchmark is Tiger Data's own and the extension is still alpha.
 
 
+### What I run on my $10 USD OpenStick homelab
+
+*Hacker News | 2026-11-07*
+
+
+A $10 LTE dongle running Debian beats a lot of overpriced smart-home hubs, and it's a reminder that self-hosting got cheap long before it got popular.
+
+
 ### The $8 Linux Computer (2022)
 
 *Hacker News | 2026-11-07*
 
 
 An $8 RISC-V board that runs real Linux is exciting, but in 2022 the hard part was getting it to boot, not the price.
+
+
+### Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
+
+*Hacker News | 2026-11-07*
+
+
+Coldframe shows that the scariest attack surface in 2026 isn't AI. It's a supermarket fridge controller still running its factory password.
 
 
 ### Running a law firm on Free software
@@ -53,6 +61,22 @@ A UK tech law firm has run on free software for five years without drama, which 
 
 
 Running a 2004 racing classic in a browser with cloud saves, multiplayer, and touch controls is a technical feat, and also a reminder that publishers left it to fans.
+
+
+### Every Windows 11 app should kill Electron, and Discord just showed why
+
+*Hacker News | 2026-11-07*
+
+
+Discord's Rust client is a strong demo against Electron's bloat, but one 15-second launch clip from the CTO is marketing, not a benchmark.
+
+
+### Asahi Linux Progress Linux 7.3
+
+*Hacker News | 2026-11-07*
+
+
+Asahi Linux getting a 13,000-line driver upstream in three months shows reverse-engineered Apple Silicon support is turning into normal Linux development.
 
 
 ### Windows PowerToys can automate some of your more tedious PC tasks
@@ -141,27 +165,3 @@ Cognition built SWE-2 Flash on open weights and then locked its version away, ci
 
 
 Underdog's 32MB speech model runs offline in your browser and makes a stronger privacy argument than any slide deck about on-device AI.
-
-
-### Hundreds of Artex AI hacking tools found publicly exposed to the web
-
-*TechCrunch | 2026-11-06*
-
-
-The scariest part of autonomous AI hacking tools isn't the AI. It's that 800+ of them are sitting online with no password, ready for anyone to borrow.
-
-
-### Vault Fork OpenBao Adds External Keys and Quantum-Ready TLS
-
-*InfoQ | 2026-11-06*
-
-
-OpenBao 2.7 offers open-source versions of features Vault sells as Enterprise extras, so HashiCorp's license change is now losing it ground on product as well as principle.
-
-
-### TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class
-
-*InfoQ | 2026-11-06*
-
-
-TypeScript 7.1 Beta fixes 7.0's biggest mistake by giving tools their compiler API back, and content mappers may matter even more for Vue and Svelte.

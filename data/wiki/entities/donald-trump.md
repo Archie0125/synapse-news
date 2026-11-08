@@ -1,14 +1,11 @@
 # Donald Trump
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
-
-- **From the front row to the hot seat — what the midterms mean for Big Tech** (2026-11-07)
-  - Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI fights are in statehouses and towns that don't want data centers.
 
 - **How Stephen Miller Schemed His Way to the Top** (2026-11-06)
   - After a midterm wipeout, Trump picked loyalty over course correction by making Stephen Miller chief of staff. That's a bet on fighting investigations, not winning voters back.

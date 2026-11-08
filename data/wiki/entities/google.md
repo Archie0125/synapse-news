@@ -7,14 +7,17 @@
 ## Recent Mentions
 
 
-- **Crusoe sells troubled Wyoming data center project to Google** (2026-11-07)
-  - Crusoe handing its stalled Wyoming megaproject to Google proves that in the AI buildout, the money goes to whoever can deliver power and steel.
-
 - **This GPS navigation app should be the go-to for older drivers** (2026-11-07)
   - For older drivers, the best navigation app is the one that stays quiet, and Google Maps wins by being the less flashy choice.
 
+- **How often should you restart your Fitbit watch?** (2026-11-07)
+  - Restarting a Fitbit is harmless and often fixes glitches, but the real lesson is not to confuse restart with reset, which wipes your data.
+
 - **5 Google Messages settings you might want to disable** (2026-11-07)
   - Google Messages beat third-party texting apps, but its default settings, from read receipts to AI extras, still don't serve users well.
+
+- **Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini** (2026-11-07)
+  - Google Messages' redesign makes search easier to reach with one hand, but the iMessage-style pinned avatars give up useful preview text for looks.
 
 - **Big Tech lost big in the 2026 election** (2026-11-06)
   - The 2026 midterms read as a vote against Big Tech, landing just as the industry still can't explain how AI makes money.
@@ -33,9 +36,6 @@
 
 - **Google's eyewear partners can't keep a lid on its smart glasses plans** (2026-11-06)
   - Google's partners keep announcing its smart glasses before Google does. That's either sloppy coordination or the most effective leak campaign of the year.
-
-- **Google Forcing AI on Students Is BS** (2026-11-06)
-  - Google's partial retreat on forcing Gemini into schools doesn't change the strategy: search is becoming a chatbot, and schools get no real way to opt out.
 
 - **Agentic payments, explained** (2026-11-06)
   - Agentic payments aren't really about AI; they're about rebuilding consent for a card system designed for humans typing numbers, and four rivals all want to own that proof.

@@ -1,11 +1,17 @@
 # ChatGPT
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **The end of Microsoft Research's AI Frontiers group** (2026-11-07)
+  - Microsoft shut down the roughly 50-person group behind Autogen just as frontier research needs coordinated teams most, which suggests it would rather buy models than invent them.
+
+- **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
+  - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
 
 - **AI is the new dating dealbreaker** (2026-11-06)
   - In San Francisco, how you feel about AI now shows up on dating profiles the way political views do, a sign that AI has become a question of identity.

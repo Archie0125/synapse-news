@@ -1,34 +1,10 @@
 # Industry
 
 
-*155 articles in the last 7 days*
+*159 articles in the last 7 days*
 
 
 ## Latest
-
-
-### This Totally Free App Can Free Up Space on Your Mac
-
-*Wired | 2026-11-07*
-
-
-In a market full of subscription Mac cleaners, a free open-source app wins by being cautious and openly listing what it will and won't delete.
-
-
-### The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call
-
-*Wired | 2026-11-07*
-
-
-Everyone is worried about AI-powered hackers, but this year's scariest infrastructure attack came from internet-connected fridges with weak security basics.
-
-
-### The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall
-
-*Wired | 2026-11-07*
-
-
-Cat fountains now come with AI cameras, but the features that matter most are still basic ones: easy cleaning, stainless steel, and a water level you can see.
 
 
 ### The American Dream Wasn’t Built for Climate Change
@@ -53,6 +29,14 @@ Black Friday has grown into a two-month season, and that sprawl helps retailers 
 
 
 Early Black Friday is a good time for headphones, and last-generation flagships at half price are usually a better deal than this year's models at 20% off.
+
+
+### He Ran on Fighting Data Centers. Now, He’s Going to Congress
+
+*Wired | 2026-11-07*
+
+
+Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
 
 
 ### GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off
@@ -87,22 +71,6 @@ Wired's top router pick is an affordable Asus, but the bigger story is the FCC's
 Adding AI to caregiver apps can lighten the paperwork, but 63 million US caregivers need more support and better systems than a smarter reminder can provide.
 
 
-### US FAA to eliminate floppy disks from air traffic control by 2028
-
-*Tom's Hardware | 2026-11-07*
-
-
-US air traffic control still relies on systems that once used floppy disks in 2026, and the FAA's plan to finish replacing them by 2028 is overdue and still slow.
-
-
-### TSMC denies exploring 3D DRAM at Nvidia's request
-
-*Tom's Hardware | 2026-11-07*
-
-
-TSMC denies making 3D DRAM for Nvidia, but the more telling part is that its biggest customer reportedly asked, which shows how scarce memory has become.
-
-
 ### This week in Tom's Hardware Premium: November 7, 2026
 
 *Tom's Hardware | 2026-11-07*
@@ -127,14 +95,6 @@ A 27-year homelab Exchange run ends quietly: even a die-hard self-hoster moved t
 EA almost lost its own history in a forgotten room. It took one producer's after-hours work and fan modders to turn that archive into a remaster.
 
 
-### Why a new report on Anthropic automating AI development is alarming researchers
-
-*The Verge | 2026-11-07*
-
-
-METR's report suggests AI-driven self-improvement has started showing up in a lab's real results. The awkward part is that it's happening at the company most loudly asking everyone to slow down.
-
-
 ### Good riddance, Cybertruck!
 
 *The Verge | 2026-11-07*
@@ -143,17 +103,57 @@ METR's report suggests AI-driven self-improvement has started showing up in a la
 The Cybertruck sold 70,000 units against a 250,000-a-year target, and Musk ended it with one tweet. Hype couldn't make up for weak demand.
 
 
-### In the software factory, engineers become process engineers
-
-*The New Stack | 2026-11-07*
-
-
-Agents made writing code cheap, but shipping is the new bottleneck, and engineers who design the pipeline will be worth more than the ones who type.
-
-
-### Sequoia shutting down its Scouts program marks the end of an era
+### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
 
 *TechCrunch | 2026-11-07*
 
 
-Sequoia killing the scout model it invented is an admission that wide deal flow doesn't beat conviction, and other firms will likely follow.
+Spy rumors grab the headlines, but the bigger story is an approved Nvidia chip buyer whose listed office turned out to be an empty shell.
+
+
+### Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack
+
+*TechCrunch | 2026-11-07*
+
+
+Binance says its CFO's exit was planned for six months, but announcing it a week after a $6.3 billion hack makes that hard to take at face value.
+
+
+### After the midterms, things are looking rocky for Elon Musk and data centers
+
+*TechCrunch | 2026-11-07*
+
+
+Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
+
+
+### Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work
+
+*SaaStr | 2026-11-07*
+
+
+Software's 14.6% growth looks healthy, but model spending and price hikes are carrying it while data centers quietly take all the share gains.
+
+
+### A Critical App We Pay For Went Down for 2 Days. They Never Offered a Credit. I Won’t Forget.
+
+*SaaStr | 2026-11-07*
+
+
+A $330 credit nobody offered may cost a $60K renewal, proof that customers forgive outages but remember vendors who act like nothing happened.
+
+
+### How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes
+
+*InfoQ | 2026-11-07*
+
+
+Grab's lesson is blunt: AI coding tools speed up writing code, so the bottleneck and the risk move to everything that catches bad code afterward.
+
+
+### What I run on my $10 USD OpenStick homelab
+
+*Hacker News | 2026-11-07*
+
+
+A $10 LTE dongle running Debian beats a lot of overpriced smart-home hubs, and it's a reminder that self-hosting got cheap long before it got popular.

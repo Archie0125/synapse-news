@@ -1,11 +1,14 @@
 # iPhone
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple’s grey list: Words and phrases your iPhone won’t help you spell** (2026-11-07)
+  - Apple's hidden list of 100,000+ blocked phrases isn't outright censorship, but quietly steering what users type, including political phrases, is a power that deserves scrutiny.
 
 - **What is System Data on an iPhone's storage, and how much is normal?** (2026-11-07)
   - iPhone System Data is not a mystery. It is caches and leftovers that hurt more on 128GB phones now that Apple's storage upgrades cost more.

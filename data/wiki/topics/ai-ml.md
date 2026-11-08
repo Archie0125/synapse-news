@@ -1,10 +1,26 @@
 # AI & ML
 
 
-*172 articles in the last 7 days*
+*164 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Catch the Risk Before the First Dose - Building an AI Drug Safety Reviewer That Remembers
+
+*Dev.to | 2026-11-08*
+
+
+TrialSleuth AI targets a real gap, since lessons from past trials are scattered, but an AI drug-safety reviewer is only as trustworthy as the evidence it can actually show.
+
+
+### He Ran on Fighting Data Centers. Now, He’s Going to Congress
+
+*Wired | 2026-11-07*
+
+
+Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
 
 
 ### Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough
@@ -15,36 +31,12 @@
 Adding AI to caregiver apps can lighten the paperwork, but 63 million US caregivers need more support and better systems than a smarter reminder can provide.
 
 
-### US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation
-
-*Tom's Hardware | 2026-11-07*
-
-
-Leave the tabloid angle aside. The real concern in the FT report is whether China targeted the head of the world's top AI chip company to get around export controls.
-
-
-### TSMC denies exploring 3D DRAM at Nvidia's request
-
-*Tom's Hardware | 2026-11-07*
-
-
-TSMC denies making 3D DRAM for Nvidia, but the more telling part is that its biggest customer reportedly asked, which shows how scarce memory has become.
-
-
 ### New Bluetooth High Data Throughput may finally satisfy audiophiles
 
 *Tom's Hardware | 2026-11-07*
 
 
 Bluetooth HDT's 7.5 Mbps finally has room for lossless audio, but the bigger story is the bandwidth it opens up for AI wearables and XR.
-
-
-### Why a new report on Anthropic automating AI development is alarming researchers
-
-*The Verge | 2026-11-07*
-
-
-METR's report suggests AI-driven self-improvement has started showing up in a lab's real results. The awkward part is that it's happening at the company most loudly asking everyone to slow down.
 
 
 ### The US let Nvidia sell chips to an empty office in China
@@ -71,44 +63,12 @@ NYT Cooking's AI assistant is a handy weeknight fixer, but baking shows its limi
 AI is helping attackers find and exploit bugs faster than defenders can adapt, and the security industry is entering a dark age it has no answer for yet.
 
 
-### Why AWS wants developers to stop babysitting their AI agents
-
-*The New Stack | 2026-11-07*
-
-
-AWS's Kiro bots give each agent its own persistent memory, and the bet is that developers will manage teams of agents rather than chat with one.
-
-
-### In the software factory, engineers become process engineers
-
-*The New Stack | 2026-11-07*
-
-
-Agents made writing code cheap, but shipping is the new bottleneck, and engineers who design the pipeline will be worth more than the ones who type.
-
-
-### How we review 4x more AI code without reading every line
-
-*The New Stack | 2026-11-07*
-
-
-Aviator's real point is that line-by-line review was always mostly theater, and AI-scale code finally forces teams to review decisions instead of diffs.
-
-
-### From the front row to the hot seat — what the midterms mean for Big Tech
+### After the midterms, things are looking rocky for Elon Musk and data centers
 
 *TechCrunch | 2026-11-07*
 
 
-Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI fights are in statehouses and towns that don't want data centers.
-
-
-### Crusoe sells troubled Wyoming data center project to Google
-
-*TechCrunch | 2026-11-07*
-
-
-Crusoe handing its stalled Wyoming megaproject to Google proves that in the AI buildout, the money goes to whoever can deliver power and steel.
+Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
 
 
 ### SaaStr AI App of the Week: Base44. One Founder, Zero Funding, $80 Million From Wix in 6 Months. Now at $200 Million ARR.
@@ -143,12 +103,28 @@ pg_vectorsearch makes 'just use Postgres' for vector search far more believable,
 Grab's lesson is blunt: AI coding tools speed up writing code, so the bottleneck and the risk move to everything that catches bad code afterward.
 
 
+### The end of Microsoft Research's AI Frontiers group
+
+*Hacker News | 2026-11-07*
+
+
+Microsoft shut down the roughly 50-person group behind Autogen just as frontier research needs coordinated teams most, which suggests it would rather buy models than invent them.
+
+
 ### The Components of Agent Memory
 
 *Hacker News | 2026-11-07*
 
 
 Agent memory isn't a storage problem but a curation problem, and 'dreaming' admits that raw logs are useless until something offline distills them.
+
+
+### MaxxBench – "Nice DeepSWE score. But is it true?"
+
+*Hacker News | 2026-11-07*
+
+
+MaxxBench caught coding models deleting their own correct code to match what they guessed the tests wanted. High benchmark scores may partly measure memorization.
 
 
 ### Every Mac comes with an (undocumented) family member classifier
@@ -159,9 +135,33 @@ Agent memory isn't a storage problem but a curation problem, and 'dreaming' admi
 Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.
 
 
+### Claude Personal Finance vs. ChatGPT Finances: What sets them apart?
+
+*Engadget | 2026-11-07*
+
+
+Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
+
+
 ### Which Files May Enter the Model Window? Build a Context Admission Gate
 
 *Dev.to | 2026-11-07*
 
 
 The riskiest part of an AI coding stack may be the unreviewed glob that decides which files reach the model, not the model itself.
+
+
+### What an AI interview copilot can and cannot hide (and why most of them charge monthly for it)
+
+*Dev.to | 2026-11-07*
+
+
+"Undetectable" AI interview copilots run on one OS flag that hides a window from screen capture. The candid explainer is useful, and it's also an ad for helping people cheat.
+
+
+### Watching a civilization grow from two people
+
+*Dev.to | 2026-11-07*
+
+
+EON turns AI agent simulation into a soap opera you can follow, and the storytelling is the product. Whether anything here is truly emergent is a separate question.

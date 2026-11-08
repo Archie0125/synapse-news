@@ -1,7 +1,7 @@
 # iPhone Duo
 
 
-*Mentioned in 7 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -10,8 +10,17 @@
 - **What is System Data on an iPhone's storage, and how much is normal?** (2026-11-07)
   - iPhone System Data is not a mystery. It is caches and leftovers that hurt more on 128GB phones now that Apple's storage upgrades cost more.
 
+- **The built-in iPhone app for creativity you may be ignoring (but shouldn't)** (2026-11-07)
+  - Apple's free Freeform app could replace many paid whiteboard subscriptions, but four years after launch, many iPhone users still have not opened it.
+
 - **iPhone Air 2 is coming next year, here’s why it has more to prove than ever** (2026-11-07)
   - The iPhone Air was a marvel of thinness that few people bought; now that iPhone Duo is the cool phone, the Air 2 has to be practical.
+
+- **Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]** (2026-11-07)
+  - The iPhone Duo has turned cases back into an experimental market, but many still depend on adhesive strips, which shows how unsettled foldable protection is.
+
+- **Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand** (2026-11-07)
+  - Anker's active cooling solves the real limit of MagSafe power banks, which is heat rather than speed, but $109.99 is a high price for a power bank.
 
 - **The iPhone Duo has more than 100,000 optimized apps, Apple says** (2026-11-06)
   - Apple's 100,000-app milestone for the iPhone Duo shows how much leverage it has over developers, but even badged apps like Instagram still feel unfinished.

@@ -1,20 +1,11 @@
 # EFF
 
 
-*Mentioned in 11 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
-
-- **When the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship** (2026-11-06)
-  - India isn't just censoring speech anymore. It's going after the people who count the censorship, and that takes away the public's only record of what disappeared.
-
-- **Presenting 'Desire Lines: Encoding Queer Digital Futures'** (2026-11-06)
-  - EFF's queer art anthology is a reminder that digital rights aren't only about fighting surveillance. They also protect the spaces where people find community and joy.
-
-- **Google Forcing AI on Students Is BS** (2026-11-06)
-  - Google's partial retreat on forcing Gemini into schools doesn't change the strategy: search is becoming a chatbot, and schools get no real way to opt out.
 
 - **EFF Submission to OHCHR Consultation on Child Rights and Safety in the Digital Environment** (2026-11-06)
   - EFF's argument to the UN is the one child-safety regulators keep ignoring: cutting kids off from the internet can make their whole lives less safe.

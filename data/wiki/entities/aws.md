@@ -1,14 +1,11 @@
 # AWS
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **Why AWS wants developers to stop babysitting their AI agents** (2026-11-07)
-  - AWS's Kiro bots give each agent its own persistent memory, and the bet is that developers will manage teams of agents rather than chat with one.
 
 - **AWS Ships Continuum for Code Vulnerabilities** (2026-11-06)
   - AWS Continuum goes after the real security problem, which is alert noise rather than detection, but per-finding pricing quietly ties AWS revenue to how many problems it finds.

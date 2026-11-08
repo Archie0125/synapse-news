@@ -1,7 +1,7 @@
 # Startups
 
 
-*72 articles in the last 7 days*
+*71 articles in the last 7 days*
 
 
 ## Latest
@@ -15,28 +15,20 @@
 Discogs' founder lives on an AeroPress and barely posts on social media, which fits a business built on people leaving the algorithm for physical media.
 
 
-### Sequoia shutting down its Scouts program marks the end of an era
+### Parents want safer phones for kids. These companies are answering the call.
 
 *TechCrunch | 2026-11-07*
 
 
-Sequoia killing the scout model it invented is an admission that wide deal flow doesn't beat conviction, and other firms will likely follow.
+Kid phones are booming because Apple and Google never built a good kids mode, and startups are now charging parents monthly to fill that gap.
 
 
-### From the front row to the hot seat — what the midterms mean for Big Tech
-
-*TechCrunch | 2026-11-07*
-
-
-Big Tech's sudden warmth toward Democrats is mostly rebranding, and the real AI fights are in statehouses and towns that don't want data centers.
-
-
-### Crusoe sells troubled Wyoming data center project to Google
+### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
 
 *TechCrunch | 2026-11-07*
 
 
-Crusoe handing its stalled Wyoming megaproject to Google proves that in the AI buildout, the money goes to whoever can deliver power and steel.
+Spy rumors grab the headlines, but the bigger story is an approved Nvidia chip buyer whose listed office turned out to be an empty shell.
 
 
 ### Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack
@@ -53,6 +45,14 @@ Binance says its CFO's exit was planned for six months, but announcing it a week
 
 
 The basic Kindle wins by default: AI-driven memory shortages pushed premium e-readers up $40 to $50, making 'good enough' at $169.99 the smart buy.
+
+
+### After the midterms, things are looking rocky for Elon Musk and data centers
+
+*TechCrunch | 2026-11-07*
+
+
+Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
 
 
 ### SaaStr AI App of the Week: Base44. One Founder, Zero Funding, $80 Million From Wix in 6 Months. Now at $200 Million ARR.

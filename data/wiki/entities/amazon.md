@@ -1,17 +1,14 @@
 # Amazon
 
 
-*Mentioned in 23 articles*
+*Mentioned in 22 articles*
 
 
 ## Recent Mentions
 
 
-- **The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now** (2026-11-08)
-  - Apple's new M6 MacBook Pro is a small upgrade with a $200 premium, which makes the discounted M5 the better buy for almost everyone.
-
-- **Apple’s M5 MacBook Air is down to its lowest price since July** (2026-11-08)
-  - A $200 MacBook Air discount sounds generous, but it only undoes Apple's summer price hike. It's a deal only compared with the new, higher price.
+- **PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM** (2026-11-08)
+  - A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.
 
 - **Amazon’s new basic Kindle proves you don’t need all the bells and whistles** (2026-11-07)
   - The basic Kindle wins by default: AI-driven memory shortages pushed premium e-readers up $40 to $50, making 'good enough' at $169.99 the smart buy.
@@ -51,3 +48,6 @@
 
 - **You'll soon be able to text Alexa to shop on Amazon** (2026-11-06)
   - Texting Alexa to shop sounds minor, but it puts Amazon's checkout inside your messages app, right next to your friends and family.
+
+- **Twelve South’s new Cablesnap charger has a built-in retractable USB-C cable** (2026-11-06)
+  - Twelve South's $50 Cablesnap isn't new tech, but folding a retractable cable, three ports and travel adapters into one brick is exactly the useful kind of boring.

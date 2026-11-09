@@ -1,7 +1,7 @@
 # Hugging Face
 
 
-*Mentioned in 7 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -9,12 +9,6 @@
 
 - **Postcards from tomorrow: Powering the agentic era through open source** (2026-11-05)
   - With closed models only 3.3% ahead, the model is no longer the moat for many workloads. The real advantage moves to whoever runs the best fine-tuning and RL loop on their own data.
-
-- **New NVIDIA Cosmos 3 Open Models for Interactive World Simulation** (2026-11-05)
-  - NVIDIA is giving away world models so robotics and self-driving teams generate their training data on NVIDIA GPUs, which is generous and strategic in equal measure.
-
-- **A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.** (2026-11-05)
-  - Phonon shows that good voice AI no longer needs the cloud, but only the 31M model is truly free and the licensing does the real gatekeeping.
 
 - **Dharma Field Extractor: Any Document In, Structured Fields in JSON Out** (2026-11-04)
   - A 2B-parameter specialist claiming to beat frontier LLMs at document field extraction is a sign that paying frontier prices for high-volume, narrow tasks no longer makes sense.

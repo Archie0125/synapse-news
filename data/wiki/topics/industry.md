@@ -1,34 +1,50 @@
 # Industry
 
 
-*181 articles in the last 7 days*
+*205 articles in the last 7 days*
 
 
 ## Latest
 
 
-### World Models Will Soon Be Inescapable. Here’s What You Need to Know
+### Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”
 
-*Wired | 2026-11-08*
-
-
-World models are AI's next big story, and Niantic's turn from Pokémon Go to building them shows the scarce resource is real-world data, not clever models.
+*TechCrunch | 2026-11-09*
 
 
-### Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory
-
-*Wired | 2026-11-08*
+Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
 
 
-Wandrd's magnetic strap is a real improvement on Peak Design's widely copied Anchor Links, which proves even a decade-old industry standard can be beaten.
+### Unlocking any car from X brand in most of the world
+
+*Hacker News | 2026-11-09*
 
 
-### The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now
-
-*Wired | 2026-11-08*
+The weakest point in a modern car may be a web domain anyone can enumerate, not the CAN bus, and automakers still treat it as an afterthought.
 
 
-Apple's new M6 MacBook Pro is a small upgrade with a $200 premium, which makes the discounted M5 the better buy for almost everyone.
+### RIP, Harvest
+
+*Hacker News | 2026-11-09*
+
+
+Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
+
+
+### 10 Apple products and features that transformed under Tim Cook's leadership
+
+*Engadget | 2026-11-09*
+
+
+Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
+
+
+### AMR Mechanical and Electrical Engineering — Ch.15: Chapter 15. EMI / EMC Design [KR]
+
+*Dev.to | 2026-11-09*
+
+
+As robots pack in more GPUs, sensors and motor drives, EMI stops being a certification checkbox and becomes a hidden safety risk most teams underestimate.
 
 
 ### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
@@ -71,22 +87,6 @@ Sound is still the most neglected part of a PC setup, and a decent pair of speak
 The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
 
 
-### WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM
-
-*Tom's Hardware | 2026-11-08*
-
-
-Blizzard's smooth launch shows that in 2026 you avoid server meltdowns by throwing memory at the problem, which costs more every month as DRAM prices climb.
-
-
-### Ukraine builds combat robots to hunt Russian troops in underground gas pipelines
-
-*Tom's Hardware | 2026-11-08*
-
-
-Underground pipelines are becoming a new front line, and Ukraine is betting that the soldier who goes in first should be a robot.
-
-
 ### PC's with 64GB of RAM plummet 18% as memory prices soar
 
 *Tom's Hardware | 2026-11-08*
@@ -95,57 +95,49 @@ Underground pipelines are becoming a new front line, and Ukraine is betting that
 AI data centers are buying up the DRAM supply, and the first casualty is the enthusiast PC: 64GB builds are shrinking for the first time.
 
 
-### Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout
+### Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy
 
-*The New Stack | 2026-11-08*
-
-
-Docusign learned that AI coding tools stall at about 18% productivity gains unless the company changes how it works and supports developers with internal champions.
+*Tom's Hardware | 2026-11-08*
 
 
-### TechCrunch Mobility: The Cybertruck experiment is over
-
-*TechCrunch | 2026-11-08*
+Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
 
 
-About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
+### Japanese arcades suffer week-long blackout following Sega server hack
+
+*Tom's Hardware | 2026-11-08*
 
 
-### SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’
-
-*TechCrunch | 2026-11-08*
+One server breach shut down arcade games from two companies for a week, showing that Japan's arcade industry depends on a single network with no fallback.
 
 
-SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
+### Hundreds arrested after Microsoft data center protest turns violent
+
+*Tom's Hardware | 2026-11-08*
 
 
-### Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced
-
-*SaaStr | 2026-11-08*
+Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.
 
 
-Stripe's Privy update shows a strategic buyer pays for how big a startup can grow after the deal. Revenue sets the price, but it isn't why they buy.
+### There’s no slowing down media’s pivot-to-video 2.0
+
+*The Verge | 2026-11-08*
 
 
-### Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor
-
-*SaaStr | 2026-11-08*
+Publishers are finally figuring out vertical video just as platforms move to the next format, so media is once again chasing a target it doesn't control.
 
 
-A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
+### Soul Glo’s Diaspora Problems is a hardcore record like no other
+
+*The Verge | 2026-11-08*
 
 
-### Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal
-
-*InfoQ | 2026-11-08*
+Ahead of a new Soul Glo album, Diaspora Problems still looks like the bar hardcore has to clear, because it never lets the energy drop.
 
 
-Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
+### Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server
+
+*ServeTheHome | 2026-11-08*
 
 
-### Writing as a thinking tool
-
-*Hacker News | 2026-11-08*
-
-
-Writing does more than record ideas. It upgrades your brain from a finite automaton to a Turing machine, which is a sharper argument than any productivity tip.
+Dell's R770AP is a strong 256-core Xeon 6 box, but Intel couldn't supply Clearwater Forest chips for testing and Diamond Rapids is far off. That's the real story.

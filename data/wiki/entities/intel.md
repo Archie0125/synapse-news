@@ -1,7 +1,7 @@
 # Intel
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,12 @@
 
 - **The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age** (2026-11-08)
   - Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
+
+- **Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server** (2026-11-08)
+  - Dell's R770AP is a strong 256-core Xeon 6 box, but Intel couldn't supply Clearwater Forest chips for testing and Diamond Rapids is far off. That's the real story.
+
+- **How long can you expect your PC RAM to last?** (2026-11-08)
+  - With AI data centers pushing RAM prices up, your old memory will probably outlast your patience before it ever physically wears out.
 
 - **ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids** (2026-11-07)
   - ASRock Rack's Diamond Rapids board ditches every standard PCIe slot for MCIO cables, a sign the classic expansion slot is dying in the data center.

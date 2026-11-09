@@ -1,11 +1,17 @@
 # Samsung
 
 
-*Mentioned in 19 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions
 
+
+- **Should you make the switch to Google Pixel from Samsung Galaxy?** (2026-11-08)
+  - The Pixel 11 won't outsell Samsung, but with less bloatware and faster updates it has the more convincing pitch.
+
+- **Samsung One UI removed the all apps button, but you can easily get it back** (2026-11-08)
+  - Samsung hid the Apps button to push gesture navigation, but keeping it as an option shows it knows habit beats design.
 
 - **Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program** (2026-11-08)
   - The One UI 9.5 beta is almost here, but only for unlocked phones in six countries. Samsung's beta is more of a members-only preview than a public test.
@@ -45,9 +51,3 @@
 
 - **Discord is about to get way, way faster on your Android phone** (2026-11-06)
   - Discord's Rust rewrite quietly admits years of bloat, and cutting launch time from five seconds to under two shows how much performance users had been giving up.
-
-- **Android XR glasses officially get a December release date [Video]** (2026-11-06)
-  - Android XR glasses are finally shipping in December, but Google is leaning on eyewear brands and a Joaquin Phoenix film to sell them, which suggests the main pitch is style rather than a must-have use case.
-
-- **The 7 Best Early Black Friday TV Deals (2026)** (2026-11-05)
-  - Paying full price for a TV is almost always a mistake, and record-low prices on the LG C6 and Samsung S95H show that premium OLED is becoming mainstream.

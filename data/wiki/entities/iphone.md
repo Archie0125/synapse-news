@@ -1,11 +1,17 @@
 # iPhone
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **The disadvantages of buying tech from other countries** (2026-11-09)
+  - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
+
+- **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
+  - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
 
 - **6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More** (2026-11-08)
   - The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.

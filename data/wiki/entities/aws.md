@@ -1,7 +1,7 @@
 # AWS
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal** (2026-11-08)
   - Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
+
+- **Babelfish TDS Flaws: A Practical Patch Plan for the Pre-Auth RCE Path** (2026-11-08)
+  - The Babelfish pre-auth RCE is a reminder that compatibility layers add attack surface: adding SQL Server support to Postgres quietly opened a door before login.
 
 - **AWS Ships Continuum for Code Vulnerabilities** (2026-11-06)
   - AWS Continuum goes after the real security problem, which is alert noise rather than detection, but per-finding pricing quietly ties AWS revenue to how many problems it finds.

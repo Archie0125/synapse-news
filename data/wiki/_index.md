@@ -1,25 +1,25 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-08*
+*Last updated: 2026-11-09*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-08](daily/2026-11-08.md)
+- [Daily Digest 2026-11-09](daily/2026-11-09.md)
 
 
 ## Recent Analysis
 
-- [AI最難搞定的不是輝達，是鄰居：美國選民用40比1否決資料中心](analysis/2026-11-08-voters-just-became-ai-s-hardest-bottleneck-and-400m-couldn-t-zh.md)
+- [41 場公投輸 40 場：AI 資料中心的天敵不是缺電，是選民](analysis/2026-11-09-voters-just-became-ai-s-scarcest-resource-and-nvidia-already-zh.md)
 
-- [Voters Just Became AI's Hardest Bottleneck, and $400M Couldn't Buy Past It](analysis/2026-11-08-voters-just-became-ai-s-hardest-bottleneck-and-400m-couldn-t-en.md)
+- [Voters Just Became AI's Scarcest Resource, and Nvidia Already Knows It](analysis/2026-11-09-voters-just-became-ai-s-scarcest-resource-and-nvidia-already-en.md)
 
-- [OpenAI 募資打六折、Anthropic 成長腰斬：AI 不是泡沫破了，是開始被查帳了](analysis/2026-11-08-the-ai-bubble-isn-t-popping-it-s-being-asked-to-show-its-rec-zh.md)
+- [閉源模型的護城河只撐了七個月：免費 AI 駭客時代正式開打](analysis/2026-11-09-the-hacking-gap-closed-in-seven-months-defenders-are-still-p-zh.md)
 
-- [The AI Bubble Isn't Popping. It's Being Asked to Show Its Receipts.](analysis/2026-11-08-the-ai-bubble-isn-t-popping-it-s-being-asked-to-show-its-rec-en.md)
+- [The Hacking Gap Closed in Seven Months. Defenders Are Still Patching](analysis/2026-11-09-the-hacking-gap-closed-in-seven-months-defenders-are-still-p-en.md)
 
-- [黃仁勳的間諜疑雲是煙霧彈，真正的炸彈是那間空辦公室](analysis/2026-11-08-nvidia-s-china-problem-isn-t-the-spy-it-s-the-empty-office-zh.md)
+- [OpenAI 只募到三分之一：AI 沒泡沫化，是模型開始賣不到好價錢](analysis/2026-11-09-openai-s-11b-round-isn-t-a-bubble-popping-it-s-ai-labs-prici-zh.md)
 
 
 ## Topics
@@ -65,6 +65,8 @@
 
 - [Android Xr](entities/android-xr.md)
 
+- [Android](entities/android.md)
+
 - [Anker](entities/anker.md)
 
 - [Anthony Wood](entities/anthony-wood.md)
@@ -82,5 +84,3 @@
 - [Apple One](entities/apple-one.md)
 
 - [Apple Store](entities/apple-store.md)
-
-- [Apple Tv](entities/apple-tv.md)

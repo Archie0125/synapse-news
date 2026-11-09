@@ -7,28 +7,20 @@
 ## Latest
 
 
-### TechCrunch Mobility: The Cybertruck experiment is over
+### Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”
 
-*TechCrunch | 2026-11-08*
-
-
-About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
+*TechCrunch | 2026-11-09*
 
 
-### SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’
-
-*TechCrunch | 2026-11-08*
+Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
 
 
-SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
+### RIP, Harvest
+
+*Hacker News | 2026-11-09*
 
 
-### Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me
-
-*TechCrunch | 2026-11-08*
-
-
-Ninja's AutoBarista makes good espresso without any barista skill, but automating every decision also takes away the control some coffee lovers want.
+Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
 
 
 ### He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.
@@ -85,6 +77,14 @@ The Peter Principle missed the dangerous part: people promoted past their compet
 
 
 OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
+
+
+### Ask HN: What are you working on? (November 2026)
+
+*Hacker News | 2026-11-08*
+
+
+HN's monthly show-and-tell now reads like an agent prompt library: some projects are pitched as URLs you paste into an AI rather than products you use yourself.
 
 
 ### I built a Korean real-estate data tool in 2 days. Then I found 7 others just like it.

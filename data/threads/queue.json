@@ -457,5 +457,151 @@
     "status": "pending",
     "scheduled_for": "2026-11-10T05:27:59.025452+00:00",
     "queued_at": "2026-11-08T18:27:59.025452+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "黃仁勳的外遇對象疑似是中國間諜，大家都在聊八卦。\n\n但真正該問的是：華府為什麼等了一年才出手？\n\n全世界最戰略性的晶片公司，執行長身邊可能出現反情報漏洞，董事會跟國會卻像在追劇。\n\nNvidia 沒有明顯的接班人，這才是最可怕的地方。\n\n我賭董事會調查結束前，Nvidia 會先端出一份接班計畫。",
+    "article_url": "/zh/industry/2026-11-09-huang-ren-xun-de-zhen-zheng-wei-ji-bu-shi-wai-yu-er-shi-hua-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-09T06:32:18.473022+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T08:00:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Yale's Jeffrey Sonnenfeld puts Jensen Huang's odds of keeping his job at 50-50.\n\nThat number isn't really about the affair. It's about succession.\n\nApple had Cook waiting behind Jobs. Nvidia has Jensen, and then a blank org chart.\n\nWhen one person is the whole strategy, a personal scandal becomes a supply-chain risk.\n\nThe first casualty here won't be Huang. It'll be the 'founder forever' premium baked into every AI stock.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-09T06:32:18.473063+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T10:20:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 代理一天可以往 repo 丟幾十個 PR，你的團隊一天審得完幾個？\n\n寫程式已經不值錢了。瓶頸早就移到審查、治理，還有出事時能不能一鍵 rollback。\n\nGoldman 撤掉 Claude Code、AI 代理亂刪檔案，問題都不是模型不夠聰明，是護欄沒裝好。\n\n接下來最搶手的工程師，不是寫最快的那個，是最敢說「這個不能 merge」的那個。",
+    "article_url": "/zh/ai-ml/2026-11-09-xie-cheng-shi-yi-jing-bu-zhi-qian-neng-yi-jian-rollback-cai-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-09T06:32:18.473103+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T12:40:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Data center restrictions passed in 40 of 41 ballot measures this midterm cycle.\n\nThat's not a backlash. That's a mandate.\n\nBig Tech spent two years worrying about GPUs and power. Turns out the scarcest input is a 'yes' from the people living next to the substation.\n\nYou can buy chips. You can't buy a zoning board's mood.\n\nThe next gigawatt goes to whoever offers towns the biggest electricity-bill rebate.",
+    "article_url": "/en/policy/2026-11-09-voters-just-became-ai-s-scarcest-resource-and-nvidia-already-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T06:32:18.473070+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T15:00:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "OpenAI 目標募 300 億美元，最後只拿到 110 億，1.25 兆的估值也比預期低。\n\n這不是泡沫破掉，是模型開始賣不到好價錢。\n\nRamp 的數據很直白：企業的 token 用量一直漲，AI 支出卻持平。\n\n推論越便宜，用戶越爽，實驗室的營收故事就越難講。\n\nAnthropic 偏偏這時候要 IPO。\n\n誰先承認自己是水電公司而不是軟體公司，誰就活得比較久。",
+    "article_url": "/zh/ai-ml/2026-11-09-openai-zhi-mu-dao-san-fen-zhi-yi-ai-mei-pao-mo-hua-shi-mo-xi-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T06:32:18.473087+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T17:20:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Token usage up. Enterprise AI spend flat.\n\nThat's the whole story in six words.\n\nCheaper inference is great for customers and terrible for anyone valued like a software monopoly. OpenAI asked for $30B and walked away with $11B.\n\nThe market just priced frontier models like electricity.\n\nAnthropic's IPO roadshow will get one question on repeat: what's your margin when the price per token keeps falling?",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T06:32:18.473097+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T19:40:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Amazon blocked Meta's Muse from shopping its site. Then launched its own shopping agent.\n\nThat's the entire agent war in two moves.\n\nNobody is really fighting over the best model. They're fighting over who stands between you and the checkout button.\n\nIf your agent shops on Amazon, Amazon wants to be your agent.\n\nBy next holiday season, 'which agents can buy here' becomes the new 'which cards do you accept.'",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T06:32:18.473160+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T22:00:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "美國期中選舉，41 個限制資料中心的公投過了 40 個。阿姆斯特丹還有人上街暴力抗議。\n\n台灣別以為事不關己。\n\n我們自己電都快不夠用，AI 機房要搶電、搶水、搶土地，誰願意蓋在自己家旁邊？\n\n晶片可以靠台積電，民意沒人能代工。\n\n下一場地方選舉，「你家附近要不要蓋 AI 機房」絕對會變成辯論題。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T06:32:18.473082+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T00:20:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "GitHub, GitLab, Cursor and Google all shipped review and governance tools for AI agents within weeks of each other. Not a coincidence.\n\nThe coding model race is basically settled. The guardrail race just started.\n\nGoldman pulling Claude Code wasn't about code quality. It was about who's accountable when an agent deletes the wrong folder.\n\nThe next dev tools unicorn sells an undo button, not a smarter autocomplete.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T06:32:18.473125+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T02:40:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Free Chinese models now hack almost as well as gated frontier models. The gap closed in seven months.\n\nMeanwhile, hundreds of autonomous AI hacking tools sit exposed online, and defenders are still running patch cycles measured in weeks.\n\nGating the model was the plan. It isn't anymore.\n\nPalo Alto reportedly paying $500M for Clutch tells you where the money thinks the next breach starts: inside your own agents.",
+    "article_url": "/en/ai-ml/2026-11-09-the-hacking-gap-closed-in-seven-months-defenders-are-still-p-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T06:32:18.473131+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T05:00:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "車廠花幾百萬強化 ECU，管理後台卻掛在一個下午就翻得出來的子網域上。\n\n現在再加上 AI：以前資深駭客要花一週找的洞，自動化工具一個晚上就掃完。\n\n攻擊方的成本在崩盤，防守方的修補還在跑簽核流程。\n\n你的車鑰匙早就不在你口袋裡，在別人家的 API 上。\n\n下一起大規模汽車資安事件，我賭不是人寫的，是 AI 代理自己跑出來的。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-09T06:32:18.473139+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T07:20:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "Meta、Amazon、Apple、Google、Perplexity、Airbnb，全部都在搶「幫你買東西的 AI 代理」。\n\n但瀏覽器代理最關鍵的功能不是自主，是它懂得停下來說「換你了」。\n\nDeepSeek Harness 新版讓代理自己開瀏覽器，真正值得看的是：它什麼時候把方向盤還給你。\n\n誰把暫停鍵設計得最好，誰才拿得到使用者的信用卡。",
+    "article_url": "/zh/ai-ml/2026-11-09-dsh-agent-enhancer-0-3-9-the-agent-in-your-deepseek-harness-zh/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-09T06:32:18.473149+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T09:40:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI data centers are eating the world's DRAM, and your next laptop is paying for it.\n\n64GB PC builds are shrinking. E-readers got pricier. Oppo's Find X10 Ultra reportedly got killed outright.\n\nWoW: Forever just launched on 251TB of RAM. Compute stopped being the hard part years ago. Memory is the tax now.\n\nPrediction: 2027 flagships ship with less RAM than 2026's, and marketing calls it 'efficiency.'",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-09T06:32:18.473165+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T12:00:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "記憶體荒來了。\n\nAI 資料中心把 DRAM 吸光，64GB 的電腦越來越難組，電子書閱讀器漲價，Oppo Find X10 Ultra 傳出直接被砍。\n\n以前是挖礦搶顯卡，現在是 AI 搶記憶體。\n\n差別在於：這次不會那麼快退燒。\n\n想組電腦的人，你現在看到的記憶體價格，很可能是未來兩年最便宜的。",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-09T06:32:18.473173+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T14:20:00+00:00",
+    "queued_at": "2026-11-09T06:32:18.475323+00:00"
   }
 ]

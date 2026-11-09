@@ -1,14 +1,44 @@
 # GitHub
 
 
-*Mentioned in 12 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions
 
 
+- **AMR Mechanical and Electrical Engineering — Ch.14: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - An IP rating is a lab test result, not a durability promise. Outdoor robot buyers who confuse the two will learn the hard way.
+
+- **AMR Mechanical and Electrical Engineering — Ch.13: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - A wiring harness looks like assembly work but is really a reliability system, and a chapter on it is overdue in robotics education.
+
+- **AMR Mechanical and Electrical Engineering — Ch.12: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - An emergency stop that depends on software, the cloud, or the main computer is not an emergency stop, and the chapter gets this exactly right.
+
+- **AMR Mechanical and Electrical Engineering — Ch.11: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - The DC-DC converter is the least glamorous part of an AMR, and the one that decides whether the AI computer gets clean, stable power.
+
+- **AMR Mechanical and Electrical Engineering — Ch.10: Chapter 10. Battery and BMS [KR]** (2026-11-09)
+  - In mobile robots, the battery is not a power supply but a design constraint that shapes the chassis, center of gravity, and business model.
+
+- **AMR Mechanical and Electrical Engineering — Ch.09: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - An AMR's power architecture is the plumbing nobody demos, yet it sets runtime, safety, and how often a factory line goes down.
+
+- **AMR Mechanical and Electrical Engineering — Ch.08: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - Being able to stop safely may matter more than moving efficiently, and a robot's brakes say more about its maturity than its AI demo does.
+
+- **AMR Mechanical and Electrical Engineering — Ch.07: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - In industrial AMRs, the motor driver and control algorithm often matter more than the motor itself. Ride quality comes from the electronics, not the metal.
+
+- **AMR Mechanical and Electrical Engineering — Ch.06: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
+  - Picking the motor is a bet on maintenance costs as much as on performance, which is why industrial AMRs dropped brushed DC motors for BLDC.
+
 - **Entire's Git Forge Rethinks Git Collaboration for Coding Agents** (2026-11-08)
   - Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
+
+- **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
+  - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
 
 - **GitHub New pull request overview page in public preview** (2026-11-07)
   - GitHub's new PR overview admits the real bottleneck is now reviewing code, not writing it, but a better merge box won't fix review overload.
@@ -21,24 +51,3 @@
 
 - **GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies** (2026-11-06)
   - GitHub Actions lockfiles fix a supply-chain hole that should never have existed, and the bigger win is finally pinning transitive dependencies that most teams never saw.
-
-- **We've built an open-source feature flag server for 11 years** (2026-11-06)
-  - Unleash's 11-year run shows feature flags are now basic infrastructure, and the real business sits in the enterprise governance layer, not the open-source core.
-
-- **Beyond code generation: A developer’s guide to agentic engineering** (2026-11-06)
-  - GitHub admits the AI coding bottleneck has moved from writing code to reviewing it, and its answer is to add even more agents.
-
-- **Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign** (2026-11-06)
-  - Remote Agents are the real story in Google's Antigravity update because coding agents can keep working after you close your laptop, while the redesign and Voice Mode matter much less.
-
-- **Inside GitHub’s new Git storage architecture** (2026-11-05)
-  - GitHub is rebuilding Git storage for agents, not people. 7,200 pushes per second to one repo shows what GitHub expects development traffic to look like.
-
-- **Accessibility statements now have a home on GitHub** (2026-11-05)
-  - ACCESSIBILITY.md is a small change with real leverage: once accessibility sits next to SECURITY.md, it becomes a default part of every project instead of an afterthought.
-
-- **Arnis turns any place on Earth into a Minecraft world** (2026-11-03)
-  - A teenager's two-week Minecraft hack reached nearly 900,000 downloads, showing that the best open source starts as play and grows when the community is allowed to lead.
-
-- **Game Off 2026: The theme is SHIFT** (2026-11-01)
-  - GitHub's 14th Game Off picks SHIFT, a deliberately open theme. In a year when AI writes code, a game jam is still the clearest test of human creativity.

@@ -1,10 +1,42 @@
 # Cybersecurity
 
 
-*51 articles in the last 7 days*
+*60 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Unlocking any car from X brand in most of the world
+
+*Hacker News | 2026-11-09*
+
+
+The weakest point in a modern car may be a web domain anyone can enumerate, not the CAN bus, and automakers still treat it as an afterthought.
+
+
+### Why your USB device isn't showing up on your MacBook and how you can fix it
+
+*Engadget | 2026-11-09*
+
+
+Your missing USB device often isn't broken. macOS's accessory permission prompt is the hidden culprit, and it shows how security quietly costs usability.
+
+
+### Those white cameras mounted above traffic lights serve a little-known purpose
+
+*Engadget | 2026-11-09*
+
+
+Most cameras over intersections exist to manage traffic, not to watch you, but Flock-style plate readers have earned the public's suspicion of all of them.
+
+
+### AMR Mechanical and Electrical Engineering — Ch.12: Contents {#contents .TOC-Heading} [KR]
+
+*Dev.to | 2026-11-09*
+
+
+An emergency stop that depends on software, the cloud, or the main computer is not an emergency stop, and the chapter gets this exactly right.
 
 
 ### Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away
@@ -15,12 +47,44 @@
 A 290-gram receiver that taps Russian drone video is clever, but Ukraine's own adviser warns that trusting a gadget too much could get soldiers killed.
 
 
+### Japanese arcades suffer week-long blackout following Sega server hack
+
+*Tom's Hardware | 2026-11-08*
+
+
+One server breach shut down arcade games from two companies for a week, showing that Japan's arcade industry depends on a single network with no fallback.
+
+
 ### He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.
 
 *TechCrunch | 2026-11-08*
 
 
 Stephen Ward's view that VCs should sell on the way up is more honest than most of the industry's IPO talk. Now he has to prove it as Brightmind's only GP.
+
+
+### Outlook.com is rejecting email from domains without DMARC
+
+*Hacker News | 2026-11-08*
+
+
+Microsoft quietly tightened its email rules for everyone, not just bulk senders. The worst part is that bounces are partial, so most victims won't notice.
+
+
+### Goldman Sachs is pulling Claude Code from its bankers and traders
+
+*Hacker News | 2026-11-08*
+
+
+Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
+
+
+### NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts
+
+*Engadget | 2026-11-08*
+
+
+NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.
 
 
 ### How to set up Google Authenticator on a new phone
@@ -45,6 +109,30 @@ Spam calls aren't just bad luck. Most of them come from a legal data-broker mark
 
 
 Using a private Telegram bot as a remote control for a laptop agent is a smart low-tech idea, but it turns the bot token into your most sensitive credential.
+
+
+### CompTIA Network+ N10-009: The Exam That Rewards Troubleshooters, Not Memorizers
+
+*Dev.to | 2026-11-08*
+
+
+Network+ N10-009 punishes flashcard cramming. Knowing the names of the OSI layers isn't understanding networks, and the exam's troubleshooting weight is built to expose that gap.
+
+
+### Babelfish TDS Flaws: A Practical Patch Plan for the Pre-Auth RCE Path
+
+*Dev.to | 2026-11-08*
+
+
+The Babelfish pre-auth RCE is a reminder that compatibility layers add attack surface: adding SQL Server support to Postgres quietly opened a door before login.
+
+
+### macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how
+
+*9to5Mac | 2026-11-08*
+
+
+Apple is closing a convenient Full Disk Access shortcut after AI agents abused it, but leaving drag-and-drop open makes this look more like friction than real protection.
 
 
 ### Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot
@@ -77,91 +165,3 @@ Coldframe shows that the scariest attack surface in 2026 isn't AI. It's a superm
 
 
 Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.
-
-
-### Apple’s grey list: Words and phrases your iPhone won’t help you spell
-
-*Hacker News | 2026-11-07*
-
-
-Apple's hidden list of 100,000+ blocked phrases isn't outright censorship, but quietly steering what users type, including political phrases, is a power that deserves scrutiny.
-
-
-### Snapchat's Find Friends feature will be off by default for UK users under 18
-
-*Engadget | 2026-11-07*
-
-
-Snapchat turned off friend discovery for UK minors only after Ofcom pushed, a sign that regulation, not voluntary safety work, is changing platform design.
-
-
-### How iOS can warn you when one of your passwords shows up in a data leak
-
-*Engadget | 2026-11-07*
-
-
-An iOS leaked-password alert is a reason to change that password, not proof that your account has been hacked.
-
-
-### Which Files May Enter the Model Window? Build a Context Admission Gate
-
-*Dev.to | 2026-11-07*
-
-
-The riskiest part of an AI coding stack may be the unreviewed glob that decides which files reach the model, not the model itself.
-
-
-### What an AI interview copilot can and cannot hide (and why most of them charge monthly for it)
-
-*Dev.to | 2026-11-07*
-
-
-"Undetectable" AI interview copilots run on one OS flag that hides a window from screen capture. The candid explainer is useful, and it's also an ad for helping people cheat.
-
-
-### The OpenSSH Flaw in Alpine Linux: What to Do While You Wait to Patch
-
-*Dev.to | 2026-11-07*
-
-
-The interim hardening advice here is solid, but a vulnerability write-up with no CVE, version or confirmed mechanism is a reason to worry, not a plan.
-
-
-### Remove your personal info from the web (and stop it coming back)
-
-*9to5Mac | 2026-11-07*
-
-
-This sponsored Incogni post makes a fair point: deleting your data from brokers is a one-time fix for an ongoing problem, so the system is built to wear people down.
-
-
-### Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days
-
-*9to5Mac | 2026-11-07*
-
-
-AI made Mac admins faster at shipping changes but not at undoing them, so the real bottleneck in IT automation is now rollback.
-
-
-### Free Chinese AI Models Are Getting Scary Good at Hacking
-
-*Wired | 2026-11-06*
-
-
-Free, downloadable Chinese models now nearly match gated frontier models at hacking. The 'buy time' logic behind restricted releases just ran out of time.
-
-
-### Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist
-
-*Tom's Hardware | 2026-11-06*
-
-
-When a pallet of AI chips is worth twice as much abroad, an $11.4 million truck heist is not an anomaly. It is basic black-market economics.
-
-
-### Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM
-
-*Tom's Hardware | 2026-11-06*
-
-
-Leaking Zelda on launch day is embarrassing for Nintendo, but early retail shipments are the bigger failure, and broken emulation is its only temporary protection.

@@ -1,17 +1,11 @@
 # Tesla
 
 
-*Mentioned in 8 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
-
-- **TechCrunch Mobility: The Cybertruck experiment is over** (2026-11-08)
-  - About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
-
-- **SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’** (2026-11-08)
-  - SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
 
 - **The Cybertruck’s Death Is Actually Great News for EVs** (2026-11-06)
   - The Cybertruck's death isn't just Tesla's embarrassment: it signals that oversized EVs were a dead end and that battery cells belong in smaller, cheaper cars.

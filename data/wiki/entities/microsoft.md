@@ -1,11 +1,20 @@
 # Microsoft
 
 
-*Mentioned in 8 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **Open-source GPU task manager reveals exactly what's eating your VRAM** (2026-11-08)
+  - A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.
+
+- **Hundreds arrested after Microsoft data center protest turns violent** (2026-11-08)
+  - Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.
+
+- **Outlook.com is rejecting email from domains without DMARC** (2026-11-08)
+  - Microsoft quietly tightened its email rules for everyone, not just bulk senders. The worst part is that bounces are partial, so most victims won't notice.
 
 - **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
   - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.

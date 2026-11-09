@@ -1,11 +1,17 @@
 # Apple Watch
 
 
-*Mentioned in 3 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
+  - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
+
+- **5 unexpected uses for your old smartwatch** (2026-11-08)
+  - Turning an old smartwatch into an AI voice remote is a clever reuse, but it's also a reminder that short software support is what fills those drawers.
 
 - **How often should you restart your Fitbit watch?** (2026-11-07)
   - Restarting a Fitbit is harmless and often fixes glitches, but the real lesson is not to confuse restart with reset, which wipes your data.

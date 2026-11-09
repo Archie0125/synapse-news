@@ -1,18 +1,50 @@
 # Policy
 
 
-*55 articles in the last 7 days*
+*57 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses
+### Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”
+
+*TechCrunch | 2026-11-09*
+
+
+Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
+
+
+### Those white cameras mounted above traffic lights serve a little-known purpose
+
+*Engadget | 2026-11-09*
+
+
+Most cameras over intersections exist to manage traffic, not to watch you, but Flock-style plate readers have earned the public's suspicion of all of them.
+
+
+### The disadvantages of buying tech from other countries
+
+*Engadget | 2026-11-09*
+
+
+Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
+
+
+### Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy
 
 *Tom's Hardware | 2026-11-08*
 
 
-If a reporter can find empty offices behind approved H200 buyers, US export controls on AI chips look more like a formality than a real check.
+Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
+
+
+### Hundreds arrested after Microsoft data center protest turns violent
+
+*Tom's Hardware | 2026-11-08*
+
+
+Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.
 
 
 ### Person of Interest
@@ -23,12 +55,28 @@ If a reporter can find empty offices behind approved H200 buyers, US export cont
 A nostalgic rewatch of Person of Interest stings for one reason: the show's all-seeing Machine no longer looks like science fiction.
 
 
-### Your digital game library is yours, until it's not
+### Nvidia CEO Jensen Huang's letter to staff about affair
+
+*Hacker News | 2026-11-08*
+
+
+The affair is a personal matter. The real headline is one paragraph about 'national security concerns' and an independent board investigation at the world's most strategic chip company.
+
+
+### What is the Slate Telematics Module and what can it be used for?
 
 *Engadget | 2026-11-08*
 
 
-NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is really a rental with an undisclosed end date.
+Slate makes connectivity an optional add-on, offering privacy by default at a time when most cars quietly track their drivers.
+
+
+### NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts
+
+*Engadget | 2026-11-08*
+
+
+NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.
 
 
 ### How do spam callers get your number in the first place?
@@ -37,6 +85,22 @@ NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is really 
 
 
 Spam calls aren't just bad luck. Most of them come from a legal data-broker market you probably signed up for when you joined some loyalty program.
+
+
+### AI music can be difficult to detect, but there are some telltale signs
+
+*Engadget | 2026-11-08*
+
+
+Spotting AI music is becoming a listening skill, but calling anything that sounds off "AI" can unfairly hurt real artists.
+
+
+### macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how
+
+*9to5Mac | 2026-11-08*
+
+
+Apple is closing a convenient Full Disk Access shortcut after AI agents abused it, but leaving drag-and-drop open makes this look more like friction than real protection.
 
 
 ### He Ran on Fighting Data Centers. Now, He’s Going to Congress
@@ -101,67 +165,3 @@ The battery inside your gaming console matters more at the airport than the cons
 
 
 Snapchat turned off friend discovery for UK minors only after Ofcom pushed, a sign that regulation, not voluntary safety work, is changing platform design.
-
-
-### How Sub‑Millisecond AI is Revolutionizing Factories, Trucks, and Cars in 2026
-
-*Dev.to | 2026-11-07*
-
-
-A sweeping claim that one decoupled predictor runs Waymo, Siemens, GE and Amazon, with neat regulation names and tidy gains but no sources. Treat it as speculation until proven.
-
-
-### De l'annonce clinique à la capside en RV : pourquoi le lenacapavir à 40 $ change la donne — et comment NexoPeek rend son…
-
-*Dev.to | 2026-11-07*
-
-
-A $40-a-year generic lenacapavir is the real headline. The VR molecular viewer is clever engineering, but it's riding on a public-health story much bigger than itself.
-
-
-### Remove your personal info from the web (and stop it coming back)
-
-*9to5Mac | 2026-11-07*
-
-
-This sponsored Incogni post makes a fair point: deleting your data from brokers is a one-time fix for an ongoing problem, so the system is built to wear people down.
-
-
-### How Stephen Miller Schemed His Way to the Top
-
-*Wired | 2026-11-06*
-
-
-After a midterm wipeout, Trump picked loyalty over course correction by making Stephen Miller chief of staff. That's a bet on fighting investigations, not winning voters back.
-
-
-### AI Companies Really, Really Want to Buy Your Work Files and Emails
-
-*Wired | 2026-11-06*
-
-
-AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
-
-
-### Protesters storm Microsoft AI data center construction site
-
-*Tom's Hardware | 2026-11-06*
-
-
-The Amsterdam protest shows that AI's biggest bottleneck in Europe may soon be public consent rather than GPUs or power.
-
-
-### Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims
-
-*Tom's Hardware | 2026-11-06*
-
-
-Nvidia is using its cloud partner status as a soft export-control tool, making itself the enforcer to keep Washington from imposing harsher rules.
-
-
-### Lame-duck Congress might actually do something: speed up energy projects
-
-*The Verge | 2026-11-06*
-
-
-Permitting reform could cut power bills, but rushed through a lame-duck session it risks becoming a fast lane for AI data centers to skip local scrutiny.

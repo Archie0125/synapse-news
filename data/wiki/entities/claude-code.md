@@ -1,14 +1,20 @@
 # Claude Code
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
 
+- **How I Fight AI Brain Fry** (2026-11-08)
+  - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.
+
 - **Goodbye Claude, hello Pi** (2026-11-08)
   - A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
+
+- **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
+  - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
 
 - **I put 7 Claude Code agents in my research lab's group chat with Switch. Here's how to set it up (and what broke on Windows)** (2026-11-07)
   - Seven agents in a lab chat sounds like overkill, but the killer feature is one line: someone has been blocked since Nov 3, and nobody noticed.

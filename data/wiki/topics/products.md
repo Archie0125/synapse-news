@@ -1,26 +1,74 @@
 # Products
 
 
-*328 articles in the last 7 days*
+*365 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory
+### RIP, Harvest
 
-*Wired | 2026-11-08*
-
-
-Wandrd's magnetic strap is a real improvement on Peak Design's widely copied Anchor Links, which proves even a decade-old industry standard can be beaten.
+*Hacker News | 2026-11-09*
 
 
-### The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now
-
-*Wired | 2026-11-08*
+Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
 
 
-Apple's new M6 MacBook Pro is a small upgrade with a $200 premium, which makes the discounted M5 the better buy for almost everyone.
+### Why your USB device isn't showing up on your MacBook and how you can fix it
+
+*Engadget | 2026-11-09*
+
+
+Your missing USB device often isn't broken. macOS's accessory permission prompt is the hidden culprit, and it shows how security quietly costs usability.
+
+
+### Which Canon Cameras Are Compatible With Its Free 3D Photo Software?
+
+*Engadget | 2026-11-09*
+
+
+Canon's free Dual Pixel 3D app is a clever reuse of autofocus hardware, but the 'initially free' fine print reads like a subscription in waiting.
+
+
+### Those white cameras mounted above traffic lights serve a little-known purpose
+
+*Engadget | 2026-11-09*
+
+
+Most cameras over intersections exist to manage traffic, not to watch you, but Flock-style plate readers have earned the public's suspicion of all of them.
+
+
+### The disadvantages of buying tech from other countries
+
+*Engadget | 2026-11-09*
+
+
+Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
+
+
+### How to use your laptop as a second monitor
+
+*Engadget | 2026-11-09*
+
+
+Your old laptop can be a free second monitor, but HDMI won't do it. Wireless casting is the practical route, as long as you accept the lag.
+
+
+### 10 Apple products and features that transformed under Tim Cook's leadership
+
+*Engadget | 2026-11-09*
+
+
+Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
+
+
+### DSH Agent Enhancer 0.3.9: the agent in your DeepSeek Harness desktop can now drive its own browser
+
+*Dev.to | 2026-11-09*
+
+
+Giving a DeepSeek desktop agent its own browser is powerful, and the human-in-the-loop guardrails for logins and approvals are what make it worth trusting.
 
 
 ### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
@@ -47,89 +95,33 @@ Sound is still the most neglected part of a PC setup, and a decent pair of speak
 The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
 
 
-### WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM
+### PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM
 
 *Tom's Hardware | 2026-11-08*
 
 
-Blizzard's smooth launch shows that in 2026 you avoid server meltdowns by throwing memory at the problem, which costs more every month as DRAM prices climb.
+A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.
 
 
-### Chatbots might be coming to Apple’s HomeView
+### Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage
+
+*Tom's Hardware | 2026-11-08*
+
+
+Nvidia's 8800 GTX anniversary demo is nostalgia that requires an RTX 5080 for the recommended experience, which says a lot about modern graphics requirements.
+
+
+### Logitech G502 X Lightspeed Review: No lights, same price
+
+*Tom's Hardware | 2026-11-08*
+
+
+The G502 X Lightspeed is a strong mouse, but at the same $159.99 list price as the RGB Plus model, you're paying the same for less.
+
+
+### There’s no slowing down media’s pivot-to-video 2.0
 
 *The Verge | 2026-11-08*
 
 
-A Conversational Apps flag in iOS 27.3 code hints Apple may let third-party chatbots into HomeView, a sign it is opening the smart home hub rather than relying only on Siri.
-
-
-### Apple’s M5 MacBook Air is down to its lowest price since July
-
-*The Verge | 2026-11-08*
-
-
-A $200 MacBook Air discount sounds generous, but it only undoes Apple's summer price hike. It's a deal only compared with the new, higher price.
-
-
-### Perplexity’s AI agents keep working after you close the tab
-
-*The New Stack | 2026-11-08*
-
-
-Perplexity's Teammates agents keep working after you close the tab. The hard part isn't autonomy but keeping multiple agents in sync on state and permissions.
-
-
-### TechCrunch Mobility: The Cybertruck experiment is over
-
-*TechCrunch | 2026-11-08*
-
-
-About 1 million reservations turned into roughly 71,000 sales. The Cybertruck shows that fan excitement at a launch event is not the same as demand.
-
-
-### Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me
-
-*TechCrunch | 2026-11-08*
-
-
-Ninja's AutoBarista makes good espresso without any barista skill, but automating every decision also takes away the control some coffee lovers want.
-
-
-### Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal
-
-*InfoQ | 2026-11-08*
-
-
-Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
-
-
-### Cloudflare Scales D1 Control Plane to Millions of Databases
-
-*InfoQ | 2026-11-08*
-
-
-Cloudflare's D1 redesign is a lesson in boring engineering: heartbeats, idempotency, and eventual consistency beat clever central coordination at millions of databases.
-
-
-### Goodbye Claude, hello Pi
-
-*Hacker News | 2026-11-08*
-
-
-A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
-
-
-### Your digital game library is yours, until it's not
-
-*Engadget | 2026-11-08*
-
-
-NBA 2K25 losing MyCareer after two years proves a $99.99 digital game is really a rental with an undisclosed end date.
-
-
-### You can attach your Fitbit Air to almost any old-school watch
-
-*Engadget | 2026-11-08*
-
-
-The screenless Fitbit Air quietly solves the wearable's biggest problem: you can keep your mechanical watch and still track your health.
+Publishers are finally figuring out vertical video just as platforms move to the next format, so media is once again chasing a target it doesn't control.

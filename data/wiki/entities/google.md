@@ -1,7 +1,7 @@
 # Google
 
 
-*Mentioned in 28 articles*
+*Mentioned in 29 articles*
 
 
 ## Recent Mentions
@@ -10,8 +10,17 @@
 - **You can attach your Fitbit Air to almost any old-school watch** (2026-11-08)
   - The screenless Fitbit Air quietly solves the wearable's biggest problem: you can keep your mechanical watch and still track your health.
 
+- **Should you make the switch to Google Pixel from Samsung Galaxy?** (2026-11-08)
+  - The Pixel 11 won't outsell Samsung, but with less bloatware and faster updates it has the more convincing pitch.
+
+- **Samsung One UI removed the all apps button, but you can easily get it back** (2026-11-08)
+  - Samsung hid the Apps button to push gesture navigation, but keeping it as an option shows it knows habit beats design.
+
 - **How to set up Google Authenticator on a new phone** (2026-11-08)
   - Cloud sync finally makes Google Authenticator easy to move to a new phone. The trade-off is that your 2FA codes now depend on how secure your Google account is.
+
+- **Google Expands UCP Direct Checkout to AI Mode and Gemini in Canada** (2026-11-08)
+  - Google bringing checkout inside Gemini in Canada is a quiet power grab: retailers stay seller of record, but Google owns the moment the purchase decision happens.
 
 - **This GPS navigation app should be the go-to for older drivers** (2026-11-07)
   - For older drivers, the best navigation app is the one that stays quiet, and Google Maps wins by being the less flashy choice.
@@ -42,12 +51,3 @@
 
 - **Google's eyewear partners can't keep a lid on its smart glasses plans** (2026-11-06)
   - Google's partners keep announcing its smart glasses before Google does. That's either sloppy coordination or the most effective leak campaign of the year.
-
-- **Agentic payments, explained** (2026-11-06)
-  - Agentic payments aren't really about AI; they're about rebuilding consent for a card system designed for humans typing numbers, and four rivals all want to own that proof.
-
-- **iOS 27.2 adds Apple Photos invisible watermark feature, here’s how it works** (2026-11-06)
-  - Apple adopting Google's SynthID is a real step toward AI transparency, but a watermark nobody can see unless they upload a photo to check it won't help much against misinformation.
-
-- **I bought the knock-off Pixel Watch and Fitbit Air bands, and it’s crazy how good they are [Gallery]** (2026-11-06)
-  - When knock-off bands look official and come in colors Google does not make, Google's accessory pricing is hard to justify.

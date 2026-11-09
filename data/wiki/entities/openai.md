@@ -1,7 +1,7 @@
 # OpenAI
 
 
-*Mentioned in 21 articles*
+*Mentioned in 22 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
   - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
+
+- **This is what ChatGPT personally feels about humans** (2026-11-08)
+  - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
 
 - **How to Use DeepSeek Through an OpenAI-Compatible API** (2026-11-08)
   - OpenAI-compatible gateways make switching to DeepSeek a two-line change, but compatibility is a promise you still have to test, not a guarantee.
@@ -48,6 +51,3 @@
 
 - **Hundreds of Artex AI hacking tools found publicly exposed to the web** (2026-11-06)
   - The scariest part of autonomous AI hacking tools isn't the AI. It's that 800+ of them are sitting online with no password, ready for anyone to borrow.
-
-- **After the midterms, is the AI industry in for a rough two years?** (2026-11-06)
-  - Voters backed data center restrictions in 40 of 41 ballot measures, a clear sign that AI's biggest obstacle may now be local voters rather than chips.

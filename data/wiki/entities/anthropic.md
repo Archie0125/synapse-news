@@ -1,7 +1,7 @@
 # Anthropic
 
 
-*Mentioned in 20 articles*
+*Mentioned in 22 articles*
 
 
 ## Recent Mentions
@@ -10,8 +10,14 @@
 - **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
   - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
 
+- **I'm not convinced the AI bubble exists** (2026-11-08)
+  - The anti-bubble case rests on one big assumption: that data center spending is a one-time cost. Hardware that goes obsolete in a few years makes that a shaky bet.
+
 - **Goodbye Claude, hello Pi** (2026-11-08)
   - A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
+
+- **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
+  - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
 
 - **Agent memory needs its OpenTelemetry moment** (2026-11-08)
   - Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.
@@ -45,9 +51,3 @@
 
 - **A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost** (2026-11-06)
   - The interesting result isn't the 4x savings; it's that a small model's ability to recognize its own uncertainty matters more than its raw accuracy.
-
-- **Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not** (2026-11-05)
-  - Chatbot ads are no longer an experiment. They are how most AI companies will have to pay for compute, and only very well-funded labs like Anthropic can afford to refuse them.
-
-- **I broke a working agent seven ways. The metric I was watching caught two of them.** (2026-11-05)
-  - A perfect agent success rate hid the only behavior that mattered, and an unpinned model alias quietly rewrote the experiment. Your eval dashboard may be lying to you too.

@@ -1,11 +1,14 @@
 # Apple Intelligence
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **The disadvantages of buying tech from other countries** (2026-11-09)
+  - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
 
 - **Every Mac comes with an (undocumented) family member classifier** (2026-11-07)
   - Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.

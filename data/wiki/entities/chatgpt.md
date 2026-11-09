@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Chatbots might be coming to Apple’s HomeView** (2026-11-08)
-  - A Conversational Apps flag in iOS 27.3 code hints Apple may let third-party chatbots into HomeView, a sign it is opening the smart home hub rather than relying only on Siri.
+- **This is what ChatGPT personally feels about humans** (2026-11-08)
+  - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
 
 - **I counted every server in the official MCP Registry: 59,603 entries, and October alone added 16,282** (2026-11-08)
   - MCP's registry reached nearly 60,000 servers and October alone added 16,282, which looks like adoption but may increasingly be noise.

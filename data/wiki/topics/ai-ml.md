@@ -1,18 +1,34 @@
 # AI & ML
 
 
-*180 articles in the last 7 days*
+*190 articles in the last 7 days*
 
 
 ## Latest
 
 
-### World Models Will Soon Be Inescapable. Here’s What You Need to Know
+### Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”
 
-*Wired | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-World models are AI's next big story, and Niantic's turn from Pokémon Go to building them shows the scarce resource is real-world data, not clever models.
+Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
+
+
+### DSH Agent Enhancer 0.3.9: the agent in your DeepSeek Harness desktop can now drive its own browser
+
+*Dev.to | 2026-11-09*
+
+
+Giving a DeepSeek desktop agent its own browser is powerful, and the human-in-the-loop guardrails for logins and approvals are what make it worth trusting.
+
+
+### Call Databricks Genie from C# with LakeSpeak
+
+*Dev.to | 2026-11-09*
+
+
+LakeSpeak gives .NET shops a clean path into Databricks Genie, and its offline-fixture-first approach is a quiet lesson in how SDK onboarding should work.
 
 
 ### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
@@ -31,14 +47,6 @@ NYT Cooking's AI recipe modifier actually works, but the 172 furious comments sh
 In a year when AI keeps claiming math breakthroughs, this headline treats a human solution as news, and that framing says as much as the proof.
 
 
-### Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses
-
-*Tom's Hardware | 2026-11-08*
-
-
-If a reporter can find empty offices behind approved H200 buyers, US export controls on AI chips look more like a formality than a real check.
-
-
 ### PC's with 64GB of RAM plummet 18% as memory prices soar
 
 *Tom's Hardware | 2026-11-08*
@@ -47,44 +55,44 @@ If a reporter can find empty offices behind approved H200 buyers, US export cont
 AI data centers are buying up the DRAM supply, and the first casualty is the enthusiast PC: 64GB builds are shrinking for the first time.
 
 
-### Chatbots might be coming to Apple’s HomeView
+### Open-source GPU task manager reveals exactly what's eating your VRAM
 
-*The Verge | 2026-11-08*
-
-
-A Conversational Apps flag in iOS 27.3 code hints Apple may let third-party chatbots into HomeView, a sign it is opening the smart home hub rather than relying only on Siri.
+*Tom's Hardware | 2026-11-08*
 
 
-### Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework
-
-*The New Stack | 2026-11-08*
+A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.
 
 
-A $5-a-month Lambda bug-filing agent shows the right way to scale: start serverless, and move to containers only when the workload actually changes.
+### Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy
+
+*Tom's Hardware | 2026-11-08*
 
 
-### Perplexity’s AI agents keep working after you close the tab
-
-*The New Stack | 2026-11-08*
+Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
 
 
-Perplexity's Teammates agents keep working after you close the tab. The hard part isn't autonomy but keeping multiple agents in sync on state and permissions.
+### Hundreds arrested after Microsoft data center protest turns violent
+
+*Tom's Hardware | 2026-11-08*
 
 
-### Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout
-
-*The New Stack | 2026-11-08*
+Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.
 
 
-Docusign learned that AI coding tools stall at about 18% productivity gains unless the company changes how it works and supports developers with internal champions.
+### Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone
+
+*Tom's Hardware | 2026-11-08*
 
 
-### SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’
-
-*TechCrunch | 2026-11-08*
+Running a 2.8-trillion-parameter model at home on old Optane is a clever hack, but at 0.85 tokens per second it mostly shows how far home setups are from frontier AI.
 
 
-SNL's new Musk impression is less a sketch than a public read on his bad week: midterm losses, the end of the Cybertruck and his own chatbot roasting him.
+### Diamond Foundry creates world's first 200mm single-crystal diamond wafer
+
+*Tom's Hardware | 2026-11-08*
+
+
+A 200mm diamond wafer is a real milestone for cooling AI chips, but an unpolished sample is a long way from something fabs can actually use.
 
 
 ### Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor
@@ -135,33 +143,25 @@ OpenAI still raised $11B, but closing just 37% of its target at a lower price sh
 Running a 284B model on a 64GB CPU box is a bold claim, but every number here is self-reported, and output quality matters more than tokens per second.
 
 
+### I'm not convinced the AI bubble exists
+
+*Hacker News | 2026-11-08*
+
+
+The anti-bubble case rests on one big assumption: that data center spending is a one-time cost. Hardware that goes obsolete in a few years makes that a shaky bet.
+
+
+### How I Fight AI Brain Fry
+
+*Hacker News | 2026-11-08*
+
+
+The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.
+
+
 ### Goodbye Claude, hello Pi
 
 *Hacker News | 2026-11-08*
 
 
 A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
-
-
-### Agent memory needs its OpenTelemetry moment
-
-*Hacker News | 2026-11-08*
-
-
-Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.
-
-
-### The game reverse engineering community is the latest casualty of AI
-
-*Engadget | 2026-11-08*
-
-
-AI made game decompilation faster, but it hollowed out the shared understanding that made the community worth having.
-
-
-### Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)
-
-*Dev.to | 2026-11-08*
-
-
-Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.

@@ -1,11 +1,14 @@
 # Hacker News
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Ask HN: What are you working on? (November 2026)** (2026-11-08)
+  - HN's monthly show-and-tell now reads like an agent prompt library: some projects are pitched as URLs you paste into an AI rather than products you use yourself.
 
 - **Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)** (2026-11-06)
   - A 2016 paper on wood ants trapped in a giant pitfall has resurfaced on Hacker News, a reminder that research about survival under impossible conditions keeps finding new readers.

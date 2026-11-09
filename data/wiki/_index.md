@@ -19,7 +19,7 @@
 
 - [The Hacking Gap Closed in Seven Months. Defenders Are Still Patching](analysis/2026-11-09-the-hacking-gap-closed-in-seven-months-defenders-are-still-p-en.md)
 
-- [OpenAI 只募到三分之一：AI 沒泡沫化，是模型開始賣不到好價錢](analysis/2026-11-09-openai-s-11b-round-isn-t-a-bubble-popping-it-s-ai-labs-prici-zh.md)
+- [AI 吃光記憶體：Kindle 漲 50 美元、Ultra 旗艦被砍，連拆機料都上新機了](analysis/2026-11-09-ramageddon-is-splitting-gadgets-into-two-tiers-and-the-middl-zh.md)
 
 
 ## Topics
@@ -49,17 +49,25 @@
 
 - [9To5Mac](entities/9to5mac.md)
 
+- [Adobe](entities/adobe.md)
+
 - [Airbnb](entities/airbnb.md)
 
 - [Airpods](entities/airpods.md)
 
 - [Alexa](entities/alexa.md)
 
+- [Alibaba](entities/alibaba.md)
+
 - [Alice Huang](entities/alice-huang.md)
+
+- [Alphabet](entities/alphabet.md)
 
 - [Alpine Linux](entities/alpine-linux.md)
 
 - [Amazon](entities/amazon.md)
+
+- [Amblyotube](entities/amblyotube.md)
 
 - [Amd](entities/amd.md)
 
@@ -73,14 +81,6 @@
 
 - [Anthropic](entities/anthropic.md)
 
-- [Apple Health](entities/apple-health.md)
+- [Apache Kafka](entities/apache-kafka.md)
 
-- [Apple Intelligence](entities/apple-intelligence.md)
-
-- [Apple Music Classical](entities/apple-music-classical.md)
-
-- [Apple Music](entities/apple-music.md)
-
-- [Apple One](entities/apple-one.md)
-
-- [Apple Store](entities/apple-store.md)
+- [Apple Arcade](entities/apple-arcade.md)

@@ -1,11 +1,14 @@
 # AWS
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications** (2026-11-09)
+  - TorchNeuron goes after CUDA's real moat, the cost of switching, but Trainium only wins if 'no code changes' also means no performance surprises.
 
 - **Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal** (2026-11-08)
   - Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.

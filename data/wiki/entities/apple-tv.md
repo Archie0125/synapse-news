@@ -1,11 +1,17 @@
 # Apple TV
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple to stream Las Vegas Formula 1 race for free in the United States** (2026-11-09)
+  - Streaming the flashiest F1 race free is Apple's smartest marketing move this year: the neon spectacle works as a trailer for an Apple TV subscription.
+
+- **Apple staff accused of signing up customers to subscriptions without consent; company responds** (2026-11-09)
+  - A 40% subscription sign-up target turned Apple Store staff into dark-pattern operators, and the incentive design, not rogue employees, is the real story.
 
 - **What does Apple One Family come with and which subscription is best for you?** (2026-11-08)
   - Apple One is still a discount after this year's price hikes, but the bundle is really a tool to lock households deeper into Apple's ecosystem.

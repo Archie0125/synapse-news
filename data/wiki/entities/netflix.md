@@ -1,11 +1,14 @@
 # Netflix
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
+  - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.
 
 - **How much Netflix cost in 2007 vs. 2026** (2026-11-08)
   - Netflix started streaming in 2007 to get ahead of Blockbuster. Nearly 20 years later, regular price hikes have become one of its most dependable habits.

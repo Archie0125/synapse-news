@@ -1,7 +1,7 @@
 # iPhone
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **The disadvantages of buying tech from other countries** (2026-11-09)
   - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
+
+- **How to tell if your phone supports eSIM** (2026-11-09)
+  - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
 
 - **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
   - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.

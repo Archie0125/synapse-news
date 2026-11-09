@@ -1,11 +1,17 @@
 # Galaxy Z Fold 8
 
 
-*Mentioned in 3 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027** (2026-11-09)
+  - Motorola's leaked support page confirms the Razr Flex for 2027, which means it arrives after Apple and Samsung have already defined the wide-foldable category.
+
+- **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
+  - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.
 
 - **Oppo confirms its next foldable will actually know what a ‘global’ release is** (2026-11-06)
   - Oppo has made some of the best foldables mostly for China. A Find N7 launch in Europe could finally give Samsung real competition.

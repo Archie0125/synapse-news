@@ -1,11 +1,14 @@
 # Cursor
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
+  - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.
 
 - **Agent memory needs its OpenTelemetry moment** (2026-11-08)
   - Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.

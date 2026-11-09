@@ -1,17 +1,26 @@
 # Megaspeed
 
 
-*Mentioned in 5 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
 
-- **Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”** (2026-11-09)
-  - Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
+- **Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy** (2026-11-09)
+  - Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
+
+- **The future of AI hinges on… Jensen Huang’s sex life?** (2026-11-09)
+  - The Megaspeed spy allegations matter less as gossip than as a stress test of Nvidia's lobbying against export controls; one leak story could undo that campaign.
 
 - **Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy** (2026-11-08)
   - Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
+
+- **Nvidia is investigating Jensen Huang’s relationship with a Chinese spy** (2026-11-08)
+  - Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'
+
+- **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (2026-11-08)
+  - Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.
 
 - **NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts** (2026-11-08)
   - NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.

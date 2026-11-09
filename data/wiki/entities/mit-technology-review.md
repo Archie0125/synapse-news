@@ -1,11 +1,17 @@
 # MIT Technology Review
 
 
-*Mentioned in 3 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **The Download: empty AI climate claims, and an Nvidia investigation** (2026-11-09)
+  - Today's Download leads with a sharp argument that AI's climate promises are mostly talk, which is a useful reality check as COP31 opens.
+
+- **Innovating with AI in the special chemicals industry** (2026-11-09)
+  - This sponsored Lubrizol story has a sensible message, that AI in R&D depends on data and team trust more than models, but it is light on measurable results.
 
 - **Securing the agentic enterprise with data lineage** (2026-11-04)
   - This sponsored piece has a real point under the vendor framing: once agents pass data to other agents, you can't secure what you can't trace.

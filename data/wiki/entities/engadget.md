@@ -1,11 +1,14 @@
 # Engadget
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Think twice before using a webcam cover on your MacBook** (2026-11-09)
+  - A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.
 
 - **The reason why some USB ports are teal** (2026-11-08)
   - Teal USB ports usually signal faster USB 3.1 Gen 2, but color coding is a hint, not a rule, which is exactly why USB stays confusing.

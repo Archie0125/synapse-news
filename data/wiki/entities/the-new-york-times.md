@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good** (2026-11-08)
-  - NYT Cooking's AI recipe modifier actually works, but the 172 furious comments show readers care more about trust in the brand than about features.
+- **Nvidia is investigating Jensen Huang’s relationship with a Chinese spy** (2026-11-08)
+  - Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'
 
 - **The New York Times reportedly in talks to buy Letterboxd for $330 million** (2026-11-06)
   - At 22 times projected earnings, the Times isn't buying a movie app. It's paying for 28 million mostly under-35 users its news product can't reach.

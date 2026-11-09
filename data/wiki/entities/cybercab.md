@@ -1,11 +1,17 @@
 # Cybercab
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Tesla expands robotaxi service to San Antonio** (2026-11-09)
+  - Tesla adding San Antonio sounds like momentum, but announcing a launch with no hours, fleet size or safety details means we still can't judge it.
+
+- **Musk says Tesla will refund some Cybertruck deposits, defends decision to end production** (2026-11-09)
+  - Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
 
 - **RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd** (2026-11-06)
   - A million reservations turned into fewer than 50,000 sales. The Cybertruck's death is a reminder that hype isn't demand, and Tesla is now making the same bet on robotaxis.

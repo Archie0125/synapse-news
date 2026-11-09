@@ -1,11 +1,23 @@
 # Samsung
 
 
-*Mentioned in 21 articles*
+*Mentioned in 25 articles*
 
 
 ## Recent Mentions
 
+
+- **Meet Drops, the new music app bringing back the fun of sharing songs with friends** (2026-11-09)
+  - Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
+
+- **How to tell if your phone supports eSIM** (2026-11-09)
+  - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
+
+- **Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?** (2026-11-09)
+  - Samsung's $5 Galaxy AI Premium keeps existing features free, which is smart, but hinting at usage caps on free features is the part to watch.
+
+- **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
+  - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.
 
 - **Should you make the switch to Google Pixel from Samsung Galaxy?** (2026-11-08)
   - The Pixel 11 won't outsell Samsung, but with less bloatware and faster updates it has the more convincing pitch.
@@ -39,15 +51,3 @@
 
 - **Google's eyewear partners can't keep a lid on its smart glasses plans** (2026-11-06)
   - Google's partners keep announcing its smart glasses before Google does. That's either sloppy coordination or the most effective leak campaign of the year.
-
-- **Report: iPad shipments drop 27.5% as global tablet market plunges in Q3** (2026-11-06)
-  - iPad still leads a shrinking market, but a 27.5% drop shows tablets have run out of reasons to upgrade, and supply constraints are making that worse.
-
-- **Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more** (2026-11-06)
-  - Apple and the DOJ are pulling half the tech industry into discovery fights, so the real test is whose internal data holds up, not whose story sounds better.
-
-- **Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack** (2026-11-06)
-  - SmartTag 3 is a well-built tracker with a strange limitation: it supports iPhones but skips Google's own Find Hub network, which hurts Android users outside Samsung.
-
-- **Discord is about to get way, way faster on your Android phone** (2026-11-06)
-  - Discord's Rust rewrite quietly admits years of bloat, and cutting launch time from five seconds to under two shows how much performance users had been giving up.

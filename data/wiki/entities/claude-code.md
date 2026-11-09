@@ -1,11 +1,14 @@
 # Claude Code
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today** (2026-11-09)
+  - A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.
 
 - **How I Fight AI Brain Fry** (2026-11-08)
   - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.

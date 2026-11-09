@@ -1,11 +1,14 @@
 # Cloudflare
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security** (2026-11-09)
+  - Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
 
 - **Cloudflare Scales D1 Control Plane to Millions of Databases** (2026-11-08)
   - Cloudflare's D1 redesign is a lesson in boring engineering: heartbeats, idempotency, and eventual consistency beat clever central coordination at millions of databases.

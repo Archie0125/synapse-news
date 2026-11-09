@@ -1,143 +1,119 @@
 # Dev Tools
 
 
-*221 articles in the last 7 days*
+*253 articles in the last 7 days*
 
 
 ## Latest
 
 
-### DSH Agent Enhancer 0.3.9: the agent in your DeepSeek Harness desktop can now drive its own browser
+### Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization
+
+*Tom's Hardware | 2026-11-09*
+
+
+ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
+
+
+### AMD admits GPU driver bug is writing data continuously, wearing out SSDs
+
+*Tom's Hardware | 2026-11-09*
+
+
+AMD's driver utility reportedly ate about 1% of users' SSD life each month while their PCs sat idle, and it's the second logging bug of this kind in a year.
+
+
+### Why semantic layers will be essential for enterprise AI
+
+*The New Stack | 2026-11-09*
+
+
+MCP solved how AI agents reach enterprise data, not whether they understand it, and the semantic layer is where enterprise AI succeeds or fails.
+
+
+### Real-time state has a cost your memory bill won’t show
+
+*The New Stack | 2026-11-09*
+
+
+The Kafka-Flink-Redis stack looks modular, but every duplicated copy of state is a hidden tax paid in serialization, network hops and consistency headaches.
+
+
+### Automattic debuts a platform to deploy vibe-coding apps amid a changing internet
+
+*TechCrunch | 2026-11-09*
+
+
+With Spacefast, Automattic is betting WordPress's infrastructure can host the vibe-coding era, but competing with Vercel and Lovable needs more than a decent CDN.
+
+
+### Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework
+
+*InfoQ | 2026-11-09*
+
+
+Topcoat bets that Rust web developers want less JavaScript rather than more WASM, and that contrarian choice makes it the most interesting Rust framework in a while.
+
+
+### Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM
+
+*InfoQ | 2026-11-09*
+
+
+The interesting point in this episode is that Kubernetes' default load balancing actively wastes GPUs for LLMs, and llm-d exists to fix that.
+
+
+### Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement
+
+*InfoQ | 2026-11-09*
+
+
+Pinterest swapped a fragile clustering pipeline for one small fine-tuned LLM and gained about 1%, which proves small models can replace whole ML stacks, not that they work miracles.
+
+
+### Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement
+
+*InfoQ | 2026-11-09*
+
+
+Gemini 4 Argon has impressive robotics demos and benchmark scores, but heavy prompt scaffolding and missing failure rates make it hard to tell how much is the model.
+
+
+### Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security
+
+*InfoQ | 2026-11-09*
+
+
+Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
+
+
+### AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications
+
+*InfoQ | 2026-11-09*
+
+
+TorchNeuron goes after CUDA's real moat, the cost of switching, but Trainium only wins if 'no code changes' also means no performance surprises.
+
+
+### Article: Agentic AI Architecture: Current Challenges and Future Opportunities
+
+*InfoQ | 2026-11-09*
+
+
+Agentic AI architecture is being sold as the next microservices, which should worry anyone who remembers how much complexity microservices brought with them.
+
+
+### YouTube auf Quest wird neu gedacht – aber was macht das mit deinen Augen?
 
 *Dev.to | 2026-11-09*
 
 
-Giving a DeepSeek desktop agent its own browser is powerful, and the human-in-the-loop guardrails for logins and approvals are what make it worth trusting.
+A YouTube redesign on Quest becomes a pitch for VR amblyopia training, an intriguing idea that still needs clinical evidence more than marketing copy.
 
 
-### Call Databricks Genie from C# with LakeSpeak
-
-*Dev.to | 2026-11-09*
-
-
-LakeSpeak gives .NET shops a clean path into Databricks Genie, and its offline-fixture-first approach is a quiet lesson in how SDK onboarding should work.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.15: Chapter 15. EMI / EMC Design [KR]
+### The 130 KB AI is a 175 KB PDF
 
 *Dev.to | 2026-11-09*
 
 
-As robots pack in more GPUs, sensors and motor drives, EMI stops being a certification checkbox and becomes a hidden safety risk most teams underestimate.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.14: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An IP rating is a lab test result, not a durability promise. Outdoor robot buyers who confuse the two will learn the hard way.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.13: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-A wiring harness looks like assembly work but is really a reliability system, and a chapter on it is overdue in robotics education.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.12: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An emergency stop that depends on software, the cloud, or the main computer is not an emergency stop, and the chapter gets this exactly right.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.11: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-The DC-DC converter is the least glamorous part of an AMR, and the one that decides whether the AI computer gets clean, stable power.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.10: Chapter 10. Battery and BMS [KR]
-
-*Dev.to | 2026-11-09*
-
-
-In mobile robots, the battery is not a power supply but a design constraint that shapes the chassis, center of gravity, and business model.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.09: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An AMR's power architecture is the plumbing nobody demos, yet it sets runtime, safety, and how often a factory line goes down.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.08: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-Being able to stop safely may matter more than moving efficiently, and a robot's brakes say more about its maturity than its AI demo does.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.07: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-In industrial AMRs, the motor driver and control algorithm often matter more than the motor itself. Ride quality comes from the electronics, not the metal.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.06: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-Picking the motor is a bet on maintenance costs as much as on performance, which is why industrial AMRs dropped brushed DC motors for BLDC.
-
-
-### The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age
-
-*Tom's Hardware | 2026-11-08*
-
-
-Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
-
-
-### Open-source GPU task manager reveals exactly what's eating your VRAM
-
-*Tom's Hardware | 2026-11-08*
-
-
-A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.
-
-
-### Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal
-
-*InfoQ | 2026-11-08*
-
-
-Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
-
-
-### Entire's Git Forge Rethinks Git Collaboration for Coding Agents
-
-*InfoQ | 2026-11-08*
-
-
-Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
-
-
-### Cloudflare Scales D1 Control Plane to Millions of Databases
-
-*InfoQ | 2026-11-08*
-
-
-Cloudflare's D1 redesign is a lesson in boring engineering: heartbeats, idempotency, and eventual consistency beat clever central coordination at millions of databases.
+Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.

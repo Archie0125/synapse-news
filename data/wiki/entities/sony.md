@@ -1,11 +1,17 @@
 # Sony
 
 
-*Mentioned in 5 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
+  - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.
+
+- **Nacon Revolution 5 Unlimited controller review: More customization than I can handle** (2026-11-09)
+  - Nacon's $230 controller wins on hardware like TMR sticks and trigger blockers, but piling on this many options may be its biggest weakness.
 
 - **Why you should never put your PlayStation 5 on a carpeted floor** (2026-11-07)
   - Sony's vague carpet guidance leaves PS5 owners guessing, but the advice is simple: carpet feeds dust into the vents, and the floor puts the console in harm's way.

@@ -1,143 +1,119 @@
 # Industry
 
 
-*205 articles in the last 7 days*
+*261 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”
+### Welcome to Weed Island
 
-*TechCrunch | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
+Jersey swapped dying tomato greenhouses for medical cannabis, a smart pivot for a tiny economy that still depends on regulators and buyers elsewhere.
 
 
-### Unlocking any car from X brand in most of the world
+### These Robotic Arms Are Powered by Algae. Watch How They Move
 
-*Hacker News | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-The weakest point in a modern car may be a web domain anyone can enumerate, not the CAN bus, and automakers still treat it as an afterthought.
+Algae-powered robot arms are a striking proof of concept, but by the team's own admission there's no application yet. That's the honest part.
 
 
-### RIP, Harvest
+### The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement
 
-*Hacker News | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
+Right to repair was not a headline issue in the midterms, but candidates from both parties won on it, which suggests it is one of the few policies with broad support.
 
 
-### 10 Apple products and features that transformed under Tim Cook's leadership
+### Scientists May Have Discovered a Massive Starless Galaxy
 
-*Engadget | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
+AGC 322753 holds 2 billion suns' worth of hydrogen but appears to have no stars, which makes it a strong test for current models of how galaxies form.
 
 
-### AMR Mechanical and Electrical Engineering — Ch.15: Chapter 15. EMI / EMC Design [KR]
+### New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing
 
-*Dev.to | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-As robots pack in more GPUs, sensors and motor drives, EMI stops being a certification checkbox and becomes a hidden safety risk most teams underestimate.
+Hulu's 'Get Huge' traces today's looksmaxxing culture back to Tony Huge's biohacking scene in Thailand, and it shows the human cost of self-optimization taken too far.
 
 
-### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
+### King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion
 
-*Wired | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-NYT Cooking's AI recipe modifier actually works, but the 172 furious comments show readers care more about trust in the brand than about features.
+The Sourdough Sidekick automates the most tedious part of baking sourdough: feeding the starter. That small fix may be enough to get lapsed bakers baking again.
 
 
-### How to Remind Your Boss of Your PTO Without Pissing Them Off
+### Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year
 
-*Wired | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-The advice to overcommunicate your PTO is right, but needing a how-to guide for taking earned vacation says a lot about workplace culture.
+Jensen Huang hired a well-known scandal fixer a year before he publicly admitted his affair, which raises the question of when Nvidia's leadership first knew about the risk.
 
 
-### A 55-Year-Old Math Problem Was Solved—This Time by Humans
+### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
 
-*Wired | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-In a year when AI keeps claiming math breakthroughs, this headline treats a human solution as news, and that framing says as much as the proof.
+Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
 
 
-### 8 Best Computer Speakers (2026) After Testing 30 Pairs
+### DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office
 
-*Wired | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-Sound is still the most neglected part of a PC setup, and a decent pair of speakers is one of the cheapest upgrades that makes a clear difference.
+DHS has sent at least 185,000 warrantless subpoenas since January 2025, more than ICE sent in six and a half years, which shows how routine this unchecked tool has become.
 
 
-### 6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More
+### Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center
 
-*Wired | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
+When motorcycle racers and bee conservationists team up against Google, it shows how wide local opposition to Britain's AI data center push has become.
 
 
-### PC's with 64GB of RAM plummet 18% as memory prices soar
+### Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?
 
-*Tom's Hardware | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-AI data centers are buying up the DRAM supply, and the first casualty is the enthusiast PC: 64GB builds are shrinking for the first time.
+Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
 
 
-### Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy
+### Audioengine Color of the Year Kit Review: Bright Look, Good Sound
 
-*Tom's Hardware | 2026-11-08*
+*Wired | 2026-11-09*
 
 
-Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
+Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
 
 
-### Japanese arcades suffer week-long blackout following Sega server hack
+### Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
 
-*Tom's Hardware | 2026-11-08*
+*Tom's Hardware | 2026-11-09*
 
 
-One server breach shut down arcade games from two companies for a week, showing that Japan's arcade industry depends on a single network with no fallback.
+Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
 
 
-### Hundreds arrested after Microsoft data center protest turns violent
+### Memory shortage spurs smartphone makers to melt used memory off old devices, then re-solder it onto new products
 
-*Tom's Hardware | 2026-11-08*
+*Tom's Hardware | 2026-11-09*
 
 
-Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.
-
-
-### There’s no slowing down media’s pivot-to-video 2.0
-
-*The Verge | 2026-11-08*
-
-
-Publishers are finally figuring out vertical video just as platforms move to the next format, so media is once again chasing a target it doesn't control.
-
-
-### Soul Glo’s Diaspora Problems is a hardcore record like no other
-
-*The Verge | 2026-11-08*
-
-
-Ahead of a new Soul Glo album, Diaspora Problems still looks like the bar hardcore has to clear, because it never lets the energy drop.
-
-
-### Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server
-
-*ServeTheHome | 2026-11-08*
-
-
-Dell's R770AP is a strong 256-core Xeon 6 box, but Intel couldn't supply Clearwater Forest chips for testing and Diamond Rapids is far off. That's the real story.
+Recycled memory in new phones sounds green, but it is really a budget-phone survival tactic, and TrendForce expects it to reach pricier models.

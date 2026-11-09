@@ -1,11 +1,20 @@
 # Elon Musk
 
 
-*Mentioned in 10 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **Tesla expands robotaxi service to San Antonio** (2026-11-09)
+  - Tesla adding San Antonio sounds like momentum, but announcing a launch with no hours, fleet size or safety details means we still can't judge it.
+
+- **Musk says Tesla will refund some Cybertruck deposits, defends decision to end production** (2026-11-09)
+  - Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
+
+- **Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board** (2026-11-08)
+  - Sequoia's restructuring looks less like strategy and more like a breakup, and Botha joining the SpaceX board without sign-off shows how the trust broke down.
 
 - **He Ran on Fighting Data Centers. Now, He’s Going to Congress** (2026-11-07)
   - Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.

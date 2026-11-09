@@ -1,14 +1,20 @@
 # Apple Watch
 
 
-*Mentioned in 5 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
 
+- **The pros and cons of using OnePlus smartwatches** (2026-11-09)
+  - OnePlus watches beat Apple and Samsung on battery life and charging speed, but buying one right after OnePlus left the US and Europe is a gamble on long-term support.
+
 - **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
   - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
+
+- **9to5Mac Overtime 089: Live Rewind, Siri Recap, and Apple Watch privacy** (2026-11-09)
+  - The real story in this episode isn't Safari's vertical tabs. It's Apple Watch features that raise an uncomfortable question: is your wrist always listening?
 
 - **5 unexpected uses for your old smartwatch** (2026-11-08)
   - Turning an old smartwatch into an AI voice remote is a clever reuse, but it's also a reminder that short software support is what fills those drawers.

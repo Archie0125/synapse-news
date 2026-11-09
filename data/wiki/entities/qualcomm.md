@@ -1,7 +1,7 @@
 # Qualcomm
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win** (2026-11-04)
   - SpaceX picked Qualcomm to power tens of thousands of 5G sites, and the bigger story is that Starlink Mobile looks like it is building America's fourth major carrier.
-
-- **Qualcomm Validates HBC Stacked Memory Ahead of 2027 Dragonfly AI250 Sampling** (2026-11-02)
-  - Qualcomm's HBC flips HBM by putting compute under the memory stack. The idea is smart, but validation slides aren't silicon in customer racks yet.

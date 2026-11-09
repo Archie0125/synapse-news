@@ -1,127 +1,135 @@
 # Products
 
 
-*365 articles in the last 7 days*
+*460 articles in the last 7 days*
 
 
 ## Latest
 
 
-### RIP, Harvest
+### King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion
 
-*Hacker News | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
+The Sourdough Sidekick automates the most tedious part of baking sourdough: feeding the starter. That small fix may be enough to get lapsed bakers baking again.
 
 
-### Why your USB device isn't showing up on your MacBook and how you can fix it
+### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
 
-*Engadget | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-Your missing USB device often isn't broken. macOS's accessory permission prompt is the hidden culprit, and it shows how security quietly costs usability.
+Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
 
 
-### Which Canon Cameras Are Compatible With Its Free 3D Photo Software?
+### Audioengine Color of the Year Kit Review: Bright Look, Good Sound
 
-*Engadget | 2026-11-09*
+*Wired | 2026-11-09*
 
 
-Canon's free Dual Pixel 3D app is a clever reuse of autofocus hardware, but the 'initially free' fine print reads like a subscription in waiting.
+Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
 
 
-### Those white cameras mounted above traffic lights serve a little-known purpose
+### Save $300 on this RTX 5070 gaming PC with 32GB DDR5, now under $2,000
 
-*Engadget | 2026-11-09*
+*Tom's Hardware | 2026-11-09*
 
 
-Most cameras over intersections exist to manage traffic, not to watch you, but Flock-style plate readers have earned the public's suspicion of all of them.
+A $300 discount on an RTX 5070 prebuilt looks good until the listing names a CPU that does not exist; check the specs before you buy.
 
 
-### The disadvantages of buying tech from other countries
+### Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W
 
-*Engadget | 2026-11-09*
+*Tom's Hardware | 2026-11-09*
 
 
-Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
+When a 500W cap still cooks 12V-2x6 cables on a workstation card, the connector design has a problem that a power limit will not fix.
 
 
-### How to use your laptop as a second monitor
+### Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now
 
-*Engadget | 2026-11-09*
+*Tom's Hardware | 2026-11-09*
 
 
-Your old laptop can be a free second monitor, but HDMI won't do it. Wireless casting is the practical route, as long as you accept the lag.
+At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.
 
 
-### 10 Apple products and features that transformed under Tim Cook's leadership
+### Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long
 
-*Engadget | 2026-11-09*
+*Tom's Hardware | 2026-11-09*
 
 
-Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
+Acer built a portable gaming laptop with a great OLED screen whose weak battery life works against the reason you'd buy a portable one.
 
 
-### DSH Agent Enhancer 0.3.9: the agent in your DeepSeek Harness desktop can now drive its own browser
+### Uber wants to park your car now, too
 
-*Dev.to | 2026-11-09*
+*The Verge | 2026-11-09*
 
 
-Giving a DeepSeek desktop agent its own browser is powerful, and the human-in-the-loop guardrails for logins and approvals are what make it worth trusting.
+Uber Parking looks like a commuter convenience, but the bigger play is owning the garages that robotaxi fleets will need.
 
 
-### I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good
+### Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec
 
-*Wired | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-NYT Cooking's AI recipe modifier actually works, but the 172 furious comments show readers care more about trust in the brand than about features.
+Trump's idea of AI safety policy is apparently threatening an unnamed CEO with jail, which is governance by intimidation, not by rules.
 
 
-### 8 Best Computer Speakers (2026) After Testing 30 Pairs
+### The future of AI hinges on… Jensen Huang’s sex life?
 
-*Wired | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-Sound is still the most neglected part of a PC setup, and a decent pair of speakers is one of the cheapest upgrades that makes a clear difference.
+The Megaspeed spy allegations matter less as gossip than as a stress test of Nvidia's lobbying against export controls; one leak story could undo that campaign.
 
 
-### 6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More
+### Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage
 
-*Wired | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
+Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.
 
 
-### PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM
+### Medium is launching a new note-taking app called TK
 
-*Tom's Hardware | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.
+Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
 
 
-### Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage
+### James Gunn is out as DC movie leader
 
-*Tom's Hardware | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-Nvidia's 8800 GTX anniversary demo is nostalgia that requires an RTX 5080 for the recommended experience, which says a lot about modern graphics requirements.
+James Gunn's exit after the Paramount-Warner merger shows that megamergers turn creative visionaries into a line item, and DC's reboot loses its author.
 
 
-### Logitech G502 X Lightspeed Review: No lights, same price
+### How to shop like a pro during Black Friday and Cyber Monday
 
-*Tom's Hardware | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-The G502 X Lightspeed is a strong mouse, but at the same $159.99 list price as the RGB Plus model, you're paying the same for less.
+With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.
 
 
-### There’s no slowing down media’s pivot-to-video 2.0
+### Hold up — I had a great time talking to the RIAA guy
 
-*The Verge | 2026-11-08*
+*The Verge | 2026-11-09*
 
 
-Publishers are finally figuring out vertical video just as platforms move to the next format, so media is once again chasing a target it doesn't control.
+When even the RIAA becomes the internet's ally, AI companies should realize they've united creators, labels and fans against them.
+
+
+### Here are the price-matching policies for Best Buy, Walmart, and others
+
+*The Verge | 2026-11-09*
+
+
+Price matching sounds consumer-friendly, but the fine print shows it's mostly a retention tool, and Amazon doesn't need one at all.

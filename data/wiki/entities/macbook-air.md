@@ -1,11 +1,14 @@
 # MacBook Air
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
+  - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.
 
 - **Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more** (2026-11-07)
   - Early Black Friday deals are clearing last-generation Apple hardware, and the M5 MacBook Air at up to $250 off is the one worth buying.

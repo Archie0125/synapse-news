@@ -1,7 +1,7 @@
 # Apple Intelligence
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **The disadvantages of buying tech from other countries** (2026-11-09)
   - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
+
+- **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
+  - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.
 
 - **Every Mac comes with an (undocumented) family member classifier** (2026-11-07)
   - Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.

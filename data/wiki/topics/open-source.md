@@ -1,18 +1,114 @@
 # Open Source
 
 
-*74 articles in the last 7 days*
+*87 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Call Databricks Genie from C# with LakeSpeak
+### Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization
+
+*Tom's Hardware | 2026-11-09*
+
+
+ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
+
+
+### Lawyer builds private AI server with eight used Nvidia V100 GPUs
+
+*Tom's Hardware | 2026-11-09*
+
+
+A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.
+
+
+### Real-time state has a cost your memory bill won’t show
+
+*The New Stack | 2026-11-09*
+
+
+The Kafka-Flink-Redis stack looks modular, but every duplicated copy of state is a hidden tax paid in serialization, network hops and consistency headaches.
+
+
+### Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework
+
+*InfoQ | 2026-11-09*
+
+
+Topcoat bets that Rust web developers want less JavaScript rather than more WASM, and that contrarian choice makes it the most interesting Rust framework in a while.
+
+
+### Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM
+
+*InfoQ | 2026-11-09*
+
+
+The interesting point in this episode is that Kubernetes' default load balancing actively wastes GPUs for LLMs, and llm-d exists to fix that.
+
+
+### Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement
+
+*InfoQ | 2026-11-09*
+
+
+Pinterest swapped a fragile clustering pipeline for one small fine-tuned LLM and gained about 1%, which proves small models can replace whole ML stacks, not that they work miracles.
+
+
+### Your Experts Have Partners. There's HOPE for Keeping Them Together
+
+*Hugging Face Blog | 2026-11-09*
+
+
+HOPE shows that MoE experts work in teams, so pruning them one by one is like cutting a band's members without listening to the song.
+
+
+### Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context
+
+*Hugging Face Blog | 2026-11-09*
+
+
+NVIDIA and Elith's synthetic Japanese finance personas are a clever workaround for privacy rules, but synthetic realism still has to survive real-world testing.
+
+
+### What hardware does your PC need to run a local AI model?
+
+*Engadget | 2026-11-09*
+
+
+Running AI locally is easy now, but a 16GB PC only gets you a toy. Coming anywhere near frontier models takes serious, expensive memory.
+
+
+### The 130 KB AI is a 175 KB PDF
 
 *Dev.to | 2026-11-09*
 
 
-LakeSpeak gives .NET shops a clean path into Databricks Genie, and its offline-fixture-first approach is a quiet lesson in how SDK onboarding should work.
+Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.
+
+
+### POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today
+
+*Dev.to | 2026-11-09*
+
+
+A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.
+
+
+### I created an interactive TUI log debugger in Python because grep and tail are driving me crazy.
+
+*Dev.to | 2026-11-09*
+
+
+TraceTUI is a nice fix for grep fatigue, but a terminal log viewer mostly confirms that many teams still debug production by SSHing in and squinting.
+
+
+### Getting the V100 tensor cores back from Triton
+
+*Dev.to | 2026-11-09*
+
+
+Triton silently leaves V100 tensor cores idle. nbxtensor's measure-before-switching fix is a smarter way to revive old GPUs than blindly writing custom kernels.
 
 
 ### AMR Mechanical and Electrical Engineering — Ch.14: Contents {#contents .TOC-Heading} [KR]
@@ -69,99 +165,3 @@ An AMR's power architecture is the plumbing nobody demos, yet it sets runtime, s
 
 
 Being able to stop safely may matter more than moving efficiently, and a robot's brakes say more about its maturity than its AI demo does.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.07: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-In industrial AMRs, the motor driver and control algorithm often matter more than the motor itself. Ride quality comes from the electronics, not the metal.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.06: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-Picking the motor is a bet on maintenance costs as much as on performance, which is why industrial AMRs dropped brushed DC motors for BLDC.
-
-
-### The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age
-
-*Tom's Hardware | 2026-11-08*
-
-
-Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
-
-
-### Open-source GPU task manager reveals exactly what's eating your VRAM
-
-*Tom's Hardware | 2026-11-08*
-
-
-A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.
-
-
-### Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone
-
-*Tom's Hardware | 2026-11-08*
-
-
-Running a 2.8-trillion-parameter model at home on old Optane is a clever hack, but at 0.85 tokens per second it mostly shows how far home setups are from frontier AI.
-
-
-### The Web Is More Than Enough, by Paul Ford
-
-*Hacker News | 2026-11-08*
-
-
-A side-project office suite that stores data in the URL drew hundreds of thousands of visitors. The real point: AI has made the browser's raw power cheap to use, and native apps should worry.
-
-
-### Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU
-
-*Hacker News | 2026-11-08*
-
-
-Running a 284B model on a 64GB CPU box is a bold claim, but every number here is self-reported, and output quality matters more than tokens per second.
-
-
-### KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-
-*Hacker News | 2026-11-08*
-
-
-An open-source, browser-native SketchUp alternative aimed at woodworkers is smart positioning. Hobbyists are exactly the users subscription CAD has been pushing away.
-
-
-### Dux: Free, open-source Wayland desktop shell with file manager and theming
-
-*Hacker News | 2026-11-08*
-
-
-Dux bundles the pieces Wayland tiling users usually wire together by hand into one themed shell. It's a polished bet that the Linux desktop's problem is integration, not features.
-
-
-### Agent memory needs its OpenTelemetry moment
-
-*Hacker News | 2026-11-08*
-
-
-Every AI agent invents its own memory format, and the fix isn't another memory tool; it's a shared spec, like OpenTelemetry did for observability.
-
-
-### The game reverse engineering community is the latest casualty of AI
-
-*Engadget | 2026-11-08*
-
-
-AI made game decompilation faster, but it hollowed out the shared understanding that made the community worth having.
-
-
-### Why Kubernetes 1.35 resizePolicy: RestartContainer Isn't Required for ZGC/Shenandoah
-
-*Dev.to | 2026-11-08*
-
-
-The 'always restart JVMs on memory resize' advice is only a third right; a real experiment shows ZGC and Shenandoah can shrink in place if you release memory first.

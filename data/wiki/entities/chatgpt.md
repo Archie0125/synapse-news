@@ -1,11 +1,14 @@
 # ChatGPT
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
+  - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.
 
 - **This is what ChatGPT personally feels about humans** (2026-11-08)
   - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.

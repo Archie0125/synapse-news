@@ -1,11 +1,14 @@
 # Qwen3
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement** (2026-11-09)
+  - Pinterest swapped a fragile clustering pipeline for one small fine-tuned LLM and gained about 1%, which proves small models can replace whole ML stacks, not that they work miracles.
 
 - **Open-source GPU task manager reveals exactly what's eating your VRAM** (2026-11-08)
   - A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.

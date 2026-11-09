@@ -1,11 +1,14 @@
 # Muse
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent** (2026-11-09)
+  - Sleep headbands quietly turning users' brainwaves into AI training data is a consent failure, and 'we removed your name' is a weak defense for neural data.
 
 - **Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now** (2026-11-06)
   - Meta's Muse 'spaces' make a real bid for AI-built personal apps, and also give Meta a continuous feed of your Gmail, calendar, and shopping data.

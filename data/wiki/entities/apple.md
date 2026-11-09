@@ -1,53 +1,53 @@
 # Apple
 
 
-*Mentioned in 55 articles*
+*Mentioned in 69 articles*
 
 
 ## Recent Mentions
 
 
-- **Why your USB device isn't showing up on your MacBook and how you can fix it** (2026-11-09)
-  - Your missing USB device often isn't broken. macOS's accessory permission prompt is the hidden culprit, and it shows how security quietly costs usability.
+- **Venmo finally launches an in-app bill splitting feature** (2026-11-09)
+  - Venmo's receipt scanning is overdue catch-up to Apple. The real weapon isn't the feature but peer pressure from a network your friends already use.
+
+- **Think twice before using a webcam cover on your MacBook** (2026-11-09)
+  - A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.
 
 - **The disadvantages of buying tech from other countries** (2026-11-09)
   - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
 
+- **Meta is expanding AI age detection for Instagram teen accounts** (2026-11-09)
+  - Meta's global AI age check protects teens on paper, but it normalizes face-based age analysis while Meta tries to push responsibility onto app stores.
+
+- **How to tell if your phone supports eSIM** (2026-11-09)
+  - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
+
 - **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
   - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
 
-- **What does Apple One Family come with and which subscription is best for you?** (2026-11-08)
-  - Apple One is still a discount after this year's price hikes, but the bundle is really a tool to lock households deeper into Apple's ecosystem.
+- **Leak reveals details for more iPhone 18 models launching early 2027** (2026-11-09)
+  - The AI memory crunch is forcing Apple to blur iPhone 18 and 18e, and buyers win: base-model specs at a budget price.
 
-- **The pros and cons of buying refurbished laptops** (2026-11-08)
-  - Refurbished laptops are often smarter value than new budget machines, but the word 'refurbished' means very different things depending on the seller.
+- **Here’s how Webex adapts meetings and multitasking for iPhone Duo** (2026-11-09)
+  - Webex shipping native iPhone Duo support at launch proves foldables become useful when enterprise apps show up on day one, not when Apple ships the hardware.
 
-- **Syncing Apple Music across your devices is easier than you think** (2026-11-08)
-  - Most Apple Music sync problems come down to a mismatched account or one setting that's turned off, not anything wrong with the service.
+- **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
+  - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.
 
-- **How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think** (2026-11-08)
-  - After inflation, the base iPhone barely costs more than it did in 2007. The real sticker shock comes from Apple's new $2,000-plus top tier.
+- **Apple to stream Las Vegas Formula 1 race for free in the United States** (2026-11-09)
+  - Streaming the flashiest F1 race free is Apple's smartest marketing move this year: the neon spectacle works as a trailer for an Apple TV subscription.
 
-- **How long can you expect your PC RAM to last?** (2026-11-08)
-  - With AI data centers pushing RAM prices up, your old memory will probably outlast your patience before it ever physically wears out.
+- **Apple staff accused of signing up customers to subscriptions without consent; company responds** (2026-11-09)
+  - A 40% subscription sign-up target turned Apple Store staff into dark-pattern operators, and the incentive design, not rogue employees, is the real story.
 
-- **How long can you expect your Apple AirPods to last?** (2026-11-08)
-  - AirPods can last for years, but the battery sets the real lifespan, so your charging habits decide how long they stay useful.
+- **Apple pushing faster on agentic Siri would carry three big risks** (2026-11-09)
+  - Apple rushing agentic Siri to catch rivals risks swapping its slowness problem for something worse: an assistant that confidently does the wrong thing.
 
-- **10 useful iPad apps that could make your daily life easier** (2026-11-08)
-  - The most notable thing about this iPad app roundup is its 'minimal AI' filter, a sign that 'no AI' is becoming a selling point.
+- **Apple now sells ‘innovative’ game controller play pad and 20+ more accessories** (2026-11-09)
+  - A $199.95 dance-mat controller in Apple Stores shows Apple still treats gaming as a holiday novelty, not a platform strategy.
 
-- **Report: John Ternus pushing Craig Federighi to speed up Apple software engineering** (2026-11-08)
-  - New CEO John Ternus pushing Craig Federighi to move faster is the real Apple AI story: the bottleneck may be one hands-on executive's management style, not talent or money.
+- **Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year** (2026-11-09)
+  - Apple Music crowning Olivia Dean is a safe, data-backed pick, but the year-end ritual still feels like a polite echo of Spotify Wrapped.
 
-- **macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how** (2026-11-08)
-  - Apple is closing a convenient Full Disk Access shortcut after AI agents abused it, but leaving drag-and-drop open makes this look more like friction than real protection.
-
-- **Apple aiming to make Siri ‘more like an agent’ as soon as next year: report** (2026-11-08)
-  - Apple just caught up on personalized Siri, and the market has already moved to agents. App Intents give Apple a real cost advantage, if it ships fast enough.
-
-- **Every Mac comes with an (undocumented) family member classifier** (2026-11-07)
-  - Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.
-
-- **Apple’s grey list: Words and phrases your iPhone won’t help you spell** (2026-11-07)
-  - Apple's hidden list of 100,000+ blocked phrases isn't outright censorship, but quietly steering what users type, including political phrases, is a power that deserves scrutiny.
+- **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
+  - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.

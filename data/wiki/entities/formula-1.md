@@ -1,11 +1,14 @@
 # Formula 1
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple to stream Las Vegas Formula 1 race for free in the United States** (2026-11-09)
+  - Streaming the flashiest F1 race free is Apple's smartest marketing move this year: the neon spectacle works as a trailer for an Apple TV subscription.
 
 - **Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO** (2026-11-06)
   - F1 is happy to praise Apple, but its market-by-market rights strategy means Apple is a useful bidder for driving up prices, not the future owner of global F1.

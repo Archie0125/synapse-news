@@ -1,11 +1,14 @@
 # PlayStation 5
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Nacon Revolution 5 Unlimited controller review: More customization than I can handle** (2026-11-09)
+  - Nacon's $230 controller wins on hardware like TMR sticks and trigger blockers, but piling on this many options may be its biggest weakness.
 
 - **Why you shouldn't remove the screen protector film on your Nintendo Switch 2** (2026-11-08)
   - The Switch 2's 'screen protector' is actually part of the display assembly, and peeling it off for satisfaction could cost you a $500 console.

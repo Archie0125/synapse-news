@@ -1,11 +1,26 @@
 # Amazon
 
 
-*Mentioned in 22 articles*
+*Mentioned in 27 articles*
 
 
 ## Recent Mentions
 
+
+- **Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now** (2026-11-09)
+  - At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.
+
+- **How to shop like a pro during Black Friday and Cyber Monday** (2026-11-09)
+  - With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.
+
+- **Here are the price-matching policies for Best Buy, Walmart, and others** (2026-11-09)
+  - Price matching sounds consumer-friendly, but the fine print shows it's mostly a retention tool, and Amazon doesn't need one at all.
+
+- **The pros and cons of using OnePlus smartwatches** (2026-11-09)
+  - OnePlus watches beat Apple and Samsung on battery life and charging speed, but buying one right after OnePlus left the US and Europe is a gamble on long-term support.
+
+- **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
+  - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.
 
 - **PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM** (2026-11-08)
   - A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.
@@ -36,18 +51,3 @@
 
 - **Kobo will soon let you upload and sync your own ebooks across devices, for a price** (2026-11-06)
   - Kobo Stack is a useful feature with a bad price tag: charging monthly for something Kindle gives away free is a tough sell.
-
-- **Amazon is now making a Melania Trump TV series** (2026-11-06)
-  - Amazon turning one Melania documentary into a franchise looks less like a content strategy and more like a calculated play for political access.
-
-- **All the latest updates on AI data centers** (2026-11-06)
-  - Voters have turned against AI data centers, and promises to cover energy costs won't hold off the Democratic push for restrictions after the midterms.
-
-- **After blocking Muse, Amazon now lets users text Alexa to help them shop** (2026-11-06)
-  - Amazon blocked Meta's shopping agent and then launched its own: the message is that AI agents can shop on Amazon as long as the agent is Amazon's.
-
-- **You'll soon be able to text Alexa to shop on Amazon** (2026-11-06)
-  - Texting Alexa to shop sounds minor, but it puts Amazon's checkout inside your messages app, right next to your friends and family.
-
-- **Twelve South’s new Cablesnap charger has a built-in retractable USB-C cable** (2026-11-06)
-  - Twelve South's $50 Cablesnap isn't new tech, but folding a retractable cable, three ports and travel adapters into one brick is exactly the useful kind of boring.

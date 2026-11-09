@@ -603,5 +603,159 @@
     "status": "pending",
     "scheduled_for": "2026-11-10T14:20:00+00:00",
     "queued_at": "2026-11-09T06:32:18.475323+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "黃仁勳的私生活，現在變成台灣供應鏈的風險了。\n\nNvidia 這幾年在華府一直說：賣晶片給中國是生意，不是國安問題。\n\n執行長被傳和疑似中國情報人員有私交，還被叫去國會說明，這套說法就很難再講下去。\n\n對台積電、廣達、緯創來說，最可怕的不是醜聞本身，而是華府趁機把降規版晶片也一起封掉。\n\n我賭明年第一季前，對中出口管制只會更緊，不會更鬆。",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-09T18:42:24.802354+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T18:42:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "You don't hire a sex-scandal PR firm to polish a philanthropy announcement.\n\nNvidia's whole pitch against export controls is basically \"trust us, the chips stay where they should.\"\n\nNow its CEO is headed to Congress over an alleged affair with a suspected Chinese intelligence asset, and there's a $4.8B customer with alleged spy-agency ties in the story too.\n\nThe lobbying shop just lost its best argument. The board may be next to hear about it.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-09T18:42:24.802401+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T21:02:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Anthropic just paid $3.4B to skip a six-year waitlist for gas turbines.\n\nMeanwhile, a bee conservation group and a motorcycle club teamed up to fight a Google data center.\n\nAI's real bottlenecks aren't chips anymore. They're megawatts and permission.\n\nThe midterms made the second one official.\n\nThe next AI lab to win may simply be the one with the best zoning lawyers.",
+    "article_url": "/en/policy/2026-11-09-voters-just-became-ai-s-scarcest-resource-and-nvidia-already-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-09T18:42:24.802415+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-09T23:22:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "美國 AI 業者還在搶燃氣渦輪機的排隊位置，中國已經在一年內蓋好 120MW，成本只有五分之一，而且主要用自家風電。\n\n出口管制擋得住晶片，擋不住電廠。\n\n台灣的處境更尷尬：晶片是我們做的，最缺的卻是電。\n\nAI 的天花板從算力換成電力以後，台灣靠「什麼都造得出來」還能撐多久？",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T18:42:24.802427+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T01:42:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "手機廠開始把報廢手機上的記憶體熔下來，再焊到新機上。\n\n這不是環保，是 AI 資料中心把 DRAM 吃光之後的求生手段。\n\n先遭殃的是平價機：漲價、砍規格，甚至直接停產。\n\n明年你買的「中階機」，可能要付今年旗艦機的價錢，規格還退步。\n\n想換手機的人，年底這波可能是最後一次便宜買。",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T18:42:24.802433+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T04:02:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 寫一支 PR 只要幾分鐘，人看完卻要半天。\n\n瓶頸早就不在寫程式，而在審查、驗證，還有出事時能不能退回去。\n\nGoldman Sachs 把 Claude Code 從交易員手上收回，不是因為它寫不出來，而是沒人敢保證它寫的是對的。\n\n未來三年最值錢的工程能力，可能就是一鍵 rollback。",
+    "article_url": "/zh/ai-ml/2026-11-09-xie-cheng-shi-yi-jing-bu-zhi-qian-neng-yi-jian-rollback-cai-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-09T18:42:24.802450+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T06:22:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Someone wrote a bash script that emails Sam Altman whenever your RAM usage drops below 90%.\n\nIt's a joke. It's also the sharpest critique of the AI memory grab so far.\n\nPhones are getting price hikes, e-readers are getting cancelled, and makers are re-soldering memory pulled off dead devices.\n\nWhen developers start turning your supply chain into a meme, you've already lost the PR war. Budget phones are paying first. Mid-range is next.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T18:42:24.802440+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T08:42:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI agents now write code faster than any team can review it.\n\nThat flips the job. Writing code is cheap. Proving it's safe is expensive.\n\nGoldman pulling Claude Code from its traders isn't an anti-AI move. They ran out of review capacity.\n\nThe next billion-dollar dev tool won't write code. It'll tell you which 3% of the AI's code you actually need to read.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T18:42:24.802467+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T11:02:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "OpenAI set out to raise $30B. It got $11B.\n\nAt a $1.25T valuation, that isn't a vote of confidence. It's investors politely saying \"we'll take a smaller slice, thanks.\"\n\nAnthropic is heading toward an IPO, and public markets will ask what private rounds skipped: where's the margin?\n\nMy bet: 2027's AI darling won't be a trillion-dollar lab. It'll be a 40-person startup doing $100M ARR.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T18:42:24.802473+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T13:22:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "你買頭帶是想睡得好一點，它卻可能一直在幫大腦 AI 模型蒐集訓練資料。\n\n廠商說資料已經「去識別化」，但腦波本身就是生物特徵，光靠它就認得出你。\n\n密碼外洩可以改，腦波外洩要怎麼改？\n\n下一波被立法盯上的不會是聊天機器人，而是你床頭那些穿戴裝置。",
+    "article_url": "/zh/ai-ml/2026-11-09-wearable-sleep-trackers-are-using-your-brainwaves-to-train-a-zh/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-09T18:42:24.802494+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T15:42:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "OpenAI 想募 300 億美元，最後只拿到 110 億，連目標的一半都不到。\n\n估值 1.25 兆，錢卻收不滿，這不是市場有信心，是投資人開始算數學了。\n\n真正值得看的是那些 30 人就做到上億營收的 AI 新創，它們會重新定義什麼叫「有效率」。\n\n泡沫不會一夜破掉，但會先從「募不滿」開始漏氣。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-09T18:42:24.802478+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T18:02:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 助理的免費試吃期要結束了。\n\nApple 急著把 Siri 做成代理式助理，Apple、Samsung、Meta 也都在測付費方案和用量包。\n\n問題是 Siri 連設鬧鐘都會聽錯，現在要你付費讓它幫你訂機票？\n\n可靠度還沒到，計量收費就先來了。\n\n我猜明年最常見的客訴會是：「這個月額度用完，Siri 罷工了。」",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-09T18:42:24.802484+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T20:22:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Meta estimating your age with AI. A sleep headband training models on your brainwaves. Your Mac quietly sorting your family into categories.\n\n\"On-device\" and \"anonymized\" were supposed to mean you're safe. Now they're the loopholes.\n\nConsent buried in a firmware update isn't consent.\n\nExpect the first major brain-data privacy lawsuit within 12 months, and expect the defense to be \"it was de-identified.\"",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-09T18:42:24.802499+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T22:42:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Consumer AI is turning into a utility bill.\n\nPaid tiers, usage packs, cheap agent models for the free plan. Apple, Samsung and Meta are all testing how much you'll pay before you notice.\n\nThe catch: metering only works when the product works. Nobody tops up their data plan for a connection that drops half the time.\n\nThe first company to cap free AI features before fixing reliability is going to get crushed in reviews.",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-09T18:42:24.802489+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T01:02:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Uber isn't really getting into parking.\n\nIt's grabbing curb and garage access now, before robotaxis need somewhere to sleep at night.\n\nThe 10% cashback is just there to keep you inside Uber One until then.\n\nIn five years, the most valuable thing Uber owns might not be its app. It might be the parking spots.",
+    "article_url": "/en/products/2026-11-09-uber-wants-to-park-your-car-now-too-en/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-09T18:42:24.802503+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T03:22:24.804760+00:00",
+    "queued_at": "2026-11-09T18:42:24.804760+00:00"
   }
 ]

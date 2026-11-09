@@ -1,11 +1,17 @@
 # iPhone Duo
 
 
-*Mentioned in 11 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **Here’s how Webex adapts meetings and multitasking for iPhone Duo** (2026-11-09)
+  - Webex shipping native iPhone Duo support at launch proves foldables become useful when enterprise apps show up on day one, not when Apple ships the hardware.
+
+- **Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027** (2026-11-09)
+  - Motorola's leaked support page confirms the Razr Flex for 2027, which means it arrives after Apple and Samsung have already defined the wide-foldable category.
 
 - **How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think** (2026-11-08)
   - After inflation, the base iPhone barely costs more than it did in 2007. The real sticker shock comes from Apple's new $2,000-plus top tier.

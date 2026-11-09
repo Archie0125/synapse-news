@@ -1,11 +1,14 @@
 # Claude
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
+  - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.
 
 - **How I Fight AI Brain Fry** (2026-11-08)
   - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.

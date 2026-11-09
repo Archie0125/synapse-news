@@ -1,135 +1,135 @@
 # Startups
 
 
-*83 articles in the last 7 days*
+*104 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”
+### Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition
+
+*Tom's Hardware | 2026-11-09*
+
+
+DEEPX's butter demo is clever marketing, but melting butter doesn't measure performance per watt, which is the number that actually matters.
+
+
+### Medium is launching a new note-taking app called TK
+
+*The Verge | 2026-11-09*
+
+
+Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
+
+
+### Waymo robotaxis kept illegally passing school buses after software fix, feds say
 
 *TechCrunch | 2026-11-09*
 
 
-Jensen Huang's affair is a minor issue next to the alleged spy link, which turns a personal scandal into a governance risk for the whole AI industry.
+Waymo's school-bus recall looks like a fix that worked on paper only, because NHTSA says most violations happened after the patch shipped.
 
 
-### RIP, Harvest
+### Uber launches parking service following SpotHero acquisition, with an eye on robotaxis
 
-*Hacker News | 2026-11-09*
+*TechCrunch | 2026-11-09*
 
 
-Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
+Uber's parking feature looks like a commuter perk, but the real play is owning curbside real estate for the robotaxis it doesn't build.
 
 
-### He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.
+### Tesla expands robotaxi service to San Antonio
 
-*TechCrunch | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-Stephen Ward's view that VCs should sell on the way up is more honest than most of the industry's IPO talk. Now he has to prove it as Brightmind's only GP.
+Tesla adding San Antonio sounds like momentum, but announcing a launch with no hours, fleet size or safety details means we still can't judge it.
 
 
-### Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced
+### Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
 
-*SaaStr | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-Stripe's Privy update shows a strategic buyer pays for how big a startup can grow after the deal. Revenue sets the price, but it isn't why they buy.
+Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
 
 
-### Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor
+### Meta releases Muse Ember, a new lightweight model for agent execution
 
-*SaaStr | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
+Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
 
 
-### Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?
+### Meta expands Instagram’s AI age-guessing tech globally
 
-*SaaStr | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-VCs notice confidence first, but the useful version is knowing your numbers cold and admitting what you don't know, not charisma.
+Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.
 
 
-### Entire's Git Forge Rethinks Git Collaboration for Coding Agents
+### Meet Drops, the new music app bringing back the fun of sharing songs with friends
 
-*InfoQ | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
+Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
 
 
-### Petered
+### Medium’s new TK app brings AI assistance directly into the writing process
 
-*Hacker News | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-The Peter Principle missed the dangerous part: people promoted past their competence don't stall quietly, they take risks or sabotage others to keep climbing.
+Medium's TK app puts AI inside the writer's notebook, a useful idea that arrives just as authors are losing book deals over AI-written prose.
 
 
-### OpenAI raises $11B at a $1.25T valuation
+### Automattic debuts a platform to deploy vibe-coding apps amid a changing internet
 
-*Hacker News | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
+With Spacefast, Automattic is betting WordPress's infrastructure can host the vibe-coding era, but competing with Vercel and Lovable needs more than a decent CDN.
 
 
-### Ask HN: What are you working on? (November 2026)
+### Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines
 
-*Hacker News | 2026-11-08*
+*TechCrunch | 2026-11-09*
 
 
-HN's monthly show-and-tell now reads like an agent prompt library: some projects are pitched as URLs you paste into an AI rather than products you use yourself.
+Anthropic spending $3.4B on gas turbines shows that AI's real bottleneck has moved from chips to electricity, and even renters are now forced to buy.
 
 
-### I built a Korean real-estate data tool in 2 days. Then I found 7 others just like it.
+### The New Normal in Revenue Per Employee: $237K Is the Median, $655K Is the Top Tier, and Six B2B Leaders Now Clear $1.5M
 
-*Dev.to | 2026-11-08*
+*SaaStr | 2026-11-09*
 
 
-AI coding agents made a two-day side project possible; the harder lesson was that speed shrinks your edge, so market research matters more than the code.
+$237K in revenue per employee is still the median, but leaders now run 5x to 35x higher, which makes headcount-heavy 2027 plans look out of date.
 
 
-### How I designed one workflow for 4 restaurant roles (owner, waiter, kitchen, cashier)
+### Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?
 
-*Dev.to | 2026-11-08*
+*SaaStr | 2026-11-09*
 
 
-A student founder found the real restaurant-software problem: deciding who may change an order and when, not building more dashboards.
+Getting paid on time is mostly a matter of process: start reminders 60 days before renewal, and keep mission-critical service running for enterprise customers.
 
 
-### Discogs’ Kevin Lewandowski can’t live without his AeroPress
+### Ada Sold to Dialpad for $430M in Stock. Is That an Exit?
 
-*The Verge | 2026-11-07*
+*SaaStr | 2026-11-09*
 
 
-Discogs' founder lives on an AeroPress and barely posts on social media, which fits a business built on people leaving the algorithm for physical media.
+Ada's $430M merger with Dialpad is called an exit, but with no cash and two private companies, it mostly moves investors' locked-up equity from one company to another.
 
 
-### Amazon’s new basic Kindle proves you don’t need all the bells and whistles
+### Uber is launching its own parking reservation service
 
-*TechCrunch | 2026-11-07*
+*Engadget | 2026-11-09*
 
 
-The basic Kindle wins by default: AI-driven memory shortages pushed premium e-readers up $40 to $50, making 'good enough' at $169.99 the smart buy.
-
-
-### After the midterms, things are looking rocky for Elon Musk and data centers
-
-*TechCrunch | 2026-11-07*
-
-
-Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
-
-
-### SaaStr AI App of the Week: Base44. One Founder, Zero Funding, $80 Million From Wix in 6 Months. Now at $200 Million ARR.
-
-*SaaStr | 2026-11-07*
-
-
-Base44 is the best argument yet for bootstrapping in AI, and the clearest sign Wix got the bargain: $80M for a product now at $200M ARR.
+Uber Parking looks like a convenience feature, but the real play is grabbing urban parking lots before its robotaxi fleets need somewhere to wait.

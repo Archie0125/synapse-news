@@ -1,11 +1,35 @@
 # OpenAI
 
 
-*Mentioned in 22 articles*
+*Mentioned in 30 articles*
 
 
 ## Recent Mentions
 
+
+- **Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization** (2026-11-09)
+  - ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
+
+- **China builds massive 800-megawatt AI data center campus to rival US Stargate project** (2026-11-09)
+  - China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
+
+- **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
+  - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
+
+- **Disney and Adobe are building generative AI tools together** (2026-11-09)
+  - Disney's Adobe deal is a bet that "commercially safe," IP-trained AI can scale production, and "artist-led" is doing a lot of PR work in that pitch.
+
+- **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
+  - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
+
+- **The climate case for AI has not been made** (2026-11-09)
+  - Big Tech promised AI would fix the climate, yet the industries that could cut the most emissions are barely using it, so the bold claims remain untested.
+
+- **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
+  - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.
+
+- **Apple is racing to make Siri more agentic** (2026-11-08)
+  - Apple is finally admitting Siri is behind. Shipping app controls one OS update at a time won't catch rivals that already run multi-step goals on their own.
 
 - **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
   - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
@@ -27,27 +51,3 @@
 
 - **AI Companies Really, Really Want to Buy Your Work Files and Emails** (2026-11-06)
   - AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
-
-- **OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO** (2026-11-06)
-  - A $1.25 trillion valuation sounds triumphant, but raising $11 billion against a $30 billion target suggests even AI's biggest name is hitting investor fatigue.
-
-- **Big Tech lost big in the 2026 election** (2026-11-06)
-  - The 2026 midterms read as a vote against Big Tech, landing just as the industry still can't explain how AI makes money.
-
-- **All the latest updates on AI data centers** (2026-11-06)
-  - Voters have turned against AI data centers, and promises to cover energy costs won't hold off the Democratic push for restrictions after the midterms.
-
-- **AI is the new dating dealbreaker** (2026-11-06)
-  - In San Francisco, how you feel about AI now shows up on dating profiles the way political views do, a sign that AI has become a question of identity.
-
-- **Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI** (2026-11-06)
-  - Google is donating its agent infrastructure to the CNCF to make it the default standard, just as it did with Kubernetes. Giving it away is how Google keeps influence over it.
-
-- **Ramp data shows AI spending stalling just as Anthropic nears its IPO** (2026-11-06)
-  - Token usage keeps rising but spending has flatlined. That's great news for AI users and a big problem for AI labs pricing their IPOs on endless revenue growth.
-
-- **OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation** (2026-11-06)
-  - A $1.25 trillion valuation sounds huge until you notice it's down from a $1.4T target and the raise is a third of the $30B ask. The AI premium is deflating.
-
-- **Hundreds of Artex AI hacking tools found publicly exposed to the web** (2026-11-06)
-  - The scariest part of autonomous AI hacking tools isn't the AI. It's that 800+ of them are sitting online with no password, ready for anyone to borrow.

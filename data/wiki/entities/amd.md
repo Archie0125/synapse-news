@@ -1,11 +1,17 @@
 # AMD
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now** (2026-11-09)
+  - At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.
+
+- **AMD admits GPU driver bug is writing data continuously, wearing out SSDs** (2026-11-09)
+  - AMD's driver utility reportedly ate about 1% of users' SSD life each month while their PCs sat idle, and it's the second logging bug of this kind in a year.
 
 - **This is what ChatGPT personally feels about humans** (2026-11-08)
   - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.

@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age** (2026-11-08)
-  - Linux replacing 800 lines of MMX code with 12 is a nostalgia piece, but the real story is the kernel finally getting tough about legacy code.
+- **Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long** (2026-11-09)
+  - Acer built a portable gaming laptop with a great OLED screen whose weak battery life works against the reason you'd buy a portable one.
 
 - **Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server** (2026-11-08)
   - Dell's R770AP is a strong 256-core Xeon 6 box, but Intel couldn't supply Clearwater Forest chips for testing and Diamond Rapids is far off. That's the real story.

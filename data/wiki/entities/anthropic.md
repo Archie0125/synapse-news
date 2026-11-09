@@ -1,11 +1,35 @@
 # Anthropic
 
 
-*Mentioned in 22 articles*
+*Mentioned in 30 articles*
 
 
 ## Recent Mentions
 
+
+- **Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?** (2026-11-09)
+  - Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
+
+- **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
+  - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
+
+- **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
+  - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
+
+- **Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines** (2026-11-09)
+  - Anthropic spending $3.4B on gas turbines shows that AI's real bottleneck has moved from chips to electricity, and even renters are now forced to buy.
+
+- **The New Normal in Revenue Per Employee: $237K Is the Median, $655K Is the Top Tier, and Six B2B Leaders Now Clear $1.5M** (2026-11-09)
+  - $237K in revenue per employee is still the median, but leaders now run 5x to 35x higher, which makes headcount-heavy 2027 plans look out of date.
+
+- **Nancy Pelosi’s replacement is ready to regulate AI** (2026-11-09)
+  - Scott Wiener brings California's frontier AI safety fight to Congress, but Anthropic-linked campaign money will make every bill he writes look like a conflict of interest.
+
+- **Anthropic secures 1.7 GW of gas generators in a 3.4 billion dollar deal** (2026-11-09)
+  - Anthropic, xAI and Alphabet are all buying their own power now. AI's real moat is shifting from model weights to megawatts, and Caterpillar is cashing in.
+
+- **$3.4B bought Anthropic 1.7 GW of gas turbines** (2026-11-09)
+  - Anthropic's $3.4B turbine buy isn't really an energy deal. It's an admission that renting compute no longer guarantees the electricity frontier AI needs.
 
 - **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
   - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
@@ -27,27 +51,3 @@
 
 - **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
   - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
-
-- **Free Chinese AI Models Are Getting Scary Good at Hacking** (2026-11-06)
-  - Free, downloadable Chinese models now nearly match gated frontier models at hacking. The 'buy time' logic behind restricted releases just ran out of time.
-
-- **AI Companies Really, Really Want to Buy Your Work Files and Emails** (2026-11-06)
-  - AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
-
-- **Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes** (2026-11-06)
-  - An AI agent that deletes a syllabus while renumbering pages is not 'rogue.' It shows that giving agents file access without guardrails is the real mistake.
-
-- **OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO** (2026-11-06)
-  - A $1.25 trillion valuation sounds triumphant, but raising $11 billion against a $30 billion target suggests even AI's biggest name is hitting investor fatigue.
-
-- **Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI** (2026-11-06)
-  - Google is donating its agent infrastructure to the CNCF to make it the default standard, just as it did with Kubernetes. Giving it away is how Google keeps influence over it.
-
-- **Ramp data shows AI spending stalling just as Anthropic nears its IPO** (2026-11-06)
-  - Token usage keeps rising but spending has flatlined. That's great news for AI users and a big problem for AI labs pricing their IPOs on endless revenue growth.
-
-- **OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation** (2026-11-06)
-  - A $1.25 trillion valuation sounds huge until you notice it's down from a $1.4T target and the raise is a third of the $30B ask. The AI premium is deflating.
-
-- **A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost** (2026-11-06)
-  - The interesting result isn't the 4x savings; it's that a small model's ability to recognize its own uncertainty matters more than its raw accuracy.

@@ -1,11 +1,14 @@
 # Gemini
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Gemini rolling out ‘Memory summary’ with everything it remembers about you** (2026-11-09)
+  - Gemini's Memory summary is a genuine transparency win, but seeing your life neatly categorized by an AI is also a reminder of how much it already knows.
 
 - **5 unexpected uses for your old smartwatch** (2026-11-08)
   - Turning an old smartwatch into an AI voice remote is a clever reuse, but it's also a reminder that short software support is what fills those drawers.

@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context** (2026-11-09)
+  - NVIDIA and Elith's synthetic Japanese finance personas are a clever workaround for privacy rules, but synthetic realism still has to survive real-world testing.
+
 - **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
   - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
 
@@ -24,6 +27,3 @@
 
 - **Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation** (2026-11-05)
   - Supermicro's convertible GB300 tower is the most honest DGX Station design: it admits a desk-side AI box is really a server that hasn't reached a rack yet.
-
-- **Qualcomm Validates HBC Stacked Memory Ahead of 2027 Dragonfly AI250 Sampling** (2026-11-02)
-  - Qualcomm's HBC flips HBM by putting compute under the memory stack. The idea is smart, but validation slides aren't silicon in customer racks yet.

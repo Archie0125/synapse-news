@@ -1,11 +1,20 @@
 # Tesla
 
 
-*Mentioned in 6 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Tesla expands robotaxi service to San Antonio** (2026-11-09)
+  - Tesla adding San Antonio sounds like momentum, but announcing a launch with no hours, fleet size or safety details means we still can't judge it.
+
+- **Musk says Tesla will refund some Cybertruck deposits, defends decision to end production** (2026-11-09)
+  - Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
+
+- **Why EV fast charging slows down after 80 percent** (2026-11-09)
+  - The slowdown after 80 percent isn't a flaw. It's battery chemistry, and the 10-to-80 percent figure on spec sheets is the industry quietly admitting it.
 
 - **The Cybertruck’s Death Is Actually Great News for EVs** (2026-11-06)
   - The Cybertruck's death isn't just Tesla's embarrassment: it signals that oversized EVs were a dead end and that battery cells belong in smaller, cheaper cars.

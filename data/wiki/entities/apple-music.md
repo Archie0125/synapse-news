@@ -1,11 +1,14 @@
 # Apple Music
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year** (2026-11-09)
+  - Apple Music crowning Olivia Dean is a safe, data-backed pick, but the year-end ritual still feels like a polite echo of Spotify Wrapped.
 
 - **What does Apple One Family come with and which subscription is best for you?** (2026-11-08)
   - Apple One is still a discount after this year's price hikes, but the bundle is really a tool to lock households deeper into Apple's ecosystem.

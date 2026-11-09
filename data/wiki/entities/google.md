@@ -1,11 +1,41 @@
 # Google
 
 
-*Mentioned in 29 articles*
+*Mentioned in 38 articles*
 
 
 ## Recent Mentions
 
+
+- **I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found** (2026-11-09)
+  - Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
+
+- **Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center** (2026-11-09)
+  - When motorcycle racers and bee conservationists team up against Google, it shows how wide local opposition to Britain's AI data center push has become.
+
+- **Medium is launching a new note-taking app called TK** (2026-11-09)
+  - Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
+
+- **The climate case for AI has not been made** (2026-11-09)
+  - Big Tech promised AI would fix the climate, yet the industries that could cut the most emissions are barely using it, so the bold claims remain untested.
+
+- **Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement** (2026-11-09)
+  - Gemini 4 Argon has impressive robotics demos and benchmark scores, but heavy prompt scaffolding and missing failure rates make it hard to tell how much is the model.
+
+- **What the tiny blue dot on your Android phone is telling you** (2026-11-09)
+  - Android's blue location dot is small, but it's one of the few honest signals your phone gives you about who is tracking you.
+
+- **YouTube auf Quest wird neu gedacht – aber was macht das mit deinen Augen?** (2026-11-09)
+  - A YouTube redesign on Quest becomes a pitch for VR amblyopia training, an intriguing idea that still needs clinical evidence more than marketing copy.
+
+- **Pixel 10a drops to $449, the best deal you’ll find after Google’s price hike** (2026-11-09)
+  - A $449 Pixel 10a feels like a steal only because Google hiked it to $599. The real story is how RAM inflation reset what 'mid-range' costs.
+
+- **Google Gemini rolling out ‘Memory summary’ with everything it remembers about you** (2026-11-09)
+  - Gemini's Memory summary is a genuine transparency win, but seeing your life neatly categorized by an AI is also a reminder of how much it already knows.
+
+- **Android Auto cutting off older devices, now requires Android 11 or newer** (2026-11-09)
+  - Google quietly raising Android Auto's floor to Android 11 is reasonable housekeeping, but announcing it on a support page after drivers saw warnings is sloppy communication.
 
 - **You can attach your Fitbit Air to almost any old-school watch** (2026-11-08)
   - The screenless Fitbit Air quietly solves the wearable's biggest problem: you can keep your mechanical watch and still track your health.
@@ -21,33 +51,3 @@
 
 - **Google Expands UCP Direct Checkout to AI Mode and Gemini in Canada** (2026-11-08)
   - Google bringing checkout inside Gemini in Canada is a quiet power grab: retailers stay seller of record, but Google owns the moment the purchase decision happens.
-
-- **This GPS navigation app should be the go-to for older drivers** (2026-11-07)
-  - For older drivers, the best navigation app is the one that stays quiet, and Google Maps wins by being the less flashy choice.
-
-- **How often should you restart your Fitbit watch?** (2026-11-07)
-  - Restarting a Fitbit is harmless and often fixes glitches, but the real lesson is not to confuse restart with reset, which wipes your data.
-
-- **5 Google Messages settings you might want to disable** (2026-11-07)
-  - Google Messages beat third-party texting apps, but its default settings, from read receipts to AI extras, still don't serve users well.
-
-- **Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini** (2026-11-07)
-  - Google Messages' redesign makes search easier to reach with one hand, but the iMessage-style pinned avatars give up useful preview text for looks.
-
-- **Big Tech lost big in the 2026 election** (2026-11-06)
-  - The 2026 midterms read as a vote against Big Tech, landing just as the industry still can't explain how AI makes money.
-
-- **All the latest updates on AI data centers** (2026-11-06)
-  - Voters have turned against AI data centers, and promises to cover energy costs won't hold off the Democratic push for restrictions after the midterms.
-
-- **Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI** (2026-11-06)
-  - Google is donating its agent infrastructure to the CNCF to make it the default standard, just as it did with Kubernetes. Giving it away is how Google keeps influence over it.
-
-- **Meta, Google, and TikTok sue California AG over teen social media law** (2026-11-06)
-  - Big Tech says autoplay and algorithmic feeds are protected speech. That's a clever legal frame, and it quietly admits the feed itself is the product.
-
-- **Google's Find Hub can finally notify you if you've left a tracker behind** (2026-11-06)
-  - Google finally added left-behind alerts to Find Hub, years after Apple and Samsung. The feature is fine. Android's slow response to obvious gaps is the real story.
-
-- **Google's eyewear partners can't keep a lid on its smart glasses plans** (2026-11-06)
-  - Google's partners keep announcing its smart glasses before Google does. That's either sloppy coordination or the most effective leak campaign of the year.

@@ -1,11 +1,14 @@
 # Bloomberg
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple pushing faster on agentic Siri would carry three big risks** (2026-11-09)
+  - Apple rushing agentic Siri to catch rivals risks swapping its slowness problem for something worse: an assistant that confidently does the wrong thing.
 
 - **Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims** (2026-11-06)
   - Nvidia is using its cloud partner status as a soft export-control tool, making itself the enforcer to keep Washington from imposing harsher rules.

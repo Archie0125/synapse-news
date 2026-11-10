@@ -1,10 +1,90 @@
 # Products
 
 
-*460 articles in the last 7 days*
+*536 articles in the last 7 days*
 
 
 ## Latest
+
+
+### David Ellison says AI could be the ‘biggest creative unlock in modern history’
+
+*The Verge | 2026-11-10*
+
+
+Ellison sells AI as Hollywood's next CGI moment, but his own Terminator math shows the real pitch: cheaper production, not bolder art.
+
+
+### The safety reason TSA might ask you to turn on your phone
+
+*Engadget | 2026-11-10*
+
+
+A TSA request to power on your phone is a harmless 2014 rule. The real privacy issue is CBP's border search exception, which can reach your phone's contents.
+
+
+### How to turn on personal results on your Google Home
+
+*Engadget | 2026-11-10*
+
+
+Gemini makes Google Home smarter, but personal results only pay off if the speaker reliably tells your voice from everyone else's in the house.
+
+
+### Every senior with an Apple Watch should set up these 5 health alerts
+
+*Engadget | 2026-11-10*
+
+
+The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
+
+
+### How to get a Discord alert when your Minecraft server goes down
+
+*Dev.to | 2026-11-10*
+
+
+A tidy ten-minute monitoring hack that is honest about where it falls short, and that honesty doubles as the pitch for the author's paid product.
+
+
+### Canadian court certifies class action against Apple over Google search deal
+
+*9to5Mac | 2026-11-10*
+
+
+The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
+
+
+### 9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28
+
+*9to5Mac | 2026-11-10*
+
+
+A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.
+
+
+### Google Antigravity adds ‘Knowledge Work’ interface for non-coding work
+
+*9to5Google | 2026-11-10*
+
+
+Google's Knowledge Work mode admits coding agents were general-purpose agents all along; the IDE was just the first container.
+
+
+### These WIRED-Tested Standing Desks Are Already on Sale for Black Friday
+
+*Wired | 2026-11-09*
+
+
+Standing desks aren't a health cure, but a 20 percent discount plus a walking pad is the most honest pitch for a New Year resolution.
+
+
+### The Home Depot Best Early Black Friday Deals (2026)
+
+*Wired | 2026-11-09*
+
+
+Black Friday now starts before Halloween decorations come down, and Home Depot's early smart-appliance deals show retailers racing to lock in spending.
 
 
 ### King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion
@@ -31,14 +111,6 @@ Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check w
 Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
 
 
-### Save $300 on this RTX 5070 gaming PC with 32GB DDR5, now under $2,000
-
-*Tom's Hardware | 2026-11-09*
-
-
-A $300 discount on an RTX 5070 prebuilt looks good until the listing names a CPU that does not exist; check the specs before you buy.
-
-
 ### Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W
 
 *Tom's Hardware | 2026-11-09*
@@ -61,75 +133,3 @@ At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need tw
 
 
 Acer built a portable gaming laptop with a great OLED screen whose weak battery life works against the reason you'd buy a portable one.
-
-
-### Uber wants to park your car now, too
-
-*The Verge | 2026-11-09*
-
-
-Uber Parking looks like a commuter convenience, but the bigger play is owning the garages that robotaxi fleets will need.
-
-
-### Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec
-
-*The Verge | 2026-11-09*
-
-
-Trump's idea of AI safety policy is apparently threatening an unnamed CEO with jail, which is governance by intimidation, not by rules.
-
-
-### The future of AI hinges on… Jensen Huang’s sex life?
-
-*The Verge | 2026-11-09*
-
-
-The Megaspeed spy allegations matter less as gossip than as a stress test of Nvidia's lobbying against export controls; one leak story could undo that campaign.
-
-
-### Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage
-
-*The Verge | 2026-11-09*
-
-
-Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.
-
-
-### Medium is launching a new note-taking app called TK
-
-*The Verge | 2026-11-09*
-
-
-Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
-
-
-### James Gunn is out as DC movie leader
-
-*The Verge | 2026-11-09*
-
-
-James Gunn's exit after the Paramount-Warner merger shows that megamergers turn creative visionaries into a line item, and DC's reboot loses its author.
-
-
-### How to shop like a pro during Black Friday and Cyber Monday
-
-*The Verge | 2026-11-09*
-
-
-With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.
-
-
-### Hold up — I had a great time talking to the RIAA guy
-
-*The Verge | 2026-11-09*
-
-
-When even the RIAA becomes the internet's ally, AI companies should realize they've united creators, labels and fans against them.
-
-
-### Here are the price-matching policies for Best Buy, Walmart, and others
-
-*The Verge | 2026-11-09*
-
-
-Price matching sounds consumer-friendly, but the fine print shows it's mostly a retention tool, and Amazon doesn't need one at all.

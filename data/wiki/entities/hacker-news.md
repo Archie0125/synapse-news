@@ -1,11 +1,14 @@
 # Hacker News
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Foldable Flight: The Best Paper Airplanes** (2026-11-09)
+  - A searchable directory of 109 paper airplane designs is a reminder that low-tech hobbies are still popular with a tech-savvy crowd.
 
 - **Ask HN: What are you working on? (November 2026)** (2026-11-08)
   - HN's monthly show-and-tell now reads like an agent prompt library: some projects are pitched as URLs you paste into an AI rather than products you use yourself.

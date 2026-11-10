@@ -1,11 +1,14 @@
 # LG
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **The Home Depot Best Early Black Friday Deals (2026)** (2026-11-09)
+  - Black Friday now starts before Halloween decorations come down, and Home Depot's early smart-appliance deals show retailers racing to lock in spending.
 
 - **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
   - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.

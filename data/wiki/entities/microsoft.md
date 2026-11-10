@@ -1,11 +1,17 @@
 # Microsoft
 
 
-*Mentioned in 11 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **You can grab three months of Game Pass Ultimate for under $20 per month** (2026-11-09)
+  - A $19-a-month Game Pass deal looks generous until you count what Microsoft quietly removed: Call of Duty and unlimited cloud gaming.
+
+- **Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up** (2026-11-09)
+  - Microsoft is finally fixing the Sticky Keys pop-up after decades of gamers rage-quitting. It's a tiny checkbox that shows how slowly Windows fixes papercuts.
 
 - **Open-source GPU task manager reveals exactly what's eating your VRAM** (2026-11-08)
   - A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.

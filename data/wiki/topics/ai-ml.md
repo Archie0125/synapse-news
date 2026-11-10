@@ -1,10 +1,98 @@
 # AI & ML
 
 
-*238 articles in the last 7 days*
+*247 articles in the last 7 days*
 
 
 ## Latest
+
+
+### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+
+*Wired | 2026-11-10*
+
+
+DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+
+
+### David Ellison says AI could be the ‘biggest creative unlock in modern history’
+
+*The Verge | 2026-11-10*
+
+
+Ellison sells AI as Hollywood's next CGI moment, but his own Terminator math shows the real pitch: cheaper production, not bolder art.
+
+
+### Anthropic reportedly plans to move forward with IPO plans
+
+*TechCrunch | 2026-11-10*
+
+
+Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+
+
+### How to turn on personal results on your Google Home
+
+*Engadget | 2026-11-10*
+
+
+Gemini makes Google Home smarter, but personal results only pay off if the speaker reliably tells your voice from everyone else's in the house.
+
+
+### TailSteer reduces drift in multi‑turn image editing; History Forcing stabilizes long‑horizon video generation
+
+*Dev.to | 2026-11-10*
+
+
+TailSteer and History Forcing go after generative AI's real weakness, which isn't the first image but the fifteenth edit and the fifteenth second.
+
+
+### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
+
+*Dev.to | 2026-11-10*
+
+
+RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
+
+
+### One Afternoon of Our AI Coding Sessions, and Why They Don't Collide
+
+*Dev.to | 2026-11-10*
+
+
+Multi-agent coding works when the teams look more like microservices than a crowd in one repo. Separate repos and versioned releases are what stop the AI workers from colliding.
+
+
+### I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best
+
+*Dev.to | 2026-11-10*
+
+
+A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+
+### How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything
+
+*Dev.to | 2026-11-10*
+
+
+A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+
+### Google Antigravity adds ‘Knowledge Work’ interface for non-coding work
+
+*9to5Google | 2026-11-10*
+
+
+Google's Knowledge Work mode admits coding agents were general-purpose agents all along; the IDE was just the first container.
+
+
+### Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work
+
+*Wired | 2026-11-09*
+
+
+Waymo's school bus recall exposes the core problem with AV safety: a software fix is only a claim until real roads prove it.
 
 
 ### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
@@ -29,22 +117,6 @@ When motorcycle racers and bee conservationists team up against Google, it shows
 
 
 Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
-
-
-### Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent
-
-*Tom's Hardware | 2026-11-09*
-
-
-Sleep headbands quietly turning users' brainwaves into AI training data is a consent failure, and 'we removed your name' is a weak defense for neural data.
-
-
-### Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization
-
-*Tom's Hardware | 2026-11-09*
-
-
-ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
 
 
 ### Nvidia cracks down on overseas cloud AI GPU rentals for China
@@ -87,81 +159,9 @@ DEEPX's butter demo is clever marketing, but melting butter doesn't measure perf
 Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
 
 
-### Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec
+### What could China get from Jensen Huang?
 
 *The Verge | 2026-11-09*
 
 
-Trump's idea of AI safety policy is apparently threatening an unnamed CEO with jail, which is governance by intimidation, not by rules.
-
-
-### The future of AI hinges on… Jensen Huang’s sex life?
-
-*The Verge | 2026-11-09*
-
-
-The Megaspeed spy allegations matter less as gossip than as a stress test of Nvidia's lobbying against export controls; one leak story could undo that campaign.
-
-
-### Hold up — I had a great time talking to the RIAA guy
-
-*The Verge | 2026-11-09*
-
-
-When even the RIAA becomes the internet's ally, AI companies should realize they've united creators, labels and fans against them.
-
-
-### Disney and Adobe are building generative AI tools together
-
-*The Verge | 2026-11-09*
-
-
-Disney's Adobe deal is a bet that "commercially safe," IP-trained AI can scale production, and "artist-led" is doing a lot of PR work in that pitch.
-
-
-### Why semantic layers will be essential for enterprise AI
-
-*The New Stack | 2026-11-09*
-
-
-MCP solved how AI agents reach enterprise data, not whether they understand it, and the semantic layer is where enterprise AI succeeds or fails.
-
-
-### Waymo robotaxis kept illegally passing school buses after software fix, feds say
-
-*TechCrunch | 2026-11-09*
-
-
-Waymo's school-bus recall looks like a fix that worked on paper only, because NHTSA says most violations happened after the patch shipped.
-
-
-### Tesla expands robotaxi service to San Antonio
-
-*TechCrunch | 2026-11-09*
-
-
-Tesla adding San Antonio sounds like momentum, but announcing a launch with no hours, fleet size or safety details means we still can't judge it.
-
-
-### Meta releases Muse Ember, a new lightweight model for agent execution
-
-*TechCrunch | 2026-11-09*
-
-
-Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
-
-
-### Meta expands Instagram’s AI age-guessing tech globally
-
-*TechCrunch | 2026-11-09*
-
-
-Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.
-
-
-### Medium’s new TK app brings AI assistance directly into the writing process
-
-*TechCrunch | 2026-11-09*
-
-
-Medium's TK app puts AI inside the writer's notebook, a useful idea that arrives just as authors are losing book deals over AI-written prose.
+The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.

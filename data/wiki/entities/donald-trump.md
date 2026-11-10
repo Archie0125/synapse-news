@@ -1,14 +1,17 @@
 # Donald Trump
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
 
-- **Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec** (2026-11-09)
-  - Trump's idea of AI safety policy is apparently threatening an unnamed CEO with jail, which is governance by intimidation, not by rules.
+- **Jensen Huang’s Troubles Leave the AI Industry Reeling** (2026-11-10)
+  - The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+
+- **What could China get from Jensen Huang?** (2026-11-09)
+  - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
 
 - **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (2026-11-08)
   - Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.

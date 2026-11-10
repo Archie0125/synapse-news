@@ -1,11 +1,14 @@
 # Cisco
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability** (2026-11-09)
+  - After Cisco v. Doe I, U.S. tech companies whose products help abusive regimes face no ATS liability, and only Congress can change that.
 
 - **Here’s how Webex adapts meetings and multitasking for iPhone Duo** (2026-11-09)
   - Webex shipping native iPhone Duo support at launch proves foldables become useful when enterprise apps show up on day one, not when Apple ships the hardware.

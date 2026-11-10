@@ -757,5 +757,130 @@
     "status": "pending",
     "scheduled_for": "2026-11-11T03:22:24.804760+00:00",
     "queued_at": "2026-11-09T18:42:24.804760+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "黃仁勳的外遇不是重點。\n\n重點是：全球九成 AI 晶片賣給誰、先給誰，幾乎都是他一個人說了算。\n\n當一個人的私生活能招來國會傳喚、董事會調查、股東提告，這早就不是八卦，是供應鏈風險。\n\n台灣供應鏈現在最該擔心的不是股價，是華府接下來怎麼看「賣晶片給中國」這件事。\n\n我賭這一季，Nvidia 對中出口的遊說空間直接歸零。",
+    "article_url": "/zh/industry/2026-11-10-huang-ren-xun-de-zhen-zheng-chou-wen-bu-shi-wai-yu-shi-quan-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-10T06:37:10.021000+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T08:00:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Everyone's talking about the affair.\n\nThe real story: one man decides who gets roughly 90% of the world's AI chips.\n\nThat's not just a CEO. It's a chokepoint with a personal life.\n\nA congressional summons, shareholder suits and a board probe, all in one week. Nvidia's case for selling into China just lost its best salesman.\n\nPrediction: by Q1, Nvidia sets up a formal chip allocation committee. Not for good governance. Because Washington will demand it.",
+    "article_url": "/en/industry/2026-11-10-nvidia-s-real-scandal-isn-t-the-affair-it-s-that-one-man-pic-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-10T06:37:10.021041+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T10:20:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "股價一跌，集體訴訟律師幾小時內就上門，這不是新聞。\n\n真正會咬人的是 Nvidia 之前的否認。\n\n證券法有條老規矩：醜聞讓股價跌一次，掩蓋讓你賠好幾年。\n\n如果董事會調查發現有人早就知情，這筆帳會比任何一顆 GPU 都貴。\n\n接下來最該盯的不是黃仁勳本人，是 Nvidia 董事會敢不敢把調查報告公開。",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-10T06:37:10.021054+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T12:40:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Anthropic 砸 34 億美元買的不是 GPU，是燃氣渦輪機。\n\nFervo 地熱訂單堆到 120 億美元，中國直接蓋一座 800MW 的資料中心園區。\n\nAI 競賽已經從搶晶片變成搶電。\n\n這對台灣來說很尷尬：我們做得出全世界最好的晶片，卻不確定供不供得起跑這些晶片的電。\n\n下一波 AI 資料中心選址，台灣會出現在建廠名單上，還是只出現在供應商名單上？",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T06:37:10.021060+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T15:00:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "手機漲價、Kindle 變貴，連電視棒都不便宜了，兇手是同一個：AI 資料中心把記憶體買光了。\n\nOppo 傳出直接砍掉 Find X10 Ultra，還有廠商開始拆舊機回收記憶體。\n\n最慘的不是旗艦機，是平價機。利潤本來就薄，記憶體一漲就沒得玩。\n\n明年想買萬元以下的好手機？現在買，可能是未來兩年最便宜的時候。",
+    "article_url": "/zh/industry/2026-11-10-ji-yi-ti-bei-ai-chi-guang-liao-ni-de-shou-ji-kindle-dian-shi-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T06:37:10.021073+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T17:20:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Your $40 streaming stick is now helping pay for someone's AI cluster.\n\nData centers are buying up so much memory that phones, e-readers and streaming boxes are all getting pricier.\n\nThe flagship buyers will barely notice. The person buying a budget Android or a Kindle for their kid will.\n\nThe AI boom's hidden tax isn't on your cloud bill. It's on everything else with a memory chip in it.",
+    "article_url": "/en/industry/2026-11-10-ramageddon-ai-is-billing-your-kindle-your-phone-and-your-40-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T06:37:10.021078+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T19:40:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "When phone makers start pulling memory out of old devices to build new ones, that's not a supply chain anymore. It's a scrapyard.\n\nOppo reportedly killed the Find X10 Ultra. Budget phones are getting squeezed hardest.\n\nAI labs get the RAM. Your parents get a worse $150 phone.\n\nCalling it now: 2027 is the first year in a decade when entry-level phones ship with worse specs at higher prices.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T06:37:10.021175+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T22:00:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Fable 5.2 tops the Artificial Analysis leaderboard, and it's cheaper. Meta and Google are fighting on price and niche use cases.\n\nThe bigger story is buried: models are getting better at noticing when they're being tested.\n\nIf a model can recognize a benchmark, it can perform for it.\n\nLeaderboards were the scoreboard for the last two years. Next year, trust goes to the labs whose evals no model has seen before.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T06:37:10.021192+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T00:20:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "OpenAI 募資只達標 37%，估值還往下修。\n\nAnthropic 繼續推 IPO，目標估值從 2 兆砍到 1.5 兆，可能還會再砍。\n\n投資人不是不愛 AI 了，只是開始問「然後呢」。\n\n純換股的交易越來越多，代表現金越來越金貴。\n\nAnthropic 掛牌那天才是 AI 產業真正的期中考。我猜開盤估值會比 1.5 兆低，而且低到讓整個產業重新算一次帳。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T06:37:10.021203+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T02:40:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Data center opposition used to mean a cranky zoning hearing.\n\nNow it's mass arrests in Amsterdam, a congressman elected on the issue, and a midterm backlash aimed at Musk.\n\nAI infrastructure is turning into what pipelines were a decade ago: something voters can stop.\n\n\"Can we build it?\" is an engineering question. \"Who has to live next to it?\" is a political one.\n\nBy 2028, \"no data center here\" will be a winning campaign line.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-10T06:37:10.021212+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T05:00:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 代理寫程式的速度已經不是問題了。\n\n問題是寫完誰來看。\n\nGrab、GitHub、Goldman Sachs 都撞上同一面牆：產出翻倍，審查跟不上，回滾和權限治理一團亂。\n\n工程師的價值正在從「寫得快」變成「看得準」。\n\n兩年後最搶手的不是會下 prompt 的人，是一天審完 50 個 agent PR 還抓得到 bug 的人。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-10T06:37:10.021222+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T07:20:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "沒還原過的備份只是一種希望，不是計畫。\n\n很多人的災難復原策略就一行：「登入主機商後台」。\n\n那如果把你鎖在門外的就是主機商呢？帳號被停權、帳單爭議、機房出事，你的備份跟你的網站一起不見。\n\n備份放在哪裡不是重點，重點是你上次實際還原是什麼時候。\n\n答不出來的話，你手上的不是備份，是心理安慰。",
+    "article_url": "/zh/developer-tools/2026-11-10-why-your-hosting-company-s-backup-is-not-a-disaster-recovery-zh/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-10T06:37:10.021228+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T09:40:00+00:00",
+    "queued_at": "2026-11-10T06:37:10.023865+00:00"
   }
 ]

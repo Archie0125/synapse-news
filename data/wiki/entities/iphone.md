@@ -1,11 +1,14 @@
 # iPhone
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Why you probably shouldn't buy gadgets with micro USB ports** (2026-11-09)
+  - A micro USB port in 2026 is a red flag: it tells you the product is either old stock or the maker cut corners.
 
 - **The disadvantages of buying tech from other countries** (2026-11-09)
   - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.

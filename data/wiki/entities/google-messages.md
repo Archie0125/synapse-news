@@ -1,11 +1,14 @@
 # Google Messages
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure** (2026-11-10)
+  - DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
 
 - **5 Google Messages settings you might want to disable** (2026-11-07)
   - Google Messages beat third-party texting apps, but its default settings, from read receipts to AI extras, still don't serve users well.

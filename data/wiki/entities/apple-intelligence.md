@@ -1,7 +1,7 @@
 # Apple Intelligence
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
   - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.
+
+- **Apple Intelligence completes regulatory registration for iPad and Mac in China** (2026-11-09)
+  - Apple Intelligence clearing China's registration for iPad and Mac is progress, but each device category needing separate approval shows Beijing, not Cupertino, sets the launch schedule.
 
 - **Every Mac comes with an (undocumented) family member classifier** (2026-11-07)
   - Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.

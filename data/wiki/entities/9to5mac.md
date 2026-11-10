@@ -1,11 +1,14 @@
 # 9to5Mac
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28** (2026-11-10)
+  - A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.
 
 - **Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack** (2026-11-09)
   - The record $6.3B Binance hack reportedly started with a fake job interview and a malicious Homebrew clone, more proof that 'Macs don't get malware' is a dangerous myth.

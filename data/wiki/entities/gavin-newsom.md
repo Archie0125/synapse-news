@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Nancy Pelosi’s replacement is ready to regulate AI** (2026-11-09)
-  - Scott Wiener brings California's frontier AI safety fight to Congress, but Anthropic-linked campaign money will make every bill he writes look like a conflict of interest.
+- **California’s proposed ‘billionaire tax’ fails to pass** (2026-11-10)
+  - California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
 
 - **Meta, Google, and TikTok sue California AG over teen social media law** (2026-11-06)
   - Big Tech says autoplay and algorithmic feeds are protected speech. That's a clever legal frame, and it quietly admits the feed itself is the product.

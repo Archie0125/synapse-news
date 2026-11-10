@@ -1,25 +1,25 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-09*
+*Last updated: 2026-11-10*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-09](daily/2026-11-09.md)
+- [Daily Digest 2026-11-10](daily/2026-11-10.md)
 
 
 ## Recent Analysis
 
-- [41 場公投輸 40 場：AI 資料中心的天敵不是缺電，是選民](analysis/2026-11-09-voters-just-became-ai-s-scarcest-resource-and-nvidia-already-zh.md)
+- [記憶體被 AI 吃光了：你的手機、Kindle、電視棒都在替輝達買單](analysis/2026-11-10-ramageddon-ai-is-billing-your-kindle-your-phone-and-your-40-zh.md)
 
-- [Voters Just Became AI's Scarcest Resource, and Nvidia Already Knows It](analysis/2026-11-09-voters-just-became-ai-s-scarcest-resource-and-nvidia-already-en.md)
+- [RAMageddon: AI Is Billing Your Kindle, Your Phone and Your $40 Stick](analysis/2026-11-10-ramageddon-ai-is-billing-your-kindle-your-phone-and-your-40-en.md)
 
-- [閉源模型的護城河只撐了七個月：免費 AI 駭客時代正式開打](analysis/2026-11-09-the-hacking-gap-closed-in-seven-months-defenders-are-still-p-zh.md)
+- [黃仁勳的真正醜聞不是外遇，是全球 AI 晶片由他一人說了算](analysis/2026-11-10-nvidia-s-real-scandal-isn-t-the-affair-it-s-that-one-man-pic-zh.md)
 
-- [The Hacking Gap Closed in Seven Months. Defenders Are Still Patching](analysis/2026-11-09-the-hacking-gap-closed-in-seven-months-defenders-are-still-p-en.md)
+- [Nvidia's Real Scandal Isn't the Affair. It's That One Man Picks the Buyers](analysis/2026-11-10-nvidia-s-real-scandal-isn-t-the-affair-it-s-that-one-man-pic-en.md)
 
-- [AI 吃光記憶體：Kindle 漲 50 美元、Ultra 旗艦被砍，連拆機料都上新機了](analysis/2026-11-09-ramageddon-is-splitting-gadgets-into-two-tiers-and-the-middl-zh.md)
+- [Fable 5.2 拿下排行榜第一，但排行榜本身已經快不可信了](analysis/2026-11-10-fable-5-2-wins-the-leaderboard-the-leaderboard-is-losing-the-zh.md)
 
 
 ## Topics
@@ -81,6 +81,6 @@
 
 - [Anthropic](entities/anthropic.md)
 
-- [Apache Kafka](entities/apache-kafka.md)
+- [Antigravity](entities/antigravity.md)
 
-- [Apple Arcade](entities/apple-arcade.md)
+- [Apache Kafka](entities/apache-kafka.md)

@@ -1,7 +1,7 @@
 # Hugging Face
 
 
-*Mentioned in 7 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -19,11 +19,5 @@
 - **Dharma Field Extractor: Any Document In, Structured Fields in JSON Out** (2026-11-04)
   - A 2B-parameter specialist claiming to beat frontier LLMs at document field extraction is a sign that paying frontier prices for high-volume, narrow tasks no longer makes sense.
 
-- **Transformers Model Integration Contracts** (2026-11-03)
-  - A silent bug let UMT5 peek at future tokens for two months. Hugging Face's answer, tiny real-architecture fixtures on CPU, shows cheap tests can catch what huge GPU suites miss.
-
 - **Palette: teaching a small model to build decks in your design language** (2026-11-03)
   - Palette suggests the real moat in AI slides isn't model size but owning your design language. A fine-tuned 20B model with a harness can beat frontier models' house style.
-
-- **CWE-bench v2: More coverage, quality, and transparency** (2026-11-03)
-  - CWE-bench v2 tests whether AI can fix 91 kinds of real vulnerabilities without breaking code, which is a better question than 'can it spot a familiar bug pattern'.

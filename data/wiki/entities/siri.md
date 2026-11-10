@@ -1,11 +1,14 @@
 # Siri
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple starts offering $50 extended usage packs for AI features in Creator Studio** (2026-11-09)
+  - Apple's $50 AI usage packs show that generative AI isn't really unlimited in a subscription, and creative professionals are paying more for it first.
 
 - **Apple pushing faster on agentic Siri would carry three big risks** (2026-11-09)
   - Apple rushing agentic Siri to catch rivals risks swapping its slowness problem for something worse: an assistant that confidently does the wrong thing.

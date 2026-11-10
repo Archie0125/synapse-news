@@ -1,11 +1,17 @@
 # Cursor
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best** (2026-11-10)
+  - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+- **How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything** (2026-11-10)
+  - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
 
 - **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
   - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.

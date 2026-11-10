@@ -1,14 +1,14 @@
 # OpenAI
 
 
-*Mentioned in 30 articles*
+*Mentioned in 29 articles*
 
 
 ## Recent Mentions
 
 
-- **Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization** (2026-11-09)
-  - ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
+- **Anthropic reportedly plans to move forward with IPO plans** (2026-11-10)
+  - Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
 
 - **China builds massive 800-megawatt AI data center campus to rival US Stargate project** (2026-11-09)
   - China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
@@ -21,9 +21,6 @@
 
 - **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
   - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
-
-- **The climate case for AI has not been made** (2026-11-09)
-  - Big Tech promised AI would fix the climate, yet the industries that could cut the most emissions are barely using it, so the bold claims remain untested.
 
 - **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
   - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.
@@ -51,3 +48,6 @@
 
 - **AI Companies Really, Really Want to Buy Your Work Files and Emails** (2026-11-06)
   - AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
+
+- **OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO** (2026-11-06)
+  - A $1.25 trillion valuation sounds triumphant, but raising $11 billion against a $30 billion target suggests even AI's biggest name is hitting investor fatigue.

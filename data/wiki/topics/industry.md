@@ -1,34 +1,122 @@
 # Industry
 
 
-*261 articles in the last 7 days*
+*290 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Welcome to Weed Island
+### Jensen Huang’s Troubles Leave the AI Industry Reeling
+
+*Wired | 2026-11-10*
+
+
+The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+
+
+### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+
+*Wired | 2026-11-10*
+
+
+DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+
+
+### Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy
+
+*Tom's Hardware | 2026-11-10*
+
+
+The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+
+
+### David Ellison says AI could be the ‘biggest creative unlock in modern history’
+
+*The Verge | 2026-11-10*
+
+
+Ellison sells AI as Hollywood's next CGI moment, but his own Terminator math shows the real pitch: cheaper production, not bolder art.
+
+
+### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+
+*TechCrunch | 2026-11-10*
+
+
+The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+
+
+### California’s proposed ‘billionaire tax’ fails to pass
+
+*TechCrunch | 2026-11-10*
+
+
+California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
+
+
+### Anthropic reportedly plans to move forward with IPO plans
+
+*TechCrunch | 2026-11-10*
+
+
+Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+
+
+### Why Your Hosting Company's Backup Is Not a Disaster Recovery Plan
+
+*Dev.to | 2026-11-10*
+
+
+Your host's backup is an undo button, not a disaster recovery plan, and it fails exactly when the host itself is the problem.
+
+
+### Canadian court certifies class action against Apple over Google search deal
+
+*9to5Mac | 2026-11-10*
+
+
+The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
+
+
+### 9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28
+
+*9to5Mac | 2026-11-10*
+
+
+A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.
+
+
+### Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work
 
 *Wired | 2026-11-09*
 
 
-Jersey swapped dying tomato greenhouses for medical cannabis, a smart pivot for a tiny economy that still depends on regulators and buyers elsewhere.
+Waymo's school bus recall exposes the core problem with AV safety: a software fix is only a claim until real roads prove it.
 
 
-### These Robotic Arms Are Powered by Algae. Watch How They Move
-
-*Wired | 2026-11-09*
-
-
-Algae-powered robot arms are a striking proof of concept, but by the team's own admission there's no application yet. That's the honest part.
-
-
-### The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement
+### These WIRED-Tested Standing Desks Are Already on Sale for Black Friday
 
 *Wired | 2026-11-09*
 
 
-Right to repair was not a headline issue in the midterms, but candidates from both parties won on it, which suggests it is one of the few policies with broad support.
+Standing desks aren't a health cure, but a 20 percent discount plus a walking pad is the most honest pitch for a New Year resolution.
+
+
+### The Home Depot Best Early Black Friday Deals (2026)
+
+*Wired | 2026-11-09*
+
+
+Black Friday now starts before Halloween decorations come down, and Home Depot's early smart-appliance deals show retailers racing to lock in spending.
+
+
+### The 9 Best TV Shows to Stream This Month (November 2026)
+
+*Wired | 2026-11-09*
+
+
+WIRED's November picks show tech anxiety is now prestige TV's favorite genre: crypto scandals, surveillance, and dystopia sell.
 
 
 ### Scientists May Have Discovered a Massive Starless Galaxy
@@ -45,75 +133,3 @@ AGC 322753 holds 2 billion suns' worth of hydrogen but appears to have no stars,
 
 
 Hulu's 'Get Huge' traces today's looksmaxxing culture back to Tony Huge's biohacking scene in Thailand, and it shows the human cost of self-optimization taken too far.
-
-
-### King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion
-
-*Wired | 2026-11-09*
-
-
-The Sourdough Sidekick automates the most tedious part of baking sourdough: feeding the starter. That small fix may be enough to get lapsed bakers baking again.
-
-
-### Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year
-
-*Wired | 2026-11-09*
-
-
-Jensen Huang hired a well-known scandal fixer a year before he publicly admitted his affair, which raises the question of when Nvidia's leadership first knew about the risk.
-
-
-### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
-
-*Wired | 2026-11-09*
-
-
-Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
-
-
-### DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office
-
-*Wired | 2026-11-09*
-
-
-DHS has sent at least 185,000 warrantless subpoenas since January 2025, more than ICE sent in six and a half years, which shows how routine this unchecked tool has become.
-
-
-### Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center
-
-*Wired | 2026-11-09*
-
-
-When motorcycle racers and bee conservationists team up against Google, it shows how wide local opposition to Britain's AI data center push has become.
-
-
-### Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?
-
-*Wired | 2026-11-09*
-
-
-Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
-
-
-### Audioengine Color of the Year Kit Review: Bright Look, Good Sound
-
-*Wired | 2026-11-09*
-
-
-Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
-
-
-### Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
-
-*Tom's Hardware | 2026-11-09*
-
-
-Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
-
-
-### Memory shortage spurs smartphone makers to melt used memory off old devices, then re-solder it onto new products
-
-*Tom's Hardware | 2026-11-09*
-
-
-Recycled memory in new phones sounds green, but it is really a budget-phone survival tactic, and TrendForce expects it to reach pricier models.

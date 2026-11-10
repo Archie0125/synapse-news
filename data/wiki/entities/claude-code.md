@@ -1,11 +1,20 @@
 # Claude Code
 
 
-*Mentioned in 9 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
+
+- **I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best** (2026-11-10)
+  - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+- **How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything** (2026-11-10)
+  - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+- **Fable 5.2 one-shotted my nephew's dream game** (2026-11-09)
+  - A kid's crayon game design went from an unreasonable birthday request to a fun, playable beat 'em up in one shot. In under a year, AI agents' ceiling for game dev moved a lot.
 
 - **POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today** (2026-11-09)
   - A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.

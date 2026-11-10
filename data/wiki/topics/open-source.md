@@ -1,18 +1,42 @@
 # Open Source
 
 
-*87 articles in the last 7 days*
+*88 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization
+### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
 
-*Tom's Hardware | 2026-11-09*
+*Wired | 2026-11-10*
 
 
-ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
+DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+
+
+### Upgrading three Tailwind projects to v4 in one sprint
+
+*Dev.to | 2026-11-10*
+
+
+The best lesson from this Tailwind v4 migration isn't technical. It's sequencing: learn on the easy project, and leave custom plugins for last because that's where schedules slip.
+
+
+### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
+
+*Dev.to | 2026-11-10*
+
+
+RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
+
+
+### Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright
+
+*Dev.to | 2026-11-10*
+
+
+A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.
 
 
 ### Lawyer builds private AI server with eight used Nvidia V100 GPUs
@@ -23,20 +47,12 @@ ram-altman is a joke, but it lands because the memory shortage is real, and Altm
 A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.
 
 
-### Real-time state has a cost your memory bill won’t show
+### Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact
 
-*The New Stack | 2026-11-09*
-
-
-The Kafka-Flink-Redis stack looks modular, but every duplicated copy of state is a hidden tax paid in serialization, network hops and consistency headaches.
+*Tom's Hardware | 2026-11-09*
 
 
-### Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework
-
-*InfoQ | 2026-11-09*
-
-
-Topcoat bets that Rust web developers want less JavaScript rather than more WASM, and that contrarian choice makes it the most interesting Rust framework in a while.
+A lawsuit says the Ethereum Foundation made staff choose between a 'Source Seppuku' oath and the exit; the joke defense won't survive HR law.
 
 
 ### Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM
@@ -69,6 +85,14 @@ HOPE shows that MoE experts work in teams, so pruning them one by one is like cu
 
 
 NVIDIA and Elith's synthetic Japanese finance personas are a clever workaround for privacy rules, but synthetic realism still has to survive real-world testing.
+
+
+### E-means: Outperforming k-means in one-tenth the epochs
+
+*Hacker News | 2026-11-09*
+
+
+E-means shows that k-means, a 1950s-era workhorse, still had large speedups left. With a better update rule and automatic tuning, it runs 10–45x faster with lower loss.
 
 
 ### What hardware does your PC need to run a local AI model?
@@ -141,27 +165,3 @@ An emergency stop that depends on software, the cloud, or the main computer is n
 
 
 The DC-DC converter is the least glamorous part of an AMR, and the one that decides whether the AI computer gets clean, stable power.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.10: Chapter 10. Battery and BMS [KR]
-
-*Dev.to | 2026-11-09*
-
-
-In mobile robots, the battery is not a power supply but a design constraint that shapes the chassis, center of gravity, and business model.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.09: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An AMR's power architecture is the plumbing nobody demos, yet it sets runtime, safety, and how often a factory line goes down.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.08: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-Being able to stop safely may matter more than moving efficiently, and a robot's brakes say more about its maturity than its AI demo does.

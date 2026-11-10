@@ -1,11 +1,14 @@
 # The New York Times
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **What could China get from Jensen Huang?** (2026-11-09)
+  - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
 
 - **Nvidia is investigating Jensen Huang’s relationship with a Chinese spy** (2026-11-08)
   - Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'

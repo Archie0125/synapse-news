@@ -1,7 +1,7 @@
 # Amazon
 
 
-*Mentioned in 27 articles*
+*Mentioned in 29 articles*
 
 
 ## Recent Mentions
@@ -19,8 +19,14 @@
 - **The pros and cons of using OnePlus smartwatches** (2026-11-09)
   - OnePlus watches beat Apple and Samsung on battery life and charging speed, but buying one right after OnePlus left the US and Europe is a gamble on long-term support.
 
+- **The pros and cons of using mesh Wi-Fi** (2026-11-09)
+  - Mesh Wi-Fi gets sold as the upgrade, but most homes are paying for range they'll never use. Start with a standalone router unless you know where your dead zones are.
+
 - **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
   - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.
+
+- **The TCL NXTPAPER 70 Pro is back down to its lowest all-time price** (2026-11-09)
+  - At $279, the TCL NXTPAPER 70 Pro shows that a budget phone can win by solving one real problem, eye strain, instead of copying flagship spec sheets.
 
 - **PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM** (2026-11-08)
   - A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.
@@ -45,9 +51,3 @@
 
 - **Shure’s popular podcasting and streaming mic is almost $50 off** (2026-11-06)
   - At $255, the Shure MV7 Plus is still a pro mic at a premium price, but this discount makes it the easiest upgrade for anyone who sounds bad on calls.
-
-- **KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium** (2026-11-06)
-  - A $25 Criterion disc beating a month of Netflix Premium shows how badly streaming has priced its top tier.
-
-- **Kobo will soon let you upload and sync your own ebooks across devices, for a price** (2026-11-06)
-  - Kobo Stack is a useful feature with a bad price tag: charging monthly for something Kindle gives away free is a tough sell.

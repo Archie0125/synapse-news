@@ -1,11 +1,14 @@
 # Nintendo
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **5 Nintendo Switch 2 features everyone should know about** (2026-11-09)
+  - The Switch 2 is mostly a refinement, so its most useful upgrades are small conveniences like controller finding and game sharing that many owners never notice.
 
 - **Why you shouldn't remove the screen protector film on your Nintendo Switch 2** (2026-11-08)
   - The Switch 2's 'screen protector' is actually part of the display assembly, and peeling it off for satisfaction could cost you a $500 console.

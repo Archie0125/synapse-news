@@ -1,7 +1,7 @@
 # Samsung
 
 
-*Mentioned in 25 articles*
+*Mentioned in 28 articles*
 
 
 ## Recent Mentions
@@ -10,11 +10,20 @@
 - **Meet Drops, the new music app bringing back the fun of sharing songs with friends** (2026-11-09)
   - Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
 
+- **How to use your iPhone to take the best picture of the Moon** (2026-11-09)
+  - iPhones don't fake moon photos, so your exposure and stability matter more than the zoom, and an honest camera rewards people who learn a little about light.
+
 - **How to tell if your phone supports eSIM** (2026-11-09)
   - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
 
 - **Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?** (2026-11-09)
   - Samsung's $5 Galaxy AI Premium keeps existing features free, which is smart, but hinting at usage caps on free features is the part to watch.
+
+- **Samsung Galaxy S27 series camera specs leak, and they’re disappointing** (2026-11-09)
+  - If these leaked specs are right, the S27 Ultra's camera advantage is shrinking. Samsung is spreading its best hardware across more models instead of pushing the top end forward.
+
+- **Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year** (2026-11-09)
+  - The S27 Pro isn't really a new choice for buyers. It's a way to move people who would have bought the regular S27 up to a higher price.
 
 - **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
   - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.
@@ -42,12 +51,3 @@
 
 - **Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density** (2026-11-06)
   - Z2RAM targets AI's biggest bottleneck, memory, but its claims are still projections, and data that lasts 300 seconds is a lab result, not a product.
-
-- **Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life** (2026-11-06)
-  - Samsung finally fixed the hardware basics, battery and brightness, which makes the Watch Ultra 2 a real Apple Watch Ultra rival, though its health metrics still vary in usefulness.
-
-- **Google's Find Hub can finally notify you if you've left a tracker behind** (2026-11-06)
-  - Google finally added left-behind alerts to Find Hub, years after Apple and Samsung. The feature is fine. Android's slow response to obvious gaps is the real story.
-
-- **Google's eyewear partners can't keep a lid on its smart glasses plans** (2026-11-06)
-  - Google's partners keep announcing its smart glasses before Google does. That's either sloppy coordination or the most effective leak campaign of the year.

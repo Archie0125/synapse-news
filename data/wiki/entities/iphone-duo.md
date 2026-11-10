@@ -1,11 +1,14 @@
 # iPhone Duo
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
+
+- **iOS 27.3: Three new iPhone features coming soon** (2026-11-09)
+  - iOS 27.3's real story is the Health app, which Apple pulled from 27.2 and is now relaunching as an AI health coach.
 
 - **Here’s how Webex adapts meetings and multitasking for iPhone Duo** (2026-11-09)
   - Webex shipping native iPhone Duo support at launch proves foldables become useful when enterprise apps show up on day one, not when Apple ships the hardware.

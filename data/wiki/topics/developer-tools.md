@@ -1,119 +1,95 @@
 # Dev Tools
 
 
-*253 articles in the last 7 days*
+*277 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization
+### Why Your Hosting Company's Backup Is Not a Disaster Recovery Plan
 
-*Tom's Hardware | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
+Your host's backup is an undo button, not a disaster recovery plan, and it fails exactly when the host itself is the problem.
 
 
-### AMD admits GPU driver bug is writing data continuously, wearing out SSDs
+### Upgrading three Tailwind projects to v4 in one sprint
 
-*Tom's Hardware | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-AMD's driver utility reportedly ate about 1% of users' SSD life each month while their PCs sat idle, and it's the second logging bug of this kind in a year.
+The best lesson from this Tailwind v4 migration isn't technical. It's sequencing: learn on the easy project, and leave custom plugins for last because that's where schedules slip.
 
 
-### Why semantic layers will be essential for enterprise AI
+### TailSteer reduces drift in multi‑turn image editing; History Forcing stabilizes long‑horizon video generation
 
-*The New Stack | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-MCP solved how AI agents reach enterprise data, not whether they understand it, and the semantic layer is where enterprise AI succeeds or fails.
+TailSteer and History Forcing go after generative AI's real weakness, which isn't the first image but the fifteenth edit and the fifteenth second.
 
 
-### Real-time state has a cost your memory bill won’t show
+### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
 
-*The New Stack | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-The Kafka-Flink-Redis stack looks modular, but every duplicated copy of state is a hidden tax paid in serialization, network hops and consistency headaches.
+RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
 
 
-### Automattic debuts a platform to deploy vibe-coding apps amid a changing internet
+### One Afternoon of Our AI Coding Sessions, and Why They Don't Collide
 
-*TechCrunch | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-With Spacefast, Automattic is betting WordPress's infrastructure can host the vibe-coding era, but competing with Vercel and Lovable needs more than a decent CDN.
+Multi-agent coding works when the teams look more like microservices than a crowd in one repo. Separate repos and versioned releases are what stop the AI workers from colliding.
 
 
-### Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework
+### My Server Got Hacked: 15 Hours Fighting Crypto Miners and Hidden Backdoors
 
-*InfoQ | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-Topcoat bets that Rust web developers want less JavaScript rather than more WASM, and that contrarian choice makes it the most interesting Rust framework in a while.
+A gripping incident write-up that shows the uncomfortable truth: killing the miner takes five seconds, and finding every way it comes back takes fifteen hours.
 
 
-### Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM
+### Logging I asked for was already running: 87,279 windows
 
-*InfoQ | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-The interesting point in this episode is that Kubernetes' default load balancing actively wastes GPUs for LLMs, and llm-d exists to fix that.
+The 87,279 hidden windows aren't the scary part. The scary part is that the tool hiding them quietly died, and for 59 days nobody checked whether it was still running.
 
 
-### Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement
+### I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best
 
-*InfoQ | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-Pinterest swapped a fragile clustering pipeline for one small fine-tuned LLM and gained about 1%, which proves small models can replace whole ML stacks, not that they work miracles.
+A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
 
 
-### Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement
+### How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything
 
-*InfoQ | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-Gemini 4 Argon has impressive robotics demos and benchmark scores, but heavy prompt scaffolding and missing failure rates make it hard to tell how much is the model.
+A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
 
 
-### Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security
+### How to get a Discord alert when your Minecraft server goes down
 
-*InfoQ | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
+A tidy ten-minute monitoring hack that is honest about where it falls short, and that honesty doubles as the pitch for the author's paid product.
 
 
-### AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications
+### Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright
 
-*InfoQ | 2026-11-09*
+*Dev.to | 2026-11-10*
 
 
-TorchNeuron goes after CUDA's real moat, the cost of switching, but Trainium only wins if 'no code changes' also means no performance surprises.
-
-
-### Article: Agentic AI Architecture: Current Challenges and Future Opportunities
-
-*InfoQ | 2026-11-09*
-
-
-Agentic AI architecture is being sold as the next microservices, which should worry anyone who remembers how much complexity microservices brought with them.
-
-
-### YouTube auf Quest wird neu gedacht – aber was macht das mit deinen Augen?
-
-*Dev.to | 2026-11-09*
-
-
-A YouTube redesign on Quest becomes a pitch for VR amblyopia training, an intriguing idea that still needs clinical evidence more than marketing copy.
-
-
-### The 130 KB AI is a 175 KB PDF
-
-*Dev.to | 2026-11-09*
-
-
-Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.
+A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.

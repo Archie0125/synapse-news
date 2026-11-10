@@ -1,11 +1,20 @@
 # Apple
 
 
-*Mentioned in 69 articles*
+*Mentioned in 85 articles*
 
 
 ## Recent Mentions
 
+
+- **Every senior with an Apple Watch should set up these 5 health alerts** (2026-11-10)
+  - The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
+
+- **Canadian court certifies class action against Apple over Google search deal** (2026-11-10)
+  - The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
+
+- **9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28** (2026-11-10)
+  - A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.
 
 - **Venmo finally launches an in-app bill splitting feature** (2026-11-09)
   - Venmo's receipt scanning is overdue catch-up to Apple. The real weapon isn't the feature but peer pressure from a network your friends already use.
@@ -19,35 +28,26 @@
 - **Meta is expanding AI age detection for Instagram teen accounts** (2026-11-09)
   - Meta's global AI age check protects teens on paper, but it normalizes face-based age analysis while Meta tries to push responsibility onto app stores.
 
+- **How to use your iPhone to take the best picture of the Moon** (2026-11-09)
+  - iPhones don't fake moon photos, so your exposure and stability matter more than the zoom, and an honest camera rewards people who learn a little about light.
+
 - **How to tell if your phone supports eSIM** (2026-11-09)
   - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
+
+- **Apple starts offering $50 extended usage packs for AI features in Creator Studio** (2026-11-09)
+  - Apple's $50 AI usage packs show that generative AI isn't really unlimited in a subscription, and creative professionals are paying more for it first.
 
 - **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
   - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
 
-- **Leak reveals details for more iPhone 18 models launching early 2027** (2026-11-09)
-  - The AI memory crunch is forcing Apple to blur iPhone 18 and 18e, and buyers win: base-model specs at a budget price.
+- **Today’s macOS updates fix security gap involving eMudhra certificates** (2026-11-09)
+  - Apple protected Safari within days, but curl and git stayed exposed for weeks, and developer tools are often what attackers target first.
 
-- **Here’s how Webex adapts meetings and multitasking for iPhone Duo** (2026-11-09)
-  - Webex shipping native iPhone Duo support at launch proves foldables become useful when enterprise apps show up on day one, not when Apple ships the hardware.
+- **Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026** (2026-11-09)
+  - Apple paid €13 billion over Ireland, and the profit-shifting simply moved to Singapore. The global minimum tax hasn't ended tax arbitrage.
 
-- **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
-  - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.
+- **Our favorite gear to elevate your new MacBook Pro setup** (2026-11-09)
+  - The new touchscreen MacBook Pro's 'must-have' list includes an external keyboard and trackpad, so many buyers will rarely be close enough to touch the screen.
 
-- **Apple to stream Las Vegas Formula 1 race for free in the United States** (2026-11-09)
-  - Streaming the flashiest F1 race free is Apple's smartest marketing move this year: the neon spectacle works as a trailer for an Apple TV subscription.
-
-- **Apple staff accused of signing up customers to subscriptions without consent; company responds** (2026-11-09)
-  - A 40% subscription sign-up target turned Apple Store staff into dark-pattern operators, and the incentive design, not rogue employees, is the real story.
-
-- **Apple pushing faster on agentic Siri would carry three big risks** (2026-11-09)
-  - Apple rushing agentic Siri to catch rivals risks swapping its slowness problem for something worse: an assistant that confidently does the wrong thing.
-
-- **Apple now sells ‘innovative’ game controller play pad and 20+ more accessories** (2026-11-09)
-  - A $199.95 dance-mat controller in Apple Stores shows Apple still treats gaming as a holiday novelty, not a platform strategy.
-
-- **Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year** (2026-11-09)
-  - Apple Music crowning Olivia Dean is a safe, data-backed pick, but the year-end ritual still feels like a polite echo of Spotify Wrapped.
-
-- **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
-  - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.
+- **MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash** (2026-11-09)
+  - A MagSafe wallet with a money clip is a niche product, but it's a reminder that cash hasn't gone away for tips and cash-only shops.

@@ -1,11 +1,14 @@
 # Apple Watch
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Every senior with an Apple Watch should set up these 5 health alerts** (2026-11-10)
+  - The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
 
 - **The pros and cons of using OnePlus smartwatches** (2026-11-09)
   - OnePlus watches beat Apple and Samsung on battery life and charging speed, but buying one right after OnePlus left the US and Europe is a gamble on long-term support.

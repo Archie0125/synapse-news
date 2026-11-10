@@ -1,11 +1,17 @@
 # Gemini
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **How to turn on personal results on your Google Home** (2026-11-10)
+  - Gemini makes Google Home smarter, but personal results only pay off if the speaker reliably tells your voice from everyone else's in the house.
+
+- **Google Gemini routes personal Drive files and emails to human annotators** (2026-11-09)
+  - Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.
 
 - **Google Gemini rolling out ‘Memory summary’ with everything it remembers about you** (2026-11-09)
   - Gemini's Memory summary is a genuine transparency win, but seeing your life neatly categorized by an AI is also a reminder of how much it already knows.

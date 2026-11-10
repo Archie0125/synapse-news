@@ -1,26 +1,42 @@
 # Hardware
 
 
-*244 articles in the last 7 days*
+*260 articles in the last 7 days*
 
 
 ## Latest
 
 
-### These Robotic Arms Are Powered by Algae. Watch How They Move
+### Jensen Huang’s Troubles Leave the AI Industry Reeling
 
-*Wired | 2026-11-09*
-
-
-Algae-powered robot arms are a striking proof of concept, but by the team's own admission there's no application yet. That's the honest part.
+*Wired | 2026-11-10*
 
 
-### The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement
-
-*Wired | 2026-11-09*
+The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
 
 
-Right to repair was not a headline issue in the midterms, but candidates from both parties won on it, which suggests it is one of the few policies with broad support.
+### Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy
+
+*Tom's Hardware | 2026-11-10*
+
+
+The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+
+
+### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+
+*TechCrunch | 2026-11-10*
+
+
+The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+
+
+### Every senior with an Apple Watch should set up these 5 health alerts
+
+*Engadget | 2026-11-10*
+
+
+The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
 
 
 ### King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion
@@ -45,30 +61,6 @@ Jensen Huang hired a well-known scandal fixer a year before he publicly admitted
 
 
 Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
-
-
-### Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent
-
-*Tom's Hardware | 2026-11-09*
-
-
-Sleep headbands quietly turning users' brainwaves into AI training data is a consent failure, and 'we removed your name' is a weak defense for neural data.
-
-
-### Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization
-
-*Tom's Hardware | 2026-11-09*
-
-
-ram-altman is a joke, but it lands because the memory shortage is real, and Altman's 'idle RAM is terrible' line sounds like a landlord complaining about your spare room.
-
-
-### Save $300 on this RTX 5070 gaming PC with 32GB DDR5, now under $2,000
-
-*Tom's Hardware | 2026-11-09*
-
-
-A $300 discount on an RTX 5070 prebuilt looks good until the listing names a CPU that does not exist; check the specs before you buy.
 
 
 ### Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W
@@ -117,3 +109,11 @@ A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used
 
 
 Huawei's 'entirely Chinese' desktop is a real supply-chain milestone, but 'entirely' is doing a lot of work when the cores are still Arm-based.
+
+
+### Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now
+
+*Tom's Hardware | 2026-11-09*
+
+
+At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.

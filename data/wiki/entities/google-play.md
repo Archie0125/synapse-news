@@ -1,11 +1,14 @@
 # Google Play
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more** (2026-11-09)
+  - The free Android games are nice, but the real news in this deals roundup is buried at the top: Samsung and Google are already discounting brand-new hardware.
 
 - **How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes** (2026-11-07)
   - Grab's lesson is blunt: AI coding tools speed up writing code, so the bottleneck and the risk move to everything that catches bad code afterward.

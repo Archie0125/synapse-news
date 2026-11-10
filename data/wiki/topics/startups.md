@@ -1,10 +1,34 @@
 # Startups
 
 
-*104 articles in the last 7 days*
+*117 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+
+*TechCrunch | 2026-11-10*
+
+
+The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+
+
+### California’s proposed ‘billionaire tax’ fails to pass
+
+*TechCrunch | 2026-11-10*
+
+
+California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
+
+
+### Anthropic reportedly plans to move forward with IPO plans
+
+*TechCrunch | 2026-11-10*
+
+
+Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
 
 
 ### Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition
@@ -23,28 +47,20 @@ DEEPX's butter demo is clever marketing, but melting butter doesn't measure perf
 Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
 
 
-### Waymo robotaxis kept illegally passing school buses after software fix, feds say
+### YouTube streaming data returns to Billboard charts, ending major disagreement
 
 *TechCrunch | 2026-11-09*
 
 
-Waymo's school-bus recall looks like a fix that worked on paper only, because NHTSA says most violations happened after the patch shipped.
+YouTube boycotted Billboard for a year and won. Free ad-supported streams now count for much more, and the charts finally reflect how most people listen.
 
 
-### Uber launches parking service following SpotHero acquisition, with an eye on robotaxis
-
-*TechCrunch | 2026-11-09*
-
-
-Uber's parking feature looks like a commuter perk, but the real play is owning curbside real estate for the robotaxis it doesn't build.
-
-
-### Tesla expands robotaxi service to San Antonio
+### The race is on to sue Nvidia
 
 *TechCrunch | 2026-11-09*
 
 
-Tesla adding San Antonio sounds like momentum, but announcing a launch with no hours, fleet size or safety details means we still can't judge it.
+Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.
 
 
 ### Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
@@ -87,49 +103,49 @@ Samsung's Harman launches Drops to make music sharing feel personal again, but i
 Medium's TK app puts AI inside the writer's notebook, a useful idea that arrives just as authors are losing book deals over AI-written prose.
 
 
-### Automattic debuts a platform to deploy vibe-coding apps amid a changing internet
+### Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
 
 *TechCrunch | 2026-11-09*
 
 
-With Spacefast, Automattic is betting WordPress's infrastructure can host the vibe-coding era, but competing with Vercel and Lovable needs more than a decent CDN.
+Huang's case for selling chips to China just lost credibility. It's hard to argue for open access when you may have been a spy's target.
 
 
-### Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines
+### Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago
 
 *TechCrunch | 2026-11-09*
 
 
-Anthropic spending $3.4B on gas turbines shows that AI's real bottleneck has moved from chips to electricity, and even renters are now forced to buy.
+If Huang hired a sex-scandal crisis firm a year before confessing, Nvidia's governance problem is about when it knew, not just the affair.
 
 
-### The New Normal in Revenue Per Employee: $237K Is the Median, $655K Is the Top Tier, and Six B2B Leaders Now Clear $1.5M
+### Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy
 
-*SaaStr | 2026-11-09*
-
-
-$237K in revenue per employee is still the median, but leaders now run 5x to 35x higher, which makes headcount-heavy 2027 plans look out of date.
+*TechCrunch | 2026-11-09*
 
 
-### Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?
-
-*SaaStr | 2026-11-09*
+Jensen Huang canceling public appearances shows that the face of the AI boom has become a liability his partners don't want on stage.
 
 
-Getting paid on time is mostly a matter of process: start reminders 60 days before renewal, and keep mission-critical service running for enterprise customers.
+### Hotel giant Wyndham exposed customer data after app security lapse
+
+*TechCrunch | 2026-11-09*
 
 
-### Ada Sold to Dialpad for $430M in Stock. Is That an Exit?
-
-*SaaStr | 2026-11-09*
+Wyndham left a database password in its Android app and had no way for researchers to report it. Both are basic failures.
 
 
-Ada's $430M merger with Dialpad is called an exit, but with no cash and two private companies, it mostly moves investors' locked-up equity from one company to another.
+### France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks
+
+*TechCrunch | 2026-11-09*
 
 
-### Uber is launching its own parking reservation service
-
-*Engadget | 2026-11-09*
+France pinning freezer hacks on Iran shows that state cyberwar now targets the cheapest, most forgotten IoT boxes in the supply chain.
 
 
-Uber Parking looks like a convenience feature, but the real play is grabbing urban parking lots before its robotaxi fleets need somewhere to wait.
+### Fervo now has $12B in orders for its geothermal power tech
+
+*TechCrunch | 2026-11-09*
+
+
+Fervo's order book jumped to $11.9B because it keeps hitting deadlines. In the AI power crunch, being on schedule is the product.

@@ -1,17 +1,29 @@
 # Megaspeed
 
 
-*Mentioned in 8 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
 
+- **Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy** (2026-11-10)
+  - The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+
 - **Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy** (2026-11-09)
   - Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
 
-- **The future of AI hinges on… Jensen Huang’s sex life?** (2026-11-09)
-  - The Megaspeed spy allegations matter less as gossip than as a stress test of Nvidia's lobbying against export controls; one leak story could undo that campaign.
+- **What could China get from Jensen Huang?** (2026-11-09)
+  - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
+
+- **The race is on to sue Nvidia** (2026-11-09)
+  - Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.
+
+- **Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny** (2026-11-09)
+  - Huang's case for selling chips to China just lost credibility. It's hard to argue for open access when you may have been a spy's target.
+
+- **Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago** (2026-11-09)
+  - If Huang hired a sex-scandal crisis firm a year before confessing, Nvidia's governance problem is about when it knew, not just the affair.
 
 - **Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy** (2026-11-08)
   - Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.

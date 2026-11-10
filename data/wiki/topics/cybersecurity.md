@@ -1,10 +1,50 @@
 # Cybersecurity
 
 
-*67 articles in the last 7 days*
+*79 articles in the last 7 days*
 
 
 ## Latest
+
+
+### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+
+*Wired | 2026-11-10*
+
+
+DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+
+
+### The safety reason TSA might ask you to turn on your phone
+
+*Engadget | 2026-11-10*
+
+
+A TSA request to power on your phone is a harmless 2014 rule. The real privacy issue is CBP's border search exception, which can reach your phone's contents.
+
+
+### Why Your Hosting Company's Backup Is Not a Disaster Recovery Plan
+
+*Dev.to | 2026-11-10*
+
+
+Your host's backup is an undo button, not a disaster recovery plan, and it fails exactly when the host itself is the problem.
+
+
+### My Server Got Hacked: 15 Hours Fighting Crypto Miners and Hidden Backdoors
+
+*Dev.to | 2026-11-10*
+
+
+A gripping incident write-up that shows the uncomfortable truth: killing the miner takes five seconds, and finding every way it comes back takes fifteen hours.
+
+
+### Logging I asked for was already running: 87,279 windows
+
+*Dev.to | 2026-11-10*
+
+
+The 87,279 hidden windows aren't the scary part. The scary part is that the tool hiding them quietly died, and for 59 days nobody checked whether it was still running.
 
 
 ### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
@@ -23,14 +63,6 @@ Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check w
 DHS has sent at least 185,000 warrantless subpoenas since January 2025, more than ICE sent in six and a half years, which shows how routine this unchecked tool has become.
 
 
-### Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent
-
-*Tom's Hardware | 2026-11-09*
-
-
-Sleep headbands quietly turning users' brainwaves into AI training data is a consent failure, and 'we removed your name' is a weak defense for neural data.
-
-
 ### Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
 
 *Tom's Hardware | 2026-11-09*
@@ -47,12 +79,44 @@ Jensen Huang's personal scandal is now a national-security problem, and Congress
 Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.
 
 
+### Hotel giant Wyndham exposed customer data after app security lapse
+
+*TechCrunch | 2026-11-09*
+
+
+Wyndham left a database password in its Android app and had no way for researchers to report it. Both are basic failures.
+
+
+### France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks
+
+*TechCrunch | 2026-11-09*
+
+
+France pinning freezer hacks on Iran shows that state cyberwar now targets the cheapest, most forgotten IoT boxes in the supply chain.
+
+
 ### Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security
 
 *InfoQ | 2026-11-09*
 
 
 Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
+
+
+### Google Gemini routes personal Drive files and emails to human annotators
+
+*Hacker News | 2026-11-09*
+
+
+Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.
+
+
+### Claude Fable 5.2 and Mythos 5.2
+
+*Hacker News | 2026-11-09*
+
+
+Anthropic's Fable 5.2 pairs lab-grade claims, like a Fermat proof formalized in 30 hours, with a price cut. The real story is the split into a safeguarded model and a gated one.
 
 
 ### What the tiny blue dot on your Android phone is telling you
@@ -79,89 +143,25 @@ CAIM1's cryptographically signed camera is a smart answer to deepfakes, but prov
 A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.
 
 
+### We’re Asking an Appeals Court to Require a Warrant for ALPR Searches
+
+*EFF | 2026-11-09*
+
+
+Seeing one license plate is observation, but searching national plate-reader databases builds a record of where someone has been, and courts should treat it that way.
+
+
+### U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability
+
+*EFF | 2026-11-09*
+
+
+After Cisco v. Doe I, U.S. tech companies whose products help abusive regimes face no ATS liability, and only Congress can change that.
+
+
 ### Support Attachments: Multipart Selection for 100 MB-1 GB Private PDF and ZIP Uploads
 
 *Dev.to | 2026-11-09*
 
 
 The best line in this upload guide isn't about multipart. A perfectly resumed 1 GB ZIP sent to the wrong tenant is still a breach, so authorization comes before bytes.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.12: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An emergency stop that depends on software, the cloud, or the main computer is not an emergency stop, and the chapter gets this exactly right.
-
-
-### Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack
-
-*9to5Mac | 2026-11-09*
-
-
-The record $6.3B Binance hack reportedly started with a fake job interview and a malicious Homebrew clone, more proof that 'Macs don't get malware' is a dangerous myth.
-
-
-### Japanese arcades suffer week-long blackout following Sega server hack
-
-*Tom's Hardware | 2026-11-08*
-
-
-One server breach shut down arcade games from two companies for a week, showing that Japan's arcade industry depends on a single network with no fallback.
-
-
-### Nvidia is investigating Jensen Huang’s relationship with a Chinese spy
-
-*The Verge | 2026-11-08*
-
-
-Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'
-
-
-### Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
-
-*TechCrunch | 2026-11-08*
-
-
-Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.
-
-
-### Outlook.com is rejecting email from domains without DMARC
-
-*Hacker News | 2026-11-08*
-
-
-Microsoft quietly tightened its email rules for everyone, not just bulk senders. The worst part is that bounces are partial, so most victims won't notice.
-
-
-### Goldman Sachs is pulling Claude Code from its bankers and traders
-
-*Hacker News | 2026-11-08*
-
-
-Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
-
-
-### NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts
-
-*Engadget | 2026-11-08*
-
-
-NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.
-
-
-### How to set up Google Authenticator on a new phone
-
-*Engadget | 2026-11-08*
-
-
-Cloud sync finally makes Google Authenticator easy to move to a new phone. The trade-off is that your 2FA codes now depend on how secure your Google account is.
-
-
-### How do spam callers get your number in the first place?
-
-*Engadget | 2026-11-08*
-
-
-Spam calls aren't just bad luck. Most of them come from a legal data-broker market you probably signed up for when you joined some loyalty program.

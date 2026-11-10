@@ -1,26 +1,66 @@
 # Policy
 
 
-*82 articles in the last 7 days*
+*98 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Welcome to Weed Island
+### Jensen Huang’s Troubles Leave the AI Industry Reeling
+
+*Wired | 2026-11-10*
+
+
+The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+
+
+### Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy
+
+*Tom's Hardware | 2026-11-10*
+
+
+The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+
+
+### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+
+*TechCrunch | 2026-11-10*
+
+
+The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+
+
+### California’s proposed ‘billionaire tax’ fails to pass
+
+*TechCrunch | 2026-11-10*
+
+
+California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
+
+
+### The safety reason TSA might ask you to turn on your phone
+
+*Engadget | 2026-11-10*
+
+
+A TSA request to power on your phone is a harmless 2014 rule. The real privacy issue is CBP's border search exception, which can reach your phone's contents.
+
+
+### Canadian court certifies class action against Apple over Google search deal
+
+*9to5Mac | 2026-11-10*
+
+
+The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
+
+
+### Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work
 
 *Wired | 2026-11-09*
 
 
-Jersey swapped dying tomato greenhouses for medical cannabis, a smart pivot for a tiny economy that still depends on regulators and buyers elsewhere.
-
-
-### The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement
-
-*Wired | 2026-11-09*
-
-
-Right to repair was not a headline issue in the midterms, but candidates from both parties won on it, which suggests it is one of the few policies with broad support.
+Waymo's school bus recall exposes the core problem with AV safety: a software fix is only a claim until real roads prove it.
 
 
 ### New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing
@@ -63,14 +103,6 @@ When motorcycle racers and bee conservationists team up against Google, it shows
 Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
 
 
-### Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent
-
-*Tom's Hardware | 2026-11-09*
-
-
-Sleep headbands quietly turning users' brainwaves into AI training data is a consent failure, and 'we removed your name' is a weak defense for neural data.
-
-
 ### Nvidia cracks down on overseas cloud AI GPU rentals for China
 
 *Tom's Hardware | 2026-11-09*
@@ -103,20 +135,20 @@ Huawei's 'entirely Chinese' desktop is a real supply-chain milestone, but 'entir
 China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
 
 
-### Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec
+### What could China get from Jensen Huang?
 
 *The Verge | 2026-11-09*
 
 
-Trump's idea of AI safety policy is apparently threatening an unnamed CEO with jail, which is governance by intimidation, not by rules.
+The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
 
 
-### The future of AI hinges on… Jensen Huang’s sex life?
+### The global pledge to use AI for climate good is a cruel joke
 
 *The Verge | 2026-11-09*
 
 
-The Megaspeed spy allegations matter less as gossip than as a stress test of Nvidia's lobbying against export controls; one leak story could undo that campaign.
+COP31's Antalya AI Pledge has the right ingredients on paper, but without binding commitments it's greenwashing for the data center boom.
 
 
 ### Hold up — I had a great time talking to the RIAA guy
@@ -127,41 +159,9 @@ The Megaspeed spy allegations matter less as gossip than as a stress test of Nvi
 When even the RIAA becomes the internet's ally, AI companies should realize they've united creators, labels and fans against them.
 
 
-### Waymo robotaxis kept illegally passing school buses after software fix, feds say
+### The race is on to sue Nvidia
 
 *TechCrunch | 2026-11-09*
 
 
-Waymo's school-bus recall looks like a fix that worked on paper only, because NHTSA says most violations happened after the patch shipped.
-
-
-### Meta expands Instagram’s AI age-guessing tech globally
-
-*TechCrunch | 2026-11-09*
-
-
-Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.
-
-
-### The Download: empty AI climate claims, and an Nvidia investigation
-
-*MIT Technology Review | 2026-11-09*
-
-
-Today's Download leads with a sharp argument that AI's climate promises are mostly talk, which is a useful reality check as COP31 opens.
-
-
-### The climate case for AI has not been made
-
-*MIT Technology Review | 2026-11-09*
-
-
-Big Tech promised AI would fix the climate, yet the industries that could cut the most emissions are barely using it, so the bold claims remain untested.
-
-
-### Nancy Pelosi’s replacement is ready to regulate AI
-
-*MIT Technology Review | 2026-11-09*
-
-
-Scott Wiener brings California's frontier AI safety fight to Congress, but Anthropic-linked campaign money will make every bill he writes look like a conflict of interest.
+Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.

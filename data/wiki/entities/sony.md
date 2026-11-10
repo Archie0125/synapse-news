@@ -1,7 +1,7 @@
 # Sony
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **Nacon Revolution 5 Unlimited controller review: More customization than I can handle** (2026-11-09)
   - Nacon's $230 controller wins on hardware like TMR sticks and trigger blockers, but piling on this many options may be its biggest weakness.
+
+- **Samsung Galaxy S27 series camera specs leak, and they’re disappointing** (2026-11-09)
+  - If these leaked specs are right, the S27 Ultra's camera advantage is shrinking. Samsung is spreading its best hardware across more models instead of pushing the top end forward.
 
 - **Why you should never put your PlayStation 5 on a carpeted floor** (2026-11-07)
   - Sony's vague carpet guidance leaves PS5 owners guessing, but the advice is simple: carpet feeds dust into the vents, and the floor puts the console in harm's way.

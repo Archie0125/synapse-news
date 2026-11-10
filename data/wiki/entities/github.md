@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Git security vulnerabilities announced** (2026-11-10)
+  - Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
+
 - **AMR Mechanical and Electrical Engineering — Ch.14: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
   - An IP rating is a lab test result, not a durability promise. Outdoor robot buyers who confuse the two will learn the hard way.
 
@@ -48,6 +51,3 @@
 
 - **💡 Building Aftermath | A Journey of Learning and Collaboration** (2026-11-07)
   - A project diary that talks about learning and pride but never says what Aftermath does, which makes it hard for anyone to care.
-
-- **GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies** (2026-11-06)
-  - GitHub Actions lockfiles fix a supply-chain hole that should never have existed, and the bigger win is finally pinning transitive dependencies that most teams never saw.

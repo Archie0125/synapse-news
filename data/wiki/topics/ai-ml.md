@@ -1,167 +1,167 @@
 # AI & ML
 
 
-*247 articles in the last 7 days*
+*312 articles in the last 7 days*
 
 
 ## Latest
 
 
-### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+### This New Linux-Based Desktop Operating System Is Built for AI Nerds
 
 *Wired | 2026-11-10*
 
 
-DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
 
 
-### David Ellison says AI could be the ‘biggest creative unlock in modern history’
+### The Grindr 1 Percent Is Getting Its Own Gated Community
+
+*Wired | 2026-11-10*
+
+
+Grindr's CEO complains about an affordability crisis while launching a $120-a-month velvet rope. The irony is the business model: monetize the top 1% of users.
+
+
+### The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are
+
+*Wired | 2026-11-10*
+
+
+After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+
+### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
+
+*Wired | 2026-11-10*
+
+
+Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+
+
+### Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information
+
+*Wired | 2026-11-10*
+
+
+AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
+
+
+### Ring’s Indoor Drone Camera Is Back—and Now Powered by AI
+
+*Wired | 2026-11-10*
+
+
+Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
+
+
+### Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit
+
+*Tom's Hardware | 2026-11-10*
+
+
+A hobbyist using an AI model and a fuzzer found a remote code execution chain in a Prusa printer in a week. AI-assisted bug hunting is now cheap enough for hobbyists.
+
+
+### New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
+
+*Tom's Hardware | 2026-11-10*
+
+
+A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+
+
+### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
+
+*Tom's Hardware | 2026-11-10*
+
+
+AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
+
+
+### Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark
+
+*Tom's Hardware | 2026-11-10*
+
+
+A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.
+
+
+### AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI — ‘We didn’t magically know four years ago that agentic was going to be a thing’
+
+*Tom's Hardware | 2026-11-10*
+
+
+AMD's frank admission that no one built a CPU for agentic AI is the most credible thing a chipmaker has said this year, and it makes Nvidia and Arm's 'purpose-built' claims look like marketing.
+
+
+### The indie game community is in disarray over AI and Big Walk
 
 *The Verge | 2026-11-10*
 
 
-Ellison sells AI as Hollywood's next CGI moment, but his own Terminator math shows the real pitch: cheaper production, not bolder art.
+The indie scene's AI purity test just hit its first beloved casualty, and 'we used it sparingly for bugs' shows how blurry the line has already become.
 
 
-### Anthropic reportedly plans to move forward with IPO plans
+### Reddit wants to guide your next purchase
+
+*The Verge | 2026-11-10*
+
+
+Reddit is turning the thing people already do, adding 'reddit' to their searches, into a product. The hard part is staying trustworthy once shoppers and marketers move in.
+
+
+### Google releases Gemini 4 Carbon with agent ‘swarm’ feature
+
+*The Verge | 2026-11-10*
+
+
+Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
+
+
+### eBay appears to have shut the door on third-party AI agents
+
+*The Verge | 2026-11-10*
+
+
+eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
+
+
+### ChatGPT is getting verified AI ‘Business Agents’
+
+*The Verge | 2026-11-10*
+
+
+ChatGPT's verified Business Agents look like customer service, but they're really the foundation of an AI-era ad marketplace.
+
+
+### Anthropic has its own AI-powered office suite now
+
+*The Verge | 2026-11-10*
+
+
+Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
+
+
+### Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI
 
 *TechCrunch | 2026-11-10*
 
 
-Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+Sundrop's boldest feature isn't time-lapses, it's refusing generative AI and the cloud, betting that parents value privacy over magic.
 
 
-### How to turn on personal results on your Google Home
+### Spotify’s AI DJ gets new voices, personalities, and an option for less chatter
 
-*Engadget | 2026-11-10*
+*TechCrunch | 2026-11-10*
 
 
-Gemini makes Google Home smarter, but personal results only pay off if the speaker reliably tells your voice from everyone else's in the house.
+Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
 
 
-### TailSteer reduces drift in multi‑turn image editing; History Forcing stabilizes long‑horizon video generation
+### Reddit is turning user conversations into AI-powered product reviews
 
-*Dev.to | 2026-11-10*
+*TechCrunch | 2026-11-10*
 
 
-TailSteer and History Forcing go after generative AI's real weakness, which isn't the first image but the fifteenth edit and the fifteenth second.
-
-
-### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
-
-*Dev.to | 2026-11-10*
-
-
-RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
-
-
-### One Afternoon of Our AI Coding Sessions, and Why They Don't Collide
-
-*Dev.to | 2026-11-10*
-
-
-Multi-agent coding works when the teams look more like microservices than a crowd in one repo. Separate repos and versioned releases are what stop the AI workers from colliding.
-
-
-### I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best
-
-*Dev.to | 2026-11-10*
-
-
-A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
-
-
-### How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything
-
-*Dev.to | 2026-11-10*
-
-
-A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
-
-
-### Google Antigravity adds ‘Knowledge Work’ interface for non-coding work
-
-*9to5Google | 2026-11-10*
-
-
-Google's Knowledge Work mode admits coding agents were general-purpose agents all along; the IDE was just the first container.
-
-
-### Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work
-
-*Wired | 2026-11-09*
-
-
-Waymo's school bus recall exposes the core problem with AV safety: a software fix is only a claim until real roads prove it.
-
-
-### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
-
-*Wired | 2026-11-09*
-
-
-Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
-
-
-### Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center
-
-*Wired | 2026-11-09*
-
-
-When motorcycle racers and bee conservationists team up against Google, it shows how wide local opposition to Britain's AI data center push has become.
-
-
-### Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?
-
-*Wired | 2026-11-09*
-
-
-Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
-
-
-### Nvidia cracks down on overseas cloud AI GPU rentals for China
-
-*Tom's Hardware | 2026-11-09*
-
-
-Nvidia's quiet 51% rule looks like self-policing aimed at Congress, and a B300 rack selling for nearly five times its price in China shows how far demand outruns supply.
-
-
-### Lawyer builds private AI server with eight used Nvidia V100 GPUs
-
-*Tom's Hardware | 2026-11-09*
-
-
-A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.
-
-
-### China builds massive 800-megawatt AI data center campus to rival US Stargate project
-
-*Tom's Hardware | 2026-11-09*
-
-
-China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
-
-
-### Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition
-
-*Tom's Hardware | 2026-11-09*
-
-
-DEEPX's butter demo is clever marketing, but melting butter doesn't measure performance per watt, which is the number that actually matters.
-
-
-### Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal
-
-*Tom's Hardware | 2026-11-09*
-
-
-Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
-
-
-### What could China get from Jensen Huang?
-
-*The Verge | 2026-11-09*
-
-
-The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
+Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.

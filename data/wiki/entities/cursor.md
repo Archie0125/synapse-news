@@ -1,7 +1,7 @@
 # Cursor
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything** (2026-11-10)
   - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+- **Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.** (2026-11-09)
+  - Voice for coding agents is quickly becoming expected. Claude Code's dictation-only input looks like a gap, unless Anthropic is betting developers would rather not talk to their IDE.
 
 - **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
   - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.

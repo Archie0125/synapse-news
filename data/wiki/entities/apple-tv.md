@@ -1,11 +1,20 @@
 # Apple TV
 
 
-*Mentioned in 6 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
+  - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.
+
+- **Apple brings Sign Language interpretation to a selection of original Apple TV titles** (2026-11-10)
+  - Apple's sign language overlays, crafted by Deaf signers, are the right way to do accessibility, but a handful of titles is a showcase, not a standard yet.
+
+- **Apple TV launches new sign language accessibility feature** (2026-11-10)
+  - Apple TV's synced sign-language interpreters are a real accessibility win, but launching with only two films and hiding the toggle in Settings limits the impact.
 
 - **Apple to stream Las Vegas Formula 1 race for free in the United States** (2026-11-09)
   - Streaming the flashiest F1 race free is Apple's smartest marketing move this year: the neon spectacle works as a trailer for an Apple TV subscription.

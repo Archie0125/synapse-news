@@ -1,95 +1,127 @@
 # Dev Tools
 
 
-*277 articles in the last 7 days*
+*330 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Why Your Hosting Company's Backup Is Not a Disaster Recovery Plan
+### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
 
-*Dev.to | 2026-11-10*
-
-
-Your host's backup is an undo button, not a disaster recovery plan, and it fails exactly when the host itself is the problem.
+*Tom's Hardware | 2026-11-10*
 
 
-### Upgrading three Tailwind projects to v4 in one sprint
-
-*Dev.to | 2026-11-10*
+AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
 
 
-The best lesson from this Tailwind v4 migration isn't technical. It's sequencing: learn on the easy project, and leave custom plugins for last because that's where schedules slip.
+### The indie game community is in disarray over AI and Big Walk
+
+*The Verge | 2026-11-10*
 
 
-### TailSteer reduces drift in multi‑turn image editing; History Forcing stabilizes long‑horizon video generation
-
-*Dev.to | 2026-11-10*
+The indie scene's AI purity test just hit its first beloved casualty, and 'we used it sparingly for bugs' shows how blurry the line has already become.
 
 
-TailSteer and History Forcing go after generative AI's real weakness, which isn't the first image but the fifteenth edit and the fifteenth second.
+### Google releases Gemini 4 Carbon with agent ‘swarm’ feature
+
+*The Verge | 2026-11-10*
 
 
-### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
-
-*Dev.to | 2026-11-10*
+Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
 
 
-RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
+### Ableton Live 13 announced with a step sequencer, new drum synth, and more
+
+*The Verge | 2026-11-10*
 
 
-### One Afternoon of Our AI Coding Sessions, and Why They Don't Collide
-
-*Dev.to | 2026-11-10*
+Ableton Live 13 finally adds a real step sequencer and ARA support, proof that fixing long-standing workflow pain beats flashy AI features for pro tools.
 
 
-Multi-agent coding works when the teams look more like microservices than a crowd in one repo. Separate repos and versioned releases are what stop the AI workers from colliding.
+### Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience
+
+*InfoQ | 2026-11-10*
 
 
-### My Server Got Hacked: 15 Hours Fighting Crypto Miners and Hidden Backdoors
-
-*Dev.to | 2026-11-10*
+Walmart's multi-agent LLM forecasting talk is a reminder that the unglamorous batch jobs, not chatbots, are where enterprise AI earns its keep.
 
 
-A gripping incident write-up that shows the uncomfortable truth: killing the miner takes five seconds, and finding every way it comes back takes fifteen hours.
+### Pinterest and Intel Take Open-Source Profiling to Internet Scale
+
+*InfoQ | 2026-11-10*
 
 
-### Logging I asked for was already running: 87,279 windows
-
-*Dev.to | 2026-11-10*
+Pinterest chose to upstream its profiler work to open source instead of building in-house, a smart bet that shared infrastructure beats a private moat.
 
 
-The 87,279 hidden windows aren't the scary part. The scary part is that the tool hiding them quietly died, and for 59 days nobody checked whether it was still running.
+### Google Finds that Technical Debt Can Derail Coding Agents Through "Agent Distraction"
+
+*InfoQ | 2026-11-10*
 
 
-### I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best
-
-*Dev.to | 2026-11-10*
+Google's data shows stale TODO comments have become instructions for AI agents, which means technical debt now actively misleads the code's newest readers.
 
 
-A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+### Google Cloud Spend Caps Reach General Availability with API and Monthly Resets
+
+*InfoQ | 2026-11-10*
 
 
-### How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything
-
-*Dev.to | 2026-11-10*
+Google Cloud finally gives customers a real spending kill switch, but it covers only four services, so most surprise bills are still possible.
 
 
-A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+### Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support
+
+*InfoQ | 2026-11-10*
 
 
-### How to get a Discord alert when your Minecraft server goes down
-
-*Dev.to | 2026-11-10*
+Effect 4.0's performance claims are impressive, but they come from the team's own benchmarks. The three-year LTS commitment may matter more than any of the numbers.
 
 
-A tidy ten-minute monitoring hack that is honest about where it falls short, and that honesty doubles as the pitch for the author's paid product.
+### Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification
+
+*InfoQ | 2026-11-10*
 
 
-### Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright
-
-*Dev.to | 2026-11-10*
+Stacking more verification layers on an LLM mostly sorts its answers by trustworthiness. It rarely fixes wrong ones, so the extra layers can make a pipeline look more reliable than it is.
 
 
-A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.
+### Decision Models in Hugging Face
+
+*Hugging Face Blog | 2026-11-10*
+
+
+Decision models skip text generation and return probabilities for each option. For classification tasks, that is easier to audit than asking an LLM to write JSON.
+
+
+### What's new in the .NET 11 runtime
+
+*Hacker News | 2026-11-10*
+
+
+.NET 11 raises its minimum hardware requirements. It's a sensible cleanup, but Windows on Arm users with older chips are the ones who pay for it.
+
+
+### The Hardest Tarball?
+
+*Hacker News | 2026-11-10*
+
+
+One GNU tar command creates an archive that extracts eight different ways. The tar "standard" is less settled than most people assume.
+
+
+### Locating the source of a mysterious beep
+
+*Hacker News | 2026-11-10*
+
+
+Building a sound-triangulation system to find one beeping box sounds absurd. AI coding tools have made absurd, single-use software rational.
+
+
+### Gemini 4 Carbon is now available
+
+*Hacker News | 2026-11-10*
+
+
+Gemini 4 Carbon tops agentic benchmarks at less than half the cost per task. Google is competing on economics as much as intelligence.

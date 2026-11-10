@@ -1,14 +1,20 @@
 # Hugging Face
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
 
-- **Your Experts Have Partners. There's HOPE for Keeping Them Together** (2026-11-09)
-  - HOPE shows that MoE experts work in teams, so pruning them one by one is like cutting a band's members without listening to the song.
+- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
+  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+- **Pay for Hugging Face Hub with your Google Cloud Account** (2026-11-10)
+  - Hugging Face billing through Google Cloud is not exciting, but in large companies, getting past procurement is often what decides whether a tool gets used.
+
+- **Decision Models in Hugging Face** (2026-11-10)
+  - Decision models skip text generation and return probabilities for each option. For classification tasks, that is easier to audit than asking an LLM to write JSON.
 
 - **The 130 KB AI is a 175 KB PDF** (2026-11-09)
   - Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.
@@ -18,6 +24,3 @@
 
 - **Dharma Field Extractor: Any Document In, Structured Fields in JSON Out** (2026-11-04)
   - A 2B-parameter specialist claiming to beat frontier LLMs at document field extraction is a sign that paying frontier prices for high-volume, narrow tasks no longer makes sense.
-
-- **Palette: teaching a small model to build decks in your design language** (2026-11-03)
-  - Palette suggests the real moat in AI slides isn't model size but owning your design language. A fine-tuned 20B model with a harness can beat frontier models' house style.

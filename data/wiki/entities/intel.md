@@ -1,11 +1,17 @@
 # Intel
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump** (2026-11-10)
+  - A $10 chip programmer that rescues locked ThinkPads from e-waste is a win for right-to-repair, and a reminder that corporate BIOS passwords protect less than IT thinks.
+
+- **Pinterest and Intel Take Open-Source Profiling to Internet Scale** (2026-11-10)
+  - Pinterest chose to upstream its profiler work to open source instead of building in-house, a smart bet that shared infrastructure beats a private moat.
 
 - **Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long** (2026-11-09)
   - Acer built a portable gaming laptop with a great OLED screen whose weak battery life works against the reason you'd buy a portable one.

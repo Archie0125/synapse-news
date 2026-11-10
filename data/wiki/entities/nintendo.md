@@ -1,11 +1,14 @@
 # Nintendo
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running** (2026-11-10)
+  - A brand-new Zelda remake running on Android phones within a week is impressive, but '30 FPS' is really 15 FPS with AI frame generation, and Nintendo's lawyers will notice.
 
 - **5 Nintendo Switch 2 features everyone should know about** (2026-11-09)
   - The Switch 2 is mostly a refinement, so its most useful upgrades are small conveniences like controller finding and game sharing that many owners never notice.

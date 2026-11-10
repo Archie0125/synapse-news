@@ -1,34 +1,138 @@
 # Cybersecurity
 
 
-*79 articles in the last 7 days*
+*93 articles in the last 7 days*
 
 
 ## Latest
 
 
-### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+### Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information
 
 *Wired | 2026-11-10*
 
 
-DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
 
 
-### The safety reason TSA might ask you to turn on your phone
+### Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit
+
+*Tom's Hardware | 2026-11-10*
+
+
+A hobbyist using an AI model and a fuzzer found a remote code execution chain in a Prusa printer in a week. AI-assisted bug hunting is now cheap enough for hobbyists.
+
+
+### President Trump says the FBI is investigating Jensen Huang’s affair
+
+*Tom's Hardware | 2026-11-10*
+
+
+Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
+
+
+### New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
+
+*Tom's Hardware | 2026-11-10*
+
+
+A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+
+
+### $10 programmer saves BIOS-locked Lenovo ThinkPads from the dump
+
+*Tom's Hardware | 2026-11-10*
+
+
+A $10 chip programmer that rescues locked ThinkPads from e-waste is a win for right-to-repair, and a reminder that corporate BIOS passwords protect less than IT thinks.
+
+
+### Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot
+
+*TechCrunch | 2026-11-10*
+
+
+Ring's flying indoor camera is technically clever, but a company with Ring's privacy track record putting a drone inside your home is a trust test it hasn't earned.
+
+
+### N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs
+
+*TechCrunch | 2026-11-10*
+
+
+A researcher dumping 30-plus zero-days is reckless, but N-able allegedly ignoring earlier reports is the bigger failure.
+
+
+### Google broadens its AI hardware portfolio with two new specialized chips
+
+*TechCrunch | 2026-11-10*
+
+
+Google's new TPUs target the two things enterprises fear most, data leaks and memory limits, which is a sharper strategy than trying to beat Nvidia on raw speed.
+
+
+### Your TV can see through walls (2025)
+
+*Hacker News | 2026-11-10*
+
+
+A cheap radio and a local TV signal can tell someone is walking in the next room and estimate how fast. Wireless sensing is easier than most people think.
+
+
+### The Hardest Tarball?
+
+*Hacker News | 2026-11-10*
+
+
+One GNU tar command creates an archive that extracts eight different ways. The tar "standard" is less settled than most people assume.
+
+
+### Queens Public library under ransomware attack e-borrowing suspended
+
+*Hacker News | 2026-11-10*
+
+
+Ransomware has reached the public library. Paper books still work, but Queens' digital services are down, and that should worry every underfunded public institution.
+
+
+### Fireworks AI security breach impacts Notion and their customers
+
+*Hacker News | 2026-11-10*
+
+
+The Fireworks AI breach shows your AI vendor's vendor is now part of your attack surface. Notion's 'unattributable chats' framing softens a real exposure.
+
+
+### AlphaProof Code
+
+*Hacker News | 2026-11-10*
+
+
+AI formally verifying Signal's real code is a genuine milestone. The quiet headline is that formal verification may finally scale beyond academia.
+
+
+### Git security vulnerabilities announced
+
+*GitHub Blog | 2026-11-10*
+
+
+Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
+
+
+### Google's Gemini 4 Carbon is now widely available around the world
 
 *Engadget | 2026-11-10*
 
 
-A TSA request to power on your phone is a harmless 2014 rule. The real privacy issue is CBP's border search exception, which can reach your phone's contents.
+Google's honest admission that Carbon is overkill for most coding work is the real story; the free scientist access looks a lot like data gathering.
 
 
-### Why Your Hosting Company's Backup Is Not a Disaster Recovery Plan
+### Don't throw away your old phone box — you might need it in an emergency
 
-*Dev.to | 2026-11-10*
+*Engadget | 2026-11-10*
 
 
-Your host's backup is an undo button, not a disaster recovery plan, and it fails exactly when the host itself is the problem.
+Your phone box is mostly a paper backup of your IMEI and a bit of resale value, and a photo of the label gets you nearly all of that.
 
 
 ### My Server Got Hacked: 15 Hours Fighting Crypto Miners and Hidden Backdoors
@@ -47,121 +151,17 @@ A gripping incident write-up that shows the uncomfortable truth: killing the min
 The 87,279 hidden windows aren't the scary part. The scary part is that the tool hiding them quietly died, and for 59 days nobody checked whether it was still running.
 
 
+### Google DeepMind analysis proves Signal and WhatsApp encryption is secure
+
+*9to5Mac | 2026-11-10*
+
+
+DeepMind using agentic AI to formally verify the Signal Protocol is a real breakthrough, but it proves the math is sound, not that your messaging app is.
+
+
 ### I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found
 
 *Wired | 2026-11-09*
 
 
 Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
-
-
-### DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office
-
-*Wired | 2026-11-09*
-
-
-DHS has sent at least 185,000 warrantless subpoenas since January 2025, more than ICE sent in six and a half years, which shows how routine this unchecked tool has become.
-
-
-### Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
-
-*Tom's Hardware | 2026-11-09*
-
-
-Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
-
-
-### Meta expands Instagram’s AI age-guessing tech globally
-
-*TechCrunch | 2026-11-09*
-
-
-Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.
-
-
-### Hotel giant Wyndham exposed customer data after app security lapse
-
-*TechCrunch | 2026-11-09*
-
-
-Wyndham left a database password in its Android app and had no way for researchers to report it. Both are basic failures.
-
-
-### France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks
-
-*TechCrunch | 2026-11-09*
-
-
-France pinning freezer hacks on Iran shows that state cyberwar now targets the cheapest, most forgotten IoT boxes in the supply chain.
-
-
-### Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security
-
-*InfoQ | 2026-11-09*
-
-
-Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
-
-
-### Google Gemini routes personal Drive files and emails to human annotators
-
-*Hacker News | 2026-11-09*
-
-
-Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.
-
-
-### Claude Fable 5.2 and Mythos 5.2
-
-*Hacker News | 2026-11-09*
-
-
-Anthropic's Fable 5.2 pairs lab-grade claims, like a Fermat proof formalized in 30 hours, with a price cut. The real story is the split into a safeguarded model and a gated one.
-
-
-### What the tiny blue dot on your Android phone is telling you
-
-*Engadget | 2026-11-09*
-
-
-Android's blue location dot is small, but it's one of the few honest signals your phone gives you about who is tracking you.
-
-
-### This prototype camera is fighting the good fight against AI photography
-
-*Engadget | 2026-11-09*
-
-
-CAIM1's cryptographically signed camera is a smart answer to deepfakes, but proving that a photo is real only matters if platforms actually check.
-
-
-### Think twice before using a webcam cover on your MacBook
-
-*Engadget | 2026-11-09*
-
-
-A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.
-
-
-### We’re Asking an Appeals Court to Require a Warrant for ALPR Searches
-
-*EFF | 2026-11-09*
-
-
-Seeing one license plate is observation, but searching national plate-reader databases builds a record of where someone has been, and courts should treat it that way.
-
-
-### U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability
-
-*EFF | 2026-11-09*
-
-
-After Cisco v. Doe I, U.S. tech companies whose products help abusive regimes face no ATS liability, and only Congress can change that.
-
-
-### Support Attachments: Multipart Selection for 100 MB-1 GB Private PDF and ZIP Uploads
-
-*Dev.to | 2026-11-09*
-
-
-The best line in this upload guide isn't about multipart. A perfectly resumed 1 GB ZIP sent to the wrong tenant is still a breach, so authorization comes before bytes.

@@ -1,14 +1,11 @@
 # Google Home
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
-
-- **How to turn on personal results on your Google Home** (2026-11-10)
-  - Gemini makes Google Home smarter, but personal results only pay off if the speaker reliably tells your voice from everyone else's in the house.
 
 - **Hunter is killing Google Home, Alexa controls for its smart ceiling fans** (2026-11-09)
   - Hunter's move to Matter sounds like progress, but owners of older fans pay for it: their voice control simply stops working.

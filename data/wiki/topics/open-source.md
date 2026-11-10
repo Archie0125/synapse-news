@@ -1,26 +1,106 @@
 # Open Source
 
 
-*88 articles in the last 7 days*
+*100 articles in the last 7 days*
 
 
 ## Latest
 
 
-### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+### This New Linux-Based Desktop Operating System Is Built for AI Nerds
 
 *Wired | 2026-11-10*
 
 
-DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
 
 
-### Upgrading three Tailwind projects to v4 in one sprint
+### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
+
+*Wired | 2026-11-10*
+
+
+Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+
+
+### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
+
+*Tom's Hardware | 2026-11-10*
+
+
+AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
+
+
+### Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark
+
+*Tom's Hardware | 2026-11-10*
+
+
+A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.
+
+
+### Pinterest and Intel Take Open-Source Profiling to Internet Scale
+
+*InfoQ | 2026-11-10*
+
+
+Pinterest chose to upstream its profiler work to open source instead of building in-house, a smart bet that shared infrastructure beats a private moat.
+
+
+### Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support
+
+*InfoQ | 2026-11-10*
+
+
+Effect 4.0's performance claims are impressive, but they come from the team's own benchmarks. The three-year LTS commitment may matter more than any of the numbers.
+
+
+### Decision Models in Hugging Face
+
+*Hugging Face Blog | 2026-11-10*
+
+
+Decision models skip text generation and return probabilities for each option. For classification tasks, that is easier to audit than asking an LLM to write JSON.
+
+
+### The Hardest Tarball?
+
+*Hacker News | 2026-11-10*
+
+
+One GNU tar command creates an archive that extracts eight different ways. The tar "standard" is less settled than most people assume.
+
+
+### Smart home devices should work without the internet
+
+*Hacker News | 2026-11-10*
+
+
+A smart home that stops working when a vendor's server goes down is really a rental. This ten-year local-first setup shows the alternative works.
+
+
+### Blender 5.3 released with Gaussian Splat support
+
+*Hacker News | 2026-11-10*
+
+
+Blender 5.3 adds Gaussian splats and DLSS denoising, and once again the free open-source tool ships the hot new 3D tech faster than many paid rivals.
+
+
+### Git security vulnerabilities announced
+
+*GitHub Blog | 2026-11-10*
+
+
+Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
+
+
+### UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance
 
 *Dev.to | 2026-11-10*
 
 
-The best lesson from this Tailwind v4 migration isn't technical. It's sequencing: learn on the easy project, and leave custom plugins for last because that's where schedules slip.
+UUIDv4 primary keys look safe in code review and then wreck your B-Tree at scale; time-ordered IDs like UUIDv7 should be the default now.
 
 
 ### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
@@ -31,12 +111,44 @@ The best lesson from this Tailwind v4 migration isn't technical. It's sequencing
 RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
 
 
+### Kubernetes - Setup External DNS
+
+*Dev.to | 2026-11-10*
+
+
+Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.
+
+
+### I hid 6 secret glitches in my agent's video game. They make it easier. Can it find them?
+
+*Dev.to | 2026-11-10*
+
+
+Beating a known level is just execution. Hiding undocumented glitches tests whether an agent will experiment, which is a far more interesting benchmark.
+
+
+### Even a mechanical migration deserves a spec
+
+*Dev.to | 2026-11-10*
+
+
+A two-day Jest-to-Vitest migration shows that the most useful part of a spec is the list of things you won't do.
+
+
 ### Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright
 
 *Dev.to | 2026-11-10*
 
 
 A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.
+
+
+### Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running
+
+*9to5Google | 2026-11-10*
+
+
+A brand-new Zelda remake running on Android phones within a week is impressive, but '30 FPS' is really 15 FPS with AI frame generation, and Nintendo's lawyers will notice.
 
 
 ### Lawyer builds private AI server with eight used Nvidia V100 GPUs
@@ -53,115 +165,3 @@ A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used
 
 
 A lawsuit says the Ethereum Foundation made staff choose between a 'Source Seppuku' oath and the exit; the joke defense won't survive HR law.
-
-
-### Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM
-
-*InfoQ | 2026-11-09*
-
-
-The interesting point in this episode is that Kubernetes' default load balancing actively wastes GPUs for LLMs, and llm-d exists to fix that.
-
-
-### Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement
-
-*InfoQ | 2026-11-09*
-
-
-Pinterest swapped a fragile clustering pipeline for one small fine-tuned LLM and gained about 1%, which proves small models can replace whole ML stacks, not that they work miracles.
-
-
-### Your Experts Have Partners. There's HOPE for Keeping Them Together
-
-*Hugging Face Blog | 2026-11-09*
-
-
-HOPE shows that MoE experts work in teams, so pruning them one by one is like cutting a band's members without listening to the song.
-
-
-### Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context
-
-*Hugging Face Blog | 2026-11-09*
-
-
-NVIDIA and Elith's synthetic Japanese finance personas are a clever workaround for privacy rules, but synthetic realism still has to survive real-world testing.
-
-
-### E-means: Outperforming k-means in one-tenth the epochs
-
-*Hacker News | 2026-11-09*
-
-
-E-means shows that k-means, a 1950s-era workhorse, still had large speedups left. With a better update rule and automatic tuning, it runs 10–45x faster with lower loss.
-
-
-### What hardware does your PC need to run a local AI model?
-
-*Engadget | 2026-11-09*
-
-
-Running AI locally is easy now, but a 16GB PC only gets you a toy. Coming anywhere near frontier models takes serious, expensive memory.
-
-
-### The 130 KB AI is a 175 KB PDF
-
-*Dev.to | 2026-11-09*
-
-
-Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.
-
-
-### POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today
-
-*Dev.to | 2026-11-09*
-
-
-A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.
-
-
-### I created an interactive TUI log debugger in Python because grep and tail are driving me crazy.
-
-*Dev.to | 2026-11-09*
-
-
-TraceTUI is a nice fix for grep fatigue, but a terminal log viewer mostly confirms that many teams still debug production by SSHing in and squinting.
-
-
-### Getting the V100 tensor cores back from Triton
-
-*Dev.to | 2026-11-09*
-
-
-Triton silently leaves V100 tensor cores idle. nbxtensor's measure-before-switching fix is a smarter way to revive old GPUs than blindly writing custom kernels.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.14: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An IP rating is a lab test result, not a durability promise. Outdoor robot buyers who confuse the two will learn the hard way.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.13: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-A wiring harness looks like assembly work but is really a reliability system, and a chapter on it is overdue in robotics education.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.12: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-An emergency stop that depends on software, the cloud, or the main computer is not an emergency stop, and the chapter gets this exactly right.
-
-
-### AMR Mechanical and Electrical Engineering — Ch.11: Contents {#contents .TOC-Heading} [KR]
-
-*Dev.to | 2026-11-09*
-
-
-The DC-DC converter is the least glamorous part of an AMR, and the one that decides whether the AI computer gets clean, stable power.

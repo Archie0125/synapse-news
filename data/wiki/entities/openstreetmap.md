@@ -1,7 +1,7 @@
 # OpenStreetMap
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **Kugelblitz – Mac-Native Google Earth Alternative** (2026-11-06)
   - Kugelblitz shows that a native Mac globe built on open geodata, with no account required, can beat Google Earth on respect for users, though not yet on scale.
-
-- **Arnis turns any place on Earth into a Minecraft world** (2026-11-03)
-  - A teenager's two-week Minecraft hack reached nearly 900,000 downloads, showing that the best open source starts as play and grows when the community is allowed to lead.

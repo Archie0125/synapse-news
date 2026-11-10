@@ -1,11 +1,17 @@
 # Muse
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
+  - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
+
+- **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (2026-11-10)
+  - Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.
 
 - **Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now** (2026-11-06)
   - Meta's Muse 'spaces' make a real bid for AI-built personal apps, and also give Meta a continuous feed of your Gmail, calendar, and shopping data.

@@ -1,11 +1,14 @@
 # Reuters
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports** (2026-11-10)
+  - Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
 
 - **Apple Intelligence completes regulatory registration for iPad and Mac in China** (2026-11-09)
   - Apple Intelligence clearing China's registration for iPad and Mac is progress, but each device category needing separate approval shows Beijing, not Cupertino, sets the launch schedule.

@@ -1,11 +1,14 @@
 # Apple Watch
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (2026-11-10)
+  - Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.
 
 - **Every senior with an Apple Watch should set up these 5 health alerts** (2026-11-10)
   - The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.

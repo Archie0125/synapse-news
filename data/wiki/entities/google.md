@@ -1,53 +1,53 @@
 # Google
 
 
-*Mentioned in 47 articles*
+*Mentioned in 71 articles*
 
 
 ## Recent Mentions
 
 
-- **How to turn on personal results on your Google Home** (2026-11-10)
-  - Gemini makes Google Home smarter, but personal results only pay off if the speaker reliably tells your voice from everyone else's in the house.
+- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
+  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
 
-- **Canadian court certifies class action against Apple over Google search deal** (2026-11-10)
-  - The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
+- **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
+  - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
 
-- **Google Antigravity adds ‘Knowledge Work’ interface for non-coding work** (2026-11-10)
-  - Google's Knowledge Work mode admits coding agents were general-purpose agents all along; the IDE was just the first container.
+- **Google Fi is bringing back multiple cell network support for better coverage** (2026-11-10)
+  - Google Fi's 'super network' revives its original killer feature, but locking it to Pixel 9 and newer turns a carrier perk into a phone sales pitch.
 
-- **I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found** (2026-11-09)
-  - Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
+- **Anthropic has its own AI-powered office suite now** (2026-11-10)
+  - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
 
-- **Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center** (2026-11-09)
-  - When motorcycle racers and bee conservationists team up against Google, it shows how wide local opposition to Britain's AI data center push has become.
+- **Google broadens its AI hardware portfolio with two new specialized chips** (2026-11-10)
+  - Google's new TPUs target the two things enterprises fear most, data leaks and memory limits, which is a sharper strategy than trying to beat Nvidia on raw speed.
 
-- **Medium is launching a new note-taking app called TK** (2026-11-09)
-  - Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
+- **Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion** (2026-11-10)
+  - A $1.4 trillion valuation sounds huge, but it is well short of the reported $2 trillion target, and public buyers get almost no say over the company.
 
-- **Fervo now has $12B in orders for its geothermal power tech** (2026-11-09)
-  - Fervo's order book jumped to $11.9B because it keeps hitting deadlines. In the AI power crunch, being on schedule is the product.
+- **Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly** (2026-11-10)
+  - Adobe's most strategic MAX move is not another Photoshop slider. It's an MCP server that lets ChatGPT and Claude become the front door to Adobe.
 
-- **Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement** (2026-11-09)
-  - Gemini 4 Argon has impressive robotics demos and benchmark scores, but heavy prompt scaffolding and missing failure rates make it hard to tell how much is the model.
+- **Anthropic’s IPO Puts ~$216 Billion in Employee Hands. Another $160 Billion Is Reserved for the Next Hires.** (2026-11-10)
+  - Anthropic's IPO makes the average employee worth about $41 million on paper, and its $160 billion reserve for future hires could distort AI talent pricing for years.
 
-- **Google Gemini routes personal Drive files and emails to human annotators** (2026-11-09)
-  - Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.
+- **Google Finds that Technical Debt Can Derail Coding Agents Through "Agent Distraction"** (2026-11-10)
+  - Google's data shows stale TODO comments have become instructions for AI agents, which means technical debt now actively misleads the code's newest readers.
 
-- **YouTube will once again be part of Billboard chart calculations in 2027** (2026-11-09)
-  - YouTube's Billboard boycott worked: by walking away, it got free, ad-supported streams counted for more, and the platform now has leverage over how hits are measured.
+- **Gemini 4 Carbon is now available** (2026-11-10)
+  - Gemini 4 Carbon tops agentic benchmarks at less than half the cost per task. Google is competing on economics as much as intelligence.
 
-- **What the tiny blue dot on your Android phone is telling you** (2026-11-09)
-  - Android's blue location dot is small, but it's one of the few honest signals your phone gives you about who is tracking you.
+- **We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.** (2026-11-10)
+  - Adobe gets distribution inside Gmail and Drive, and Google gets its models inside Photoshop. The partnership is really a hedge against Microsoft and OpenAI.
 
-- **How does Google Wallet's notification feed work and can you disable it?** (2026-11-09)
-  - Google Wallet's new notification inbox brings gate changes and points updates into one place, but it also gives offers a way into an app that handles your money.
+- **Google's Gemini 4 Carbon is now widely available around the world** (2026-11-10)
+  - Google's honest admission that Carbon is overkill for most coding work is the real story; the free scientist access looks a lot like data gathering.
 
-- **Gmail users should know about this little-noticed feature** (2026-11-09)
-  - Gmail's unsend button is really a send delay, and knowing that helps you use it well: set the longest delay and read your email once more before it goes.
+- **Don't throw away your old phone box — you might need it in an emergency** (2026-11-10)
+  - Your phone box is mostly a paper backup of your IMEI and a bit of resale value, and a photo of the label gets you nearly all of that.
 
-- **YouTube auf Quest wird neu gedacht – aber was macht das mit deinen Augen?** (2026-11-09)
-  - A YouTube redesign on Quest becomes a pitch for VR amblyopia training, an intriguing idea that still needs clinical evidence more than marketing copy.
+- **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
+  - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
 
-- **What’s new in Android’s November 2026 Google System Updates [U]** (2026-11-09)
-  - The monthly Google System Updates are now the main way Android changes. Google keeps adding modules it controls, and the yearly OS release matters less.
+- **Adobe and Google have teamed up to connect Drive, Gmail and Acrobat** (2026-11-10)
+  - Adobe embedding Acrobat inside Gemini is less a partnership than a survival move: if AI chat becomes the interface, PDF tools have to live inside it.

@@ -1,17 +1,29 @@
 # Claude Code
 
 
-*Mentioned in 12 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
+
+- **Anthropic has its own AI-powered office suite now** (2026-11-10)
+  - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
+
+- **Locating the source of a mysterious beep** (2026-11-10)
+  - Building a sound-triangulation system to find one beeping box sounds absurd. AI coding tools have made absurd, single-use software rational.
 
 - **I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best** (2026-11-10)
   - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
 
 - **How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything** (2026-11-10)
   - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.
+
+- **How to answer Claude Code or Codex from your phone** (2026-11-10)
+  - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
+
+- **Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.** (2026-11-09)
+  - Voice for coding agents is quickly becoming expected. Claude Code's dictation-only input looks like a gap, unless Anthropic is betting developers would rather not talk to their IDE.
 
 - **Fable 5.2 one-shotted my nephew's dream game** (2026-11-09)
   - A kid's crayon game design went from an unreasonable birthday request to a fun, playable beat 'em up in one shot. In under a year, AI agents' ceiling for game dev moved a lot.
@@ -39,6 +51,3 @@
 
 - **The Hackintosh Reborn** (2026-11-05)
   - Apple's move to ARM was supposed to kill the Hackintosh, but AI coding tools have given old x86 laptops a reason to run macOS one more time.
-
-- **Claude Code sends your email address to websites** (2026-11-05)
-  - One angry bug report about emails leaking in User-Agent headers has become a referendum on whether AI coding agents can be trusted with identity data.

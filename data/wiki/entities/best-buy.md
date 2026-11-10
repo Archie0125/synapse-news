@@ -1,11 +1,17 @@
 # Best Buy
 
 
-*Mentioned in 7 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Ember’s latest self-heating 14-ounce mug is $50 off** (2026-11-10)
+  - At $99.99, the Ember Mug 3 is still a luxury, but the deal makes the bigger 14-ounce size the obvious pick over the 10-ounce model.
+
+- **Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more** (2026-11-10)
+  - Black Friday arrived in early November, and the big discounts on brand-new devices like Dell's XPS Googlebook show how quickly retailers are clearing inventory.
 
 - **How to shop like a pro during Black Friday and Cyber Monday** (2026-11-09)
   - With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.

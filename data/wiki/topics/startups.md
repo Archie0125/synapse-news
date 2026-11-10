@@ -1,151 +1,143 @@
 # Startups
 
 
-*117 articles in the last 7 days*
+*137 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+### This New Linux-Based Desktop Operating System Is Built for AI Nerds
+
+*Wired | 2026-11-10*
+
+
+Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+
+
+### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
+
+*Wired | 2026-11-10*
+
+
+Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+
+
+### Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI
 
 *TechCrunch | 2026-11-10*
 
 
-The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+Sundrop's boldest feature isn't time-lapses, it's refusing generative AI and the cloud, betting that parents value privacy over magic.
 
 
-### California’s proposed ‘billionaire tax’ fails to pass
-
-*TechCrunch | 2026-11-10*
-
-
-California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
-
-
-### Anthropic reportedly plans to move forward with IPO plans
+### Spotify’s AI DJ gets new voices, personalities, and an option for less chatter
 
 *TechCrunch | 2026-11-10*
 
 
-Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
 
 
-### Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition
+### Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot
 
-*Tom's Hardware | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-DEEPX's butter demo is clever marketing, but melting butter doesn't measure performance per watt, which is the number that actually matters.
+Ring's flying indoor camera is technically clever, but a company with Ring's privacy track record putting a drone inside your home is a trust test it hasn't earned.
 
 
-### Medium is launching a new note-taking app called TK
+### Reddit is turning user conversations into AI-powered product reviews
 
-*The Verge | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Medium's first major launch since 2017 is a bet that Google Zero has broken blogging, and that writers now belong in private circles, not search results.
+Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.
 
 
-### YouTube streaming data returns to Billboard charts, ending major disagreement
+### Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-YouTube boycotted Billboard for a year and won. Free ad-supported streams now count for much more, and the charts finally reflect how most people listen.
+Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
 
 
-### The race is on to sue Nvidia
+### New WhatsApp head wants to make the app easier to use, give its AI more chops
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.
+WhatsApp's new chief says he wants simplicity while also promising loans, eSIMs and bill pay, which is exactly the kind of feature growth that made the app complicated.
 
 
-### Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
+### N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
+A researcher dumping 30-plus zero-days is reckless, but N-able allegedly ignoring earlier reports is the bigger failure.
 
 
-### Meta releases Muse Ember, a new lightweight model for agent execution
+### Meta’s AI agent Muse lands on Apple Watch and Android Wear OS
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
+Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.
 
 
-### Meta expands Instagram’s AI age-guessing tech globally
+### Google broadens its AI hardware portfolio with two new specialized chips
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.
+Google's new TPUs target the two things enterprises fear most, data leaks and memory limits, which is a sharper strategy than trying to beat Nvidia on raw speed.
 
 
-### Meet Drops, the new music app bringing back the fun of sharing songs with friends
+### Aura’s newest e-ink photo frame is even better and more affordable than its last
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
+Aura's cheaper 10-inch e-ink frame shows that custom ink colors and dithering, not resolution, are what make a digital frame look like a print.
 
 
-### Medium’s new TK app brings AI assistance directly into the writing process
+### Apple TV makes sign language interpretation a built-in accessibility feature
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Medium's TK app puts AI inside the writer's notebook, a useful idea that arrives just as authors are losing book deals over AI-written prose.
+Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.
 
 
-### Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
+### Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Huang's case for selling chips to China just lost credibility. It's hard to argue for open access when you may have been a spy's target.
+A $1.4 trillion valuation sounds huge, but it is well short of the reported $2 trillion target, and public buyers get almost no say over the company.
 
 
-### Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago
+### Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-If Huang hired a sex-scandal crisis firm a year before confessing, Nvidia's governance problem is about when it knew, not just the affair.
+Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
 
 
-### Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy
+### After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Jensen Huang canceling public appearances shows that the face of the AI boom has become a liability his partners don't want on stage.
+Cyanogen's co-founder is betting that AI agents can finally break Windows' grip, but a free OS for power users still needs a business model and a working distribution plan.
 
 
-### Hotel giant Wyndham exposed customer data after app security lapse
+### Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly
 
-*TechCrunch | 2026-11-09*
+*TechCrunch | 2026-11-10*
 
 
-Wyndham left a database password in its Android app and had no way for researchers to report it. Both are basic failures.
-
-
-### France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks
-
-*TechCrunch | 2026-11-09*
-
-
-France pinning freezer hacks on Iran shows that state cyberwar now targets the cheapest, most forgotten IoT boxes in the supply chain.
-
-
-### Fervo now has $12B in orders for its geothermal power tech
-
-*TechCrunch | 2026-11-09*
-
-
-Fervo's order book jumped to $11.9B because it keeps hitting deadlines. In the AI power crunch, being on schedule is the product.
+Adobe's most strategic MAX move is not another Photoshop slider. It's an MCP server that lets ChatGPT and Claude become the front door to Adobe.

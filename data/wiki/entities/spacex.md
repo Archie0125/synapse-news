@@ -1,11 +1,14 @@
 # SpaceX
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
+  - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.
 
 - **Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board** (2026-11-08)
   - Sequoia's restructuring looks less like strategy and more like a breakup, and Botha joining the SpaceX board without sign-off shows how the trust broke down.

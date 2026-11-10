@@ -1,50 +1,146 @@
 # Policy
 
 
-*98 articles in the last 7 days*
+*107 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Jensen Huang’s Troubles Leave the AI Industry Reeling
+### ‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP
 
 *Wired | 2026-11-10*
 
 
-The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+Nick Fuentes claiming credit for a Democratic sweep is mostly self-promotion, but his open bid to take over the GOP is the part worth taking seriously.
 
 
-### Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy
+### The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are
+
+*Wired | 2026-11-10*
+
+
+After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+
+### Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information
+
+*Wired | 2026-11-10*
+
+
+AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
+
+
+### Louis Rossmann Wants More People to Care About the Right to Repair
+
+*Wired | 2026-11-10*
+
+
+Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
+
+
+### Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
+
+*Wired | 2026-11-10*
+
+
+NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
+
+
+### President Trump says the FBI is investigating Jensen Huang’s affair
 
 *Tom's Hardware | 2026-11-10*
 
 
-The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
 
 
-### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+### New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
+
+*Tom's Hardware | 2026-11-10*
+
+
+A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+
+
+### Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports
+
+*Tom's Hardware | 2026-11-10*
+
+
+Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
+
+
+### Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang
+
+*Tom's Hardware | 2026-11-10*
+
+
+If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
+
+
+### eBay appears to have shut the door on third-party AI agents
+
+*The Verge | 2026-11-10*
+
+
+eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
+
+
+### Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline
 
 *TechCrunch | 2026-11-10*
 
 
-The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
 
 
-### California’s proposed ‘billionaire tax’ fails to pass
+### The Download: Pelosi’s successor targets AI and data centers face power woes
 
-*TechCrunch | 2026-11-10*
-
-
-California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
+*MIT Technology Review | 2026-11-10*
 
 
-### The safety reason TSA might ask you to turn on your phone
+Scott Wiener is bringing California-style AI safety politics to Congress, while the data center backlash turns out to be about electricity bills, not culture wars.
+
+
+### .name Grandfathered
+
+*Hacker News | 2026-11-10*
+
+
+Users saved 22,000 .name domains from Verisign, but it took lawyers, a trip to Bali and months of fighting, which shows how fragile domain ownership really is.
+
+
+### Polestar is banned in the US, but we still want its latest concept car
 
 *Engadget | 2026-11-10*
 
 
-A TSA request to power on your phone is a harmless 2014 rule. The real privacy issue is CBP's border search exception, which can reach your phone's contents.
+Polestar's gorgeous concept with real physical buttons shows US trade policy is now deciding which car designs Americans ever get to sit in.
+
+
+### Google turns Gemini towards medical paperwork
+
+*Engadget | 2026-11-10*
+
+
+Aiming Gemini at healthcare paperwork instead of diagnosis is the smartest and least glamorous AI move this year, and the hospital partner list proves demand is real.
+
+
+### A Chinese team made a big splash with a drone swarm world record
+
+*Engadget | 2026-11-10*
+
+
+A Guinness record in a swimming pool is a PR stunt, but 116 coordinated underwater drones from a PLA-linked lab is a real military signal.
+
+
+### Guardrail para la abogacía
+
+*Dev.to | 2026-11-10*
+
+
+Brazil's legal AI guardrails come down to one rule: the lawyer is always responsible. The confident statistics in this explainer still need checking.
 
 
 ### Canadian court certifies class action against Apple over Google search deal
@@ -53,14 +149,6 @@ A TSA request to power on your phone is a harmless 2014 rule. The real privacy i
 
 
 The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
-
-
-### Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work
-
-*Wired | 2026-11-09*
-
-
-Waymo's school bus recall exposes the core problem with AV safety: a software fix is only a claim until real roads prove it.
 
 
 ### New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing
@@ -77,91 +165,3 @@ Hulu's 'Get Huge' traces today's looksmaxxing culture back to Tony Huge's biohac
 
 
 Jensen Huang hired a well-known scandal fixer a year before he publicly admitted his affair, which raises the question of when Nvidia's leadership first knew about the risk.
-
-
-### DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office
-
-*Wired | 2026-11-09*
-
-
-DHS has sent at least 185,000 warrantless subpoenas since January 2025, more than ICE sent in six and a half years, which shows how routine this unchecked tool has become.
-
-
-### Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center
-
-*Wired | 2026-11-09*
-
-
-When motorcycle racers and bee conservationists team up against Google, it shows how wide local opposition to Britain's AI data center push has become.
-
-
-### Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?
-
-*Wired | 2026-11-09*
-
-
-Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
-
-
-### Nvidia cracks down on overseas cloud AI GPU rentals for China
-
-*Tom's Hardware | 2026-11-09*
-
-
-Nvidia's quiet 51% rule looks like self-policing aimed at Congress, and a B300 rack selling for nearly five times its price in China shows how far demand outruns supply.
-
-
-### Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
-
-*Tom's Hardware | 2026-11-09*
-
-
-Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
-
-
-### Huawei develops 'entirely Chinese' homegrown desktop PC system
-
-*Tom's Hardware | 2026-11-09*
-
-
-Huawei's 'entirely Chinese' desktop is a real supply-chain milestone, but 'entirely' is doing a lot of work when the cores are still Arm-based.
-
-
-### China builds massive 800-megawatt AI data center campus to rival US Stargate project
-
-*Tom's Hardware | 2026-11-09*
-
-
-China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
-
-
-### What could China get from Jensen Huang?
-
-*The Verge | 2026-11-09*
-
-
-The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
-
-
-### The global pledge to use AI for climate good is a cruel joke
-
-*The Verge | 2026-11-09*
-
-
-COP31's Antalya AI Pledge has the right ingredients on paper, but without binding commitments it's greenwashing for the data center boom.
-
-
-### Hold up — I had a great time talking to the RIAA guy
-
-*The Verge | 2026-11-09*
-
-
-When even the RIAA becomes the internet's ally, AI companies should realize they've united creators, labels and fans against them.
-
-
-### The race is on to sue Nvidia
-
-*TechCrunch | 2026-11-09*
-
-
-Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.

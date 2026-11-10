@@ -1,11 +1,35 @@
 # Microsoft
 
 
-*Mentioned in 13 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions
 
+
+- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
+  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+
+- **Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports** (2026-11-10)
+  - Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
+
+- **Anthropic has its own AI-powered office suite now** (2026-11-10)
+  - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
+
+- **Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion** (2026-11-10)
+  - A $1.4 trillion valuation sounds huge, but it is well short of the reported $2 trillion target, and public buyers get almost no say over the company.
+
+- **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (2026-11-10)
+  - Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
+
+- **Anthropic’s IPO Puts ~$216 Billion in Employee Hands. Another $160 Billion Is Reserved for the Next Hires.** (2026-11-10)
+  - Anthropic's IPO makes the average employee worth about $41 million on paper, and its $160 billion reserve for future hires could distort AI talent pricing for years.
+
+- **What's new in the .NET 11 runtime** (2026-11-10)
+  - .NET 11 raises its minimum hardware requirements. It's a sensible cleanup, but Windows on Arm users with older chips are the ones who pay for it.
+
+- **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
+  - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
 
 - **You can grab three months of Game Pass Ultimate for under $20 per month** (2026-11-09)
   - A $19-a-month Game Pass deal looks generous until you count what Microsoft quietly removed: Call of Duty and unlimited cloud gaming.
@@ -27,21 +51,3 @@
 
 - **Windows PowerToys can automate some of your more tedious PC tasks** (2026-11-07)
   - Microsoft's best Windows productivity features are hidden in a free GitHub download, which is a compliment to PowerToys and a criticism of Windows.
-
-- **AZ-700: The Azure Network Engineer Exam That Rewards People Who Think in Topologies, Not Clicks** (2026-11-07)
-  - AZ-700 is one of the few cloud certifications where memorizing the portal won't help; if you can't trace a packet, you'll fail.
-
-- **Protesters storm Microsoft AI data center construction site** (2026-11-06)
-  - The Amsterdam protest shows that AI's biggest bottleneck in Europe may soon be public consent rather than GPUs or power.
-
-- **The Duo apps are coming, says Apple** (2026-11-06)
-  - Apple's 100,000-app milestone shows it's fixing the Duo's software gap fast, but sellouts at $1,999 prove buyers never waited for the apps anyway.
-
-- **Hundreds of Artex AI hacking tools found publicly exposed to the web** (2026-11-06)
-  - The scariest part of autonomous AI hacking tools isn't the AI. It's that 800+ of them are sitting online with no password, ready for anyone to borrow.
-
-- **TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class** (2026-11-06)
-  - TypeScript 7.1 Beta fixes 7.0's biggest mistake by giving tools their compiler API back, and content mappers may matter even more for Vue and Svelte.
-
-- **Apple says there are already over 100,000 apps built for iPhone Duo** (2026-11-06)
-  - 100,000 iPhone Duo apps in two weeks is the stat Android foldables never got. Apple's real advantage in foldables is developer pull, not hinge tech.

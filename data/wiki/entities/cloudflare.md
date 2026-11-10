@@ -1,11 +1,14 @@
 # Cloudflare
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Kubernetes - Setup External DNS** (2026-11-10)
+  - Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.
 
 - **Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security** (2026-11-09)
   - Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.

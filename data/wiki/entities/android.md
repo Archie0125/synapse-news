@@ -1,11 +1,14 @@
 # Android
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel** (2026-11-10)
+  - Google Fi is bringing back network switching, its original selling point, but without naming the second carrier it's hard to judge how much better the 'super network' really is.
 
 - **What the tiny blue dot on your Android phone is telling you** (2026-11-09)
   - Android's blue location dot is small, but it's one of the few honest signals your phone gives you about who is tracking you.

@@ -1,119 +1,127 @@
 # Hardware
 
 
-*260 articles in the last 7 days*
+*326 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Jensen Huang’s Troubles Leave the AI Industry Reeling
+### Rocco’s Mini Mini Fridge Is Here (2026)
 
 *Wired | 2026-11-10*
 
 
-The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+Rocco shrinks its $2,000 retro fridge into a desktop Mini Mini, and its claim of hitting 41°F is the one spec worth checking.
 
 
-### Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy
+### Ring’s Indoor Drone Camera Is Back—and Now Powered by AI
+
+*Wired | 2026-11-10*
+
+
+Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
+
+
+### Louis Rossmann Wants More People to Care About the Right to Repair
+
+*Wired | 2026-11-10*
+
+
+Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
+
+
+### Huupe Mini 2 Review: More Game Than It Can Handle
+
+*Wired | 2026-11-10*
+
+
+The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.
+
+
+### Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
+
+*Wired | 2026-11-10*
+
+
+NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
+
+
+### Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174
 
 *Tom's Hardware | 2026-11-10*
 
 
-The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+GTA 6's 212GB install makes it a storage upgrade deadline, and it arrives just as AI demand has pushed SSD prices up.
 
 
-### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+### Steam Store adds average FPS data so you can see game performance before making a purchase
 
-*TechCrunch | 2026-11-10*
-
-
-The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
+*Tom's Hardware | 2026-11-10*
 
 
-### Every senior with an Apple Watch should set up these 5 health alerts
-
-*Engadget | 2026-11-10*
+Steam's average-FPS data swaps marketing claims for real player measurements, which puts pressure on poorly optimized games.
 
 
-The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
+### Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit
+
+*Tom's Hardware | 2026-11-10*
 
 
-### King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion
-
-*Wired | 2026-11-09*
+A hobbyist using an AI model and a fuzzer found a remote code execution chain in a Prusa printer in a week. AI-assisted bug hunting is now cheap enough for hobbyists.
 
 
-The Sourdough Sidekick automates the most tedious part of baking sourdough: feeding the starter. That small fix may be enough to get lapsed bakers baking again.
+### Secretlab debuts monitor light bar add-on to reduce glare and eye strain
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year
-
-*Wired | 2026-11-09*
+Secretlab's $179 light bar is a well-built add-on, but it mainly serves to keep Magnus monitor arm owners buying from the same desk ecosystem.
 
 
-Jensen Huang hired a well-known scandal fixer a year before he publicly admitted his affair, which raises the question of when Nvidia's leadership first knew about the risk.
+### President Trump says the FBI is investigating Jensen Huang’s affair
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Audioengine Color of the Year Kit Review: Bright Look, Good Sound
-
-*Wired | 2026-11-09*
+Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
 
 
-Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
+### New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W
-
-*Tom's Hardware | 2026-11-09*
+A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
 
 
-When a 500W cap still cooks 12V-2x6 cables on a workstation card, the connector design has a problem that a power limit will not fix.
+### Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Nvidia cracks down on overseas cloud AI GPU rentals for China
-
-*Tom's Hardware | 2026-11-09*
+Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
 
 
-Nvidia's quiet 51% rule looks like self-policing aimed at Congress, and a B300 rack selling for nearly five times its price in China shows how far demand outruns supply.
+### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy
-
-*Tom's Hardware | 2026-11-09*
+AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
 
 
-Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
+### Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Memory shortage spurs smartphone makers to melt used memory off old devices, then re-solder it onto new products
-
-*Tom's Hardware | 2026-11-09*
+Hall Effect sticks under $40 show anti-drift tech is now the budget baseline, but the missing Xbox support limits what this deal is worth.
 
 
-Recycled memory in new phones sounds green, but it is really a budget-phone survival tactic, and TrendForce expects it to reach pricier models.
+### Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark
+
+*Tom's Hardware | 2026-11-10*
 
 
-### Lawyer builds private AI server with eight used Nvidia V100 GPUs
-
-*Tom's Hardware | 2026-11-09*
-
-
-A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.
-
-
-### Huawei develops 'entirely Chinese' homegrown desktop PC system
-
-*Tom's Hardware | 2026-11-09*
-
-
-Huawei's 'entirely Chinese' desktop is a real supply-chain milestone, but 'entirely' is doing a lot of work when the cores are still Arm-based.
-
-
-### Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now
-
-*Tom's Hardware | 2026-11-09*
-
-
-At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.
+A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.

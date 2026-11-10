@@ -882,5 +882,148 @@
     "status": "pending",
     "scheduled_for": "2026-11-11T09:40:00+00:00",
     "queued_at": "2026-11-10T06:37:10.023865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "外遇是八卦，Megaspeed 才是正題。\n\n如果輝達真的插手晶片走私調查，這就不是黃仁勳的私生活，而是出口管制問題。\n\n一個人管全球九成 AI 晶片怎麼分，他的判斷力本身就是供應鏈風險。\n\n更痛的是證券法。醜聞會過去，但之前的否認如果站不住，那張帳單才真的大。\n\n我賭董事會這一季結束前，就得公開接班計畫。",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-10T18:50:45.518425+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T18:50:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The AI industry spent years modeling compute risk, model risk, Taiwan risk.\n\nNobody modeled the CEO risk.\n\nCongress, the FBI and Nvidia's own board are all investigating at once. The class actions are just noise.\n\nThe real question is what Huang knew about Megaspeed, and when. If Nvidia touched a smuggling probe, every China license it holds is now up for debate.\n\nWashington just got the excuse it needed to tighten H-series exports again.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-10T18:50:45.518465+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T21:10:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Anthropic cut Fable 5.2 prices the same week it priced an IPO at an implied $1.4 trillion.\n\nThat's the roadshow pitch: we'll win on volume.\n\nAdd an office suite and meeting tools, and this stops being a coding assistant company. It's going straight at Microsoft 365.\n\nThe tension: price cuts and trillion-dollar multiples rarely fit in the same spreadsheet.\n\nFirst earnings call, one question decides the stock: margin or market share?",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T18:50:45.518473+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-10T23:30:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The frontier model race quietly changed its scoreboard.\n\nGemini 4 Carbon and Muse Ember aren't selling \"smartest.\" They're selling cost per task.\n\nMeanwhile, production teams are swapping frontier LLMs for small decision models that do one job for a fraction of the price.\n\nBenchmarks win headlines. Invoices win contracts.\n\nBy mid-2027, the most-used model in your stack won't be the one you've heard of.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T18:50:45.518483+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T01:50:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 的瓶頸已經從晶片換成電了。\n\nAnthropic 簽下 34 億美元的燃氣渦輪合約，等於承認電網跟不上。\n\n另一邊，美歐的居民開始用選票和電費單反擊資料中心，連裴洛西的接班人都把它當選戰議題。\n\n台灣也躲不掉：科技業要電、民眾要電價穩，兩邊的帳遲早要算清楚。",
+    "article_url": "/zh/policy/2026-11-10-the-download-pelosis-successor-targets-ai-and-data-centers-f-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T18:50:45.518493+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T04:10:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Linus 說最新核心大部分進度來自 AI 修的 bug。\n\n但別急著說 AI 救了開源。\n\n真正的關鍵是 Linux 有夠多的 reviewer，能把 AI 當修 bug 的機器來用。沒有審查人力的小專案，收到的還是一堆 AI 垃圾回報。\n\nAI 不會讓好的維護者變多，只會讓差距拉得更大。\n\n接下來最缺的不是寫程式的人，是有能力說「這個 PR 不行」的人。",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-10T18:50:45.518525+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T06:30:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Anthropic 這週同時做了兩件看起來矛盾的事：Fable 5.2 降價，IPO 估值喊到 1.4 兆美元。\n\n降價換用量，用量撐估值。說穿了就是在跟投資人說「我們要吃下整個辦公室」。\n\n文書套件、會議工具都出來了，下一個要緊張的是微軟。\n\n但台灣企業真正該問的是：等你所有文件、會議紀錄都在同一家模型商手上，議價權還在你這邊嗎？",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T18:50:45.518478+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T08:50:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Anthropic just signed a $3.4 billion gas turbine deal.\n\nRead that again. An AI lab is buying power plants.\n\nChips were the 2024 bottleneck. Electricity is the 2026 one, and you can't fab your way out of a grid queue.\n\nThe backlash is already showing up in local elections and electricity bills.\n\nNext year's hottest AI hire won't be a researcher. It'll be someone who knows how to get a permit approved.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T18:50:45.518510+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T11:10:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "The real AI war isn't about models. It's about who owns the layer between you and your apps.\n\nAdobe is going MCP. ChatGPT ships Business Agents. Google has Knowledge Work mode.\n\nAnd eBay just blocked third-party agents outright.\n\nThat's why an OS that lets your context move between OpenAI, Anthropic and local models matters. Shipping in 2027, though, gives Microsoft plenty of time to copy it.",
+    "article_url": "/en/ai-ml/2026-11-10-this-new-linux-based-desktop-operating-system-is-built-for-a-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T18:50:45.518515+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T13:30:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "PS5 玩家也開始替 AI 繳稅了。\n\nSSD 因為 AI 資料中心搶貨漲價，《GTA 6》偏偏要 212GB。\n\n以前是挖礦搶顯卡，現在是 AI 搶記憶體跟儲存。\n\n這次不會是短期波動，資料中心的需求只會往上加。想擴充的，價格大概不會比現在更好了。",
+    "article_url": "/zh/hardware/2026-11-10-upgrade-your-ps5-s-storage-for-gta-6-s-digital-pre-load-with-zh/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-10T18:50:45.518534+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T15:50:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "前沿模型開始比的不是誰最聰明，是誰最省。\n\nGemini 4 Carbon、Muse Ember 都在打「每個任務多少錢」。\n\n實際上線的團隊更狠：把大模型換成小型決策模型，只做一件事，成本砍到剩零頭。\n\n跑分是給記者看的，帳單才是給老闆看的。\n\n明年最常被呼叫的模型，大概是一個你根本叫不出名字的小模型。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-10T18:50:45.518488+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T18:10:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "eBay blocking third-party AI agents is the most honest move in tech this month.\n\nIt says out loud what every platform is thinking: if an agent shops for you, the platform loses the homepage, the ads and the upsell.\n\nAgents don't scroll. They don't impulse buy.\n\nExpect a split by next year: platforms that charge agents tolls and platforms that get skipped.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-10T18:50:45.518521+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T20:30:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Linus credits AI for most of the latest kernel's progress. Goldman just pulled Claude Code from its traders.\n\nBoth can be true.\n\nCoding agents work great where review is strong and the blast radius is small. They get banned where one bad commit moves money.\n\nThe bottleneck was never code generation. It's governance.\n\nThe winning agent product in 2027 will sell audit trails, not autocomplete.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-10T18:50:45.518530+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T22:50:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "While everyone else prints \"agentic\" on slides, AMD shipped Zen 6 Venice: 256 cores, 4x the L3 per CCD, 93% more throughput.\n\nAnd the timing is perfect. Agent workloads are making CPUs a bottleneck again.\n\nAdd Google's new TPUs and AWS's TorchNeuron going after CUDA lock-in, and Nvidia's moat looks narrower than its market cap suggests.\n\nThe next AI server fight won't be about GPUs. It'll be about everything around them.",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-10T18:50:45.518544+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T01:10:45.521219+00:00",
+    "queued_at": "2026-11-10T18:50:45.521219+00:00"
   }
 ]

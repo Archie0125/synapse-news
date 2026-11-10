@@ -1,20 +1,29 @@
 # Megaspeed
 
 
-*Mentioned in 12 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
 
-- **Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy** (2026-11-10)
-  - The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
+- **President Trump says the FBI is investigating Jensen Huang’s affair** (2026-11-10)
+  - Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
+
+- **Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang** (2026-11-10)
+  - If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
+
+- **Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline** (2026-11-10)
+  - Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
 
 - **Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy** (2026-11-09)
   - Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.
 
 - **What could China get from Jensen Huang?** (2026-11-09)
   - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
+
+- **Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang** (2026-11-09)
+  - The Nvidia spy scandal isn't only about one CEO's affair. A single executive sits at the center of U.S. AI chip policy, and that makes him a national security risk.
 
 - **The race is on to sue Nvidia** (2026-11-09)
   - Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.
@@ -24,6 +33,9 @@
 
 - **Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago** (2026-11-09)
   - If Huang hired a sex-scandal crisis firm a year before confessing, Nvidia's governance problem is about when it knew, not just the affair.
+
+- **A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal** (2026-11-09)
+  - A short seller with an obvious financial motive spotted the Nvidia CEO's risky relationship six months before Nvidia's own governance did, and that should embarrass the board.
 
 - **Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy** (2026-11-08)
   - Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
@@ -39,6 +51,3 @@
 
 - **Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot** (2026-11-07)
   - Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China problem has grown beyond trade policy into national security.
-
-- **China reportedly recruited AI exec to spy on Jensen Huang** (2026-11-06)
-  - If the report holds up, China didn't need to hack Nvidia. It allegedly just needed someone close to its CEO, the oldest and cheapest attack vector.

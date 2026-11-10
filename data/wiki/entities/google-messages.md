@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure** (2026-11-10)
-  - DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+- **Google DeepMind analysis proves Signal and WhatsApp encryption is secure** (2026-11-10)
+  - DeepMind using agentic AI to formally verify the Signal Protocol is a real breakthrough, but it proves the math is sound, not that your messaging app is.
 
 - **5 Google Messages settings you might want to disable** (2026-11-07)
   - Google Messages beat third-party texting apps, but its default settings, from read receipts to AI extras, still don't serve users well.

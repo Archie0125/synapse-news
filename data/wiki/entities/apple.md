@@ -1,53 +1,53 @@
 # Apple
 
 
-*Mentioned in 85 articles*
+*Mentioned in 100 articles*
 
 
 ## Recent Mentions
 
 
+- **Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers** (2026-11-10)
+  - Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+
+- **Louis Rossmann Wants More People to Care About the Right to Repair** (2026-11-10)
+  - Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
+
+- **Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark** (2026-11-10)
+  - A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.
+
+- **Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI** (2026-11-10)
+  - Sundrop's boldest feature isn't time-lapses, it's refusing generative AI and the cloud, betting that parents value privacy over magic.
+
+- **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
+  - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.
+
 - **Every senior with an Apple Watch should set up these 5 health alerts** (2026-11-10)
   - The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
+
+- **Don't throw away your old phone box — you might need it in an emergency** (2026-11-10)
+  - Your phone box is mostly a paper backup of your IMEI and a bit of resale value, and a photo of the label gets you nearly all of that.
+
+- **Apple brings Sign Language interpretation to a selection of original Apple TV titles** (2026-11-10)
+  - Apple's sign language overlays, crafted by Deaf signers, are the right way to do accessibility, but a handful of titles is a showcase, not a standard yet.
+
+- **Screens 5.10 adds two highly-requested remote desktop features** (2026-11-10)
+  - Screens 5.10 finally brings Mac audio and auto-resizing, but it only gets there by using Apple's own screen-sharing technology.
+
+- **Satechi expands lineup of color-matched accessories for MacBook Neo** (2026-11-10)
+  - Satechi's new Neo-colored accessories show that matching colors now sells peripherals better than specs do, and the $30 charger is the only must-buy.
+
+- **New Apple TV 4K remote’s best feature requires a newer iPhone model** (2026-11-10)
+  - The new Siri Remote finally fixes the most-lost gadget in your living room, but its best feature requires a recent iPhone. That's classic Apple ecosystem upselling.
+
+- **iPadOS 27.3 adds new iPad setting I instantly turned on** (2026-11-10)
+  - Double-tap-to-zoom in iPadOS 27.3 is a small fix that admits a big truth: iPad windowing is still a work in progress two versions later.
 
 - **Canadian court certifies class action against Apple over Google search deal** (2026-11-10)
   - The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
 
-- **9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28** (2026-11-10)
-  - A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.
+- **Apple @ Work Podcast: Osaurus wants your company’s AI to run on the Mac, not in the cloud** (2026-11-10)
+  - Osaurus is betting that companies would rather run AI on Macs they own than ship data to the cloud, which makes sense for privacy but is still unproven at scale.
 
-- **Venmo finally launches an in-app bill splitting feature** (2026-11-09)
-  - Venmo's receipt scanning is overdue catch-up to Apple. The real weapon isn't the feature but peer pressure from a network your friends already use.
-
-- **Think twice before using a webcam cover on your MacBook** (2026-11-09)
-  - A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.
-
-- **The disadvantages of buying tech from other countries** (2026-11-09)
-  - Importing a phone might save money, but region-locked hardware, missing 5G bands and absent AI features make the global device a myth.
-
-- **Meta is expanding AI age detection for Instagram teen accounts** (2026-11-09)
-  - Meta's global AI age check protects teens on paper, but it normalizes face-based age analysis while Meta tries to push responsibility onto app stores.
-
-- **How to use your iPhone to take the best picture of the Moon** (2026-11-09)
-  - iPhones don't fake moon photos, so your exposure and stability matter more than the zoom, and an honest camera rewards people who learn a little about light.
-
-- **How to tell if your phone supports eSIM** (2026-11-09)
-  - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
-
-- **Apple starts offering $50 extended usage packs for AI features in Creator Studio** (2026-11-09)
-  - Apple's $50 AI usage packs show that generative AI isn't really unlimited in a subscription, and creative professionals are paying more for it first.
-
-- **10 Apple products and features that transformed under Tim Cook's leadership** (2026-11-09)
-  - Tim Cook's legacy isn't a single iPhone moment. He turned existing products into new jobs, and that may be harder to copy than inventing something new.
-
-- **Today’s macOS updates fix security gap involving eMudhra certificates** (2026-11-09)
-  - Apple protected Safari within days, but curl and git stayed exposed for weeks, and developer tools are often what attackers target first.
-
-- **Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026** (2026-11-09)
-  - Apple paid €13 billion over Ireland, and the profit-shifting simply moved to Singapore. The global minimum tax hasn't ended tax arbitrage.
-
-- **Our favorite gear to elevate your new MacBook Pro setup** (2026-11-09)
-  - The new touchscreen MacBook Pro's 'must-have' list includes an external keyboard and trackpad, so many buyers will rarely be close enough to touch the screen.
-
-- **MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash** (2026-11-09)
-  - A MagSafe wallet with a money clip is a niche product, but it's a reminder that cash hasn't gone away for tips and cash-only shops.
+- **Apple TV launches new sign language accessibility feature** (2026-11-10)
+  - Apple TV's synced sign-language interpreters are a real accessibility win, but launching with only two films and hiding the toggle in Settings limits the impact.

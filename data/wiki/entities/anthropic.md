@@ -1,14 +1,41 @@
 # Anthropic
 
 
-*Mentioned in 35 articles*
+*Mentioned in 46 articles*
 
 
 ## Recent Mentions
 
 
-- **Anthropic reportedly plans to move forward with IPO plans** (2026-11-10)
-  - Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+- **This New Linux-Based Desktop Operating System Is Built for AI Nerds** (2026-11-10)
+  - Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+
+- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
+  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
+  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+
+- **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
+  - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
+
+- **Anthropic has its own AI-powered office suite now** (2026-11-10)
+  - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
+
+- **Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion** (2026-11-10)
+  - A $1.4 trillion valuation sounds huge, but it is well short of the reported $2 trillion target, and public buyers get almost no say over the company.
+
+- **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (2026-11-10)
+  - Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
+
+- **Anthropic’s IPO Puts ~$216 Billion in Employee Hands. Another $160 Billion Is Reserved for the Next Hires.** (2026-11-10)
+  - Anthropic's IPO makes the average employee worth about $41 million on paper, and its $160 billion reserve for future hires could distort AI talent pricing for years.
+
+- **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
+  - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
+
+- **How to answer Claude Code or Codex from your phone** (2026-11-10)
+  - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
 
 - **Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?** (2026-11-09)
   - Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
@@ -16,38 +43,11 @@
 - **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
   - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
 
-- **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
-  - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
+- **Anthropic launches new Claude Fable and Mythos 5.2 models** (2026-11-09)
+  - Anthropic's launch claims, like solving open black hole physics problems, are bold and hard to check. If they hold up, 5.2 marks a shift from coding assistant to research tool.
 
-- **Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy** (2026-11-09)
-  - Jensen Huang canceling public appearances shows that the face of the AI boom has become a liability his partners don't want on stage.
+- **Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.** (2026-11-09)
+  - Voice for coding agents is quickly becoming expected. Claude Code's dictation-only input looks like a gap, unless Anthropic is betting developers would rather not talk to their IDE.
 
-- **Anthropic releases new Mythos and Fable models amid RSI concerns** (2026-11-09)
-  - Anthropic cut Fable's price to beat GPT-6 Astra, but the real headline is that its models increasingly suspect when they're being tested.
-
-- **Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines** (2026-11-09)
-  - Anthropic spending $3.4B on gas turbines shows that AI's real bottleneck has moved from chips to electricity, and even renters are now forced to buy.
-
-- **The New Normal in Revenue Per Employee: $237K Is the Median, $655K Is the Top Tier, and Six B2B Leaders Now Clear $1.5M** (2026-11-09)
-  - $237K in revenue per employee is still the median, but leaders now run 5x to 35x higher, which makes headcount-heavy 2027 plans look out of date.
-
-- **Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far** (2026-11-09)
-  - Fable 5.2 tops the Artificial Analysis leaderboard with a 65, but at $26.54 and 46 minutes per task, being the smartest model doesn't make it the most practical.
-
-- **Claude Fable 5.2 and Mythos 5.2** (2026-11-09)
-  - Anthropic's Fable 5.2 pairs lab-grade claims, like a Fermat proof formalized in 30 hours, with a price cut. The real story is the split into a safeguarded model and a gated one.
-
-- **Anthropic secures 1.7 GW of gas generators in a 3.4 billion dollar deal** (2026-11-09)
-  - Anthropic, xAI and Alphabet are all buying their own power now. AI's real moat is shifting from model weights to megawatts, and Caterpillar is cashing in.
-
-- **$3.4B bought Anthropic 1.7 GW of gas turbines** (2026-11-09)
-  - Anthropic's $3.4B turbine buy isn't really an energy deal. It's an admission that renting compute no longer guarantees the electricity frontier AI needs.
-
-- **Anthropic upgrades Claude with new Fable 5.2 model, details here** (2026-11-09)
-  - Fable 5.2 is faster and cheaper, but the telling part is that Anthropic itself recommends Opus 5.5 for most work. The flagship is now a specialist tool, not the default.
-
-- **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
-  - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
-
-- **I'm not convinced the AI bubble exists** (2026-11-08)
-  - The anti-bubble case rests on one big assumption: that data center spending is a one-time cost. Hardware that goes obsolete in a few years makes that a shaky bet.
+- **Anthropic launches Fable 5.2 with a price cut and stronger coding scores** (2026-11-09)
+  - Fable 5.2 gets better and 20% cheaper at once, so rivals can no longer compete only on price. The real story is that Mythos, built on the same model, stays locked away.

@@ -1,11 +1,17 @@
 # Claude Fable 5.2
 
 
-*Mentioned in 5 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Anthropic launches new Claude Fable and Mythos 5.2 models** (2026-11-09)
+  - Anthropic's launch claims, like solving open black hole physics problems, are bold and hard to check. If they hold up, 5.2 marks a shift from coding assistant to research tool.
+
+- **Anthropic launches Fable 5.2 with a price cut and stronger coding scores** (2026-11-09)
+  - Fable 5.2 gets better and 20% cheaper at once, so rivals can no longer compete only on price. The real story is that Mythos, built on the same model, stays locked away.
 
 - **Anthropic releases new Mythos and Fable models amid RSI concerns** (2026-11-09)
   - Anthropic cut Fable's price to beat GPT-6 Astra, but the real headline is that its models increasingly suspect when they're being tested.

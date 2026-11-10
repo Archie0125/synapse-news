@@ -1,11 +1,26 @@
 # Samsung
 
 
-*Mentioned in 28 articles*
+*Mentioned in 33 articles*
 
 
 ## Recent Mentions
 
+
+- **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
+  - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.
+
+- **Smart home devices should work without the internet** (2026-11-10)
+  - A smart home that stops working when a vendor's server goes down is really a rental. This ten-year local-first setup shows the alternative works.
+
+- **Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users** (2026-11-10)
+  - Samsung dropping OneDrive for Google Photos is a quiet win for Google's cloud business, though the One UI 9 requirement means many Galaxy owners will have to wait.
+
+- **One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s** (2026-11-10)
+  - Samsung is about to give Galaxy users Google's best Pixel 11 AI feature before Google itself does, which says a lot about Google's habit of locking features to Pixels.
+
+- **Galaxy S27 redesign leak shows off Pro vs Ultra size difference, with just a bit of controversy** (2026-11-10)
+  - Samsung called its vertical camera layout its 'core identity' months ago. The Galaxy S27 dummies suggest it is now borrowing Apple's design language instead.
 
 - **Meet Drops, the new music app bringing back the fun of sharing songs with friends** (2026-11-09)
   - Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
@@ -36,18 +51,3 @@
 
 - **Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program** (2026-11-08)
   - The One UI 9.5 beta is almost here, but only for unlocked phones in six countries. Samsung's beta is more of a members-only preview than a public test.
-
-- **The disadvantages of owning smart refrigerators** (2026-11-07)
-  - A refrigerator lasts more than a decade, while its smart features may lose software support much sooner, so buyers can pay extra for features that stop working.
-
-- **5 Google Messages settings you might want to disable** (2026-11-07)
-  - Google Messages beat third-party texting apps, but its default settings, from read receipts to AI extras, still don't serve users well.
-
-- **Can a Radar-Equipped AC Actually Cut Your Power Bill?** (2026-11-06)
-  - Radar-tracking ACs sound like gimmicks, but cooling only the spot where people actually are is one of the few real efficiency gains left as cooling demand surges.
-
-- **Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push** (2026-11-06)
-  - Tesla's 80x chip claim is a real engineering ambition, but renaming AI 'Super Intelligence' is branding, not a technical breakthrough.
-
-- **Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density** (2026-11-06)
-  - Z2RAM targets AI's biggest bottleneck, memory, but its claims are still projections, and data that lasts 300 seconds is a lab result, not a product.

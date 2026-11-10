@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context** (2026-11-09)
-  - NVIDIA and Elith's synthetic Japanese finance personas are a clever workaround for privacy rules, but synthetic realism still has to survive real-world testing.
+- **NVIDIA DLSS 4.5 has presets you should know about** (2026-11-10)
+  - Upscaling is now required for PC gaming rather than optional, and the fact that DLSS 4.5's hidden presets matter this much shows how much control has moved from game developers to NVIDIA.
 
 - **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
   - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.

@@ -1,14 +1,26 @@
 # Reddit
 
 
-*Mentioned in 6 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
 
-- **Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W** (2026-11-09)
-  - When a 500W cap still cooks 12V-2x6 cables on a workstation card, the connector design has a problem that a power limit will not fix.
+- **The Grindr 1 Percent Is Getting Its Own Gated Community** (2026-11-10)
+  - Grindr's CEO complains about an affordability crisis while launching a $120-a-month velvet rope. The irony is the business model: monetize the top 1% of users.
+
+- **Reddit wants to guide your next purchase** (2026-11-10)
+  - Reddit is turning the thing people already do, adding 'reddit' to their searches, into a product. The hard part is staying trustworthy once shoppers and marketers move in.
+
+- **Reddit is turning user conversations into AI-powered product reviews** (2026-11-10)
+  - Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.
+
+- **Reddit is (sort of) getting into the product reviews business** (2026-11-10)
+  - Reddit is turning the habit of adding 'reddit' to product searches into a product, a direct threat to affiliate review sites if it can stay free of manipulation.
+
+- **Reddit Is Convinced I'm a Robot. My Karma Is 1.** (2026-11-10)
+  - Reddit's bot filter flagging a karma-1 account isn't a bug; it's proof that growth hacking on platforms built around trust ends with you pasting comments at midnight.
 
 - **Lawyer builds private AI server with eight used Nvidia V100 GPUs** (2026-11-09)
   - A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.

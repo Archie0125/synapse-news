@@ -1,14 +1,35 @@
 # OpenAI
 
 
-*Mentioned in 29 articles*
+*Mentioned in 38 articles*
 
 
 ## Recent Mentions
 
 
-- **Anthropic reportedly plans to move forward with IPO plans** (2026-11-10)
-  - Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+- **This New Linux-Based Desktop Operating System Is Built for AI Nerds** (2026-11-10)
+  - Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+
+- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
+  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
+  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+
+- **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
+  - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
+
+- **ChatGPT is getting verified AI ‘Business Agents’** (2026-11-10)
+  - ChatGPT's verified Business Agents look like customer service, but they're really the foundation of an AI-era ad marketplace.
+
+- **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (2026-11-10)
+  - Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
+
+- **Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly** (2026-11-10)
+  - Adobe's most strategic MAX move is not another Photoshop slider. It's an MCP server that lets ChatGPT and Claude become the front door to Adobe.
+
+- **How to answer Claude Code or Codex from your phone** (2026-11-10)
+  - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
 
 - **China builds massive 800-megawatt AI data center campus to rival US Stargate project** (2026-11-09)
   - China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
@@ -19,35 +40,14 @@
 - **Disney and Adobe are building generative AI tools together** (2026-11-09)
   - Disney's Adobe deal is a bet that "commercially safe," IP-trained AI can scale production, and "artist-led" is doing a lot of PR work in that pitch.
 
+- **Apple’s $50 Intelligence Usage Packs extend access to some AI features** (2026-11-09)
+  - Apple charging $49.99 for more Apple Intelligence use admits what it long avoided saying: cloud AI from OpenAI and Gemini costs money, and Apple won't absorb that cost for heavy users.
+
 - **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
   - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
 
+- **The backlash about data centers might really just be about electricity** (2026-11-09)
+  - Big Tech wants to treat the data center backlash as a culture war, but the real fight is over electricity, and PR can't fix the grid.
+
 - **Apple launches $50 ‘intelligence usage packs’ for select AI features** (2026-11-09)
   - Apple's $50 one-time AI usage packs dodge subscription fatigue cleverly, but no Family Sharing and a 12-month expiry make it less friendly than it looks.
-
-- **Apple is racing to make Siri more agentic** (2026-11-08)
-  - Apple is finally admitting Siri is behind. Shipping app controls one OS update at a time won't catch rivals that already run multi-step goals on their own.
-
-- **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
-  - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
-
-- **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
-  - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
-
-- **This is what ChatGPT personally feels about humans** (2026-11-08)
-  - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
-
-- **How to Use DeepSeek Through an OpenAI-Compatible API** (2026-11-08)
-  - OpenAI-compatible gateways make switching to DeepSeek a two-line change, but compatibility is a promise you still have to test, not a guarantee.
-
-- **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
-  - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
-
-- **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
-  - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
-
-- **AI Companies Really, Really Want to Buy Your Work Files and Emails** (2026-11-06)
-  - AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
-
-- **OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO** (2026-11-06)
-  - A $1.25 trillion valuation sounds triumphant, but raising $11 billion against a $30 billion target suggests even AI's biggest name is hitting investor fatigue.

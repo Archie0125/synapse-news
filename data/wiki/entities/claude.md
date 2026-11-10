@@ -1,11 +1,23 @@
 # Claude
 
 
-*Mentioned in 6 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information** (2026-11-10)
+  - AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
+
+- **Anthropic has its own AI-powered office suite now** (2026-11-10)
+  - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
+
+- **Spotify’s AI DJ gets new voices, personalities, and an option for less chatter** (2026-11-10)
+  - Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
+
+- **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
+  - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
 
 - **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
   - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.

@@ -1,14 +1,11 @@
 # Qwen
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **TailSteer reduces drift in multi‑turn image editing; History Forcing stabilizes long‑horizon video generation** (2026-11-10)
-  - TailSteer and History Forcing go after generative AI's real weakness, which isn't the first image but the fifteenth edit and the fifteenth second.
 
 - **What hardware does your PC need to run a local AI model?** (2026-11-09)
   - Running AI locally is easy now, but a 16GB PC only gets you a toy. Coming anywhere near frontier models takes serious, expensive memory.

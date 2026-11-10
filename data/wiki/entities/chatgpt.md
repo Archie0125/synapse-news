@@ -1,11 +1,23 @@
 # ChatGPT
 
 
-*Mentioned in 9 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
+  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+- **ChatGPT is getting verified AI ‘Business Agents’** (2026-11-10)
+  - ChatGPT's verified Business Agents look like customer service, but they're really the foundation of an AI-era ad marketplace.
+
+- **Spotify’s AI DJ gets new voices, personalities, and an option for less chatter** (2026-11-10)
+  - Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
+
+- **How to answer Claude Code or Codex from your phone** (2026-11-10)
+  - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
 
 - **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
   - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.

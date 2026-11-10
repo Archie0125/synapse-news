@@ -1,11 +1,14 @@
 # Netflix
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Huupe Mini 2 Review: More Game Than It Can Handle** (2026-11-10)
+  - The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.
 
 - **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
   - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.

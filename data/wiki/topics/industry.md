@@ -1,135 +1,135 @@
 # Industry
 
 
-*290 articles in the last 7 days*
+*367 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Jensen Huang’s Troubles Leave the AI Industry Reeling
+### ‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP
 
 *Wired | 2026-11-10*
 
 
-The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+Nick Fuentes claiming credit for a Democratic sweep is mostly self-promotion, but his open bid to take over the GOP is the part worth taking seriously.
 
 
-### A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+### Valvoline Coupons and Promo Codes for November 2026
 
 *Wired | 2026-11-10*
 
 
-DeepMind's AI-verified Signal proof is real progress in four weeks, but proving a protocol isn't the same as proving the app on your phone.
+This is affiliate coupon content, not news. The one useful point: hybrids need pricier synthetic oil, which makes shop oil changes harder to beat on cost.
 
 
-### Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy
+### This New Linux-Based Desktop Operating System Is Built for AI Nerds
+
+*Wired | 2026-11-10*
+
+
+Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+
+
+### The Grindr 1 Percent Is Getting Its Own Gated Community
+
+*Wired | 2026-11-10*
+
+
+Grindr's CEO complains about an affordability crisis while launching a $120-a-month velvet rope. The irony is the business model: monetize the top 1% of users.
+
+
+### The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are
+
+*Wired | 2026-11-10*
+
+
+After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+
+
+### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
+
+*Wired | 2026-11-10*
+
+
+Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+
+
+### Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information
+
+*Wired | 2026-11-10*
+
+
+AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
+
+
+### Rocco’s Mini Mini Fridge Is Here (2026)
+
+*Wired | 2026-11-10*
+
+
+Rocco shrinks its $2,000 retro fridge into a desktop Mini Mini, and its claim of hitting 41°F is the one spec worth checking.
+
+
+### Ring’s Indoor Drone Camera Is Back—and Now Powered by AI
+
+*Wired | 2026-11-10*
+
+
+Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
+
+
+### Louis Rossmann Wants More People to Care About the Right to Repair
+
+*Wired | 2026-11-10*
+
+
+Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
+
+
+### Kitchen Gear From Our Place Is Steeply Discounted
+
+*Wired | 2026-11-10*
+
+
+Our Place's 15–30% sale plus $60 off makes its pricey, Instagram-friendly cookware look like a fair deal, especially the Always Pan.
+
+
+### Huupe Mini 2 Review: More Game Than It Can Handle
+
+*Wired | 2026-11-10*
+
+
+The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.
+
+
+### Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
+
+*Wired | 2026-11-10*
+
+
+NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
+
+
+### Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)
+
+*Wired | 2026-11-10*
+
+
+Wired's gift guide gets one thing right: you can't out-research a gearhead, so buy them the small, useful surprise they'd never buy for themselves.
+
+
+### 4DX Movies Are Entering Their Thirsty Romance Era
+
+*Wired | 2026-11-10*
+
+
+Regal is selling a shared theater experience for a show fans can already stream, and the $1.4 million in ticket sales shows fandoms will pay for it.
+
+
+### Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174
 
 *Tom's Hardware | 2026-11-10*
 
 
-The first securities suit against Nvidia isn't really about an affair; it's about whether a $4-trillion-scale company hid key-person and national-security risk from shareholders.
-
-
-### David Ellison says AI could be the ‘biggest creative unlock in modern history’
-
-*The Verge | 2026-11-10*
-
-
-Ellison sells AI as Hollywood's next CGI moment, but his own Terminator math shows the real pitch: cheaper production, not bolder art.
-
-
-### Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
-
-*TechCrunch | 2026-11-10*
-
-
-The memes are funny, but the alleged Jensen Huang honeypot scandal exposes a serious problem: the AI economy's most important company has no public succession plan.
-
-
-### California’s proposed ‘billionaire tax’ fails to pass
-
-*TechCrunch | 2026-11-10*
-
-
-California voters killed the billionaire tax, but the debate exposed a real fear: that the state's near-monopoly on capital formation is more fragile than it looks.
-
-
-### Anthropic reportedly plans to move forward with IPO plans
-
-*TechCrunch | 2026-11-10*
-
-
-Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
-
-
-### Why Your Hosting Company's Backup Is Not a Disaster Recovery Plan
-
-*Dev.to | 2026-11-10*
-
-
-Your host's backup is an undo button, not a disaster recovery plan, and it fails exactly when the host itself is the problem.
-
-
-### Canadian court certifies class action against Apple over Google search deal
-
-*9to5Mac | 2026-11-10*
-
-
-The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
-
-
-### 9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28
-
-*9to5Mac | 2026-11-10*
-
-
-A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.
-
-
-### Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work
-
-*Wired | 2026-11-09*
-
-
-Waymo's school bus recall exposes the core problem with AV safety: a software fix is only a claim until real roads prove it.
-
-
-### These WIRED-Tested Standing Desks Are Already on Sale for Black Friday
-
-*Wired | 2026-11-09*
-
-
-Standing desks aren't a health cure, but a 20 percent discount plus a walking pad is the most honest pitch for a New Year resolution.
-
-
-### The Home Depot Best Early Black Friday Deals (2026)
-
-*Wired | 2026-11-09*
-
-
-Black Friday now starts before Halloween decorations come down, and Home Depot's early smart-appliance deals show retailers racing to lock in spending.
-
-
-### The 9 Best TV Shows to Stream This Month (November 2026)
-
-*Wired | 2026-11-09*
-
-
-WIRED's November picks show tech anxiety is now prestige TV's favorite genre: crypto scandals, surveillance, and dystopia sell.
-
-
-### Scientists May Have Discovered a Massive Starless Galaxy
-
-*Wired | 2026-11-09*
-
-
-AGC 322753 holds 2 billion suns' worth of hydrogen but appears to have no stars, which makes it a strong test for current models of how galaxies form.
-
-
-### New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing
-
-*Wired | 2026-11-09*
-
-
-Hulu's 'Get Huge' traces today's looksmaxxing culture back to Tony Huge's biohacking scene in Thailand, and it shows the human cost of self-optimization taken too far.
+GTA 6's 212GB install makes it a storage upgrade deadline, and it arrives just as AI demand has pushed SSD prices up.

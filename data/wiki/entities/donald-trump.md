@@ -1,17 +1,26 @@
 # Donald Trump
 
 
-*Mentioned in 8 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
 
-- **Jensen Huang’s Troubles Leave the AI Industry Reeling** (2026-11-10)
-  - The Huang scandal exposes the AI boom's single point of failure: one man effectively decides who gets the chips, and he's suddenly compromised.
+- **‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP** (2026-11-10)
+  - Nick Fuentes claiming credit for a Democratic sweep is mostly self-promotion, but his open bid to take over the GOP is the part worth taking seriously.
+
+- **President Trump says the FBI is investigating Jensen Huang’s affair** (2026-11-10)
+  - Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
 
 - **What could China get from Jensen Huang?** (2026-11-09)
   - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.
+
+- **Here’s what Trump said he knew about Jensen Huang** (2026-11-09)
+  - Trump's vagueness about when he learned of Jensen Huang's alleged spy entanglement is the real story: Washington apparently sat on a national-security risk at America's most strategic chipmaker.
+
+- **Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang** (2026-11-09)
+  - The Nvidia spy scandal isn't only about one CEO's affair. A single executive sits at the center of U.S. AI chip policy, and that makes him a national security risk.
 
 - **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (2026-11-08)
   - Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.
@@ -27,6 +36,3 @@
 
 - **How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost** (2026-11-05)
   - More than $400 million from Musk's super PAC couldn't buy the midterms, and voters' near-unanimous push to restrict data centers is the warning tech companies should take most seriously.
-
-- **The Download: controlling AI agents and “Super Intelligence” loyalty tests** (2026-11-03)
-  - Renaming AI 'Super Intelligence' by executive order changes nothing technical, but it turns a vocabulary choice into a political loyalty signal, and that is the real story.

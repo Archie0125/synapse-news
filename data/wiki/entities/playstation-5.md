@@ -1,11 +1,17 @@
 # PlayStation 5
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174** (2026-11-10)
+  - GTA 6's 212GB install makes it a storage upgrade deadline, and it arrives just as AI demand has pushed SSD prices up.
+
+- **What is the difference between rest mode and shutdown for your PlayStation 5?** (2026-11-10)
+  - Rest mode is the right default for anyone who plays most days, and full shutdown is mainly for long breaks or peace of mind.
 
 - **Nacon Revolution 5 Unlimited controller review: More customization than I can handle** (2026-11-09)
   - Nacon's $230 controller wins on hardware like TMR sticks and trigger blockers, but piling on this many options may be its biggest weakness.

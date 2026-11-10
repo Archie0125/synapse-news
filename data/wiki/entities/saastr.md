@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **AI Startups May Have Fewer Sales Reps. But Not as a Percent of the Team. Has The Playbook Really Changed All That Much?** (2026-11-10)
+  - The claim that AI killed the sales team falls apart once you look at percentages, because AI cut support headcount, not sales headcount.
+
 - **Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?** (2026-11-09)
   - Getting paid on time is mostly a matter of process: start reminders 60 days before renewal, and keep mission-critical service running for enterprise customers.
 
@@ -36,6 +39,3 @@
 
 - **AI Spend Hit $177 Billion This Year. Only 22% of It Came Out of Software Budgets.  The 4th Annual State of Enterprise AI Report from Menlo Ventures,** (2026-11-04)
   - AI spending is exploding, but AI-native startups fighting for software budgets are chasing the smallest pool, and incumbents are winning most of it.
-
-- **5 Interesting Learnings from Anthropic at $17 Billion in Quarterly Revenue: $5.4B Added vs. $6.8B the Quarter Before, 900% NRR, and $895 Billion in Compute Commitments** (2026-11-03)
-  - Anthropic's $17B quarter is historic, but its first shrinking dollar add and $895B in compute commitments against $132B in cash show its constraint is now compute, not demand.

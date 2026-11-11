@@ -1,7 +1,7 @@
 # Apple TV
 
 
-*Mentioned in 9 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,12 @@
 
 - **Apple brings Sign Language interpretation to a selection of original Apple TV titles** (2026-11-10)
   - Apple's sign language overlays, crafted by Deaf signers, are the right way to do accessibility, but a handful of titles is a showcase, not a standard yet.
+
+- **iOS 27.2 adds new features in six iPhone apps, details here** (2026-11-10)
+  - iOS 27.2 is the release where Apple quietly ships what didn't make iOS 27, a sign the annual big-launch model now really runs on point updates.
+
+- **Apple TV shares trailers for upcoming Snoopy and Fraggle Rock holiday specials** (2026-11-10)
+  - Apple TV's holiday slate shows its smartest content strategy isn't prestige drama but owning beloved family IP and spreading it across every Apple device.
 
 - **Apple TV launches new sign language accessibility feature** (2026-11-10)
   - Apple TV's synced sign-language interpreters are a real accessibility win, but launching with only two films and hiding the toggle in Settings limits the impact.

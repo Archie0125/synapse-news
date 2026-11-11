@@ -1,11 +1,14 @@
 # Claude Code
 
 
-*Mentioned in 16 articles*
+*Mentioned in 17 articles*
 
 
 ## Recent Mentions
 
+
+- **Cara membiarkan Claude Code menaruh aplikasi kecil ke Room osFoundry setelah kamu menyetujuinya** (2026-11-11)
+  - osFoundry keeps AI agents from pushing code straight into a shared workspace by requiring a human to approve each change, which is how agent deployments should work.
 
 - **Anthropic has its own AI-powered office suite now** (2026-11-10)
   - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
@@ -48,6 +51,3 @@
 
 - **Summer Engine vs Ziva vs Flockbay: which Godot AI tool to pick in 2026** (2026-11-06)
   - A Godot AI tool comparison written by one of the vendors is still useful, mostly because it shows how much competitors' claims about each other contradict the rivals' own docs.
-
-- **The Hackintosh Reborn** (2026-11-05)
-  - Apple's move to ARM was supposed to kill the Hackintosh, but AI coding tools have given old x86 laptops a reason to run macOS one more time.

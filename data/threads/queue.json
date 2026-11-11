@@ -1025,5 +1025,228 @@
     "status": "pending",
     "scheduled_for": "2026-11-12T01:10:45.521219+00:00",
     "queued_at": "2026-11-10T18:50:45.521219+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "黃仁勳的外遇，大家都當八卦在看。\n\n但真正該盯的是那條 75 億美元的晶片管道。\n\n國會傳喚、FBI 調查、股東訴訟一起上門。Megaspeed 這個買家到底把晶片送去哪裡，才是會改寫美國對中出口管制的問題。\n\n八卦一週就會退燒，出口政策卻會綁住輝達好幾年。\n\n我賭下一步不是黃仁勳下台，而是華府拿這件事當理由，把對中晶片管制再鎖緊一輪。",
+    "article_url": "/zh/policy/2026-11-11-huang-ren-xun-de-wai-yu-zhi-shi-yin-xin-75yi-mei-yuan-de-jin-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-11T06:33:16.156157+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T08:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Everyone is covering Jensen Huang's affair.\n\nThe real story is a $7.5B chip pipeline and one buyer called Megaspeed.\n\nCongress wants answers. The FBI is digging. Shareholder lawyers are already filing.\n\nThe affair is the fuse. Where those chips actually ended up is the bomb.\n\nMy bet: this becomes Washington's best excuse yet to tighten China chip exports, and Nvidia ends up paying for it in lost revenue, not in headlines.",
+    "article_url": "/en/policy/2026-11-11-jensen-huang-s-affair-isn-t-the-scandal-the-7-5b-chip-pipeli-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-11T06:33:16.156189+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T10:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Anthropic wants a $1.4 trillion valuation and supervoting shares in the same IPO.\n\nTranslation: please buy in, but don't expect a vote.\n\nThat same week it cut Fable 5.2 prices and shipped Claude Sheets and Claude Meetings. That isn't a model lab. That's a company going after the Office seat on your desk.\n\nPublic investors will put up with founder control while revenue compounds. The first flat quarter is when supervoting shares stop sounding like mission protection.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-11T06:33:16.156202+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T12:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The world's most strategic AI chipmaker just learned its biggest governance risk isn't a board fight or a rival.\n\nIt's one man's personal life.\n\nCongress, the FBI and shareholder lawyers are all circling at the same time.\n\nEvery 'key person risk' paragraph in a tech annual report now has a real-world case study.\n\nPrediction: within a year, at least one major chipmaker quietly adds security-clearance-style vetting for its CEO.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T06:33:16.156199+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T15:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Anthropic 一邊喊 1.4 兆美元估值，一邊幫 Fable 5.2 降價。\n\n這不矛盾。上市前降價，是在買一條漂亮的營收成長曲線給投資人看。\n\n更值得注意的是 Claude Sheets 和 Claude Meetings：它不只想賣模型給工程師，還想坐進每個上班族的試算表和會議室。\n\n但最強的 Mythos 鎖在門後，不是誰都能用。\n\n上市後法說會第一個被問爆的問題，大概就是：那扇門什麼時候開？",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T06:33:16.156209+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T17:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Gemini 4 Carbon. Meta's Muse Ember. A cheaper Fable 5.2.\n\nEvery frontier lab is now competing on cost per task, not benchmark bragging rights.\n\nMeanwhile Amazon replaced a frontier LLM with a small decision model and cut costs 98%.\n\nThat's the real signal. The price war isn't about which frontier model wins. It's about how many jobs stop needing one at all.\n\nNext earnings season, 'model routing' becomes the new 'cloud migration.'",
+    "article_url": "/en/ai-ml/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T06:33:16.156215+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T19:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "前沿模型殺價殺到見骨。\n\nGemini 4 Carbon、Meta Muse Ember、Fable 5.2，全都在拚每個任務的成本。\n\n結果 Amazon 直接換掉前沿大模型，改用小型決策模型，成本砍掉 98%。\n\n最便宜的前沿模型，還是輸給「根本不用前沿模型」。\n\n明年企業 AI 預算最大的贏家，可能不是任何一家模型廠，而是幫你判斷「這題小模型就夠了」的那一層路由。",
+    "article_url": "/zh/ai-ml/2026-11-11-qian-yan-mo-xing-sha-jia-sha-dao-jian-gu-dan-amazon-yi-jing-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T06:33:16.156219+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T22:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI's bottleneck used to be GPUs. Now it's turbines and town halls.\n\nAnthropic bought $3.4 billion of gas turbines. Fervo's geothermal orders are booming. China is building an 800MW campus.\n\nMeanwhile, people in Amsterdam are getting arrested protesting data centers.\n\nYou can buy chips with a purchase order. You can't buy local consent.\n\nBy 2028, community deals will be a line item in every hyperscaler's data center budget, right next to power.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T06:33:16.156253+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T00:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 的瓶頸，已經從晶片變成插座。\n\nAnthropic 買了 34 億美元的燃氣渦輪機，中國在蓋 800MW 的園區，英國有抗議，阿姆斯特丹甚至有大批人被逮捕。\n\n台灣應該最有感：缺電、限電、能源政策吵不完，每一項都直接卡住 AI 機房蓋不蓋得起來。\n\n晶片台灣做得出來，電要從哪裡來才是真問題。\n\n台灣的 AI 島夢，最後可能不是輸在晶片，而是輸在電網。",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T06:33:16.156257+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T02:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The agent future might not belong to the biggest model, but to the cheapest one that's good enough.\n\nA 0.8B model booking your calendar on your phone costs the cloud nothing, and that's exactly the problem for API margins.\n\nAmazon already showed a small model can cut costs 98%.\n\nThe next frontier benchmark win will move fewer enterprise dollars than the next good-enough small model.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T06:33:16.156230+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T05:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Everyone loves AI agents. As long as they're their own.\n\nChatGPT launches verified Business Agents. Adobe plugs into MCP. Google and Adobe team up. Siri goes agentic.\n\nThen eBay blocks third-party agents and Apple restricts Full Disk Access.\n\nIt's the app store playbook, just faster: open the door for your agent, lock it for everyone else's.\n\nThe next antitrust fight won't be about search defaults. It'll be about whose agent is allowed to click 'buy.'",
+    "article_url": "/en/products/2026-11-11-every-platform-wants-ai-agents-as-long-as-they-re-its-own-ag-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T06:33:16.156234+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T07:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "人人都說歡迎 AI 代理，前提是那個代理是自家的。\n\nChatGPT 推認證商家代理，Adobe 接上 MCP，Google 跟 Adobe 結盟，Siri 也要變代理。\n\n轉頭 eBay 就封鎖第三方代理，Apple 也收緊完整磁碟取用權限。\n\n這劇本很眼熟，就是當年 App Store 那一套，只是這次演得更快。\n\n以後你網購時，可能不是你選平台，而是平台決定讓不讓你的代理進門。",
+    "article_url": "/zh/products/2026-11-11-ren-ren-du-shuo-huan-ying-ai-dai-li-qian-ti-shi-na-ge-dai-li-zh/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T06:33:16.156241+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T09:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AMD's Zen 6 EPYC Venice just posted a 93% generational jump.\n\nThe timing matters. AI agents spend a lot of time on unglamorous CPU work: orchestrating tools, parsing output, waiting on APIs. The GPU isn't always the bottleneck anymore.\n\nAdd Google's new TPUs, AWS TorchNeuron and Terafab's wafer plans, and Nvidia is being attacked at every layer at once.\n\nNvidia won't lose the GPU war. It'll lose its share of the AI server bill.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T06:33:16.156263+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T12:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "記憶體缺貨，正在悄悄重設硬體價格。\n\n電競筆電、Pixel 手機，連 40 美元的串流棒都在漲。手機廠甚至開始從舊機拆二手記憶體下來重焊。\n\nAI 資料中心吃掉的不只是電，還有你下一支手機的預算。\n\n預測：明年中階機會分成兩派，一派直接漲價，一派同價但偷偷砍記憶體。後面那種，才是最多人會中招的。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T06:33:16.156269+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T14:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "X didn't build a better video editor.\n\nIt built a revenue share on other people's videos.\n\nIf the payouts are real, clip farms become X's unpaid growth team, chopping every podcast and stream into engagement bait.\n\nIf the payouts are tiny, it's a trim button with a press release.\n\nThe first creator payout screenshots will tell us which product X actually shipped.",
+    "article_url": "/en/products/2026-11-11-x-launches-its-own-clipping-feature-to-spur-influencer-engag-en/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T06:33:16.156273+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T16:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 代理的護欄，跟所有程式碼一樣會腐化。\n\n7 個 hook，每次多花 945 毫秒，結果沒有一個能確認執行的是現行規則。\n\n過期的 hook 比沒有還糟：它會擋下正常工作，還讓你以為自己很安全。\n\n護欄也需要 code review 跟到期日。\n\n你的 agent 設定檔，上一次有人認真檢查是什麼時候？",
+    "article_url": "/zh/developer-tools/2026-11-11-the-945ms-tax-7-hooks-0-confirmed-current-zh/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T06:33:16.156276+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T19:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "AI vendors make more money when models ramble.\n\nEvery paragraph of throat-clearing you didn't ask for gets billed by the token.\n\nSo don't expect vendors to fix verbosity for you. Writing prompts that demand concision is now a cost-control skill, not a style preference.\n\nPrediction: 'token budget' becomes a standard check in prompt reviews, the same way bundle size is for frontend teams.",
+    "article_url": "/en/ai-ml/2026-11-11-stop-paying-for-ai-to-think-out-loud-en/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T06:33:16.156285+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T21:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Upscaling only matters on a handheld when you're unplugged.\n\nSo Microsoft's docked-only Auto SR beta missed the point. Now it works in handheld mode on the Xbox Ally X, and it finally counts.\n\nThe line to watch is Microsoft's own warning that results 'may not be optimal.'\n\nIf the battery and frame-rate gains hold up, this becomes the reason to buy an Ally X. If not, it's a spec-sheet checkbox.",
+    "article_url": "/en/hardware/2026-11-11-microsofts-dlss-competitor-is-out-for-the-xbox-ally-x-and-wo-en/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-11T06:33:16.156292+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T23:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "50 美元的串流棒上限就是 60Hz。\n\n還在糾結有沒有插到 HDMI 2.1 孔，就像幫機車換賽車胎。\n\nRoku 真正該問的，是誰在看你看了什麼。\n\nFox 就快接手了，你的收看紀錄接下來會被拿去做什麼，比哪個孔重要一百倍。",
+    "article_url": "/zh/hardware/2026-11-11-why-your-roku-might-be-plugged-into-the-wrong-hdmi-port-zh/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-11T06:33:16.156298+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T02:00:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "備份真正的風險不是碟片腐蝕。\n\n而是 15 年後，你家已經找不到任何一台能讀它的機器。\n\n媒體壽命再長，沒有能用的光碟機，就只是一疊杯墊。\n\n賭一把：十年後最搶手的二手 3C，會是一台還能動的藍光光碟機。",
+    "article_url": "/zh/hardware/2026-11-11-what-is-the-average-lifespan-of-recordable-blu-ray-discs-zh/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-11T06:33:16.156302+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T04:20:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "叫得出「信賴區間」，不代表懂它。\n\n95% 信賴區間不是「真實數值有 95% 機率落在這裡」。\n\n你的 A/B 測試儀表板如果寫著「95% 確定」，它可能是用頻率學派的數學，賣你貝氏統計式的安心感。\n\n下次 PM 拿著儀表板說「已經確定了」，記得反問一句：確定的到底是什麼？",
+    "article_url": "/zh/ai-ml/2026-11-11-what-a-95-confidence-interval-actually-tells-you-zh/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-11T06:33:16.156308+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T06:40:00+00:00",
+    "queued_at": "2026-11-11T06:33:16.158772+00:00"
   }
 ]

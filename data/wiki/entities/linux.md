@@ -1,7 +1,7 @@
 # Linux
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel** (2026-11-10)
   - AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
+
+- **Synaptics patent claims stop work on DisplayLink drivers** (2026-11-10)
+  - A Linux user asked Synaptics for driver help and got patent threats instead. That's a strong reason not to buy DisplayLink docks if you run Linux.
 
 - **How to use your laptop as a second monitor** (2026-11-09)
   - Your old laptop can be a free second monitor, but HDMI won't do it. Wireless casting is the practical route, as long as you accept the lag.

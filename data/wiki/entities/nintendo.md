@@ -1,11 +1,14 @@
 # Nintendo
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Nintendo will soon discontinue Google and Apple sign-ins** (2026-11-10)
+  - Nintendo dropping Google and Apple sign-ins for passkeys is about controlling its own front door, and lazy users will pay for the transition.
 
 - **Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running** (2026-11-10)
   - A brand-new Zelda remake running on Android phones within a week is impressive, but '30 FPS' is really 15 FPS with AI frame generation, and Nintendo's lawyers will notice.

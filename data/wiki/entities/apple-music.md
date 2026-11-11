@@ -1,11 +1,14 @@
 # Apple Music
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro** (2026-11-11)
+  - Labrinth's overnight song is a well-made ad, but it is still the best argument yet that a touchscreen Mac can be useful for music production.
 
 - **iOS 27.3: Three new iPhone features coming soon** (2026-11-09)
   - iOS 27.3's real story is the Health app, which Apple pulled from 27.2 and is now relaunching as an AI health coach.

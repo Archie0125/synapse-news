@@ -1,11 +1,17 @@
 # Meta Quest
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **The VR Disney Plus app on Meta Quest now has 3D movies** (2026-11-10)
+  - Disney's 60-plus 3D movies make Quest a better home theater, but the real target is Meta's 2027 VR Glasses, and the content stockpile is the bait.
+
+- **The Disney+ app on Meta Quest now includes 3D movies** (2026-11-10)
+  - Meta is trying to sell VR as the world's best 3D movie theater, a smarter pitch than the metaverse, but it only works if subscribers actually put the headset on.
 
 - **YouTube auf Quest wird neu gedacht – aber was macht das mit deinen Augen?** (2026-11-09)
   - A YouTube redesign on Quest becomes a pitch for VR amblyopia training, an intriguing idea that still needs clinical evidence more than marketing copy.

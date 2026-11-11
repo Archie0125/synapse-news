@@ -7,11 +7,11 @@
 ## Recent Mentions
 
 
-- **‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP** (2026-11-10)
-  - Nick Fuentes claiming credit for a Democratic sweep is mostly self-promotion, but his open bid to take over the GOP is the part worth taking seriously.
-
 - **President Trump says the FBI is investigating Jensen Huang’s affair** (2026-11-10)
   - Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
+
+- **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
+  - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
 
 - **What could China get from Jensen Huang?** (2026-11-09)
   - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.

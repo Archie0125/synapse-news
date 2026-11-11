@@ -1,11 +1,14 @@
 # Hacker News
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **What objective is reasoning solving?** (2026-11-10)
+  - Longer chains of thought aren't why reasoning models work; RL optimizes the odds of finding a correct path, not making any single path converge.
 
 - **Foldable Flight: The Best Paper Airplanes** (2026-11-09)
   - A searchable directory of 109 paper airplane designs is a reminder that low-tech hobbies are still popular with a tech-savvy crowd.

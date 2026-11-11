@@ -1,14 +1,11 @@
 # Walmart
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience** (2026-11-10)
-  - Walmart's multi-agent LLM forecasting talk is a reminder that the unglamorous batch jobs, not chatbots, are where enterprise AI earns its keep.
 
 - **How to shop like a pro during Black Friday and Cyber Monday** (2026-11-09)
   - With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.

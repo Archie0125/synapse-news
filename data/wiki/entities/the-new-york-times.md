@@ -1,11 +1,14 @@
 # The New York Times
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **NVIDIA shareholders are suing the company and CEO Jensen Huang** (2026-11-10)
+  - NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.
 
 - **What could China get from Jensen Huang?** (2026-11-09)
   - The Jensen Huang scandal matters less as gossip than as a stress test: one CEO may have had outsized sway over US chip export policy.

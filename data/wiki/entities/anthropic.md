@@ -1,14 +1,11 @@
 # Anthropic
 
 
-*Mentioned in 46 articles*
+*Mentioned in 49 articles*
 
 
 ## Recent Mentions
 
-
-- **This New Linux-Based Desktop Operating System Is Built for AI Nerds** (2026-11-10)
-  - Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
 
 - **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
   - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
@@ -22,14 +19,26 @@
 - **Anthropic has its own AI-powered office suite now** (2026-11-10)
   - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
 
+- **PSI is trying to make a business out of AI-driven scientific discovery** (2026-11-10)
+  - An 18-year-old quantum problem fell to an AI model, but the real story is that its own author trusts the proof without fully understanding it.
+
+- **OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect** (2026-11-10)
+  - New York's RAISE Act has real teeth on paper, but $1M fines against trillion-dollar labs make transparency the real weapon, not penalties.
+
 - **Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion** (2026-11-10)
   - A $1.4 trillion valuation sounds huge, but it is well short of the reported $2 trillion target, and public buyers get almost no say over the company.
 
 - **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (2026-11-10)
   - Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
 
+- **All 7 Anthropic founders will each cash out about $250M in IPO** (2026-11-10)
+  - Each Anthropic co-founder cashing out roughly $250M is the headline, but the real story is supervoting Class F shares keeping a 'safety-first' lab firmly founder-controlled.
+
 - **Anthropic’s IPO Puts ~$216 Billion in Employee Hands. Another $160 Billion Is Reserved for the Next Hires.** (2026-11-10)
   - Anthropic's IPO makes the average employee worth about $41 million on paper, and its $160 billion reserve for future hires could distort AI talent pricing for years.
+
+- **Tracking Anthropic-discovered vulnerabilities** (2026-11-10)
+  - Anthropic's Project Glasswing is great at finding bugs and much worse at getting them fixed: 37,966 findings, just 217 fixed, and maintainers left to sort the rest.
 
 - **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
   - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
@@ -42,12 +51,3 @@
 
 - **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
   - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
-
-- **Anthropic launches new Claude Fable and Mythos 5.2 models** (2026-11-09)
-  - Anthropic's launch claims, like solving open black hole physics problems, are bold and hard to check. If they hold up, 5.2 marks a shift from coding assistant to research tool.
-
-- **Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.** (2026-11-09)
-  - Voice for coding agents is quickly becoming expected. Claude Code's dictation-only input looks like a gap, unless Anthropic is betting developers would rather not talk to their IDE.
-
-- **Anthropic launches Fable 5.2 with a price cut and stronger coding scores** (2026-11-09)
-  - Fable 5.2 gets better and 20% cheaper at once, so rivals can no longer compete only on price. The real story is that Mythos, built on the same model, stays locked away.

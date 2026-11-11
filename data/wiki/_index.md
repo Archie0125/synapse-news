@@ -1,25 +1,25 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-10*
+*Last updated: 2026-11-11*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-10](daily/2026-11-10.md)
+- [Daily Digest 2026-11-11](daily/2026-11-11.md)
 
 
 ## Recent Analysis
 
-- [AI 降價戰是煙霧彈：真正搶走生意的，是一個字都不會寫的模型](analysis/2026-11-10-the-ai-price-war-is-a-decoy-your-next-model-won-t-write-a-wo-zh.md)
+- [前沿模型殺價殺到見骨，但 Amazon 已經決定連最便宜的都不用了](analysis/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-zh.md)
 
-- [The AI Price War Is a Decoy. Your Next Model Won't Write a Word](analysis/2026-11-10-the-ai-price-war-is-a-decoy-your-next-model-won-t-write-a-wo-en.md)
+- [The Frontier Price War Is a Decoy. The Real Fight Is Over Who Gets Fired.](analysis/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-en.md)
 
-- [記憶體被 AI 吃光了：你的手機、Kindle、電視棒都在替輝達買單](analysis/2026-11-10-ramageddon-ai-is-billing-your-kindle-your-phone-and-your-40-zh.md)
+- [黃仁勳的外遇只是引信，75億美元的晶片管道才是炸彈](analysis/2026-11-11-jensen-huang-s-affair-isn-t-the-scandal-the-7-5b-chip-pipeli-zh.md)
 
-- [RAMageddon: AI Is Billing Your Kindle, Your Phone and Your $40 Stick](analysis/2026-11-10-ramageddon-ai-is-billing-your-kindle-your-phone-and-your-40-en.md)
+- [Jensen Huang's Affair Isn't the Scandal. The $7.5B Chip Pipeline Is.](analysis/2026-11-11-jensen-huang-s-affair-isn-t-the-scandal-the-7-5b-chip-pipeli-en.md)
 
-- [黃仁勳的真正醜聞不是外遇，是全球 AI 晶片由他一人說了算](analysis/2026-11-10-nvidia-s-real-scandal-isn-t-the-affair-it-s-that-one-man-pic-zh.md)
+- [人人都說歡迎 AI 代理，前提是那個代理是自家的](analysis/2026-11-11-every-platform-wants-ai-agents-as-long-as-they-re-its-own-ag-zh.md)
 
 
 ## Topics
@@ -46,6 +46,8 @@
 ## Entities
 
 - [10K](entities/10k.md)
+
+- [9To5Google](entities/9to5google.md)
 
 - [9To5Mac](entities/9to5mac.md)
 
@@ -75,12 +77,10 @@
 
 - [Amd](entities/amd.md)
 
+- [Android 17](entities/android-17.md)
+
 - [Android Xr](entities/android-xr.md)
 
 - [Android](entities/android.md)
 
 - [Anker](entities/anker.md)
-
-- [Anthony Wood](entities/anthony-wood.md)
-
-- [Anthropic](entities/anthropic.md)

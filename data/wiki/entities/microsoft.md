@@ -1,11 +1,14 @@
 # Microsoft
 
 
-*Mentioned in 21 articles*
+*Mentioned in 24 articles*
 
 
 ## Recent Mentions
 
+
+- **Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode** (2026-11-11)
+  - Auto SR going handheld turns Microsoft's upscaler from a docked demo into a real battery-life play, but Microsoft itself admits 1080p handheld performance may disappoint.
 
 - **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
   - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
@@ -28,6 +31,12 @@
 - **What's new in the .NET 11 runtime** (2026-11-10)
   - .NET 11 raises its minimum hardware requirements. It's a sensible cleanup, but Windows on Arm users with older chips are the ones who pay for it.
 
+- **Announcing .NET 11** (2026-11-10)
+  - .NET 11's real headline isn't the AI branding. It's C# 15 union types, a feature developers have asked for for years that finally makes illegal states unrepresentable.
+
+- **The best-selling game console of all time is over 25 years old** (2026-11-10)
+  - The PS2's 25-year reign proves the best-selling console wins on timing and a killer side feature, not raw power, and the still-selling Switch is about to prove it again.
+
 - **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
   - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
 
@@ -42,12 +51,3 @@
 
 - **Hundreds arrested after Microsoft data center protest turns violent** (2026-11-08)
   - Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.
-
-- **Outlook.com is rejecting email from domains without DMARC** (2026-11-08)
-  - Microsoft quietly tightened its email rules for everyone, not just bulk senders. The worst part is that bounces are partial, so most victims won't notice.
-
-- **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
-  - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
-
-- **Windows PowerToys can automate some of your more tedious PC tasks** (2026-11-07)
-  - Microsoft's best Windows productivity features are hidden in a free GitHub download, which is a compliment to PowerToys and a criticism of Windows.

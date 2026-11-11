@@ -1,11 +1,14 @@
 # WIRED
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
+
+- **Best Early Amazon Black Friday Deals (2026)** (2026-11-10)
+  - Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.
 
 - **These WIRED-Tested Standing Desks Are Already on Sale for Black Friday** (2026-11-09)
   - Standing desks aren't a health cure, but a 20 percent discount plus a walking pad is the most honest pitch for a New Year resolution.

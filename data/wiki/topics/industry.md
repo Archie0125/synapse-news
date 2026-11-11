@@ -1,34 +1,26 @@
 # Industry
 
 
-*367 articles in the last 7 days*
+*389 articles in the last 7 days*
 
 
 ## Latest
 
 
-### ‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP
+### X launches its own clipping feature to spur influencer engagement
 
-*Wired | 2026-11-10*
-
-
-Nick Fuentes claiming credit for a Democratic sweep is mostly self-promotion, but his open bid to take over the GOP is the part worth taking seriously.
+*TechCrunch | 2026-11-11*
 
 
-### Valvoline Coupons and Promo Codes for November 2026
-
-*Wired | 2026-11-10*
+X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
 
 
-This is affiliate coupon content, not news. The one useful point: hybrids need pricier synthetic oil, which makes shop oil changes harder to beat on cost.
+### End of an era: Apple Support Community forums will permanently close on November 20
+
+*9to5Mac | 2026-11-11*
 
 
-### This New Linux-Based Desktop Operating System Is Built for AI Nerds
-
-*Wired | 2026-11-10*
-
-
-Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+Apple is closing a 28-year-old peer-help forum, which removes one of the few places where Apple product bugs were discussed publicly.
 
 
 ### The Grindr 1 Percent Is Getting Its Own Gated Community
@@ -119,17 +111,17 @@ NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real sto
 Wired's gift guide gets one thing right: you can't out-research a gearhead, so buy them the small, useful surprise they'd never buy for themselves.
 
 
+### Best Early Amazon Black Friday Deals (2026)
+
+*Wired | 2026-11-10*
+
+
+Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.
+
+
 ### 4DX Movies Are Entering Their Thirsty Romance Era
 
 *Wired | 2026-11-10*
 
 
 Regal is selling a shared theater experience for a show fans can already stream, and the $1.4 million in ticket sales shows fandoms will pay for it.
-
-
-### Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174
-
-*Tom's Hardware | 2026-11-10*
-
-
-GTA 6's 212GB install makes it a storage upgrade deadline, and it arrives just as AI demand has pushed SSD prices up.

@@ -1,18 +1,18 @@
 # Policy
 
 
-*107 articles in the last 7 days*
+*114 articles in the last 7 days*
 
 
 ## Latest
 
 
-### ‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP
+### Electrical Architecture Fundamentals — Ch.09: Functional Safety Overview [KR]
 
-*Wired | 2026-11-10*
+*Dev.to | 2026-11-11*
 
 
-Nick Fuentes claiming credit for a Democratic sweep is mostly self-promotion, but his open bid to take over the GOP is the part worth taking seriously.
+ISO 26262's key lesson is that reliable is not the same as safe, and robotics teams borrowing from automotive need to take that seriously.
 
 
 ### The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are
@@ -79,12 +79,36 @@ Microsoft's lobbying shows that America's AI buildout depends on Chinese optical
 If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
 
 
+### The US is winning the AI race. Jensen Huang could have blown it
+
+*The Verge | 2026-11-10*
+
+
+Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
+
+
 ### eBay appears to have shut the door on third-party AI agents
 
 *The Verge | 2026-11-10*
 
 
 eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
+
+
+### X-energy gets green light to build its first small modular nuclear reactors
+
+*TechCrunch | 2026-11-10*
+
+
+X-energy's NRC permit is a real milestone for small reactors, but approving construction while deferring safety questions turns speed into a liability.
+
+
+### OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+
+*TechCrunch | 2026-11-10*
+
+
+New York's RAISE Act has real teeth on paper, but $1M fines against trillion-dollar labs make transparency the real weapon, not penalties.
 
 
 ### Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline
@@ -95,12 +119,12 @@ eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: 
 Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
 
 
-### The Download: Pelosi’s successor targets AI and data centers face power woes
+### Synaptics patent claims stop work on DisplayLink drivers
 
-*MIT Technology Review | 2026-11-10*
+*Hacker News | 2026-11-10*
 
 
-Scott Wiener is bringing California-style AI safety politics to Congress, while the data center backlash turns out to be about electricity bills, not culture wars.
+A Linux user asked Synaptics for driver help and got patent threats instead. That's a strong reason not to buy DisplayLink docks if you run Linux.
 
 
 ### .name Grandfathered
@@ -119,49 +143,25 @@ Users saved 22,000 .name domains from Verisign, but it took lawyers, a trip to B
 Polestar's gorgeous concept with real physical buttons shows US trade policy is now deciding which car designs Americans ever get to sit in.
 
 
+### NVIDIA shareholders are suing the company and CEO Jensen Huang
+
+*Engadget | 2026-11-10*
+
+
+NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.
+
+
+### New York will independently test AI models
+
+*Engadget | 2026-11-10*
+
+
+New York's state-run AI testing finally replaces 'trust us' with 'show us,' but testers can only check what AI companies choose to release.
+
+
 ### Google turns Gemini towards medical paperwork
 
 *Engadget | 2026-11-10*
 
 
 Aiming Gemini at healthcare paperwork instead of diagnosis is the smartest and least glamorous AI move this year, and the hospital partner list proves demand is real.
-
-
-### A Chinese team made a big splash with a drone swarm world record
-
-*Engadget | 2026-11-10*
-
-
-A Guinness record in a swimming pool is a PR stunt, but 116 coordinated underwater drones from a PLA-linked lab is a real military signal.
-
-
-### Guardrail para la abogacía
-
-*Dev.to | 2026-11-10*
-
-
-Brazil's legal AI guardrails come down to one rule: the lawyer is always responsible. The confident statistics in this explainer still need checking.
-
-
-### Canadian court certifies class action against Apple over Google search deal
-
-*9to5Mac | 2026-11-10*
-
-
-The US ruling against Google's search deal is now being reused abroad, and Canada shows Apple can't count on staying the passive party that just collects the check.
-
-
-### New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing
-
-*Wired | 2026-11-09*
-
-
-Hulu's 'Get Huge' traces today's looksmaxxing culture back to Tony Huge's biohacking scene in Thailand, and it shows the human cost of self-optimization taken too far.
-
-
-### Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year
-
-*Wired | 2026-11-09*
-
-
-Jensen Huang hired a well-known scandal fixer a year before he publicly admitted his affair, which raises the question of when Nvidia's leadership first knew about the risk.

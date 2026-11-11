@@ -1,7 +1,7 @@
 # Samsung
 
 
-*Mentioned in 33 articles*
+*Mentioned in 34 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **Smart home devices should work without the internet** (2026-11-10)
   - A smart home that stops working when a vendor's server goes down is really a rental. This ten-year local-first setup shows the alternative works.
+
+- **Gemini Intelligence: New features, on more devices** (2026-11-10)
+  - Google is pushing Gemini Intelligence to more Android phones, but the real story is distribution: Google's AI advantage is being on every partner's device.
 
 - **Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users** (2026-11-10)
   - Samsung dropping OneDrive for Google Photos is a quiet win for Google's cloud business, though the One UI 9 requirement means many Galaxy owners will have to wait.
@@ -48,6 +51,3 @@
 
 - **Samsung One UI removed the all apps button, but you can easily get it back** (2026-11-08)
   - Samsung hid the Apps button to push gesture navigation, but keeping it as an option shows it knows habit beats design.
-
-- **Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program** (2026-11-08)
-  - The One UI 9.5 beta is almost here, but only for unlocked phones in six countries. Samsung's beta is more of a members-only preview than a public test.

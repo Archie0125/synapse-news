@@ -1,18 +1,18 @@
 # Startups
 
 
-*137 articles in the last 7 days*
+*149 articles in the last 7 days*
 
 
 ## Latest
 
 
-### This New Linux-Based Desktop Operating System Is Built for AI Nerds
+### X launches its own clipping feature to spur influencer engagement
 
-*Wired | 2026-11-10*
+*TechCrunch | 2026-11-11*
 
 
-Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
 
 
 ### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
@@ -23,28 +23,20 @@ Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop
 Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
 
 
-### Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI
+### Oura is acquiring medical AI chatbot startup Counsel Health
+
+*The Verge | 2026-11-10*
+
+
+Oura's $625 million Counsel Health deal shows it wants to be a healthcare company, but a 50-doctor network is a thin base for that ambition.
+
+
+### X-energy gets green light to build its first small modular nuclear reactors
 
 *TechCrunch | 2026-11-10*
 
 
-Sundrop's boldest feature isn't time-lapses, it's refusing generative AI and the cloud, betting that parents value privacy over magic.
-
-
-### Spotify’s AI DJ gets new voices, personalities, and an option for less chatter
-
-*TechCrunch | 2026-11-10*
-
-
-Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
-
-
-### Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot
-
-*TechCrunch | 2026-11-10*
-
-
-Ring's flying indoor camera is technically clever, but a company with Ring's privacy track record putting a drone inside your home is a trust test it hasn't earned.
+X-energy's NRC permit is a real milestone for small reactors, but approving construction while deferring safety questions turns speed into a liability.
 
 
 ### Reddit is turning user conversations into AI-powered product reviews
@@ -53,6 +45,62 @@ Ring's flying indoor camera is technically clever, but a company with Ring's pri
 
 
 Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.
+
+
+### PSI is trying to make a business out of AI-driven scientific discovery
+
+*TechCrunch | 2026-11-10*
+
+
+An 18-year-old quantum problem fell to an AI model, but the real story is that its own author trusts the proof without fully understanding it.
+
+
+### Proximal Ventures raises debut fund to back startups bringing AI to drug development
+
+*TechCrunch | 2026-11-10*
+
+
+Proximal's smart bet isn't AI discovering drugs; it's AI eating pharma's huge outsourced services budget, the unglamorous layer where the money already flows.
+
+
+### Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available
+
+*TechCrunch | 2026-11-10*
+
+
+Pixel Tag is a solid AirTag clone that arrives years late; its real value is giving Android's Find Hub network a first-party device to rally around.
+
+
+### Oura to acquire AI-native primary care startup Counsel Health for $625M
+
+*TechCrunch | 2026-11-10*
+
+
+Oura shelved its IPO and then spent $625M to become a healthcare company, because a smart ring alone is no longer a defensible business.
+
+
+### OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google
+
+*TechCrunch | 2026-11-10*
+
+
+ChatGPT's Business Hub is OpenAI quietly rebuilding Google's ad playbook: verified profiles and analytics first, sponsored placement almost certainly next.
+
+
+### OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+
+*TechCrunch | 2026-11-10*
+
+
+New York's RAISE Act has real teeth on paper, but $1M fines against trillion-dollar labs make transparency the real weapon, not penalties.
+
+
+### OpenAI acquires Odessia, travel startup created by Sonder founder
+
+*TechCrunch | 2026-11-10*
+
+
+OpenAI's Odessia deal isn't about buying a travel product it immediately shut down; it's about buying a founder who knows how to run teams of AI agents.
 
 
 ### Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline
@@ -85,59 +133,3 @@ A researcher dumping 30-plus zero-days is reckless, but N-able allegedly ignorin
 
 
 Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.
-
-
-### Google broadens its AI hardware portfolio with two new specialized chips
-
-*TechCrunch | 2026-11-10*
-
-
-Google's new TPUs target the two things enterprises fear most, data leaks and memory limits, which is a sharper strategy than trying to beat Nvidia on raw speed.
-
-
-### Aura’s newest e-ink photo frame is even better and more affordable than its last
-
-*TechCrunch | 2026-11-10*
-
-
-Aura's cheaper 10-inch e-ink frame shows that custom ink colors and dithering, not resolution, are what make a digital frame look like a print.
-
-
-### Apple TV makes sign language interpretation a built-in accessibility feature
-
-*TechCrunch | 2026-11-10*
-
-
-Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.
-
-
-### Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion
-
-*TechCrunch | 2026-11-10*
-
-
-A $1.4 trillion valuation sounds huge, but it is well short of the reported $2 trillion target, and public buyers get almost no say over the company.
-
-
-### Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks
-
-*TechCrunch | 2026-11-10*
-
-
-Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
-
-
-### After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era
-
-*TechCrunch | 2026-11-10*
-
-
-Cyanogen's co-founder is betting that AI agents can finally break Windows' grip, but a free OS for power users still needs a business model and a working distribution plan.
-
-
-### Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly
-
-*TechCrunch | 2026-11-10*
-
-
-Adobe's most strategic MAX move is not another Photoshop slider. It's an MCP server that lets ChatGPT and Claude become the front door to Adobe.

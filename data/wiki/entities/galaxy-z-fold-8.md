@@ -1,11 +1,14 @@
 # Galaxy Z Fold 8
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **I’ve waited a long time for the Boox Picco, and I’m not disappointed** (2026-11-10)
+  - The Boox Picco wins by being too small to leave behind. At $100 it's the first e-reader that competes with your phone on convenience, not screen size.
 
 - **Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027** (2026-11-09)
   - Motorola's leaked support page confirms the Razr Flex for 2027, which means it arrives after Apple and Samsung have already defined the wide-foldable category.

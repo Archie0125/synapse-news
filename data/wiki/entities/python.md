@@ -1,11 +1,14 @@
 # Python
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Cómo convertir la foto de una firma en un sello PDF transparente con Python** (2026-11-11)
+  - This guide uses measurements to show why a fixed threshold fails to remove the background from signature photos, and why estimating local paper brightness works better.
 
 - **Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright** (2026-11-10)
   - A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.

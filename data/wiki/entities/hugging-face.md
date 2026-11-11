@@ -7,11 +7,11 @@
 ## Recent Mentions
 
 
+- **BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model** (2026-11-11)
+  - Tether's 0.8B BotPsy bets that most agent tasks are small enough to run on your phone, and that cloud dependence is the real risk.
+
 - **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
   - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
-
-- **Pay for Hugging Face Hub with your Google Cloud Account** (2026-11-10)
-  - Hugging Face billing through Google Cloud is not exciting, but in large companies, getting past procurement is often what decides whether a tool gets used.
 
 - **Decision Models in Hugging Face** (2026-11-10)
   - Decision models skip text generation and return probabilities for each option. For classification tasks, that is easier to audit than asking an LLM to write JSON.

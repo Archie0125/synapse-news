@@ -1,7 +1,7 @@
 # Find My
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -12,3 +12,6 @@
 
 - **New Apple TV 4K remote’s best feature requires a newer iPhone model** (2026-11-10)
   - The new Siri Remote finally fixes the most-lost gadget in your living room, but its best feature requires a recent iPhone. That's classic Apple ecosystem upselling.
+
+- **Apple confirms ongoing outage affecting iCloud and more [U]** (2026-11-10)
+  - A few hours of iCloud downtime is a blunt reminder that Apple's privacy-first ecosystem still has one very centralized point of failure.

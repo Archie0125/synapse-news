@@ -1,7 +1,7 @@
 # Google Cloud
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -9,9 +9,6 @@
 
 - **Google Cloud Spend Caps Reach General Availability with API and Monthly Resets** (2026-11-10)
   - Google Cloud finally gives customers a real spending kill switch, but it covers only four services, so most surprise bills are still possible.
-
-- **Pay for Hugging Face Hub with your Google Cloud Account** (2026-11-10)
-  - Hugging Face billing through Google Cloud is not exciting, but in large companies, getting past procurement is often what decides whether a tool gets used.
 
 - **Google Cloud launches Gemini for healthcare.** (2026-11-10)
   - Google is pitching Gemini for healthcare as an agent that does paperwork, not a chatbot. The real test is whether prior authorization actually gets faster.

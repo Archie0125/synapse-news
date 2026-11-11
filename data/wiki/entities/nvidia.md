@@ -1,11 +1,14 @@
 # NVIDIA
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **NVIDIA shareholders are suing the company and CEO Jensen Huang** (2026-11-10)
+  - NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.
 
 - **NVIDIA DLSS 4.5 has presets you should know about** (2026-11-10)
   - Upscaling is now required for PC gaming rather than optional, and the fact that DLSS 4.5's hidden presets matter this much shows how much control has moved from game developers to NVIDIA.

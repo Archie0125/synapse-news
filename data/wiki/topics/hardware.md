@@ -1,10 +1,82 @@
 # Hardware
 
 
-*326 articles in the last 7 days*
+*348 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode
+
+*The Verge | 2026-11-11*
+
+
+Auto SR going handheld turns Microsoft's upscaler from a docked demo into a real battery-life play, but Microsoft itself admits 1080p handheld performance may disappoint.
+
+
+### Why your Roku might be plugged into the wrong HDMI port
+
+*Engadget | 2026-11-11*
+
+
+For Roku owners, the HDMI port barely matters: the streamer is capped at 60Hz, so the real risk is losing audio features, not picture quality.
+
+
+### What is the average lifespan of recordable Blu-ray discs?
+
+*Engadget | 2026-11-11*
+
+
+With flash prices soaring, the 'dead' Blu-ray format is quietly making sense again for long-term archiving, if you plan for disc rot.
+
+
+### iFixit teardown shows how Apple's glowing PROLED MacBook logo works
+
+*Engadget | 2026-11-11*
+
+
+Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
+
+
+### Electrical Architecture Fundamentals — Ch.10: Future Trends [KR]
+
+*Dev.to | 2026-11-11*
+
+
+Software-defined robots borrow the automotive playbook, but the real work is in the electrical wiring that keeps AI away from torque control.
+
+
+### Electrical Architecture Fundamentals — Ch.09: Functional Safety Overview [KR]
+
+*Dev.to | 2026-11-11*
+
+
+ISO 26262's key lesson is that reliable is not the same as safe, and robotics teams borrowing from automotive need to take that seriously.
+
+
+### Electrical Architecture Fundamentals — Ch.08: Redundancy Design [KR]
+
+*Dev.to | 2026-11-11*
+
+
+Two batteries do not make a redundant robot; a shared fuse, connector or ground path can still take down both sides at once.
+
+
+### Electrical Architecture Fundamentals — Ch.07: LV HV Architecture [KR]
+
+*Dev.to | 2026-11-11*
+
+
+This chapter on choosing between 12V, 24V, and 48V rails explains why robots and EVs keep moving to 48V: higher voltage means less current, thinner wiring, and smaller losses.
+
+
+### Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro
+
+*9to5Mac | 2026-11-11*
+
+
+Labrinth's overnight song is a well-made ad, but it is still the best argument yet that a touchscreen Mac can be useful for music production.
 
 
 ### Rocco’s Mini Mini Fridge Is Here (2026)
@@ -47,30 +119,6 @@ The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When 
 NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
 
 
-### Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174
-
-*Tom's Hardware | 2026-11-10*
-
-
-GTA 6's 212GB install makes it a storage upgrade deadline, and it arrives just as AI demand has pushed SSD prices up.
-
-
-### Steam Store adds average FPS data so you can see game performance before making a purchase
-
-*Tom's Hardware | 2026-11-10*
-
-
-Steam's average-FPS data swaps marketing claims for real player measurements, which puts pressure on poorly optimized games.
-
-
-### Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit
-
-*Tom's Hardware | 2026-11-10*
-
-
-A hobbyist using an AI model and a fuzzer found a remote code execution chain in a Prusa printer in a week. AI-assisted bug hunting is now cheap enough for hobbyists.
-
-
 ### Secretlab debuts monitor light bar add-on to reduce glare and eye strain
 
 *Tom's Hardware | 2026-11-10*
@@ -101,27 +149,3 @@ A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the
 
 
 Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
-
-
-### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
-
-*Tom's Hardware | 2026-11-10*
-
-
-AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
-
-
-### Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40
-
-*Tom's Hardware | 2026-11-10*
-
-
-Hall Effect sticks under $40 show anti-drift tech is now the budget baseline, but the missing Xbox support limits what this deal is worth.
-
-
-### Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark
-
-*Tom's Hardware | 2026-11-10*
-
-
-A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.

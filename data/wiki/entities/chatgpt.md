@@ -13,8 +13,8 @@
 - **ChatGPT is getting verified AI ‘Business Agents’** (2026-11-10)
   - ChatGPT's verified Business Agents look like customer service, but they're really the foundation of an AI-era ad marketplace.
 
-- **Spotify’s AI DJ gets new voices, personalities, and an option for less chatter** (2026-11-10)
-  - Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
+- **OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google** (2026-11-10)
+  - ChatGPT's Business Hub is OpenAI quietly rebuilding Google's ad playbook: verified profiles and analytics first, sponsored placement almost certainly next.
 
 - **How to answer Claude Code or Codex from your phone** (2026-11-10)
   - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.

@@ -1,7 +1,7 @@
 # Alice Huang
 
 
-*Mentioned in 14 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,9 @@
 
 - **Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline** (2026-11-10)
   - Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
+
+- **NVIDIA shareholders are suing the company and CEO Jensen Huang** (2026-11-10)
+  - NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.
 
 - **Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy** (2026-11-09)
   - Jensen Huang's personal scandal is now a national-security problem, and Congress will press on Nvidia's China exposure, not his private life.

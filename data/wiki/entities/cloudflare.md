@@ -1,11 +1,17 @@
 # Cloudflare
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Cloudflare Makes Basin Serverless Analytics Generally Available** (2026-11-10)
+  - Cloudflare's Basin turns zero egress fees into a strategic weapon, making open Iceberg tables the bait to pull analytics workloads away from hyperscalers.
+
+- **Val Town is winding down** (2026-11-10)
+  - Val Town's shutdown is a model of a graceful exit, and a reminder that being a delightful developer platform can't beat hyperscaler economics.
 
 - **Kubernetes - Setup External DNS** (2026-11-10)
   - Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.

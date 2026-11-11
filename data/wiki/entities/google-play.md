@@ -1,11 +1,14 @@
 # Google Play
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Today’s Android app deals and freebies: Undead Slayer, Level Come Again, Children of Morta, more** (2026-11-10)
+  - Amazon's early Black Friday sale is the real headline here, and the Play Store indie discounts are just the appetizer before holiday spending.
 
 - **Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more** (2026-11-09)
   - The free Android games are nice, but the real news in this deals roundup is buried at the top: Samsung and Google are already discounting brand-new hardware.

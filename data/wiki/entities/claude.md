@@ -1,7 +1,7 @@
 # Claude
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -12,9 +12,6 @@
 
 - **Anthropic has its own AI-powered office suite now** (2026-11-10)
   - Anthropic's office suite is less about spreadsheets and more about an IPO story: proving Claude can win white-collar workers, not just engineers.
-
-- **Spotify’s AI DJ gets new voices, personalities, and an option for less chatter** (2026-11-10)
-  - Spotify's smartest AI DJ upgrade is letting you make it talk less, an admission that the best AI feature is sometimes knowing when to shut up.
 
 - **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
   - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.

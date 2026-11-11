@@ -1,18 +1,34 @@
 # Open Source
 
 
-*100 articles in the last 7 days*
+*108 articles in the last 7 days*
 
 
 ## Latest
 
 
-### This New Linux-Based Desktop Operating System Is Built for AI Nerds
+### BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
 
-*Wired | 2026-11-10*
+*Hugging Face Blog | 2026-11-11*
 
 
-Kora's pitch for an AI-native OS is smart, but a 2027 launch and a Linux desktop app gap mean it must outrun Microsoft and Apple building the same idea.
+Tether's 0.8B BotPsy bets that most agent tasks are small enough to run on your phone, and that cloud dependence is the real risk.
+
+
+### De una app de tareas a Azure: .NET 10, Cosmos DB, Terraform y GitHub Actions
+
+*Dev.to | 2026-11-11*
+
+
+A student to-do app turns into a solid lesson in cloud deployment because the team designed its database queries and automated its infrastructure with care.
+
+
+### Cómo convertir la foto de una firma en un sello PDF transparente con Python
+
+*Dev.to | 2026-11-11*
+
+
+This guide uses measurements to show why a fixed threshold fails to remove the background from signature photos, and why estimating local paper brightness works better.
 
 
 ### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
@@ -39,20 +55,20 @@ AI in open source is shifting from a source of junk bug reports to a source of a
 A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.
 
 
-### Pinterest and Intel Take Open-Source Profiling to Internet Scale
-
-*InfoQ | 2026-11-10*
-
-
-Pinterest chose to upstream its profiler work to open source instead of building in-house, a smart bet that shared infrastructure beats a private moat.
-
-
 ### Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support
 
 *InfoQ | 2026-11-10*
 
 
 Effect 4.0's performance claims are impressive, but they come from the team's own benchmarks. The three-year LTS commitment may matter more than any of the numbers.
+
+
+### Cloudflare Makes Basin Serverless Analytics Generally Available
+
+*InfoQ | 2026-11-10*
+
+
+Cloudflare's Basin turns zero egress fees into a strategic weapon, making open Iceberg tables the bait to pull analytics workloads away from hyperscalers.
 
 
 ### Decision Models in Hugging Face
@@ -63,12 +79,36 @@ Effect 4.0's performance claims are impressive, but they come from the team's ow
 Decision models skip text generation and return probabilities for each option. For classification tasks, that is easier to audit than asking an LLM to write JSON.
 
 
+### Val Town is winding down
+
+*Hacker News | 2026-11-10*
+
+
+Val Town's shutdown is a model of a graceful exit, and a reminder that being a delightful developer platform can't beat hyperscaler economics.
+
+
+### Tracking Anthropic-discovered vulnerabilities
+
+*Hacker News | 2026-11-10*
+
+
+Anthropic's Project Glasswing is great at finding bugs and much worse at getting them fixed: 37,966 findings, just 217 fixed, and maintainers left to sort the rest.
+
+
 ### The Hardest Tarball?
 
 *Hacker News | 2026-11-10*
 
 
 One GNU tar command creates an archive that extracts eight different ways. The tar "standard" is less settled than most people assume.
+
+
+### Synaptics patent claims stop work on DisplayLink drivers
+
+*Hacker News | 2026-11-10*
+
+
+A Linux user asked Synaptics for driver help and got patent threats instead. That's a strong reason not to buy DisplayLink docks if you run Linux.
 
 
 ### Smart home devices should work without the internet
@@ -79,12 +119,28 @@ One GNU tar command creates an archive that extracts eight different ways. The t
 A smart home that stops working when a vendor's server goes down is really a rental. This ten-year local-first setup shows the alternative works.
 
 
+### Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives
+
+*Hacker News | 2026-11-10*
+
+
+The browser vendors are admitting AI coding agents are stuck in 2019. Modern Web Guidance is a practical fix, and an awkward confession about training data.
+
+
 ### Blender 5.3 released with Gaussian Splat support
 
 *Hacker News | 2026-11-10*
 
 
 Blender 5.3 adds Gaussian splats and DLSS denoising, and once again the free open-source tool ships the hot new 3D tech faster than many paid rivals.
+
+
+### Announcing .NET 11
+
+*Hacker News | 2026-11-10*
+
+
+.NET 11's real headline isn't the AI branding. It's C# 15 union types, a feature developers have asked for for years that finally makes illegal states unrepresentable.
 
 
 ### Git security vulnerabilities announced
@@ -95,73 +151,17 @@ Blender 5.3 adds Gaussian splats and DLSS denoising, and once again the free ope
 Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
 
 
+### How SCSKiller is trying to fix shader stuttering in PC games
+
+*Engadget | 2026-11-10*
+
+
+A free open-source app is doing what big-budget studios won't: attacking PC shader stutter head-on. That says more about the studios than about the app.
+
+
 ### UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance
 
 *Dev.to | 2026-11-10*
 
 
 UUIDv4 primary keys look safe in code review and then wreck your B-Tree at scale; time-ordered IDs like UUIDv7 should be the default now.
-
-
-### RagLeap v0.13.1 and ragleap-memory 0.3.0: Better Action Auditing and Optional Vector Search
-
-*Dev.to | 2026-11-10*
-
-
-RagLeap's hashed audit logs are the unglamorous feature agent builders actually need, though the gaps in what gets logged mean it's a start, not a full audit trail.
-
-
-### Kubernetes - Setup External DNS
-
-*Dev.to | 2026-11-10*
-
-
-Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.
-
-
-### I hid 6 secret glitches in my agent's video game. They make it easier. Can it find them?
-
-*Dev.to | 2026-11-10*
-
-
-Beating a known level is just execution. Hiding undocumented glitches tests whether an agent will experiment, which is a far more interesting benchmark.
-
-
-### Even a mechanical migration deserves a spec
-
-*Dev.to | 2026-11-10*
-
-
-A two-day Jest-to-Vitest migration shows that the most useful part of a spec is the list of things you won't do.
-
-
-### Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright
-
-*Dev.to | 2026-11-10*
-
-
-A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.
-
-
-### Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running
-
-*9to5Google | 2026-11-10*
-
-
-A brand-new Zelda remake running on Android phones within a week is impressive, but '30 FPS' is really 15 FPS with AI frame generation, and Nintendo's lawyers will notice.
-
-
-### Lawyer builds private AI server with eight used Nvidia V100 GPUs
-
-*Tom's Hardware | 2026-11-09*
-
-
-A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.
-
-
-### Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact
-
-*Tom's Hardware | 2026-11-09*
-
-
-A lawsuit says the Ethereum Foundation made staff choose between a 'Source Seppuku' oath and the exit; the joke defense won't survive HR law.

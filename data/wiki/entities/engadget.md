@@ -1,11 +1,20 @@
 # Engadget
 
 
-*Mentioned in 13 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
+
+- **Why your Roku might be plugged into the wrong HDMI port** (2026-11-11)
+  - For Roku owners, the HDMI port barely matters: the streamer is capped at 60Hz, so the real risk is losing audio features, not picture quality.
+
+- **What is the 'Dead Internet Theory' and should humanity be worried?** (2026-11-10)
+  - The 'dead internet theory' used to be a forum conspiracy. With bots at 53% of web traffic and Meta buying a bots-only social network, it now reads like a status report.
+
+- **Here's what to look for so you don't get scammed by a fake GPU** (2026-11-10)
+  - The AI boom has made GPUs so valuable that scammers now ship pasta instead of graphics cards. Your best defense is skepticism, not luck.
 
 - **Why you probably shouldn't buy gadgets with micro USB ports** (2026-11-09)
   - A micro USB port in 2026 is a red flag: it tells you the product is either old stock or the maker cut corners.
@@ -42,6 +51,3 @@
 
 - **This GPS navigation app should be the go-to for older drivers** (2026-11-07)
   - For older drivers, the best navigation app is the one that stays quiet, and Google Maps wins by being the less flashy choice.
-
-- **Cleaning your PC with expired isopropyl alcohol can be risky — here's why** (2026-11-07)
-  - Isopropyl alcohol slowly absorbs water even with the cap closed, so an old bottle may not be safe for cleaning electronics.

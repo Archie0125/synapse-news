@@ -1,14 +1,11 @@
 # The Verge
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **The Verge’s 2026 holiday gift guide for moms** (2026-11-10)
-  - Even the mom gift guide now includes an AI-powered bird feeder, which shows how far 'AI inside' has spread through consumer gadgets, often for no clear reason.
 
 - **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
   - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.

@@ -1,11 +1,14 @@
 # TikTok
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **X launches its own clipping feature to spur influencer engagement** (2026-11-11)
+  - X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
 
 - **Meet Drops, the new music app bringing back the fun of sharing songs with friends** (2026-11-09)
   - Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.

@@ -1,17 +1,26 @@
 # Sony
 
 
-*Mentioned in 11 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
 
-- **Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174** (2026-11-10)
-  - GTA 6's 212GB install makes it a storage upgrade deadline, and it arrives just as AI demand has pushed SSD prices up.
+- **The PlayStation Plus PC app is shutting down next month** (2026-11-10)
+  - Sony killing a PC app used by under 0.4 percent of Premium members is sensible, but it's another sign that PlayStation is pulling back from PC.
+
+- **Starlink Mini 2 adds a swappable battery** (2026-11-10)
+  - Sony killing a PC app used by under 0.4 percent of Premium members is sensible, but it's another sign that PlayStation is pulling back from PC.
+
+- **Sony cancels live-service shooter Fairgames** (2026-11-10)
+  - Fairgames' cancellation is the latest proof that Sony's live-service bet was a strategy built on hope, with Helldivers 2 as the lone exception.
 
 - **What is the difference between rest mode and shutdown for your PlayStation 5?** (2026-11-10)
   - Rest mode is the right default for anyone who plays most days, and full shutdown is mainly for long breaks or peace of mind.
+
+- **The best-selling game console of all time is over 25 years old** (2026-11-10)
+  - The PS2's 25-year reign proves the best-selling console wins on timing and a killer side feature, not raw power, and the still-selling Switch is about to prove it again.
 
 - **GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro** (2026-11-10)
   - A 30fps target in 2026 tells us Rockstar spent the hardware budget on world density instead of smoothness, and PS5 Pro owners get only small upgrades.

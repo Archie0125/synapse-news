@@ -1,18 +1,90 @@
 # Products
 
 
-*674 articles in the last 7 days*
+*759 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Valvoline Coupons and Promo Codes for November 2026
+### Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode
 
-*Wired | 2026-11-10*
+*The Verge | 2026-11-11*
 
 
-This is affiliate coupon content, not news. The one useful point: hybrids need pricier synthetic oil, which makes shop oil changes harder to beat on cost.
+Auto SR going handheld turns Microsoft's upscaler from a docked demo into a real battery-life play, but Microsoft itself admits 1080p handheld performance may disappoint.
+
+
+### X launches its own clipping feature to spur influencer engagement
+
+*TechCrunch | 2026-11-11*
+
+
+X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
+
+
+### Why your Roku might be plugged into the wrong HDMI port
+
+*Engadget | 2026-11-11*
+
+
+For Roku owners, the HDMI port barely matters: the streamer is capped at 60Hz, so the real risk is losing audio features, not picture quality.
+
+
+### What is the average lifespan of recordable Blu-ray discs?
+
+*Engadget | 2026-11-11*
+
+
+With flash prices soaring, the 'dead' Blu-ray format is quietly making sense again for long-term archiving, if you plan for disc rot.
+
+
+### iFixit teardown shows how Apple's glowing PROLED MacBook logo works
+
+*Engadget | 2026-11-11*
+
+
+Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
+
+
+### How to get this Siri camera upgrade for your iPad before its public release
+
+*Engadget | 2026-11-11*
+
+
+Apple Pencil circling in Siri Mode is a clear catch-up to Circle to Search, but on iPad it may be the most natural version yet.
+
+
+### My code snippets were everywhere except where I needed them
+
+*Dev.to | 2026-11-11*
+
+
+The diagnosis is right: retrieval, not generation, is the bottleneck. But this is still a launch post for yet another AI snippet tool.
+
+
+### End of an era: Apple Support Community forums will permanently close on November 20
+
+*9to5Mac | 2026-11-11*
+
+
+Apple is closing a 28-year-old peer-help forum, which removes one of the few places where Apple product bugs were discussed publicly.
+
+
+### Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro
+
+*9to5Mac | 2026-11-11*
+
+
+Labrinth's overnight song is a well-made ad, but it is still the best argument yet that a touchscreen Mac can be useful for music production.
+
+
+### 9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors
+
+*9to5Mac | 2026-11-11*
+
+
+The real headline in this roundup is Apple's $50 'intelligence usage packs,' a sign that Apple is starting to meter its AI features.
 
 
 ### The Grindr 1 Percent Is Getting Its Own Gated Community
@@ -37,99 +109,3 @@ Rocco shrinks its $2,000 retro fridge into a desktop Mini Mini, and its claim of
 
 
 Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
-
-
-### Kitchen Gear From Our Place Is Steeply Discounted
-
-*Wired | 2026-11-10*
-
-
-Our Place's 15–30% sale plus $60 off makes its pricey, Instagram-friendly cookware look like a fair deal, especially the Always Pan.
-
-
-### Huupe Mini 2 Review: More Game Than It Can Handle
-
-*Wired | 2026-11-10*
-
-
-The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.
-
-
-### Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)
-
-*Wired | 2026-11-10*
-
-
-Wired's gift guide gets one thing right: you can't out-research a gearhead, so buy them the small, useful surprise they'd never buy for themselves.
-
-
-### Steam Store adds average FPS data so you can see game performance before making a purchase
-
-*Tom's Hardware | 2026-11-10*
-
-
-Steam's average-FPS data swaps marketing claims for real player measurements, which puts pressure on poorly optimized games.
-
-
-### Secretlab debuts monitor light bar add-on to reduce glare and eye strain
-
-*Tom's Hardware | 2026-11-10*
-
-
-Secretlab's $179 light bar is a well-built add-on, but it mainly serves to keep Magnus monitor arm owners buying from the same desk ecosystem.
-
-
-### Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40
-
-*Tom's Hardware | 2026-11-10*
-
-
-Hall Effect sticks under $40 show anti-drift tech is now the budget baseline, but the missing Xbox support limits what this deal is worth.
-
-
-### The Verge’s 2026 holiday gift guide for moms
-
-*The Verge | 2026-11-10*
-
-
-Even the mom gift guide now includes an AI-powered bird feeder, which shows how far 'AI inside' has spread through consumer gadgets, often for no clear reason.
-
-
-### The indie game community is in disarray over AI and Big Walk
-
-*The Verge | 2026-11-10*
-
-
-The indie scene's AI purity test just hit its first beloved casualty, and 'we used it sparingly for bugs' shows how blurry the line has already become.
-
-
-### Reddit wants to guide your next purchase
-
-*The Verge | 2026-11-10*
-
-
-Reddit is turning the thing people already do, adding 'reddit' to their searches, into a product. The hard part is staying trustworthy once shoppers and marketers move in.
-
-
-### Google releases Gemini 4 Carbon with agent ‘swarm’ feature
-
-*The Verge | 2026-11-10*
-
-
-Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
-
-
-### Google Fi is bringing back multiple cell network support for better coverage
-
-*The Verge | 2026-11-10*
-
-
-Google Fi's 'super network' revives its original killer feature, but locking it to Pixel 9 and newer turns a carrier perk into a phone sales pitch.
-
-
-### Ember’s latest self-heating 14-ounce mug is $50 off
-
-*The Verge | 2026-11-10*
-
-
-At $99.99, the Ember Mug 3 is still a luxury, but the deal makes the bigger 14-ounce size the obvious pick over the 10-ounce model.

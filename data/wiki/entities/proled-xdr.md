@@ -1,11 +1,14 @@
 # PROLED XDR
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **iFixit teardown shows how Apple's glowing PROLED MacBook logo works** (2026-11-11)
+  - Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
 
 - **Our favorite gear to elevate your new MacBook Pro setup** (2026-11-09)
   - The new touchscreen MacBook Pro's 'must-have' list includes an external keyboard and trackpad, so many buyers will rarely be close enough to touch the screen.

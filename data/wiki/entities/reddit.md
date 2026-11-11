@@ -1,7 +1,7 @@
 # Reddit
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -9,9 +9,6 @@
 
 - **The Grindr 1 Percent Is Getting Its Own Gated Community** (2026-11-10)
   - Grindr's CEO complains about an affordability crisis while launching a $120-a-month velvet rope. The irony is the business model: monetize the top 1% of users.
-
-- **Reddit wants to guide your next purchase** (2026-11-10)
-  - Reddit is turning the thing people already do, adding 'reddit' to their searches, into a product. The hard part is staying trustworthy once shoppers and marketers move in.
 
 - **Reddit is turning user conversations into AI-powered product reviews** (2026-11-10)
   - Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.

@@ -1,111 +1,111 @@
 # Dev Tools
 
 
-*352 articles in the last 7 days*
+*379 articles in the last 7 days*
 
 
 ## Latest
 
 
-### What a 95% confidence interval actually tells you
+### Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+
+*TechCrunch | 2026-11-11*
+
+
+Plurai is betting that AI agents need what self-driving cars needed: a simulator full of edge cases. The analogy holds, which shows how far agents are from autonomy.
+
+
+### Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry
+
+*InfoQ | 2026-11-11*
+
+
+Dashboards let you guess, and traces let you explain. Gearset's talk is a strong case that async queues are where traditional monitoring fails without anyone noticing.
+
+
+### JioHotstar Benchmarks Knowledge Bases for AI Coding Agents
+
+*InfoQ | 2026-11-11*
+
+
+JioHotstar's benchmark is a reality check for the code-RAG hype: plain filesystem search held up well, and extra retrieval layers often just added cost.
+
+
+### How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026
+
+*InfoQ | 2026-11-11*
+
+
+QCon AI's lineup shows the industry has moved from 'can we ship an agent?' to 'who is accountable when it acts?', and identity is the unsolved problem.
+
+
+### GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls
+
+*InfoQ | 2026-11-11*
+
+
+GitHub's agentic workflows are GA with solid default guardrails, but the FAQ admits the safety depends on configuration, and that is where things will go wrong.
+
+
+### Article: The iOS Crash We Could Not Reproduce
+
+*InfoQ | 2026-11-11*
+
+
+A 'fixed' crash that only got rarer is not fixed, and this iOS post-mortem is a useful lesson in treating flaky bugs as experiments instead of guesses.
+
+
+### Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor
+
+*InfoQ | 2026-11-11*
+
+
+TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.
+
+
+### Protecting SSH Keys with macOS Secure Enclave
+
+*Hacker News | 2026-11-11*
+
+
+macOS can lock SSH keys in hardware natively, but the experience is so clunky that even a paranoid developer chose a third-party app instead.
+
+
+### Hyper-Realistic Sand with WebGL2
+
+*Hacker News | 2026-11-11*
+
+
+A browser sand toy that reacts to touch, tilt, and shake shows WebGL2 is good enough for tactile toys that once needed a native app.
+
+
+### Atuin Threads: All your agent sessions on every machine
+
+*Hacker News | 2026-11-11*
+
+
+Atuin's bet is right: AI agent session logs are the new shell history, and whoever indexes the 'why' behind your work owns your workflow.
+
+
+### A Grok vibe-coding agent leaked sensitive SpaceXSI data
+
+*Engadget | 2026-11-11*
+
+
+Grok Build's 'secret' share links leaked thousands of users' data, including the company's own, because it put the random part of the URL where DNS logs it.
+
+
+### Why Standing API Tokens Are Architectural Malpractice: The Case for Ephemeral Single-Action Authority in AI Agents
 
 *Dev.to | 2026-11-11*
 
 
-'95% sure the true value is in this range' is the most repeated stats sentence, and it's wrong. The 95% describes the method, not your interval.
+Giving an AI agent a permanent API key and a polite system prompt is not security. It just means the first prompt injection gets everything.
 
 
-### The 945ms Tax: 7 Hooks, 0 Confirmed Current
-
-*Dev.to | 2026-11-11*
-
-
-The scary number isn't the 945ms of hook overhead. It's zero: not one safety hook can be confirmed to enforce the current rule.
-
-
-### Stop Paying for AI to Think Out Loud
+### UnlockTool — A Native Windows Utility Built with C++ and Win32 API
 
 *Dev.to | 2026-11-11*
 
 
-Your AI bill is bloated by verbose answers, not your prompts, and output tokens are where the real money quietly leaks.
-
-
-### My code snippets were everywhere except where I needed them
-
-*Dev.to | 2026-11-11*
-
-
-The diagnosis is right: retrieval, not generation, is the bottleneck. But this is still a launch post for yet another AI snippet tool.
-
-
-### Electrical Architecture Fundamentals — Ch.10: Future Trends [KR]
-
-*Dev.to | 2026-11-11*
-
-
-Software-defined robots borrow the automotive playbook, but the real work is in the electrical wiring that keeps AI away from torque control.
-
-
-### Electrical Architecture Fundamentals — Ch.09: Functional Safety Overview [KR]
-
-*Dev.to | 2026-11-11*
-
-
-ISO 26262's key lesson is that reliable is not the same as safe, and robotics teams borrowing from automotive need to take that seriously.
-
-
-### Electrical Architecture Fundamentals — Ch.08: Redundancy Design [KR]
-
-*Dev.to | 2026-11-11*
-
-
-Two batteries do not make a redundant robot; a shared fuse, connector or ground path can still take down both sides at once.
-
-
-### Electrical Architecture Fundamentals — Ch.07: LV HV Architecture [KR]
-
-*Dev.to | 2026-11-11*
-
-
-This chapter on choosing between 12V, 24V, and 48V rails explains why robots and EVs keep moving to 48V: higher voltage means less current, thinner wiring, and smaller losses.
-
-
-### Decompiling ReadyToRun (R2R) Assemblies: Why Precompiled Native Code Still Decompiles Cleanly
-
-*Dev.to | 2026-11-11*
-
-
-If you count on ReadyToRun to hide your .NET code, it won't, because R2R assemblies still contain the full IL that decompilers read.
-
-
-### De una app de tareas a Azure: .NET 10, Cosmos DB, Terraform y GitHub Actions
-
-*Dev.to | 2026-11-11*
-
-
-A student to-do app turns into a solid lesson in cloud deployment because the team designed its database queries and automated its infrastructure with care.
-
-
-### Cómo convertir la foto de una firma en un sello PDF transparente con Python
-
-*Dev.to | 2026-11-11*
-
-
-This guide uses measurements to show why a fixed threshold fails to remove the background from signature photos, and why estimating local paper brightness works better.
-
-
-### Cara membiarkan Claude Code menaruh aplikasi kecil ke Room osFoundry setelah kamu menyetujuinya
-
-*Dev.to | 2026-11-11*
-
-
-osFoundry keeps AI agents from pushing code straight into a shared workspace by requiring a human to approve each change, which is how agent deployments should work.
-
-
-### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
-
-*Tom's Hardware | 2026-11-10*
-
-
-AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
+UnlockTool is a solid learning project in native Win32, but it bundles process killing, user management and registry repair, which calls for more trust than a hobby project has earned.

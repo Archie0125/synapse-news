@@ -1,14 +1,11 @@
 # TechCrunch
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **X launches its own clipping feature to spur influencer engagement** (2026-11-11)
-  - X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
 
 - **Spotify’s AI DJ adds nine voices and a setting to reduce interruptions** (2026-11-10)
   - Spotify's most telling AI DJ upgrade isn't nine new voices; it's the setting that lets the DJ talk less, an admission that AI chatter has limits.

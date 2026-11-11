@@ -1,17 +1,17 @@
 # OpenAI
 
 
-*Mentioned in 42 articles*
+*Mentioned in 41 articles*
 
 
 ## Recent Mentions
 
 
-- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
-  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+- **Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting** (2026-11-11)
+  - SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
 
-- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
-  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+- **OpenAI’s quarterly revenue reportedly crosses $10B for the first time** (2026-11-11)
+  - OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
 
 - **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
   - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.

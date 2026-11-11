@@ -1,11 +1,20 @@
 # Samsung
 
 
-*Mentioned in 34 articles*
+*Mentioned in 37 articles*
 
 
 ## Recent Mentions
 
+
+- **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
+  - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
+
+- **I asked every TV manufacturer 17 questions about how they spy on you** (2026-11-11)
+  - Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.
+
+- **Samsung Gallery now syncs with Google to back up your photos** (2026-11-11)
+  - Samsung dropped Microsoft for Google in photo backup, and the winner is Google's cloud storage business, not Samsung's Gallery app.
 
 - **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
   - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.
@@ -42,12 +51,3 @@
 
 - **Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year** (2026-11-09)
   - The S27 Pro isn't really a new choice for buyers. It's a way to move people who would have bought the regular S27 up to a higher price.
-
-- **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
-  - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.
-
-- **Should you make the switch to Google Pixel from Samsung Galaxy?** (2026-11-08)
-  - The Pixel 11 won't outsell Samsung, but with less bloatware and faster updates it has the more convincing pitch.
-
-- **Samsung One UI removed the all apps button, but you can easily get it back** (2026-11-08)
-  - Samsung hid the Apps button to push gesture navigation, but keeping it as an option shows it knows habit beats design.

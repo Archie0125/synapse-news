@@ -7,6 +7,12 @@
 ## Recent Mentions
 
 
+- **Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company** (2026-11-11)
+  - Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.
+
+- **Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.** (2026-11-11)
+  - Higgsfield's jump from $1B to $1.35B in run rate in one month is remarkable, but every figure comes from the company or its own investor.
+
 - **AI Startups May Have Fewer Sales Reps. But Not as a Percent of the Team. Has The Playbook Really Changed All That Much?** (2026-11-10)
   - The claim that AI killed the sales team falls apart once you look at percentages, because AI cut support headcount, not sales headcount.
 
@@ -33,9 +39,3 @@
 
 - **We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.** (2026-11-05)
   - The real story isn't which email vendor won. It's that an AI agent made rigorous vendor testing cheap enough that gut-feel procurement now looks negligent.
-
-- **The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic’s Dollar Growth.** (2026-11-04)
-  - The AI boom isn't over, but its whales just stopped growing, and since they drive 80% of frontier lab spend, Anthropic's slowdown is the first visible sign.
-
-- **AI Spend Hit $177 Billion This Year. Only 22% of It Came Out of Software Budgets.  The 4th Annual State of Enterprise AI Report from Menlo Ventures,** (2026-11-04)
-  - AI spending is exploding, but AI-native startups fighting for software budgets are chasing the smallest pool, and incumbents are winning most of it.

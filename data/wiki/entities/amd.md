@@ -1,11 +1,17 @@
 # AMD
 
 
-*Mentioned in 11 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT** (2026-11-11)
+  - AMD's MEXT turns the DRAM shortage into a software problem, but 95 percent performance claims need independent benchmarks before data centers rely on them.
+
+- **Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X** (2026-11-11)
+  - Auto SR is Microsoft's answer to DLSS on handhelds, but the fact that it works best in docked mode says the handheld chips are still hitting their limits.
 
 - **AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking** (2026-11-10)
   - Zen 6 isn't a revolution. It's AMD pushing every dial to the maximum, and the 93% generational jump in server throughput shows that approach works.

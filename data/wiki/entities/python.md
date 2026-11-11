@@ -1,11 +1,14 @@
 # Python
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Python Pioneer and Timsort Creator Tim Peters Passes Away at 74** (2026-11-11)
+  - Tim Peters' reported death at 74 is a reminder that some of the most important engineering is invisible: Timsort and the Zen of Python affect far more code than flashier work.
 
 - **Cómo convertir la foto de una firma en un sello PDF transparente con Python** (2026-11-11)
   - This guide uses measurements to show why a fixed threshold fails to remove the background from signature photos, and why estimating local paper brightness works better.

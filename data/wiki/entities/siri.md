@@ -1,11 +1,17 @@
 # Siri
 
 
-*Mentioned in 9 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **watchOS 27.3: Three new features coming soon to Apple Watch** (2026-11-11)
+  - watchOS 27.3 makes Siri more capable on the wrist, but Live Rewind looks like an answer to a problem most people solve by asking 'sorry, what?'
+
+- **Google Gemini coming to CarPlay** (2026-11-11)
+  - Gemini finally reaches CarPlay as the last major holdout. In-car AI is now table stakes, and Apple's dashboard has become neutral ground for every chatbot.
 
 - **Apple starts offering $50 extended usage packs for AI features in Creator Studio** (2026-11-09)
   - Apple's $50 AI usage packs show that generative AI isn't really unlimited in a subscription, and creative professionals are paying more for it first.

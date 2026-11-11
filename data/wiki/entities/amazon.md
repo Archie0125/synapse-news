@@ -1,11 +1,41 @@
 # Amazon
 
 
-*Mentioned in 44 articles*
+*Mentioned in 53 articles*
 
 
 ## Recent Mentions
 
+
+- **Early Black Friday Deals Under $100 (2026)** (2026-11-11)
+  - When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
+
+- **Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32** (2026-11-11)
+  - A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
+
+- **Sharge’s eye-catching MacBook charger is over 25 percent off** (2026-11-11)
+  - Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.
+
+- **I asked every TV manufacturer 17 questions about how they spy on you** (2026-11-11)
+  - Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.
+
+- **Roku will stop selling smart home devices and refocus on streaming** (2026-11-11)
+  - Days after Fox closed its $22 billion takeover, Roku's smart home line is gone. The new owner wants an ad-and-streaming machine, not a doorbell business.
+
+- **Reddit Reviews goes against the whole philosophy of the platform, say users** (2026-11-11)
+  - Reddit is turning its most trusted asset, raw human opinion, into AI summaries, which gives spammers a single summary to game instead of whole threads.
+
+- **Early Black Friday deals now live on official Apple Magic accessories, AirTag 2, Pencil, more** (2026-11-11)
+  - Amazon's early Black Friday Apple deals mostly match old lows; the $17.50 AirTag is the real impulse buy, and the rest is routine discounting.
+
+- **Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more** (2026-11-11)
+  - AirTag 2 at $17.50 on the same week Pixel Tag launches at $30 is no coincidence. Apple's ecosystem is fighting back on price before the holidays.
+
+- **Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price** (2026-11-11)
+  - Motorola MA2 is a better adapter than its predecessor, but launching at $69.99 after promising about $40 turns a cheap fix into a hard sell.
+
+- **Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook  from $680, Lenovo Yoga Mini $460 off, more** (2026-11-11)
+  - Black Friday started in mid-November, and Google's own new hardware, from the Pixel Tag to Googlebooks, is already on discount. Launch prices are basically a suggestion now.
 
 - **Ring’s Indoor Drone Camera Is Back—and Now Powered by AI** (2026-11-10)
   - Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
@@ -21,33 +51,3 @@
 
 - **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
   - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
-
-- **X-energy gets green light to build its first small modular nuclear reactors** (2026-11-10)
-  - X-energy's NRC permit is a real milestone for small reactors, but approving construction while deferring safety questions turns speed into a liability.
-
-- **All 7 Anthropic founders will each cash out about $250M in IPO** (2026-11-10)
-  - Each Anthropic co-founder cashing out roughly $250M is the headline, but the real story is supervoting Class F shares keeping a 'safety-first' lab firmly founder-controlled.
-
-- **Amazon saves millions by replacing Sonnet 4.6 with Strands Decider** (2026-11-10)
-  - Amazon swapped a frontier LLM for a small decision model on ticket labeling and cut costs 98%. Many 'agent' workloads are really just classification problems in disguise.
-
-- **Satechi expands lineup of color-matched accessories for MacBook Neo** (2026-11-10)
-  - Satechi's new Neo-colored accessories show that matching colors now sells peripherals better than specs do, and the $30 charger is the only must-buy.
-
-- **Ring’s wheeled and flying robots will patrol your home** (2026-11-10)
-  - Ring's autonomous drone and rover make home security mobile and AI-driven, and they also put cameras that roam your home and map it to the cloud. That should make you pause.
-
-- **Deals: M5 MacBook Air up to $300 off, M6 Mac mini, AirPods Pro 3, HomeView, Magic Trackpad, more** (2026-11-10)
-  - Black Friday came early, and the real story is how fast M6 Mac minis are being discounted. That's a hint about Apple's sales pressure, not just a bargain.
-
-- **Today’s Android app deals and freebies: Undead Slayer, Level Come Again, Children of Morta, more** (2026-11-10)
-  - Amazon's early Black Friday sale is the real headline here, and the Play Store indie discounts are just the appetizer before holiday spending.
-
-- **The Sideload 051: Would you let Ring fly around your house?** (2026-11-10)
-  - Ring's Drone Cam forces an awkward question: is an indoor flying camera from Amazon a security upgrade or a surveillance product?
-
-- **Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more** (2026-11-10)
-  - Black Friday arrived in early November, and the big discounts on brand-new devices like Dell's XPS Googlebook show how quickly retailers are clearing inventory.
-
-- **Amazon’s new Ring cameras are mounted to roving robots, including $250 Drone Cam** (2026-11-10)
-  - Ring finally ships the indoor drone it teased in 2020, and the $250 price makes flying home surveillance look like a mainstream product instead of a gimmick.

@@ -1,11 +1,17 @@
 # Elon Musk
 
 
-*Mentioned in 13 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
 
+
+- **SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims** (2026-11-11)
+  - SpaceX's custom Kessel rack keeps Nvidia's GPUs but takes over the rest of the supply chain, which is the first real crack in Nvidia's full-stack lock-in.
+
+- **Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting** (2026-11-11)
+  - SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
 
 - **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
   - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.

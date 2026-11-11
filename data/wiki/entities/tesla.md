@@ -1,11 +1,14 @@
 # Tesla
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Lucid CEO says the company didn't know where its own cars were** (2026-11-11)
+  - Lucid losing track of its own cars while making under 3,000 a quarter isn't a scaling problem. It's a basic operations failure presented as a growing pain.
 
 - **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
   - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.

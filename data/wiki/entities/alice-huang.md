@@ -1,14 +1,17 @@
 # Alice Huang
 
 
-*Mentioned in 15 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
 
-- **President Trump says the FBI is investigating Jensen Huang’s affair** (2026-11-10)
-  - Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
+- **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
+  - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
+
+- **Nvidia’s crisis has corporate governance experts reaching for the popcorn** (2026-11-11)
+  - Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
 
 - **Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang** (2026-11-10)
   - If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
@@ -48,6 +51,3 @@
 
 - **Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot** (2026-11-07)
   - Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China problem has grown beyond trade policy into national security.
-
-- **China reportedly recruited AI exec to spy on Jensen Huang** (2026-11-06)
-  - If the report holds up, China didn't need to hack Nvidia. It allegedly just needed someone close to its CEO, the oldest and cheapest attack vector.

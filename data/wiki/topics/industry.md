@@ -1,127 +1,135 @@
 # Industry
 
 
-*389 articles in the last 7 days*
+*425 articles in the last 7 days*
 
 
 ## Latest
 
 
-### X launches its own clipping feature to spur influencer engagement
+### The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini
 
-*TechCrunch | 2026-11-11*
+*Wired | 2026-11-11*
 
 
-X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
+The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
 
 
-### End of an era: Apple Support Community forums will permanently close on November 20
+### The AO3 Shutdown Is Pitting Fanfic Readers Against Authors
 
-*9to5Mac | 2026-11-11*
+*Wired | 2026-11-11*
 
 
-Apple is closing a 28-year-old peer-help forum, which removes one of the few places where Apple product bugs were discussed publicly.
+AO3's outage shows that a community archive becomes a single point of failure, and fans' rescue drives are breaking the consent norms that held the community together.
 
 
-### The Grindr 1 Percent Is Getting Its Own Gated Community
+### The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Grindr's CEO complains about an affordability crisis while launching a $120-a-month velvet rope. The irony is the business model: monetize the top 1% of users.
+Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
 
 
-### The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are
+### Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+When 81% of voters say no and utilities answer with a lawsuit, it shows how much is riding on the data-center buildout and who expects ratepayers to fund it.
 
 
-### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
+### LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
 
 
-### Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information
+### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
+Phone cameras still throw away most of their light through a 1974-era filter, and Metalenz's HoloCoder bet is that physics, not more AI, fixes that.
 
 
-### Rocco’s Mini Mini Fridge Is Here (2026)
+### Early Black Friday Deals Under $100 (2026)
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Rocco shrinks its $2,000 retro fridge into a desktop Mini Mini, and its claim of hitting 41°F is the one spec worth checking.
+When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
 
 
-### Ring’s Indoor Drone Camera Is Back—and Now Powered by AI
+### Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
+The EU's Digital Fairness Act goes after the growth hacks behind modern apps, from streaks to surge pricing. Engagement-driven business models in Europe now have a clock on them.
 
 
-### Louis Rossmann Wants More People to Care About the Right to Repair
+### China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
+The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
 
 
-### Kitchen Gear From Our Place Is Steeply Discounted
+### Best OLED TVs of 2026: LG, Samsung, Sony, and More
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Our Place's 15–30% sale plus $60 off makes its pricey, Instagram-friendly cookware look like a fair deal, especially the Always Pan.
+OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
 
 
-### Huupe Mini 2 Review: More Game Than It Can Handle
+### Best Indoor Garden Systems I’ve Been Testing for Years (2026)
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.
+Indoor smart gardens actually work after two years of testing, but the $899 Gardyn with a subscription makes it the most expensive lettuce you'll ever eat.
 
 
-### Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
+### Best Air Purifiers (2026): Tested Picks for Every Room
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
+WIRED's air purifier guide is useful because it tests with real smoke, and its top budget pick costs $270, so clean air still isn't cheap.
 
 
-### Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)
+### A Startup Wants to Fight AI Bioweapons With AI
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Wired's gift guide gets one thing right: you can't out-research a gearhead, so buy them the small, useful surprise they'd never buy for themselves.
+Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
 
 
-### Best Early Amazon Black Friday Deals (2026)
+### A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.
+Reversing a cell's epigenetic clock by 60 years is a striking lab result, but nobody yet knows why it works, and that matters more than the number.
 
 
-### 4DX Movies Are Entering Their Thirsty Romance Era
+### A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks
 
-*Wired | 2026-11-10*
+*Wired | 2026-11-11*
 
 
-Regal is selling a shared theater experience for a show fans can already stream, and the $1.4 million in ticket sales shows fandoms will pay for it.
+This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
+
+
+### Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts
+
+*Tom's Hardware | 2026-11-11*
+
+
+The AI boom now has a battlefield cost: data centers are outbidding Ukraine for the fiber its jam-proof drones depend on.

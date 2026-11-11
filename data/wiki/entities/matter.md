@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI** (2026-11-10)
-  - Sundrop's boldest feature isn't time-lapses, it's refusing generative AI and the cloud, betting that parents value privacy over magic.
+- **HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet** (2026-11-11)
+  - SwitchBot fixed the most tedious part of smart curtains, recharging them, with a detachable battery. This kind of small usability fix is what gets smart home gear adopted.
 
 - **Hunter is killing Google Home, Alexa controls for its smart ceiling fans** (2026-11-09)
   - Hunter's move to Matter sounds like progress, but owners of older fans pay for it: their voice control simply stops working.

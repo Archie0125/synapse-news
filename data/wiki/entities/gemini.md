@@ -1,11 +1,29 @@
 # Gemini
 
 
-*Mentioned in 13 articles*
+*Mentioned in 19 articles*
 
 
 ## Recent Mentions
 
+
+- **A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks** (2026-11-11)
+  - This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
+
+- **Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h** (2026-11-11)
+  - 48 AI agents 'discovered' a Maya pyramid in 72 hours, except it was already published, which shows agents are fast at finding things and weak at checking them.
+
+- **Nod From n8n Labs: Great Demo, 14 Minute Wait on Day One** (2026-11-11)
+  - n8n Labs' Nod is a real browser agent with a solid local design, but a first question that took 14 minutes to answer shows it's still a demo, not a tool you can rely on.
+
+- **Google Gemini coming to CarPlay** (2026-11-11)
+  - Gemini finally reaches CarPlay as the last major holdout. In-car AI is now table stakes, and Apple's dashboard has become neutral ground for every chatbot.
+
+- **Google rolling out Gemini app for CarPlay** (2026-11-11)
+  - Gemini on CarPlay puts Google's AI on Apple's dashboard while Siri is still catching up. iPhone drivers now have a better assistant than the one Apple ships.
+
+- **Android Auto is getting a Gemini upgrade, but only if you use a Pixel** (2026-11-11)
+  - Google's smartest Android Auto feature is locked to Pixel 10 and 11, a reminder that Gemini is now a phone-sales weapon, not just a platform feature.
 
 - **Google is making Pixel HiLight slightly more useful** (2026-11-10)
   - Google is still searching for a reason HiLight exists, while the actually useful stuff in this Pixel Drop is Gemini quietly spreading to older phones.
@@ -33,15 +51,3 @@
 
 - **Google Gemini routes personal Drive files and emails to human annotators** (2026-11-09)
   - Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.
-
-- **Google Gemini rolling out ‘Memory summary’ with everything it remembers about you** (2026-11-09)
-  - Gemini's Memory summary is a genuine transparency win, but seeing your life neatly categorized by an AI is also a reminder of how much it already knows.
-
-- **5 unexpected uses for your old smartwatch** (2026-11-08)
-  - Turning an old smartwatch into an AI voice remote is a clever reuse, but it's also a reminder that short software support is what fills those drawers.
-
-- **Google Expands UCP Direct Checkout to AI Mode and Gemini in Canada** (2026-11-08)
-  - Google bringing checkout inside Gemini in Canada is a quiet power grab: retailers stay seller of record, but Google owns the moment the purchase decision happens.
-
-- **Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini** (2026-11-07)
-  - Google Messages' redesign makes search easier to reach with one hand, but the iMessage-style pinned avatars give up useful preview text for looks.

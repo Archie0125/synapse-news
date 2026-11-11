@@ -1,11 +1,17 @@
 # LG
 
 
-*Mentioned in 3 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
+  - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
+
+- **I asked every TV manufacturer 17 questions about how they spy on you** (2026-11-11)
+  - Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.
 
 - **The Home Depot Best Early Black Friday Deals (2026)** (2026-11-09)
   - Black Friday now starts before Halloween decorations come down, and Home Depot's early smart-appliance deals show retailers racing to lock in spending.

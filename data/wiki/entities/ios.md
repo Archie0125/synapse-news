@@ -1,11 +1,17 @@
 # iOS
 
 
-*Mentioned in 3 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Article: The iOS Crash We Could Not Reproduce** (2026-11-11)
+  - A 'fixed' crash that only got rarer is not fixed, and this iOS post-mortem is a useful lesson in treating flaky bugs as experiments instead of guesses.
+
+- **WhatsApp may soon replace the Communities tab on iOS** (2026-11-11)
+  - WhatsApp swapping Communities for a Contacts tab with online status quietly admits that people want to see who's online now more than they want group features.
 
 - **Apple releases iOS 26.7.3, watchOS 27.2.1, and more** (2026-11-09)
   - Apple patching iOS versions going back to 18 is quiet, unglamorous support that most rivals still don't match.

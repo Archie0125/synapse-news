@@ -1,11 +1,14 @@
 # Claude Code
 
 
-*Mentioned in 17 articles*
+*Mentioned in 18 articles*
 
 
 ## Recent Mentions
 
+
+- **Atuin Threads: All your agent sessions on every machine** (2026-11-11)
+  - Atuin's bet is right: AI agent session logs are the new shell history, and whoever indexes the 'why' behind your work owns your workflow.
 
 - **Cara membiarkan Claude Code menaruh aplikasi kecil ke Room osFoundry setelah kamu menyetujuinya** (2026-11-11)
   - osFoundry keeps AI agents from pushing code straight into a shared workspace by requiring a human to approve each change, which is how agent deployments should work.
@@ -48,6 +51,3 @@
 
 - **GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform** (2026-11-06)
   - GitLab 19.5 accepts that developers will use Claude Code and Cursor anyway and moves to become the control tower that governs them.
-
-- **Summer Engine vs Ziva vs Flockbay: which Godot AI tool to pick in 2026** (2026-11-06)
-  - A Godot AI tool comparison written by one of the vendors is still useful, mostly because it shows how much competitors' claims about each other contradict the rivals' own docs.

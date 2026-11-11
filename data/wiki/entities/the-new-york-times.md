@@ -1,11 +1,14 @@
 # The New York Times
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
+  - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
 
 - **NVIDIA shareholders are suing the company and CEO Jensen Huang** (2026-11-10)
   - NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.

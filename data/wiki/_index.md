@@ -15,11 +15,11 @@
 
 - [The Frontier Price War Is a Decoy. The Real Fight Is Over Who Gets Fired.](analysis/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-en.md)
 
+- [黃仁勳美人計風暴：間諜要的不是機密，是 75 億美元的 GPU 配額](analysis/2026-11-11-jensen-huang-s-honeypot-wasn-t-about-secrets-it-was-about-al-zh.md)
+
+- [Jensen Huang's Honeypot Wasn't About Secrets. It Was About Allocation](analysis/2026-11-11-jensen-huang-s-honeypot-wasn-t-about-secrets-it-was-about-al-en.md)
+
 - [黃仁勳的外遇只是引信，75億美元的晶片管道才是炸彈](analysis/2026-11-11-jensen-huang-s-affair-isn-t-the-scandal-the-7-5b-chip-pipeli-zh.md)
-
-- [Jensen Huang's Affair Isn't the Scandal. The $7.5B Chip Pipeline Is.](analysis/2026-11-11-jensen-huang-s-affair-isn-t-the-scandal-the-7-5b-chip-pipeli-en.md)
-
-- [人人都說歡迎 AI 代理，前提是那個代理是自家的](analysis/2026-11-11-every-platform-wants-ai-agents-as-long-as-they-re-its-own-ag-zh.md)
 
 
 ## Topics
@@ -47,6 +47,8 @@
 
 - [10K](entities/10k.md)
 
+- [1Password](entities/1password.md)
+
 - [9To5Google](entities/9to5google.md)
 
 - [9To5Mac](entities/9to5mac.md)
@@ -60,6 +62,10 @@
 - [Airpods Pro 3](entities/airpods-pro-3.md)
 
 - [Airpods](entities/airpods.md)
+
+- [Airtag 2](entities/airtag-2.md)
+
+- [Airtag](entities/airtag.md)
 
 - [Alexa](entities/alexa.md)
 
@@ -78,9 +84,3 @@
 - [Amd](entities/amd.md)
 
 - [Android 17](entities/android-17.md)
-
-- [Android Xr](entities/android-xr.md)
-
-- [Android](entities/android.md)
-
-- [Anker](entities/anker.md)

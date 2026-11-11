@@ -1,11 +1,29 @@
 # Apple
 
 
-*Mentioned in 115 articles*
+*Mentioned in 128 articles*
 
 
 ## Recent Mentions
 
+
+- **The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini** (2026-11-11)
+  - The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
+
+- **The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)** (2026-11-11)
+  - Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
+
+- **Sharge’s eye-catching MacBook charger is over 25 percent off** (2026-11-11)
+  - Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.
+
+- **Article: The iOS Crash We Could Not Reproduce** (2026-11-11)
+  - A 'fixed' crash that only got rarer is not fixed, and this iOS post-mortem is a useful lesson in treating flaky bugs as experiments instead of guesses.
+
+- **Protecting SSH Keys with macOS Secure Enclave** (2026-11-11)
+  - macOS can lock SSH keys in hardware natively, but the experience is so clunky that even a paranoid developer chose a third-party app instead.
+
+- **Apple is killing its Support Community forum next week** (2026-11-11)
+  - Apple is shutting a 28-year-old forum with ten days' notice and no archive plan, deleting knowledge its own support site never had.
 
 - **iFixit teardown shows how Apple's glowing PROLED MacBook logo works** (2026-11-11)
   - Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
@@ -13,41 +31,23 @@
 - **How to get this Siri camera upgrade for your iPad before its public release** (2026-11-11)
   - Apple Pencil circling in Siri Mode is a clear catch-up to Circle to Search, but on iPad it may be the most natural version yet.
 
+- **Apple is shutting down its online Support Community on November 20** (2026-11-11)
+  - Apple is shutting its 28-year-old Support Community and sending users to Reddit and social media, giving up one of the web's most useful troubleshooting archives without a fight.
+
+- **watchOS 27.3: Three new features coming soon to Apple Watch** (2026-11-11)
+  - watchOS 27.3 makes Siri more capable on the wrist, but Live Rewind looks like an answer to a problem most people solve by asking 'sorry, what?'
+
+- **This video lets you actually see the ‘incredible’ new MacBook Pro cooling system** (2026-11-11)
+  - A fog machine did what Apple's adjectives couldn't: it showed the new MacBook Pro's cooling redesign is real.
+
+- **iOS 27.3 adds new setting to bypass website cookie popups (eventually)** (2026-11-11)
+  - Safari's new Global Privacy Control setting could kill cookie banners, but only after websites support it and more laws enforce it, and neither is happening fast.
+
+- **If you bought an iPhone Duo, have you kept or returned it? [Poll]** (2026-11-11)
+  - The iPhone Duo's return wave suggests a great demo and something you want to use every day are two different things.
+
+- **I feel a little nostalgic about the Apple Support Community forums, but it was time** (2026-11-11)
+  - Apple shutting its 28-year-old support forums looks like cost-cutting, but it also hands the job of troubleshooting Apple products to Reddit.
+
 - **End of an era: Apple Support Community forums will permanently close on November 20** (2026-11-11)
   - Apple is closing a 28-year-old peer-help forum, which removes one of the few places where Apple product bugs were discussed publicly.
-
-- **Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro** (2026-11-11)
-  - Labrinth's overnight song is a well-made ad, but it is still the best argument yet that a touchscreen Mac can be useful for music production.
-
-- **9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors** (2026-11-11)
-  - The real headline in this roundup is Apple's $50 'intelligence usage packs,' a sign that Apple is starting to meter its AI features.
-
-- **Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers** (2026-11-10)
-  - Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
-
-- **Louis Rossmann Wants More People to Care About the Right to Repair** (2026-11-10)
-  - Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
-
-- **Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark** (2026-11-10)
-  - A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.
-
-- **Google’s Pixel Tag tracker is now available** (2026-11-10)
-  - Google finally ships its own AirTag rival at AirTag prices, and the hardware is solid, but whether it succeeds depends on whether the Find Hub network can actually match Apple's.
-
-- **Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available** (2026-11-10)
-  - Pixel Tag is a solid AirTag clone that arrives years late; its real value is giving Android's Find Hub network a first-party device to rally around.
-
-- **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
-  - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.
-
-- **These Xiaomi phones are no longer getting support with the latest HyperOS 4 update** (2026-11-10)
-  - HyperOS 4 brings Xiaomi a glossy Liquid Glass-style look, but the real story is the cutoff: Xiaomi's update promises still lag far behind Google and Samsung's seven-year standard.
-
-- **Every senior with an Apple Watch should set up these 5 health alerts** (2026-11-10)
-  - The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.
-
-- **Don't throw away your old phone box — you might need it in an emergency** (2026-11-10)
-  - Your phone box is mostly a paper backup of your IMEI and a bit of resale value, and a photo of the label gets you nearly all of that.
-
-- **Apple brings Sign Language interpretation to a selection of original Apple TV titles** (2026-11-10)
-  - Apple's sign language overlays, crafted by Deaf signers, are the right way to do accessibility, but a handful of titles is a showcase, not a standard yet.

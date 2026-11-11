@@ -1,11 +1,20 @@
 # GitHub
 
 
-*Mentioned in 21 articles*
+*Mentioned in 24 articles*
 
 
 ## Recent Mentions
 
+
+- **GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls** (2026-11-11)
+  - GitHub's agentic workflows are GA with solid default guardrails, but the FAQ admits the safety depends on configuration, and that is where things will go wrong.
+
+- **Why Standing API Tokens Are Architectural Malpractice: The Case for Ephemeral Single-Action Authority in AI Agents** (2026-11-11)
+  - Giving an AI agent a permanent API key and a polite system prompt is not security. It just means the first prompt injection gets everything.
+
+- **Found a cool repo on GitHub? Swap "hub" for "manual" and get it running** (2026-11-11)
+  - Gitmanual's URL-swap trick is clever growth design, and its real bet is building manuals from rules instead of AI, so they don't make things up.
 
 - **Git security vulnerabilities announced** (2026-11-10)
   - Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
@@ -42,12 +51,3 @@
 
 - **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
   - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
-
-- **GitHub New pull request overview page in public preview** (2026-11-07)
-  - GitHub's new PR overview admits the real bottleneck is now reviewing code, not writing it, but a better merge box won't fix review overload.
-
-- **One month of launching a solo open-source desktop agent: the real numbers** (2026-11-07)
-  - OpenPilot's honest one-month numbers show what launch day hides: stars stall after week one, and only tutorials and actually answering users keep the momentum.
-
-- **💡 Building Aftermath | A Journey of Learning and Collaboration** (2026-11-07)
-  - A project diary that talks about learning and pride but never says what Aftermath does, which makes it hard for anyone to care.

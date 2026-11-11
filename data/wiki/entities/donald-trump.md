@@ -1,14 +1,17 @@
 # Donald Trump
 
 
-*Mentioned in 10 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
 
-- **President Trump says the FBI is investigating Jensen Huang’s affair** (2026-11-10)
-  - Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
+- **Toyota’s Scion is back, starting with an American-made, 25-mph kei truck** (2026-11-11)
+  - Toyota reviving Scion for an Indiana-built, 25-mph kei truck is a low-risk way to test whether America finally wants small vehicles.
+
+- **What to know about this year’s UN climate talks** (2026-11-11)
+  - COP31 opens with the 1.5°C goal close to dead, the US absent, and an energy-price shock. Expect a fight over money, not over ambition.
 
 - **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
   - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.

@@ -1,17 +1,20 @@
 # Microsoft
 
 
-*Mentioned in 24 articles*
+*Mentioned in 25 articles*
 
 
 ## Recent Mentions
 
 
-- **Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode** (2026-11-11)
-  - Auto SR going handheld turns Microsoft's upscaler from a docked demo into a real battery-life play, but Microsoft itself admits 1080p handheld performance may disappoint.
+- **Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor** (2026-11-11)
+  - TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.
 
-- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
-  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+- **Samsung Gallery now syncs with Google to back up your photos** (2026-11-11)
+  - Samsung dropped Microsoft for Google in photo backup, and the winner is Google's cloud storage business, not Samsung's Gallery app.
+
+- **Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X** (2026-11-11)
+  - Auto SR is Microsoft's answer to DLSS on handhelds, but the fact that it works best in docked mode says the handheld chips are still hitting their limits.
 
 - **Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports** (2026-11-10)
   - Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
@@ -48,6 +51,3 @@
 
 - **Open-source GPU task manager reveals exactly what's eating your VRAM** (2026-11-08)
   - A Microsoft VP had to build his own tool to see where his VRAM goes, which shows how little visibility existing system tools give users into local AI workloads.
-
-- **Hundreds arrested after Microsoft data center protest turns violent** (2026-11-08)
-  - Amsterdam's mass arrests show the AI data center backlash has moved from planning hearings to physical confrontation, and Big Tech can't treat it as only a PR problem.

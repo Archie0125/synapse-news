@@ -1,7 +1,7 @@
 # Rust
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **Discord is about to get way, way faster on your Android phone** (2026-11-06)
   - Discord's Rust rewrite quietly admits years of bloat, and cutting launch time from five seconds to under two shows how much performance users had been giving up.
-
-- **Clj.rs – a Clojure dialect implemented in Rust** (2026-11-04)
-  - Clj.rs pitches itself as an agentic coding runtime, which is the interesting part: Lisp's code-as-data idea suits AI agents, but a hobby-stage project still has to show it works.

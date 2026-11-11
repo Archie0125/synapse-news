@@ -7,11 +7,11 @@
 ## Recent Mentions
 
 
+- **Adobe’s AI experiments let you walk around in photos and interview your characters** (2026-11-11)
+  - Adobe's Max sneaks are the most interesting thing it has shown on AI, mainly because they go after the real problem with AI video: lack of creative control.
+
 - **Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly** (2026-11-10)
   - Adobe's most strategic MAX move is not another Photoshop slider. It's an MCP server that lets ChatGPT and Claude become the front door to Adobe.
-
-- **We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.** (2026-11-10)
-  - Adobe gets distribution inside Gmail and Drive, and Google gets its models inside Photoshop. The partnership is really a hedge against Microsoft and OpenAI.
 
 - **Adobe and Google have teamed up to connect Drive, Gmail and Acrobat** (2026-11-10)
   - Adobe embedding Acrobat inside Gemini is less a partnership than a survival move: if AI chat becomes the interface, PDF tools have to live inside it.

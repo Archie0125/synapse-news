@@ -1,11 +1,14 @@
 # Bloomberg
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **OpenAI’s quarterly revenue reportedly crosses $10B for the first time** (2026-11-11)
+  - OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
 
 - **Oura is acquiring medical AI chatbot startup Counsel Health** (2026-11-10)
   - Oura's $625 million Counsel Health deal shows it wants to be a healthcare company, but a 50-doctor network is a thin base for that ambition.

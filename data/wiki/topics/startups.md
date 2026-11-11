@@ -1,26 +1,98 @@
 # Startups
 
 
-*149 articles in the last 7 days*
+*154 articles in the last 7 days*
 
 
 ## Latest
 
 
-### X launches its own clipping feature to spur influencer engagement
+### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
+
+*Wired | 2026-11-11*
+
+
+Phone cameras still throw away most of their light through a 1974-era filter, and Metalenz's HoloCoder bet is that physics, not more AI, fixes that.
+
+
+### A Startup Wants to Fight AI Bioweapons With AI
+
+*Wired | 2026-11-11*
+
+
+Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
+
+
+### Siri co-founder backs Helix for its voice ID tech
 
 *TechCrunch | 2026-11-11*
 
 
-X's new clipping tool is a basic video trimmer, but it signals X wants to own the clipping economy that outside firms currently profit from.
+Helix wants to prove you're human with your voice at a time when AI voice cloning is everywhere. It's a bold bet, and the burden of proof is high.
 
 
-### Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers
+### Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
 
-*Wired | 2026-11-10*
+*TechCrunch | 2026-11-11*
 
 
-Abliteration AI's uncensored models expose an awkward truth: many users who strip AI guardrails aren't criminals but developers fed up with overcautious refusals.
+Plurai is betting that AI agents need what self-driving cars needed: a simulator full of edge cases. The analogy holds, which shows how far agents are from autonomy.
+
+
+### OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+
+*TechCrunch | 2026-11-11*
+
+
+OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
+
+
+### Nvidia’s crisis has corporate governance experts reaching for the popcorn
+
+*TechCrunch | 2026-11-11*
+
+
+Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
+
+
+### Is Jensen Huang’s bad behavior more commonplace than it seems?
+
+*TechCrunch | 2026-11-11*
+
+
+The Nvidia honeypot story is probably not a one-off. In the chip industry, an executive's personal conduct has become a national security risk.
+
+
+### Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+
+*TechCrunch | 2026-11-11*
+
+
+Databricks' strongest pitch for Genie isn't automation. It's a CEO admitting he needs an AI to tell him the bad news his 12,000 employees won't.
+
+
+### Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company
+
+*SaaStr | 2026-11-11*
+
+
+Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.
+
+
+### Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.
+
+*SaaStr | 2026-11-11*
+
+
+Higgsfield's jump from $1B to $1.35B in run rate in one month is remarkable, but every figure comes from the company or its own investor.
+
+
+### Lucid CEO says the company didn't know where its own cars were
+
+*Engadget | 2026-11-11*
+
+
+Lucid losing track of its own cars while making under 3,000 a quarter isn't a scaling problem. It's a basic operations failure presented as a growing pain.
 
 
 ### Oura is acquiring medical AI chatbot startup Counsel Health
@@ -29,22 +101,6 @@ Abliteration AI's uncensored models expose an awkward truth: many users who stri
 
 
 Oura's $625 million Counsel Health deal shows it wants to be a healthcare company, but a 50-doctor network is a thin base for that ambition.
-
-
-### X-energy gets green light to build its first small modular nuclear reactors
-
-*TechCrunch | 2026-11-10*
-
-
-X-energy's NRC permit is a real milestone for small reactors, but approving construction while deferring safety questions turns speed into a liability.
-
-
-### Reddit is turning user conversations into AI-powered product reviews
-
-*TechCrunch | 2026-11-10*
-
-
-Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.
 
 
 ### PSI is trying to make a business out of AI-driven scientific discovery
@@ -69,67 +125,3 @@ Proximal's smart bet isn't AI discovering drugs; it's AI eating pharma's huge ou
 
 
 Pixel Tag is a solid AirTag clone that arrives years late; its real value is giving Android's Find Hub network a first-party device to rally around.
-
-
-### Oura to acquire AI-native primary care startup Counsel Health for $625M
-
-*TechCrunch | 2026-11-10*
-
-
-Oura shelved its IPO and then spent $625M to become a healthcare company, because a smart ring alone is no longer a defensible business.
-
-
-### OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google
-
-*TechCrunch | 2026-11-10*
-
-
-ChatGPT's Business Hub is OpenAI quietly rebuilding Google's ad playbook: verified profiles and analytics first, sponsored placement almost certainly next.
-
-
-### OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
-
-*TechCrunch | 2026-11-10*
-
-
-New York's RAISE Act has real teeth on paper, but $1M fines against trillion-dollar labs make transparency the real weapon, not penalties.
-
-
-### OpenAI acquires Odessia, travel startup created by Sonder founder
-
-*TechCrunch | 2026-11-10*
-
-
-OpenAI's Odessia deal isn't about buying a travel product it immediately shut down; it's about buying a founder who knows how to run teams of AI agents.
-
-
-### Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline
-
-*TechCrunch | 2026-11-10*
-
-
-Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
-
-
-### New WhatsApp head wants to make the app easier to use, give its AI more chops
-
-*TechCrunch | 2026-11-10*
-
-
-WhatsApp's new chief says he wants simplicity while also promising loans, eSIMs and bill pay, which is exactly the kind of feature growth that made the app complicated.
-
-
-### N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs
-
-*TechCrunch | 2026-11-10*
-
-
-A researcher dumping 30-plus zero-days is reckless, but N-able allegedly ignoring earlier reports is the bigger failure.
-
-
-### Meta’s AI agent Muse lands on Apple Watch and Android Wear OS
-
-*TechCrunch | 2026-11-10*
-
-
-Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.

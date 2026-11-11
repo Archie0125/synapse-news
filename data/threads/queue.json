@@ -1248,5 +1248,158 @@
     "status": "pending",
     "scheduled_for": "2026-11-13T06:40:00+00:00",
     "queued_at": "2026-11-11T06:33:16.158772+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Nvidia's chips need an export license to reach China.\n\nIts CEO apparently didn't need one to get close to a suspected Chinese spy.\n\nThe affair isn't the real issue. The issue is that a multitrillion-dollar company's China strategy runs through one man's judgment, and nobody on the board could check it.\n\nMy bet: Congress tightens chip export rules before Nvidia's board investigation is finished.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-11T18:38:34.464422+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T18:38:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "黃仁勳在台灣幾乎是神一樣的存在。\n\n但這次的事情提醒大家，輝達最大的風險可能不在晶片，而在創辦人本人。\n\n晶片要出口許可才能進中國，執行長的私生活卻沒有任何管制。\n\n接下來華府很可能借題發揮，再收緊一輪對中出口。最先受影響的不會是輝達，而是整條台灣供應鏈。",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-11T18:38:34.464472+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T20:58:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Anthropic is pricing an IPO at roughly $1.4 trillion and launching office apps and Claude Meetings in the same week.\n\nThat's not a coding-tool company anymore. It's going after the entire white-collar workday.\n\nAnd the founders keep control, while the most capable model, Mythos, stays gated.\n\nThe price war gets the headlines. The real fight is over whose job gets automated first.",
+    "article_url": "/en/ai-ml/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-11T18:38:34.464482+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-11T23:18:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Anthropic 估值約 1.4 兆美元準備上市，同時推出辦公軟體和 Claude Meetings。\n\n這已經不是賣寫程式工具了，而是直接搶白領的整個工作日。\n\n但有兩件事值得注意：創辦人用股權結構保住控制權，最強的 Mythos 也不是誰都能用。\n\n買得到股票，不代表用得到最強的模型。前沿 AI 正在變成一種會員制資產。",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T18:38:34.464492+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T01:38:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "每宣布一座 GW 級資料中心，就有人在別的地方買不到東西。\n\n在烏克蘭，買不到的是光纖，結果是天上少了幾架無人機。\n\nAI 的瓶頸早就不只是 GPU 了，現在卡在電力、光纖和零件。\n\n下一個被資料中心擠掉的，會是你家的電費。",
+    "article_url": "/zh/ai-ml/2026-11-11-ukrainian-drone-operations-squeezed-by-fiber-optic-cable-sho-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T18:38:34.464501+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T03:58:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI labs are now buying their own gas turbines.\n\nSoftBank just took a $3.7 billion hit on turbine orders it canceled, days after its CFO denied defaulting.\n\nThe AI race has turned into an energy race, and energy has something chips don't: angry neighbors and elected regulators.\n\nThe next big AI bottleneck won't be decided by Nvidia. It'll be decided at county zoning meetings.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-11T18:38:34.464506+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T06:18:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Google doesn't need to win benchmarks anymore.\n\nGemini 4 is in your car, your phone, and your doctor's office, at a lower cost per task than its rivals.\n\nOpenAI has to persuade you to open an app. Google is already running wherever you are.\n\nThe weak spot is trust. Human annotators reading your prompts don't seem like a problem until it's your medical records they're reading.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T18:38:34.464516+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T08:38:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Gemini 4 進了 CarPlay、Android Auto、醫療和 Pixel。\n\nGoogle 的 AI 優勢已經不是模型分數，而是「你根本不用打開它」。\n\n但當 AI 無所不在，人工標註員能看到的範圍也跟著擴大。\n\n在車上問路沒什麼，在醫療場景被人工抽查就是另一回事了。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T18:38:34.464531+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T10:58:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "GitHub, OpenAI, Adobe and Meta all shipped production agents this month.\n\neBay's response was to block them.\n\nThat's the real story. Agents work, but platforms don't want a bot shopping, comparing and leaving without seeing a single ad.\n\nIn 2027 the AI agent fight won't be about model quality. It'll be about which sites let agents in at all.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-11T18:38:34.464541+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T13:18:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 代理開始正式上線，最先碰到的問題不是不夠聰明，而是「你是誰」。\n\neBay 直接封鎖代理，原因很簡單：機器人不看廣告，也不會衝動購物。\n\n接下來的戰場是身分驗證和平台准入，模型強弱反而是其次。\n\n預言：明年會有平台開始向 AI 代理收「入場費」。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T18:38:34.464546+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T15:38:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Notion 沒被駭，被駭的是它用的 AI 供應商 Fireworks AI。\n\n你花大錢顧好自己的系統，最後資料從第三方 AI 廠商那裡外洩。\n\nAI 一邊大量找出漏洞，一邊製造新漏洞，修補速度根本追不上。\n\n每多串一個 AI 服務，就多一個你看不見的後門。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T18:38:34.464550+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T17:58:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI finds vulnerabilities faster than any human team.\n\nAI also ships Grok share links that leak and vendor breaches that reach Notion.\n\nThe bottleneck isn't discovery anymore. It's patching, and that still runs at human speed.\n\nFinding bugs at machine speed and fixing them at human speed is how you build a breach backlog.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T18:38:34.464555+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T20:18:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "你的下一支手機變貴，可能要怪 AI 資料中心。\n\nDRAM 被資料中心搶光，Pixel、串流盒、電競筆電的價格全部上漲，有廠商甚至拆舊機的記憶體來用。\n\n所以今年黑五的「折扣」，很多只是把價格打回去年的水準。\n\n明年想換機的人，現在買可能是最便宜的時候。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-11T18:38:34.464560+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T22:38:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "When DRAM gets scarce, the winner is whoever lets you buy less of it.\n\nAMD says MEXT keeps 95% of server performance with half the memory.\n\nThat 95% comes from workloads AMD chose. Memory tiering is clever, but the worst case is what matters in production.\n\nPrediction: every chip vendor will be marketing \"memory efficiency\" by next quarter.",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-11T18:38:34.464569+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T00:58:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "iPad 沒有要死，它是被蘋果自己擠到邊緣的。\n\n平價 MacBook 搶走了生產力的需求，摺疊 iPhone 搶走了大螢幕的需求。\n\n夾在中間的 iPad 越來越難回答一個問題：為什麼非買我不可？\n\n今年哪幾台值得買、哪幾台別碰，整理在這裡。",
+    "article_url": "/zh/products/2026-11-11-the-best-ipad-to-buy-and-what-to-avoid-in-2026-air-pro-mini-zh/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-11T18:38:34.464574+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T03:18:34.467634+00:00",
+    "queued_at": "2026-11-11T18:38:34.467634+00:00"
   }
 ]

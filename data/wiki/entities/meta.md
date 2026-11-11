@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **WhatsApp may soon replace the Communities tab on iOS** (2026-11-11)
+  - WhatsApp swapping Communities for a Contacts tab with online status quietly admits that people want to see who's online now more than they want group features.
+
 - **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
   - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
 
@@ -48,6 +51,3 @@
 
 - **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
   - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.
-
-- **Meta expands Instagram’s AI age-guessing tech globally** (2026-11-09)
-  - Meta's global rollout of AI age-guessing is a settlement obligation presented as a safety feature, and it requires analyzing everyone's photos and posts to work.

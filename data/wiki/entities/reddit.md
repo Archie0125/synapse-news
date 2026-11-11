@@ -7,11 +7,11 @@
 ## Recent Mentions
 
 
-- **The Grindr 1 Percent Is Getting Its Own Gated Community** (2026-11-10)
-  - Grindr's CEO complains about an affordability crisis while launching a $120-a-month velvet rope. The irony is the business model: monetize the top 1% of users.
+- **Reddit Reviews goes against the whole philosophy of the platform, say users** (2026-11-11)
+  - Reddit is turning its most trusted asset, raw human opinion, into AI summaries, which gives spammers a single summary to game instead of whole threads.
 
-- **Reddit is turning user conversations into AI-powered product reviews** (2026-11-10)
-  - Reddit is packaging its most trusted asset, honest user chatter, into AI reviews, and in doing so is painting a giant target for astroturfers.
+- **I feel a little nostalgic about the Apple Support Community forums, but it was time** (2026-11-11)
+  - Apple shutting its 28-year-old support forums looks like cost-cutting, but it also hands the job of troubleshooting Apple products to Reddit.
 
 - **Reddit is (sort of) getting into the product reviews business** (2026-11-10)
   - Reddit is turning the habit of adding 'reddit' to product searches into a product, a direct threat to affiliate review sites if it can stay free of manipulation.

@@ -1,11 +1,17 @@
 # Claude
 
 
-*Mentioned in 9 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers** (2026-11-11)
+  - LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
+
+- **Nod From n8n Labs: Great Demo, 14 Minute Wait on Day One** (2026-11-11)
+  - n8n Labs' Nod is a real browser agent with a solid local design, but a first question that took 14 minutes to answer shows it's still a demo, not a tool you can rely on.
 
 - **Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information** (2026-11-10)
   - AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.

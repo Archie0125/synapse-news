@@ -1,11 +1,17 @@
 # iPhone Duo
 
 
-*Mentioned in 14 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
+
+- **The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini** (2026-11-11)
+  - The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
+
+- **If you bought an iPhone Duo, have you kept or returned it? [Poll]** (2026-11-11)
+  - The iPhone Duo's return wave suggests a great demo and something you want to use every day are two different things.
 
 - **iOS 27.3: Three new iPhone features coming soon** (2026-11-09)
   - iOS 27.3's real story is the Health app, which Apple pulled from 27.2 and is now relaunching as an AI health coach.
@@ -45,6 +51,3 @@
 
 - **Apple says there are already over 100,000 apps built for iPhone Duo** (2026-11-06)
   - 100,000 iPhone Duo apps in two weeks is the stat Android foldables never got. Apple's real advantage in foldables is developer pull, not hinge tech.
-
-- **Oppo confirms its next foldable will actually know what a ‘global’ release is** (2026-11-06)
-  - Oppo has made some of the best foldables mostly for China. A Find N7 launch in Europe could finally give Samsung real competition.

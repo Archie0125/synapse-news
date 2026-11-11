@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
-  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+- **Google Gemini coming to CarPlay** (2026-11-11)
+  - Gemini finally reaches CarPlay as the last major holdout. In-car AI is now table stakes, and Apple's dashboard has become neutral ground for every chatbot.
 
 - **ChatGPT is getting verified AI ‘Business Agents’** (2026-11-10)
   - ChatGPT's verified Business Agents look like customer service, but they're really the foundation of an AI-era ad marketplace.

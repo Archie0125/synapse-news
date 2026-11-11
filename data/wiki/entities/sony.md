@@ -1,11 +1,17 @@
 # Sony
 
 
-*Mentioned in 14 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
+
+- **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
+  - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
+
+- **Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price** (2026-11-11)
+  - Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.
 
 - **The PlayStation Plus PC app is shutting down next month** (2026-11-10)
   - Sony killing a PC app used by under 0.4 percent of Premium members is sensible, but it's another sign that PlayStation is pulling back from PC.
@@ -45,6 +51,3 @@
 
 - **The New York Times reportedly in talks to buy Letterboxd for $330 million** (2026-11-06)
   - At 22 times projected earnings, the Times isn't buying a movie app. It's paying for 28 million mostly under-35 users its news product can't reach.
-
-- **Anker Soundcore Space 2 Pro review: Big bang for less bucks** (2026-11-06)
-  - At $200, the Soundcore Space 2 Pro makes $400-plus flagship headphones look like a brand tax rather than a performance premium.

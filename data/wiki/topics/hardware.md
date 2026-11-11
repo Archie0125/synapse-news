@@ -1,151 +1,135 @@
 # Hardware
 
 
-*348 articles in the last 7 days*
+*380 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode
+### The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini
+
+*Wired | 2026-11-11*
+
+
+The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
+
+
+### The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)
+
+*Wired | 2026-11-11*
+
+
+Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
+
+
+### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
+
+*Wired | 2026-11-11*
+
+
+Phone cameras still throw away most of their light through a 1974-era filter, and Metalenz's HoloCoder bet is that physics, not more AI, fixes that.
+
+
+### Early Black Friday Deals Under $100 (2026)
+
+*Wired | 2026-11-11*
+
+
+When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
+
+
+### China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway
+
+*Wired | 2026-11-11*
+
+
+The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
+
+
+### Best OLED TVs of 2026: LG, Samsung, Sony, and More
+
+*Wired | 2026-11-11*
+
+
+OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
+
+
+### Best Indoor Garden Systems I’ve Been Testing for Years (2026)
+
+*Wired | 2026-11-11*
+
+
+Indoor smart gardens actually work after two years of testing, but the $899 Gardyn with a subscription makes it the most expensive lettuce you'll ever eat.
+
+
+### Best Air Purifiers (2026): Tested Picks for Every Room
+
+*Wired | 2026-11-11*
+
+
+WIRED's air purifier guide is useful because it tests with real smoke, and its top budget pick costs $270, so clean air still isn't cheap.
+
+
+### Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts
+
+*Tom's Hardware | 2026-11-11*
+
+
+The AI boom now has a battlefield cost: data centers are outbidding Ukraine for the fiber its jam-proof drones depend on.
+
+
+### SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
+
+*Tom's Hardware | 2026-11-11*
+
+
+SpaceX's custom Kessel rack keeps Nvidia's GPUs but takes over the rest of the supply chain, which is the first real crack in Nvidia's full-stack lock-in.
+
+
+### Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting
+
+*Tom's Hardware | 2026-11-11*
+
+
+SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
+
+
+### Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32
+
+*Tom's Hardware | 2026-11-11*
+
+
+A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
+
+
+### AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT
+
+*Tom's Hardware | 2026-11-11*
+
+
+AMD's MEXT turns the DRAM shortage into a software problem, but 95 percent performance claims need independent benchmarks before data centers rely on them.
+
+
+### The best early Black Friday deals you can already shop
 
 *The Verge | 2026-11-11*
 
 
-Auto SR going handheld turns Microsoft's upscaler from a docked demo into a real battery-life play, but Microsoft itself admits 1080p handheld performance may disappoint.
+Early Black Friday deals are here, but with prices rising across tech, a discount sticker no longer guarantees you're getting a good price.
 
 
-### Why your Roku might be plugged into the wrong HDMI port
+### Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price
 
-*Engadget | 2026-11-11*
+*The Verge | 2026-11-11*
 
 
-For Roku owners, the HDMI port barely matters: the streamer is capped at 60Hz, so the real risk is losing audio features, not picture quality.
+Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.
 
 
-### What is the average lifespan of recordable Blu-ray discs?
+### Sharge’s eye-catching MacBook charger is over 25 percent off
 
-*Engadget | 2026-11-11*
+*The Verge | 2026-11-11*
 
 
-With flash prices soaring, the 'dead' Blu-ray format is quietly making sense again for long-term archiving, if you plan for disc rot.
-
-
-### iFixit teardown shows how Apple's glowing PROLED MacBook logo works
-
-*Engadget | 2026-11-11*
-
-
-Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
-
-
-### Electrical Architecture Fundamentals — Ch.10: Future Trends [KR]
-
-*Dev.to | 2026-11-11*
-
-
-Software-defined robots borrow the automotive playbook, but the real work is in the electrical wiring that keeps AI away from torque control.
-
-
-### Electrical Architecture Fundamentals — Ch.09: Functional Safety Overview [KR]
-
-*Dev.to | 2026-11-11*
-
-
-ISO 26262's key lesson is that reliable is not the same as safe, and robotics teams borrowing from automotive need to take that seriously.
-
-
-### Electrical Architecture Fundamentals — Ch.08: Redundancy Design [KR]
-
-*Dev.to | 2026-11-11*
-
-
-Two batteries do not make a redundant robot; a shared fuse, connector or ground path can still take down both sides at once.
-
-
-### Electrical Architecture Fundamentals — Ch.07: LV HV Architecture [KR]
-
-*Dev.to | 2026-11-11*
-
-
-This chapter on choosing between 12V, 24V, and 48V rails explains why robots and EVs keep moving to 48V: higher voltage means less current, thinner wiring, and smaller losses.
-
-
-### Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro
-
-*9to5Mac | 2026-11-11*
-
-
-Labrinth's overnight song is a well-made ad, but it is still the best argument yet that a touchscreen Mac can be useful for music production.
-
-
-### Rocco’s Mini Mini Fridge Is Here (2026)
-
-*Wired | 2026-11-10*
-
-
-Rocco shrinks its $2,000 retro fridge into a desktop Mini Mini, and its claim of hitting 41°F is the one spec worth checking.
-
-
-### Ring’s Indoor Drone Camera Is Back—and Now Powered by AI
-
-*Wired | 2026-11-10*
-
-
-Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
-
-
-### Louis Rossmann Wants More People to Care About the Right to Repair
-
-*Wired | 2026-11-10*
-
-
-Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
-
-
-### Huupe Mini 2 Review: More Game Than It Can Handle
-
-*Wired | 2026-11-10*
-
-
-The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.
-
-
-### Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
-
-*Wired | 2026-11-10*
-
-
-NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
-
-
-### Secretlab debuts monitor light bar add-on to reduce glare and eye strain
-
-*Tom's Hardware | 2026-11-10*
-
-
-Secretlab's $179 light bar is a well-built add-on, but it mainly serves to keep Magnus monitor arm owners buying from the same desk ecosystem.
-
-
-### President Trump says the FBI is investigating Jensen Huang’s affair
-
-*Tom's Hardware | 2026-11-10*
-
-
-Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
-
-
-### New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
-
-*Tom's Hardware | 2026-11-10*
-
-
-A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
-
-
-### Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports
-
-*Tom's Hardware | 2026-11-10*
-
-
-Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
+Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.

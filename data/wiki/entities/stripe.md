@@ -1,17 +1,14 @@
 # Stripe
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
 
-- **RIP, Harvest** (2026-11-09)
-  - Bending Spoons' 10x price hike on Harvest is the private-equity playbook in plain sight: buy beloved simple software, then charge loyal users whatever they'll tolerate.
-
-- **Why Your Revenues Often Only Sort of Matter When You Get Acquired by a Strategic. Even Though They Are Usually How a Deal is Priced** (2026-11-08)
-  - Stripe's Privy update shows a strategic buyer pays for how big a startup can grow after the deal. Revenue sets the price, but it isn't why they buy.
+- **Why Standing API Tokens Are Architectural Malpractice: The Case for Ephemeral Single-Action Authority in AI Agents** (2026-11-11)
+  - Giving an AI agent a permanent API key and a polite system prompt is not security. It just means the first prompt injection gets everything.
 
 - **Agentic payments, explained** (2026-11-06)
   - Agentic payments aren't really about AI; they're about rebuilding consent for a card system designed for humans typing numbers, and four rivals all want to own that proof.

@@ -1,11 +1,17 @@
 # The Verge
 
 
-*Mentioned in 5 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Adobe’s AI experiments let you walk around in photos and interview your characters** (2026-11-11)
+  - Adobe's Max sneaks are the most interesting thing it has shown on AI, mainly because they go after the real problem with AI video: lack of creative control.
+
+- **If you bought an iPhone Duo, have you kept or returned it? [Poll]** (2026-11-11)
+  - The iPhone Duo's return wave suggests a great demo and something you want to use every day are two different things.
 
 - **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
   - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.

@@ -1,11 +1,14 @@
 # Nintendo
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Ocarina of Time is even better if you use a smartphone app** (2026-11-11)
+  - Nintendo quietly fixed Ocarina of Time's worst chore with a phone app, admitting second screens beat in-game hint systems.
 
 - **Nintendo will soon discontinue Google and Apple sign-ins** (2026-11-10)
   - Nintendo dropping Google and Apple sign-ins for passkeys is about controlling its own front door, and lazy users will pay for the transition.

@@ -1,18 +1,106 @@
 # Cybersecurity
 
 
-*103 articles in the last 7 days*
+*111 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The 945ms Tax: 7 Hooks, 0 Confirmed Current
+### The AO3 Shutdown Is Pitting Fanfic Readers Against Authors
+
+*Wired | 2026-11-11*
+
+
+AO3's outage shows that a community archive becomes a single point of failure, and fans' rescue drives are breaking the consent norms that held the community together.
+
+
+### A Startup Wants to Fight AI Bioweapons With AI
+
+*Wired | 2026-11-11*
+
+
+Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
+
+
+### I asked every TV manufacturer 17 questions about how they spy on you
+
+*The Verge | 2026-11-11*
+
+
+Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.
+
+
+### Siri co-founder backs Helix for its voice ID tech
+
+*TechCrunch | 2026-11-11*
+
+
+Helix wants to prove you're human with your voice at a time when AI voice cloning is everywhere. It's a bold bet, and the burden of proof is high.
+
+
+### Is Jensen Huang’s bad behavior more commonplace than it seems?
+
+*TechCrunch | 2026-11-11*
+
+
+The Nvidia honeypot story is probably not a one-off. In the chip industry, an executive's personal conduct has become a national security risk.
+
+
+### The Download: preserving minds and weighing open AI risks
+
+*MIT Technology Review | 2026-11-11*
+
+
+Anthropic warning that a Chinese open model is a cyber risk is a fair point and a convenient one, and the open-versus-closed debate needs evidence more than flashpoints.
+
+
+### GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls
+
+*InfoQ | 2026-11-11*
+
+
+GitHub's agentic workflows are GA with solid default guardrails, but the FAQ admits the safety depends on configuration, and that is where things will go wrong.
+
+
+### Using voltage glitching to unleash the A100 in my mining card
+
+*Hacker News | 2026-11-11*
+
+
+A hobbyist turned a cheap crypto-mining card into a faster-than-retail A100, which shows NVIDIA's fuse-based product segmentation is weaker than it looked.
+
+
+### Protecting SSH Keys with macOS Secure Enclave
+
+*Hacker News | 2026-11-11*
+
+
+macOS can lock SSH keys in hardware natively, but the experience is so clunky that even a paranoid developer chose a third-party app instead.
+
+
+### A Grok vibe-coding agent leaked sensitive SpaceXSI data
+
+*Engadget | 2026-11-11*
+
+
+Grok Build's 'secret' share links leaked thousands of users' data, including the company's own, because it put the random part of the URL where DNS logs it.
+
+
+### Why Standing API Tokens Are Architectural Malpractice: The Case for Ephemeral Single-Action Authority in AI Agents
 
 *Dev.to | 2026-11-11*
 
 
-The scary number isn't the 945ms of hook overhead. It's zero: not one safety hook can be confirmed to enforce the current rule.
+Giving an AI agent a permanent API key and a polite system prompt is not security. It just means the first prompt injection gets everything.
+
+
+### I Broke My Own Firestore Rules in Production Once. Now the Emulator Catches It First.
+
+*Dev.to | 2026-11-11*
+
+
+Firestore security rules are access-control code that many teams edit without tests, and this postmortem shows why running them through the emulator in CI is necessary.
 
 
 ### Decompiling ReadyToRun (R2R) Assemblies: Why Precompiled Native Code Still Decompiles Cleanly
@@ -31,6 +119,14 @@ If you count on ReadyToRun to hide your .NET code, it won't, because R2R assembl
 osFoundry keeps AI agents from pushing code straight into a shared workspace by requiring a human to approve each change, which is how agent deployments should work.
 
 
+### iOS 27.3 adds new setting to bypass website cookie popups (eventually)
+
+*9to5Mac | 2026-11-11*
+
+
+Safari's new Global Privacy Control setting could kill cookie banners, but only after websites support it and more laws enforce it, and neither is happening fast.
+
+
 ### 9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors
 
 *9to5Mac | 2026-11-11*
@@ -45,22 +141,6 @@ The real headline in this roundup is Apple's $50 'intelligence usage packs,' a s
 
 
 AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
-
-
-### President Trump says the FBI is investigating Jensen Huang’s affair
-
-*Tom's Hardware | 2026-11-10*
-
-
-Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
-
-
-### New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy
-
-*Tom's Hardware | 2026-11-10*
-
-
-A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
 
 
 ### $10 programmer saves BIOS-locked Lenovo ThinkPads from the dump
@@ -85,83 +165,3 @@ Huang's admitted affair with a suspected Chinese spy shows that the AI race's bi
 
 
 A researcher dumping 30-plus zero-days is reckless, but N-able allegedly ignoring earlier reports is the bigger failure.
-
-
-### Google broadens its AI hardware portfolio with two new specialized chips
-
-*TechCrunch | 2026-11-10*
-
-
-Google's new TPUs target the two things enterprises fear most, data leaks and memory limits, which is a sharper strategy than trying to beat Nvidia on raw speed.
-
-
-### Your TV can see through walls (2025)
-
-*Hacker News | 2026-11-10*
-
-
-A cheap radio and a local TV signal can tell someone is walking in the next room and estimate how fast. Wireless sensing is easier than most people think.
-
-
-### Tracking Anthropic-discovered vulnerabilities
-
-*Hacker News | 2026-11-10*
-
-
-Anthropic's Project Glasswing is great at finding bugs and much worse at getting them fixed: 37,966 findings, just 217 fixed, and maintainers left to sort the rest.
-
-
-### The Hardest Tarball?
-
-*Hacker News | 2026-11-10*
-
-
-One GNU tar command creates an archive that extracts eight different ways. The tar "standard" is less settled than most people assume.
-
-
-### Queens Public library under ransomware attack e-borrowing suspended
-
-*Hacker News | 2026-11-10*
-
-
-Ransomware has reached the public library. Paper books still work, but Queens' digital services are down, and that should worry every underfunded public institution.
-
-
-### Fireworks AI security breach impacts Notion and their customers
-
-*Hacker News | 2026-11-10*
-
-
-The Fireworks AI breach shows your AI vendor's vendor is now part of your attack surface. Notion's 'unattributable chats' framing softens a real exposure.
-
-
-### AlphaProof Code
-
-*Hacker News | 2026-11-10*
-
-
-AI formally verifying Signal's real code is a genuine milestone. The quiet headline is that formal verification may finally scale beyond academia.
-
-
-### Git security vulnerabilities announced
-
-*GitHub Blog | 2026-11-10*
-
-
-Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
-
-
-### What is the 'Dead Internet Theory' and should humanity be worried?
-
-*Engadget | 2026-11-10*
-
-
-The 'dead internet theory' used to be a forum conspiracy. With bots at 53% of web traffic and Meta buying a bots-only social network, it now reads like a status report.
-
-
-### NVIDIA shareholders are suing the company and CEO Jensen Huang
-
-*Engadget | 2026-11-10*
-
-
-NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.

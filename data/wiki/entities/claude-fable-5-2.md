@@ -1,11 +1,14 @@
 # Claude Fable 5.2
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads** (2026-11-11)
+  - Plurai is betting that AI agents need what self-driving cars needed: a simulator full of edge cases. The analogy holds, which shows how far agents are from autonomy.
 
 - **Anthropic launches new Claude Fable and Mythos 5.2 models** (2026-11-09)
   - Anthropic's launch claims, like solving open black hole physics problems, are bold and hard to check. If they hold up, 5.2 marks a shift from coding assistant to research tool.

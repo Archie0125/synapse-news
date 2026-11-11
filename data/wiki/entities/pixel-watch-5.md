@@ -1,11 +1,14 @@
 # Pixel Watch 5
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook  from $680, Lenovo Yoga Mini $460 off, more** (2026-11-11)
+  - Black Friday started in mid-November, and Google's own new hardware, from the Pixel Tag to Googlebooks, is already on discount. Launch prices are basically a suggestion now.
 
 - **Google Store previews Black Friday 2026 deals, starting Nov. 19** (2026-11-09)
   - Google's Black Friday lineup is mostly last month's discounts with new labels, and some Pixel 11 Pro deals are actually worse than the previous sale.

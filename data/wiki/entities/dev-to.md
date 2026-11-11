@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Catch the Risk Before the First Dose - Building an AI Drug Safety Reviewer That Remembers** (2026-11-08)
-  - TrialSleuth AI targets a real gap, since lessons from past trials are scattered, but an AI drug-safety reviewer is only as trustworthy as the evidence it can actually show.
+- **NEW TO ALL THIS?** (2026-11-11)
+  - A beginner's first-post hello has no news in it, but it's a reminder that developer communities depend on people willing to post before they have anything to teach.
 
 - **💡 Building Aftermath | A Journey of Learning and Collaboration** (2026-11-07)
   - A project diary that talks about learning and pride but never says what Aftermath does, which makes it hard for anyone to care.

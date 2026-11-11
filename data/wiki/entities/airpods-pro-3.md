@@ -1,11 +1,17 @@
 # AirPods Pro 3
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)** (2026-11-11)
+  - Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
+
+- **Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more** (2026-11-11)
+  - AirTag 2 at $17.50 on the same week Pixel Tag launches at $30 is no coincidence. Apple's ecosystem is fighting back on price before the holidays.
 
 - **Best Early Amazon Black Friday Deals (2026)** (2026-11-10)
   - Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.

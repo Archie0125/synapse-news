@@ -1,7 +1,7 @@
 # MacBook Pro
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **iFixit teardown shows how Apple's glowing PROLED MacBook logo works** (2026-11-11)
   - Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
+
+- **This video lets you actually see the ‘incredible’ new MacBook Pro cooling system** (2026-11-11)
+  - A fog machine did what Apple's adjectives couldn't: it showed the new MacBook Pro's cooling redesign is real.
 
 - **Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro** (2026-11-11)
   - Labrinth's overnight song is a well-made ad, but it is still the best argument yet that a touchscreen Mac can be useful for music production.

@@ -1,11 +1,14 @@
 # NVIDIA
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Using voltage glitching to unleash the A100 in my mining card** (2026-11-11)
+  - A hobbyist turned a cheap crypto-mining card into a faster-than-retail A100, which shows NVIDIA's fuse-based product segmentation is weaker than it looked.
 
 - **NVIDIA shareholders are suing the company and CEO Jensen Huang** (2026-11-10)
   - NVIDIA's real exposure isn't the affair. It's the month between brushing off the Megaspeed link as routine and admitting a possible spy operation, and that gap is now a lawsuit.

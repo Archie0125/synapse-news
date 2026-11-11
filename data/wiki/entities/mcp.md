@@ -1,11 +1,14 @@
 # MCP
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **I'm Shipping 5 npm Packages to 10,000 Downloads** (2026-11-11)
+  - Publishing twice a day to chase npm download spikes is honest growth math, but it treats a vanity metric as a goal and risks annoying the users who actually install updates.
 
 - **Cara membiarkan Claude Code menaruh aplikasi kecil ke Room osFoundry setelah kamu menyetujuinya** (2026-11-11)
   - osFoundry keeps AI agents from pushing code straight into a shared workspace by requiring a human to approve each change, which is how agent deployments should work.

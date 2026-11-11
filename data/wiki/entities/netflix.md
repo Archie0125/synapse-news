@@ -1,11 +1,17 @@
 # Netflix
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Streaming is still trying to be TikTok** (2026-11-11)
+  - Streamers keep copying TikTok's vertical feed, but nobody has shown it works, and the silence on results is the loudest data point.
+
+- **How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026** (2026-11-11)
+  - QCon AI's lineup shows the industry has moved from 'can we ship an agent?' to 'who is accountable when it acts?', and identity is the unsolved problem.
 
 - **Huupe Mini 2 Review: More Game Than It Can Handle** (2026-11-10)
   - The Huupe Mini 2 is a fun door-mounted hoop buried under a buggy smart TV. When a product tries to do everything, nothing works well.

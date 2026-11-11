@@ -1,11 +1,14 @@
 # Tom's Hardware
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32** (2026-11-11)
+  - A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
 
 - **PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM** (2026-11-08)
   - A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.

@@ -1,14 +1,20 @@
 # Jensen Huang
 
 
-*Mentioned in 23 articles*
+*Mentioned in 25 articles*
 
 
 ## Recent Mentions
 
 
-- **President Trump says the FBI is investigating Jensen Huang’s affair** (2026-11-10)
-  - Jensen Huang's personal scandal is now a national security question, and the reported Megaspeed intervention could matter more than the affair itself.
+- **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
+  - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
+
+- **Nvidia’s crisis has corporate governance experts reaching for the popcorn** (2026-11-11)
+  - Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
+
+- **Is Jensen Huang’s bad behavior more commonplace than it seems?** (2026-11-11)
+  - The Nvidia honeypot story is probably not a one-off. In the chip industry, an executive's personal conduct has become a national security risk.
 
 - **Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang** (2026-11-10)
   - If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
@@ -45,9 +51,3 @@
 
 - **Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago** (2026-11-09)
   - If Huang hired a sex-scandal crisis firm a year before confessing, Nvidia's governance problem is about when it knew, not just the affair.
-
-- **Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy** (2026-11-09)
-  - Jensen Huang canceling public appearances shows that the face of the AI boom has become a liability his partners don't want on stage.
-
-- **A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal** (2026-11-09)
-  - A short seller with an obvious financial motive spotted the Nvidia CEO's risky relationship six months before Nvidia's own governance did, and that should embarrass the board.

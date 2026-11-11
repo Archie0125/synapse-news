@@ -1,50 +1,47 @@
-# WIRED
+# Wired
 
 
-*Mentioned in 14 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
 
-- **Best Early Amazon Black Friday Deals (2026)** (2026-11-10)
-  - Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.
+- **Kitchen Gear From Our Place Is Steeply Discounted** (2026-11-10)
+  - Our Place's 15–30% sale plus $60 off makes its pricey, Instagram-friendly cookware look like a fair deal, especially the Always Pan.
 
-- **These WIRED-Tested Standing Desks Are Already on Sale for Black Friday** (2026-11-09)
-  - Standing desks aren't a health cure, but a 20 percent discount plus a walking pad is the most honest pitch for a New Year resolution.
+- **Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)** (2026-11-10)
+  - Wired's gift guide gets one thing right: you can't out-research a gearhead, so buy them the small, useful surprise they'd never buy for themselves.
 
-- **The Home Depot Best Early Black Friday Deals (2026)** (2026-11-09)
-  - Black Friday now starts before Halloween decorations come down, and Home Depot's early smart-appliance deals show retailers racing to lock in spending.
+- **I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found** (2026-11-09)
+  - Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
 
-- **The 9 Best TV Shows to Stream This Month (November 2026)** (2026-11-09)
-  - WIRED's November picks show tech anxiety is now prestige TV's favorite genre: crypto scandals, surveillance, and dystopia sell.
+- **Audioengine Color of the Year Kit Review: Bright Look, Good Sound** (2026-11-09)
+  - Audioengine shows that a yearly color drop can sell plain speakers as collectibles, and this year's yellow kit still sounds good under the bright finish.
 
-- **The Best Automatic Litter Box of 2026: Petkit and Litter-Robot** (2026-11-06)
-  - After 30-plus models tested, the best automatic litter box isn't the one with the most hype. It's the compact one with a camera, and that says a lot about what owners value.
+- **How to Remind Your Boss of Your PTO Without Pissing Them Off** (2026-11-08)
+  - The advice to overcommunicate your PTO is right, but needing a how-to guide for taking earned vacation says a lot about workplace culture.
 
-- **Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026** (2026-11-06)
-  - Even at its 'lowest price,' a $1,495 smart minifridge is a design object, not an appliance, and the new sub-$1,000 Essential is the real story.
+- **8 Best Computer Speakers (2026) After Testing 30 Pairs** (2026-11-08)
+  - Sound is still the most neglected part of a PC setup, and a decent pair of speakers is one of the cheapest upgrades that makes a clear difference.
 
-- **Kitchen Composters I Recommend After 2 Years of Testing (2026)** (2026-11-06)
-  - Most 'kitchen composters' don't make compost. They grind and dry food scraps, which is still useful, just not what the box promises.
+- **6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More** (2026-11-08)
+  - The most useful tip in this glove guide costs nothing: turn up your phone's touch sensitivity before buying anything.
 
-- **Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)** (2026-11-06)
-  - A kids' debit card company built the cheapest good digital wall calendar, and at $199 it makes $300-plus rivals look overpriced.
+- **GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off** (2026-11-07)
+  - GoRuck's Black Friday sale makes its nearly indestructible Basic Rucker $79, but rucking itself only needs a backpack and some weight, so the gear is optional.
 
-- **Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites** (2026-11-06)
-  - Mattresses are 'on sale' all year, so early Black Friday discounts of up to 35% are only worth it if you already know which bed you want.
+- **Ecoflow Rapid Pro Power Bank Deal: Save $80** (2026-11-07)
+  - EcoFlow's Rapid Pro X is at its lowest price yet, and its fast recharge is the reason to buy it rather than the 300W headline number.
 
-- **The 7 Best Early Black Friday TV Deals (2026)** (2026-11-05)
-  - Paying full price for a TV is almost always a mistake, and record-low prices on the LG C6 and Samsung S95H show that premium OLED is becoming mainstream.
+- **Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+** (2026-11-07)
+  - Wired's top router pick is an affordable Asus, but the bigger story is the FCC's foreign-made router ban, which could reshape what US buyers can get next year.
 
-- **Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’** (2026-11-05)
-  - Coming from a Reddit cofounder, saying social media is 'not cool anymore' is an admission, and his bet on group chats and real-world sports looks like a retreat from an internet overrun by bots.
+- **Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough** (2026-11-07)
+  - Adding AI to caregiver apps can lighten the paperwork, but 63 million US caregivers need more support and better systems than a smarter reminder can provide.
 
-- **How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost** (2026-11-05)
-  - More than $400 million from Musk's super PAC couldn't buy the midterms, and voters' near-unanimous push to restrict data centers is the warning tech companies should take most seriously.
+- **AI Companies Really, Really Want to Buy Your Work Files and Emails** (2026-11-06)
+  - AI labs have run out of public internet data and are now buying companies' Slack messages and emails, which means employees' work is being sold without their consent.
 
-- **6 Best VPN Services (2026), Tested and Reviewed** (2026-11-05)
-  - Age-verification laws are turning VPNs from a niche privacy tool into something ordinary people need, in an industry with a long record of lying about logs.
-
-- **13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)** (2026-11-05)
-  - Black Friday now starts in early November, which makes the deadline feel fake. Shoppers who buy only tested products at proven discounts are the ones who come out ahead.
+- **10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More** (2026-11-06)
+  - Kids' subscription boxes are a smart gift when they match a child's stage, but the real test is whether box number six still gets opened.

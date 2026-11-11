@@ -1,11 +1,14 @@
 # Apple Watch
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **watchOS 27.3: Three new features coming soon to Apple Watch** (2026-11-11)
+  - watchOS 27.3 makes Siri more capable on the wrist, but Live Rewind looks like an answer to a problem most people solve by asking 'sorry, what?'
 
 - **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (2026-11-10)
   - Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.

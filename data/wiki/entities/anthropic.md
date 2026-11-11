@@ -1,17 +1,17 @@
 # Anthropic
 
 
-*Mentioned in 49 articles*
+*Mentioned in 48 articles*
 
 
 ## Recent Mentions
 
 
-- **The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are** (2026-11-10)
-  - After a summer of extinction headlines, Wired's experts mostly shrug at doomsday. The real AI risks are messier and closer than the apocalypse narrative suggests.
+- **OpenAI’s quarterly revenue reportedly crosses $10B for the first time** (2026-11-11)
+  - OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
 
-- **New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy** (2026-11-10)
-  - A CVSS-style score for AI jailbreaks is overdue, but a scoring system run by the labs themselves still has to prove it is neutral.
+- **The Download: preserving minds and weighing open AI risks** (2026-11-11)
+  - Anthropic warning that a Chinese open model is a cyber risk is a fair point and a convenient one, and the open-versus-closed debate needs evidence more than flashpoints.
 
 - **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
   - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.

@@ -1,11 +1,14 @@
 # JavaScript
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Writing a forex position size calculator in JavaScript: the pip value bugs** (2026-11-12)
+  - The formula is easy; reliable forex sizing depends on currency conversion and broker data, where tiny assumptions can become account-killing errors.
 
 - **Hyper-Realistic Sand with WebGL2** (2026-11-11)
   - A browser sand toy that reacts to touch, tilt, and shake shows WebGL2 is good enough for tactile toys that once needed a native app.

@@ -1,14 +1,11 @@
 # Python
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
-
-- **Track Shopify App Store competitors: pricing plans, category ranks and new reviews in Python** (2026-11-12)
-  - Shopify app competitor data is all public but painful to compare by hand. A paid scraper fixes that, though the real value is the daily alert feed, not the table.
 
 - **How to read and validate a CAS Registry Number (with a Python check-digit example)** (2026-11-12)
   - A CAS check digit catches typos but not wrong substances, and confusing 'well-formed' with 'correct' is how bad chemical data spreads.

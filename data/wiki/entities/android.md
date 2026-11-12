@@ -1,11 +1,17 @@
 # Android
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Wallet can finally unlock doors with digital home keys** (2026-11-12)
+  - Google Wallet’s home keys finally close an embarrassing Android gap, but sparse Aliro lock support keeps the convenience mostly theoretical.
+
+- **The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come** (2026-11-12)
+  - The iPhone Duo’s beautiful hardware cannot hide immature software, giving seasoned Android foldables an unexpected advantage in the category Apple usually perfects late.
 
 - **Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel** (2026-11-10)
   - Google Fi is bringing back network switching, its original selling point, but without naming the second carrier it's hard to judge how much better the 'super network' really is.

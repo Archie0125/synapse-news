@@ -1,53 +1,53 @@
 # Apple
 
 
-*Mentioned in 135 articles*
+*Mentioned in 153 articles*
 
 
 ## Recent Mentions
 
 
-- **The Best Early Black Friday MacBook Air Deal: $200 Off** (2026-11-12)
-  - A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+- **Apple’s HomeView Tries Face Authentication Without FaceID** (2026-11-12)
+  - HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.
 
-- **9to5Mac Daily: November 11, 2026 – New Apple TV feature, more** (2026-11-12)
-  - A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
+- **Trump floats Apple chairman Tim Cook as Jensen Huang’s successor** (2026-11-12)
+  - Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
 
-- **Sharge’s eye-catching MacBook charger is over 25 percent off** (2026-11-11)
-  - Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.
+- **Pre-orders for some Apple Home Collection devices will open November 13** (2026-11-12)
+  - Apple’s home ecosystem is finally becoming tangible, but premium camera pricing means privacy and integration must justify more than the logo.
 
-- **Article: The iOS Crash We Could Not Reproduce** (2026-11-11)
-  - A 'fixed' crash that only got rarer is not fixed, and this iOS post-mortem is a useful lesson in treating flaky bugs as experiments instead of guesses.
+- **Nintendo is ending Google and Apple sign-ins early next year** (2026-11-12)
+  - Nintendo’s login cleanup may improve account independence, but unexplained migrations turn sensible security housekeeping into avoidable customer friction.
 
-- **Protecting SSH Keys with macOS Secure Enclave** (2026-11-11)
-  - macOS can lock SSH keys in hardware natively, but the experience is so clunky that even a paranoid developer chose a third-party app instead.
+- **Apple TV 4K (4th gen) review: Still great, but drastically more expensive** (2026-11-12)
+  - The fourth-generation Apple TV 4K remains an excellent streamer, but its $299 price turns premium polish into an increasingly difficult indulgence.
 
-- **Faster Retrieval for Better, More Efficient RAG** (2026-11-11)
-  - Apple's research makes a simple point: RAG queries look nothing like the documents they search, so a retrieval index should be tuned to the queries real users actually send.
+- **Apple Sports adds live UFC updates** (2026-11-12)
+  - UFC support turns Apple Sports from a score checker into a persistent attention layer across the iPhone and Apple Watch.
 
-- **Apple is killing its Support Community forum next week** (2026-11-11)
-  - Apple is shutting a 28-year-old forum with ten days' notice and no archive plan, deleting knowledge its own support site never had.
+- **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
+  - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
 
-- **iFixit teardown shows how Apple's glowing PROLED MacBook logo works** (2026-11-11)
-  - Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.
+- **President Trump calls on Tim Cook to be next NVIDIA CEO** (2026-11-12)
+  - Trump's Tim Cook endorsement is headline-ready but strategically hollow: Nvidia needs a credible semiconductor successor, not presidential fan casting.
 
-- **How to get this Siri camera upgrade for your iPad before its public release** (2026-11-11)
-  - Apple Pencil circling in Siri Mode is a clear catch-up to Circle to Search, but on iPad it may be the most natural version yet.
+- **Mount Thor raises $45 million to build Mac data centers for AI agents** (2026-11-12)
+  - Mount Thor is betting macOS will become scarce cloud infrastructure for AI agents, but its $45 million raise also exposes how hardware-heavy that niche is.
 
-- **Apple is shutting down its online Support Community on November 20** (2026-11-11)
-  - Apple is shutting its 28-year-old Support Community and sending users to Reddit and social media, giving up one of the web's most useful troubleshooting archives without a fight.
+- **Google’s new Android XR glasses work with iOS, Made for iPhone certified** (2026-11-12)
+  - Google wisely made its XR glasses iPhone-friendly, but invisible camera use during Gemini analysis could matter more to public trust than any certification.
 
-- **watchOS 27.3: Three new features coming soon to Apple Watch** (2026-11-11)
-  - watchOS 27.3 makes Siri more capable on the wrist, but Live Rewind looks like an answer to a problem most people solve by asking 'sorry, what?'
+- **Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales** (2026-11-12)
+  - Foxconn's 46% surge shows AI servers are diversifying its engine, while bullish iPhone Duo forecasts reveal Apple still depends on premium hardware to offset a shrinking market.
 
-- **This video lets you actually see the ‘incredible’ new MacBook Pro cooling system** (2026-11-11)
-  - A fog machine did what Apple's adjectives couldn't: it showed the new MacBook Pro's cooling redesign is real.
+- **Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more** (2026-11-12)
+  - The standout Apple discounts are real, but a sprawling Black Friday roundup still rewards price verification more than impulse buying.
 
-- **iPhone Duo one week later: The future, or not for me?** (2026-11-11)
-  - If a reviewer has to force themselves to unfold the iPhone Duo, the hinge isn't the problem. The use case is.
+- **Apple TV 4K review: The best streamer comes at a cost** (2026-11-12)
+  - The new Apple TV 4K looks built to age gracefully, but $299 is steep when its most noticeable upgrade may be a remote you can find.
 
-- **iOS 27.3 adds new setting to bypass website cookie popups (eventually)** (2026-11-11)
-  - Safari's new Global Privacy Control setting could kill cookie banners, but only after websites support it and more laws enforce it, and neither is happening fast.
+- **Apple Sports adds UFC events with real-time stats and results** (2026-11-12)
+  - UFC makes Apple Sports more useful, but its iPhone-only footprint keeps a strong live-score product unnecessarily boxed into one screen.
 
-- **If you bought an iPhone Duo, have you kept or returned it? [Poll]** (2026-11-11)
-  - The iPhone Duo's return wave suggests a great demo and something you want to use every day are two different things.
+- **Apple Notes adds a powerful new advantage in iOS 27.3** (2026-11-12)
+  - Siri AI turns Notes into an actionable workspace, but its real advantage is privileged system access that third-party apps cannot yet match.

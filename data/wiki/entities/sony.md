@@ -1,11 +1,14 @@
 # Sony
 
 
-*Mentioned in 16 articles*
+*Mentioned in 17 articles*
 
 
 ## Recent Mentions
 
+
+- **25 years later, Xbox is trying to reinvent itself again** (2026-11-12)
+  - Xbox’s survival depends less on another console war than on rediscovering the platform-level boldness that made its original hardware matter.
 
 - **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
   - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
@@ -48,6 +51,3 @@
 
 - **This see-through camera lets photographers maintain eye contact with their subjects** (2026-11-06)
   - HOA's see-through camera has a clever idea about eye contact, but a 100-unit run with no sample photos makes it more of a design statement than a proven camera.
-
-- **The New York Times reportedly in talks to buy Letterboxd for $330 million** (2026-11-06)
-  - At 22 times projected earnings, the Times isn't buying a movie app. It's paying for 28 million mostly under-35 users its news product can't reach.

@@ -1,14 +1,11 @@
 # Tom's Hardware
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
-
-- **Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32** (2026-11-11)
-  - A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
 
 - **Montech King 95 3D Pro case review: The King has returned** (2026-11-11)
   - Montech's King 95 3D Pro proves a $199 case can look premium, though the seven noisy RGB fans and missing E-ATX support show where the money went.

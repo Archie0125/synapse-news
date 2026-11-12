@@ -1,167 +1,167 @@
 # Policy
 
 
-*136 articles in the last 7 days*
+*157 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Who could replace Jensen Huang? A highly unscientific list of possible successors
+### You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online
+
+*Wired | 2026-11-12*
+
+
+The ease of buying mass-shooting-coded apparel shows marketplace moderation still reacts to obvious listings instead of understanding communities and symbols used to normalize violence.
+
+
+### The Polar Vortex Is About to Make Weather Weird From the UK to the US
+
+*Wired | 2026-11-12*
+
+
+The early polar-vortex breakdown matters less as a guaranteed deep freeze than as a warning that seasonal forecasts and infrastructure plans face unusually high uncertainty.
+
+
+### Here’s How Google Says It’s Making Its Smart Glasses More Private
+
+*Wired | 2026-11-12*
+
+
+Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
+
+
+### Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out
+
+*Wired | 2026-11-12*
+
+
+Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
+
+
+### Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently
+
+*Wired | 2026-11-12*
+
+
+Alex Karp’s progressive label looks less like an ideology than a flexible brand that must be judged against Palantir’s products and contracts.
+
+
+### Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing
+
+*Tom's Hardware | 2026-11-12*
+
+
+Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
+
+
+### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
+
+*Tom's Hardware | 2026-11-12*
+
+
+Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
+
+
+### Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
+
+*Tom's Hardware | 2026-11-12*
+
+
+Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
+
+
+### The Jensen Huang scandal is hardly over
+
+*The Verge | 2026-11-12*
+
+
+The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
+
+
+### Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
+
+*The Verge | 2026-11-12*
+
+
+Nvidia’s calm internal messaging cannot disguise the governance shock of replacing the founder who concentrated so much operational authority around himself.
+
+
+### Jensen Huang is out. What did China want from him?
+
+*The Verge | 2026-11-12*
+
+
+Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
+
+
+### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
 
 *TechCrunch | 2026-11-12*
 
 
-Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+United’s blockade shows AI agents are outrunning the trust infrastructure needed to let software safely act as a customer.
 
 
-### Pete Hegseth Is About to Get His Ass Kicked
+### Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
 
-*Wired | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-Democrats' smartest move on Hegseth isn't going big. It's narrowing impeachment to complaints Senate Republicans already share.
+Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
 
 
-### Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing
+### Jensen Huang agrees to testify before Congress
 
-*Wired | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-When 81% of voters say no and utilities answer with a lawsuit, it shows how much is riding on the data-center buildout and who expects ratepayers to fund it.
+Huang’s closed-door testimony may answer security questions, but secrecy will make rebuilding public trust much harder.
 
 
-### Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules
+### Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
 
-*Wired | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-The EU's Digital Fairness Act goes after the growth hacks behind modern apps, from streaks to surge pricing. Engagement-driven business models in Europe now have a clock on them.
+Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
 
 
-### China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway
+### Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
 
-*Wired | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
+Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
 
 
-### A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks
+### NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately
 
-*Wired | 2026-11-11*
+*ServeTheHome | 2026-11-12*
 
 
-This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
+Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
 
 
-### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
+### The Download: COP31’s climate challenge and the quest for immortality
 
-*Tom's Hardware | 2026-11-11*
+*MIT Technology Review | 2026-11-12*
 
 
-Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
+COP31 must convert geopolitical friction into measurable climate action, while cognitive immortality remains a compelling thought experiment far ahead of demonstrated technology.
 
 
-### Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
+### Anthropic IPO
 
-*Tom's Hardware | 2026-11-11*
+*Hacker News | 2026-11-12*
 
 
-Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
+Anthropic’s explosive growth makes a compelling IPO pitch, but public markets will test whether its safety mission survives quarterly pressure.
 
 
-### Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town
+### Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense
 
-*Tom's Hardware | 2026-11-11*
+*Engadget | 2026-11-12*
 
 
-After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.
-
-
-### Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’
-
-*Tom's Hardware | 2026-11-11*
-
-
-Jensen Huang's private scandal is now a national-security problem, and a subpoena threat means Congress won't wait for Nvidia's board to finish its own investigation.
-
-
-### Loot boxes, influencers, and addictive features face an EU crackdown
-
-*The Verge | 2026-11-11*
-
-
-The EU's Digital Fairness Act goes after the engagement playbook itself, and its inclusion of AI chatbots signals the next regulatory frontier.
-
-
-### I asked every TV manufacturer 17 questions about how they spy on you
-
-*The Verge | 2026-11-11*
-
-
-Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.
-
-
-### The unfolding Jensen Huang scandal: a timeline
-
-*TechCrunch | 2026-11-11*
-
-
-Huang's personal scandal stopped being personal once it involved an alleged Chinese spy tied to a $4.8 billion Nvidia chip buyer.
-
-
-### Nvidia’s crisis has corporate governance experts reaching for the popcorn
-
-*TechCrunch | 2026-11-11*
-
-
-Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
-
-
-### Is Jensen Huang’s bad behavior more commonplace than it seems?
-
-*TechCrunch | 2026-11-11*
-
-
-The Nvidia honeypot story is probably not a one-off. In the chip industry, an executive's personal conduct has become a national security risk.
-
-
-### Congress to call Jensen Huang in to answer for alleged Chinese spy affair
-
-*TechCrunch | 2026-11-11*
-
-
-Jensen Huang's personal scandal is now a national security issue in Congress, and that puts Nvidia's ties to Washington at risk.
-
-
-### We need more goat sacrifices
-
-*Hacker News | 2026-11-11*
-
-
-A tongue-in-cheek call for ritual humility before launching social programs, and the evidence that many well-meant interventions do nothing is uncomfortably strong.
-
-
-### United Airlines bans AI agents from booking flights on behalf of travelers
-
-*Hacker News | 2026-11-11*
-
-
-United bans AI agents from booking flights and cites security, but the bigger reason looks like keeping control of its customers away from a new middleman.
-
-
-### United is restricting AI agents from booking flights
-
-*Engadget | 2026-11-11*
-
-
-United cites security and FAA rules to keep AI agents from booking flights, but the CEO's 'no new middleman' remark points to customer ownership as the real motive.
-
-
-### New York is forcing T-Mobile to stop putting data caps on low-income home internet plans
-
-*Engadget | 2026-11-11*
-
-
-T-Mobile followed New York's low-income broadband law on paper, then capped the data, limited where it was sold and hid it from search engines.
+Repeated Starshield throttling shows that privately controlled infrastructure has become a battlefield dependency with consequences measured in lives, not loading times.

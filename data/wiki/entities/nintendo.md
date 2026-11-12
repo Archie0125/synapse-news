@@ -1,14 +1,17 @@
 # Nintendo
 
 
-*Mentioned in 10 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
 
-- **The Nintendo Switch 2 is down to its lowest price of the season tonight only** (2026-11-12)
-  - A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
+- **25 years later, Xbox is trying to reinvent itself again** (2026-11-12)
+  - Xbox’s survival depends less on another console war than on rediscovering the platform-level boldness that made its original hardware matter.
+
+- **Nintendo is ending Google and Apple sign-ins early next year** (2026-11-12)
+  - Nintendo’s login cleanup may improve account independence, but unexplained migrations turn sensible security housekeeping into avoidable customer friction.
 
 - **Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled** (2026-11-11)
   - Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.

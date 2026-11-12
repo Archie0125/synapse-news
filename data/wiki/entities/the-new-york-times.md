@@ -1,11 +1,14 @@
 # The New York Times
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Jensen Huang resigns as CEO of Nvidia** (2026-11-12)
+  - Huang's resignation turns a personal scandal into Nvidia's biggest governance test, with disputed espionage claims raising stakes far beyond executive misconduct.
 
 - **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
   - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.

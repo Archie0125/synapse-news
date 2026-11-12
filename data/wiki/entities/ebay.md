@@ -1,14 +1,11 @@
 # eBay
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **United won’t let your AI agent book your flight** (2026-11-11)
-  - United's AI agent ban is framed as safety, but its CEO said the real fear out loud: becoming just another supplier behind an AI middleman.
 
 - **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
   - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.

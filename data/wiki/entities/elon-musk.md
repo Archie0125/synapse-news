@@ -1,11 +1,17 @@
 # Elon Musk
 
 
-*Mentioned in 16 articles*
+*Mentioned in 18 articles*
 
 
 ## Recent Mentions
 
+
+- **Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang** (2026-11-12)
+  - Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
+
+- **‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug** (2026-11-12)
+  - Killing Cybertruck for Cybercab exposes Tesla’s riskiest habit: abandoning a tangible product for an autonomous future still blocked by software and regulators.
 
 - **Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town** (2026-11-11)
   - After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.
@@ -45,9 +51,3 @@
 
 - **Tesla to wind down Cybertruck production** (2026-11-06)
   - Cybertruck selling about 8% of its promised volume is not the end of an era. It is the clearest case yet of Tesla's narrative running ahead of demand.
-
-- **Tesla is 'winding down' Cybertruck production at its Texas Gigafactory** (2026-11-06)
-  - Tesla is giving the Cybertruck's factory space to a robotaxi that doesn't exist yet, a quiet admission that the hyped pickup flopped.
-
-- **Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations** (2026-11-06)
-  - Apple's careful neutrality is about to get audited: a Democratic Congress wants to know whether its App Store calls on ICE apps were policy or politics.

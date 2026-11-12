@@ -1,53 +1,53 @@
 # Jensen Huang
 
 
-*Mentioned in 34 articles*
+*Mentioned in 52 articles*
 
 
 ## Recent Mentions
 
 
-- **Who could replace Jensen Huang? A highly unscientific list of possible successors** (2026-11-12)
-  - Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+- **Meet Colette Kress, Nvidia’s New Interim CEO** (2026-11-12)
+  - Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
 
-- **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
-  - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
+- **Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing** (2026-11-12)
+  - Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
 
-- **Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges** (2026-11-11)
-  - Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.
+- **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
+  - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
 
-- **Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt** (2026-11-11)
-  - A second affair with a direct report, plus an alleged NDA cover-up, turns Huang's crisis from personal embarrassment into a governance failure that boards can't excuse.
+- **Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations** (2026-11-12)
+  - Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
 
-- **Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’** (2026-11-11)
-  - Jensen Huang's private scandal is now a national-security problem, and a subpoena threat means Congress won't wait for Nvidia's board to finish its own investigation.
+- **Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang** (2026-11-12)
+  - Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
 
-- **Nvidia is reportedly preparing to fire Jensen Huang** (2026-11-11)
-  - Nvidia firing its founder at the height of the AI boom would be unthinkable, unless the board decides keeping him is the bigger risk.
+- **The Jensen Huang scandal is hardly over** (2026-11-12)
+  - The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
 
-- **The unfolding Jensen Huang scandal: a timeline** (2026-11-11)
-  - Huang's personal scandal stopped being personal once it involved an alleged Chinese spy tied to a $4.8 billion Nvidia chip buyer.
+- **Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup** (2026-11-12)
+  - Nvidia’s calm internal messaging cannot disguise the governance shock of replacing the founder who concentrated so much operational authority around himself.
 
-- **Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang** (2026-11-11)
-  - Nvidia's stock drop is about more than scandal. A CEO with 60 direct reports and no succession plan is a single point of failure.
+- **Jensen Huang is out. What did China want from him?** (2026-11-12)
+  - Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
 
-- **Nvidia’s crisis has corporate governance experts reaching for the popcorn** (2026-11-11)
-  - Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
+- **Trump floats Apple chairman Tim Cook as Jensen Huang’s successor** (2026-11-12)
+  - Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
 
-- **Jensen Huang accused of having another affair — with an Nvidia exec** (2026-11-11)
-  - A second alleged affair, this time with a direct report, turns Huang's scandal from a personal matter into a governance problem the board cannot avoid.
+- **Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO** (2026-11-12)
+  - Huang’s exit exposes Nvidia’s founder dependence; its next test is proving the AI empire is an institution, not one man’s momentum.
 
-- **Is Jensen Huang’s bad behavior more commonplace than it seems?** (2026-11-11)
-  - The Nvidia honeypot story is probably not a one-off. In the chip industry, an executive's personal conduct has become a national security risk.
+- **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?** (2026-11-12)
+  - Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
 
-- **Congress to call Jensen Huang in to answer for alleged Chinese spy affair** (2026-11-11)
-  - Jensen Huang's personal scandal is now a national security issue in Congress, and that puts Nvidia's ties to Washington at risk.
+- **Jensen Huang agrees to testify before Congress** (2026-11-12)
+  - Huang’s closed-door testimony may answer security questions, but secrecy will make rebuilding public trust much harder.
 
-- **Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang** (2026-11-10)
-  - If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
+- **Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry** (2026-11-12)
+  - Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
 
-- **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
-  - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
+- **NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately** (2026-11-12)
+  - Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
 
-- **Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline** (2026-11-10)
-  - Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.
+- **NVIDIA Announces CEO Transition** (2026-11-12)
+  - Jensen Huang’s abrupt exit turns NVIDIA’s succession planning from a governance footnote into the biggest uncertainty surrounding the AI hardware leader.

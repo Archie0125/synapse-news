@@ -1,11 +1,14 @@
 # Wachtell, Lipton, Rosen & Katz
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately** (2026-11-12)
+  - Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
 
 - **Nvidia is reportedly preparing to fire Jensen Huang** (2026-11-11)
   - Nvidia firing its founder at the height of the AI boom would be unthinkable, unless the board decides keeping him is the bigger risk.

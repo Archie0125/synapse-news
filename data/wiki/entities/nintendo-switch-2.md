@@ -7,14 +7,14 @@
 ## Recent Mentions
 
 
-- **The Nintendo Switch 2 is down to its lowest price of the season tonight only** (2026-11-12)
-  - A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
-
 - **Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price** (2026-11-11)
   - Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.
 
 - **Ocarina of Time is even better if you use a smartphone app** (2026-11-11)
   - Nintendo quietly fixed Ocarina of Time's worst chore with a phone app, admitting second screens beat in-game hint systems.
+
+- **Making a €40 USB-C hub work as a Nintendo Switch 2 dock** (2026-11-09)
+  - This €40 dock hack shows Nintendo’s incompatibility is a firmware handshake problem, not a USB-C limitation—and determined users can route around it.
 
 - **Why you shouldn't remove the screen protector film on your Nintendo Switch 2** (2026-11-08)
   - The Switch 2's 'screen protector' is actually part of the display assembly, and peeling it off for satisfaction could cost you a $500 console.

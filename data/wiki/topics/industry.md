@@ -1,143 +1,103 @@
 # Industry
 
 
-*457 articles in the last 7 days*
+*525 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Walking Pad Deals to Shop Ahead of Black Friday (2026)
+### You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online
 
 *Wired | 2026-11-12*
 
 
-Early Black Friday walking pad deals are real savings, but the Urevo CyberPad's $110 discount buys an incline you'll struggle to store, so plan where it lives.
+The ease of buying mass-shooting-coded apparel shows marketplace moderation still reacts to obvious listings instead of understanding communities and symbols used to normalize violence.
 
 
-### The Best Early Black Friday MacBook Air Deal: $200 Off
+### TurboTax Full Service Coupons This November 2026
 
 *Wired | 2026-11-12*
 
 
-A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+TurboTax’s 10 percent coupon softens the price, but an affiliate-driven deal page should not substitute for comparing service tiers, eligibility, and total filing cost.
 
 
-### Who could replace Jensen Huang? A highly unscientific list of possible successors
+### The Polar Vortex Is About to Make Weather Weird From the UK to the US
 
-*TechCrunch | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+The early polar-vortex breakdown matters less as a guaranteed deep freeze than as a warning that seasonal forecasts and infrastructure plans face unusually high uncertainty.
 
 
-### Where Does JINGDONG Logistics Stand? The Integration Test for China’s Supply-Chain Tech Sector
+### Synchron Pauses Trials of Its Brain Implant Due to Performance Issues
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Logistics tech is won by integration, not robots. JD Logistics' 34 million square metres of network is the moat, though 'leading' still lacks a market-share number.
+Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
 
 
-### SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do
+### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
+The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
 
 
-### Jira Storage Limit: Uploads Blocked at 250 GB
+### Meet Colette Kress, Nvidia’s New Interim CEO
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Atlassian turned a long-ignored storage limit into an upload block, and the only exit is a Premium upgrade that is expensive disk space.
+Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
 
 
-### A ₹6,999 Template Site and a ₹2 Lakh Custom Build Are Not Competing Quotes
+### Lovehoney Coupon Offers: 70% Off
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Founders comparing a ₹6,999 template to a ₹2 lakh custom build aren't price shopping. They are comparing different products that share a name.
+Lovehoney’s 70-percent sale is useful commerce information, but the editorial wrapper should not obscure that this is fundamentally an affiliate shopping pitch.
 
 
-### Pete Hegseth Is About to Get His Ass Kicked
+### Here’s How Google Says It’s Making Its Smart Glasses More Private
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-Democrats' smartest move on Hegseth isn't going big. It's narrowing impeachment to complaints Senate Republicans already share.
+Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
 
 
-### Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing
+### Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-When 81% of voters say no and utilities answer with a lawsuit, it shows how much is riding on the data-center buildout and who expects ratepayers to fund it.
+Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
 
 
-### LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers
+### Google and Samsung’s Android XR Smart Glasses Are Finally Here
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
+Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
 
 
-### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
+### Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
+Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
 
 
-### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
+### Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-Phone cameras still throw away most of their light through a 1974-era filter, and Metalenz's HoloCoder bet is that physics, not more AI, fixes that.
-
-
-### Early Black Friday Deals Under $100 (2026)
-
-*Wired | 2026-11-11*
-
-
-When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
-
-
-### Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules
-
-*Wired | 2026-11-11*
-
-
-The EU's Digital Fairness Act goes after the growth hacks behind modern apps, from streaks to surge pricing. Engagement-driven business models in Europe now have a clock on them.
-
-
-### China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway
-
-*Wired | 2026-11-11*
-
-
-The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
-
-
-### Best OLED TVs of 2026: LG, Samsung, Sony, and More
-
-*Wired | 2026-11-11*
-
-
-OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
-
-
-### Best Indoor Garden Systems I’ve Been Testing for Years (2026)
-
-*Wired | 2026-11-11*
-
-
-Indoor smart gardens actually work after two years of testing, but the $899 Gardyn with a subscription makes it the most expensive lettuce you'll ever eat.
+Open earbuds are becoming genuinely useful all-day wearables, provided buyers accept that environmental awareness and strong isolation are opposite goals.

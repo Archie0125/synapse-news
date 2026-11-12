@@ -15,11 +15,11 @@
 
 - [United and eBay Aren't Blocking AI Agents. They're Blocking a New Landlord](analysis/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-en.md)
 
-- [黃仁勳醜聞最可怕的不是婚外情，是輝達根本沒有備胎](analysis/2026-11-12-nvidia-s-real-scandal-isn-t-the-affairs-it-s-that-there-is-n-zh.md)
+- [AI 不再比誰最聰明：真正的戰場是每張帳單](analysis/2026-11-12-the-ai-race-is-no-longer-about-iq-its-about-the-invoice-zh.md)
 
-- [Nvidia's Real Scandal Isn't the Affairs. It's That There Is No Plan B](analysis/2026-11-12-nvidia-s-real-scandal-isn-t-the-affairs-it-s-that-there-is-n-en.md)
+- [The AI Race Is No Longer About IQ—It’s About the Invoice](analysis/2026-11-12-the-ai-race-is-no-longer-about-iq-its-about-the-invoice-en.md)
 
-- [Gemini 不必最聰明，只要你躲不掉：Google 的 AI 圍城戰](analysis/2026-11-12-gemini-s-real-weapon-isn-t-intelligence-it-s-being-unavoidab-zh.md)
+- [智慧眼鏡終於不醜了，但偷拍疑慮還沒下架](analysis/2026-11-12-smart-glasses-look-normal-the-camera-problem-doesnt-zh.md)
 
 
 ## Topics
@@ -38,6 +38,8 @@
 
 - [Policy](topics/policy.md)
 
+- [Privacy](topics/privacy.md)
+
 - [Products](topics/products.md)
 
 - [Startups](topics/startups.md)
@@ -52,6 +54,8 @@
 - [9To5Google](entities/9to5google.md)
 
 - [9To5Mac](entities/9to5mac.md)
+
+- [A100](entities/a100.md)
 
 - [Ableton Live 13](entities/ableton-live-13.md)
 
@@ -73,14 +77,12 @@
 
 - [Alice Huang](entities/alice-huang.md)
 
+- [Aliro](entities/aliro.md)
+
 - [Alphabet](entities/alphabet.md)
 
 - [Alpine Linux](entities/alpine-linux.md)
 
+- [Amazon Alexa](entities/amazon-alexa.md)
+
 - [Amazon](entities/amazon.md)
-
-- [Amblyotube](entities/amblyotube.md)
-
-- [Amd](entities/amd.md)
-
-- [Android 17](entities/android-17.md)

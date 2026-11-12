@@ -1,151 +1,151 @@
 # Products
 
 
-*893 articles in the last 7 days*
+*966 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Walking Pad Deals to Shop Ahead of Black Friday (2026)
+### TurboTax Full Service Coupons This November 2026
 
 *Wired | 2026-11-12*
 
 
-Early Black Friday walking pad deals are real savings, but the Urevo CyberPad's $110 discount buys an incline you'll struggle to store, so plan where it lives.
+TurboTax’s 10 percent coupon softens the price, but an affiliate-driven deal page should not substitute for comparing service tiers, eligibility, and total filing cost.
 
 
-### The Best Early Black Friday MacBook Air Deal: $200 Off
+### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
 
 *Wired | 2026-11-12*
 
 
-A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
 
 
-### Track Shopify App Store competitors: pricing plans, category ranks and new reviews in Python
+### Lovehoney Coupon Offers: 70% Off
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Shopify app competitor data is all public but painful to compare by hand. A paid scraper fixes that, though the real value is the daily alert feed, not the table.
+Lovehoney’s 70-percent sale is useful commerce information, but the editorial wrapper should not obscure that this is fundamentally an affiliate shopping pitch.
 
 
-### Jira Storage Limit: Uploads Blocked at 250 GB
+### Google and Samsung’s Android XR Smart Glasses Are Finally Here
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Atlassian turned a long-ignored storage limit into an upload block, and the only exit is a Premium upgrade that is expensive disk space.
+Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
 
 
-### Generate a PDF from JSON in one API call (try it free, no signup)
+### Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-getpdf's no-signup playground is smart onboarding, but in a crowded PDF API market, its security defaults are the real differentiator.
+Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
 
 
-### 9to5Mac Daily: November 11, 2026 – New Apple TV feature, more
+### Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More
 
-*9to5Mac | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
+Open earbuds are becoming genuinely useful all-day wearables, provided buyers accept that environmental awareness and strong isolation are opposite goals.
 
 
-### The Nintendo Switch 2 is down to its lowest price of the season tonight only
+### Apple’s HomeView Tries Face Authentication Without FaceID
 
-*9to5Google | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
+HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.
 
 
-### LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers
+### Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
+The CyberPowerPC may be a capable 1440p deal, but contradictory GPU and discount claims make retailer verification mandatory before anyone clicks buy.
 
 
-### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
+### Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg — 3-item gaming PC combo includes 9800X3D, 32GB Corsair Vengeance DDR5 RAM, and premium MSI X870E Carbon Wifi motherboard for only $1,250
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-Phone cameras still throw away most of their light through a 1974-era filter, and Metalenz's HoloCoder bet is that physics, not more AI, fixes that.
+Newegg’s bundle softens absurd component pricing, but calling allocated savings a RAM bargain disguises how expensive this premium AM5 platform remains.
 
 
-### Early Black Friday Deals Under $100 (2026)
+### Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
+Noctua’s nanotube pad sells durability rather than benchmark heroics, making its premium price compelling only if the maintenance-free claim survives independent testing.
 
 
-### Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules
+### Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-The EU's Digital Fairness Act goes after the growth hacks behind modern apps, from streaks to surge pricing. Engagement-driven business models in Europe now have a clock on them.
+Corsair’s transparent 1000W PSU earns its showpiece status, but its size, heat noise, and clearance demands make it a specialist luxury.
 
 
-### Best OLED TVs of 2026: LG, Samsung, Sony, and More
+### The Jensen Huang scandal is hardly over
 
-*Wired | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
+The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
 
 
-### Best Indoor Garden Systems I’ve Been Testing for Years (2026)
+### ‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug
 
-*Wired | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-Indoor smart gardens actually work after two years of testing, but the $899 Gardyn with a subscription makes it the most expensive lettuce you'll ever eat.
+Killing Cybertruck for Cybercab exposes Tesla’s riskiest habit: abandoning a tangible product for an autonomous future still blocked by software and regulators.
 
 
-### Best Air Purifiers (2026): Tested Picks for Every Room
+### Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
 
-*Wired | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-WIRED's air purifier guide is useful because it tests with real smoke, and its top budget pick costs $270, so clean air still isn't cheap.
+Nvidia’s calm internal messaging cannot disguise the governance shock of replacing the founder who concentrated so much operational authority around himself.
 
 
-### A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks
+### More game developers are starting to use generative AI
 
-*Wired | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
+Generative AI is winning inside game studios through mundane utility, even while its creative legitimacy remains fiercely contested.
 
 
-### Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32
+### Jensen Huang is out. What did China want from him?
 
-*Tom's Hardware | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
+Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
 
 
-### Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing
+### Google Wallet can finally unlock doors with digital home keys
 
-*Tom's Hardware | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-Prusa's ESD filament is less about hobbyists and more a cheap shot at CNC-machined factory fixtures, and the price undercuts every rival.
+Google Wallet’s home keys finally close an embarrassing Android gap, but sparse Aliro lock support keeps the convenience mostly theoretical.
 
 
-### PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6
+### AI chatbots are recommending fake retail websites, study finds
 
-*Tom's Hardware | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-Logitech's GTA 6 day off is cheap, clever marketing: it turns expected sick calls into a brand story for a company that sells gaming gear.
+AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.

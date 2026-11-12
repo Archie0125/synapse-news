@@ -1,11 +1,17 @@
 # SaaStr
 
 
-*Mentioned in 12 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **Dear SaaStr: How Do You Become Successful at Enterprise Sales? What Are the Biggest Challenges People Experience?** (2026-11-12)
+  - Enterprise sales is not funnel optimization at a larger price point; it is founder-led organizational problem solving with uncomfortable human contact.
+
+- **A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.** (2026-11-12)
+  - Doubling ACV is a useful test of whether an agent replaces labor, but one portfolio anecdote is a benchmark, not a business law.
 
 - **Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company** (2026-11-11)
   - Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.
@@ -39,6 +45,3 @@
 
 - **SaaStr AI and 10K Featured in Wall Street Journal** (2026-11-06)
   - SaaStr's AI marketing agent 10K has impressive numbers, but most of them are reported by SaaStr itself, and a 40% attendance jump after a 15% price cut is economics, not AI magic.
-
-- **We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.** (2026-11-05)
-  - The real story isn't which email vendor won. It's that an AI agent made rigorous vendor testing cheap enough that gut-feel procurement now looks negligent.

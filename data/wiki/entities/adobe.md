@@ -1,11 +1,14 @@
 # Adobe
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Phota Labs uses AI to turn everyday photos into professional-looking shots** (2026-11-12)
+  - Phota Labs makes AI editing feel effortless, but its promise of proactive camera-roll assistance will succeed only if authenticity and privacy survive the automation.
 
 - **Adobe’s AI experiments let you walk around in photos and interview your characters** (2026-11-11)
   - Adobe's Max sneaks are the most interesting thing it has shown on AI, mainly because they go after the real problem with AI video: lack of creative control.

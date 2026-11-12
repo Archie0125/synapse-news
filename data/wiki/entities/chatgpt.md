@@ -1,11 +1,14 @@
 # ChatGPT
 
 
-*Mentioned in 14 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
 
+
+- **AI chatbots are recommending fake retail websites, study finds** (2026-11-12)
+  - AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
 
 - **OpenAI’s personal finance features for ChatGPT expands to Mac app** (2026-11-11)
   - Bringing ChatGPT Finances to the Mac is a small update with a bigger strategy behind it: OpenAI wants your bank data, and that data keeps users coming back.

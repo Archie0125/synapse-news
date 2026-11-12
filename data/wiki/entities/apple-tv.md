@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **9to5Mac Daily: November 11, 2026 – New Apple TV feature, more** (2026-11-12)
-  - A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
+- **New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon** (2026-11-12)
+  - She's Fine gives Apple TV another star-powered comedy, but recognizable names still need a sharp premise to become more than subscription wallpaper.
 
 - **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
   - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.

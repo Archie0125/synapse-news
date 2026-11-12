@@ -1,11 +1,20 @@
 # Siri
 
 
-*Mentioned in 11 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple TV 4K (4th gen) review: Still great, but drastically more expensive** (2026-11-12)
+  - The fourth-generation Apple TV 4K remains an excellent streamer, but its $299 price turns premium polish into an increasingly difficult indulgence.
+
+- **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
+  - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
+
+- **Apple TV 4K review: The best streamer comes at a cost** (2026-11-12)
+  - The new Apple TV 4K looks built to age gracefully, but $299 is steep when its most noticeable upgrade may be a remote you can find.
 
 - **watchOS 27.3: Three new features coming soon to Apple Watch** (2026-11-11)
   - watchOS 27.3 makes Siri more capable on the wrist, but Live Rewind looks like an answer to a problem most people solve by asking 'sorry, what?'

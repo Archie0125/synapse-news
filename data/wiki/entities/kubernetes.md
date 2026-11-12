@@ -1,11 +1,14 @@
 # Kubernetes
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments** (2026-11-12)
+  - LinkedIn’s Argo CD replacement is less an open-source rejection than proof that hyperscale eventually makes deployment semantics worth owning.
 
 - **Kubernetes - Setup External DNS** (2026-11-10)
   - Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.
@@ -18,9 +21,3 @@
 
 - **AI agents are getting more complex. Developers shouldn’t have to babysit them.** (2026-11-06)
   - Harness engineering is the right idea, but promising agents that check their own work just moves the babysitting job from code to test suites.
-
-- **Groundcover automates Kubernetes sizing. Engineers set the bounds.** (2026-11-05)
-  - Groundcover is betting that Kubernetes right-sizing should be a continuous feedback loop rather than a quarterly cleanup, and keeping engineers in charge of the limits is what makes it credible.
-
-- **Building a Culture for a Kubernetes-Based Platform in a Bank** (2026-11-05)
-  - A bank learned that installing Kubernetes is easy and running it is a people problem, and that open source earns trust through uptime, not slide decks.

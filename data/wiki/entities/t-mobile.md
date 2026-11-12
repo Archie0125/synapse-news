@@ -1,11 +1,14 @@
 # T-Mobile
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile** (2026-11-12)
+  - Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
 
 - **New York is forcing T-Mobile to stop putting data caps on low-income home internet plans** (2026-11-11)
   - T-Mobile followed New York's low-income broadband law on paper, then capped the data, limited where it was sold and hid it from search engines.

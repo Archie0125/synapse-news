@@ -1,11 +1,17 @@
 # Google Cloud
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs** (2026-11-12)
+  - TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unstable APIs keep Google’s impressive benchmarks from being a production guarantee.
+
+- **Critical RCE Vulnerability in Apache HTTP Server** (2026-11-12)
+  - Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.
 
 - **Google Cloud Spend Caps Reach General Availability with API and Monthly Resets** (2026-11-10)
   - Google Cloud finally gives customers a real spending kill switch, but it covers only four services, so most surprise bills are still possible.
@@ -21,6 +27,3 @@
 
 - **Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal** (2026-11-08)
   - Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
-
-- **Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications** (2026-11-05)
-  - Google's API Gateway finally streams, which fixes a gap that AI apps were routing around and turning into a security hole.

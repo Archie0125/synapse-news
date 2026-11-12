@@ -1,11 +1,14 @@
 # Pixel Watch 5
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Deals: Galaxy SmartTag 3 up to 30% off, Chromebooks, Google Home Speaker, Walmart early Black Friday now live, more** (2026-11-12)
+  - The early Black Friday discounts are substantial, but the sprawling roundup makes comparison discipline more valuable than chasing every advertised historic low.
 
 - **Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more** (2026-11-11)
   - This week's Play Store deals mostly serve to frame Google's hardware push: a Home Speaker at an all-time low and the newly launched Pixel Tag are the actual headline.

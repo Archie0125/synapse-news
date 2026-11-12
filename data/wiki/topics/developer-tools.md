@@ -1,34 +1,106 @@
 # Dev Tools
 
 
-*401 articles in the last 7 days*
+*408 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Where Does JINGDONG Logistics Stand? The Integration Test for China’s Supply-Chain Tech Sector
+### More game developers are starting to use generative AI
+
+*The Verge | 2026-11-12*
+
+
+Generative AI is winning inside game studios through mundane utility, even while its creative legitimacy remains fiercely contested.
+
+
+### Technical Debt is Social; it is the Price of Learning by Doing
+
+*InfoQ | 2026-11-12*
+
+
+Technical debt is healthy when it buys learning, but AI makes repayment harder by producing code faster than teams can absorb context.
+
+
+### Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector
+
+*InfoQ | 2026-11-12*
+
+
+Kiji Inspector targets the right problem: agent reliability needs observable tool choices, not comforting stories about hidden reasoning.
+
+
+### LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments
+
+*InfoQ | 2026-11-12*
+
+
+LinkedIn’s Argo CD replacement is less an open-source rejection than proof that hyperscale eventually makes deployment semantics worth owning.
+
+
+### Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs
+
+*InfoQ | 2026-11-12*
+
+
+TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unstable APIs keep Google’s impressive benchmarks from being a production guarantee.
+
+
+### Azure Logic Apps Standard Gets a Local CLI in Preview
+
+*InfoQ | 2026-11-12*
+
+
+Azure Logic Apps finally gains a credible terminal-first workflow, but preview status means automation teams should experiment before standardizing on it.
+
+
+### Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript
+
+*InfoQ | 2026-11-12*
+
+
+finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.
+
+
+### The Definitive Fine-Tuning Guide for 3D Generation Models
+
+*Hugging Face Blog | 2026-11-12*
+
+
+TRELLIS.2 fine-tuning is becoming accessible, but clean task-specific 3D data—not another training script—remains the real competitive advantage.
+
+
+### Why Writing Correct Software Is Hard
+
+*Hacker News | 2026-11-12*
+
+
+Formal methods can reduce software errors, but theory says complete correctness always carries costs that better syntax and fashionable tools cannot erase.
+
+
+### Writing a forex position size calculator in JavaScript: the pip value bugs
 
 *Dev.to | 2026-11-12*
 
 
-Logistics tech is won by integration, not robots. JD Logistics' 34 million square metres of network is the moat, though 'leading' still lacks a market-share number.
+The formula is easy; reliable forex sizing depends on currency conversion and broker data, where tiny assumptions can become account-killing errors.
 
 
-### Track Shopify App Store competitors: pricing plans, category ranks and new reviews in Python
-
-*Dev.to | 2026-11-12*
-
-
-Shopify app competitor data is all public but painful to compare by hand. A paid scraper fixes that, though the real value is the daily alert feed, not the table.
-
-
-### Six of 16 common MCP servers can't be read from outside. One of the others changed 19 times in a month
+### Why I Built a 100% Ad-Free, 3-Second Daily Expense Tracker PWA (React + Firebase + GitHub Actions) published: true
 
 *Dev.to | 2026-11-12*
 
 
-The MCP servers that touch your most sensitive data are the ones nobody can audit from outside, and silent tool-definition changes should worry every agent builder.
+This tracker’s real innovation isn’t React or Firebase; it’s treating three seconds and zero ads as core financial-product features.
+
+
+### The Intruder in the Palm of Your Hand
+
+*Dev.to | 2026-11-12*
+
+
+The scariest mobile attacks do not need elite targets; curiosity, sideloading, and one permissions prompt can convert an ordinary phone into a theft channel.
 
 
 ### Single-step flow matching brightens low‑light photos
@@ -37,67 +109,3 @@ The MCP servers that touch your most sensitive data are the ones nobody can audi
 
 
 GLOW-FM shrinks multi-step diffusion into one pass for low-light photos, a real edge-AI win if its claims hold beyond static benchmarks.
-
-
-### SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do
-
-*Dev.to | 2026-11-12*
-
-
-SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
-
-
-### MX Record Lookup: How to Check Mail Servers and What It Proves
-
-*Dev.to | 2026-11-12*
-
-
-An MX lookup proves a domain can receive mail, not that a person is real, and fintechs that treat it as identity checking are fooling themselves.
-
-
-### Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest
-
-*Dev.to | 2026-11-12*
-
-
-Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
-
-
-### Jira Storage Limit: Uploads Blocked at 250 GB
-
-*Dev.to | 2026-11-12*
-
-
-Atlassian turned a long-ignored storage limit into an upload block, and the only exit is a Premium upgrade that is expensive disk space.
-
-
-### How to read and validate a CAS Registry Number (with a Python check-digit example)
-
-*Dev.to | 2026-11-12*
-
-
-A CAS check digit catches typos but not wrong substances, and confusing 'well-formed' with 'correct' is how bad chemical data spreads.
-
-
-### Generate a PDF from JSON in one API call (try it free, no signup)
-
-*Dev.to | 2026-11-12*
-
-
-getpdf's no-signup playground is smart onboarding, but in a crowded PDF API market, its security defaults are the real differentiator.
-
-
-### Five Bugs Hiding in a URL Shortener (and the Fix for Each)
-
-*Dev.to | 2026-11-12*
-
-
-The three-box URL shortener diagram passes interviews and fails production. Testing traps against real concurrency is the lesson most tutorials skip.
-
-
-### A ₹6,999 Template Site and a ₹2 Lakh Custom Build Are Not Competing Quotes
-
-*Dev.to | 2026-11-12*
-
-
-Founders comparing a ₹6,999 template to a ₹2 lakh custom build aren't price shopping. They are comparing different products that share a name.

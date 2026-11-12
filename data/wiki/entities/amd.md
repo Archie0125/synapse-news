@@ -1,14 +1,11 @@
 # AMD
 
 
-*Mentioned in 17 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
-
-- **Who could replace Jensen Huang? A highly unscientific list of possible successors** (2026-11-12)
-  - Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
 
 - **ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs** (2026-11-11)
   - ASRock fixing a GPU-bricking BIOS without a changelog is the wrong lesson. Silent patches erode the trust that security updates depend on.
@@ -51,3 +48,6 @@
 
 - **This is what ChatGPT personally feels about humans** (2026-11-08)
   - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
+
+- **Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100** (2026-11-06)
+  - A $600 discount makes the HyperX Omen Max 16 competitive, but a mobile RTX 5070 Ti with 12GB of VRAM is still a compromise at $2,100.

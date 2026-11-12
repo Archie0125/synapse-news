@@ -1,11 +1,20 @@
 # OpenAI
 
 
-*Mentioned in 42 articles*
+*Mentioned in 45 articles*
 
 
 ## Recent Mentions
 
+
+- **SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions** (2026-11-12)
+  - SoftBank’s turbine loss shows that betting on AI demand is easier than predicting exactly when, where, and how its electricity will be needed.
+
+- **OpenAI’s GPT-6 Cyber Raises the Price of More Aggressive Security AI** (2026-11-12)
+  - GPT-6 Cyber’s reported exploit gains are striking, but restricted access and premium pricing turn benchmark leadership into an unproven procurement case.
+
+- **Free LLM APIs for coding assistants** (2026-11-12)
+  - Free LLM APIs can power coding assistants, but token-heavy workflows and opaque relays make free a quota and privacy trade, not a bargain.
 
 - **I Saw the Future of Robotics in a Virtual Duck That Chases My Cat** (2026-11-11)
   - A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
@@ -42,12 +51,3 @@
 
 - **What is the 'Dead Internet Theory' and should humanity be worried?** (2026-11-10)
   - The 'dead internet theory' used to be a forum conspiracy. With bots at 53% of web traffic and Meta buying a bots-only social network, it now reads like a status report.
-
-- **How to answer Claude Code or Codex from your phone** (2026-11-10)
-  - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
-
-- **China builds massive 800-megawatt AI data center campus to rival US Stargate project** (2026-11-09)
-  - China's answer to Stargate reportedly costs one-fifth as much and runs largely on its own wind, a real challenge to the US gas-turbine approach.
-
-- **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
-  - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.

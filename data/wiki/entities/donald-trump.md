@@ -1,14 +1,26 @@
 # Donald Trump
 
 
-*Mentioned in 10 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
 
-- **Pete Hegseth Is About to Get His Ass Kicked** (2026-11-11)
-  - Democrats' smartest move on Hegseth isn't going big. It's narrowing impeachment to complaints Senate Republicans already share.
+- **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
+  - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
+
+- **Jensen Huang is out. What did China want from him?** (2026-11-12)
+  - Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
+
+- **Trump floats Apple chairman Tim Cook as Jensen Huang’s successor** (2026-11-12)
+  - Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
+
+- **Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry** (2026-11-12)
+  - Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
+
+- **President Trump calls on Tim Cook to be next NVIDIA CEO** (2026-11-12)
+  - Trump's Tim Cook endorsement is headline-ready but strategically hollow: Nvidia needs a credible semiconductor successor, not presidential fan casting.
 
 - **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
   - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.

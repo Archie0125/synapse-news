@@ -1,11 +1,17 @@
 # Anthropic
 
 
-*Mentioned in 46 articles*
+*Mentioned in 47 articles*
 
 
 ## Recent Mentions
 
+
+- **Critical RCE Vulnerability in Apache HTTP Server** (2026-11-12)
+  - Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.
+
+- **Anthropic IPO** (2026-11-12)
+  - Anthropic’s explosive growth makes a compelling IPO pitch, but public markets will test whether its safety mission survives quarterly pressure.
 
 - **OpenAI’s personal finance features for ChatGPT expands to Mac app** (2026-11-11)
   - Bringing ChatGPT Finances to the Mac is a small update with a bigger strategy behind it: OpenAI wants your bank data, and that data keeps users coming back.
@@ -45,9 +51,3 @@
 
 - **Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?** (2026-11-09)
   - Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.
-
-- **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
-  - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
-
-- **Anthropic launches new Claude Fable and Mythos 5.2 models** (2026-11-09)
-  - Anthropic's launch claims, like solving open black hole physics problems, are bold and hard to check. If they hold up, 5.2 marks a shift from coding assistant to research tool.

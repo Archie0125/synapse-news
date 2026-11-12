@@ -1,11 +1,17 @@
 # Claude Code
 
 
-*Mentioned in 18 articles*
+*Mentioned in 20 articles*
 
 
 ## Recent Mentions
 
+
+- **How an AI agent schedules my social posts over MCP** (2026-11-12)
+  - Statuz shows agent automation becomes trustworthy when the server—not the model—owns timing, permissions, and publishing guardrails.
+
+- **An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.** (2026-11-12)
+  - The audit’s real value was not finding 31 proven holes, but turning uncertain AI suspicions into a transparent, fixable security backlog.
 
 - **Atuin Threads: All your agent sessions on every machine** (2026-11-11)
   - Atuin's bet is right: AI agent session logs are the new shell history, and whoever indexes the 'why' behind your work owns your workflow.
@@ -45,9 +51,3 @@
 
 - **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
   - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.
-
-- **I put 7 Claude Code agents in my research lab's group chat with Switch. Here's how to set it up (and what broke on Windows)** (2026-11-07)
-  - Seven agents in a lab chat sounds like overkill, but the killer feature is one line: someone has been blocked since Nov 3, and nobody noticed.
-
-- **GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform** (2026-11-06)
-  - GitLab 19.5 accepts that developers will use Claude Code and Cursor anyway and moves to become the control tower that governs them.

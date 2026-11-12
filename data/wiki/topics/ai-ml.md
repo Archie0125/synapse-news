@@ -1,167 +1,167 @@
 # AI & ML
 
 
-*372 articles in the last 7 days*
+*401 articles in the last 7 days*
 
 
 ## Latest
 
 
-### This is the Meta MetaRoCE Network Adapter
+### Meet Colette Kress, Nvidia’s New Interim CEO
 
-*ServeTheHome | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
 
 
-### Where Does JINGDONG Logistics Stand? The Integration Test for China’s Supply-Chain Tech Sector
+### Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Logistics tech is won by integration, not robots. JD Logistics' 34 million square metres of network is the moat, though 'leading' still lacks a market-share number.
+Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
 
 
-### Six of 16 common MCP servers can't be read from outside. One of the others changed 19 times in a month
+### Google and Samsung’s Android XR Smart Glasses Are Finally Here
 
-*Dev.to | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-The MCP servers that touch your most sensitive data are the ones nobody can audit from outside, and silent tool-definition changes should worry every agent builder.
+Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
 
 
-### Single-step flow matching brightens low‑light photos
+### Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue
 
-*Dev.to | 2026-11-12*
+*Tom's Hardware | 2026-11-12*
 
 
-GLOW-FM shrinks multi-step diffusion into one pass for low-light photos, a real edge-AI win if its claims hold beyond static benchmarks.
+Cannabis farms possess useful power and cooling infrastructure, but converting distressed properties into profitable AI nodes is an infrastructure thesis, not a proven rescue plan.
 
 
-### Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest
+### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
 
-*Dev.to | 2026-11-12*
+*Tom's Hardware | 2026-11-12*
 
 
-Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
+Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
 
 
-### LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers
+### Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
+Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
 
 
-### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
+### Google reworks TPU silicon into specialized systems for agents and security
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
+Google’s smartest TPU advance may be modular product design, turning reused silicon into faster answers for agents, regulated customers, and Nvidia’s dominance.
 
 
-### A Startup Wants to Fight AI Bioweapons With AI
+### Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
+Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
 
 
-### A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks
+### Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
 
-*Wired | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
+Nvidia’s calm internal messaging cannot disguise the governance shock of replacing the founder who concentrated so much operational authority around himself.
 
 
-### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
+### More game developers are starting to use generative AI
 
-*Tom's Hardware | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
+Generative AI is winning inside game studios through mundane utility, even while its creative legitimacy remains fiercely contested.
 
 
-### Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges
+### Jensen Huang is out. What did China want from him?
 
-*Tom's Hardware | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.
+Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
 
 
-### Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches
+### AI chatbots are recommending fake retail websites, study finds
 
-*Tom's Hardware | 2026-11-11*
+*The Verge | 2026-11-12*
 
 
-AI made writing patches nearly free but left reviewing them just as expensive, and the Linux kernel is now losing experienced reviewers because of it.
+AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
 
 
-### Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town
+### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
 
-*Tom's Hardware | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.
+United’s blockade shows AI agents are outrunning the trust infrastructure needed to let software safely act as a customer.
 
 
-### Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU
+### SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions
 
-*Tom's Hardware | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-Kora has a smart idea for running AI locally across CPU, GPU, and NPU, but it's wrapped in buzzwords and won't ship until 2027.
+SoftBank’s turbine loss shows that betting on AI demand is easier than predicting exactly when, where, and how its electricity will be needed.
 
 
-### Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains
+### Phota Labs uses AI to turn everyday photos into professional-looking shots
 
-*Tom's Hardware | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-Cognichip's 'months to days' claim is bold, but in chip design the proof isn't faster RTL. It's first-pass silicon that actually works.
+Phota Labs makes AI editing feel effortless, but its promise of proactive camera-roll assistance will succeed only if authenticity and privacy survive the automation.
 
 
-### AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT
+### Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO
 
-*Tom's Hardware | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-AMD's MEXT turns the DRAM shortage into a software problem, but 95 percent performance claims need independent benchmarks before data centers rely on them.
+Huang’s exit exposes Nvidia’s founder dependence; its next test is proving the AI empire is an institution, not one man’s momentum.
 
 
-### United won’t let your AI agent book your flight
+### Norwest pushes deeper into AI with new $4B fund
 
-*The Verge | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-United's AI agent ban is framed as safety, but its CEO said the real fear out loud: becoming just another supplier behind an AI middleman.
+Norwest’s $4 billion fund confirms AI’s reach, but such a broad mandate risks making capital abundant and genuine investment conviction scarce.
 
 
-### Loot boxes, influencers, and addictive features face an EU crackdown
+### Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition
 
-*The Verge | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-The EU's Digital Fairness Act goes after the engagement playbook itself, and its inclusion of AI chatbots signals the next regulatory frontier.
+Voinosis has a compelling five-minute screening pitch, but clinical trust will depend on validation far beyond one 146-person study.
 
 
-### Google’s Tabletop AI experiment lets you build custom collaboration apps
+### Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?
 
-*The Verge | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-Tabletop is Google pointing vibecoding at the group chat, a smart test, but Google Labs experiments have a habit of not surviving.
+Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
 
 
-### Google’s AlphaGenome 2 zooms in on the cellular roots of disease
+### Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
 
-*The Verge | 2026-11-11*
+*TechCrunch | 2026-11-12*
 
 
-AlphaGenome 2 matters because it stops treating DNA as one script and asks how each cell reads it, which is where disease actually happens.
+Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.

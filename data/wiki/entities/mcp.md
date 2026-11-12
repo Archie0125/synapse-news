@@ -1,11 +1,14 @@
 # MCP
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **How an AI agent schedules my social posts over MCP** (2026-11-12)
+  - Statuz shows agent automation becomes trustworthy when the server—not the model—owns timing, permissions, and publishing guardrails.
 
 - **I'm Shipping 5 npm Packages to 10,000 Downloads** (2026-11-11)
   - Publishing twice a day to chase npm download spikes is honest growth math, but it treats a vanity metric as a goal and risks annoying the users who actually install updates.

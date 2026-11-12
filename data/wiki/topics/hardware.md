@@ -1,143 +1,135 @@
 # Hardware
 
 
-*415 articles in the last 7 days*
+*466 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Walking Pad Deals to Shop Ahead of Black Friday (2026)
+### Synchron Pauses Trials of Its Brain Implant Due to Performance Issues
 
 *Wired | 2026-11-12*
 
 
-Early Black Friday walking pad deals are real savings, but the Urevo CyberPad's $110 discount buys an incline you'll struggle to store, so plan where it lives.
+Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
 
 
-### The Best Early Black Friday MacBook Air Deal: $200 Off
+### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
 
 *Wired | 2026-11-12*
 
 
-A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
 
 
-### Who could replace Jensen Huang? A highly unscientific list of possible successors
+### Meet Colette Kress, Nvidia’s New Interim CEO
 
-*TechCrunch | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
 
 
-### This is the Meta MetaRoCE Network Adapter
+### Here’s How Google Says It’s Making Its Smart Glasses More Private
 
-*ServeTheHome | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
 
 
-### The Nintendo Switch 2 is down to its lowest price of the season tonight only
+### Google and Samsung’s Android XR Smart Glasses Are Finally Here
 
-*9to5Google | 2026-11-12*
+*Wired | 2026-11-12*
 
 
-A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
+Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
 
 
-### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
+### Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
+Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
 
 
-### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
+### Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-Phone cameras still throw away most of their light through a 1974-era filter, and Metalenz's HoloCoder bet is that physics, not more AI, fixes that.
+Open earbuds are becoming genuinely useful all-day wearables, provided buyers accept that environmental awareness and strong isolation are opposite goals.
 
 
-### Early Black Friday Deals Under $100 (2026)
+### Apple’s HomeView Tries Face Authentication Without FaceID
 
-*Wired | 2026-11-11*
+*Wired | 2026-11-12*
 
 
-When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
+HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.
 
 
-### China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway
+### Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
+The CMP-170HX hack exposes how much value Nvidia disables through segmentation, but its laboratory-grade risks keep it far from a practical bargain A100.
 
 
-### Best OLED TVs of 2026: LG, Samsung, Sony, and More
+### Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
+Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
 
 
-### Best Indoor Garden Systems I’ve Been Testing for Years (2026)
+### Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-Indoor smart gardens actually work after two years of testing, but the $899 Gardyn with a subscription makes it the most expensive lettuce you'll ever eat.
+Cannabis farms possess useful power and cooling infrastructure, but converting distressed properties into profitable AI nodes is an infrastructure thesis, not a proven rescue plan.
 
 
-### Best Air Purifiers (2026): Tested Picks for Every Room
+### Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now
 
-*Wired | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-WIRED's air purifier guide is useful because it tests with real smoke, and its top budget pick costs $270, so clean air still isn't cheap.
+The CyberPowerPC may be a capable 1440p deal, but contradictory GPU and discount claims make retailer verification mandatory before anyone clicks buy.
 
 
-### Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32
+### Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg — 3-item gaming PC combo includes 9800X3D, 32GB Corsair Vengeance DDR5 RAM, and premium MSI X870E Carbon Wifi motherboard for only $1,250
 
-*Tom's Hardware | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
+Newegg’s bundle softens absurd component pricing, but calling allocated savings a RAM bargain disguises how expensive this premium AM5 platform remains.
 
 
-### Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing
+### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
 
-*Tom's Hardware | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-Prusa's ESD filament is less about hobbyists and more a cheap shot at CNC-machined factory fixtures, and the price undercuts every rival.
+Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
 
 
-### PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6
+### Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
 
-*Tom's Hardware | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-Logitech's GTA 6 day off is cheap, clever marketing: it turns expected sick calls into a brand story for a company that sells gaming gear.
+Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
 
 
-### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
+### Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors
 
-*Tom's Hardware | 2026-11-11*
+*Tom's Hardware | 2026-11-12*
 
 
-Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
-
-
-### Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges
-
-*Tom's Hardware | 2026-11-11*
-
-
-Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.
+Noctua’s nanotube pad sells durability rather than benchmark heroics, making its premium price compelling only if the maintenance-free claim survives independent testing.

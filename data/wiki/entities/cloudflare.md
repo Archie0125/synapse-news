@@ -1,11 +1,14 @@
 # Cloudflare
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.** (2026-11-12)
+  - The audit’s real value was not finding 31 proven holes, but turning uncertain AI suspicions into a transparent, fixable security backlog.
 
 - **Cloudflare Makes Basin Serverless Analytics Generally Available** (2026-11-10)
   - Cloudflare's Basin turns zero egress fees into a strategic weapon, making open Iceberg tables the bait to pull analytics workloads away from hyperscalers.

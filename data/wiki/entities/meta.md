@@ -1,14 +1,29 @@
 # Meta
 
 
-*Mentioned in 34 articles*
+*Mentioned in 39 articles*
 
 
 ## Recent Mentions
 
 
-- **This is the Meta MetaRoCE Network Adapter** (2026-11-12)
-  - MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+- **Here’s How Google Says It’s Making Its Smart Glasses More Private** (2026-11-12)
+  - Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
+
+- **Google reworks TPU silicon into specialized systems for agents and security** (2026-11-12)
+  - Google’s smartest TPU advance may be modular product design, turning reused silicon into faster answers for agents, regulated customers, and Nvidia’s dominance.
+
+- **Google really needs you to know it cares about smart glasses privacy** (2026-11-12)
+  - Google understands that smart glasses will fail socially before they fail technically, but privacy promises still need visible, enforceable proof.
+
+- **Here’s how Google’s Android XR glasses are handling the camera & privacy** (2026-11-12)
+  - Google has designed stronger camera safeguards into Android XR glasses, but hardware indicators alone cannot erase a stigma created by years of privacy abuse.
+
+- **Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20** (2026-11-12)
+  - Google and Samsung’s best smart-glasses feature may be restraint: hardware that looks ordinary could do more for adoption than another futuristic display.
+
+- **Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release** (2026-11-12)
+  - Disney’s immersive 3D rooms give Meta’s VR ambitions something hardware launches often lack: a compelling experience people can understand before buying new glasses.
 
 - **Meta is losing its longtime head of  infrastructure** (2026-11-11)
   - Meta is replacing its longtime infrastructure chief with an AWS veteran, a sign that its AI compute effort is starting to look like a cloud business.
@@ -36,18 +51,3 @@
 
 - **AI usage generates a fragile codebase** (2026-11-10)
   - A former Meta engineer says mandatory AI coding quotas reward output over judgment. The tech debt is real, it just hasn't come due yet.
-
-- **What is the 'Dead Internet Theory' and should humanity be worried?** (2026-11-10)
-  - The 'dead internet theory' used to be a forum conspiracy. With bots at 53% of web traffic and Meta buying a bots-only social network, it now reads like a status report.
-
-- **The Disney+ app on Meta Quest now includes 3D movies** (2026-11-10)
-  - Meta is trying to sell VR as the world's best 3D movie theater, a smarter pitch than the metaverse, but it only works if subscribers actually put the headset on.
-
-- **Meta warns some of its AI glasses may get 'too warm' if they get wet** (2026-11-10)
-  - Meta won't say 'overheating,' but sweat-triggered heat on a device you wear on your face is a real hardware problem, and a software patch only treats the symptom.
-
-- **Instagram Effect Builder lets you create images with an AI prompt** (2026-11-10)
-  - Instagram's Effect Builder turns every user into an AR effect creator with a single prompt, and makes every effect public by default. That's a growth hack disguised as a creative tool.
-
-- **Meta issues a high-priority update to prevent overheating in some of its glasses** (2026-11-10)
-  - Meta's first 'Action required' email about its glasses suggests a serious moisture-overheating problem, and its silence beyond the email leaves owners guessing about the risk.

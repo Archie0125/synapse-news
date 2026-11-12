@@ -1,11 +1,14 @@
 # Oura
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Whoop just launched a social network** (2026-11-12)
+  - Whoop Humans could turn health data into meaningful support, but social engagement is a dangerous incentive when vulnerability becomes the content.
 
 - **Oura is acquiring medical AI chatbot startup Counsel Health** (2026-11-10)
   - Oura's $625 million Counsel Health deal shows it wants to be a healthcare company, but a 50-doctor network is a thin base for that ambition.

@@ -1,14 +1,14 @@
 # GitHub
 
 
-*Mentioned in 27 articles*
+*Mentioned in 26 articles*
 
 
 ## Recent Mentions
 
 
-- **Six of 16 common MCP servers can't be read from outside. One of the others changed 19 times in a month** (2026-11-12)
-  - The MCP servers that touch your most sensitive data are the ones nobody can audit from outside, and silent tool-definition changes should worry every agent builder.
+- **Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript** (2026-11-12)
+  - finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.
 
 - **Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled** (2026-11-11)
   - Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.

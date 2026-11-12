@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting** (2026-11-11)
-  - SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
+- **SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions** (2026-11-12)
+  - SoftBank’s turbine loss shows that betting on AI demand is easier than predicting exactly when, where, and how its electricity will be needed.
 
 - **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
   - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.

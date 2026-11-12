@@ -1,11 +1,20 @@
 # Microsoft
 
 
-*Mentioned in 27 articles*
+*Mentioned in 30 articles*
 
 
 ## Recent Mentions
 
+
+- **25 years later, Xbox is trying to reinvent itself again** (2026-11-12)
+  - Xbox’s survival depends less on another console war than on rediscovering the platform-level boldness that made its original hardware matter.
+
+- **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?** (2026-11-12)
+  - Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
+
+- **Azure Logic Apps Standard Gets a Local CLI in Preview** (2026-11-12)
+  - Azure Logic Apps finally gains a credible terminal-first workflow, but preview status means automation teams should experiment before standardizing on it.
 
 - **SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do** (2026-11-12)
   - SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
@@ -42,12 +51,3 @@
 
 - **Announcing .NET 11** (2026-11-10)
   - .NET 11's real headline isn't the AI branding. It's C# 15 union types, a feature developers have asked for for years that finally makes illegal states unrepresentable.
-
-- **The best-selling game console of all time is over 25 years old** (2026-11-10)
-  - The PS2's 25-year reign proves the best-selling console wins on timing and a killer side feature, not raw power, and the still-selling Switch is about to prove it again.
-
-- **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
-  - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
-
-- **You can grab three months of Game Pass Ultimate for under $20 per month** (2026-11-09)
-  - A $19-a-month Game Pass deal looks generous until you count what Microsoft quietly removed: Call of Duty and unlimited cloud gaming.

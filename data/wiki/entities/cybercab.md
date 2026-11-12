@@ -1,11 +1,14 @@
 # Cybercab
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug** (2026-11-12)
+  - Killing Cybertruck for Cybercab exposes Tesla’s riskiest habit: abandoning a tangible product for an autonomous future still blocked by software and regulators.
 
 - **Musk says Tesla will refund some Cybertruck deposits, defends decision to end production** (2026-11-09)
   - Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.

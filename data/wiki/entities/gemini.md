@@ -1,11 +1,26 @@
 # Gemini
 
 
-*Mentioned in 22 articles*
+*Mentioned in 27 articles*
 
 
 ## Recent Mentions
 
+
+- **AI chatbots are recommending fake retail websites, study finds** (2026-11-12)
+  - AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
+
+- **Google’s new Android XR glasses work with iOS, Made for iPhone certified** (2026-11-12)
+  - Google wisely made its XR glasses iPhone-friendly, but invisible camera use during Gemini analysis could matter more to public trust than any certification.
+
+- **‘Hey Gemini’ hotword debuts on Android XR glasses** (2026-11-12)
+  - “Hey Gemini” is a small naming fix, but its glasses-first debut signals that Google sees ambient AI—not phones—as Gemini’s natural home.
+
+- **Here’s how Google’s Android XR glasses are handling the camera & privacy** (2026-11-12)
+  - Google has designed stronger camera safeguards into Android XR glasses, but hardware indicators alone cannot erase a stigma created by years of privacy abuse.
+
+- **Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10** (2026-11-12)
+  - Google’s $395 smart glasses make a credible privacy-first comeback, but everyday wearability—not Gemini demos—will decide whether consumers forgive the category.
 
 - **A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks** (2026-11-11)
   - This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
@@ -36,18 +51,3 @@
 
 - **Google is making Pixel HiLight slightly more useful** (2026-11-10)
   - Google is still searching for a reason HiLight exists, while the actually useful stuff in this Pixel Drop is Gemini quietly spreading to older phones.
-
-- **Gemini Intelligence: New features, on more devices** (2026-11-10)
-  - Google is pushing Gemini Intelligence to more Android phones, but the real story is distribution: Google's AI advantage is being on every partner's device.
-
-- **Google's impressive Rambler dictation tech is now available on Pixel 10 devices too** (2026-11-10)
-  - Bringing Rambler to the Pixel 10 is smart retention: Google is betting that AI keyboard magic, not hardware, keeps Pixel owners loyal between upgrades.
-
-- **Adobe and Google have teamed up to connect Drive, Gmail and Acrobat** (2026-11-10)
-  - Adobe embedding Acrobat inside Gemini is less a partnership than a survival move: if AI chat becomes the interface, PDF tools have to live inside it.
-
-- **November Pixel Watch Drop: Create My Widget, Phone-to-Watch Unlock, and Wear OS 7.1** (2026-11-10)
-  - The best Pixel Watch feature this month isn't AI. It's finally skipping the PIN, and most of the AI features are still just previews.
-
-- **November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more** (2026-11-10)
-  - This Pixel Drop turns Gemini from a chatbot into an agent that calls, orders, and builds widgets for you. Usefulness now depends on trust, not features.

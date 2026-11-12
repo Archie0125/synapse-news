@@ -1516,5 +1516,152 @@
     "status": "pending",
     "scheduled_for": "2026-11-13T07:20:00+00:00",
     "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Nvidia spent decades selling Jensen Huang as irreplaceable. Now the board has to prove the company’s controls, strategy, and customer trust were never one-man systems.\n\nThe succession shortlist matters less than this question: was Nvidia built to survive its founder?",
+    "article_url": "/en/industry/2026-11-12-who-could-replace-jensen-huang-a-highly-unscientific-list-of-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-12T18:43:34.172335+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T18:43:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Jensen Huang’s exit isn’t just founder drama. Nvidia sits inside US–China policy, sovereign AI plans, and nearly every major lab’s roadmap.\n\nIf leadership risk can become chip-supply risk overnight, Nvidia was never governed like ordinary infrastructure. Watch governments demand a seat at the table.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-12T18:43:34.172353+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T21:03:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "United and eBay aren’t merely blocking bots. They’re resisting software that could own the customer relationship, compare every option, and reduce their interfaces to commodity pipes.\n\nWill platforms tolerate agents once the agents become better storefronts than they are?",
+    "article_url": "/en/industry/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-12T18:43:34.172358+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T23:23:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The agent economy has a permissions problem disguised as an intelligence problem.\n\nModels can already click, book, and buy. The real bottleneck is whether airlines, banks, and marketplaces will let an outside agent control the transaction—and surrender the customer data. Expect more locked doors before better agents.",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-12T18:43:34.172361+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T01:43:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "智慧眼鏡終於不像工程樣機，但「不醜」只是入場券。\n\n真正的考題是：鏡頭前的路人能不能一眼看出它正在錄影，以及佩戴者願不願意每天頂著這套提醒機制出門。這次會普及，還是再演一次公開測試？",
+    "article_url": "/zh/products/2026-11-12-zhi-hui-yan-jing-zhong-yu-bu-chou-liao-dan-tou-pai-yi-lu-hua-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T18:43:34.172365+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T04:03:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Smart glasses won’t go mainstream because Gemini answers faster. They’ll win when they’re comfortable for eight hours, priced like normal eyewear, and visibly safe for everyone facing the camera.\n\nGoogle and Samsung may have solved the demo. Now they have to solve the social contract.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T18:43:34.172368+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T06:23:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "United says AI booking agents create cybersecurity risk. That’s plausible—but blocking them also protects United’s interface, customer data, and upsells.\n\nThe useful question isn’t whether agents are risky. It’s whether platforms will publish secure, auditable permissions once those permissions threaten their margins.",
+    "article_url": "/en/ai-ml/2026-11-12-united-airlines-blocks-ai-agents-from-booking-flights-citing-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T18:43:34.172390+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T08:43:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Giving an AI agent a persistent login and permission to spend money is not “automation.” It’s creating a new privileged employee that can be manipulated at machine speed.\n\nLeast privilege, action logs, and human confirmation should be defaults. The first major agent breach will make today’s friction look cheap.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T18:43:34.172394+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T11:03:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "AI can generate a Shopify competitor tracker in minutes. The hard part is deciding what to monitor, handling broken pages, and knowing when the data quietly became wrong.\n\nCode generation is accelerating; review and maintenance aren’t. How many teams are budgeting for the second half of that equation?",
+    "article_url": "/en/developer-tools/2026-11-12-track-shopify-app-store-competitors-pricing-plans-category-r-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T18:43:34.172404+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T13:23:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Coding agents made typing cheaper, not software judgment.\n\nNow teams can produce five patches in the time it takes a maintainer to understand one. That doesn’t eliminate the bottleneck—it floods it with plausible code carrying hidden architectural conflicts. Review capacity will become the scarce engineering resource.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T18:43:34.172405+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T15:43:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "The next phase of AI coding won’t be won by the model that generates the most code. It’ll be won by systems that complete narrow, valuable jobs cheaply—and leave output humans can actually audit.\n\nA focused Shopify tracker is a better test than another benchmark trophy. Will smaller tools capture the real ROI?",
+    "article_url": "/en/developer-tools/2026-11-12-track-shopify-app-store-competitors-pricing-plans-category-r-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T18:43:34.172372+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T18:03:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Benchmark leadership is becoming a luxury metric.\n\nCompanies pay for inference, latency, memory, and completed work—not bragging rights. A smaller model that solves 90% of a task at one-tenth the cost can erase a frontier model’s quality edge. The next AI price war will look like infrastructure optimization.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T18:43:34.172382+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T20:23:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "AI 基礎建設不只是在機房塞更多 GPU。電力、土地、物流、地方政府與供應鏈整合，任何一環沒接好，昂貴晶片都只是在等插座。\n\n京東物流面對的整合考題，也會出現在每個 AI 資料中心案場。下一個真正的瓶頸會先在哪裡爆？",
+    "article_url": "/zh/industry/2026-11-12-where-does-jingdong-logistics-stand-the-integration-test-for-zh/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T18:43:34.172400+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T22:43:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI data centers are becoming a political product, not just an engineering project.\n\nDevelopers want cheap power and fast permits. Residents see higher grid costs, pollution, and secretive deals. Chips can be shipped; public consent can’t. The next AI infrastructure winners will be the companies that learn local politics.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T18:43:34.172402+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T01:03:34.174178+00:00",
+    "queued_at": "2026-11-12T18:43:34.174178+00:00"
   }
 ]

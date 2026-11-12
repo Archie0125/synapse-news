@@ -1,11 +1,20 @@
 # iPhone
 
 
-*Mentioned in 10 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
+  - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
+
+- **Apple Sports adds UFC events with real-time stats and results** (2026-11-12)
+  - UFC makes Apple Sports more useful, but its iPhone-only footprint keeps a strong live-score product unnecessarily boxed into one screen.
+
+- **Apple adjusts iPhone and Apple Watch trade-in values, adds Samsung foldables** (2026-11-12)
+  - Apple’s shifting trade-in table is less about used-device fairness than steering upgrades—and accepting Samsung foldables shows which switchers it now values.
 
 - **Apple Invites app now lets hosts poll guests, plus new emoji effect added** (2026-11-11)
   - Apple Invites keeps getting small monthly updates, but polls and floating emoji won't turn an iCloud+ perk into a reason to subscribe.

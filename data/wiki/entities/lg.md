@@ -1,11 +1,17 @@
 # LG
 
 
-*Mentioned in 5 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Pre-orders for some Apple Home Collection devices will open November 13** (2026-11-12)
+  - Apple’s home ecosystem is finally becoming tangible, but premium camera pricing means privacy and integration must justify more than the logo.
+
+- **Apple Home Collection accessories available for pre-order this Friday** (2026-11-12)
+  - Apple is turning smart-home simplicity into a curated hardware strategy, but asking for pre-orders before naming the first products weakens an otherwise compelling pitch.
 
 - **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
   - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.

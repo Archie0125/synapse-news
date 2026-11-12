@@ -7,14 +7,14 @@
 ## Recent Mentions
 
 
-- **The Best Early Black Friday MacBook Air Deal: $200 Off** (2026-11-12)
-  - A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+- **A power bank that can quickly charge three gadgets is just $49** (2026-11-12)
+  - At $49, EcoFlow’s 140W power bank is unusually compelling, provided buyers accept bringing their own cables and checking the Prime-only deal.
+
+- **Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more** (2026-11-12)
+  - The standout Apple discounts are real, but a sprawling Black Friday roundup still rewards price verification more than impulse buying.
 
 - **Early Black Friday Deals Under $100 (2026)** (2026-11-11)
   - When a sub-$100 deal list counts as news, the real headline is how expensive consumer tech has become, not the discounts.
-
-- **Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32** (2026-11-11)
-  - A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
 
 - **Sharge’s eye-catching MacBook charger is over 25 percent off** (2026-11-11)
   - Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.

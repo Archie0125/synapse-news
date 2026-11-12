@@ -1,7 +1,7 @@
 # Qwen
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,6 +18,3 @@
 
 - **Cloudflare Workers AI Retires 24 Models on November 20: What to Change Now** (2026-11-08)
   - Cloudflare is retiring 24 Workers AI models with about two weeks' notice and no automatic rerouting. That is the hidden tax of building on hosted model IDs.
-
-- **Postcards from tomorrow: Powering the agentic era through open source** (2026-11-05)
-  - With closed models only 3.3% ahead, the model is no longer the moat for many workloads. The real advantage moves to whoever runs the best fine-tuning and RL loop on their own data.

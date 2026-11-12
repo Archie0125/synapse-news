@@ -1,11 +1,35 @@
 # Samsung
 
 
-*Mentioned in 37 articles*
+*Mentioned in 44 articles*
 
 
 ## Recent Mentions
 
+
+- **Here’s How Google Says It’s Making Its Smart Glasses More Private** (2026-11-12)
+  - Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
+
+- **Google and Samsung’s Android XR Smart Glasses Are Finally Here** (2026-11-12)
+  - Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
+
+- **The first batch of Android XR smartglasses made me rethink my stance on specs without displays** (2026-11-12)
+  - Google’s display-free smartglasses suggest everyday usefulness and good design may matter more than squeezing a screen into the first generation.
+
+- **Google’s new Android XR glasses work with iOS, Made for iPhone certified** (2026-11-12)
+  - Google wisely made its XR glasses iPhone-friendly, but invisible camera use during Gemini analysis could matter more to public trust than any certification.
+
+- **Apple adjusts iPhone and Apple Watch trade-in values, adds Samsung foldables** (2026-11-12)
+  - Apple’s shifting trade-in table is less about used-device fairness than steering upgrades—and accepting Samsung foldables shows which switchers it now values.
+
+- **Pixel Watch and Fitbit Air will be able to control Android XR glasses with gestures** (2026-11-12)
+  - Turning existing watches into gesture controllers is Google’s smartest glasses feature because ecosystem reuse can beat selling customers yet another specialized wearable.
+
+- **‘Hey Gemini’ hotword debuts on Android XR glasses** (2026-11-12)
+  - “Hey Gemini” is a small naming fix, but its glasses-first debut signals that Google sees ambient AI—not phones—as Gemini’s natural home.
+
+- **Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20** (2026-11-12)
+  - Google and Samsung’s best smart-glasses feature may be restraint: hardware that looks ordinary could do more for adoption than another futuristic display.
 
 - **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
   - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
@@ -27,27 +51,3 @@
 
 - **Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users** (2026-11-10)
   - Samsung dropping OneDrive for Google Photos is a quiet win for Google's cloud business, though the One UI 9 requirement means many Galaxy owners will have to wait.
-
-- **One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s** (2026-11-10)
-  - Samsung is about to give Galaxy users Google's best Pixel 11 AI feature before Google itself does, which says a lot about Google's habit of locking features to Pixels.
-
-- **Galaxy S27 redesign leak shows off Pro vs Ultra size difference, with just a bit of controversy** (2026-11-10)
-  - Samsung called its vertical camera layout its 'core identity' months ago. The Galaxy S27 dummies suggest it is now borrowing Apple's design language instead.
-
-- **Meet Drops, the new music app bringing back the fun of sharing songs with friends** (2026-11-09)
-  - Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
-
-- **How to use your iPhone to take the best picture of the Moon** (2026-11-09)
-  - iPhones don't fake moon photos, so your exposure and stability matter more than the zoom, and an honest camera rewards people who learn a little about light.
-
-- **How to tell if your phone supports eSIM** (2026-11-09)
-  - Checking for eSIM takes ten seconds with *#06#; the real headache is Android fragmentation and carrier support, not your settings menu.
-
-- **Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?** (2026-11-09)
-  - Samsung's $5 Galaxy AI Premium keeps existing features free, which is smart, but hinting at usage caps on free features is the part to watch.
-
-- **Samsung Galaxy S27 series camera specs leak, and they’re disappointing** (2026-11-09)
-  - If these leaked specs are right, the S27 Ultra's camera advantage is shrinking. Samsung is spreading its best hardware across more models instead of pushing the top end forward.
-
-- **Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year** (2026-11-09)
-  - The S27 Pro isn't really a new choice for buyers. It's a way to move people who would have bought the regular S27 up to a higher price.

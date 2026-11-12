@@ -1,11 +1,14 @@
 # Rust
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **A live tree of systemd jobs on the boot console** (2026-11-09)
+  - Bootvine makes Linux startup easier to see, but its real value will depend on whether the attractive tree also helps diagnose slow or failed boots.
 
 - **KetchUp – Open-source SketchUp alternative built with Rust and WebGPU** (2026-11-08)
   - An open-source, browser-native SketchUp alternative aimed at woodworkers is smart positioning. Hobbyists are exactly the users subscription CAD has been pushing away.

@@ -1,11 +1,23 @@
 # NVIDIA
 
 
-*Mentioned in 9 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately** (2026-11-12)
+  - Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
+
+- **NVIDIA Announces CEO Transition** (2026-11-12)
+  - Jensen Huang’s abrupt exit turns NVIDIA’s succession planning from a governance footnote into the biggest uncertainty surrounding the AI hardware leader.
+
+- **Jensen Huang is out as NVIDIA CEO** (2026-11-12)
+  - Huang’s immediate exit removes NVIDIA’s defining leader precisely when AI dominance makes stable governance more important than founder mythology.
+
+- **Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month** (2026-11-12)
+  - Huang’s congressional testimony turns NVIDIA’s leadership crisis into a national-security reckoning that could outlast the scandal itself.
 
 - **Using voltage glitching to unleash the A100 in my mining card** (2026-11-11)
   - A hobbyist turned a cheap crypto-mining card into a faster-than-retail A100, which shows NVIDIA's fuse-based product segmentation is weaker than it looked.

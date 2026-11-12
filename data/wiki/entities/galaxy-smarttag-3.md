@@ -1,11 +1,14 @@
 # Galaxy SmartTag 3
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Deals: Galaxy SmartTag 3 up to 30% off, Chromebooks, Google Home Speaker, Walmart early Black Friday now live, more** (2026-11-12)
+  - The early Black Friday discounts are substantial, but the sprawling roundup makes comparison discipline more valuable than chasing every advertised historic low.
 
 - **Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more** (2026-11-09)
   - The free Android games are nice, but the real news in this deals roundup is buried at the top: Samsung and Google are already discounting brand-new hardware.

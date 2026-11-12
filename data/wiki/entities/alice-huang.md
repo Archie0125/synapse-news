@@ -1,11 +1,20 @@
 # Alice Huang
 
 
-*Mentioned in 20 articles*
+*Mentioned in 23 articles*
 
 
 ## Recent Mentions
 
+
+- **Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing** (2026-11-12)
+  - Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
+
+- **Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry** (2026-11-12)
+  - Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
+
+- **Jensen Huang resigns as CEO of Nvidia** (2026-11-12)
+  - Huang's resignation turns a personal scandal into Nvidia's biggest governance test, with disputed espionage claims raising stakes far beyond executive misconduct.
 
 - **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
   - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
@@ -42,12 +51,3 @@
 
 - **Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny** (2026-11-09)
   - Huang's case for selling chips to China just lost credibility. It's hard to argue for open access when you may have been a spy's target.
-
-- **A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal** (2026-11-09)
-  - A short seller with an obvious financial motive spotted the Nvidia CEO's risky relationship six months before Nvidia's own governance did, and that should embarrass the board.
-
-- **Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy** (2026-11-08)
-  - Huang's admission turns a personal scandal into a governance and national security test for the company at the center of US-China chip tensions.
-
-- **Nvidia is investigating Jensen Huang’s relationship with a Chinese spy** (2026-11-08)
-  - Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'

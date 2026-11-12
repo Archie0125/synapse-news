@@ -1,14 +1,11 @@
 # MacBook Air
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
-
-- **The Best Early Black Friday MacBook Air Deal: $200 Off** (2026-11-12)
-  - A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
 
 - **Deals: M5 MacBook Air up to $300 off, M6 Mac mini, AirPods Pro 3, HomeView, Magic Trackpad, more** (2026-11-10)
   - Black Friday came early, and the real story is how fast M6 Mac minis are being discounted. That's a hint about Apple's sales pressure, not just a bargain.

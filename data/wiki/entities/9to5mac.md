@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **9to5Mac Daily: November 11, 2026 – New Apple TV feature, more** (2026-11-12)
-  - A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
+- **30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry** (2026-11-12)
+  - A reported 30% return rate is alarming but not conclusive; the bigger warning is that Apple’s radical foldable currently feels easier to trial than commit to.
 
 - **iPhone Duo one week later: The future, or not for me?** (2026-11-11)
   - If a reviewer has to force themselves to unfold the iPhone Duo, the hinge isn't the problem. The use case is.

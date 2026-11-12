@@ -1,11 +1,20 @@
 # Kimberly Powell
 
 
-*Mentioned in 5 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations** (2026-11-12)
+  - Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
+
+- **The Jensen Huang scandal is hardly over** (2026-11-12)
+  - The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
+
+- **NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately** (2026-11-12)
+  - Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
 
 - **Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges** (2026-11-11)
   - Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.

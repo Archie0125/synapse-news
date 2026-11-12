@@ -1,11 +1,14 @@
 # Cursor
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts** (2026-11-12)
+  - The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.
 
 - **I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best** (2026-11-10)
   - A four-way AI coding tool comparison with an honest conclusion: the logo matters less than your prompts, context and review habits, which undercuts the whole idea of ranking them.

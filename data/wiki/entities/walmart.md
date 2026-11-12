@@ -1,11 +1,14 @@
 # Walmart
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more** (2026-11-12)
+  - The standout Apple discounts are real, but a sprawling Black Friday roundup still rewards price verification more than impulse buying.
 
 - **How to shop like a pro during Black Friday and Cyber Monday** (2026-11-09)
   - With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.

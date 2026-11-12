@@ -1,11 +1,14 @@
 # macOS
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Mount Thor raises $45 million to build Mac data centers for AI agents** (2026-11-12)
+  - Mount Thor is betting macOS will become scarce cloud infrastructure for AI agents, but its $45 million raise also exposes how hardware-heavy that niche is.
 
 - **Think twice before using a webcam cover on your MacBook** (2026-11-09)
   - A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.

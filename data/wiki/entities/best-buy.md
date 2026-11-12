@@ -1,11 +1,14 @@
 # Best Buy
 
 
-*Mentioned in 11 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
+
+- **Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now** (2026-11-12)
+  - The CyberPowerPC may be a capable 1440p deal, but contradictory GPU and discount claims make retailer verification mandatory before anyone clicks buy.
 
 - **One of our favorite multi-filament 3D printers is $100 off** (2026-11-10)
   - A $100 discount on Bambu's P2S Combo is a decent holiday deal, and a reminder that consumer 3D printing now competes on hands-off reliability rather than specs.

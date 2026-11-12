@@ -1,11 +1,14 @@
 # SpaceX
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense** (2026-11-12)
+  - Repeated Starshield throttling shows that privately controlled infrastructure has become a battlefield dependency with consequences measured in lives, not loading times.
 
 - **Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town** (2026-11-11)
   - After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.

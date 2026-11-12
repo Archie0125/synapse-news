@@ -1,7 +1,7 @@
 # Claude
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
@@ -27,6 +27,9 @@
 
 - **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
   - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
+
+- **Making a €40 USB-C hub work as a Nintendo Switch 2 dock** (2026-11-09)
+  - This €40 dock hack shows Nintendo’s incompatibility is a firmware handshake problem, not a USB-C limitation—and determined users can route around it.
 
 - **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
   - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.

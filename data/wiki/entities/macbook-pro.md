@@ -1,11 +1,14 @@
 # MacBook Pro
 
 
-*Mentioned in 10 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **The Best Early Black Friday MacBook Air Deal: $200 Off** (2026-11-12)
+  - A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
 
 - **iFixit teardown shows how Apple's glowing PROLED MacBook logo works** (2026-11-11)
   - Apple rebuilt the glowing logo with LEDs and a two-way-mirror coating, but repairability still got the half-hearted treatment.

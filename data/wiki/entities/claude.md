@@ -1,17 +1,23 @@
 # Claude
 
 
-*Mentioned in 11 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest** (2026-11-12)
+  - Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
 
 - **LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers** (2026-11-11)
   - LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
 
 - **Nod From n8n Labs: Great Demo, 14 Minute Wait on Day One** (2026-11-11)
   - n8n Labs' Nod is a real browser agent with a solid local design, but a first question that took 14 minutes to answer shows it's still a demo, not a tool you can rely on.
+
+- **OpenAI’s personal finance features for ChatGPT expands to Mac app** (2026-11-11)
+  - Bringing ChatGPT Finances to the Mac is a small update with a bigger strategy behind it: OpenAI wants your bank data, and that data keeps users coming back.
 
 - **Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information** (2026-11-10)
   - AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.

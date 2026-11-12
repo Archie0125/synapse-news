@@ -1,25 +1,25 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-11*
+*Last updated: 2026-11-12*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-11](daily/2026-11-11.md)
+- [Daily Digest 2026-11-12](daily/2026-11-12.md)
 
 
 ## Recent Analysis
 
-- [前沿模型殺價殺到見骨，但 Amazon 已經決定連最便宜的都不用了](analysis/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-zh.md)
+- [聯航封殺 AI 代理人：嘴上講資安，心裡怕的是多一個二房東](analysis/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-zh.md)
 
-- [The Frontier Price War Is a Decoy. The Real Fight Is Over Who Gets Fired.](analysis/2026-11-11-the-frontier-price-war-is-a-decoy-the-real-fight-is-over-who-en.md)
+- [United and eBay Aren't Blocking AI Agents. They're Blocking a New Landlord](analysis/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-en.md)
 
-- [黃仁勳美人計風暴：間諜要的不是機密，是 75 億美元的 GPU 配額](analysis/2026-11-11-jensen-huang-s-honeypot-wasn-t-about-secrets-it-was-about-al-zh.md)
+- [黃仁勳醜聞最可怕的不是婚外情，是輝達根本沒有備胎](analysis/2026-11-12-nvidia-s-real-scandal-isn-t-the-affairs-it-s-that-there-is-n-zh.md)
 
-- [Jensen Huang's Honeypot Wasn't About Secrets. It Was About Allocation](analysis/2026-11-11-jensen-huang-s-honeypot-wasn-t-about-secrets-it-was-about-al-en.md)
+- [Nvidia's Real Scandal Isn't the Affairs. It's That There Is No Plan B](analysis/2026-11-12-nvidia-s-real-scandal-isn-t-the-affairs-it-s-that-there-is-n-en.md)
 
-- [黃仁勳的外遇只是引信，75億美元的晶片管道才是炸彈](analysis/2026-11-11-jensen-huang-s-affair-isn-t-the-scandal-the-7-5b-chip-pipeli-zh.md)
+- [Gemini 不必最聰明，只要你躲不掉：Google 的 AI 圍城戰](analysis/2026-11-12-gemini-s-real-weapon-isn-t-intelligence-it-s-being-unavoidab-zh.md)
 
 
 ## Topics

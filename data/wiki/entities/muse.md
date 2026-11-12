@@ -1,11 +1,14 @@
 # Muse
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **ByteDance is reportedly working on its own AI agent** (2026-11-11)
+  - ByteDance's own founder says it may take until 2029 or 2030 to catch up in AI, so a Muse-style agent looks like a stopgap more than a challenge to the frontier labs.
 
 - **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
   - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.

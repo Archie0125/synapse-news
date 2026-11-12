@@ -1,14 +1,11 @@
 # Elegoo
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
-
-- **The best early Black Friday deals you can already shop** (2026-11-11)
-  - Early Black Friday deals are here, but with prices rising across tech, a discount sticker no longer guarantees you're getting a good price.
 
 - **Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live** (2026-11-07)
   - Elegoo's early Black Friday deals are real, but the $1 filament bundles show where the money is: selling consumables to locked-in printer owners.

@@ -1,11 +1,14 @@
 # Google Play
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more** (2026-11-11)
+  - This week's Play Store deals mostly serve to frame Google's hardware push: a Home Speaker at an all-time low and the newly launched Pixel Tag are the actual headline.
 
 - **Today’s Android app deals and freebies: Undead Slayer, Level Come Again, Children of Morta, more** (2026-11-10)
   - Amazon's early Black Friday sale is the real headline here, and the Play Store indie discounts are just the appetizer before holiday spending.

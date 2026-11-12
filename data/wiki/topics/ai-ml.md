@@ -1,10 +1,50 @@
 # AI & ML
 
 
-*352 articles in the last 7 days*
+*372 articles in the last 7 days*
 
 
 ## Latest
+
+
+### This is the Meta MetaRoCE Network Adapter
+
+*ServeTheHome | 2026-11-12*
+
+
+MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+
+
+### Where Does JINGDONG Logistics Stand? The Integration Test for China’s Supply-Chain Tech Sector
+
+*Dev.to | 2026-11-12*
+
+
+Logistics tech is won by integration, not robots. JD Logistics' 34 million square metres of network is the moat, though 'leading' still lacks a market-share number.
+
+
+### Six of 16 common MCP servers can't be read from outside. One of the others changed 19 times in a month
+
+*Dev.to | 2026-11-12*
+
+
+The MCP servers that touch your most sensitive data are the ones nobody can audit from outside, and silent tool-definition changes should worry every agent builder.
+
+
+### Single-step flow matching brightens low‑light photos
+
+*Dev.to | 2026-11-12*
+
+
+GLOW-FM shrinks multi-step diffusion into one pass for low-light photos, a real edge-AI win if its claims hold beyond static benchmarks.
+
+
+### Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest
+
+*Dev.to | 2026-11-12*
+
+
+Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
 
 
 ### LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers
@@ -13,6 +53,14 @@
 
 
 LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
+
+
+### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
+
+*Wired | 2026-11-11*
+
+
+A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
 
 
 ### A Startup Wants to Fight AI Bioweapons With AI
@@ -31,28 +79,52 @@ Radical Numerics selling an AI bioweapon detector right after showing its model 
 This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
 
 
-### Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts
+### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
 
 *Tom's Hardware | 2026-11-11*
 
 
-The AI boom now has a battlefield cost: data centers are outbidding Ukraine for the fiber its jam-proof drones depend on.
+Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
 
 
-### SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
-
-*Tom's Hardware | 2026-11-11*
-
-
-SpaceX's custom Kessel rack keeps Nvidia's GPUs but takes over the rest of the supply chain, which is the first real crack in Nvidia's full-stack lock-in.
-
-
-### Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting
+### Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges
 
 *Tom's Hardware | 2026-11-11*
 
 
-SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
+Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.
+
+
+### Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches
+
+*Tom's Hardware | 2026-11-11*
+
+
+AI made writing patches nearly free but left reviewing them just as expensive, and the Linux kernel is now losing experienced reviewers because of it.
+
+
+### Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town
+
+*Tom's Hardware | 2026-11-11*
+
+
+After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.
+
+
+### Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU
+
+*Tom's Hardware | 2026-11-11*
+
+
+Kora has a smart idea for running AI locally across CPU, GPU, and NPU, but it's wrapped in buzzwords and won't ship until 2027.
+
+
+### Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains
+
+*Tom's Hardware | 2026-11-11*
+
+
+Cognichip's 'months to days' claim is bold, but in chip design the proof isn't faster RTL. It's first-pass silicon that actually works.
 
 
 ### AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT
@@ -61,6 +133,22 @@ SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply
 
 
 AMD's MEXT turns the DRAM shortage into a software problem, but 95 percent performance claims need independent benchmarks before data centers rely on them.
+
+
+### United won’t let your AI agent book your flight
+
+*The Verge | 2026-11-11*
+
+
+United's AI agent ban is framed as safety, but its CEO said the real fear out loud: becoming just another supplier behind an AI middleman.
+
+
+### Loot boxes, influencers, and addictive features face an EU crackdown
+
+*The Verge | 2026-11-11*
+
+
+The EU's Digital Fairness Act goes after the engagement playbook itself, and its inclusion of AI chatbots signals the next regulatory frontier.
 
 
 ### Google’s Tabletop AI experiment lets you build custom collaboration apps
@@ -77,83 +165,3 @@ Tabletop is Google pointing vibecoding at the group chat, a smart test, but Goog
 
 
 AlphaGenome 2 matters because it stops treating DNA as one script and asks how each cell reads it, which is where disease actually happens.
-
-
-### Adobe’s AI experiments let you walk around in photos and interview your characters
-
-*The Verge | 2026-11-11*
-
-
-Adobe's Max sneaks are the most interesting thing it has shown on AI, mainly because they go after the real problem with AI video: lack of creative control.
-
-
-### Siri co-founder backs Helix for its voice ID tech
-
-*TechCrunch | 2026-11-11*
-
-
-Helix wants to prove you're human with your voice at a time when AI voice cloning is everywhere. It's a bold bet, and the burden of proof is high.
-
-
-### Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
-
-*TechCrunch | 2026-11-11*
-
-
-Plurai is betting that AI agents need what self-driving cars needed: a simulator full of edge cases. The analogy holds, which shows how far agents are from autonomy.
-
-
-### OpenAI’s quarterly revenue reportedly crosses $10B for the first time
-
-*TechCrunch | 2026-11-11*
-
-
-OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
-
-
-### Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
-
-*TechCrunch | 2026-11-11*
-
-
-Databricks' strongest pitch for Genie isn't automation. It's a CEO admitting he needs an AI to tell him the bad news his 12,000 employees won't.
-
-
-### Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company
-
-*SaaStr | 2026-11-11*
-
-
-Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.
-
-
-### Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.
-
-*SaaStr | 2026-11-11*
-
-
-Higgsfield's jump from $1B to $1.35B in run rate in one month is remarkable, but every figure comes from the company or its own investor.
-
-
-### What to know about this year’s UN climate talks
-
-*MIT Technology Review | 2026-11-11*
-
-
-COP31 opens with the 1.5°C goal close to dead, the US absent, and an energy-price shock. Expect a fight over money, not over ambition.
-
-
-### The Download: preserving minds and weighing open AI risks
-
-*MIT Technology Review | 2026-11-11*
-
-
-Anthropic warning that a Chinese open model is a cyber risk is a fair point and a convenient one, and the open-versus-closed debate needs evidence more than flashpoints.
-
-
-### JioHotstar Benchmarks Knowledge Bases for AI Coding Agents
-
-*InfoQ | 2026-11-11*
-
-
-JioHotstar's benchmark is a reality check for the code-RAG hype: plain filesystem search held up well, and extra retrieval layers often just added cost.

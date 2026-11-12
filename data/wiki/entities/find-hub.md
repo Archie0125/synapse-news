@@ -1,7 +1,7 @@
 # Find Hub
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **How to replace the battery on Pixel Tag [Video]** (2026-11-11)
   - Pixel Tag's slick design makes it look premium and makes the battery door annoyingly hard to open. A user-replaceable battery only helps if users can actually replace it.
+
+- **Google Pixel Tag is only available in 8 countries, and excludes Europe** (2026-11-11)
+  - Google built a travel tracker and then left the EU off its launch map, which says more about regulatory caution than about demand.
 
 - **Google’s Pixel Tag tracker is now available** (2026-11-10)
   - Google finally ships its own AirTag rival at AirTag prices, and the hardware is solid, but whether it succeeds depends on whether the Find Hub network can actually match Apple's.

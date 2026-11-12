@@ -1401,5 +1401,120 @@
     "status": "pending",
     "scheduled_for": "2026-11-13T03:18:34.467634+00:00",
     "queued_at": "2026-11-11T18:38:34.467634+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "輝達的晶片受出口管制，執行長顯然沒有。\n\n但這次真正可怕的不是婚外情。\n\n60 名直屬部屬、沒有董事長、沒有公開的接班人。一間兆元公司最大的單點故障，不是台積電產能，是黃仁勳本人。\n\n國會揚言發傳票，董事會傳出準備換人。\n\n台灣供應鏈該問的是：換了執行長，下一任還會一年飛來台北好幾趟、在夜市跟大家合照嗎？",
+    "article_url": "/zh/industry/2026-11-12-huang-ren-xun-chou-wen-zui-ke-pa-de-bu-shi-hun-wai-qing-shi-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-12T06:32:05.545217+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T08:00:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Nvidia's chips are export-controlled. Its CEO apparently wasn't.\n\nThe affairs are tabloid material. The governance is the real scandal: 60 direct reports, no chairman, no named successor.\n\nCongress is threatening subpoenas, and the board is reportedly lining up an exit. That isn't a succession plan. It's a fire drill.\n\nPrediction: on next quarter's calls, analysts will ask every AI megacap the same question. Who is your Plan B?",
+    "article_url": "/en/industry/2026-11-12-nvidia-s-real-scandal-isn-t-the-affairs-it-s-that-there-is-n-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-12T06:32:05.545276+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T10:20:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "大家都在猜誰能接黃仁勳，但這題問錯了。\n\n輝達的問題不在找不找得到人，而是整間公司的組織就是照一個人的腦袋設計的。\n\n60 個人直接向他報告，等於有 60 條線會在同一天斷掉。\n\n換掉執行長很快，重建一套不靠英雄撐著的決策系統，至少要三年。這三年，AMD 跟各家自研晶片不會停下來等。",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T06:32:05.545288+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T12:40:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "$1.4 trillion IPO range. Price cuts on Fable 5.2 and Mythos 5.2. Claude Sheets and Claude Meetings. All in the same week.\n\nThat's not a product roadmap. That's the S-1 story: we're not a dev tool, we're the next Office.\n\nThe catch is the supervoting founder shares. Public investors get the upside, not the steering wheel.\n\nThe roadshow isn't the real test. The real test is whether finance teams open Claude Sheets before Excel by next summer.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T06:32:05.545298+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T15:00:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "United and eBay say they're blocking AI agents for security.\n\nRead it differently: they're refusing to become a supplier behind someone else's storefront.\n\nOnce an agent books your flight, the airline loses the upsell, the loyalty nudge and the data. The agent becomes the new landlord.\n\nMeanwhile OpenAI is building verified Business Agents and Adobe is opening up through MCP.\n\nThe agentic web won't be open. It'll be gated, licensed and paid by the API call.",
+    "article_url": "/en/industry/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-12T06:32:05.545321+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T17:20:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 的瓶頸已經不是 GPU，是插座。\n\nAnthropic 砸 34 億美元自己買燃氣渦輪，xAI 在德州直接用燃氣發電養超級電腦。AI 公司正在變成電力公司。\n\n同時，從喬治亞、密西根到英國，資料中心一座接一座被告、被居民擋下。\n\n台灣電網本來就吃緊。下一個被追問「電從哪來」的，大概就是某座正在蓋的台灣 AI 機房。",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T06:32:05.545309+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T19:40:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "聯航和 eBay 擋 AI 代理人，嘴上說資安，心裡怕的是多一個二房東。\n\n讓代理人幫你訂機票，航空公司就沒機會推升等、推會員、拿你的資料。客戶關係直接被中間商抽走。\n\n台灣電商也逃不掉。哪天消費者只跟 AI 說「幫我買最便宜的」，你的品牌還剩什麼？\n\n我賭兩年內，大平台會改成向 AI 代理人收過路費，而不是封殺。",
+    "article_url": "/zh/industry/2026-11-12-lian-hang-feng-sha-ai-dai-li-ren-zui-shang-jiang-zi-an-xin-l-zh/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T06:32:05.545351+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-12T22:00:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "We checked 16 common MCP servers. Six can't be inspected from outside at all.\n\nOne changed its tool descriptions 19 times in a month.\n\nYour agent reads those descriptions as instructions. If they can change without a version bump, you aren't pinning dependencies. You're trusting whatever text the server sends that day.\n\nThe first big MCP supply-chain attack won't need an exploit. It'll need one edited sentence.",
+    "article_url": "/en/developer-tools/2026-11-12-six-of-16-common-mcp-servers-can-t-be-read-from-outside-one-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-12T06:32:05.545358+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T00:20:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Google isn't trying to win the smartest-model contest anymore. It's trying to win the already-installed contest.\n\nGemini 4 Carbon cuts per-task costs, then shows up in CarPlay, Android Auto, Pixel Drops, healthcare and Adobe.\n\nDistribution beats benchmarks, until users learn that human annotators may be reading their chats.\n\nGemini's weak spot isn't capability, it's privacy. Bet on a major regulator complaint landing before spring.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-12T06:32:05.545315+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T02:40:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Grok Build 外洩、Fireworks AI 被駭還波及 Notion、Linux 維護者被 AI 生成的 patch 淹沒。\n\n共同點只有一個：代理人寫東西的速度，已經遠遠超過人類審得完的速度。\n\nGitHub 推出 lockfile、短效 token、代理人護欄，方向是對的。但工具再好，設定檔還是人在寫，維護者還是那幾個人。\n\n下一次大型資安事件，凶手大概不是駭客，是一個沒人看過就合併的 PR。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-12T06:32:05.545369+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T05:00:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "如果使用者一能關掉，你的留存策略就失效，那你做的是陷阱，不是產品。\n\n歐盟《數位公平法》點名連續打卡、開箱轉蛋、退不掉的訂閱，還有 AI 聊天機器人，罰款最高營收 6%。\n\nDuolingo 那隻貓頭鷹可以開始緊張了。\n\n台灣手遊業者也別覺得事不關己，轉蛋只要賣進歐洲，就得照布魯塞爾的規矩玩。我賭第一張大罰單會開給遊戲公司，不是社群平台。",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-12T06:32:05.545380+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T07:20:00+00:00",
+    "queued_at": "2026-11-12T06:32:05.548749+00:00"
   }
 ]

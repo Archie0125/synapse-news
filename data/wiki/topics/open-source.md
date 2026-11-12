@@ -1,26 +1,66 @@
 # Open Source
 
 
-*115 articles in the last 7 days*
+*121 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The AO3 Shutdown Is Pitting Fanfic Readers Against Authors
+### This is the Meta MetaRoCE Network Adapter
+
+*ServeTheHome | 2026-11-12*
+
+
+MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+
+
+### Five Bugs Hiding in a URL Shortener (and the Fix for Each)
+
+*Dev.to | 2026-11-12*
+
+
+The three-box URL shortener diagram passes interviews and fails production. Testing traps against real concurrency is the lesson most tutorials skip.
+
+
+### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
 
 *Wired | 2026-11-11*
 
 
-AO3's outage shows that a community archive becomes a single point of failure, and fans' rescue drives are breaking the consent norms that held the community together.
+A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
 
 
-### Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry
+### Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
 
-*InfoQ | 2026-11-11*
+*Tom's Hardware | 2026-11-11*
 
 
-Dashboards let you guess, and traces let you explain. Gearset's talk is a strong case that async queues are where traditional monitoring fails without anyone noticing.
+Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
+
+
+### Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches
+
+*Tom's Hardware | 2026-11-11*
+
+
+AI made writing patches nearly free but left reviewing them just as expensive, and the Linux kernel is now losing experienced reviewers because of it.
+
+
+### Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU
+
+*Tom's Hardware | 2026-11-11*
+
+
+Kora has a smart idea for running AI locally across CPU, GPU, and NPU, but it's wrapped in buzzwords and won't ship until 2027.
+
+
+### Hands on with Home Assistant’s new ‘smart home multi-tool’
+
+*The Verge | 2026-11-11*
+
+
+Home Assistant's $69 Aux-2 is a quiet attack on e-waste, making old dumb devices smart instead of pushing you to buy new ones.
 
 
 ### Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor
@@ -31,12 +71,20 @@ Dashboards let you guess, and traces let you explain. Gearset's talk is a strong
 TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.
 
 
-### Token Pooling-Aware Training for Multi-Vector Embedding Models
+### The Utah Teapot
 
-*Hugging Face Blog | 2026-11-11*
+*Hacker News | 2026-11-11*
 
 
-Pooling-aware training makes compressed multi-vector retrieval nearly free, which takes away one of the strongest arguments against ColBERT-style search: storage cost.
+A 1970s teapot is still a standard test model in computer graphics, which shows how much the field depends on shared, freely usable reference objects.
+
+
+### Show HN: Yogurt – Free, private, open-source alternative to Granola
+
+*Hacker News | 2026-11-11*
+
+
+Yogurt turns paid AI meeting notes into a free, local, open-source app, putting pressure on Granola's subscription model.
 
 
 ### Hyper-Realistic Sand with WebGL2
@@ -61,6 +109,14 @@ An LLM spent 8 hours on 'weight-space programming' that a one-minute linear prog
 
 
 Atuin's bet is right: AI agent session logs are the new shell history, and whoever indexes the 'why' behind your work owns your workflow.
+
+
+### 93% of paint splatters are valid Perl programs (2019)
+
+*Hacker News | 2026-11-11*
+
+
+A 2019 April Fools' paper found that 93% of OCR-scanned paint splatters parse as valid Perl. It's a joke, but a fair jab at how loose Perl's syntax is.
 
 
 ### UnlockTool — A Native Windows Utility Built with C++ and Win32 API
@@ -109,59 +165,3 @@ Gitmanual's URL-swap trick is clever growth design, and its real bet is building
 
 
 A student to-do app turns into a solid lesson in cloud deployment because the team designed its database queries and automated its infrastructure with care.
-
-
-### Cómo convertir la foto de una firma en un sello PDF transparente con Python
-
-*Dev.to | 2026-11-11*
-
-
-This guide uses measurements to show why a fixed threshold fails to remove the background from signature photos, and why estimating local paper brightness works better.
-
-
-### Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel
-
-*Tom's Hardware | 2026-11-10*
-
-
-AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.
-
-
-### Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark
-
-*Tom's Hardware | 2026-11-10*
-
-
-A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.
-
-
-### Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support
-
-*InfoQ | 2026-11-10*
-
-
-Effect 4.0's performance claims are impressive, but they come from the team's own benchmarks. The three-year LTS commitment may matter more than any of the numbers.
-
-
-### Cloudflare Makes Basin Serverless Analytics Generally Available
-
-*InfoQ | 2026-11-10*
-
-
-Cloudflare's Basin turns zero egress fees into a strategic weapon, making open Iceberg tables the bait to pull analytics workloads away from hyperscalers.
-
-
-### Val Town is winding down
-
-*Hacker News | 2026-11-10*
-
-
-Val Town's shutdown is a model of a graceful exit, and a reminder that being a delightful developer platform can't beat hyperscaler economics.
-
-
-### Tracking Anthropic-discovered vulnerabilities
-
-*Hacker News | 2026-11-10*
-
-
-Anthropic's Project Glasswing is great at finding bugs and much worse at getting them fixed: 37,966 findings, just 217 fixed, and maintainers left to sort the rest.

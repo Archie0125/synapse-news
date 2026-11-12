@@ -1,26 +1,58 @@
 # Hardware
 
 
-*380 articles in the last 7 days*
+*415 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini
+### Walking Pad Deals to Shop Ahead of Black Friday (2026)
+
+*Wired | 2026-11-12*
+
+
+Early Black Friday walking pad deals are real savings, but the Urevo CyberPad's $110 discount buys an incline you'll struggle to store, so plan where it lives.
+
+
+### The Best Early Black Friday MacBook Air Deal: $200 Off
+
+*Wired | 2026-11-12*
+
+
+A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+
+
+### Who could replace Jensen Huang? A highly unscientific list of possible successors
+
+*TechCrunch | 2026-11-12*
+
+
+Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+
+
+### This is the Meta MetaRoCE Network Adapter
+
+*ServeTheHome | 2026-11-12*
+
+
+MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+
+
+### The Nintendo Switch 2 is down to its lowest price of the season tonight only
+
+*9to5Google | 2026-11-12*
+
+
+A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
+
+
+### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
 
 *Wired | 2026-11-11*
 
 
-The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
-
-
-### The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)
-
-*Wired | 2026-11-11*
-
-
-Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
+A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
 
 
 ### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
@@ -71,30 +103,6 @@ Indoor smart gardens actually work after two years of testing, but the $899 Gard
 WIRED's air purifier guide is useful because it tests with real smoke, and its top budget pick costs $270, so clean air still isn't cheap.
 
 
-### Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts
-
-*Tom's Hardware | 2026-11-11*
-
-
-The AI boom now has a battlefield cost: data centers are outbidding Ukraine for the fiber its jam-proof drones depend on.
-
-
-### SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
-
-*Tom's Hardware | 2026-11-11*
-
-
-SpaceX's custom Kessel rack keeps Nvidia's GPUs but takes over the rest of the supply chain, which is the first real crack in Nvidia's full-stack lock-in.
-
-
-### Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting
-
-*Tom's Hardware | 2026-11-11*
-
-
-SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
-
-
 ### Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32
 
 *Tom's Hardware | 2026-11-11*
@@ -103,33 +111,33 @@ SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply
 A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
 
 
-### AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT
+### Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing
 
 *Tom's Hardware | 2026-11-11*
 
 
-AMD's MEXT turns the DRAM shortage into a software problem, but 95 percent performance claims need independent benchmarks before data centers rely on them.
+Prusa's ESD filament is less about hobbyists and more a cheap shot at CNC-machined factory fixtures, and the price undercuts every rival.
 
 
-### The best early Black Friday deals you can already shop
+### PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6
 
-*The Verge | 2026-11-11*
-
-
-Early Black Friday deals are here, but with prices rising across tech, a discount sticker no longer guarantees you're getting a good price.
+*Tom's Hardware | 2026-11-11*
 
 
-### Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price
-
-*The Verge | 2026-11-11*
+Logitech's GTA 6 day off is cheap, clever marketing: it turns expected sick calls into a brand story for a company that sells gaming gear.
 
 
-Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.
+### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
+
+*Tom's Hardware | 2026-11-11*
 
 
-### Sharge’s eye-catching MacBook charger is over 25 percent off
-
-*The Verge | 2026-11-11*
+Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
 
 
-Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.
+### Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges
+
+*Tom's Hardware | 2026-11-11*
+
+
+Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.

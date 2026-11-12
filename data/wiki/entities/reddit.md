@@ -1,7 +1,7 @@
 # Reddit
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **I feel a little nostalgic about the Apple Support Community forums, but it was time** (2026-11-11)
   - Apple shutting its 28-year-old support forums looks like cost-cutting, but it also hands the job of troubleshooting Apple products to Reddit.
+
+- **Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]** (2026-11-11)
+  - Google restoring its playful timer sounds is a quiet admission that the Gemini migration stripped out personality, yet the new confirm tone repeats the mistake by sounding like an error.
 
 - **Reddit is (sort of) getting into the product reviews business** (2026-11-10)
   - Reddit is turning the habit of adding 'reddit' to product searches into a product, a direct threat to affiliate review sites if it can stay free of manipulation.

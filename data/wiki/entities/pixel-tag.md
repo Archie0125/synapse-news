@@ -1,7 +1,7 @@
 # Pixel Tag
 
 
-*Mentioned in 8 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -10,8 +10,14 @@
 - **You can now buy the Pixel Tag, cases from Bellroy & Spigen available** (2026-11-11)
   - Pixel Tag finally gives Android a polished AirTag rival. The bigger story is that Google launched it with accessories and a user-replaceable battery on day one.
 
+- **Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more** (2026-11-11)
+  - This week's Play Store deals mostly serve to frame Google's hardware push: a Home Speaker at an all-time low and the newly launched Pixel Tag are the actual headline.
+
 - **How to replace the battery on Pixel Tag [Video]** (2026-11-11)
   - Pixel Tag's slick design makes it look premium and makes the battery door annoyingly hard to open. A user-replaceable battery only helps if users can actually replace it.
+
+- **Google Pixel Tag is only available in 8 countries, and excludes Europe** (2026-11-11)
+  - Google built a travel tracker and then left the EU off its launch map, which says more about regulatory caution than about demand.
 
 - **Google’s Pixel Tag tracker is now available** (2026-11-10)
   - Google finally ships its own AirTag rival at AirTag prices, and the hardware is solid, but whether it succeeds depends on whether the Find Hub network can actually match Apple's.

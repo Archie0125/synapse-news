@@ -1,11 +1,17 @@
 # Nintendo
 
 
-*Mentioned in 8 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **The Nintendo Switch 2 is down to its lowest price of the season tonight only** (2026-11-12)
+  - A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
+
+- **Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled** (2026-11-11)
+  - Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
 
 - **Ocarina of Time is even better if you use a smartphone app** (2026-11-11)
   - Nintendo quietly fixed Ocarina of Time's worst chore with a phone app, admitting second screens beat in-game hint systems.

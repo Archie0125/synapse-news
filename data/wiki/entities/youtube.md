@@ -1,14 +1,11 @@
 # YouTube
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
-
-- **Streaming is still trying to be TikTok** (2026-11-11)
-  - Streamers keep copying TikTok's vertical feed, but nobody has shown it works, and the silence on results is the loudest data point.
 
 - **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
   - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.

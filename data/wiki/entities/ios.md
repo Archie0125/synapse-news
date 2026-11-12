@@ -1,7 +1,7 @@
 # iOS
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **WhatsApp may soon replace the Communities tab on iOS** (2026-11-11)
   - WhatsApp swapping Communities for a Contacts tab with online status quietly admits that people want to see who's online now more than they want group features.
+
+- **Binance warns iPhone crypto holders of security flaw researchers say remains unpatched** (2026-11-11)
+  - A public iOS sandbox escape that remains unpatched in iOS 27.2.1 is bad news for Apple's walled-garden security story, and crypto users feel it first.
 
 - **Apple releases iOS 26.7.3, watchOS 27.2.1, and more** (2026-11-09)
   - Apple patching iOS versions going back to 18 is quiet, unglamorous support that most rivals still don't match.

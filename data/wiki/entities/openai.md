@@ -1,17 +1,20 @@
 # OpenAI
 
 
-*Mentioned in 41 articles*
+*Mentioned in 42 articles*
 
 
 ## Recent Mentions
 
 
-- **Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting** (2026-11-11)
-  - SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
+- **I Saw the Future of Robotics in a Virtual Duck That Chases My Cat** (2026-11-11)
+  - A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
 
-- **OpenAI’s quarterly revenue reportedly crosses $10B for the first time** (2026-11-11)
-  - OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
+- **OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center** (2026-11-11)
+  - Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
+
+- **OpenAI’s personal finance features for ChatGPT expands to Mac app** (2026-11-11)
+  - Bringing ChatGPT Finances to the Mac is a small update with a bigger strategy behind it: OpenAI wants your bank data, and that data keeps users coming back.
 
 - **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
   - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
@@ -48,6 +51,3 @@
 
 - **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
   - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
-
-- **Disney and Adobe are building generative AI tools together** (2026-11-09)
-  - Disney's Adobe deal is a bet that "commercially safe," IP-trained AI can scale production, and "artist-led" is doing a lot of PR work in that pitch.

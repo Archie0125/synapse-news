@@ -1,7 +1,7 @@
 # SaaStr
 
 
-*Mentioned in 11 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company** (2026-11-11)
   - Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.
+
+- **Our Agents Never Picked Canva. 10 Learnings on Agent Pricing, Getting Picked, and Security From This Week’s “The Agents” With Ulrik Lehrskov-Schmidt** (2026-11-11)
+  - Canva didn't lose a 12-year customer to a competitor. It lost them because their AI agents never had a reason to use it.
 
 - **Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.** (2026-11-11)
   - Higgsfield's jump from $1B to $1.35B in run rate in one month is remarkable, but every figure comes from the company or its own investor.

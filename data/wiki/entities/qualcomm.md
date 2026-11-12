@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU** (2026-11-11)
+  - Kora has a smart idea for running AI locally across CPU, GPU, and NPU, but it's wrapped in buzzwords and won't ship until 2027.
+
 - **After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era** (2026-11-10)
   - Cyanogen's co-founder is betting that AI agents can finally break Windows' grip, but a free OS for power users still needs a business model and a working distribution plan.
 
@@ -18,6 +21,3 @@
 
 - **First Android XR ‘Intelligent Eyewear’ glasses go on pre-order next week** (2026-11-05)
   - Google's first Android XR glasses have no display and are sold through eyewear brands, which is a modest but smart way to get smart glasses onto people's faces.
-
-- **Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win** (2026-11-04)
-  - SpaceX picked Qualcomm to power tens of thousands of 5G sites, and the bigger story is that Starlink Mobile looks like it is building America's fourth major carrier.

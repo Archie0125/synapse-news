@@ -1,10 +1,26 @@
 # Policy
 
 
-*123 articles in the last 7 days*
+*136 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Who could replace Jensen Huang? A highly unscientific list of possible successors
+
+*TechCrunch | 2026-11-12*
+
+
+Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+
+
+### Pete Hegseth Is About to Get His Ass Kicked
+
+*Wired | 2026-11-11*
+
+
+Democrats' smartest move on Hegseth isn't going big. It's narrowing impeachment to complaints Senate Republicans already share.
 
 
 ### Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing
@@ -39,12 +55,44 @@ The world's most strategic chip CEO allegedly fell for the oldest spy trick arou
 This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
 
 
-### Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts
+### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
 
 *Tom's Hardware | 2026-11-11*
 
 
-The AI boom now has a battlefield cost: data centers are outbidding Ukraine for the fiber its jam-proof drones depend on.
+Calling a data center deal racketeering is aggressive, but it shows local anger at NDA-driven AI megaprojects has turned into a legal strategy.
+
+
+### Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
+
+*Tom's Hardware | 2026-11-11*
+
+
+Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
+
+
+### Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town
+
+*Tom's Hardware | 2026-11-11*
+
+
+After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.
+
+
+### Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’
+
+*Tom's Hardware | 2026-11-11*
+
+
+Jensen Huang's private scandal is now a national-security problem, and a subpoena threat means Congress won't wait for Nvidia's board to finish its own investigation.
+
+
+### Loot boxes, influencers, and addictive features face an EU crackdown
+
+*The Verge | 2026-11-11*
+
+
+The EU's Digital Fairness Act goes after the engagement playbook itself, and its inclusion of AI chatbots signals the next regulatory frontier.
 
 
 ### I asked every TV manufacturer 17 questions about how they spy on you
@@ -53,6 +101,14 @@ The AI boom now has a battlefield cost: data centers are outbidding Ukraine for 
 
 
 Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.
+
+
+### The unfolding Jensen Huang scandal: a timeline
+
+*TechCrunch | 2026-11-11*
+
+
+Huang's personal scandal stopped being personal once it involved an alleged Chinese spy tied to a $4.8 billion Nvidia chip buyer.
 
 
 ### Nvidia’s crisis has corporate governance experts reaching for the popcorn
@@ -71,20 +127,12 @@ Nvidia lost about 9.5% in two days with no new facts, which tells you how much o
 The Nvidia honeypot story is probably not a one-off. In the chip industry, an executive's personal conduct has become a national security risk.
 
 
-### What to know about this year’s UN climate talks
+### Congress to call Jensen Huang in to answer for alleged Chinese spy affair
 
-*MIT Technology Review | 2026-11-11*
-
-
-COP31 opens with the 1.5°C goal close to dead, the US absent, and an energy-price shock. Expect a fight over money, not over ambition.
+*TechCrunch | 2026-11-11*
 
 
-### The Download: preserving minds and weighing open AI risks
-
-*MIT Technology Review | 2026-11-11*
-
-
-Anthropic warning that a Chinese open model is a cyber risk is a fair point and a convenient one, and the open-versus-closed debate needs evidence more than flashpoints.
+Jensen Huang's personal scandal is now a national security issue in Congress, and that puts Nvidia's ties to Washington at risk.
 
 
 ### We need more goat sacrifices
@@ -95,73 +143,25 @@ Anthropic warning that a Chinese open model is a cyber risk is a fair point and 
 A tongue-in-cheek call for ritual humility before launching social programs, and the evidence that many well-meant interventions do nothing is uncomfortably strong.
 
 
-### Europe wants to ban 'dark patterns' in apps and loot boxes for minors
+### United Airlines bans AI agents from booking flights on behalf of travelers
+
+*Hacker News | 2026-11-11*
+
+
+United bans AI agents from booking flights and cites security, but the bigger reason looks like keeping control of its customers away from a new middleman.
+
+
+### United is restricting AI agents from booking flights
 
 *Engadget | 2026-11-11*
 
 
-The EU's Digital Fairness Act goes after the growth hacks that keep app revenue up, including dark patterns, loot boxes and subscription traps, and a 6% fine makes it more than symbolic.
+United cites security and FAA rules to keep AI agents from booking flights, but the CEO's 'no new middleman' remark points to customer ownership as the real motive.
 
 
-### Electrical Architecture Fundamentals — Ch.09: Functional Safety Overview [KR]
+### New York is forcing T-Mobile to stop putting data caps on low-income home internet plans
 
-*Dev.to | 2026-11-11*
-
-
-ISO 26262's key lesson is that reliable is not the same as safe, and robotics teams borrowing from automotive need to take that seriously.
+*Engadget | 2026-11-11*
 
 
-### iOS 27.3 adds new setting to bypass website cookie popups (eventually)
-
-*9to5Mac | 2026-11-11*
-
-
-Safari's new Global Privacy Control setting could kill cookie banners, but only after websites support it and more laws enforce it, and neither is happening fast.
-
-
-### Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information
-
-*Wired | 2026-11-10*
-
-
-AI didn't find sophisticated UK government flaws. It found embarrassing ones, like leaked non-expiring credentials, that any routine health check should have caught.
-
-
-### Louis Rossmann Wants More People to Care About the Right to Repair
-
-*Wired | 2026-11-10*
-
-
-Right to repair has grown into a real movement, and AI-assisted hacking just gave owners leverage that parts-pairing locks weren't built to stop.
-
-
-### Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
-
-*Wired | 2026-11-10*
-
-
-NASA's X-70 Fractal is a modular flying test bench, not a moonshot. The real story is the unnamed maneuvers NASA won't explain yet.
-
-
-### Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports
-
-*Tom's Hardware | 2026-11-10*
-
-
-Microsoft's lobbying shows that America's AI buildout depends on Chinese optical parts, and a ban could leave expensive GPUs sitting unused.
-
-
-### Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang
-
-*Tom's Hardware | 2026-11-10*
-
-
-If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
-
-
-### The US is winning the AI race. Jensen Huang could have blown it
-
-*The Verge | 2026-11-10*
-
-
-Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
+T-Mobile followed New York's low-income broadband law on paper, then capped the data, limited where it was sold and hid it from search engines.

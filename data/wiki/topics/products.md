@@ -1,26 +1,66 @@
 # Products
 
 
-*840 articles in the last 7 days*
+*893 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini
+### Walking Pad Deals to Shop Ahead of Black Friday (2026)
 
-*Wired | 2026-11-11*
-
-
-The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
+*Wired | 2026-11-12*
 
 
-### The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)
-
-*Wired | 2026-11-11*
+Early Black Friday walking pad deals are real savings, but the Urevo CyberPad's $110 discount buys an incline you'll struggle to store, so plan where it lives.
 
 
-Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
+### The Best Early Black Friday MacBook Air Deal: $200 Off
+
+*Wired | 2026-11-12*
+
+
+A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+
+
+### Track Shopify App Store competitors: pricing plans, category ranks and new reviews in Python
+
+*Dev.to | 2026-11-12*
+
+
+Shopify app competitor data is all public but painful to compare by hand. A paid scraper fixes that, though the real value is the daily alert feed, not the table.
+
+
+### Jira Storage Limit: Uploads Blocked at 250 GB
+
+*Dev.to | 2026-11-12*
+
+
+Atlassian turned a long-ignored storage limit into an upload block, and the only exit is a Premium upgrade that is expensive disk space.
+
+
+### Generate a PDF from JSON in one API call (try it free, no signup)
+
+*Dev.to | 2026-11-12*
+
+
+getpdf's no-signup playground is smart onboarding, but in a crowded PDF API market, its security defaults are the real differentiator.
+
+
+### 9to5Mac Daily: November 11, 2026 – New Apple TV feature, more
+
+*9to5Mac | 2026-11-12*
+
+
+A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
+
+
+### The Nintendo Switch 2 is down to its lowest price of the season tonight only
+
+*9to5Google | 2026-11-12*
+
+
+A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
 
 
 ### LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers
@@ -95,41 +135,17 @@ This lawsuit puts two safety systems on trial at once: Gemini's guardrails and s
 A $32 cordless rotary tool is a sensible add-on for 3D printing hobbyists, but this is affiliate-driven deal content, not news.
 
 
-### Toyota’s Scion is back, starting with an American-made, 25-mph kei truck
+### Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing
 
-*The Verge | 2026-11-11*
-
-
-Toyota reviving Scion for an Indiana-built, 25-mph kei truck is a low-risk way to test whether America finally wants small vehicles.
+*Tom's Hardware | 2026-11-11*
 
 
-### The best early Black Friday deals you can already shop
-
-*The Verge | 2026-11-11*
+Prusa's ESD filament is less about hobbyists and more a cheap shot at CNC-machined factory fixtures, and the price undercuts every rival.
 
 
-Early Black Friday deals are here, but with prices rising across tech, a discount sticker no longer guarantees you're getting a good price.
+### PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6
+
+*Tom's Hardware | 2026-11-11*
 
 
-### Streaming is still trying to be TikTok
-
-*The Verge | 2026-11-11*
-
-
-Streamers keep copying TikTok's vertical feed, but nobody has shown it works, and the silence on results is the loudest data point.
-
-
-### Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price
-
-*The Verge | 2026-11-11*
-
-
-Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.
-
-
-### Sharge’s eye-catching MacBook charger is over 25 percent off
-
-*The Verge | 2026-11-11*
-
-
-Sharge's Pixel charger is a reminder that GaN chargers now compete on looks, because nearly every brand delivers the wattage.
+Logitech's GTA 6 day off is cheap, clever marketing: it turns expected sick calls into a brand story for a company that sells gaming gear.

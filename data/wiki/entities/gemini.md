@@ -1,7 +1,7 @@
 # Gemini
 
 
-*Mentioned in 19 articles*
+*Mentioned in 22 articles*
 
 
 ## Recent Mentions
@@ -13,6 +13,9 @@
 - **Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h** (2026-11-11)
   - 48 AI agents 'discovered' a Maya pyramid in 72 hours, except it was already published, which shows agents are fast at finding things and weak at checking them.
 
+- **Google brings the Gemini app to Apple CarPlay** (2026-11-11)
+  - Google putting Gemini directly on CarPlay is a land grab on Apple's dashboard while Siri still struggles to compete.
+
 - **Nod From n8n Labs: Great Demo, 14 Minute Wait on Day One** (2026-11-11)
   - n8n Labs' Nod is a real browser agent with a solid local design, but a first question that took 14 minutes to answer shows it's still a demo, not a tool you can rely on.
 
@@ -21,6 +24,12 @@
 
 - **Google rolling out Gemini app for CarPlay** (2026-11-11)
   - Gemini on CarPlay puts Google's AI on Apple's dashboard while Siri is still catching up. iPhone drivers now have a better assistant than the one Apple ships.
+
+- **Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers** (2026-11-11)
+  - Google's latest Home update is mostly repair work: it fixes a broken Nest doorbell feed while Gemini, the feature it keeps promoting, is still stuck in early access.
+
+- **Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]** (2026-11-11)
+  - Google restoring its playful timer sounds is a quiet admission that the Gemini migration stripped out personality, yet the new confirm tone repeats the mistake by sounding like an error.
 
 - **Android Auto is getting a Gemini upgrade, but only if you use a Pixel** (2026-11-11)
   - Google's smartest Android Auto feature is locked to Pixel 10 and 11, a reminder that Gemini is now a phone-sales weapon, not just a platform feature.
@@ -42,12 +51,3 @@
 
 - **November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more** (2026-11-10)
   - This Pixel Drop turns Gemini from a chatbot into an agent that calls, orders, and builds widgets for you. Usefulness now depends on trust, not features.
-
-- **Google and Adobe partner to add app integration in Google Drive, Gemini** (2026-11-10)
-  - Google is sending Drive's PDF users to Acrobat instead of fixing its own editor, which admits Adobe still owns the PDF workflow.
-
-- **TPU 8tx and TPU 8i Max** (2026-11-09)
-  - Four TPU systems in one year shows Google is turning TPUs from an in-house tool into a product line aimed straight at Nvidia's customers.
-
-- **Google Gemini routes personal Drive files and emails to human annotators** (2026-11-09)
-  - Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.

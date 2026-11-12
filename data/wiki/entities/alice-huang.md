@@ -1,7 +1,7 @@
 # Alice Huang
 
 
-*Mentioned in 16 articles*
+*Mentioned in 20 articles*
 
 
 ## Recent Mentions
@@ -10,8 +10,20 @@
 - **China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway** (2026-11-11)
   - The world's most strategic chip CEO allegedly fell for the oldest spy trick around, and that makes Nvidia's governance the real story, not just the gossip.
 
+- **Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’** (2026-11-11)
+  - Jensen Huang's private scandal is now a national-security problem, and a subpoena threat means Congress won't wait for Nvidia's board to finish its own investigation.
+
+- **Nvidia is reportedly preparing to fire Jensen Huang** (2026-11-11)
+  - Nvidia firing its founder at the height of the AI boom would be unthinkable, unless the board decides keeping him is the bigger risk.
+
+- **The unfolding Jensen Huang scandal: a timeline** (2026-11-11)
+  - Huang's personal scandal stopped being personal once it involved an alleged Chinese spy tied to a $4.8 billion Nvidia chip buyer.
+
 - **Nvidia’s crisis has corporate governance experts reaching for the popcorn** (2026-11-11)
   - Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
+
+- **Congress to call Jensen Huang in to answer for alleged Chinese spy affair** (2026-11-11)
+  - Jensen Huang's personal scandal is now a national security issue in Congress, and that puts Nvidia's ties to Washington at risk.
 
 - **Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang** (2026-11-10)
   - If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
@@ -39,15 +51,3 @@
 
 - **Nvidia is investigating Jensen Huang’s relationship with a Chinese spy** (2026-11-08)
   - Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'
-
-- **Here’s the full text of Jensen Huang’s memo to Nvidia** (2026-11-08)
-  - Huang's memo is a careful piece of crisis writing: long on remorse about infidelity, short on the espionage questions shareholders actually care about.
-
-- **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (2026-11-08)
-  - Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.
-
-- **NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts** (2026-11-08)
-  - NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.
-
-- **Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot** (2026-11-07)
-  - Congress summoning Jensen Huang over an alleged spy shows that Nvidia's China problem has grown beyond trade policy into national security.

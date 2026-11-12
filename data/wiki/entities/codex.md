@@ -1,11 +1,14 @@
 # Codex
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest** (2026-11-12)
+  - Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
 
 - **Atuin Threads: All your agent sessions on every machine** (2026-11-11)
   - Atuin's bet is right: AI agent session logs are the new shell history, and whoever indexes the 'why' behind your work owns your workflow.

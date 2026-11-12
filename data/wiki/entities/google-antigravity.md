@@ -1,11 +1,14 @@
 # Google Antigravity
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]** (2026-11-11)
+  - Henry Cavill's AI-built mustache game is a clever Googlebook ad that shows a polished demo, not proof that ordinary users can vibe-code a game.
 
 - **Gemini 4 Carbon is now available** (2026-11-10)
   - Gemini 4 Carbon tops agentic benchmarks at less than half the cost per task. Google is competing on economics as much as intelligence.

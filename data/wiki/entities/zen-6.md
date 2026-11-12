@@ -1,11 +1,14 @@
 # Zen 6
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Talking Zen 6 with Mike Clark at AMD In-Depth** (2026-11-11)
+  - With Zen 6, AMD's 'dense' core becomes its top-performance core, a quiet change that says density, not clock speed, is where server IPC gains now come from.
 
 - **AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking** (2026-11-10)
   - Zen 6 isn't a revolution. It's AMD pushing every dial to the maximum, and the 93% generational jump in server throughput shows that approach works.

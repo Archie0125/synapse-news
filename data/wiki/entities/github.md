@@ -1,14 +1,23 @@
 # GitHub
 
 
-*Mentioned in 24 articles*
+*Mentioned in 27 articles*
 
 
 ## Recent Mentions
 
 
+- **Six of 16 common MCP servers can't be read from outside. One of the others changed 19 times in a month** (2026-11-12)
+  - The MCP servers that touch your most sensitive data are the ones nobody can audit from outside, and silent tool-definition changes should worry every agent builder.
+
+- **Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled** (2026-11-11)
+  - Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
+
 - **GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls** (2026-11-11)
   - GitHub's agentic workflows are GA with solid default guardrails, but the FAQ admits the safety depends on configuration, and that is where things will go wrong.
+
+- **Lock Your GitHub Actions** (2026-11-11)
+  - Lockfiles for GitHub Actions are now generally available, ending the practice of pinning commit hashes by hand. It took a major supply-chain attack to get here.
 
 - **Why Standing API Tokens Are Architectural Malpractice: The Case for Ephemeral Single-Action Authority in AI Agents** (2026-11-11)
   - Giving an AI agent a permanent API key and a polite system prompt is not security. It just means the first prompt injection gets everything.
@@ -42,12 +51,3 @@
 
 - **AMR Mechanical and Electrical Engineering — Ch.07: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
   - In industrial AMRs, the motor driver and control algorithm often matter more than the motor itself. Ride quality comes from the electronics, not the metal.
-
-- **AMR Mechanical and Electrical Engineering — Ch.06: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - Picking the motor is a bet on maintenance costs as much as on performance, which is why industrial AMRs dropped brushed DC motors for BLDC.
-
-- **Entire's Git Forge Rethinks Git Collaboration for Coding Agents** (2026-11-08)
-  - Entire is right that the pull request is breaking under AI agents, but scoring code with another AI agent may just move the trust problem somewhere else.
-
-- **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
-  - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.

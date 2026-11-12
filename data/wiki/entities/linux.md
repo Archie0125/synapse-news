@@ -1,11 +1,14 @@
 # Linux
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches** (2026-11-11)
+  - AI made writing patches nearly free but left reviewing them just as expensive, and the Linux kernel is now losing experienced reviewers because of it.
 
 - **Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel** (2026-11-10)
   - AI in open source is shifting from a source of junk bug reports to a source of actual fixes, at least in the well-staffed Linux kernel.

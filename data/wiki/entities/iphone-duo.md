@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini** (2026-11-11)
-  - The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
+- **iPhone Duo one week later: The future, or not for me?** (2026-11-11)
+  - If a reviewer has to force themselves to unfold the iPhone Duo, the hinge isn't the problem. The use case is.
 
 - **If you bought an iPhone Duo, have you kept or returned it? [Poll]** (2026-11-11)
   - The iPhone Duo's return wave suggests a great demo and something you want to use every day are two different things.

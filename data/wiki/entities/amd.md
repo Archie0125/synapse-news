@@ -1,17 +1,29 @@
 # AMD
 
 
-*Mentioned in 13 articles*
+*Mentioned in 17 articles*
 
 
 ## Recent Mentions
 
+
+- **Who could replace Jensen Huang? A highly unscientific list of possible successors** (2026-11-12)
+  - Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+
+- **ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs** (2026-11-11)
+  - ASRock fixing a GPU-bricking BIOS without a changelog is the wrong lesson. Silent patches erode the trust that security updates depend on.
+
+- **AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years** (2026-11-11)
+  - Venice-X's headline is 5.3 GHz paired with stacked cache, which removes the old trade-off where X chips gave up clock speed for capacity.
 
 - **AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT** (2026-11-11)
   - AMD's MEXT turns the DRAM shortage into a software problem, but 95 percent performance claims need independent benchmarks before data centers rely on them.
 
 - **Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X** (2026-11-11)
   - Auto SR is Microsoft's answer to DLSS on handhelds, but the fact that it works best in docked mode says the handheld chips are still hitting their limits.
+
+- **Talking Zen 6 with Mike Clark at AMD In-Depth** (2026-11-11)
+  - With Zen 6, AMD's 'dense' core becomes its top-performance core, a quiet change that says density, not clock speed, is where server IPC gains now come from.
 
 - **AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking** (2026-11-10)
   - Zen 6 isn't a revolution. It's AMD pushing every dial to the maximum, and the 93% generational jump in server throughput shows that approach works.
@@ -39,9 +51,3 @@
 
 - **This is what ChatGPT personally feels about humans** (2026-11-08)
   - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
-
-- **Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100** (2026-11-06)
-  - A $600 discount makes the HyperX Omen Max 16 competitive, but a mobile RTX 5070 Ti with 12GB of VRAM is still a compromise at $2,100.
-
-- **Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets** (2026-11-06)
-  - Nova Lake's 52 cores and big cache are aimed at AMD's X3D chips, but another new socket means Intel buyers are once again paying a motherboard tax.

@@ -1,14 +1,11 @@
 # DoorDash
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026** (2026-11-11)
-  - QCon AI's lineup shows the industry has moved from 'can we ship an agent?' to 'who is accountable when it acts?', and identity is the unsolved problem.
 
 - **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
   - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.

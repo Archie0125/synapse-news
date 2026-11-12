@@ -1,17 +1,14 @@
 # Anthropic
 
 
-*Mentioned in 48 articles*
+*Mentioned in 46 articles*
 
 
 ## Recent Mentions
 
 
-- **OpenAI’s quarterly revenue reportedly crosses $10B for the first time** (2026-11-11)
-  - OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
-
-- **The Download: preserving minds and weighing open AI risks** (2026-11-11)
-  - Anthropic warning that a Chinese open model is a cyber risk is a fair point and a convenient one, and the open-versus-closed debate needs evidence more than flashpoints.
+- **OpenAI’s personal finance features for ChatGPT expands to Mac app** (2026-11-11)
+  - Bringing ChatGPT Finances to the Mac is a small update with a bigger strategy behind it: OpenAI wants your bank data, and that data keeps users coming back.
 
 - **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
   - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
@@ -51,3 +48,6 @@
 
 - **Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal** (2026-11-09)
   - Anthropic's $3.4 billion generator deal shows the AI race is now bottlenecked by turbine factories as much as by models or chips.
+
+- **Anthropic launches new Claude Fable and Mythos 5.2 models** (2026-11-09)
+  - Anthropic's launch claims, like solving open black hole physics problems, are bold and hard to check. If they hold up, 5.2 marks a shift from coding assistant to research tool.

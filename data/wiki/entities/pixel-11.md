@@ -1,11 +1,14 @@
 # Pixel 11
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Pixel Tag is only available in 8 countries, and excludes Europe** (2026-11-11)
+  - Google built a travel tracker and then left the EU off its launch map, which says more about regulatory caution than about demand.
 
 - **Android Auto is getting a Gemini upgrade, but only if you use a Pixel** (2026-11-11)
   - Google's smartest Android Auto feature is locked to Pixel 10 and 11, a reminder that Gemini is now a phone-sales weapon, not just a platform feature.

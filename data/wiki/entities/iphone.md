@@ -1,11 +1,17 @@
 # iPhone
 
 
-*Mentioned in 8 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple Invites app now lets hosts poll guests, plus new emoji effect added** (2026-11-11)
+  - Apple Invites keeps getting small monthly updates, but polls and floating emoji won't turn an iCloud+ perk into a reason to subscribe.
+
+- **Google Voice appears to finally be working on RCS support** (2026-11-11)
+  - A single 'RCS' string in Google Voice is not a launch, but it's the first sign that Google noticed its own number-forwarding service had fallen behind its own messaging standard.
 
 - **Why you probably shouldn't buy gadgets with micro USB ports** (2026-11-09)
   - A micro USB port in 2026 is a red flag: it tells you the product is either old stock or the maker cut corners.

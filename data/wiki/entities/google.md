@@ -1,7 +1,7 @@
 # Google
 
 
-*Mentioned in 96 articles*
+*Mentioned in 98 articles*
 
 
 ## Recent Mentions
@@ -9,9 +9,6 @@
 
 - **A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks** (2026-11-11)
   - This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
-
-- **The best early Black Friday deals you can already shop** (2026-11-11)
-  - Early Black Friday deals are here, but with prices rising across tech, a discount sticker no longer guarantees you're getting a good price.
 
 - **Google’s Tabletop AI experiment lets you build custom collaboration apps** (2026-11-11)
   - Tabletop is Google pointing vibecoding at the group chat, a smart test, but Google Labs experiments have a habit of not surviving.
@@ -25,11 +22,17 @@
 - **Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.** (2026-11-11)
   - Google's Tabletop turns group chat chaos into AI-built mini-apps, which is a smart idea that Google's habit of killing products could easily bury.
 
+- **Gemini Decisions API: Fast, calibrated multimodal decisions** (2026-11-11)
+  - Gemini Decisions API recognizes that most agent steps are multiple-choice questions, and charging zero for output tokens makes it a serious threat to LLM-based routing.
+
 - **Experience the art and legacy of Dr. Esther Mahlangu** (2026-11-11)
   - Google used AI to fill gaps in an artist's undocumented past; the result is moving, but it blurs the line between archive and reconstruction.
 
 - **Samsung Gallery now syncs with Google to back up your photos** (2026-11-11)
   - Samsung dropped Microsoft for Google in photo backup, and the winner is Google's cloud storage business, not Samsung's Gallery app.
+
+- **Google brings the Gemini app to Apple CarPlay** (2026-11-11)
+  - Google putting Gemini directly on CarPlay is a land grab on Apple's dashboard while Siri still struggles to compete.
 
 - **Reddit Reviews goes against the whole philosophy of the platform, say users** (2026-11-11)
   - Reddit is turning its most trusted asset, raw human opinion, into AI summaries, which gives spammers a single summary to game instead of whole threads.
@@ -48,6 +51,3 @@
 
 - **Google rolling out Gemini app for CarPlay** (2026-11-11)
   - Gemini on CarPlay puts Google's AI on Apple's dashboard while Siri is still catching up. iPhone drivers now have a better assistant than the one Apple ships.
-
-- **Dbrand’s new Fitbit Air band launches as the first official third-party strap** (2026-11-11)
-  - Google asking Dbrand for a Fitbit Air strap is quiet proof the Air is a hit, and that Google's own band lineup wasn't keeping up.

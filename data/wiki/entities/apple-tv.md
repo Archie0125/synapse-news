@@ -1,11 +1,14 @@
 # Apple TV
 
 
-*Mentioned in 11 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
+
+- **9to5Mac Daily: November 11, 2026 – New Apple TV feature, more** (2026-11-12)
+  - A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
 
 - **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
   - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.

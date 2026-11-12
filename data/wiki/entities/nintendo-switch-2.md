@@ -1,11 +1,14 @@
 # Nintendo Switch 2
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **The Nintendo Switch 2 is down to its lowest price of the season tonight only** (2026-11-12)
+  - A $459 Switch 2 counts as a deal now, which says more about tariff-era electronics pricing than about this one-night sale.
 
 - **Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price** (2026-11-11)
   - Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.

@@ -1,34 +1,74 @@
 # Industry
 
 
-*425 articles in the last 7 days*
+*457 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini
+### Walking Pad Deals to Shop Ahead of Black Friday (2026)
+
+*Wired | 2026-11-12*
+
+
+Early Black Friday walking pad deals are real savings, but the Urevo CyberPad's $110 discount buys an incline you'll struggle to store, so plan where it lives.
+
+
+### The Best Early Black Friday MacBook Air Deal: $200 Off
+
+*Wired | 2026-11-12*
+
+
+A $200 MacBook Air discount sounds generous until you remember Apple raised Mac prices in June. This 'deal' mostly undoes the hike.
+
+
+### Who could replace Jensen Huang? A highly unscientific list of possible successors
+
+*TechCrunch | 2026-11-12*
+
+
+Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+
+
+### Where Does JINGDONG Logistics Stand? The Integration Test for China’s Supply-Chain Tech Sector
+
+*Dev.to | 2026-11-12*
+
+
+Logistics tech is won by integration, not robots. JD Logistics' 34 million square metres of network is the moat, though 'leading' still lacks a market-share number.
+
+
+### SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do
+
+*Dev.to | 2026-11-12*
+
+
+SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
+
+
+### Jira Storage Limit: Uploads Blocked at 250 GB
+
+*Dev.to | 2026-11-12*
+
+
+Atlassian turned a long-ignored storage limit into an upload block, and the only exit is a Premium upgrade that is expensive disk space.
+
+
+### A ₹6,999 Template Site and a ₹2 Lakh Custom Build Are Not Competing Quotes
+
+*Dev.to | 2026-11-12*
+
+
+Founders comparing a ₹6,999 template to a ₹2 lakh custom build aren't price shopping. They are comparing different products that share a name.
+
+
+### Pete Hegseth Is About to Get His Ass Kicked
 
 *Wired | 2026-11-11*
 
 
-The iPad is still a good buy, but with the MacBook Neo and iPhone Duo squeezing it from both sides, Apple's own lineup is the iPad's biggest threat.
-
-
-### The AO3 Shutdown Is Pitting Fanfic Readers Against Authors
-
-*Wired | 2026-11-11*
-
-
-AO3's outage shows that a community archive becomes a single point of failure, and fans' rescue drives are breaking the consent norms that held the community together.
-
-
-### The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)
-
-*Wired | 2026-11-11*
-
-
-Early Black Friday now starts before November, so the useful skill for shoppers is knowing when an early deal is good enough rather than hunting for the absolute bottom price.
+Democrats' smartest move on Hegseth isn't going big. It's narrowing impeachment to complaints Senate Republicans already share.
 
 
 ### Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing
@@ -45,6 +85,14 @@ When 81% of voters say no and utilities answer with a lawsuit, it shows how much
 
 
 LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
+
+
+### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
+
+*Wired | 2026-11-11*
+
+
+A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
 
 
 ### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
@@ -93,43 +141,3 @@ OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring th
 
 
 Indoor smart gardens actually work after two years of testing, but the $899 Gardyn with a subscription makes it the most expensive lettuce you'll ever eat.
-
-
-### Best Air Purifiers (2026): Tested Picks for Every Room
-
-*Wired | 2026-11-11*
-
-
-WIRED's air purifier guide is useful because it tests with real smoke, and its top budget pick costs $270, so clean air still isn't cheap.
-
-
-### A Startup Wants to Fight AI Bioweapons With AI
-
-*Wired | 2026-11-11*
-
-
-Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
-
-
-### A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks
-
-*Wired | 2026-11-11*
-
-
-Reversing a cell's epigenetic clock by 60 years is a striking lab result, but nobody yet knows why it works, and that matters more than the number.
-
-
-### A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks
-
-*Wired | 2026-11-11*
-
-
-This lawsuit puts two safety systems on trial at once: Gemini's guardrails and school monitoring that sent a crisis alert to a counselor who had left nine months earlier.
-
-
-### Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts
-
-*Tom's Hardware | 2026-11-11*
-
-
-The AI boom now has a battlefield cost: data centers are outbidding Ukraine for the fiber its jam-proof drones depend on.

@@ -1,111 +1,103 @@
 # Dev Tools
 
 
-*379 articles in the last 7 days*
+*401 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+### Where Does JINGDONG Logistics Stand? The Integration Test for China’s Supply-Chain Tech Sector
 
-*TechCrunch | 2026-11-11*
-
-
-Plurai is betting that AI agents need what self-driving cars needed: a simulator full of edge cases. The analogy holds, which shows how far agents are from autonomy.
+*Dev.to | 2026-11-12*
 
 
-### Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry
-
-*InfoQ | 2026-11-11*
+Logistics tech is won by integration, not robots. JD Logistics' 34 million square metres of network is the moat, though 'leading' still lacks a market-share number.
 
 
-Dashboards let you guess, and traces let you explain. Gearset's talk is a strong case that async queues are where traditional monitoring fails without anyone noticing.
+### Track Shopify App Store competitors: pricing plans, category ranks and new reviews in Python
+
+*Dev.to | 2026-11-12*
 
 
-### JioHotstar Benchmarks Knowledge Bases for AI Coding Agents
-
-*InfoQ | 2026-11-11*
+Shopify app competitor data is all public but painful to compare by hand. A paid scraper fixes that, though the real value is the daily alert feed, not the table.
 
 
-JioHotstar's benchmark is a reality check for the code-RAG hype: plain filesystem search held up well, and extra retrieval layers often just added cost.
+### Six of 16 common MCP servers can't be read from outside. One of the others changed 19 times in a month
+
+*Dev.to | 2026-11-12*
 
 
-### How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026
-
-*InfoQ | 2026-11-11*
+The MCP servers that touch your most sensitive data are the ones nobody can audit from outside, and silent tool-definition changes should worry every agent builder.
 
 
-QCon AI's lineup shows the industry has moved from 'can we ship an agent?' to 'who is accountable when it acts?', and identity is the unsolved problem.
+### Single-step flow matching brightens low‑light photos
+
+*Dev.to | 2026-11-12*
 
 
-### GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls
-
-*InfoQ | 2026-11-11*
+GLOW-FM shrinks multi-step diffusion into one pass for low-light photos, a real edge-AI win if its claims hold beyond static benchmarks.
 
 
-GitHub's agentic workflows are GA with solid default guardrails, but the FAQ admits the safety depends on configuration, and that is where things will go wrong.
+### SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do
+
+*Dev.to | 2026-11-12*
 
 
-### Article: The iOS Crash We Could Not Reproduce
-
-*InfoQ | 2026-11-11*
+SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
 
 
-A 'fixed' crash that only got rarer is not fixed, and this iOS post-mortem is a useful lesson in treating flaky bugs as experiments instead of guesses.
+### MX Record Lookup: How to Check Mail Servers and What It Proves
+
+*Dev.to | 2026-11-12*
 
 
-### Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor
-
-*InfoQ | 2026-11-11*
+An MX lookup proves a domain can receive mail, not that a person is real, and fintechs that treat it as identity checking are fooling themselves.
 
 
-TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.
+### Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest
+
+*Dev.to | 2026-11-12*
 
 
-### Protecting SSH Keys with macOS Secure Enclave
-
-*Hacker News | 2026-11-11*
+Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
 
 
-macOS can lock SSH keys in hardware natively, but the experience is so clunky that even a paranoid developer chose a third-party app instead.
+### Jira Storage Limit: Uploads Blocked at 250 GB
+
+*Dev.to | 2026-11-12*
 
 
-### Hyper-Realistic Sand with WebGL2
-
-*Hacker News | 2026-11-11*
+Atlassian turned a long-ignored storage limit into an upload block, and the only exit is a Premium upgrade that is expensive disk space.
 
 
-A browser sand toy that reacts to touch, tilt, and shake shows WebGL2 is good enough for tactile toys that once needed a native app.
+### How to read and validate a CAS Registry Number (with a Python check-digit example)
+
+*Dev.to | 2026-11-12*
 
 
-### Atuin Threads: All your agent sessions on every machine
-
-*Hacker News | 2026-11-11*
+A CAS check digit catches typos but not wrong substances, and confusing 'well-formed' with 'correct' is how bad chemical data spreads.
 
 
-Atuin's bet is right: AI agent session logs are the new shell history, and whoever indexes the 'why' behind your work owns your workflow.
+### Generate a PDF from JSON in one API call (try it free, no signup)
+
+*Dev.to | 2026-11-12*
 
 
-### A Grok vibe-coding agent leaked sensitive SpaceXSI data
-
-*Engadget | 2026-11-11*
+getpdf's no-signup playground is smart onboarding, but in a crowded PDF API market, its security defaults are the real differentiator.
 
 
-Grok Build's 'secret' share links leaked thousands of users' data, including the company's own, because it put the random part of the URL where DNS logs it.
+### Five Bugs Hiding in a URL Shortener (and the Fix for Each)
+
+*Dev.to | 2026-11-12*
 
 
-### Why Standing API Tokens Are Architectural Malpractice: The Case for Ephemeral Single-Action Authority in AI Agents
-
-*Dev.to | 2026-11-11*
+The three-box URL shortener diagram passes interviews and fails production. Testing traps against real concurrency is the lesson most tutorials skip.
 
 
-Giving an AI agent a permanent API key and a polite system prompt is not security. It just means the first prompt injection gets everything.
+### A ₹6,999 Template Site and a ₹2 Lakh Custom Build Are Not Competing Quotes
+
+*Dev.to | 2026-11-12*
 
 
-### UnlockTool — A Native Windows Utility Built with C++ and Win32 API
-
-*Dev.to | 2026-11-11*
-
-
-UnlockTool is a solid learning project in native Win32, but it bundles process killing, user management and registry repair, which calls for more trust than a hobby project has earned.
+Founders comparing a ₹6,999 template to a ₹2 lakh custom build aren't price shopping. They are comparing different products that share a name.

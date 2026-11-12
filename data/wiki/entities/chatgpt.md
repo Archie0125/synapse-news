@@ -1,11 +1,14 @@
 # ChatGPT
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
+
+- **OpenAI’s personal finance features for ChatGPT expands to Mac app** (2026-11-11)
+  - Bringing ChatGPT Finances to the Mac is a small update with a bigger strategy behind it: OpenAI wants your bank data, and that data keeps users coming back.
 
 - **Google Gemini coming to CarPlay** (2026-11-11)
   - Gemini finally reaches CarPlay as the last major holdout. In-car AI is now table stakes, and Apple's dashboard has become neutral ground for every chatbot.

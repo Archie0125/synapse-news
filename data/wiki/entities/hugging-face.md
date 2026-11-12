@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Token Pooling-Aware Training for Multi-Vector Embedding Models** (2026-11-11)
-  - Pooling-aware training makes compressed multi-vector retrieval nearly free, which takes away one of the strongest arguments against ColBERT-style search: storage cost.
+- **I Saw the Future of Robotics in a Virtual Duck That Chases My Cat** (2026-11-11)
+  - A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
 
 - **The 130 KB AI is a 175 KB PDF** (2026-11-09)
   - Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.

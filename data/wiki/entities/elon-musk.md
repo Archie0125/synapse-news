@@ -1,17 +1,20 @@
 # Elon Musk
 
 
-*Mentioned in 15 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
 
-- **SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims** (2026-11-11)
-  - SpaceX's custom Kessel rack keeps Nvidia's GPUs but takes over the rest of the supply chain, which is the first real crack in Nvidia's full-stack lock-in.
+- **Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town** (2026-11-11)
+  - After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.
 
-- **Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting** (2026-11-11)
-  - SoftBank's $3.7 billion turbine write-off shows that cornering AI's power supply is a bet that only pays if the data centers actually get built on time.
+- **How many SpaceX Starship rocket tests have failed?** (2026-11-11)
+  - Starship's failure count ranges from 4 to 11 out of 14 depending on who's counting. That spread shows how much 'fail fast' depends on who defines failure.
+
+- **Cash App founder's killer gets 16 years to life in prison** (2026-11-11)
+  - Bob Lee's case is closed, but tech leaders who rushed to blame San Francisco never corrected themselves. The verdict exposed their narrative.
 
 - **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
   - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.
@@ -48,6 +51,3 @@
 
 - **Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations** (2026-11-06)
   - Apple's careful neutrality is about to get audited: a Democratic Congress wants to know whether its App Store calls on ICE apps were policy or politics.
-
-- **How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost** (2026-11-05)
-  - More than $400 million from Musk's super PAC couldn't buy the midterms, and voters' near-unanimous push to restrict data centers is the warning tech companies should take most seriously.

@@ -1,11 +1,14 @@
 # T-Mobile
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **New York is forcing T-Mobile to stop putting data caps on low-income home internet plans** (2026-11-11)
+  - T-Mobile followed New York's low-income broadband law on paper, then capped the data, limited where it was sold and hid it from search engines.
 
 - **Google Fi is bringing back multiple cell network support for better coverage** (2026-11-10)
   - Google Fi's 'super network' revives its original killer feature, but locking it to Pixel 9 and newer turns a carrier perk into a phone sales pitch.

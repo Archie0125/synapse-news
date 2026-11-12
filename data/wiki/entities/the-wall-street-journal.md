@@ -1,14 +1,17 @@
 # The Wall Street Journal
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
 
-- **Anthropic reportedly plans to move forward with IPO plans** (2026-11-10)
-  - Anthropic is reportedly pushing ahead with its IPO into a shaky market, and a valuation target that keeps sliding is the clearest read yet on where AI enthusiasm stands.
+- **Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges** (2026-11-11)
+  - Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.
 
-- **5 Interesting Learnings from Anthropic at $17 Billion in Quarterly Revenue: $5.4B Added vs. $6.8B the Quarter Before, 900% NRR, and $895 Billion in Compute Commitments** (2026-11-03)
-  - Anthropic's $17B quarter is historic, but its first shrinking dollar add and $895B in compute commitments against $132B in cash show its constraint is now compute, not demand.
+- **Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang** (2026-11-11)
+  - Nvidia's stock drop is about more than scandal. A CEO with 60 direct reports and no succession plan is a single point of failure.
+
+- **Jensen Huang accused of having another affair — with an Nvidia exec** (2026-11-11)
+  - A second alleged affair, this time with a direct report, turns Huang's scandal from a personal matter into a governance problem the board cannot avoid.

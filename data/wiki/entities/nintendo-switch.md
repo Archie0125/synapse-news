@@ -1,11 +1,14 @@
 # Nintendo Switch
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled** (2026-11-11)
+  - Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
 
 - **Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40** (2026-11-10)
   - Hall Effect sticks under $40 show anti-drift tech is now the budget baseline, but the missing Xbox support limits what this deal is worth.

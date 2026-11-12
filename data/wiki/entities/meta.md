@@ -1,11 +1,20 @@
 # Meta
 
 
-*Mentioned in 31 articles*
+*Mentioned in 34 articles*
 
 
 ## Recent Mentions
 
+
+- **This is the Meta MetaRoCE Network Adapter** (2026-11-12)
+  - MetaRoCE is less about one NIC and more about Meta making RDMA transport vendor-neutral, which quietly pressures anyone selling proprietary AI networking.
+
+- **Meta is losing its longtime head of  infrastructure** (2026-11-11)
+  - Meta is replacing its longtime infrastructure chief with an AWS veteran, a sign that its AI compute effort is starting to look like a cloud business.
+
+- **ByteDance is reportedly working on its own AI agent** (2026-11-11)
+  - ByteDance's own founder says it may take until 2029 or 2030 to catch up in AI, so a Muse-style agent looks like a stopgap more than a challenge to the frontier labs.
 
 - **WhatsApp may soon replace the Communities tab on iOS** (2026-11-11)
   - WhatsApp swapping Communities for a Contacts tab with online status quietly admits that people want to see who's online now more than they want group features.
@@ -42,12 +51,3 @@
 
 - **Meta issues a high-priority update to prevent overheating in some of its glasses** (2026-11-10)
   - Meta's first 'Action required' email about its glasses suggests a serious moisture-overheating problem, and its silence beyond the email leaves owners guessing about the risk.
-
-- **Instagram’s Effect Builder makes new filters from AI prompts** (2026-11-09)
-  - Instagram's AI Effect Builder turns anyone into a filter creator, but its prompt rewriter adds paragraphs of detail that barely change the output.
-
-- **Meta launches Muse Ember to take on Claude Haiku and GPT-6 Luna** (2026-11-09)
-  - Muse Ember shows Meta now runs the same playbook as every frontier lab. Matching Haiku-level benchmarks is table stakes, and winning on price is the only real way to stand out.
-
-- **Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09)
-  - Muse Ember shows Meta competing on price for the high-volume parts of AI agents, at 10 cents per million input tokens.

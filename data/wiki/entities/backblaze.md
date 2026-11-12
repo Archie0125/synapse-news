@@ -1,11 +1,14 @@
 # Backblaze
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **9to5Mac Daily: November 11, 2026 – New Apple TV feature, more** (2026-11-12)
+  - A daily podcast recap teasing a new Apple TV feature without naming it is a reminder that the headline is the hook and the substance sits behind a play button.
 
 - **9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28** (2026-11-10)
   - A daily Apple podcast teases iOS 28 and Apple's software process, but the show notes contain no actual stories, so the headline is promising more than it delivers.

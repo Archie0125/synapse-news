@@ -1,11 +1,14 @@
 # Apple Intelligence
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **iCloud+ has new perk in iOS 27 if you pay for more storage** (2026-11-11)
+  - Apple is using AI camera features to upsell its priciest iCloud+ tiers, a smart move for revenue and a tough one for anyone who just wants a smarter doorbell.
 
 - **9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors** (2026-11-11)
   - The real headline in this roundup is Apple's $50 'intelligence usage packs,' a sign that Apple is starting to meter its AI features.

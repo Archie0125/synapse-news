@@ -1,10 +1,34 @@
 # Startups
 
 
-*154 articles in the last 7 days*
+*166 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Who could replace Jensen Huang? A highly unscientific list of possible successors
+
+*TechCrunch | 2026-11-12*
+
+
+Nvidia's real scandal may be governance, not the affair: one of the world's most valuable companies has no apparent succession plan.
+
+
+### Track Shopify App Store competitors: pricing plans, category ranks and new reviews in Python
+
+*Dev.to | 2026-11-12*
+
+
+Shopify app competitor data is all public but painful to compare by hand. A paid scraper fixes that, though the real value is the daily alert feed, not the table.
+
+
+### A ₹6,999 Template Site and a ₹2 Lakh Custom Build Are Not Competing Quotes
+
+*Dev.to | 2026-11-12*
+
+
+Founders comparing a ₹6,999 template to a ₹2 lakh custom build aren't price shopping. They are comparing different products that share a name.
 
 
 ### Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech
@@ -23,28 +47,44 @@ Phone cameras still throw away most of their light through a 1974-era filter, an
 Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
 
 
-### Siri co-founder backs Helix for its voice ID tech
+### With $720M round, Britain’s Fractile gets a leg up in the race for AI chips
 
 *TechCrunch | 2026-11-11*
 
 
-Helix wants to prove you're human with your voice at a time when AI voice cloning is everywhere. It's a bold bet, and the burden of proof is high.
+Fractile's $720M round is as much British industrial policy as a venture bet, and a roughly $7B valuation is a lot to prove with silicon.
 
 
-### Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
-
-*TechCrunch | 2026-11-11*
-
-
-Plurai is betting that AI agents need what self-driving cars needed: a simulator full of edge cases. The analogy holds, which shows how far agents are from autonomy.
-
-
-### OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+### Why the data center you dread might never even be built
 
 *TechCrunch | 2026-11-11*
 
 
-OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropic's $17B and still spends more than it earns.
+Many announced AI data centers are press releases, not projects, so the real bottleneck may be credibility rather than concrete.
+
+
+### The unfolding Jensen Huang scandal: a timeline
+
+*TechCrunch | 2026-11-11*
+
+
+Huang's personal scandal stopped being personal once it involved an alleged Chinese spy tied to a $4.8 billion Nvidia chip buyer.
+
+
+### Olaf Sakkers is betting he can beat the emerging-manager squeeze
+
+*TechCrunch | 2026-11-11*
+
+
+First-time VC funds are getting just 4.5% of U.S. venture dollars, and Olaf Sakkers growing from $5M to $50M is the exception, not proof the system works.
+
+
+### Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang
+
+*TechCrunch | 2026-11-11*
+
+
+Nvidia's stock drop is about more than scandal. A CEO with 60 direct reports and no succession plan is a single point of failure.
 
 
 ### Nvidia’s crisis has corporate governance experts reaching for the popcorn
@@ -53,6 +93,22 @@ OpenAI passing $10B in a quarter is a real rebound, but it still trails Anthropi
 
 
 Nvidia lost about 9.5% in two days with no new facts, which tells you how much of its value rides on one CEO. The board's investigation has no playbook to follow.
+
+
+### Meta is losing its longtime head of  infrastructure
+
+*TechCrunch | 2026-11-11*
+
+
+Meta is replacing its longtime infrastructure chief with an AWS veteran, a sign that its AI compute effort is starting to look like a cloud business.
+
+
+### Jensen Huang accused of having another affair — with an Nvidia exec
+
+*TechCrunch | 2026-11-11*
+
+
+A second alleged affair, this time with a direct report, turns Huang's scandal from a personal matter into a governance problem the board cannot avoid.
 
 
 ### Is Jensen Huang’s bad behavior more commonplace than it seems?
@@ -71,57 +127,25 @@ The Nvidia honeypot story is probably not a one-off. In the chip industry, an ex
 Databricks' strongest pitch for Genie isn't automation. It's a CEO admitting he needs an AI to tell him the bad news his 12,000 employees won't.
 
 
+### CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
+
+*TechCrunch | 2026-11-11*
+
+
+CoreWeave is now asking customers to fund its buildout, which works while AI compute is scarce and becomes a problem if demand cools.
+
+
+### Congress to call Jensen Huang in to answer for alleged Chinese spy affair
+
+*TechCrunch | 2026-11-11*
+
+
+Jensen Huang's personal scandal is now a national security issue in Congress, and that puts Nvidia's ties to Washington at risk.
+
+
 ### Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company
 
 *SaaStr | 2026-11-11*
 
 
 Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.
-
-
-### Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.
-
-*SaaStr | 2026-11-11*
-
-
-Higgsfield's jump from $1B to $1.35B in run rate in one month is remarkable, but every figure comes from the company or its own investor.
-
-
-### Lucid CEO says the company didn't know where its own cars were
-
-*Engadget | 2026-11-11*
-
-
-Lucid losing track of its own cars while making under 3,000 a quarter isn't a scaling problem. It's a basic operations failure presented as a growing pain.
-
-
-### Oura is acquiring medical AI chatbot startup Counsel Health
-
-*The Verge | 2026-11-10*
-
-
-Oura's $625 million Counsel Health deal shows it wants to be a healthcare company, but a 50-doctor network is a thin base for that ambition.
-
-
-### PSI is trying to make a business out of AI-driven scientific discovery
-
-*TechCrunch | 2026-11-10*
-
-
-An 18-year-old quantum problem fell to an AI model, but the real story is that its own author trusts the proof without fully understanding it.
-
-
-### Proximal Ventures raises debut fund to back startups bringing AI to drug development
-
-*TechCrunch | 2026-11-10*
-
-
-Proximal's smart bet isn't AI discovering drugs; it's AI eating pharma's huge outsourced services budget, the unglamorous layer where the money already flows.
-
-
-### Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available
-
-*TechCrunch | 2026-11-10*
-
-
-Pixel Tag is a solid AirTag clone that arrives years late; its real value is giving Android's Find Hub network a first-party device to rally around.

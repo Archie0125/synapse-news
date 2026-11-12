@@ -1,11 +1,14 @@
 # AWS
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **AWS emulator** (2026-11-11)
+  - AWS's official local emulator, free and set up through an AI agent skill, puts direct pressure on third-party tools like LocalStack.
 
 - **Amazon saves millions by replacing Sonnet 4.6 with Strands Decider** (2026-11-10)
   - Amazon swapped a frontier LLM for a small decision model on ticket labeling and cut costs 98%. Many 'agent' workloads are really just classification problems in disguise.

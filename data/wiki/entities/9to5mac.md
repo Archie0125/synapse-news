@@ -1,11 +1,14 @@
 # 9to5Mac
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **HomeView review, new Apple TV launches, Apple holiday ad** (2026-11-12)
+  - Apple’s smart-home ambitions will be judged by HomeView’s daily usefulness, especially Siri and audio quality, not by another polished launch cycle.
 
 - **30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry** (2026-11-12)
   - A reported 30% return rate is alarming but not conclusive; the bigger warning is that Apple’s radical foldable currently feels easier to trial than commit to.

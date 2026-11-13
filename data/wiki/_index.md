@@ -1,25 +1,25 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-12*
+*Last updated: 2026-11-13*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-12](daily/2026-11-12.md)
+- [Daily Digest 2026-11-13](daily/2026-11-13.md)
 
 
 ## Recent Analysis
 
-- [聯航封殺 AI 代理人：嘴上講資安，心裡怕的是多一個二房東](analysis/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-zh.md)
+- [AI 代理不是新功能：它正在搶走平台的客戶主導權](analysis/2026-11-13-the-agent-wars-are-really-about-who-owns-the-customer-zh.md)
 
-- [United and eBay Aren't Blocking AI Agents. They're Blocking a New Landlord](analysis/2026-11-12-united-and-ebay-aren-t-blocking-ai-agents-they-re-blocking-a-en.md)
+- [The Agent Wars Are Really About Who Owns the Customer](analysis/2026-11-13-the-agent-wars-are-really-about-who-owns-the-customer-en.md)
 
-- [AI 不再比誰最聰明：真正的戰場是每張帳單](analysis/2026-11-12-the-ai-race-is-no-longer-about-iq-its-about-the-invoice-zh.md)
+- [AI 眼鏡終於能戴了，真正的考題卻是流汗](analysis/2026-11-13-smart-glasses-wont-win-on-ai-theyll-win-in-the-rain-zh.md)
 
-- [The AI Race Is No Longer About IQ—It’s About the Invoice](analysis/2026-11-12-the-ai-race-is-no-longer-about-iq-its-about-the-invoice-en.md)
+- [Smart Glasses Won’t Win on AI—They’ll Win in the Rain](analysis/2026-11-13-smart-glasses-wont-win-on-ai-theyll-win-in-the-rain-en.md)
 
-- [智慧眼鏡終於不醜了，但偷拍疑慮還沒下架](analysis/2026-11-12-smart-glasses-look-normal-the-camera-problem-doesnt-zh.md)
+- [黃仁勳一走，輝達才發現自己沒有備援系統](analysis/2026-11-13-nvidias-470-billion-warning-jensen-was-the-governance-plan-zh.md)
 
 
 ## Topics
@@ -59,9 +59,13 @@
 
 - [Ableton Live 13](entities/ableton-live-13.md)
 
+- [Adobe Illustrator](entities/adobe-illustrator.md)
+
 - [Adobe](entities/adobe.md)
 
 - [Airbnb](entities/airbnb.md)
+
+- [Airplay](entities/airplay.md)
 
 - [Airpods Pro 3](entities/airpods-pro-3.md)
 
@@ -73,6 +77,8 @@
 
 - [Alexa](entities/alexa.md)
 
+- [Alexandr Wang](entities/alexandr-wang.md)
+
 - [Alibaba](entities/alibaba.md)
 
 - [Alice Huang](entities/alice-huang.md)
@@ -80,9 +86,3 @@
 - [Aliro](entities/aliro.md)
 
 - [Alphabet](entities/alphabet.md)
-
-- [Alpine Linux](entities/alpine-linux.md)
-
-- [Amazon Alexa](entities/amazon-alexa.md)
-
-- [Amazon](entities/amazon.md)

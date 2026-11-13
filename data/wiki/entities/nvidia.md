@@ -1,7 +1,7 @@
 # NVIDIA
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,12 @@
 
 - **NVIDIA Announces CEO Transition** (2026-11-12)
   - Jensen Huang’s abrupt exit turns NVIDIA’s succession planning from a governance footnote into the biggest uncertainty surrounding the AI hardware leader.
+
+- **Chinese frontier AI models carry the fingerprint of export-controlled GPUs** (2026-11-12)
+  - Model weights may have become hardware receipts, exposing how porous chip controls are while stopping short of proving any export violation.
+
+- **Who is Collette Kress, NVIDIA's interim CEO?** (2026-11-12)
+  - Colette Kress offers NVIDIA financial continuity, but elevating a CFO without a succession plan underscores how unprepared the board was for a founder crisis.
 
 - **Jensen Huang is out as NVIDIA CEO** (2026-11-12)
   - Huang’s immediate exit removes NVIDIA’s defining leader precisely when AI dominance makes stable governance more important than founder mythology.
@@ -42,6 +48,3 @@
 
 - **How Sub‑Millisecond AI is Revolutionizing Factories, Trucks, and Cars in 2026** (2026-11-07)
   - A sweeping claim that one decoupled predictor runs Waymo, Siemens, GE and Amazon, with neat regulation names and tidy gains but no sources. Treat it as speculation until proven.
-
-- **Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation** (2026-11-05)
-  - Supermicro's convertible GB300 tower is the most honest DGX Station design: it admits a desk-side AI box is really a server that hasn't reached a rack yet.

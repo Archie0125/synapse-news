@@ -1,7 +1,7 @@
 # Apple TV 4K
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **Apple TV 4K (4th gen) review: Still great, but drastically more expensive** (2026-11-12)
   - The fourth-generation Apple TV 4K remains an excellent streamer, but its $299 price turns premium polish into an increasingly difficult indulgence.
+
+- **HomeView review, new Apple TV launches, Apple holiday ad** (2026-11-12)
+  - Apple’s smart-home ambitions will be judged by HomeView’s daily usefulness, especially Siri and audio quality, not by another polished launch cycle.
 
 - **Apple TV 4K review: The best streamer comes at a cost** (2026-11-12)
   - The new Apple TV 4K looks built to age gracefully, but $299 is steep when its most noticeable upgrade may be a remote you can find.

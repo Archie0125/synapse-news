@@ -1,7 +1,7 @@
 # Lenovo
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900** (2026-11-11)
   - Lenovo's Legion Tab Gen 5 has the right idea for a pocketable PC-emulation tablet, but at $900 it's priced like a flagship while still carrying old-school Android jank.
-
-- **Report: iPad shipments drop 27.5% as global tablet market plunges in Q3** (2026-11-06)
-  - iPad still leads a shrinking market, but a 27.5% drop shows tablets have run out of reasons to upgrade, and supply constraints are making that worse.

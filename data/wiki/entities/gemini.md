@@ -1,7 +1,7 @@
 # Gemini
 
 
-*Mentioned in 27 articles*
+*Mentioned in 28 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **AI chatbots are recommending fake retail websites, study finds** (2026-11-12)
   - AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
+
+- **Foundation Models framework** (2026-11-12)
+  - Apple is turning model choice into a Swift implementation detail, potentially owning the developer layer even when Claude or Gemini does the thinking.
 
 - **Google’s new Android XR glasses work with iOS, Made for iPhone certified** (2026-11-12)
   - Google wisely made its XR glasses iPhone-friendly, but invisible camera use during Gemini analysis could matter more to public trust than any certification.
@@ -48,6 +51,3 @@
 
 - **Android Auto is getting a Gemini upgrade, but only if you use a Pixel** (2026-11-11)
   - Google's smartest Android Auto feature is locked to Pixel 10 and 11, a reminder that Gemini is now a phone-sales weapon, not just a platform feature.
-
-- **Google is making Pixel HiLight slightly more useful** (2026-11-10)
-  - Google is still searching for a reason HiLight exists, while the actually useful stuff in this Pixel Drop is Gemini quietly spreading to older phones.

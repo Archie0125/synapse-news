@@ -1,11 +1,14 @@
 # Find My
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **iOS 27’s Find My app adds convenient feature I’ve long wished for** (2026-11-12)
+  - Find My’s custom sharing timers are a small upgrade with outsized privacy value because temporary access no longer depends on users remembering to revoke it.
 
 - **Every senior with an Apple Watch should set up these 5 health alerts** (2026-11-10)
   - The Apple Watch's best feature for older users may be that it doesn't look like a medical device, which gets people to actually wear the safety net.

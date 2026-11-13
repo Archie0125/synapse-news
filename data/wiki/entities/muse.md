@@ -7,6 +7,12 @@
 ## Recent Mentions
 
 
+- **Muse can now place calls to US businesses — if you pay** (2026-11-12)
+  - Muse’s calling feature makes agents tangibly useful, but charging $20 monthly turns saved awkwardness into a premium convenience before trust norms are settled.
+
+- **Meta's Muse can now make calls on your behalf (if you have a paid subscription)** (2026-11-12)
+  - Muse’s phone calls make AI assistance tangible, but Meta is monetizing convenience before settling the etiquette and disclosure rules for agents speaking to humans.
+
 - **ByteDance is reportedly working on its own AI agent** (2026-11-11)
   - ByteDance's own founder says it may take until 2029 or 2030 to catch up in AI, so a Muse-style agent looks like a stopgap more than a challenge to the frontier labs.
 
@@ -27,9 +33,3 @@
 
 - **After blocking Muse, Amazon now lets users text Alexa to help them shop** (2026-11-06)
   - Amazon blocked Meta's shopping agent and then launched its own: the message is that AI agents can shop on Amazon as long as the agent is Amazon's.
-
-- **Meta says US users can now video chat with their Muse AI avatar** (2026-11-05)
-  - Meta's cartoon avatar for Muse is a deliberate attachment play: give an AI agent a face, and you're optimizing for emotional engagement, not task completion.
-
-- **Airbnb says it’s launching an AI travel agent in the first half of 2027** (2026-11-05)
-  - Airbnb's bet that travelers want to browse, not delegate, is smart positioning, but it's also a convenient story for keeping general-purpose AI agents away from its bookings.

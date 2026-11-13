@@ -1,11 +1,14 @@
 # GitHub Actions
 
 
-*Mentioned in 5 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **GitHub availability report: October 2026** (2026-11-13)
+  - GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
 
 - **Why I Built a 100% Ad-Free, 3-Second Daily Expense Tracker PWA (React + Firebase + GitHub Actions) published: true** (2026-11-12)
   - This tracker’s real innovation isn’t React or Firebase; it’s treating three seconds and zero ads as core financial-product features.

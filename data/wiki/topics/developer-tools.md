@@ -1,111 +1,95 @@
 # Dev Tools
 
 
-*408 articles in the last 7 days*
+*426 articles in the last 7 days*
 
 
 ## Latest
 
 
-### More game developers are starting to use generative AI
+### GitHub availability report: October 2026
 
-*The Verge | 2026-11-12*
-
-
-Generative AI is winning inside game studios through mundane utility, even while its creative legitimacy remains fiercely contested.
+*GitHub Blog | 2026-11-13*
 
 
-### Technical Debt is Social; it is the Price of Learning by Doing
-
-*InfoQ | 2026-11-12*
+GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
 
 
-Technical debt is healthy when it buys learning, but AI makes repayment harder by producing code faster than teams can absorb context.
+### Your LED Driver Feels Scorching Hot. "That's Normal" Is Only Half True.
+
+*Dev.to | 2026-11-13*
 
 
-### Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector
-
-*InfoQ | 2026-11-12*
+A hot LED driver may be operating normally, but “too hot to touch” is no substitute for measuring its rated Tc point.
 
 
-Kiji Inspector targets the right problem: agent reliability needs observable tool choices, not comforting stories about hidden reasoning.
+### Wix image URLs: fill vs fit, enc_auto, Vary: Accept and the file behind /v1/
+
+*Dev.to | 2026-11-13*
 
 
-### LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments
-
-*InfoQ | 2026-11-12*
+Wix image URLs are a useful transformation API disguised as filenames, but content negotiation makes casual URL inspection dangerously misleading.
 
 
-LinkedIn’s Argo CD replacement is less an open-source rejection than proof that hyperscale eventually makes deployment semantics worth owning.
+### VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python
+
+*Dev.to | 2026-11-13*
 
 
-### Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs
-
-*InfoQ | 2026-11-12*
+BIGF makes agent governance refreshingly concrete, but three thresholds and a signed token are a starting control—not a complete safety system.
 
 
-TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unstable APIs keep Google’s impressive benchmarks from being a production guarantee.
+### The Corporate LLM Gateway: Why GPU-Hour Is the Wrong Metric
+
+*Dev.to | 2026-11-13*
 
 
-### Azure Logic Apps Standard Gets a Local CLI in Preview
-
-*InfoQ | 2026-11-12*
+Cheap GPU-hours make attractive spreadsheets, but corporate LLM projects live or die on auditability, payment operations and provider resilience.
 
 
-Azure Logic Apps finally gains a credible terminal-first workflow, but preview status means automation teams should experiment before standardizing on it.
+### Telling a model what not to do barely worked
+
+*Dev.to | 2026-11-13*
 
 
-### Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript
-
-*InfoQ | 2026-11-12*
+Negative prompting treated repetition as disobedience, but the real defect was missing memory—context fixed what increasingly elaborate rules could not.
 
 
-finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.
+### Sub‑bit KV cache quantization doubles throughput
+
+*Dev.to | 2026-11-13*
 
 
-### The Definitive Fine-Tuning Guide for 3D Generation Models
-
-*Hugging Face Blog | 2026-11-12*
+LoopVQ shows memory traffic—not compute—is the real long-context tax, though its headline gains still need validation beyond looped Ouro models.
 
 
-TRELLIS.2 fine-tuning is becoming accessible, but clean task-specific 3D data—not another training script—remains the real competitive advantage.
+### Node.js Account Deletion: Verified GDPR Erasure for User Avatar Images
+
+*Dev.to | 2026-11-13*
 
 
-### Why Writing Correct Software Is Hard
-
-*Hacker News | 2026-11-12*
+A successful DELETE response is not GDPR erasure; defensible deletion requires a complete asset ledger, read-back verification, and durable evidence.
 
 
-Formal methods can reduce software errors, but theory says complete correctness always carries costs that better syntax and fashionable tools cannot erase.
+### Jira Automation with Rovo: 2 of 10 Rules Worked
+
+*Dev.to | 2026-11-13*
 
 
-### Writing a forex position size calculator in JavaScript: the pip value bugs
-
-*Dev.to | 2026-11-12*
+Rovo’s 20-percent success rate shows AI-generated automation is still a draft generator, while silent failures and broad editing permissions create the real risk.
 
 
-The formula is easy; reliable forex sizing depends on currency conversion and broker data, where tiny assumptions can become account-killing errors.
+### I Stopped Believing AI Coding Claims. Now I Measure Them.
+
+*Dev.to | 2026-11-13*
 
 
-### Why I Built a 100% Ad-Free, 3-Second Daily Expense Tracker PWA (React + Firebase + GitHub Actions) published: true
-
-*Dev.to | 2026-11-12*
+Public experiments are the right antidote to AI-coding hype, though paywalling raw data weakens the project’s promise of reproducible accountability.
 
 
-This tracker’s real innovation isn’t React or Firebase; it’s treating three seconds and zero ads as core financial-product features.
+### Choosing a Specialized GEO Marketing Partner in South Korea With a Reviewable Source Manifest
+
+*Dev.to | 2026-11-13*
 
 
-### The Intruder in the Palm of Your Hand
-
-*Dev.to | 2026-11-12*
-
-
-The scariest mobile attacks do not need elite targets; curiosity, sideloading, and one permissions prompt can convert an ordinary phone into a theft channel.
-
-
-### Single-step flow matching brightens low‑light photos
-
-*Dev.to | 2026-11-12*
-
-
-GLOW-FM shrinks multi-step diffusion into one pass for low-light photos, a real edge-AI win if its claims hold beyond static benchmarks.
+The source-manifest advice is solid, but the disclosed self-recommendation makes this a useful workflow wrapped in vendor marketing—not an independent ranking.

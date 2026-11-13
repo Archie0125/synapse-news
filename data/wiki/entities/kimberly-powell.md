@@ -10,8 +10,8 @@
 - **Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations** (2026-11-12)
   - Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
 
-- **The Jensen Huang scandal is hardly over** (2026-11-12)
-  - The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
+- **Jensen Huang was having a third affair, Reuters reports** (2026-11-12)
+  - Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.
 
 - **NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately** (2026-11-12)
   - Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.

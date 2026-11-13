@@ -1,11 +1,14 @@
 # Amazon
 
 
-*Mentioned in 56 articles*
+*Mentioned in 53 articles*
 
 
 ## Recent Mentions
 
+
+- **The Oura Ring 4 is almost as good as the newer model, but $150 cheaper** (2026-11-12)
+  - At $249, the Oura Ring 4 makes the newer model's premium difficult to justify when the core sensors and software remain essentially unchanged.
 
 - **A power bank that can quickly charge three gadgets is just $49** (2026-11-12)
   - At $49, EcoFlow’s 140W power bank is unusually compelling, provided buyers accept bringing their own cables and checking the Prime-only deal.
@@ -48,6 +51,3 @@
 
 - **Ring’s Indoor Drone Camera Is Back—and Now Powered by AI** (2026-11-10)
   - Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.
-
-- **Best Early Amazon Black Friday Deals (2026)** (2026-11-10)
-  - Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.

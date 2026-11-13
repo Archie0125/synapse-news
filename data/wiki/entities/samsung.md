@@ -1,11 +1,14 @@
 # Samsung
 
 
-*Mentioned in 44 articles*
+*Mentioned in 41 articles*
 
 
 ## Recent Mentions
 
+
+- **Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year** (2026-11-12)
+  - Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
 
 - **Here’s How Google Says It’s Making Its Smart Glasses More Private** (2026-11-12)
   - Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
@@ -31,6 +34,9 @@
 - **Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20** (2026-11-12)
   - Google and Samsung’s best smart-glasses feature may be restraint: hardware that looks ordinary could do more for adoption than another futuristic display.
 
+- **Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag** (2026-11-12)
+  - At $20, Samsung’s tracker exposes the Pixel Tag’s real weakness: Google’s broader compatibility matters less when its finding network performs worse.
+
 - **Best OLED TVs of 2026: LG, Samsung, Sony, and More** (2026-11-11)
   - OLED TVs are cheaper than ever because RGB and art TVs are finally pressuring them, and buyers are the ones who benefit.
 
@@ -45,9 +51,3 @@
 
 - **Smart home devices should work without the internet** (2026-11-10)
   - A smart home that stops working when a vendor's server goes down is really a rental. This ten-year local-first setup shows the alternative works.
-
-- **Gemini Intelligence: New features, on more devices** (2026-11-10)
-  - Google is pushing Gemini Intelligence to more Android phones, but the real story is distribution: Google's AI advantage is being on every partner's device.
-
-- **Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users** (2026-11-10)
-  - Samsung dropping OneDrive for Google Photos is a quiet win for Google's cloud business, though the One UI 9 requirement means many Galaxy owners will have to wait.

@@ -1,11 +1,17 @@
 # Gemini 4 Argon
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Google’s latest Search upgrade promises better answers to your most complicated questions** (2026-11-12)
+  - Hydrogen suggests Search’s real advantage will come from fast model routing, not always deploying the smartest model—if Google’s claims survive everyday queries.
+
+- **Gemini 4 Hydrogen** (2026-11-12)
+  - Hydrogen is Google’s bid to make frontier AI routine: near-top benchmark scores, broad distribution, and pricing designed for high-volume execution rather than prestige demos.
 
 - **Gemini 4 Carbon is now available** (2026-11-10)
   - Gemini 4 Carbon tops agentic benchmarks at less than half the cost per task. Google is competing on economics as much as intelligence.

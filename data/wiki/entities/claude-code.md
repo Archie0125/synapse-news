@@ -1,7 +1,7 @@
 # Claude Code
 
 
-*Mentioned in 20 articles*
+*Mentioned in 18 articles*
 
 
 ## Recent Mentions

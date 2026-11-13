@@ -1,14 +1,20 @@
 # Claude
 
 
-*Mentioned in 14 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
 
+- **Foundation Models framework** (2026-11-12)
+  - Apple is turning model choice into a Swift implementation detail, potentially owning the developer layer even when Claude or Gemini does the thinking.
+
 - **Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest** (2026-11-12)
   - Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.
+
+- **Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more** (2026-11-12)
+  - Grok Bot’s Apple integrations make it far more useful, but access to messages, mail, location, and contacts turns convenience into a serious trust decision.
 
 - **LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers** (2026-11-11)
   - LinkedIn's Frequent Viewer test turns lurking into a lead-gen signal for Premium users, at the expense of anyone who thought browsing was private.
@@ -45,6 +51,3 @@
 
 - **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
   - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
-
-- **Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes** (2026-11-06)
-  - An AI agent that deletes a syllabus while renumbering pages is not 'rogue.' It shows that giving agents file access without guardrails is the real mistake.

@@ -1,11 +1,14 @@
 # Pixel Tag
 
 
-*Mentioned in 10 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag** (2026-11-12)
+  - At $20, Samsung’s tracker exposes the Pixel Tag’s real weakness: Google’s broader compatibility matters less when its finding network performs worse.
 
 - **You can now buy the Pixel Tag, cases from Bellroy & Spigen available** (2026-11-11)
   - Pixel Tag finally gives Android a polished AirTag rival. The bigger story is that Google launched it with accessories and a user-replaceable battery on day one.

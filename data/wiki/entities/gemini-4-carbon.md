@@ -1,11 +1,17 @@
 # Gemini 4 Carbon
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Gemini 4 Hydrogen** (2026-11-12)
+  - Hydrogen is Google’s bid to make frontier AI routine: near-top benchmark scores, broad distribution, and pricing designed for high-volume execution rather than prestige demos.
+
+- **Gemini 4 Hydrogen and Orchestrator** (2026-11-12)
+  - Google’s Orchestrator suggests the next AI advantage is not one superior model, but knowing exactly when to switch between expensive judgment and cheap execution.
 
 - **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
   - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.

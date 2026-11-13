@@ -1,7 +1,7 @@
 # Best Buy
 
 
-*Mentioned in 12 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,9 @@
 
 - **Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now** (2026-11-12)
   - The CyberPowerPC may be a capable 1440p deal, but contradictory GPU and discount claims make retailer verification mandatory before anyone clicks buy.
+
+- **The Oura Ring 4 is almost as good as the newer model, but $150 cheaper** (2026-11-12)
+  - At $249, the Oura Ring 4 makes the newer model's premium difficult to justify when the core sensors and software remain essentially unchanged.
 
 - **One of our favorite multi-filament 3D printers is $100 off** (2026-11-10)
   - A $100 discount on Bambu's P2S Combo is a decent holiday deal, and a reminder that consumer 3D printing now competes on hands-off reliability rather than specs.
@@ -36,9 +39,3 @@
 
 - **Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more** (2026-11-06)
   - Black Friday arrives in early November again, and steep flagship discounts like $450 off the Galaxy S26 Ultra suggest launch prices are largely for show.
-
-- **13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)** (2026-11-05)
-  - Black Friday now starts in early November, which makes the deadline feel fake. Shoppers who buy only tested products at proven discounts are the ones who come out ahead.
-
-- **Bose recalls S1 Pro battery packs due to fire and overheating risks** (2026-11-05)
-  - Bose's S1 Pro recall covers nearly nine years of battery sales, a reminder that removable lithium packs are a long-term liability, not just an accessory.

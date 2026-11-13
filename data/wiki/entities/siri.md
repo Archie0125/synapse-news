@@ -1,7 +1,7 @@
 # Siri
 
 
-*Mentioned in 14 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
   - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
+
+- **HomeView review, new Apple TV launches, Apple holiday ad** (2026-11-12)
+  - Apple’s smart-home ambitions will be judged by HomeView’s daily usefulness, especially Siri and audio quality, not by another polished launch cycle.
 
 - **Apple TV 4K review: The best streamer comes at a cost** (2026-11-12)
   - The new Apple TV 4K looks built to age gracefully, but $299 is steep when its most noticeable upgrade may be a remote you can find.

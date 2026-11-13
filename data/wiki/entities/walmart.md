@@ -1,11 +1,14 @@
 # Walmart
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Walmart Early Black Friday Deals Double as Great Gifts (2026)** (2026-11-12)
+  - Walmart’s gift deals are useful, but its cheap membership trial turns holiday urgency into a recurring-revenue funnel shoppers must actively escape.
 
 - **Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more** (2026-11-12)
   - The standout Apple discounts are real, but a sprawling Black Friday roundup still rewards price verification more than impulse buying.

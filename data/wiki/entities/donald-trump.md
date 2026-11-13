@@ -1,11 +1,14 @@
 # Donald Trump
 
 
-*Mentioned in 14 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
 
+
+- **Donald Trump really wants Tim Cook to run Nvidia** (2026-11-13)
+  - Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
 
 - **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
   - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
@@ -13,11 +16,14 @@
 - **Jensen Huang is out. What did China want from him?** (2026-11-12)
   - Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
 
-- **Trump floats Apple chairman Tim Cook as Jensen Huang’s successor** (2026-11-12)
-  - Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
+- **‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation** (2026-11-12)
+  - Tech leaders defending Jensen Huang are treating exceptional performance as exceptional immunity, precisely when Nvidia needs credible governance most.
 
 - **Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry** (2026-11-12)
   - Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
+
+- **Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump** (2026-11-12)
+  - The inquiry makes Nvidia’s China policy a governance crisis, but explosive allegations and a minority-led probe are not substitutes for documentary evidence.
 
 - **President Trump calls on Tim Cook to be next NVIDIA CEO** (2026-11-12)
   - Trump's Tim Cook endorsement is headline-ready but strategically hollow: Nvidia needs a credible semiconductor successor, not presidential fan casting.
@@ -45,6 +51,3 @@
 
 - **Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations** (2026-11-06)
   - Apple's careful neutrality is about to get audited: a Democratic Congress wants to know whether its App Store calls on ICE apps were policy or politics.
-
-- **How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost** (2026-11-05)
-  - More than $400 million from Musk's super PAC couldn't buy the midterms, and voters' near-unanimous push to restrict data centers is the warning tech companies should take most seriously.

@@ -1,20 +1,17 @@
 # Megaspeed
 
 
-*Mentioned in 24 articles*
+*Mentioned in 23 articles*
 
 
 ## Recent Mentions
 
 
-- **Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing** (2026-11-12)
-  - Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
+- **Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month** (2026-11-12)
+  - Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.
 
 - **Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations** (2026-11-12)
   - Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
-
-- **The Jensen Huang scandal is hardly over** (2026-11-12)
-  - The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
 
 - **Jensen Huang resigns as CEO of Nvidia** (2026-11-12)
   - Huang's resignation turns a personal scandal into Nvidia's biggest governance test, with disputed espionage claims raising stakes far beyond executive misconduct.
@@ -51,3 +48,6 @@
 
 - **The race is on to sue Nvidia** (2026-11-09)
   - Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.
+
+- **Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny** (2026-11-09)
+  - Huang's case for selling chips to China just lost credibility. It's hard to argue for open access when you may have been a spy's target.

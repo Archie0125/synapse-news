@@ -1663,5 +1663,152 @@
     "status": "pending",
     "scheduled_for": "2026-11-14T01:03:34.174178+00:00",
     "queued_at": "2026-11-12T18:43:34.174178+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Nvidia’s $470 billion shock exposed the real problem: Jensen Huang wasn’t just CEO. He was the strategy, succession plan and credibility layer.\n\nA company this important cannot run on founder mythology forever. Can Nvidia prove it built an institution, not a throne?",
+    "article_url": "/en/industry/2026-11-13-nvidias-470-billion-warning-jensen-was-the-governance-plan-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T06:32:41.253483+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T08:00:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Nvidia employees demanding Jensen Huang’s return may look loyal. To investors, it signals that the company never developed authority beyond one person.\n\nThe next CEO’s hardest job isn’t selling chips. It’s proving Nvidia can survive its founder. Will the board allow that transition?",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T06:32:41.253504+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T10:20:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "The agent wars aren’t really about smarter models. They’re about who gets to control the customer, authorize purchases and own the resulting data.\n\nAirlines and marketplaces understand the threat: an agent can reduce their brand to invisible infrastructure. Who will surrender that relationship first?",
+    "article_url": "/en/ai-ml/2026-11-13-the-agent-wars-are-really-about-who-owns-the-customer-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T06:32:41.253510+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T12:40:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Chat was the demo. Agents are the business model.\n\nOnce software can call, buy, negotiate and edit production systems, accuracy is only half the product. Permissions, liability and revocation become the interface. The winners will sell control before autonomy—which platform gets there first?",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T06:32:41.253527+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T15:00:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Google doesn’t need Gemini to top every benchmark. It needs Gemini inside Search, Android, cars, glasses and every developer workflow before users make a conscious choice.\n\nDistribution plus cheaper model routing beats leaderboard glory. At what point does Gemini stop feeling like a product and become infrastructure?",
+    "article_url": "/en/ai-ml/2026-11-13-google-doesnt-need-gemini-to-win-it-needs-gemini-everywhere-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T06:32:41.253530+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T17:20:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The AI industry keeps treating trust as a branding problem. It’s an architecture problem.\n\nGive unreliable models broad permissions, weak audit trails and generated dependencies, then every hallucination becomes a security event. Least privilege will become the defining AI feature of 2027—after how many avoidable breaches?",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T06:32:41.253556+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T19:40:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Microsoft 365, Outlook, GitHub and iCloud outages expose the cloud bargain: integration removes friction until one failure removes everything.\n\nMulti-cloud slides are meaningless if identity, control planes or backups still share a choke point. The next major outage will reveal how many redundancy plans were only diagrams.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T06:32:41.253584+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T22:00:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Google’s AI strategy is becoming brutally simple: route each task to the cheapest model that is good enough, then distribute it through products billions already use.\n\nOpenAI can win attention and still lose the default layer. By 2027, model routing may matter more than model rankings—who else has Google’s reach?",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T06:32:41.253532+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T00:20:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Smart glasses won’t win because an onstage demo identified a restaurant. They’ll win if they survive rain, prescription lenses, eight-hour wear and a crowded subway without making everyone uncomfortable.\n\nThe breakthrough isn’t AI. It’s becoming boring enough to wear daily. Which company gets there first?",
+    "article_url": "/en/products/2026-11-13-smart-glasses-wont-win-on-ai-theyll-win-in-the-rain-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T06:32:41.253559+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T02:40:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Google and Samsung can solve smart-glasses overheating. The harder bug is social permission.\n\nIf people cannot tell when a camera is recording—or prescription lenses turn a $499 device into a $900 purchase—the category stays niche. Smart glasses will be judged at dinner tables, not developer conferences. Who wants to sit across from them?",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T06:32:41.253576+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T05:00:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "GitHub’s October availability report is a reminder that cloud capacity is not resilience. A migration that expands the blast radius is still a reliability failure, however impressive the infrastructure diagram looks.\n\nThe real test: can the next migration break without users noticing?",
+    "article_url": "/en/industry/2026-11-13-github-availability-report-october-2026-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T06:32:41.253579+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T07:20:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI infrastructure spending has entered the awkward phase where demand can be real and the investment thesis can still be wrong.\n\nA data center financed for near-perfect utilization becomes a liability if models get cheaper, grids stall or customers consolidate. Someone is building the AI era’s empty shopping malls—who notices first?",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T06:32:41.253588+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T09:40:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "AI’s trust problem often hides in tiny technical claims. A modern format in an image URL doesn’t prove what was actually delivered; headers and decoded pixels do.\n\nThat lesson scales from CDNs to agents: verify the output, not the label. How many AI products would survive that standard today?",
+    "article_url": "/en/developer-tools/2026-11-13-wix-image-urls-fill-vs-fit-enc-auto-vary-accept-and-the-file-en/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-13T06:32:41.253534+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T12:00:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "The AI capex race assumes the winning strategy is always more GPUs, power and networking. Google is making a different bet: better routing, lower execution costs and distribution everywhere.\n\nIf efficiency keeps improving faster than demand, who gets stuck repaying today’s data-center boom?",
+    "article_url": "/en/ai-ml/2026-11-13-google-doesnt-need-gemini-to-win-it-needs-gemini-everywhere-en/",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-13T06:32:41.253585+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T14:20:00+00:00",
+    "queued_at": "2026-11-13T06:32:41.255502+00:00"
   }
 ]

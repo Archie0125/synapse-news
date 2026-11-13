@@ -1,7 +1,7 @@
 # Startups
 
 
-*178 articles in the last 7 days*
+*171 articles in the last 7 days*
 
 
 ## Latest
@@ -13,30 +13,6 @@
 
 
 Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
-
-
-### Whoop just launched a social network
-
-*TechCrunch | 2026-11-12*
-
-
-Whoop Humans could turn health data into meaningful support, but social engagement is a dangerous incentive when vulnerability becomes the content.
-
-
-### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
-
-*TechCrunch | 2026-11-12*
-
-
-United’s blockade shows AI agents are outrunning the trust infrastructure needed to let software safely act as a customer.
-
-
-### Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
-
-*TechCrunch | 2026-11-12*
-
-
-Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
 
 
 ### SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions
@@ -79,6 +55,54 @@ Norwest’s $4 billion fund confirms AI’s reach, but such a broad mandate risk
 Voinosis has a compelling five-minute screening pitch, but clinical trust will depend on validation far beyond one 146-person study.
 
 
+### Nectar launches an AI agent to automate creator discovery and outreach for brands
+
+*TechCrunch | 2026-11-12*
+
+
+Nectar can make influencer campaigns scale, but automating relationships risks turning authentic creator partnerships into another high-volume sales funnel.
+
+
+### Nebius tests the neocloud playbook with $40 billion in planned spending
+
+*TechCrunch | 2026-11-12*
+
+
+Nebius’s $40 billion bet could validate neocloud financing, but contract-backed debt becomes a trap when delayed capacity pushes revenue rightward and costs upward.
+
+
+### Muse can now place calls to US businesses — if you pay
+
+*TechCrunch | 2026-11-12*
+
+
+Muse’s calling feature makes agents tangibly useful, but charging $20 monthly turns saved awkwardness into a premium convenience before trust norms are settled.
+
+
+### Microsoft’s Outlook email hit by new outage
+
+*TechCrunch | 2026-11-12*
+
+
+Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
+
+
+### Jensen Huang’s exit puts Nvidia’s support for open source in question
+
+*TechCrunch | 2026-11-12*
+
+
+Nvidia’s open-source commitment now faces its clearest test: whether it was durable strategy or merely Jensen Huang’s useful counterweight to frontier labs.
+
+
+### Jensen Huang was having a third affair, Reuters reports
+
+*TechCrunch | 2026-11-12*
+
+
+Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.
+
+
 ### Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?
 
 *TechCrunch | 2026-11-12*
@@ -103,33 +127,17 @@ Huang’s closed-door testimony may answer security questions, but secrecy will 
 Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
 
 
+### Google’s latest Search upgrade promises better answers to your most complicated questions
+
+*TechCrunch | 2026-11-12*
+
+
+Hydrogen suggests Search’s real advantage will come from fast model routing, not always deploying the smartest model—if Google’s claims survive everyday queries.
+
+
 ### Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
 
 *TechCrunch | 2026-11-12*
 
 
 Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
-
-
-### Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts
-
-*TechCrunch | 2026-11-12*
-
-
-The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.
-
-
-### Dear SaaStr: How Do You Become Successful at Enterprise Sales? What Are the Biggest Challenges People Experience?
-
-*SaaStr | 2026-11-12*
-
-
-Enterprise sales is not funnel optimization at a larger price point; it is founder-led organizational problem solving with uncomfortable human contact.
-
-
-### A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.
-
-*SaaStr | 2026-11-12*
-
-
-Doubling ACV is a useful test of whether an agent replaces labor, but one portfolio anecdote is a benchmark, not a business law.

@@ -1,18 +1,18 @@
 # Open Source
 
 
-*124 articles in the last 7 days*
+*127 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM
+### Jensen Huang’s exit puts Nvidia’s support for open source in question
 
-*Tom's Hardware | 2026-11-12*
+*TechCrunch | 2026-11-12*
 
 
-The CMP-170HX hack exposes how much value Nvidia disables through segmentation, but its laboratory-grade risks keep it far from a practical bargain A100.
+Nvidia’s open-source commitment now faces its clearest test: whether it was durable strategy or merely Jensen Huang’s useful counterweight to frontier labs.
 
 
 ### Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
@@ -21,22 +21,6 @@ The CMP-170HX hack exposes how much value Nvidia disables through segmentation, 
 
 
 Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
-
-
-### Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector
-
-*InfoQ | 2026-11-12*
-
-
-Kiji Inspector targets the right problem: agent reliability needs observable tool choices, not comforting stories about hidden reasoning.
-
-
-### LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments
-
-*InfoQ | 2026-11-12*
-
-
-LinkedIn’s Argo CD replacement is less an open-source rejection than proof that hyperscale eventually makes deployment semantics worth owning.
 
 
 ### Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs
@@ -55,12 +39,52 @@ TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unst
 finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.
 
 
-### The Definitive Fine-Tuning Guide for 3D Generation Models
+### LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B
 
 *Hugging Face Blog | 2026-11-12*
 
 
-TRELLIS.2 fine-tuning is becoming accessible, but clean task-specific 3D data—not another training script—remains the real competitive advantage.
+LLMON is a promising attempt to make model context legible, but the syntax matters only if it demonstrably reduces failures outside IBM’s own models.
+
+
+### Turning a 22-year-old Postgres type-confusion primitive into RCE
+
+*Hacker News | 2026-11-12*
+
+
+A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
+
+
+### Show HN: My $300 embroidery machine needed a subscription, so I built my own app
+
+*Hacker News | 2026-11-12*
+
+
+ZigZag turns a petty subscription wall into a compelling case for open, AI-assisted tools that return ownership of physical hardware to buyers.
+
+
+### Rust 1.100
+
+*Hacker News | 2026-11-12*
+
+
+Rust 1.100’s decade-long journey to stabilize `!` shows that boring language evolution is often the price of dependable software.
+
+
+### I'm making LLMs work on small and old devices
+
+*Hacker News | 2026-11-12*
+
+
+Smolmaxxing shows local AI progress is increasingly a systems-engineering story: clever memory movement can matter more than buying newer silicon.
+
+
+### Edge0-145B: Frontier AI Capabilities on Your Own Computer
+
+*Hacker News | 2026-11-12*
+
+
+Edge0’s local 145B claim could reset on-device AI economics, but extraordinary memory and speed numbers deserve independent reproduction before celebration.
 
 
 ### Critical RCE Vulnerability in Apache HTTP Server
@@ -69,6 +93,14 @@ TRELLIS.2 fine-tuning is becoming accessible, but clean task-specific 3D data—
 
 
 Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.
+
+
+### Build once, run on any agent: A practical guide to agent skills
+
+*GitHub Blog | 2026-11-12*
+
+
+Agent skills can turn tribal knowledge into reusable infrastructure, but portability ends where tools, credentials and permissions differ.
 
 
 ### How I Built a Self-Healing Study Planner: Catching Paywalled "Free" Courses with Cheerio and Schema.org
@@ -133,35 +165,3 @@ Home Assistant's $69 Aux-2 is a quiet attack on e-waste, making old dumb devices
 
 
 TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.
-
-
-### The Utah Teapot
-
-*Hacker News | 2026-11-11*
-
-
-A 1970s teapot is still a standard test model in computer graphics, which shows how much the field depends on shared, freely usable reference objects.
-
-
-### Show HN: Yogurt – Free, private, open-source alternative to Granola
-
-*Hacker News | 2026-11-11*
-
-
-Yogurt turns paid AI meeting notes into a free, local, open-source app, putting pressure on Granola's subscription model.
-
-
-### Hyper-Realistic Sand with WebGL2
-
-*Hacker News | 2026-11-11*
-
-
-A browser sand toy that reacts to touch, tilt, and shake shows WebGL2 is good enough for tactile toys that once needed a native app.
-
-
-### Can a Linear Program Do Weight-Space Programming?
-
-*Hacker News | 2026-11-11*
-
-
-An LLM spent 8 hours on 'weight-space programming' that a one-minute linear program does better, a useful reminder that a new name isn't a new method.

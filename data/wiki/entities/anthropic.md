@@ -1,7 +1,7 @@
 # Anthropic
 
 
-*Mentioned in 47 articles*
+*Mentioned in 44 articles*
 
 
 ## Recent Mentions

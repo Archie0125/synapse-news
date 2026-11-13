@@ -1,11 +1,14 @@
 # Google Gemini
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Muse can now place calls to US businesses — if you pay** (2026-11-12)
+  - Muse’s calling feature makes agents tangibly useful, but charging $20 monthly turns saved awkwardness into a premium convenience before trust norms are settled.
 
 - **A Grok vibe-coding agent leaked sensitive SpaceXSI data** (2026-11-11)
   - Grok Build's 'secret' share links leaked thousands of users' data, including the company's own, because it put the random part of the URL where DNS logs it.

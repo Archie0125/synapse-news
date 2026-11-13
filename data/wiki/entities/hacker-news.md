@@ -1,7 +1,7 @@
 # Hacker News
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -24,6 +24,3 @@
 
 - **Ask HN: What in the world is taking Ubuntu so long?** (2026-11-06)
   - A critical 9.8 CVE going unpatched for nearly a week is more than a Canonical delay; it's an early sign that distro patch pipelines can't keep up with AI-era vulnerability volume.
-
-- **Claude Code sends your email address to websites** (2026-11-05)
-  - One angry bug report about emails leaking in User-Agent headers has become a referendum on whether AI coding agents can be trusted with identity data.

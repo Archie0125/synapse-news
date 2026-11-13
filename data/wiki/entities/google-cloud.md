@@ -1,7 +1,7 @@
 # Google Cloud
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -15,9 +15,6 @@
 
 - **Google Cloud Spend Caps Reach General Availability with API and Monthly Resets** (2026-11-10)
   - Google Cloud finally gives customers a real spending kill switch, but it covers only four services, so most surprise bills are still possible.
-
-- **Google Cloud launches Gemini for healthcare.** (2026-11-10)
-  - Google is pitching Gemini for healthcare as an agent that does paperwork, not a chatbot. The real test is whether prior authorization actually gets faster.
 
 - **Google turns Gemini towards medical paperwork** (2026-11-10)
   - Aiming Gemini at healthcare paperwork instead of diagnosis is the smartest and least glamorous AI move this year, and the hospital partner list proves demand is real.

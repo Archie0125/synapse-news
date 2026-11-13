@@ -1,11 +1,14 @@
 # iMessage
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple HomeView launches tomorrow, but its first security update is already here** (2026-11-12)
+  - Shipping a security patch before HomeView reaches buyers is responsible, but nine disclosed vulnerabilities make updating on day one effectively mandatory.
 
 - **Apple Invites app now lets hosts poll guests, plus new emoji effect added** (2026-11-11)
   - Apple Invites keeps getting small monthly updates, but polls and floating emoji won't turn an iCloud+ perk into a reason to subscribe.

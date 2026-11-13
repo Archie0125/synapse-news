@@ -1,11 +1,14 @@
 # iOS
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%** (2026-11-12)
+  - Opera’s Data Saver is genuinely useful on costly connections, but routing content through compression servers makes privacy disclosure as important as the advertised 80% savings.
 
 - **Article: The iOS Crash We Could Not Reproduce** (2026-11-11)
   - A 'fixed' crash that only got rarer is not fixed, and this iOS post-mortem is a useful lesson in treating flaky bugs as experiments instead of guesses.

@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments** (2026-11-12)
-  - LinkedIn’s Argo CD replacement is less an open-source rejection than proof that hyperscale eventually makes deployment semantics worth owning.
+- **GitHub availability report: October 2026** (2026-11-13)
+  - GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
 
 - **Kubernetes - Setup External DNS** (2026-11-10)
   - Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.

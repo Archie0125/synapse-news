@@ -13,6 +13,12 @@
 - **Google reworks TPU silicon into specialized systems for agents and security** (2026-11-12)
   - Google’s smartest TPU advance may be modular product design, turning reused silicon into faster answers for agents, regulated customers, and Nvidia’s dominance.
 
+- **Muse can now place calls to US businesses — if you pay** (2026-11-12)
+  - Muse’s calling feature makes agents tangibly useful, but charging $20 monthly turns saved awkwardness into a premium convenience before trust norms are settled.
+
+- **Meta's Muse can now make calls on your behalf (if you have a paid subscription)** (2026-11-12)
+  - Muse’s phone calls make AI assistance tangible, but Meta is monetizing convenience before settling the etiquette and disclosure rules for agents speaking to humans.
+
 - **Google really needs you to know it cares about smart glasses privacy** (2026-11-12)
   - Google understands that smart glasses will fail socially before they fail technically, but privacy promises still need visible, enforceable proof.
 
@@ -45,9 +51,3 @@
 
 - **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (2026-11-10)
   - Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.
-
-- **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (2026-11-10)
-  - Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.
-
-- **AI usage generates a fragile codebase** (2026-11-10)
-  - A former Meta engineer says mandatory AI coding quotas reward output over judgment. The tech debt is real, it just hasn't come due yet.

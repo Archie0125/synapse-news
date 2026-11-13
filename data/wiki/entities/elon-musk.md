@@ -1,7 +1,7 @@
 # Elon Musk
 
 
-*Mentioned in 18 articles*
+*Mentioned in 17 articles*
 
 
 ## Recent Mentions
@@ -10,8 +10,8 @@
 - **Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang** (2026-11-12)
   - Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
 
-- **‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug** (2026-11-12)
-  - Killing Cybertruck for Cybercab exposes Tesla’s riskiest habit: abandoning a tangible product for an autonomous future still blocked by software and regulators.
+- **‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation** (2026-11-12)
+  - Tech leaders defending Jensen Huang are treating exceptional performance as exceptional immunity, precisely when Nvidia needs credible governance most.
 
 - **Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town** (2026-11-11)
   - After pollution lawsuits near Memphis, SpaceX is moving its gas-fired AI ambitions to a town it effectively owns, but Texas's incoming governor may still block it.

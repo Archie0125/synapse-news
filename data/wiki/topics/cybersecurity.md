@@ -1,10 +1,42 @@
 # Cybersecurity
 
 
-*128 articles in the last 7 days*
+*130 articles in the last 7 days*
 
 
 ## Latest
+
+
+### VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python
+
+*Dev.to | 2026-11-13*
+
+
+BIGF makes agent governance refreshingly concrete, but three thresholds and a signed token are a starting control—not a complete safety system.
+
+
+### Node.js Account Deletion: Verified GDPR Erasure for User Avatar Images
+
+*Dev.to | 2026-11-13*
+
+
+A successful DELETE response is not GDPR erasure; defensible deletion requires a complete asset ledger, read-back verification, and durable evidence.
+
+
+### I Stopped Believing AI Coding Claims. Now I Measure Them.
+
+*Dev.to | 2026-11-13*
+
+
+Public experiments are the right antidote to AI-coding hype, though paywalling raw data weakens the project’s promise of reproducible accountability.
+
+
+### Accept crypto payments in NestJS
+
+*Dev.to | 2026-11-13*
+
+
+Moonvex makes crypto checkout look simple, but payment reliability depends on idempotency and verified webhooks—not the redirect code.
 
 
 ### Apple’s HomeView Tries Face Authentication Without FaceID
@@ -15,28 +47,20 @@
 HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.
 
 
-### Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM
+### Russia’s Google says nearly 3% of its data was lost after crippling Ukraine drone strikes, opens secret availability zones
 
 *Tom's Hardware | 2026-11-12*
 
 
-The CMP-170HX hack exposes how much value Nvidia disables through segmentation, but its laboratory-grade risks keep it far from a practical bargain A100.
+Yandex restored most customer data, but the irrecoverable 2.84% exposes how quickly cloud-resilience promises collapse when physical infrastructure becomes a military target.
 
 
-### Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing
-
-*Tom's Hardware | 2026-11-12*
-
-
-Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
-
-
-### The Jensen Huang scandal is hardly over
+### Humble Bundle redesign removes two-factor verification from settings
 
 *The Verge | 2026-11-12*
 
 
-The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
+Humble Bundle's prettier storefront has obscured account security controls, a redesign failure that no amount of visual polish can excuse.
 
 
 ### AI chatbots are recommending fake retail websites, study finds
@@ -47,12 +71,12 @@ The second affair looks less like the core scandal than a possible trigger for N
 AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
 
 
-### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
+### Microsoft’s Outlook email hit by new outage
 
 *TechCrunch | 2026-11-12*
 
 
-United’s blockade shows AI agents are outrunning the trust infrastructure needed to let software safely act as a customer.
+Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
 
 
 ### Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts
@@ -61,6 +85,22 @@ United’s blockade shows AI agents are outrunning the trust infrastructure need
 
 
 The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.
+
+
+### Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
+
+*MIT Technology Review | 2026-11-12*
+
+
+The chip-tracking debate looks less like a technical impossibility than a political choice, though Nvidia’s unwritten private assurance still needs independent verification.
+
+
+### Turning a 22-year-old Postgres type-confusion primitive into RCE
+
+*Hacker News | 2026-11-12*
+
+
+A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
 
 
 ### Critical RCE Vulnerability in Apache HTTP Server
@@ -77,6 +117,14 @@ Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exp
 
 
 Nintendo’s login cleanup may improve account independence, but unexplained migrations turn sensible security housekeeping into avoidable customer friction.
+
+
+### Multiple Microsoft 365 services are experiencing an outage
+
+*Engadget | 2026-11-12*
+
+
+Microsoft 365’s multi-service outage exposes the downside of an integrated productivity cloud: one infrastructure failure can disable an organization’s entire digital workplace.
 
 
 ### The Intruder in the Palm of Your Hand
@@ -117,51 +165,3 @@ OpenAI compatibility is merely plumbing; the base URL’s operator, policies, an
 
 
 An MX lookup proves a domain can receive mail, not that a person is real, and fintechs that treat it as identity checking are fooling themselves.
-
-
-### Free LLM APIs for coding assistants
-
-*Dev.to | 2026-11-12*
-
-
-Free LLM APIs can power coding assistants, but token-heavy workflows and opaque relays make free a quota and privacy trade, not a bargain.
-
-
-### Email addresses as agent identity: giving every AI agent its own inbox
-
-*Dev.to | 2026-11-12*
-
-
-Per-agent inboxes are a pragmatic identity layer, but email improves attribution and revocation—not trust, authorization, or proof of who controls the agent.
-
-
-### An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.
-
-*Dev.to | 2026-11-12*
-
-
-The audit’s real value was not finding 31 proven holes, but turning uncertain AI suspicions into a transparent, fixable security backlog.
-
-
-### A Startup Wants to Fight AI Bioweapons With AI
-
-*Wired | 2026-11-11*
-
-
-Radical Numerics selling an AI bioweapon detector right after showing its model can design viruses is either responsible stewardship or a perfect business loop. It's probably both.
-
-
-### Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
-
-*Tom's Hardware | 2026-11-11*
-
-
-Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
-
-
-### ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs
-
-*Tom's Hardware | 2026-11-11*
-
-
-ASRock fixing a GPU-bricking BIOS without a changelog is the wrong lesson. Silent patches erode the trust that security updates depend on.

@@ -1,34 +1,82 @@
 # Industry
 
 
-*525 articles in the last 7 days*
+*550 articles in the last 7 days*
 
 
 ## Latest
 
 
-### You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online
+### Xbox announces Wolfenstein 3
+
+*The Verge | 2026-11-13*
+
+
+Wolfenstein 3's return is welcome, but a script photo and motion-capture tease are hype scaffolding—not yet evidence of a great sequel.
+
+
+### Donald Trump really wants Tim Cook to run Nvidia
+
+*The Verge | 2026-11-13*
+
+
+Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+
+
+### Nvidia employees petition to bring back Jensen Huang
+
+*Hacker News | 2026-11-13*
+
+
+Employee loyalty underscores Huang's impact, but founder nostalgia is a poor substitute for independent governance around serious reported misconduct.
+
+
+### GitHub availability report: October 2026
+
+*GitHub Blog | 2026-11-13*
+
+
+GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
+
+
+### The Corporate LLM Gateway: Why GPU-Hour Is the Wrong Metric
+
+*Dev.to | 2026-11-13*
+
+
+Cheap GPU-hours make attractive spreadsheets, but corporate LLM projects live or die on auditability, payment operations and provider resilience.
+
+
+### Choosing a Specialized GEO Marketing Partner in South Korea With a Reviewable Source Manifest
+
+*Dev.to | 2026-11-13*
+
+
+The source-manifest advice is solid, but the disclosed self-recommendation makes this a useful workflow wrapped in vendor marketing—not an independent ranking.
+
+
+### Apple TV just debuted three new originals, including a heist thriller series
+
+*9to5Mac | 2026-11-13*
+
+
+Apple TV’s triple premiere matters less for volume than for making accessibility a product feature alongside prestige storytelling.
+
+
+### Walmart Early Black Friday Deals Double as Great Gifts (2026)
 
 *Wired | 2026-11-12*
 
 
-The ease of buying mass-shooting-coded apparel shows marketplace moderation still reacts to obvious listings instead of understanding communities and symbols used to normalize violence.
+Walmart’s gift deals are useful, but its cheap membership trial turns holiday urgency into a recurring-revenue funnel shoppers must actively escape.
 
 
-### TurboTax Full Service Coupons This November 2026
-
-*Wired | 2026-11-12*
-
-
-TurboTax’s 10 percent coupon softens the price, but an affiliate-driven deal page should not substitute for comparing service tiers, eligibility, and total filing cost.
-
-
-### The Polar Vortex Is About to Make Weather Weird From the UK to the US
+### The 10 Best Early Black Friday TV Deals (2026)
 
 *Wired | 2026-11-12*
 
 
-The early polar-vortex breakdown matters less as a guaranteed deep freeze than as a warning that seasonal forecasts and infrastructure plans face unusually high uncertainty.
+Early Black Friday makes full-price TVs look indefensible, but shoppers should compare historical prices instead of trusting deal labels or manufactured urgency.
 
 
 ### Synchron Pauses Trials of Its Brain Implant Due to Performance Issues
@@ -39,6 +87,14 @@ The early polar-vortex breakdown matters less as a guaranteed deep freeze than a
 Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
 
 
+### Silicon Valley Is Still Defending Jensen Huang
+
+*Wired | 2026-11-12*
+
+
+Silicon Valley’s defense of Jensen Huang shows founder worship can outlast serious governance alarms when one leader embodies an industry’s fortunes.
+
+
 ### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
 
 *Wired | 2026-11-12*
@@ -47,57 +103,25 @@ Synchron’s trial pause shows that a less invasive brain implant is compelling 
 The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
 
 
+### Roborock Robot Vacuum Early Black Friday Deals (2026)
+
+*Wired | 2026-11-12*
+
+
+Roborock’s sub-$700 deals undercut today’s inflated robot-vacuum market, but an early sale is compelling only if the model fits your home—not the countdown.
+
+
+### Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year
+
+*Wired | 2026-11-12*
+
+
+Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
+
+
 ### Meet Colette Kress, Nvidia’s New Interim CEO
 
 *Wired | 2026-11-12*
 
 
 Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
-
-
-### Lovehoney Coupon Offers: 70% Off
-
-*Wired | 2026-11-12*
-
-
-Lovehoney’s 70-percent sale is useful commerce information, but the editorial wrapper should not obscure that this is fundamentally an affiliate shopping pitch.
-
-
-### Here’s How Google Says It’s Making Its Smart Glasses More Private
-
-*Wired | 2026-11-12*
-
-
-Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
-
-
-### Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out
-
-*Wired | 2026-11-12*
-
-
-Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
-
-
-### Google and Samsung’s Android XR Smart Glasses Are Finally Here
-
-*Wired | 2026-11-12*
-
-
-Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
-
-
-### Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile
-
-*Wired | 2026-11-12*
-
-
-Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
-
-
-### Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More
-
-*Wired | 2026-11-12*
-
-
-Open earbuds are becoming genuinely useful all-day wearables, provided buyers accept that environmental awareness and strong isolation are opposite goals.

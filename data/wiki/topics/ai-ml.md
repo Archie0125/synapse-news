@@ -1,10 +1,58 @@
 # AI & ML
 
 
-*401 articles in the last 7 days*
+*412 articles in the last 7 days*
 
 
 ## Latest
+
+
+### The Corporate LLM Gateway: Why GPU-Hour Is the Wrong Metric
+
+*Dev.to | 2026-11-13*
+
+
+Cheap GPU-hours make attractive spreadsheets, but corporate LLM projects live or die on auditability, payment operations and provider resilience.
+
+
+### Telling a model what not to do barely worked
+
+*Dev.to | 2026-11-13*
+
+
+Negative prompting treated repetition as disobedience, but the real defect was missing memory—context fixed what increasingly elaborate rules could not.
+
+
+### Sub‑bit KV cache quantization doubles throughput
+
+*Dev.to | 2026-11-13*
+
+
+LoopVQ shows memory traffic—not compute—is the real long-context tax, though its headline gains still need validation beyond looped Ouro models.
+
+
+### Jira Automation with Rovo: 2 of 10 Rules Worked
+
+*Dev.to | 2026-11-13*
+
+
+Rovo’s 20-percent success rate shows AI-generated automation is still a draft generator, while silent failures and broad editing permissions create the real risk.
+
+
+### I Stopped Believing AI Coding Claims. Now I Measure Them.
+
+*Dev.to | 2026-11-13*
+
+
+Public experiments are the right antidote to AI-coding hype, though paywalling raw data weakens the project’s promise of reproducible accountability.
+
+
+### Choosing a Specialized GEO Marketing Partner in South Korea With a Reviewable Source Manifest
+
+*Dev.to | 2026-11-13*
+
+
+The source-manifest advice is solid, but the disclosed self-recommendation makes this a useful workflow wrapped in vendor marketing—not an independent ranking.
 
 
 ### Meet Colette Kress, Nvidia’s New Interim CEO
@@ -15,6 +63,30 @@
 Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
 
 
+### Jensen Huang’s $470 Billion Affair
+
+*Wired | 2026-11-12*
+
+
+Huang’s affair became a national-security and governance crisis because Nvidia’s chips, China policy, and founder-centric credibility were already inseparable.
+
+
+### Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?
+
+*Wired | 2026-11-12*
+
+
+Huang’s exit gives Nvidia’s rivals a rare opening, but competitors still need products and software—not scandal—to break the company’s AI-computing grip.
+
+
+### Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month
+
+*Wired | 2026-11-12*
+
+
+Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.
+
+
 ### Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out
 
 *Wired | 2026-11-12*
@@ -23,20 +95,20 @@ Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, bu
 Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
 
 
+### Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight
+
+*Wired | 2026-11-12*
+
+
+DeepMind’s union fight shows that ethical objections to military AI are evolving from employee dissent into a legally enforceable challenge to management.
+
+
 ### Google and Samsung’s Android XR Smart Glasses Are Finally Here
 
 *Wired | 2026-11-12*
 
 
 Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
-
-
-### Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue
-
-*Tom's Hardware | 2026-11-12*
-
-
-Cannabis farms possess useful power and cooling infrastructure, but converting distressed properties into profitable AI nodes is an infrastructure thesis, not a proven rescue plan.
 
 
 ### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
@@ -71,14 +143,6 @@ Google’s smartest TPU advance may be modular product design, turning reused si
 Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
 
 
-### Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
-
-*The Verge | 2026-11-12*
-
-
-Nvidia’s calm internal messaging cannot disguise the governance shock of replacing the founder who concentrated so much operational authority around himself.
-
-
 ### More game developers are starting to use generative AI
 
 *The Verge | 2026-11-12*
@@ -95,73 +159,9 @@ Generative AI is winning inside game studios through mundane utility, even while
 Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
 
 
-### AI chatbots are recommending fake retail websites, study finds
+### Google’s new Gemini model is better at understanding complicated questions
 
 *The Verge | 2026-11-12*
 
 
-AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
-
-
-### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
-
-*TechCrunch | 2026-11-12*
-
-
-United’s blockade shows AI agents are outrunning the trust infrastructure needed to let software safely act as a customer.
-
-
-### SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions
-
-*TechCrunch | 2026-11-12*
-
-
-SoftBank’s turbine loss shows that betting on AI demand is easier than predicting exactly when, where, and how its electricity will be needed.
-
-
-### Phota Labs uses AI to turn everyday photos into professional-looking shots
-
-*TechCrunch | 2026-11-12*
-
-
-Phota Labs makes AI editing feel effortless, but its promise of proactive camera-roll assistance will succeed only if authenticity and privacy survive the automation.
-
-
-### Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s exit exposes Nvidia’s founder dependence; its next test is proving the AI empire is an institution, not one man’s momentum.
-
-
-### Norwest pushes deeper into AI with new $4B fund
-
-*TechCrunch | 2026-11-12*
-
-
-Norwest’s $4 billion fund confirms AI’s reach, but such a broad mandate risks making capital abundant and genuine investment conviction scarce.
-
-
-### Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition
-
-*TechCrunch | 2026-11-12*
-
-
-Voinosis has a compelling five-minute screening pitch, but clinical trust will depend on validation far beyond one 146-person study.
-
-
-### Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?
-
-*TechCrunch | 2026-11-12*
-
-
-Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
-
-
-### Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
-
-*TechCrunch | 2026-11-12*
-
-
-Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
+Gemini 4 Hydrogen's real upgrade is not smarter chat but turning Google Search into a model-driven answer engine with richer interfaces.

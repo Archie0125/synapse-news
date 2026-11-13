@@ -1,14 +1,20 @@
 # Apple TV
 
 
-*Mentioned in 12 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
 
+- **Apple TV just debuted three new originals, including a heist thriller series** (2026-11-13)
+  - Apple TV’s triple premiere matters less for volume than for making accessibility a product feature alongside prestige storytelling.
+
 - **New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon** (2026-11-12)
   - She's Fine gives Apple TV another star-powered comedy, but recognizable names still need a sharp premise to become more than subscription wallpaper.
+
+- **Apple TV announces new film ‘Connector’ starring Brad Pitt** (2026-11-12)
+  - Apple’s renewed Brad Pitt bet looks commercially sensible, but Connector’s real test is whether Apple can rebuild filmmakers’ trust around theatrical distribution.
 
 - **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
   - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.
@@ -36,9 +42,6 @@
 
 - **iOS 27.2 adds three new ways to customize your iPhone** (2026-11-06)
   - iOS 27.2's most important addition is the option to keep certain apps away from Siri. As Siri gains AI abilities, controlling what it can access matters more than adding new features.
-
-- **‘Awkwafina: The Unlikely Cook’ premieres on Apple TV** (2026-11-06)
-  - Apple TV's new food show is built on one easy-to-pitch idea, a comedian who can't cook. Whether it works depends on whether the family story can carry eight episodes.
 
 - **Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three** (2026-11-06)
   - Renewing 'Knife Edge' hours after its finale shows Apple TV is betting on cheap, prestige-looking unscripted shows alongside its expensive dramas.

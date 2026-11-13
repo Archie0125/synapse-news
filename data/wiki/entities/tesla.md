@@ -1,14 +1,11 @@
 # Tesla
 
 
-*Mentioned in 11 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
-
-- **‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug** (2026-11-12)
-  - Killing Cybertruck for Cybercab exposes Tesla’s riskiest habit: abandoning a tangible product for an autonomous future still blocked by software and regulators.
 
 - **Lucid CEO says the company didn't know where its own cars were** (2026-11-11)
   - Lucid losing track of its own cars while making under 3,000 a quarter isn't a scaling problem. It's a basic operations failure presented as a growing pain.

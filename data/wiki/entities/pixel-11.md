@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year** (2026-11-12)
+  - Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
+
 - **Google Pixel Tag is only available in 8 countries, and excludes Europe** (2026-11-11)
   - Google built a travel tracker and then left the EU off its launch map, which says more about regulatory caution than about demand.
 
@@ -33,6 +36,3 @@
 
 - **Should you make the switch to Google Pixel from Samsung Galaxy?** (2026-11-08)
   - The Pixel 11 won't outsell Samsung, but with less bloatware and faster updates it has the more convincing pitch.
-
-- **Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon** (2026-11-05)
-  - With memory shortages pushing up phone prices, a $599 Pixel 10 looks less like a routine discount and more like a last chance before prices climb.

@@ -1,11 +1,14 @@
 # Google Play
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Today’s Android app deals and freebies: Agent A, Swim Out, The Mutiny, more** (2026-11-12)
+  - This app roundup is useful as a discovery list, but without clear prices or deal deadlines, readers still have to do most of the bargain hunting themselves.
 
 - **Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more** (2026-11-11)
   - This week's Play Store deals mostly serve to frame Google's hardware push: a Home Speaker at an all-time low and the newly launched Pixel Tag are the actual headline.

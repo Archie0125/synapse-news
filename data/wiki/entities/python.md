@@ -1,11 +1,14 @@
 # Python
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python** (2026-11-13)
+  - BIGF makes agent governance refreshingly concrete, but three thresholds and a signed token are a starting control—not a complete safety system.
 
 - **How to read and validate a CAS Registry Number (with a Python check-digit example)** (2026-11-12)
   - A CAS check digit catches typos but not wrong substances, and confusing 'well-formed' with 'correct' is how bad chemical data spreads.

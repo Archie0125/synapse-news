@@ -1,11 +1,14 @@
 # Google Antigravity
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Gemini 4 Hydrogen and Orchestrator** (2026-11-12)
+  - Google’s Orchestrator suggests the next AI advantage is not one superior model, but knowing exactly when to switch between expensive judgment and cheap execution.
 
 - **You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]** (2026-11-11)
   - Henry Cavill's AI-built mustache game is a clever Googlebook ad that shows a polished demo, not proof that ordinary users can vibe-code a game.

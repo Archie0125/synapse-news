@@ -1,14 +1,23 @@
 # GitHub
 
 
-*Mentioned in 26 articles*
+*Mentioned in 28 articles*
 
 
 ## Recent Mentions
 
 
+- **GitHub availability report: October 2026** (2026-11-13)
+  - GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
+
 - **Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript** (2026-11-12)
   - finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.
+
+- **Edge0-145B: Frontier AI Capabilities on Your Own Computer** (2026-11-12)
+  - Edge0’s local 145B claim could reset on-device AI economics, but extraordinary memory and speed numbers deserve independent reproduction before celebration.
+
+- **Build once, run on any agent: A practical guide to agent skills** (2026-11-12)
+  - Agent skills can turn tribal knowledge into reusable infrastructure, but portability ends where tools, credentials and permissions differ.
 
 - **Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled** (2026-11-11)
   - Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
@@ -42,12 +51,3 @@
 
 - **AMR Mechanical and Electrical Engineering — Ch.10: Chapter 10. Battery and BMS [KR]** (2026-11-09)
   - In mobile robots, the battery is not a power supply but a design constraint that shapes the chassis, center of gravity, and business model.
-
-- **AMR Mechanical and Electrical Engineering — Ch.09: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - An AMR's power architecture is the plumbing nobody demos, yet it sets runtime, safety, and how often a factory line goes down.
-
-- **AMR Mechanical and Electrical Engineering — Ch.08: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - Being able to stop safely may matter more than moving efficiently, and a robot's brakes say more about its maturity than its AI demo does.
-
-- **AMR Mechanical and Electrical Engineering — Ch.07: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - In industrial AMRs, the motor driver and control algorithm often matter more than the motor itself. Ride quality comes from the electronics, not the metal.

@@ -1,7 +1,7 @@
 # Google Messages
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,6 +18,3 @@
 
 - **Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini** (2026-11-07)
   - Google Messages' redesign makes search easier to reach with one hand, but the iMessage-style pinned avatars give up useful preview text for looks.
-
-- **Phone by Google 246 beta brings gradient icon redesign on Android** (2026-11-05)
-  - Google is spending a beta release on a gradient icon while the restored Contacts tab still hasn't reached stable users.

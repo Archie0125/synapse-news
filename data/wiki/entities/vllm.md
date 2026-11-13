@@ -1,14 +1,11 @@
 # vLLM
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
-
-- **Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector** (2026-11-12)
-  - Kiji Inspector targets the right problem: agent reliability needs observable tool choices, not comforting stories about hidden reasoning.
 
 - **Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs** (2026-11-12)
   - TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unstable APIs keep Google’s impressive benchmarks from being a production guarantee.

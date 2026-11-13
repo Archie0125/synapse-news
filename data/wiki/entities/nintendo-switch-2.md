@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Hobbyist turns $45 USB-C hub into a working Nintendo Switch 2 dock by patching its firmware** (2026-11-12)
+  - A 540-byte patch turning a $45 hub into a Switch 2 dock suggests Nintendo's incompatibility is an artificial handshake, not a hardware necessity.
+
 - **Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price** (2026-11-11)
   - Sony pushing planar magnetic drivers down to $99 is the real story: a premium audio feature just became a budget expectation.
 
@@ -24,6 +27,3 @@
 
 - **What gamers should know when bringing their consoles through TSA** (2026-11-07)
   - The battery inside your gaming console matters more at the airport than the console does, and lithium-ion rules decide where it goes.
-
-- **Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster** (2026-11-05)
-  - A Zelda remaster is the perfect excuse to upsell controllers, and the real choice is whether official Nintendo features justify paying nearly $30 more than third-party pads.

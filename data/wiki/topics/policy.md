@@ -1,26 +1,74 @@
 # Policy
 
 
-*157 articles in the last 7 days*
+*161 articles in the last 7 days*
 
 
 ## Latest
 
 
-### You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online
+### Donald Trump really wants Tim Cook to run Nvidia
+
+*The Verge | 2026-11-13*
+
+
+Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+
+
+### Nvidia employees petition to bring back Jensen Huang
+
+*Hacker News | 2026-11-13*
+
+
+Employee loyalty underscores Huang's impact, but founder nostalgia is a poor substitute for independent governance around serious reported misconduct.
+
+
+### VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python
+
+*Dev.to | 2026-11-13*
+
+
+BIGF makes agent governance refreshingly concrete, but three thresholds and a signed token are a starting control—not a complete safety system.
+
+
+### The Corporate LLM Gateway: Why GPU-Hour Is the Wrong Metric
+
+*Dev.to | 2026-11-13*
+
+
+Cheap GPU-hours make attractive spreadsheets, but corporate LLM projects live or die on auditability, payment operations and provider resilience.
+
+
+### Node.js Account Deletion: Verified GDPR Erasure for User Avatar Images
+
+*Dev.to | 2026-11-13*
+
+
+A successful DELETE response is not GDPR erasure; defensible deletion requires a complete asset ledger, read-back verification, and durable evidence.
+
+
+### An EU Rule Puts a Minimum Charger Wattage on New Phone Boxes. For a Phone Camera on Permanent Power, It Is the Number to Check
+
+*Dev.to | 2026-11-13*
+
+
+The EU charger label turns obscure wattage into actionable information, but permanent phone-camera setups still need thermal and battery safeguards.
+
+
+### Silicon Valley Is Still Defending Jensen Huang
 
 *Wired | 2026-11-12*
 
 
-The ease of buying mass-shooting-coded apparel shows marketplace moderation still reacts to obvious listings instead of understanding communities and symbols used to normalize violence.
+Silicon Valley’s defense of Jensen Huang shows founder worship can outlast serious governance alarms when one leader embodies an industry’s fortunes.
 
 
-### The Polar Vortex Is About to Make Weather Weird From the UK to the US
+### Jensen Huang’s $470 Billion Affair
 
 *Wired | 2026-11-12*
 
 
-The early polar-vortex breakdown matters less as a guaranteed deep freeze than as a warning that seasonal forecasts and infrastructure plans face unusually high uncertainty.
+Huang’s affair became a national-security and governance crisis because Nvidia’s chips, China policy, and founder-centric credibility were already inseparable.
 
 
 ### Here’s How Google Says It’s Making Its Smart Glasses More Private
@@ -39,20 +87,28 @@ Google understands smart glasses have a trust problem, but privacy promises will
 Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
 
 
+### Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight
+
+*Wired | 2026-11-12*
+
+
+DeepMind’s union fight shows that ethical objections to military AI are evolving from employee dissent into a legally enforceable challenge to management.
+
+
+### Climate Change Has Pushed the World's Ice Out of Its Safe Zone
+
+*Wired | 2026-11-12*
+
+
+The cryosphere is leaving its historic safe zone, making climate adaptation less about avoiding damage and more about limiting irreversible losses already underway.
+
+
 ### Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently
 
 *Wired | 2026-11-12*
 
 
 Alex Karp’s progressive label looks less like an ideology than a flexible brand that must be judged against Palantir’s products and contracts.
-
-
-### Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing
-
-*Tom's Hardware | 2026-11-12*
-
-
-Alice Huang’s reported Beijing appearance raises the story’s temperature but proves little; the consequential issue is whether Nvidia’s security controls failed.
 
 
 ### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
@@ -71,22 +127,6 @@ Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia ne
 Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
 
 
-### The Jensen Huang scandal is hardly over
-
-*The Verge | 2026-11-12*
-
-
-The second affair looks less like the core scandal than a possible trigger for Nvidia to confront deeper security and governance risks.
-
-
-### Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup
-
-*The Verge | 2026-11-12*
-
-
-Nvidia’s calm internal messaging cannot disguise the governance shock of replacing the founder who concentrated so much operational authority around himself.
-
-
 ### Jensen Huang is out. What did China want from him?
 
 *The Verge | 2026-11-12*
@@ -95,20 +135,20 @@ Nvidia’s calm internal messaging cannot disguise the governance shock of repla
 Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
 
 
-### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
+### ‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation
+
+*The Verge | 2026-11-12*
+
+
+Tech leaders defending Jensen Huang are treating exceptional performance as exceptional immunity, precisely when Nvidia needs credible governance most.
+
+
+### Jensen Huang was having a third affair, Reuters reports
 
 *TechCrunch | 2026-11-12*
 
 
-United’s blockade shows AI agents are outrunning the trust infrastructure needed to let software safely act as a customer.
-
-
-### Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
-
-*TechCrunch | 2026-11-12*
-
-
-Tim Cook has credible succession experience, but Trump’s endorsement is political theater until Nvidia’s board defines the job it actually needs filled.
+Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.
 
 
 ### Jensen Huang agrees to testify before Congress
@@ -125,43 +165,3 @@ Huang’s closed-door testimony may answer security questions, but secrecy will 
 
 
 Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
-
-
-### Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.
-
-
-### NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately
-
-*ServeTheHome | 2026-11-12*
-
-
-Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
-
-
-### The Download: COP31’s climate challenge and the quest for immortality
-
-*MIT Technology Review | 2026-11-12*
-
-
-COP31 must convert geopolitical friction into measurable climate action, while cognitive immortality remains a compelling thought experiment far ahead of demonstrated technology.
-
-
-### Anthropic IPO
-
-*Hacker News | 2026-11-12*
-
-
-Anthropic’s explosive growth makes a compelling IPO pitch, but public markets will test whether its safety mission survives quarterly pressure.
-
-
-### Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense
-
-*Engadget | 2026-11-12*
-
-
-Repeated Starshield throttling shows that privately controlled infrastructure has become a battlefield dependency with consequences measured in lives, not loading times.

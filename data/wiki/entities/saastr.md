@@ -1,7 +1,7 @@
 # SaaStr
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,9 @@
 
 - **A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.** (2026-11-12)
   - Doubling ACV is a useful test of whether an agent replaces labor, but one portfolio anecdote is a benchmark, not a business law.
+
+- **$1 Billion ARR Is the New $100 Million. The Public B2B Companies Below It Show Why.** (2026-11-12)
+  - SaaStr’s $1 billion survival line captures AI-era scale pressure, but revenue size alone cannot rescue stagnant retention or weak product relevance.
 
 - **Top 10 Learnings From Databricks CRO Ron Gabrisko on Scaling Sales From Under $1M to a $200B Company** (2026-11-11)
   - Databricks asks sales candidates to build a live AI demo in the interview. The selling fundamentals are unchanged; what has changed is that reps now have to show the product working, not just describe it.

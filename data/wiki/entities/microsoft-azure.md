@@ -1,11 +1,14 @@
 # Microsoft Azure
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **GitHub availability report: October 2026** (2026-11-13)
+  - GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
 
 - **De una app de tareas a Azure: .NET 10, Cosmos DB, Terraform y GitHub Actions** (2026-11-11)
   - A student to-do app turns into a solid lesson in cloud deployment because the team designed its database queries and automated its infrastructure with care.

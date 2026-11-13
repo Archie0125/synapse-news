@@ -1,11 +1,17 @@
 # Artificial Analysis
 
 
-*Mentioned in 4 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
+
+- **Gemini 4 Hydrogen** (2026-11-12)
+  - Hydrogen is Google’s bid to make frontier AI routine: near-top benchmark scores, broad distribution, and pricing designed for high-volume execution rather than prestige demos.
+
+- **Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence** (2026-11-12)
+  - Gemini 4 Hydrogen’s speed and reliability claims could reset the everyday AI market, but vendor benchmarks still need real workloads to prove the leap.
 
 - **Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark** (2026-11-10)
   - A three-month waitlist for a $12,300 Mac Studio says local AI is no longer a hobby. The real test is whether huge unified memory beats Nvidia's CUDA advantage on real agent workloads.

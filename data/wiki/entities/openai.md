@@ -1,7 +1,7 @@
 # OpenAI
 
 
-*Mentioned in 45 articles*
+*Mentioned in 42 articles*
 
 
 ## Recent Mentions

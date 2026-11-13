@@ -1,11 +1,14 @@
 # Being Heumann
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple TV just debuted three new originals, including a heist thriller series** (2026-11-13)
+  - Apple TV’s triple premiere matters less for volume than for making accessibility a product feature alongside prestige storytelling.
 
 - **Apple TV makes sign language interpretation a built-in accessibility feature** (2026-11-10)
   - Apple made sign language a toggle like captions and deliberately chose human interpreters over AI, which is the more interesting decision of the two.

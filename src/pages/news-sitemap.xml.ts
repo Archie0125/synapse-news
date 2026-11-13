@@ -22,7 +22,8 @@ export async function GET() {
   const cutoffMs = cutoff.getTime();
 
   const recent = articles
-    .filter((a) => a.data.publishedAt.getTime() >= cutoffMs)
+    // Weekly recaps are type 'analysis' and are not news; keep them out of Google News.
+    .filter((a) => a.data.type === 'news' && a.data.publishedAt.getTime() >= cutoffMs)
     .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
   const items = recent

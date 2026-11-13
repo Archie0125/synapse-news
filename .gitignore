@@ -32,3 +32,7 @@ data/threads/token.json
 .gstack/
 
 .vercel
+
+# API pipeline: fetched source texts and drafts (local only; sources are third-party articles)
+data/api-cache/
+data/api-runs/*.lock

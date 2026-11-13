@@ -1,0 +1,996 @@
+"""FAQ.com.tw article generation through the Anthropic API.
+
+    python -m pipeline.api_daily --mode daily [--date YYYY-MM-DD] [--trial]
+    python -m pipeline.api_daily --mode week --week-start YYYY-MM-DD [--until YYYY-MM-DD] [--trial]
+
+Flow: research (Sonnet + web search) -> fetch sources ourselves (robots, caps)
+-> write EN+ZH (Opus) -> code gates -> fact check (Sonnet) -> one rewrite if
+needed -> write Markdown. Every API call is reserved against a budget before it
+is made and recorded in data/api-runs/ledger.json whether it succeeds or not.
+
+Daily mode refuses to run (unless --trial) after `daily_until` in
+data/api-runs/config.json: the owner has to renew it after reviewing traffic.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import re
+import sys
+import time
+import uuid
+from contextlib import contextmanager
+from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
+from urllib.parse import urlparse
+from zoneinfo import ZoneInfo
+
+import anthropic
+import frontmatter
+import yaml
+
+from pipeline import api_gates as G
+from pipeline.api_fetch import Fetcher
+from pipeline.ingest.dedup import _normalize_url
+
+ROOT = Path(__file__).resolve().parent.parent
+ARTICLES = ROOT / "src" / "content" / "articles"
+RUNS = ROOT / "data" / "api-runs"
+CACHE_DIR = ROOT / "data" / "api-cache"  # gitignored: source texts are other people's articles
+LEDGER = RUNS / "ledger.json"
+CONFIG = RUNS / "config.json"
+PROMPTS = ROOT / "prompts"
+TPE = ZoneInfo("Asia/Taipei")
+
+RESEARCH_MODEL = "claude-sonnet-5-5"
+WRITE_MODEL = "claude-opus-5-5"
+VERIFY_MODEL = "claude-sonnet-5-5"
+# Per-day recap research: Haiku. The owner's 2026-11-11 model eval found search results identical
+# across models, and Haiku 5.5 only offers the basic search tool and no server-side fallback.
+DAY_RESEARCH_MODEL = "claude-haiku-5-5"
+DAY_SEARCH_TOOL = "web_search_20250305"
+SEARCH_TOOL = "web_search_20260209"
+BETAS = ["server-side-fallback-2026-07-01"]
+
+# USD per million tokens (input, output). A model we did not expect (e.g. a
+# refusal fallback) is priced at the top row so the budget errs high.
+PRICES = {
+    "claude-haiku-5-5": (0.10, 0.50),
+    "claude-sonnet-5-5": (2.0, 10.0), "claude-sonnet-5": (2.0, 10.0), "claude-sonnet-4-6": (3.0, 15.0),
+    "claude-opus-5-5": (4.0, 20.0), "claude-opus-5": (5.0, 25.0), "claude-opus-4-8": (5.0, 25.0),
+    "claude-fable-5-2": (8.0, 40.0), "claude-fable-5-1": (10.0, 50.0), "claude-fable-5": (10.0, 50.0),
+}
+MAX_PRICE = (10.0, 50.0)
+SEARCH_USD = 0.01
+CAPS = {"daily_run": 2.0, "daily_month": 35.0, "week_total": 40.0}
+SOURCE_CHARS = 40_000
+
+AI_NOTE_EN = ("\n\n---\n\n*This article was written by AI from the sources listed on this page. "
+              "Figures, names and quotes were checked against those sources by software before publishing.*\n")
+AI_NOTE_ZH = "\n\n---\n\n*本文由 AI 依本頁列出的來源撰寫；文中的數字、人名與引言在發佈前已由程式逐一對照來源。*\n"
+
+
+# ================================================================ budget
+
+class BudgetExceeded(RuntimeError):
+    pass
+
+
+def price_of(model: str) -> tuple[float, float]:
+    return PRICES.get(model, MAX_PRICE)
+
+
+def usage_usd(model: str, usage) -> float:
+    if usage is None:
+        return 0.0
+    pin, pout = price_of(model)
+    if model == "claude-haiku-5-5" and (usage.input_tokens or 0) > 100_000:
+        pin, pout = 0.50, 2.50  # Haiku 5.5 long-prompt rate
+    cache_w = getattr(usage, "cache_creation_input_tokens", 0) or 0
+    cache_r = getattr(usage, "cache_read_input_tokens", 0) or 0
+    stu = getattr(usage, "server_tool_use", None)
+    searches = (getattr(stu, "web_search_requests", 0) or 0) if stu else 0
+    return ((usage.input_tokens or 0) * pin + cache_w * pin * 1.25 + cache_r * pin * 0.1
+            + (usage.output_tokens or 0) * pout) / 1e6 + searches * SEARCH_USD
+
+
+class Ledger:
+    """Spend record shared by every run (CI and local).
+
+    A call's worst case is written as a pending entry *before* the request, so a
+    process killed mid-call still leaves a charge behind; it is replaced by the
+    real cost afterwards. A lock file serialises processes, so two runs cannot
+    both spend the same headroom or overwrite each other's entries."""
+
+    LOCK_STALE_SECONDS = 600
+
+    def __init__(self, path: Path, mode: str, run_id: str, today: date):
+        self.path, self.mode, self.run_id, self.today = path, mode, run_id, today
+        self.entries: list[dict] = json.loads(path.read_text("utf-8")) if path.exists() else []
+        self._pending: str | None = None
+
+    @contextmanager
+    def _locked(self):
+        lock = self.path.with_suffix(".lock")
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        deadline = time.monotonic() + 120
+        while True:
+            try:
+                fd = os.open(lock, os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+                break
+            except FileExistsError:
+                try:  # a lock this old belongs to a process that died
+                    if time.time() - lock.stat().st_mtime > self.LOCK_STALE_SECONDS:
+                        lock.unlink()
+                        continue
+                except FileNotFoundError:
+                    continue
+                if time.monotonic() > deadline:
+                    raise BudgetExceeded("ledger is locked by another run")
+                time.sleep(0.2)
+        try:
+            self.entries = json.loads(self.path.read_text("utf-8")) if self.path.exists() else []
+            yield
+            self.path.write_text(json.dumps(self.entries, ensure_ascii=False, indent=1), "utf-8")
+        finally:
+            os.close(fd)
+            lock.unlink(missing_ok=True)
+
+    def _sum(self, pred) -> float:
+        return sum(e["usd"] for e in self.entries if pred(e))
+
+    def run_spent(self) -> float:
+        return self._sum(lambda e: e["run"] == self.run_id)
+
+    def month_spent(self) -> float:
+        ym = self.today.strftime("%Y-%m")
+        return self._sum(lambda e: e["mode"] == "daily" and e["ts"][:7] == ym)
+
+    def week_spent(self) -> float:
+        return self._sum(lambda e: e["mode"] == "week")
+
+    def reserve(self, worst_usd: float, step: str) -> None:
+        with self._locked():
+            if self.mode == "daily":
+                if self.run_spent() + worst_usd > CAPS["daily_run"]:
+                    raise BudgetExceeded(f"{step}: run would exceed US${CAPS['daily_run']} "
+                                         f"(spent {self.run_spent():.2f}, worst case {worst_usd:.2f})")
+                if self.month_spent() + worst_usd > CAPS["daily_month"]:
+                    raise BudgetExceeded(f"{step}: month would exceed US${CAPS['daily_month']}")
+            elif self.week_spent() + worst_usd > CAPS["week_total"]:
+                raise BudgetExceeded(f"{step}: weekly recaps would exceed US${CAPS['week_total']} "
+                                     f"(spent {self.week_spent():.2f}, worst case {worst_usd:.2f})")
+            self._pending = uuid.uuid4().hex
+            self.entries.append({
+                "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"), "run": self.run_id,
+                "mode": self.mode, "step": step, "model": "", "ok": None, "usd": round(worst_usd, 5),
+                "pending": self._pending, "note": "reserved before the call; replaced when it returns",
+            })
+
+    def record(self, step: str, model: str, usage, ok: bool, note: str = "",
+               usd_override: float | None = None) -> float:
+        usd = usage_usd(model, usage) if usd_override is None else usd_override
+        with self._locked():
+            if self._pending:
+                self.entries = [e for e in self.entries if e.get("pending") != self._pending]
+                self._pending = None
+            self._append(step, model, usage, ok, note, usd)
+        return usd
+
+    def _append(self, step: str, model: str, usage, ok: bool, note: str, usd: float) -> None:
+        self.entries.append({
+            "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"), "run": self.run_id,
+            "mode": self.mode, "step": step, "model": model, "ok": ok, "usd": round(usd, 5),
+            "input": getattr(usage, "input_tokens", 0) if usage else 0,
+            "output": getattr(usage, "output_tokens", 0) if usage else 0,
+            "cache_r": (getattr(usage, "cache_read_input_tokens", 0) or 0) if usage else 0,
+            "cache_w": (getattr(usage, "cache_creation_input_tokens", 0) or 0) if usage else 0,
+            "note": note[:300],
+        })
+
+
+def est_tokens(text: str) -> int:
+    cjk = sum(1 for ch in text if "㐀" <= ch <= "鿿")
+    return int((len(text) - cjk) / 3.5 + cjk * 1.2) + 500
+
+
+def worst_case(model: str, prompt_tokens: int, max_tokens: int, searches: int = 0) -> float:
+    pin, pout = (0.50, 2.50) if model == "claude-haiku-5-5" else price_of(model)  # Haiku: long-prompt rate
+    pin, pout = pin * 1.5, pout * 1.5  # margin for the character-based token estimate (fallbacks are off)
+    # Search results are re-read on every server-side sampling step; x3 covers it.
+    search_tokens = searches * 15_000 * 3
+    return ((prompt_tokens + search_tokens) * pin + max_tokens * pout) / 1e6 + searches * SEARCH_USD
+
+
+# ================================================================ API calls
+
+def call_model(client, ledger: Ledger, step: str, model: str, *, system: str, messages: list,
+               max_tokens: int, effort: str, schema: dict | None = None, tools: list | None = None,
+               searches: int = 0, fallbacks: bool = False):
+    prompt_tokens = est_tokens(system + json.dumps(messages, ensure_ascii=False, default=str))
+    worst = worst_case(model, prompt_tokens, max_tokens, searches)
+    ledger.reserve(worst, step)
+    output_config: dict = {"effort": effort}
+    if schema:
+        output_config["format"] = {"type": "json_schema", "schema": schema}
+    kwargs = dict(model=model, max_tokens=max_tokens, system=system, messages=messages,
+                  output_config=output_config)
+    if fallbacks:
+        kwargs.update(betas=BETAS, fallbacks="default")
+    if tools:
+        kwargs["tools"] = tools
+    try:
+        if max_tokens > 20_000:  # long outputs must stream or the SDK refuses / times out
+            with client.beta.messages.stream(**kwargs) as stream:
+                resp = stream.get_final_message()
+        else:
+            resp = client.beta.messages.create(**kwargs)
+    except anthropic.APIStatusError as e:
+        ledger.record(step, model, None, ok=False, note=f"{e.status_code}: {e.message}")
+        raise
+    except anthropic.APIError as e:
+        # Timeout / dropped connection / broken stream: we cannot know what was billed,
+        # so book the whole reservation.
+        ledger.record(step, model, None, ok=False, note=f"{type(e).__name__}: booked worst case",
+                      usd_override=worst)
+        raise
+    served = resp.model or model
+    billed = served if price_of(served)[0] >= price_of(model)[0] else model
+    ledger.record(step, billed, resp.usage, ok=resp.stop_reason not in ("refusal", "max_tokens"),
+                  note=f"stop={resp.stop_reason} served_by={served}")
+    return resp
+
+
+def last_json(resp) -> dict:
+    texts = [b.text for b in resp.content if getattr(b, "type", "") == "text"]
+    if not texts:
+        raise ValueError(f"no text block (stop_reason={resp.stop_reason})")
+    raw = texts[-1].strip()
+    m = re.search(r"\{.*\}", raw, re.S)
+    return json.loads(m.group(0) if m else raw)
+
+
+# ================================================================ articles on disk
+
+def load_articles() -> list[dict]:
+    out = []
+    for p in sorted(ARTICLES.glob("*.md")):
+        meta = frontmatter.load(p).metadata
+        pub = meta.get("publishedAt")
+        if isinstance(pub, datetime):
+            pub = pub.date()
+        elif isinstance(pub, str):
+            pub = date.fromisoformat(pub[:10])
+        out.append({
+            "slug": p.stem, "title": meta.get("title", ""), "lang": meta.get("lang", "en"),
+            "tags": meta.get("tags", []) or [], "date": pub, "category": meta.get("category"),
+            "sources": [s.get("url", "") for s in meta.get("sources", []) or []],
+        })
+    return out
+
+
+def recent_en(articles: list[dict], n: int) -> list[dict]:
+    en = [a for a in articles if a["lang"] == "en" and a["date"]]
+    return sorted(en, key=lambda a: (a["date"], a["slug"]), reverse=True)[:n]
+
+
+def write_pair(d: dict, sources: list[dict], *, slug_base: str, published: datetime, kind: str,
+               articles: list[dict], head_note_en: str = "", head_note_zh: str = "",
+               title_prefix_en: str = "", title_prefix_zh: str = "", overwrite: bool = False) -> list[Path]:
+    slugs = {a["slug"] for a in articles}
+    paths = []
+    for lang in ("en", "zh"):
+        related = []
+        for s in d.get("related_slugs", [])[:3]:
+            cand = re.sub(r"-en$", f"-{lang}", s)
+            if cand in slugs:
+                related.append(cand)
+        fm = {
+            "title": ((title_prefix_en if lang == "en" else title_prefix_zh)
+                      + G.strip_tags(d[f"title_{lang}"])),
+            "summary": G.strip_tags(d[f"summary_{lang}"]),
+            "category": d["category"],
+            "publishedAt": published.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "lang": lang,
+            "type": kind,
+            "featured": False,
+            "trending": False,
+            "sources": [{"name": s["site"] or urlparse(s["url"]).netloc.removeprefix("www."), "url": s["url"]}
+                        for s in sources],
+            "tags": d["tags"],
+            "relatedSlugs": related,
+        }
+        if len(fm["title"]) > 120:  # the gate allows for the prefix; never truncate checked text
+            raise RuntimeError(f"title over 120 characters after prefix: {fm['title']!r}")
+        note = head_note_en if lang == "en" else head_note_zh
+        body = ((note + "\n\n" if note else "") + G.strip_tags(d[f"body_{lang}"]).strip()
+                + (AI_NOTE_EN if lang == "en" else AI_NOTE_ZH))
+        text = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n\n" + body
+        path = ARTICLES / f"{slug_base}-{lang}.md"
+        if path.exists() and not overwrite:
+            raise FileExistsError(path)
+        path.write_text(text, "utf-8")
+        paths.append(path)
+    return paths
+
+
+# ================================================================ schemas
+
+CAT_ENUM = sorted(G.CATEGORIES)
+
+RESEARCH_DAILY_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["candidates"],
+    "properties": {"candidates": {"type": "array", "items": {
+        "type": "object", "additionalProperties": False,
+        "required": ["headline", "category", "why", "entities", "source_urls"],
+        "properties": {
+            "headline": {"type": "string"}, "category": {"type": "string", "enum": CAT_ENUM},
+            "why": {"type": "string"}, "entities": {"type": "array", "items": {"type": "string"}},
+            "source_urls": {"type": "array", "items": {"type": "string"}},
+        }}}},
+}
+
+RESEARCH_WEEK_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["days"],
+    "properties": {"days": {"type": "array", "items": {
+        "type": "object", "additionalProperties": False, "required": ["date", "items"],
+        "properties": {
+            "date": {"type": "string"},
+            "items": {"type": "array", "items": {
+                "type": "object", "additionalProperties": False,
+                "required": ["event_date", "headline", "category", "source_urls"],
+                "properties": {
+                    "event_date": {"type": "string"}, "headline": {"type": "string"},
+                    "category": {"type": "string", "enum": CAT_ENUM},
+                    "source_urls": {"type": "array", "items": {"type": "string"}},
+                }}},
+        }}}},
+}
+
+RESEARCH_DAY_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["items"],
+    "properties": {"items": RESEARCH_WEEK_SCHEMA["properties"]["days"]["items"]["properties"]["items"]},
+}
+
+WRITE_SCHEMA = {
+    "type": "object", "additionalProperties": False,
+    "required": ["title_en", "summary_en", "body_en", "title_zh", "summary_zh", "body_zh",
+                 "category", "tags", "slug", "related_slugs", "zh_quotes"],
+    "properties": {
+        "title_en": {"type": "string"}, "summary_en": {"type": "string"}, "body_en": {"type": "string"},
+        "title_zh": {"type": "string"}, "summary_zh": {"type": "string"}, "body_zh": {"type": "string"},
+        "category": {"type": "string", "enum": CAT_ENUM},
+        "tags": {"type": "array", "items": {"type": "string"}},
+        "slug": {"type": "string"},
+        "related_slugs": {"type": "array", "items": {"type": "string"}},
+        "zh_quotes": {"type": "array", "items": {
+            "type": "object", "additionalProperties": False, "required": ["zh", "original"],
+            "properties": {"zh": {"type": "string"}, "original": {"type": "string"}}}},
+    },
+}
+
+VERIFY_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["verdicts"],
+    "properties": {"verdicts": {"type": "array", "items": {
+        "type": "object", "additionalProperties": False, "required": ["id", "verdict", "problem"],
+        "properties": {"id": {"type": "integer"},
+                       "verdict": {"type": "string", "enum": ["supported", "opinion", "unsupported", "distorted"]},
+                       "problem": {"type": "string"}}}}},
+}
+
+
+# ================================================================ steps
+
+def research(client, ledger: Ledger, log: dict, user: str, schema: dict, max_uses: int,
+             complaint=None, model: str = RESEARCH_MODEL, tool: str = SEARCH_TOOL,
+             step: str = "research") -> tuple[dict, dict]:
+    """Returns (parsed JSON, allowlist {normalized url: {url,title,page_age}}).
+
+    `complaint(data, allow) -> str | None` inspects a finished answer; if it
+    returns text, the model is asked once, in the same conversation, to search
+    more and answer again."""
+    system = (PROMPTS / "api_research.md").read_text("utf-8")
+    tools = [{"type": tool, "name": "web_search", "max_uses": max_uses}]
+    messages = [{"role": "user", "content": user}]
+    allow: dict[str, dict] = {}
+    queries: list[str] = []
+    block_types: dict[str, int] = {}
+    use_schema: dict | None = schema
+    resp = None
+    data: dict | None = None
+    followed_up = False
+    for turn in range(6):
+        try:
+            resp = call_model(client, ledger, f"{step}#{turn}", model, system=system,
+                              messages=messages, max_tokens=12_000, effort="medium", schema=use_schema,
+                              tools=tools, searches=max_uses)
+        except anthropic.BadRequestError as e:
+            if use_schema is None or "format" not in str(e).lower():
+                raise
+            # Structured output not accepted together with web search: ask for JSON in text instead.
+            log.setdefault("notes", []).append(f"research: schema rejected with search ({e.message[:160]})")
+            use_schema = None
+            messages[0]["content"] = user + "\n\nReturn the JSON object matching this schema:\n" + json.dumps(schema)
+            continue
+        for b in resp.content:
+            t = getattr(b, "type", "?")
+            block_types[t] = block_types.get(t, 0) + 1
+            if t == "server_tool_use" and isinstance(getattr(b, "input", None), dict):
+                if b.input.get("query"):
+                    queries.append(b.input["query"])
+            if t == "web_search_tool_result" and isinstance(getattr(b, "content", None), list):
+                for r in b.content:
+                    url = getattr(r, "url", None)
+                    if url:
+                        allow[_normalize_url(url)] = {"url": url, "title": getattr(r, "title", ""),
+                                                      "page_age": getattr(r, "page_age", None)}
+        if resp.stop_reason == "pause_turn":
+            messages = messages + [{"role": "assistant", "content": resp.content}]
+            continue
+        if resp.stop_reason != "end_turn":
+            break
+        data = last_json(resp)
+        problem = complaint(data, allow) if complaint else None
+        if problem and not followed_up:
+            followed_up = True
+            log.setdefault("notes", []).append(f"research follow-up: {problem}")
+            messages = messages + [{"role": "assistant", "content": resp.content},
+                                   {"role": "user", "content": problem + " Search more, then return the "
+                                    "complete JSON object again."}]
+            continue
+        break
+    log["research"] = {"queries": queries, "results": len(allow), "block_types": block_types,
+                       "stop_reason": resp.stop_reason if resp else None}
+    if data is None:
+        raise RuntimeError(f"research did not finish (stop_reason={resp.stop_reason if resp else None})")
+    if not allow:
+        raise RuntimeError("research returned no web_search_tool_result URLs; cannot build the allowlist "
+                           f"(block types seen: {block_types})")
+    return data, allow
+
+
+def daily_complaint(data: dict, allow: dict) -> str | None:
+    usable = 0
+    notes = []
+    for c in data.get("candidates", []):
+        urls = [u for u in c.get("source_urls", []) if _normalize_url(u) in allow]
+        domains = {urlparse(u).netloc.lower().removeprefix("www.") for u in urls}
+        if len(domains) >= 2:
+            usable += 1
+        else:
+            notes.append(f"\"{c.get('headline', '?')}\" has {len(domains)} outlet(s) from your search results")
+    if usable >= 3:
+        return None
+    return (f"Only {usable} of your candidates have source URLs from two different outlets that appeared in "
+            f"your search results; I need 3. " + "; ".join(notes) + ".")
+
+
+def day_complaint(day: date):
+    def check(data: dict, allow: dict) -> str | None:
+        items = data.get("items", [])
+        if not items:
+            return (f"You returned nothing for {day.isoformat()}. Search once more with different wording and the "
+                    f"date (e.g. \"{day:%B} {day.day} {day.year} AI announcement\"); return an empty list only if "
+                    "there is really nothing.")
+        thin = [it.get("headline", "?") for it in items
+                if len({urlparse(u).netloc for u in it.get("source_urls", []) if _normalize_url(u) in allow}) < 2]
+        if thin:
+            return ("These items need source URLs from at least two different outlets that appeared in your "
+                    "search results: " + "; ".join(thin) + ".")
+        return None
+    return check
+
+
+def week_complaint(days: list[date]):
+    def check(data: dict, allow: dict) -> str | None:
+        got = {x.get("date") for x in data.get("days", [])}
+        missing = [d.isoformat() for d in days if d.isoformat() not in got]
+        empty = [x.get("date") for x in data.get("days", []) if not x.get("items")]
+        missing += [f"{e} (returned empty — search that date specifically)" for e in empty]
+        thin = []
+        for x in data.get("days", []):
+            for it in x.get("items", []):
+                urls = [u for u in it.get("source_urls", []) if _normalize_url(u) in allow]
+                if len({urlparse(u).netloc for u in urls}) < 2:
+                    thin.append(f"{x.get('date')}: \"{it.get('headline', '?')}\"")
+        if not missing and not thin:
+            return None
+        msg = []
+        if missing:
+            msg.append("These days have no items yet: " + ", ".join(missing) + ". Run a search for each of "
+                       "them with the date in the query; weekends can stay empty if nothing solid turns up.")
+        if thin:
+            msg.append("These items lack two outlets from your search results: " + "; ".join(thin) + ".")
+        return " ".join(msg)
+    return check
+
+
+def source_block(i: int, s: dict) -> str:
+    when = s["date"].isoformat() if s["date"] else "date unknown"
+    text = s["text"][:SOURCE_CHARS]
+    return f"[S{i}] {s['site'] or urlparse(s['url']).netloc} — {s['title']} — published {when} — {s['url']}\n{text}"
+
+
+def with_sources(sources: list[dict], rest: str) -> list[dict]:
+    """A user message whose first block is the source texts, marked for prompt
+    caching. Fix rounds and verify rounds resend the same sources with the same
+    system prompt, so every round after the first reads them at cache price."""
+    return [{"role": "user", "content": [
+        {"type": "text", "text": "SOURCES:\n\n" + "\n\n".join(source_block(i + 1, s) for i, s in enumerate(sources)),
+         "cache_control": {"type": "ephemeral"}},
+        {"type": "text", "text": rest},
+    ]}]
+
+
+def write(client, ledger: Ledger, step: str, brief: str, sources: list[dict],
+          previous: dict | None = None, failures: list[str] | None = None,
+          max_tokens: int = 20_000) -> dict:
+    system = (PROMPTS / "api_write.md").read_text("utf-8")
+    parts = [brief]
+    if previous is not None:
+        parts.append("YOUR PREVIOUS DRAFT (JSON):\n" + json.dumps(previous, ensure_ascii=False))
+        parts.append("It was rejected for these reasons. Fix every one of them — remove or correct the "
+                     "offending text; do not argue with the check — keep everything else, and return the "
+                     "full JSON again:\n- " + "\n- ".join(failures or []))
+    resp = call_model(client, ledger, step, WRITE_MODEL, system=system,
+                      messages=with_sources(sources, "\n\n".join(parts)),
+                      max_tokens=max_tokens, effort="high", schema=WRITE_SCHEMA)
+    if resp.stop_reason in ("refusal", "max_tokens"):
+        raise RuntimeError(f"{step}: writer stopped with {resp.stop_reason}")
+    return last_json(resp)
+
+
+TEXT_FIELDS = ["title_en", "summary_en", "body_en", "title_zh", "summary_zh", "body_zh"]
+
+FIX_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["edits"],
+    "properties": {"edits": {"type": "array", "items": {
+        "type": "object", "additionalProperties": False, "required": ["field", "old", "new"],
+        "properties": {"field": {"type": "string", "enum": TEXT_FIELDS},
+                       "old": {"type": "string"}, "new": {"type": "string"}}}}},
+}
+
+
+def fix(client, ledger: Ledger, step: str, d: dict, sources: list[dict], failures: list[str]) -> list[dict]:
+    system = (PROMPTS / "api_write.md").read_text("utf-8")
+    article = {k: d[k] for k in TEXT_FIELDS}
+    user = ("ARTICLE (JSON):\n" + json.dumps(article, ensure_ascii=False)
+            + "\n\nA checker rejected these parts of the article:\n- " + "\n- ".join(failures)
+            + "\n\nReturn edits that fix every problem and change nothing else. Each edit names a field, "
+              "`old` = an exact substring copied character-for-character from that field (normally the whole "
+              "offending sentence; it must occur exactly once), and `new` = the corrected sentence using only "
+              "facts the sources state, or an empty string to delete it. Fix the English and the Chinese "
+              "versions of the same claim. Prefer deleting the sentence, or replacing it with a fact a source "
+              "states plainly, written in your own words (never 12 or more consecutive words copied from a "
+              "source); never replace it with a new interpretation, cause or characterisation. Keep "
+              "[S#] source markers on every factual sentence you write, pointing at the source that says it. "
+              "Do not touch anything that was not flagged.")
+    resp = call_model(client, ledger, step, WRITE_MODEL, system=system,
+                      messages=with_sources(sources, user),
+                      max_tokens=16_000, effort="medium", schema=FIX_SCHEMA)
+    if resp.stop_reason in ("refusal", "max_tokens"):
+        raise RuntimeError(f"{step}: fixer stopped with {resp.stop_reason}")
+    return last_json(resp)["edits"]
+
+
+def verify(client, ledger: Ledger, step: str, d: dict, sources: list[dict]) -> list[str]:
+    """Sentence-by-sentence check: the checker must return a verdict for every
+    numbered unit; a unit it skips counts as a failure, so it cannot skim."""
+    system = (PROMPTS / "api_verify.md").read_text("utf-8")
+    units = G.sentences_for_review(d)
+    quotes = json.dumps(d.get("zh_quotes", []), ensure_ascii=False)
+    head = (f"CHINESE QUOTATIONS AND THEIR ORIGINALS: {quotes}"
+            + "\n\nUNITS TO CHECK (id, language, section heading it sits under, sources it cites, text):\n")
+    verdicts: dict[int, dict] = {}
+    for round_no in (1, 2):  # second round only for units the first answer skipped
+        todo = [u for u in units if u["id"] not in verdicts]
+        if not todo:
+            break
+        user = head + "\n".join(f"{u['id']}. [{u['lang']}] [{u['where']}] [sources: {u['sources']}] {u['text']}"
+                                for u in todo)
+        resp = call_model(client, ledger, f"{step}.{round_no}", VERIFY_MODEL, system=system,
+                          messages=with_sources(sources, user),
+                          max_tokens=32_000, effort="high", schema=VERIFY_SCHEMA)
+        if resp.stop_reason in ("refusal", "max_tokens"):
+            raise RuntimeError(f"{step}: verifier stopped with {resp.stop_reason}")
+        asked = {u["id"] for u in todo}
+        verdicts.update({v["id"]: v for v in last_json(resp)["verdicts"] if v["id"] in asked})
+    fails = []
+    for u in units:
+        v = verdicts.get(u["id"])
+        if v is None:
+            fails.append(f"fact-check ({u['lang']}): unit {u['id']} was not checked: \"{u['text'][:160]}\"")
+        elif v["verdict"] in ("unsupported", "distorted"):
+            fails.append(f"fact-check ({u['lang']}, {v['verdict']}): \"{u['text']}\" — {v['problem']}")
+    return fails
+
+
+def gates(d: dict, sources: list[dict], extra_pool: list[str], articles: list[dict], run_date: date,
+          mode: str, en_words: tuple[int, int], zh_chars: tuple[int, int]) -> list[str]:
+    src = [s["text"] for s in sources]
+    pool = src + extra_pool
+    en_all = "\n".join([d["title_en"], d["summary_en"], d["body_en"]])
+    zh_all = "\n".join([d["title_zh"], d["summary_zh"], d["body_zh"]])
+    en_prose = "\n".join([d["summary_en"], d["body_en"]])  # titles are Title Case: skip the name check
+    related_ok = {a["slug"] for a in articles if a["lang"] == "en"}
+    max_title = (88, 100) if mode == "week" else (120, 120)  # week titles get a date prefix
+    fails = G.check_format(d, en_words, zh_chars, related_ok, max_title)
+    fails += G.check_citations(d["body_en"], len(sources), "en")
+    fails += G.check_citations(d["body_zh"], len(sources), "zh")
+    fails += G.check_numbers(en_all, pool, "en")
+    fails += G.check_numbers(zh_all, pool + [en_all], "zh")
+    fails += G.check_quotes_en(en_all, src, "en")
+    fails += G.check_quotes_zh(zh_all, d.get("zh_quotes", []), src)
+    fails += G.check_names(en_prose, pool + [s["site"] for s in sources] + [s["title"] for s in sources])
+    fails += G.check_copy_en(en_all, src, "en")
+    fails += G.check_copy_zh(zh_all, src)
+    urls = [s["url"] for s in sources]
+    if mode == "daily":
+        fails += G.check_duplicate(d["title_en"], d["title_zh"], d["tags"], urls, articles, run_date)
+    else:
+        used = {_normalize_url(u) for a in articles for u in a["sources"]}
+        fails += [f"duplicate: source {u} already used by an earlier article" for u in urls
+                  if _normalize_url(u) in used]
+    return fails
+
+
+def date_words(days: list[date]) -> list[str]:
+    """Calendar facts the article may state without a source saying them (the
+    run date, the recap's days, the sources' own publication dates)."""
+    out = []
+    for d in days:
+        out.append(f"{d.isoformat()} {d:%B} {d.day}, {d.year} {d.month}月{d.day}日 {d.month}/{d.day} {d:%A}")
+    return out
+
+
+def draft_until_clean(client, ledger, log, brief, sources, extra_pool, articles, run_date, mode,
+                      en_words, zh_chars, tag: str) -> dict | None:
+    cache = log.setdefault("_cache", {"sources": {}, "drafts": []})
+    for s in sources:
+        cache["sources"][s["url"]] = {k: s[k] for k in ("url", "final_url", "site", "title", "date", "text")}
+    write_tokens = 48_000 if mode == "week" else 24_000
+    d = write(client, ledger, f"write:{tag}#1", brief, sources, max_tokens=write_tokens)
+    for attempt in (1, 2, 3, 4):
+        fails = gates(d, sources, extra_pool, articles, run_date, mode, en_words, zh_chars)
+        if not fails:
+            fails = verify(client, ledger, f"verify:{tag}#{attempt}", d, sources)
+        log.setdefault("attempts", []).append({"candidate": tag, "attempt": attempt, "failures": fails,
+                                               "title_en": d.get("title_en")})
+        cache["drafts"].append({"candidate": tag, "attempt": attempt, "draft": d, "failures": fails})
+        if not fails:
+            return d
+        if attempt == 4:
+            break
+        if any(f.startswith(("format:", "duplicate:")) for f in fails):
+            d = write(client, ledger, f"write:{tag}#{attempt + 1}", brief, sources, previous=d, failures=fails,
+                      max_tokens=write_tokens)
+        else:
+            # Sentence-level problems: patch only the named sentences, so a rewrite
+            # cannot introduce fresh errors elsewhere.
+            edits = fix(client, ledger, f"fix:{tag}#{attempt}", d, sources, fails)
+            d, edit_errors = G.apply_edits(d, edits)
+            cache["drafts"][-1]["edits"] = edits
+            if edit_errors:
+                log.setdefault("notes", []).append(f"{tag}: {edit_errors}")
+    return None
+
+
+# ================================================================ modes
+
+def run_daily(client, fetcher: Fetcher, ledger: Ledger, log: dict, run_date: date) -> list[Path]:
+    articles = load_articles()
+    recent = recent_en(articles, 60)
+    covered = "\n".join(f"- {a['date']} {a['title']} [tags: {', '.join(a['tags'][:6])}]" for a in recent)
+    hints_path = ROOT / "data" / "analytics" / "hints.json"
+    hints = hints_path.read_text("utf-8") if hints_path.exists() else ""
+    user = (f"Today is {run_date.isoformat()} (Asia/Taipei). Find stories from {run_date - timedelta(days=2)} "
+            f"to {run_date}. Return exactly 3 candidates, best first, each with 2–4 source URLs from different "
+            f"outlets.\n\nAlready covered (most recent first):\n{covered}\n")
+    if hints:
+        user += ("\nWhat readers searched for recently (from Search Console / Bing / GA4). When two "
+                 "stories are equally newsworthy, prefer the one these readers would look for:\n" + hints)
+    data, allow = research(client, ledger, log, user, RESEARCH_DAILY_SCHEMA, max_uses=10,
+                           complaint=daily_complaint)
+    log["candidates"] = data.get("candidates", [])
+    related = "\n".join(f"- {a['slug']}: {a['title']}" for a in recent[:40])
+
+    for idx, cand in enumerate(data.get("candidates", [])[:3], start=1):
+        tag = f"c{idx}"
+        urls = [u for u in cand["source_urls"] if _normalize_url(u) in allow]
+        dropped = [u for u in cand["source_urls"] if _normalize_url(u) not in allow]
+        clog = {"candidate": tag, "headline": cand["headline"], "not_in_search_results": dropped}
+        log.setdefault("candidate_checks", []).append(clog)
+        # Cheap pre-check before spending on fetch/write: same sources, same headline or same entities lately.
+        early = G.check_duplicate(cand["headline"], "", cand.get("entities", []), urls, articles, run_date)
+        if early:
+            clog["skipped"] = early
+            continue
+        fetched = [fetcher.fetch(u) for u in urls]
+        clog["fetch"] = [{"url": f["url"], "ok": f["ok"], "reason": f["reason"], "words": f["words"],
+                          "date": f["date"].isoformat() if f["date"] else None} for f in fetched]
+        good = [f for f in fetched if f["ok"]]
+        pre = (G.check_sources(good, set(allow), min_total_words=900)
+               + G.fresh_daily([f["date"] for f in good], run_date))
+        if pre:
+            clog["skipped"] = pre
+            continue
+        brief = (f"ARTICLE TYPE: daily news commentary for {run_date.isoformat()}.\n"
+                 f"STORY: {cand['headline']}\nWHY IT MATTERS (researcher's note, not a source): {cand['why']}\n"
+                 f"LENGTH: English 450–1,100 words; Chinese 700–2,400 characters.\n"
+                 f"CATEGORY: one of {', '.join(CAT_ENUM)}.\n"
+                 "TAGS: 3–8 short tags; put the main companies/products first.\n"
+                 "SLUG: 2–8 lowercase English words joined by hyphens, no date.\n"
+                 "RELATED: pick up to 3 slugs from this list that a reader of this story would want next, "
+                 f"or none:\n{related}\n"
+                 "Return JSON with: title_en, summary_en (one sentence), body_en (Markdown), title_zh, "
+                 "summary_zh, body_zh, category, tags, slug, related_slugs, zh_quotes.")
+        extra = date_words([run_date] + [f["date"] for f in good if f["date"]])
+        d = draft_until_clean(client, ledger, log, brief, good, extra, articles, run_date, "daily",
+                              (450, 1100), (700, 2400), tag)
+        if d is None:
+            clog["skipped"] = ["failed gates after one rewrite"]
+            continue
+        published = datetime.now(timezone.utc).replace(microsecond=0)
+        spec = {"mode": "daily", "slug_base": f"{run_date.isoformat()}-{d['slug']}", "kind": "news",
+                "published": published.isoformat(), "run_date": run_date.isoformat(),
+                "en_words": [450, 1100], "zh_chars": [700, 2400], "extra_pool": extra,
+                "source_urls": [s["url"] for s in good], "draft": d}
+        log["_cache"]["publish"] = spec
+        paths = publish_spec(spec, good, articles)
+        log["published"] = [p.name for p in paths]
+        return paths
+    raise RuntimeError("no candidate passed the checks today; nothing published")
+
+
+GAP_START = date(2026, 8, 3)  # the Monday of the first gap week; used to order recaps
+
+
+def run_week(client, fetcher: Fetcher, ledger: Ledger, log: dict, week_start: date, until: date,
+             write_date: date) -> list[Path]:
+    articles = load_articles()
+    days = [week_start + timedelta(days=i) for i in range((until - week_start).days + 1)]
+    # One cheap research call per day (a single call for the whole week returned
+    # anywhere from 3 to 8 items). Each day's result is cached, so a rerun after a
+    # gate or prompt fix does not pay for the searches again.
+    data: dict = {"days": []}
+    allow: dict = {}
+    queries: list[str] = []
+    for day in days:
+        rcache = CACHE_DIR / f"research-day-{day.isoformat()}.json"
+        if rcache.exists():
+            saved = json.loads(rcache.read_text("utf-8"))
+        else:
+            user = (f"Find the 1–2 most important AI and technology news items first reported on "
+                    f"{day:%A}, {day:%B} {day.day}, {day.year} ({day.isoformat()}). Put the date in your search "
+                    "queries. For each item give the day it happened, a one-line headline, a category and 2–4 "
+                    "source URLs from different outlets that appeared in your search results; include the "
+                    "company's or agency's own announcement page whenever one exists. If nothing solid was "
+                    "reported that day, return an empty list.")
+            dlog: dict = {}
+            day_data, day_allow = research(client, ledger, dlog, user, RESEARCH_DAY_SCHEMA, max_uses=4,
+                                           complaint=day_complaint(day), model=DAY_RESEARCH_MODEL,
+                                           tool=DAY_SEARCH_TOOL, step=f"research:{day.isoformat()}")
+            saved = {"data": day_data, "allow": day_allow, "queries": dlog["research"]["queries"]}
+            CACHE_DIR.mkdir(parents=True, exist_ok=True)
+            rcache.write_text(json.dumps(saved, ensure_ascii=False, default=str), "utf-8")
+        data["days"].append({"date": day.isoformat(), "items": saved["data"].get("items", [])})
+        allow.update(saved["allow"])
+        queries += saved["queries"]
+    log["research"] = {"queries": queries, "results": len(allow)}
+
+    kept: list[dict] = []
+    seen_urls: set[str] = set()
+    for entry in data.get("days", []):
+        for it in entry.get("items", [])[:2]:
+            try:
+                ev = date.fromisoformat(it["event_date"][:10])
+            except ValueError:
+                continue
+            urls = [u for u in it["source_urls"] if _normalize_url(u) in allow and u not in seen_urls][:3]
+            fetched = [fetcher.fetch(u) for u in urls]
+            good = [f for f in fetched if f["ok"]]
+            fresh = G.item_fresh(ev, [f["date"] for f in good], week_start, until)
+            in_week = sorted(f["date"] for f in good if f["date"] and week_start <= f["date"] <= until)
+            log.setdefault("items", []).append({
+                "listed_under": entry.get("date"), "event_date": ev.isoformat(), "headline": it["headline"],
+                "fresh": fresh, "fetch": [{"url": f["url"], "ok": f["ok"], "reason": f["reason"],
+                                           "date": f["date"].isoformat() if f["date"] else None} for f in fetched]})
+            if good and fresh and in_week:
+                seen_urls.update(f["url"] for f in good)
+                # File the item under its event date only when a source's text states that
+                # date; otherwise under the day its sources first reported it. The model's
+                # own "event date" is not evidence by itself.
+                stated = week_start <= ev <= until and any(
+                    G.source_states_day(f["text"], f["date"], ev) for f in good)
+                # Only a source-stated day gets a day heading; anything else goes under
+                # "also this week" with the day it was reported.
+                kept.append({"day": ev if stated else None, "reported": in_week[0], "headline": it["headline"],
+                             "category": it["category"], "sources": good})
+    per_day: dict[str, int] = {}
+    for it in kept:
+        key = (it["day"] or it["reported"]).isoformat()
+        per_day[key] = per_day.get(key, 0) + 1
+    log["day_status"] = {
+        d.isoformat(): (f"{per_day[d.isoformat()]} item(s)" if d.isoformat() in per_day else
+                        ("searched, 0 items" if any(G.query_mentions_day(q, d) for q in queries) else "not searched"))
+        for d in days}
+    if len(kept) < 3:
+        raise RuntimeError(f"only {len(kept)} dated, sourced items for {week_start}–{until}; not writing a recap")
+
+    sources: list[dict] = []
+    seen = set()
+    for it in kept:
+        for s in it["sources"]:
+            if s["url"] not in seen:
+                seen.add(s["url"])
+                sources.append(s)
+    index = {s["url"]: i + 1 for i, s in enumerate(sources)}
+    dated, also = [], []
+    for it in sorted(kept, key=lambda x: (x["day"] or x["reported"])):
+        refs = "".join(f"[S{index[s['url']]}]" for s in it["sources"])
+        if it["day"]:
+            dated.append(f"- {it['day'].isoformat()} ({it['day']:%A}): {it['headline']} {refs}")
+        else:
+            also.append(f"- reported {it['reported'].isoformat()}: {it['headline']} {refs}")
+    brief = ("ARTICLE TYPE: weekly recap covering "
+             f"{week_start.isoformat()} to {until.isoformat()}, written on {write_date.isoformat()}.\n"
+             "STRUCTURE: a short opening (2–3 sentences on the week's thread); then one ## section per day for "
+             "the DATED ITEMS, in date order, headed like \"## Tuesday, August 4\" (中文：\"## 8 月 4 日（週二）\"); "
+             "then, if there are any, \"## Also this week\" (中文：\"## 本週其他消息\") for the OTHER ITEMS, each "
+             "saying which day it was reported (\"reported on November 5\"); then \"## What to Watch\" / "
+             "\"## 值得關注\". Only cover the items below, only with facts from their sources.\n"
+             "DATES: under a day heading, describe only what the sources place on that day. If a source gives "
+             "a related development on another day, state that day explicitly (\"On November 6, Google Cloud "
+             "...\"), never \"a day later\". Do not invent a day for anything.\n"
+             "STYLE: this is a neutral record, not commentary. Report what happened and keep every qualifier "
+             "and condition the source gives. Keep opinion to the What to Watch section.\n"
+             "DATED ITEMS:\n" + ("\n".join(dated) or "(none)") + "\n"
+             "OTHER ITEMS:\n" + ("\n".join(also) or "(none)") + "\n"
+             "LENGTH: English 700–2,200 words; Chinese 1,000–3,600 characters.\n"
+             "TITLE: a short hook about the week only (the site adds the date range in front).\n"
+             f"CATEGORY: one of {', '.join(CAT_ENUM)} (usually ai-ml).\n"
+             "TAGS: 3–8 tags, the main companies/products of the week.\n"
+             "SLUG: return \"ai-week\" (the site adds the dates).\n"
+             "RELATED: return an empty list.\n"
+             "Return JSON with: title_en, summary_en (one sentence), body_en, title_zh, summary_zh, body_zh, "
+             "category, tags, slug, related_slugs, zh_quotes.")
+    extra = date_words(days + [s["date"] for s in sources if s["date"]])
+    d = draft_until_clean(client, ledger, log, brief, sources, extra, articles, write_date, "week",
+                          (700, 2200), (1000, 3600), f"week-{week_start.isoformat()}")
+    if d is None:
+        raise RuntimeError("weekly recap failed the checks after one rewrite")
+
+    rng_en = f"{week_start:%b} {week_start.day}–" + (f"{until.day}" if until.month == week_start.month
+                                                      else f"{until:%b} {until.day}") + f", {until.year}"
+    rng_zh = f"{week_start.month}/{week_start.day}–{until.month}/{until.day}"
+    order = (week_start - GAP_START).days // 7
+    published = datetime(write_date.year, write_date.month, write_date.day, tzinfo=timezone.utc) + timedelta(minutes=5 * order)
+    spec = {
+        "mode": "week", "slug_base": f"{write_date.isoformat()}-ai-week-{week_start.isoformat()}", "kind": "analysis",
+        "published": published.isoformat(), "run_date": write_date.isoformat(),
+        "en_words": [700, 2200], "zh_chars": [1000, 3600], "extra_pool": extra,
+        "source_urls": [s["url"] for s in sources], "draft": d,
+        "title_prefix_en": f"AI Week, {rng_en}: ", "title_prefix_zh": f"AI 週報 {rng_zh}：",
+        "head_note_en": f"*Written on {write_date:%B} {write_date.day}, {write_date.year}, covering news from {rng_en}.*",
+        "head_note_zh": f"*本文於 {write_date.year} 年 {write_date.month} 月 {write_date.day} 日補寫，整理 {rng_zh} 的新聞。*",
+    }
+    log["_cache"]["publish"] = spec
+    paths = publish_spec(spec, sources, articles)
+    log["published"] = [p.name for p in paths]
+    return paths
+
+
+def publish_spec(spec: dict, sources: list[dict], articles: list[dict], overwrite: bool = False) -> list[Path]:
+    return write_pair(
+        spec["draft"], sources, slug_base=spec["slug_base"],
+        published=datetime.fromisoformat(spec["published"]), kind=spec["kind"], articles=articles,
+        head_note_en=spec.get("head_note_en", ""), head_note_zh=spec.get("head_note_zh", ""),
+        title_prefix_en=spec.get("title_prefix_en", ""), title_prefix_zh=spec.get("title_prefix_zh", ""),
+        overwrite=overwrite)
+
+
+def run_patch(client, ledger: Ledger, log: dict, src_run: str, failures: list[str]) -> list[Path]:
+    """Fix the sentences an outside checker (e.g. Codex) flagged in an article
+    this pipeline already wrote, re-run every gate and the fact check, and
+    overwrite the article only if all of it passes."""
+    cache_path = CACHE_DIR / f"{src_run}.json"
+    cache = json.loads(cache_path.read_text("utf-8"))
+    spec = cache["publish"]
+    sources = []
+    for u in spec["source_urls"]:
+        s = dict(cache["sources"][u])
+        s["date"] = date.fromisoformat(s["date"]) if s.get("date") else None
+        sources.append(s)
+    own = {f"{spec['slug_base']}-en", f"{spec['slug_base']}-zh"}
+    articles = [a for a in load_articles() if a["slug"] not in own]
+    d = spec["draft"]
+    for round_no in (1, 2):
+        edits = fix(client, ledger, f"patch:fix#{round_no}", d, sources, failures)
+        before = d
+        d, problems = G.apply_edits(d, edits)
+        if d == before:
+            raise RuntimeError(f"patch round {round_no}: no edit could be applied ({problems[:3]}); "
+                               "the outside checker's findings are still in the article")
+        failures = problems + gates(d, sources, spec["extra_pool"], articles, date.fromisoformat(spec["run_date"]),
+                                    spec["mode"], tuple(spec["en_words"]), tuple(spec["zh_chars"]))
+        if not failures:
+            failures = verify(client, ledger, f"patch:verify#{round_no}", d, sources)
+        log.setdefault("patch_rounds", []).append({"round": round_no, "edits": edits, "failures": failures})
+        if not failures:
+            break
+    if failures:
+        raise RuntimeError(f"patch did not pass after 2 rounds: {failures[:3]}")
+    spec["draft"] = d
+    cache.setdefault("patches", []).append({"run": log["run"], "draft": d})
+    cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=1, default=str), "utf-8")
+    # Our own gates and fact check pass, but only the outside checker can say its
+    # findings are gone: whoever runs patch must re-run it before publishing.
+    log["outside_recheck_required"] = True
+    paths = publish_spec(spec, sources, articles, overwrite=True)
+    log["published"] = [p.name for p in paths]
+    return paths
+
+
+# ================================================================ main
+
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--mode", choices=["daily", "week", "patch"], required=True)
+    ap.add_argument("--run", help="patch: the run id whose article to fix")
+    ap.add_argument("--failures", help="patch: JSON file with a list of problem strings")
+    ap.add_argument("--date", help="daily: the news day (default: today in Asia/Taipei)")
+    ap.add_argument("--week-start", help="week: first day covered")
+    ap.add_argument("--until", help="week: last day covered (default week-start + 6)")
+    ap.add_argument("--trial", action="store_true", help="local trial: skip the daily_until expiry check")
+    a = ap.parse_args(argv)
+
+    today = datetime.now(TPE).date()
+    if a.mode == "daily" and not a.trial:
+        cfg = json.loads(CONFIG.read_text("utf-8")) if CONFIG.exists() else {}
+        until = cfg.get("daily_until")
+        if not until or today > date.fromisoformat(until):
+            print(f"daily runs are not enabled (daily_until={until!r}); the owner must renew after "
+                  "reviewing Search Console / Bing data", file=sys.stderr)
+            return 3
+
+    run_id = f"{today.isoformat()}-{a.mode}-{uuid.uuid4().hex[:6]}"
+    budget_mode = a.mode
+    if a.mode == "patch":
+        budget_mode = json.loads((CACHE_DIR / f"{a.run}.json").read_text("utf-8"))["publish"]["mode"]
+    ledger = Ledger(LEDGER, budget_mode, run_id, today)
+    log: dict = {"run": run_id, "mode": a.mode, "started": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+    client = anthropic.Anthropic(max_retries=0)  # a silent SDK retry would spend outside the reservation
+    fetcher = Fetcher()
+    code = 0
+    try:
+        if a.mode == "daily":
+            run_daily(client, fetcher, ledger, log, date.fromisoformat(a.date) if a.date else today)
+        elif a.mode == "patch":
+            run_patch(client, ledger, log, a.run, json.loads(Path(a.failures).read_text("utf-8")))
+        else:
+            ws = date.fromisoformat(a.week_start)
+            until = date.fromisoformat(a.until) if a.until else ws + timedelta(days=6)
+            run_week(client, fetcher, ledger, log, ws, until, today)
+    except (BudgetExceeded, RuntimeError, ValueError, FileExistsError, anthropic.APIError) as e:
+        log["error"] = f"{type(e).__name__}: {e}"
+        print(log["error"], file=sys.stderr)
+        code = 1
+    finally:
+        log["usd_this_run"] = round(ledger.run_spent(), 4)
+        log["usd_month_daily"] = round(ledger.month_spent(), 4)
+        log["usd_weeks_total"] = round(ledger.week_spent(), 4)
+        cache = log.pop("_cache", None)
+        if cache:
+            CACHE_DIR.mkdir(parents=True, exist_ok=True)
+            (CACHE_DIR / f"{run_id}.json").write_text(json.dumps(cache, ensure_ascii=False, indent=1, default=str), "utf-8")
+        RUNS.mkdir(parents=True, exist_ok=True)
+        (RUNS / f"{run_id}.json").write_text(json.dumps(log, ensure_ascii=False, indent=1, default=str), "utf-8")
+        print(json.dumps({k: log.get(k) for k in ("run", "published", "error", "usd_this_run")},
+                         ensure_ascii=False))
+    return code
+
+
+if __name__ == "__main__":
+    sys.exit(main())

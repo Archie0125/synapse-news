@@ -1,19 +1,26 @@
 name: Daily News Pipeline
 
+# One EN+ZH article a day through the Anthropic API (pipeline/api_daily.py).
+# The script itself refuses to run after data/api-runs/config.json `daily_until`,
+# so the schedule stops on its own until the owner renews it.
+# Vercel deploys on push to master; no deploy step is needed here.
+
 on:
   schedule:
-    # Run twice daily at 6 AM and 6 PM UTC
-    - cron: '0 6,18 * * *'
-  workflow_dispatch: # Allow manual triggers
+    - cron: '0 1 * * *'   # 09:00 Asia/Taipei
+  workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: false
 
 jobs:
   pipeline:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,39 +32,51 @@ jobs:
           cache: 'pip'
 
       - name: Install Python dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt pytest
+
+      - name: Unit tests for the article gates
+        run: python -m pytest -q tests
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
 
       - name: Install Node dependencies
         run: npm ci --legacy-peer-deps
 
-      - name: Run pipeline
+      - name: Write today's article
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m pipeline.main
+        run: python -m pipeline.api_daily --mode daily
 
-      - name: Build Astro site
+      - name: Build site (schema check before publishing)
         run: npx astro build
 
-      - name: Commit new articles
+      - name: Commit and push the article
         run: |
-          git config user.name "Synapse Bot"
-          git config user.email "bot@synapse-news.ai"
-          git add data/ src/content/articles/
-          git diff --staged --quiet || git commit -m "chore: daily pipeline run $(date -u +%Y-%m-%d)"
+          git config user.name "FAQ Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles data/api-runs
+          git diff --staged --quiet || git commit -m "feat: daily article $(date -u +%Y-%m-%d)"
+          git pull --rebase origin master
           git push
 
-      - name: Deploy to Vercel
-        if: success()
-        uses: amondnet/vercel-action@v25
-        with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-          vercel-args: '--prod'
-          working-directory: ./
+      # Money already spent must reach master's ledger even when the article does not
+      # (failed gate, push rejected, or the job timed out / was cancelled).
+      - name: Keep the spend log when the run fails
+        if: failure() || cancelled()
+        run: |
+          git config user.name "FAQ Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Keep this run's ledger and log (they include master's entries plus ours; the
+          # concurrency group means no other run writes them meanwhile), drop everything else.
+          mkdir -p "$RUNNER_TEMP/keep" && cp -r data/api-runs/. "$RUNNER_TEMP/keep/" 2>/dev/null || true
+          git rebase --abort 2>/dev/null || true
+          git fetch -q origin master
+          git reset -q --hard origin/master
+          mkdir -p data/api-runs && cp -r "$RUNNER_TEMP/keep/." data/api-runs/
+          git add data/api-runs
+          git diff --staged --quiet || git commit -m "chore: api run log (no article) $(date -u +%Y-%m-%d)"
+          git push

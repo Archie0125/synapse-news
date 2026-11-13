@@ -1,11 +1,14 @@
 # NBCUniversal
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **Peacock Promo Codes: 40% Off November 2026** (2026-11-13)
+  - Peacock’s discount is attractive, but an annual bargain becomes another bill unless its sports and NBCUniversal catalog genuinely earn your screen time.
 
 - **Peacock thinks vertical video will make you watch one more hour per month** (2026-11-12)
   - Peacock is borrowing short-form video's addictive discovery loop, betting that better hooks—not a larger catalog—can squeeze another hour from subscribers.

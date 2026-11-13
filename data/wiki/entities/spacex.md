@@ -1,7 +1,7 @@
 # SpaceX
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions** (2026-11-06)
   - SpaceX can put cell towers in space, but becoming a real carrier means winning on the ground, where the bill could top $200 billion.
-
-- **Big Tech lost big in the 2026 election** (2026-11-06)
-  - The 2026 midterms read as a vote against Big Tech, landing just as the industry still can't explain how AI makes money.

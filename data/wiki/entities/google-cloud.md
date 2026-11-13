@@ -1,11 +1,14 @@
 # Google Cloud
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures** (2026-11-13)
+  - AQuA targets AI agents’ real reliability gap: technically successful requests can still fail users, and infrastructure dashboards cannot detect that alone.
 
 - **Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs** (2026-11-12)
   - TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unstable APIs keep Google’s impressive benchmarks from being a production guarantee.

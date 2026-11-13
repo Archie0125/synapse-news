@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Apple TV just debuted three new originals, including a heist thriller series** (2026-11-13)
-  - Apple TV’s triple premiere matters less for volume than for making accessibility a product feature alongside prestige storytelling.
+- **Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen** (2026-11-13)
+  - Apple's Neuromancer finally has momentum, but its real challenge is making cyberpunk's blueprint feel new after Hollywood spent four decades borrowing from it.
 
 - **New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon** (2026-11-12)
   - She's Fine gives Apple TV another star-powered comedy, but recognizable names still need a sharp premise to become more than subscription wallpaper.

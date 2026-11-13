@@ -1810,5 +1810,152 @@
     "status": "pending",
     "scheduled_for": "2026-11-14T14:20:00+00:00",
     "queued_at": "2026-11-13T06:32:41.255502+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Nvidia’s biggest vulnerability isn’t a rival chip. It’s that one person became product strategy, investor confidence, and the succession plan.\n\nIf Jensen Huang’s exit can shake the whole AI cycle, the board failed long before the resignation. Which domino falls first?",
+    "article_url": "/en/ai-ml/2026-11-13-what-s-really-at-stake-in-the-jensen-huang-saga-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T18:39:20.106443+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T18:39:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Founder-led companies love saying the CEO is irreplaceable. That sounds visionary right up until the person leaves.\n\nNvidia now has to prove CUDA, customer trust, and export-control credibility are institutional assets—not Jensen assets. Can its trillion-dollar ecosystem survive that key-person risk?",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T18:39:20.106464+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T20:59:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "Microsoft 365 一掛，信箱、Teams、檔案和工作流程一起停擺。這不是單一服務故障，而是把整間公司的神經系統外包給同一家廠商。\n\n方便換來的是共同故障點。你的公司撐得過 24 小時沒有 Microsoft 嗎？",
+    "article_url": "/zh/industry/2026-11-13-yi-duo-yun-bao-ban-quan-gong-si-microsoft-365-dang-ji-bu-shi-zh/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T18:39:20.106468+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-13T23:19:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The cloud sold businesses convenience, then quietly concentrated email, files, identity, and collaboration into the same blast radius.\n\nIf one outage can stall courts, schools, and companies at once, resilience is no longer an IT setting. How many organizations still have a usable Plan B?",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T18:39:20.106470+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T01:39:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Uber losing thousands of drivers’ license records is a reminder: access compounds faster than security.\n\nNow give an AI agent credentials, vendor tools, and permission to act. One compromised input can become a real-world leak. Would your agent pass a security review before getting a credit card?",
+    "article_url": "/en/startups/2026-11-13-uber-confirms-hackers-stole-thousands-of-drivers-license-inf-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T18:39:20.106477+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T03:59:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Prompt injection stops being a chatbot prank when an agent can send money, expose files, or contact customers.\n\nProduction agents need short-lived permissions, runtime checks, and human approval for irreversible actions. Which company will learn that lesson through a public disaster?",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-13T18:39:20.106486+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T06:19:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "AI commerce isn’t waiting for perfect agents. It’s already entering entertainment through synthetic actors, scripts, and microdramas.\n\nBut representation without paid participation is just synthetic diversity. If AI puts more Black faces on screen while shrinking Black crews, who actually gained?",
+    "article_url": "/en/ai-ml/2026-11-13-this-startup-is-betting-on-ai-microdramas-to-get-more-black-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T18:39:20.106472+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T08:39:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The agent economy becomes real the moment software can spend money, call a merchant, and book on your behalf.\n\nThe bottleneck isn’t intelligence; it’s liability. When an agent buys the wrong nonrefundable ticket, who pays—the user, model maker, or merchant?",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T18:39:20.106475+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T10:59:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Google, Apple, and open-source labs can trade benchmark wins. The Nvidia saga exposes the deeper race: whoever controls distribution, compute, and trust controls which model actually gets used.\n\nBenchmarks expire monthly. Which platform can execute reliably for five years?",
+    "article_url": "/en/ai-ml/2026-11-13-what-s-really-at-stake-in-the-jensen-huang-saga-en/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T18:39:20.106500+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T13:19:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The next AI winner may not have the smartest model. It may own the OS, route each task to the cheapest model, and run enough locally that latency disappears.\n\nDistribution beat technical purity in every previous platform war. Why would AI be different?",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-13T18:39:20.106506+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T15:39:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Smart glasses have a brutal test: will anyone wear them after week two?\n\nThe same rule drives our 2026 gift guide—specs don’t matter if the gadget becomes drawer clutter. Google and Samsung can demo ambient AI all day; can they make cameras feel socially acceptable?",
+    "article_url": "/en/products/2026-11-13-the-verges-2026-gift-guide-for-dads-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T18:39:20.106489+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T17:59:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "AI glasses won’t fail because the demos are weak. They’ll fail if they pinch after 40 minutes, cost $800, or make everyone nearby wonder whether they’re being recorded.\n\nThe winning feature may be a camera indicator people actually trust. Which company will treat bystanders as users too?",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T18:39:20.106497+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T20:19:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Apple’s smart-home pitch is bigger than a new TV box: cameras, Siri, and displays turning the house into one computer.\n\nOur gift-guide rule still applies—premium hardware earns its place only if people use it after setup weekend. Will HomeView become infrastructure or expensive wall decor?",
+    "article_url": "/en/products/2026-11-13-the-verges-2026-gift-guide-for-dads-en/",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T18:39:20.106508+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T22:39:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Apple doesn’t need the cheapest smart home. It needs HomeView, TV, cameras, and Siri to feel like one product every single day.\n\nThat promise dies with one flaky handoff or badly timed security patch. How many launch bugs can a premium ecosystem survive before “it just works” becomes nostalgia?",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-13T18:39:20.106512+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T00:59:20.108865+00:00",
+    "queued_at": "2026-11-13T18:39:20.108865+00:00"
   }
 ]

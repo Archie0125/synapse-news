@@ -1,167 +1,159 @@
 # AI & ML
 
 
-*412 articles in the last 7 days*
+*408 articles in the last 7 days*
 
 
 ## Latest
 
 
-### The Corporate LLM Gateway: Why GPU-Hour Is the Wrong Metric
+### This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Cheap GPU-hours make attractive spreadsheets, but corporate LLM projects live or die on auditability, payment operations and provider resilience.
+Mansa’s AI microdrama expands Black stories by shrinking Black employment, exposing the contradiction at the heart of automated representation.
 
 
-### Telling a model what not to do barely worked
+### Jensen Huang and the End of the Founder Fairy Tale
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Negative prompting treated repetition as disobedience, but the real defect was missing memory—context fixed what increasingly elaborate rules could not.
+Nvidia's dominance has turned Jensen Huang into mythology, but family-mediated access and choreographed interviews expose the governance risk beneath the founder halo.
 
 
-### Sub‑bit KV cache quantization doubles throughput
+### Even Black Friday Will Be More Expensive Than Usual
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-LoopVQ shows memory traffic—not compute—is the real long-context tax, though its headline gains still need validation beyond looped Ouro models.
+Black Friday's discount theater is colliding with real component inflation, so shoppers should judge final prices—not the size of the crossed-out percentage.
 
 
-### Jira Automation with Rovo: 2 of 10 Rules Worked
+### 1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests
 
-*Dev.to | 2026-11-13*
+*Tom's Hardware | 2026-11-13*
 
 
-Rovo’s 20-percent success rate shows AI-generated automation is still a draft generator, while silent failures and broad editing permissions create the real risk.
+AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.
 
 
-### I Stopped Believing AI Coding Claims. Now I Measure Them.
+### What&#8217;s really at stake in the Jensen Huang saga
 
-*Dev.to | 2026-11-13*
+*The Verge | 2026-11-13*
 
 
-Public experiments are the right antidote to AI-coding hype, though paywalling raw data weakens the project’s promise of reproducible accountability.
+Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
 
 
-### Choosing a Specialized GEO Marketing Partner in South Korea With a Reviewable Source Manifest
+### Jensen Huang was reckless with the environment, too
 
-*Dev.to | 2026-11-13*
+*The Verge | 2026-11-13*
 
 
-The source-manifest advice is solid, but the disclosed self-recommendation makes this a useful workflow wrapped in vendor marketing—not an independent ranking.
+Nvidia’s climate rhetoric cannot outrun the physical bill for AI: more factories, strained power grids, rising emissions, and looming e-waste.
 
 
-### Meet Colette Kress, Nvidia’s New Interim CEO
+### Apple announces release dates for the first Apple Home Collection smart devices
 
-*Wired | 2026-11-12*
+*The Verge | 2026-11-13*
 
 
-Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
+Apple’s Home Collection finally gives its smart-home push physical breadth, but premium prices and staggered availability weaken the ecosystem’s opening pitch.
 
 
-### Jensen Huang’s $470 Billion Affair
+### Uber confirms hackers stole thousands of drivers’ license information in data breach
 
-*Wired | 2026-11-12*
+*TechCrunch | 2026-11-13*
 
 
-Huang’s affair became a national-security and governance crisis because Nvidia’s chips, China policy, and founder-centric credibility were already inseparable.
+Uber’s breach shows artificial intelligence vendors are becoming high-value supply-chain targets long before customers build adequate controls around them.
 
 
-### Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?
+### Jensen Huang didn’t show confidence in his successor, report says
 
-*Wired | 2026-11-12*
+*TechCrunch | 2026-11-13*
 
 
-Huang’s exit gives Nvidia’s rivals a rare opening, but competitors still need products and software—not scandal—to break the company’s AI-computing grip.
+Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
 
 
-### Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month
+### Israel’s VCs see opportunity for challengers in Nvidia’s turmoil
 
-*Wired | 2026-11-12*
+*TechCrunch | 2026-11-13*
 
 
-Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.
+Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
 
 
-### Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out
+### ElevenLabs’ new app combines meeting note-taking and dictation for teams
 
-*Wired | 2026-11-12*
+*TechCrunch | 2026-11-13*
 
 
-Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
+ElevenAI’s feature bundle is compelling, but a crowded market means voice quality alone will not secure the team workflow.
 
 
-### Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight
+### ChatGPT’s new Wallet lets AI agents shop and check out for you
 
-*Wired | 2026-11-12*
+*TechCrunch | 2026-11-13*
 
 
-DeepMind’s union fight shows that ethical objections to military AI are evolving from employee dissent into a legally enforceable challenge to management.
+ChatGPT Wallet makes agentic shopping tangible, but biometric approval solves only authorization—not whether users trust artificial intelligence to choose wisely.
 
 
-### Google and Samsung’s Android XR Smart Glasses Are Finally Here
+### Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr
 
-*Wired | 2026-11-12*
+*SaaStr | 2026-11-13*
 
 
-Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
+This chaotic week exposed the same fault line across venture and artificial intelligence: ambitious structures survive only while liquidity and demand cooperate.
 
 
-### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
+### Dear SaaStr: What Is the Difference Between a Good Salesman and a Great One?
 
-*Tom's Hardware | 2026-11-12*
+*SaaStr | 2026-11-13*
 
 
-Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
+Great sales reps win through customer understanding and product mastery, making discount-heavy scripts look less like selling and more like surrender.
 
 
-### Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
+### 5 Interesting Learnings from Palantir at $9.3 Billion Run-Rate: 96% Growth, 165% NRR, and U.S. Commercial Passing Government for the First Time
 
-*Tom's Hardware | 2026-11-12*
+*SaaStr | 2026-11-13*
 
 
-Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
+Palantir’s growth is extraordinary, but the post-earnings decline shows its valuation now demands perfection beyond even 96% revenue growth.
 
 
-### Google reworks TPU silicon into specialized systems for agents and security
+### The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
 
-*Tom's Hardware | 2026-11-12*
+*MIT Technology Review | 2026-11-13*
 
 
-Google’s smartest TPU advance may be modular product design, turning reused silicon into faster answers for agents, regulated customers, and Nvidia’s dominance.
+Silicon Valley’s political misread and Nvidia’s chip-tracking contradiction share one lesson: public tech narratives deserve less trust than private incentives.
 
 
-### Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang
+### Silicon Valley claims to know the future. So why did it get the midterms so wrong?
 
-*Tom's Hardware | 2026-11-12*
+*MIT Technology Review | 2026-11-13*
 
 
-Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
+Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
 
 
-### More game developers are starting to use generative AI
+### More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
 
-*The Verge | 2026-11-12*
+*MIT Technology Review | 2026-11-13*
 
 
-Generative AI is winning inside game studios through mundane utility, even while its creative legitimacy remains fiercely contested.
+Brain-interface volunteers are not disposable test infrastructure; years-long bodily and intellectual contributions justify autonomy, recognition, and fewer secrecy constraints.
 
 
-### Jensen Huang is out. What did China want from him?
+### Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri
 
-*The Verge | 2026-11-12*
+*InfoQ | 2026-11-13*
 
 
-Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
-
-
-### Google’s new Gemini model is better at understanding complicated questions
-
-*The Verge | 2026-11-12*
-
-
-Gemini 4 Hydrogen's real upgrade is not smarter chat but turning Google Search into a model-driven answer engine with richer interfaces.
+Apple’s Siri preview could make apps conversationally programmable, but its value depends on reliable action routing—not another polished assistant demo.

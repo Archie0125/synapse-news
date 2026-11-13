@@ -1,14 +1,17 @@
 # Best Buy
 
 
-*Mentioned in 11 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
 
-- **Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now** (2026-11-12)
-  - The CyberPowerPC may be a capable 1440p deal, but contradictory GPU and discount claims make retailer verification mandatory before anyone clicks buy.
+- **Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy** (2026-11-13)
+  - Secretlab’s retail push is smart because premium chairs are experienced products, and no online spec sheet can tell buyers whether their backs approve.
+
+- **This year’s Meta Quest 3S early Black Friday doorbuster deal is the best I’ve ever seen** (2026-11-13)
+  - Meta’s Quest 3S bundle is a genuinely aggressive holiday deal, but the gift card and game extras matter only if buyers will actually use them.
 
 - **The Oura Ring 4 is almost as good as the newer model, but $150 cheaper** (2026-11-12)
   - At $249, the Oura Ring 4 makes the newer model's premium difficult to justify when the core sensors and software remain essentially unchanged.
@@ -33,9 +36,3 @@
 
 - **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
   - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.
-
-- **Deals: M5 MacBook Air $250 off, Apple Watch Ultra $250 off, HomePod mini 2, HomeView, AirPods $100 off, more** (2026-11-06)
-  - Steep discounts on last-gen M5 MacBook Air and Apple Watch Ultra 3 suggest the new lineup is pushing old stock out fast, which makes this a good moment for buyers who don't need the latest model.
-
-- **Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more** (2026-11-06)
-  - Black Friday arrives in early November again, and steep flagship discounts like $450 off the Galaxy S26 Ultra suggest launch prices are largely for show.

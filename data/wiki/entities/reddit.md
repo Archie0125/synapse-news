@@ -1,11 +1,14 @@
 # Reddit
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **PSA: YouTube app not working on your new Apple TV? Here’s the fix** (2026-11-13)
+  - The YouTube launch bug is easy to fix, but a flagship streaming box failing at its most obvious app exposes avoidable coordination failures.
 
 - **Reddit Reviews goes against the whole philosophy of the platform, say users** (2026-11-11)
   - Reddit is turning its most trusted asset, raw human opinion, into AI summaries, which gives spammers a single summary to game instead of whole threads.

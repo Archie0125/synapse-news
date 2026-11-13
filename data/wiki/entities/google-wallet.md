@@ -1,11 +1,14 @@
 # Google Wallet
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’** (2026-11-13)
+  - Gemini’s Wallet connector makes personal finance advice unusually practical, but convenience now depends on trusting Google and Plaid with an intimate map of spending.
 
 - **Google Wallet can finally unlock doors with digital home keys** (2026-11-12)
   - Google Wallet’s home keys finally close an embarrassing Android gap, but sparse Aliro lock support keeps the convenience mostly theoretical.

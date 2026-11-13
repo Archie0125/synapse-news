@@ -1,14 +1,14 @@
 # GitHub
 
 
-*Mentioned in 28 articles*
+*Mentioned in 25 articles*
 
 
 ## Recent Mentions
 
 
-- **GitHub availability report: October 2026** (2026-11-13)
-  - GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
+- **IceWM** (2026-11-13)
+  - IceWM’s longevity proves that speed, predictability and low resource use remain genuine features even as mainstream desktops chase heavier visual polish.
 
 - **Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript** (2026-11-12)
   - finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.

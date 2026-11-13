@@ -1,11 +1,17 @@
 # NVIDIA
 
 
-*Mentioned in 14 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
+
+- **Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple** (2026-11-13)
+  - Surface Laptop Ultra proves Windows can offer serious local-AI muscle, but its premium pricing still fails to close Apple's overall advantage.
+
+- **Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang** (2026-11-13)
+  - Alleged chip-smuggling networks show export controls are only as strong as reseller tracing and end-use enforcement, not the rules written in Washington.
 
 - **NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately** (2026-11-12)
   - Jensen Huang’s abrupt exit turns Nvidia’s leadership succession from a governance footnote into an immediate strategic risk for the AI economy.
@@ -45,6 +51,3 @@
 
 - **Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)** (2026-11-08)
   - Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.
-
-- **How Sub‑Millisecond AI is Revolutionizing Factories, Trucks, and Cars in 2026** (2026-11-07)
-  - A sweeping claim that one decoupled predictor runs Waymo, Siemens, GE and Amazon, with neat regulation names and tidy gains but no sources. Treat it as speculation until proven.

@@ -1,14 +1,11 @@
 # Apple AirTag
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
-
-- **Walmart Early Black Friday Deals Double as Great Gifts (2026)** (2026-11-12)
-  - Walmart’s gift deals are useful, but its cheap membership trial turns holiday urgency into a recurring-revenue funnel shoppers must actively escape.
 
 - **Best Early Amazon Black Friday Deals (2026)** (2026-11-10)
   - Amazon's Black Friday now starts November 19, and many of its early 'deals' are prices these products have hit before.

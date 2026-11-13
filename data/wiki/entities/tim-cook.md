@@ -1,14 +1,11 @@
 # Tim Cook
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **Donald Trump really wants Tim Cook to run Nvidia** (2026-11-13)
-  - Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
 
 - **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
   - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.

@@ -1,11 +1,20 @@
 # Amazon
 
 
-*Mentioned in 53 articles*
+*Mentioned in 46 articles*
 
 
 ## Recent Mentions
 
+
+- **Even Black Friday Will Be More Expensive Than Usual** (2026-11-13)
+  - Black Friday's discount theater is colliding with real component inflation, so shoppers should judge final prices—not the size of the crossed-out percentage.
+
+- **10 great PC upgrades for under $100** (2026-11-13)
+  - With AI demand inflating core component costs, the smartest sub-$100 PC upgrades now improve usability and connectivity rather than benchmark scores.
+
+- **Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more** (2026-11-13)
+  - Amazon’s Apple sale is mostly noise around one tiny launch discount; the real value sits in older hardware clearance and mature accessories.
 
 - **The Oura Ring 4 is almost as good as the newer model, but $150 cheaper** (2026-11-12)
   - At $249, the Oura Ring 4 makes the newer model's premium difficult to justify when the core sensors and software remain essentially unchanged.
@@ -42,12 +51,3 @@
 
 - **Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more** (2026-11-11)
   - AirTag 2 at $17.50 on the same week Pixel Tag launches at $30 is no coincidence. Apple's ecosystem is fighting back on price before the holidays.
-
-- **Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price** (2026-11-11)
-  - Motorola MA2 is a better adapter than its predecessor, but launching at $69.99 after promising about $40 turns a cheap fix into a hard sell.
-
-- **Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook  from $680, Lenovo Yoga Mini $460 off, more** (2026-11-11)
-  - Black Friday started in mid-November, and Google's own new hardware, from the Pixel Tag to Googlebooks, is already on discount. Launch prices are basically a suggestion now.
-
-- **Ring’s Indoor Drone Camera Is Back—and Now Powered by AI** (2026-11-10)
-  - Ring's $250 indoor drone finally ships, but a buzzing camera that roams your house on command is a privacy bet as much as a security product.

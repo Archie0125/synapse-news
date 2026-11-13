@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg — 3-item gaming PC combo includes 9800X3D, 32GB Corsair Vengeance DDR5 RAM, and premium MSI X870E Carbon Wifi motherboard for only $1,250** (2026-11-12)
-  - Newegg’s bundle softens absurd component pricing, but calling allocated savings a RAM bargain disguises how expensive this premium AM5 platform remains.
+- **Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs** (2026-11-13)
+  - Intel’s nearly invisible 260K Plus looks less like innovation than channel segmentation: a 100MHz trim packaged for selected prebuilt buyers.
 
 - **Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now** (2026-11-09)
   - At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.

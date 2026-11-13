@@ -1,11 +1,23 @@
 # HomeView
 
 
-*Mentioned in 8 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
 
+
+- **Apple announces release dates for the first Apple Home Collection smart devices** (2026-11-13)
+  - Apple’s Home Collection finally gives its smart-home push physical breadth, but premium prices and staggered availability weaken the ecosystem’s opening pitch.
+
+- **Why Apple's HomeView relies so heavily on your iPhone** (2026-11-13)
+  - HomeView’s iPhone dependence protects privacy and personalization, but turns Apple’s home hub into an ecosystem accessory rather than a truly standalone device.
+
+- **Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future** (2026-11-13)
+  - Secure Exclaves show Apple is treating ambient sensing as a security problem, but data collection matters more than the architecture’s branding.
+
+- **New Apple TV 4K and HomeView now available: Here’s everything you need to know** (2026-11-13)
+  - HomeView and the new Apple TV turn Siri AI into ambient household hardware, but Apple still must prove intelligence—not silicon—earns their place in every room.
 
 - **Apple’s HomeView Tries Face Authentication Without FaceID** (2026-11-12)
   - HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.

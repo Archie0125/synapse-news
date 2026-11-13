@@ -1,11 +1,17 @@
 # Elon Musk
 
 
-*Mentioned in 17 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
+
+- **‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk** (2026-11-13)
+  - Ending Cybertruck production turns weak demand into a trust test, because Tesla must now prove that service and parts will outlast the vehicle's hype.
+
+- **Silicon Valley claims to know the future. So why did it get the midterms so wrong?** (2026-11-13)
+  - Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
 
 - **Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang** (2026-11-12)
   - Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
@@ -40,14 +46,5 @@
 - **The Cybertruck’s Death Is Actually Great News for EVs** (2026-11-06)
   - The Cybertruck's death isn't just Tesla's embarrassment: it signals that oversized EVs were a dead end and that battery cells belong in smaller, cheaper cars.
 
-- **RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd** (2026-11-06)
-  - A million reservations turned into fewer than 50,000 sales. The Cybertruck's death is a reminder that hype isn't demand, and Tesla is now making the same bet on robotaxis.
-
-- **Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push** (2026-11-06)
-  - Tesla's 80x chip claim is a real engineering ambition, but renaming AI 'Super Intelligence' is branding, not a technical breakthrough.
-
-- **Tesla will stop making the Cybertruck in 2027** (2026-11-06)
-  - Killing the Cybertruck is Tesla admitting its most hyped car flopped, and it's spinning the factory space into another bet that robotaxis will finally deliver.
-
-- **Tesla to wind down Cybertruck production** (2026-11-06)
-  - Cybertruck selling about 8% of its promised volume is not the end of an era. It is the clearest case yet of Tesla's narrative running ahead of demand.
+- **Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations** (2026-11-06)
+  - Apple's careful neutrality is about to get audited: a Democratic Congress wants to know whether its App Store calls on ICE apps were policy or politics.

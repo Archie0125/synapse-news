@@ -1,7 +1,7 @@
 # Zoom
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **The Duo apps are coming, says Apple** (2026-11-06)
   - Apple's 100,000-app milestone shows it's fixing the Duo's software gap fast, but sellouts at $1,999 prove buyers never waited for the apps anyway.
-
-- **Apple says there are already over 100,000 apps built for iPhone Duo** (2026-11-06)
-  - 100,000 iPhone Duo apps in two weeks is the stat Android foldables never got. Apple's real advantage in foldables is developer pull, not hinge tech.

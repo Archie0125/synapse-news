@@ -1,14 +1,11 @@
 # Pillow
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
-
-- **Wix image URLs: fill vs fit, enc_auto, Vary: Accept and the file behind /v1/** (2026-11-13)
-  - Wix image URLs are a useful transformation API disguised as filenames, but content negotiation makes casual URL inspection dangerously misleading.
 
 - **Cómo convertir la foto de una firma en un sello PDF transparente con Python** (2026-11-11)
   - This guide uses measurements to show why a fixed threshold fails to remove the background from signature photos, and why estimating local paper brightness works better.

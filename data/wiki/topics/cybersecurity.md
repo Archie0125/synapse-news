@@ -1,10 +1,74 @@
 # Cybersecurity
 
 
-*130 articles in the last 7 days*
+*125 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Bitdefender Antivirus Plus Review: Undercutting the Competition
+
+*Wired | 2026-11-13*
+
+
+Bitdefender's strong lab scores make its value pitch credible, but a dated Mac app and 700-MB footprint keep it from being an effortless recommendation.
+
+
+### How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation
+
+*Tom's Hardware | 2026-11-13*
+
+
+The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
+
+
+### Uber confirms hackers stole thousands of drivers’ license information in data breach
+
+*TechCrunch | 2026-11-13*
+
+
+Uber’s breach shows artificial intelligence vendors are becoming high-value supply-chain targets long before customers build adequate controls around them.
+
+
+### Microsoft’s latest email outage turned into a full blown global cloud crisis
+
+*TechCrunch | 2026-11-13*
+
+
+Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
+
+
+### Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces
+
+*InfoQ | 2026-11-13*
+
+
+Dropbox shows that privacy compliance only scales when consent is tested like production code, not treated as a legal checkbox.
+
+
+### You can now tempt fate and give your banking information to ChatGPT
+
+*Engadget | 2026-11-13*
+
+
+ChatGPT Wallet makes agentic shopping practical, but biometric approval cannot eliminate the deeper risk of an AI choosing the wrong product or seller.
+
+
+### Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang
+
+*Engadget | 2026-11-13*
+
+
+Alleged chip-smuggling networks show export controls are only as strong as reseller tracing and end-use enforcement, not the rules written in Washington.
+
+
+### Your MCP Scanner Passed. Would Your Agent Still Follow a Poisoned Tool? A Canary Method for Testing AI Agents
+
+*Dev.to | 2026-11-13*
+
+
+Static MCP scanning is necessary but incomplete: only behavioral canaries reveal whether your exact agent stack turns poisoned instructions into real actions.
 
 
 ### VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python
@@ -31,6 +95,14 @@ A successful DELETE response is not GDPR erasure; defensible deletion requires a
 Public experiments are the right antidote to AI-coding hype, though paywalling raw data weakens the project’s promise of reproducible accountability.
 
 
+### An AI agent believes whatever its tools send back
+
+*Dev.to | 2026-11-13*
+
+
+Publishing an output schema without enforcing it is security theater; reliable AI agents need runtime validation and confidence in the validator itself.
+
+
 ### Accept crypto payments in NestJS
 
 *Dev.to | 2026-11-13*
@@ -39,20 +111,28 @@ Public experiments are the right antidote to AI-coding hype, though paywalling r
 Moonvex makes crypto checkout look simple, but payment reliability depends on idempotency and verified webhooks—not the redirect code.
 
 
+### Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future
+
+*9to5Mac | 2026-11-13*
+
+
+Secure Exclaves show Apple is treating ambient sensing as a security problem, but data collection matters more than the architecture’s branding.
+
+
+### Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords
+
+*9to5Google | 2026-11-13*
+
+
+Proton Pass's discount is compelling, but the sponsored pitch matters less than whether encrypted vaults and email protection fit your actual habits.
+
+
 ### Apple’s HomeView Tries Face Authentication Without FaceID
 
 *Wired | 2026-11-12*
 
 
 HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.
-
-
-### Russia’s Google says nearly 3% of its data was lost after crippling Ukraine drone strikes, opens secret availability zones
-
-*Tom's Hardware | 2026-11-12*
-
-
-Yandex restored most customer data, but the irrecoverable 2.84% exposes how quickly cloud-resilience promises collapse when physical infrastructure becomes a military target.
 
 
 ### Humble Bundle redesign removes two-factor verification from settings
@@ -85,83 +165,3 @@ Microsoft’s broad outage shows cloud productivity’s hidden single point of f
 
 
 The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.
-
-
-### Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
-
-*MIT Technology Review | 2026-11-12*
-
-
-The chip-tracking debate looks less like a technical impossibility than a political choice, though Nvidia’s unwritten private assurance still needs independent verification.
-
-
-### Turning a 22-year-old Postgres type-confusion primitive into RCE
-
-*Hacker News | 2026-11-12*
-
-
-A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
-
-
-### Critical RCE Vulnerability in Apache HTTP Server
-
-*Hacker News | 2026-11-12*
-
-
-Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.
-
-
-### Nintendo is ending Google and Apple sign-ins early next year
-
-*Engadget | 2026-11-12*
-
-
-Nintendo’s login cleanup may improve account independence, but unexplained migrations turn sensible security housekeeping into avoidable customer friction.
-
-
-### Multiple Microsoft 365 services are experiencing an outage
-
-*Engadget | 2026-11-12*
-
-
-Microsoft 365’s multi-service outage exposes the downside of an integrated productivity cloud: one infrastructure failure can disable an organization’s entire digital workplace.
-
-
-### The Intruder in the Palm of Your Hand
-
-*Dev.to | 2026-11-12*
-
-
-The scariest mobile attacks do not need elite targets; curiosity, sideloading, and one permissions prompt can convert an ordinary phone into a theft channel.
-
-
-### SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do
-
-*Dev.to | 2026-11-12*
-
-
-SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
-
-
-### OpenAI’s GPT-6 Cyber Raises the Price of More Aggressive Security AI
-
-*Dev.to | 2026-11-12*
-
-
-GPT-6 Cyber’s reported exploit gains are striking, but restricted access and premium pricing turn benchmark leadership into an unproven procurement case.
-
-
-### Official vs relay LLM gateways: risks and how to spot them
-
-*Dev.to | 2026-11-12*
-
-
-OpenAI compatibility is merely plumbing; the base URL’s operator, policies, and relay chain determine whether a free endpoint deserves your code.
-
-
-### MX Record Lookup: How to Check Mail Servers and What It Proves
-
-*Dev.to | 2026-11-12*
-
-
-An MX lookup proves a domain can receive mail, not that a person is real, and fintechs that treat it as identity checking are fooling themselves.

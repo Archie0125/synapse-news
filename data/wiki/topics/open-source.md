@@ -1,10 +1,74 @@
 # Open Source
 
 
-*127 articles in the last 7 days*
+*119 articles in the last 7 days*
 
 
 ## Latest
+
+
+### macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64
+
+*Tom's Hardware | 2026-11-13*
+
+
+Stela revives the Hackintosh dream through audacious translation, but today it is a technical demonstration—not a practical Mac replacement.
+
+
+### Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures
+
+*InfoQ | 2026-11-13*
+
+
+AQuA targets AI agents’ real reliability gap: technically successful requests can still fail users, and infrastructure dashboards cannot detect that alone.
+
+
+### llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem
+
+*Hugging Face Blog | 2026-11-13*
+
+
+llama.cpp v1.0.0 matters less as a feature milestone than as a promise that local AI developers can finally build on clearer compatibility boundaries.
+
+
+### Why Zig over C for Systems Programming
+
+*Hacker News | 2026-11-13*
+
+
+Zig’s best case against C is not safety theater but fewer hours wasted on cleanup plumbing while preserving low-level control and interoperability.
+
+
+### "LibreOffice works 365 days a year. Just saying."
+
+*Hacker News | 2026-11-13*
+
+
+LibreOffice turned Microsoft’s subscription branding into an effective reliability joke, showing that open-source ownership remains a potent marketing advantage.
+
+
+### IceWM
+
+*Hacker News | 2026-11-13*
+
+
+IceWM’s longevity proves that speed, predictability and low resource use remain genuine features even as mainstream desktops chase heavier visual polish.
+
+
+### Why pay for free software? Who decides the open source stack under WordPress?
+
+*Dev.to | 2026-11-13*
+
+
+Open source is free to download, not free to sustain; choosing a WordPress host quietly delegates both infrastructure and governance decisions.
+
+
+### An AI agent believes whatever its tools send back
+
+*Dev.to | 2026-11-13*
+
+
+Publishing an output schema without enforcing it is security theater; reliable AI agents need runtime validation and confidence in the validator itself.
 
 
 ### Jensen Huang’s exit puts Nvidia’s support for open source in question
@@ -37,14 +101,6 @@ TPU Sync attacks the overlooked data-movement bottleneck in AI serving, but unst
 
 
 finprim’s strongest argument is not API convenience but preventing quietly divergent financial rules from rejecting valid customers across platforms.
-
-
-### LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B
-
-*Hugging Face Blog | 2026-11-12*
-
-
-LLMON is a promising attempt to make model context legible, but the syntax matters only if it demonstrably reduces failures outside IBM’s own models.
 
 
 ### Turning a 22-year-old Postgres type-confusion primitive into RCE
@@ -109,59 +165,3 @@ Agent skills can turn tribal knowledge into reusable infrastructure, but portabi
 
 
 Episteme AI tackles a real failure mode by checking course pages, but heuristic paywall detection needs continuous verification to remain trustworthy.
-
-
-### Five Bugs Hiding in a URL Shortener (and the Fix for Each)
-
-*Dev.to | 2026-11-12*
-
-
-The three-box URL shortener diagram passes interviews and fails production. Testing traps against real concurrency is the lesson most tutorials skip.
-
-
-### I Saw the Future of Robotics in a Virtual Duck That Chases My Cat
-
-*Wired | 2026-11-11*
-
-
-A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
-
-
-### Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled
-
-*Tom's Hardware | 2026-11-11*
-
-
-Nintendo removed 144 GitHub repos in one sweep, but taking down firmware for chips already soldered into consoles is more symbolic than effective.
-
-
-### Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches
-
-*Tom's Hardware | 2026-11-11*
-
-
-AI made writing patches nearly free but left reviewing them just as expensive, and the Linux kernel is now losing experienced reviewers because of it.
-
-
-### Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU
-
-*Tom's Hardware | 2026-11-11*
-
-
-Kora has a smart idea for running AI locally across CPU, GPU, and NPU, but it's wrapped in buzzwords and won't ship until 2027.
-
-
-### Hands on with Home Assistant’s new ‘smart home multi-tool’
-
-*The Verge | 2026-11-11*
-
-
-Home Assistant's $69 Aux-2 is a quiet attack on e-waste, making old dumb devices smart instead of pushing you to buy new ones.
-
-
-### Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor
-
-*InfoQ | 2026-11-11*
-
-
-TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.

@@ -1,11 +1,14 @@
 # Pixel Watch
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Pixel Watch update brings a sweet redesign I wish was on more apps** (2026-11-13)
+  - Google's Pixel Watch icon redesign is a tiny win showing that functional visual coherence matters more than applying another generic gradient.
 
 - **Pixel Watch and Fitbit Air will be able to control Android XR glasses with gestures** (2026-11-12)
   - Turning existing watches into gesture controllers is Google’s smartest glasses feature because ecosystem reuse can beat selling customers yet another specialized wearable.

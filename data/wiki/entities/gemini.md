@@ -1,11 +1,20 @@
 # Gemini
 
 
-*Mentioned in 28 articles*
+*Mentioned in 31 articles*
 
 
 ## Recent Mentions
 
+
+- **You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’** (2026-11-13)
+  - Gemini’s Wallet connector makes personal finance advice unusually practical, but convenience now depends on trusting Google and Plaid with an intimate map of spending.
+
+- **I’d rather use Android XR glasses over Meta Ray-Bans for the app alone** (2026-11-13)
+  - Android XR's simplest advantage may be its best: a clean companion app can beat Meta on everyday usability before hardware specifications even matter.
+
+- **Android Auto 18.2 update starts rolling out with more light mode teases** (2026-11-13)
+  - Android Auto 18.2 looks uneventful, but fixing invisible reliability failures matters more to drivers than teasing another unfinished light mode.
 
 - **AI chatbots are recommending fake retail websites, study finds** (2026-11-12)
   - AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
@@ -42,12 +51,3 @@
 
 - **Google rolling out Gemini app for CarPlay** (2026-11-11)
   - Gemini on CarPlay puts Google's AI on Apple's dashboard while Siri is still catching up. iPhone drivers now have a better assistant than the one Apple ships.
-
-- **Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers** (2026-11-11)
-  - Google's latest Home update is mostly repair work: it fixes a broken Nest doorbell feed while Gemini, the feature it keeps promoting, is still stuck in early access.
-
-- **Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]** (2026-11-11)
-  - Google restoring its playful timer sounds is a quiet admission that the Gemini migration stripped out personality, yet the new confirm tone repeats the mistake by sounding like an error.
-
-- **Android Auto is getting a Gemini upgrade, but only if you use a Pixel** (2026-11-11)
-  - Google's smartest Android Auto feature is locked to Pixel 10 and 11, a reminder that Gemini is now a phone-sales weapon, not just a platform feature.

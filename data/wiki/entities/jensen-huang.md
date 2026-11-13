@@ -1,17 +1,44 @@
 # Jensen Huang
 
 
-*Mentioned in 61 articles*
+*Mentioned in 68 articles*
 
 
 ## Recent Mentions
 
 
-- **Donald Trump really wants Tim Cook to run Nvidia** (2026-11-13)
-  - Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+- **Jensen Huang and the End of the Founder Fairy Tale** (2026-11-13)
+  - Nvidia's dominance has turned Jensen Huang into mythology, but family-mediated access and choreographed interviews expose the governance risk beneath the founder halo.
 
-- **Nvidia employees petition to bring back Jensen Huang** (2026-11-13)
-  - Employee loyalty underscores Huang's impact, but founder nostalgia is a poor substitute for independent governance around serious reported misconduct.
+- **Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim** (2026-11-13)
+  - SemiAnalysis flags a potentially massive enforcement failure, but converting gigawatts into GPUs—and speculation into causation—requires far more disclosure.
+
+- **Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy** (2026-11-13)
+  - Malaysia and Singapore’s probes show AI-chip export controls now depend less on borders than on policing opaque regional supply chains.
+
+- **How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation** (2026-11-13)
+  - The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
+
+- **‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims** (2026-11-13)
+  - Employee loyalty may soften Jensen Huang’s fall, but it also exposes Nvidia’s dangerous dependence on one founder.
+
+- **What&#8217;s really at stake in the Jensen Huang saga** (2026-11-13)
+  - Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
+
+- **Jensen Huang was reckless with the environment, too** (2026-11-13)
+  - Nvidia’s climate rhetoric cannot outrun the physical bill for AI: more factories, strained power grids, rising emissions, and looming e-waste.
+
+- **Jensen Huang didn’t show confidence in his successor, report says** (2026-11-13)
+  - Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
+
+- **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil** (2026-11-13)
+  - Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
+
+- **Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr** (2026-11-13)
+  - This chaotic week exposed the same fault line across venture and artificial intelligence: ambitious structures survive only while liquidity and demand cooperate.
+
+- **Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang** (2026-11-13)
+  - Alleged chip-smuggling networks show export controls are only as strong as reseller tracing and end-use enforcement, not the rules written in Washington.
 
 - **Silicon Valley Is Still Defending Jensen Huang** (2026-11-12)
   - Silicon Valley’s defense of Jensen Huang shows founder worship can outlast serious governance alarms when one leader embodies an industry’s fortunes.
@@ -24,30 +51,3 @@
 
 - **Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?** (2026-11-12)
   - Huang’s exit gives Nvidia’s rivals a rare opening, but competitors still need products and software—not scandal—to break the company’s AI-computing grip.
-
-- **Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women** (2026-11-12)
-  - Colette Kress becoming Nvidia’s interim CEO exposes a familiar succession blind spot: the capable woman was already present, powerful, and somehow still overlooked.
-
-- **Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month** (2026-11-12)
-  - Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.
-
-- **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
-  - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
-
-- **Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations** (2026-11-12)
-  - Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
-
-- **Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang** (2026-11-12)
-  - Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
-
-- **Jensen Huang is out. What did China want from him?** (2026-11-12)
-  - Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
-
-- **‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation** (2026-11-12)
-  - Tech leaders defending Jensen Huang are treating exceptional performance as exceptional immunity, precisely when Nvidia needs credible governance most.
-
-- **Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO** (2026-11-12)
-  - Huang’s exit exposes Nvidia’s founder dependence; its next test is proving the AI empire is an institution, not one man’s momentum.
-
-- **Jensen Huang’s exit puts Nvidia’s support for open source in question** (2026-11-12)
-  - Nvidia’s open-source commitment now faces its clearest test: whether it was durable strategy or merely Jensen Huang’s useful counterweight to frontier labs.

@@ -1,11 +1,14 @@
 # Android XR
 
 
-*Mentioned in 9 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **I’d rather use Android XR glasses over Meta Ray-Bans for the app alone** (2026-11-13)
+  - Android XR's simplest advantage may be its best: a clean companion app can beat Meta on everyday usability before hardware specifications even matter.
 
 - **Here’s How Google Says It’s Making Its Smart Glasses More Private** (2026-11-12)
   - Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.

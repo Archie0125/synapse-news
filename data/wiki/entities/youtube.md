@@ -1,11 +1,17 @@
 # YouTube
 
 
-*Mentioned in 7 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
+
+- **The new Apple TV has a YouTube problem** (2026-11-13)
+  - The new Apple TV remains excellent hardware, but shipping with a broken YouTube experience is an embarrassing failure of basic launch-day coordination.
+
+- **PSA: YouTube app not working on your new Apple TV? Here’s the fix** (2026-11-13)
+  - The YouTube launch bug is easy to fix, but a flagship streaming box failing at its most obvious app exposes avoidable coordination failures.
 
 - **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
   - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.

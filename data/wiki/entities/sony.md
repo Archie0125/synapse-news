@@ -1,11 +1,14 @@
 # Sony
 
 
-*Mentioned in 16 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
 
+
+- **The Motorola Signature 27 is a beast** (2026-11-13)
+  - Motorola built a spec-sheet monster, but at $1,600 the Signature 27 must prove extreme numbers improve daily use, not merely launch-day attention.
 
 - **25 years later, Xbox is trying to reinvent itself again** (2026-11-12)
   - Xbox’s survival depends less on another console war than on rediscovering the platform-level boldness that made its original hardware matter.
@@ -48,6 +51,3 @@
 
 - **What discs can a PlayStation 5 play?** (2026-11-07)
   - Sony is ending disc-based games in 2028, so the PS5's broad disc compatibility now matters less as a feature and more as a way to keep physical media alive.
-
-- **This see-through camera lets photographers maintain eye contact with their subjects** (2026-11-06)
-  - HOA's see-through camera has a clever idea about eye contact, but a 100-unit run with no sample photos makes it more of a design statement than a proven camera.

@@ -1,11 +1,20 @@
 # Intel
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti** (2026-11-13)
+  - The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
+
+- **Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs** (2026-11-13)
+  - Intel’s nearly invisible 260K Plus looks less like innovation than channel segmentation: a 100MHz trim packaged for selected prebuilt buyers.
+
+- **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil** (2026-11-13)
+  - Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
 
 - **$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump** (2026-11-10)
   - A $10 chip programmer that rescues locked ThinkPads from e-waste is a win for right-to-repair, and a reminder that corporate BIOS passwords protect less than IT thinks.
@@ -21,6 +30,3 @@
 
 - **ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids** (2026-11-07)
   - ASRock Rack's Diamond Rapids board ditches every standard PCIe slot for MCIO cables, a sign the classic expansion slot is dying in the data center.
-
-- **Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets** (2026-11-06)
-  - Nova Lake's 52 cores and big cache are aimed at AMD's X3D chips, but another new socket means Intel buyers are once again paying a motherboard tax.

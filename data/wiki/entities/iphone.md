@@ -1,11 +1,17 @@
 # iPhone
 
 
-*Mentioned in 13 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
 
+
+- **Why Apple's HomeView relies so heavily on your iPhone** (2026-11-13)
+  - HomeView’s iPhone dependence protects privacy and personalization, but turns Apple’s home hub into an ecosystem accessory rather than a truly standalone device.
+
+- **tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models** (2026-11-13)
+  - Siri AI reaching older Apple TVs is welcome, but requiring a nearby compatible device makes this ecosystem leverage rather than true on-box intelligence.
 
 - **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
   - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
@@ -42,6 +48,3 @@
 
 - **What is System Data on an iPhone's storage, and how much is normal?** (2026-11-07)
   - iPhone System Data is not a mystery. It is caches and leftovers that hurt more on 128GB phones now that Apple's storage upgrades cost more.
-
-- **Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack** (2026-11-06)
-  - SmartTag 3 is a well-built tracker with a strange limitation: it supports iPhones but skips Google's own Find Hub network, which hurts Android users outside Samsung.

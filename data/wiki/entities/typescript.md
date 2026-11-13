@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **An AI agent believes whatever its tools send back** (2026-11-13)
+  - Publishing an output schema without enforcing it is security theater; reliable AI agents need runtime validation and confidence in the validator itself.
+
 - **Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor** (2026-11-11)
   - TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.
 
@@ -15,6 +18,3 @@
 
 - **POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today** (2026-11-09)
   - A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.
-
-- **TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class** (2026-11-06)
-  - TypeScript 7.1 Beta fixes 7.0's biggest mistake by giving tools their compiler API back, and content mappers may matter even more for Vue and Svelte.

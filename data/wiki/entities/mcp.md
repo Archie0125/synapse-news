@@ -1,11 +1,14 @@
 # MCP
 
 
-*Mentioned in 6 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
+
+- **An AI agent believes whatever its tools send back** (2026-11-13)
+  - Publishing an output schema without enforcing it is security theater; reliable AI agents need runtime validation and confidence in the validator itself.
 
 - **How an AI agent schedules my social posts over MCP** (2026-11-12)
   - Statuz shows agent automation becomes trustworthy when the server—not the model—owns timing, permissions, and publishing guardrails.

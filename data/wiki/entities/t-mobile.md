@@ -1,7 +1,7 @@
 # T-Mobile
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -24,6 +24,3 @@
 
 - **Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel** (2026-11-10)
   - Google Fi is bringing back network switching, its original selling point, but without naming the second carrier it's hard to judge how much better the 'super network' really is.
-
-- **Apple Store now offers extended holiday returns for all products** (2026-11-06)
-  - Apple's extended holiday return window is standard retail practice, but it quietly makes buying early a no-risk move, which pulls holiday revenue forward.

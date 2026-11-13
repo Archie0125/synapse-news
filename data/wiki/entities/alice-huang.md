@@ -1,11 +1,17 @@
 # Alice Huang
 
 
-*Mentioned in 27 articles*
+*Mentioned in 29 articles*
 
 
 ## Recent Mentions
 
+
+- **How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation** (2026-11-13)
+  - The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
+
+- **Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang** (2026-11-13)
+  - Alleged chip-smuggling networks show export controls are only as strong as reseller tracing and end-use enforcement, not the rules written in Washington.
 
 - **Jensen Huang’s $470 Billion Affair** (2026-11-12)
   - Huang’s affair became a national-security and governance crisis because Nvidia’s chips, China policy, and founder-centric credibility were already inseparable.
@@ -45,9 +51,3 @@
 
 - **Congress to call Jensen Huang in to answer for alleged Chinese spy affair** (2026-11-11)
   - Jensen Huang's personal scandal is now a national security issue in Congress, and that puts Nvidia's ties to Washington at risk.
-
-- **Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang** (2026-11-10)
-  - If the reporting holds, Nvidia's China export problem wasn't a leaky supply chain. It was a governance failure that ran right up to the CEO.
-
-- **Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline** (2026-11-10)
-  - Jensen Huang's affair is a personal scandal, but the alleged link to a $4.8 billion Nvidia chip buyer turns it into a national security question.

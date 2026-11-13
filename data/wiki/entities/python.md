@@ -1,7 +1,7 @@
 # Python
 
 
-*Mentioned in 8 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -9,6 +9,15 @@
 
 - **VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python** (2026-11-13)
   - BIGF makes agent governance refreshingly concrete, but three thresholds and a signed token are a starting control—not a complete safety system.
+
+- **Positional-Only Arguments** (2026-11-13)
+  - Python’s slash protects API semantics and future flexibility, though overusing positional-only parameters can make unfamiliar calls harder to read.
+
+- **Keyword-Only Arguments** (2026-11-13)
+  - Python’s tiny asterisk can make APIs substantially clearer by forcing important arguments to explain themselves at every call site.
+
+- **An AI agent believes whatever its tools send back** (2026-11-13)
+  - Publishing an output schema without enforcing it is security theater; reliable AI agents need runtime validation and confidence in the validator itself.
 
 - **How to read and validate a CAS Registry Number (with a Python check-digit example)** (2026-11-12)
   - A CAS check digit catches typos but not wrong substances, and confusing 'well-formed' with 'correct' is how bad chemical data spreads.
@@ -24,9 +33,3 @@
 
 - **Hosting gratis para bots de Discord: guía práctica 2026** (2026-11-07)
   - A founder-written guide with an honest point: free Discord bot hosting is mostly about expiry dates, and a 4-day renewal cycle is a leash, not a gift.
-
-- **Sensitive Data Discovery in Python: Build a PII Scanner That Validates, Not Just Matches** (2026-11-06)
-  - A PII scanner built only on regexes produces reports nobody reads. Adding real validation, like Luhn checks and IBAN checksums, is what makes data discovery usable for compliance.
-
-- **Cara mencari di Google Patents dari Python tanpa API key** (2026-11-06)
-  - Google Patents has no official API, so developers scrape its hidden JSON endpoint; it works until five queries in, which is a fragile base for any product.

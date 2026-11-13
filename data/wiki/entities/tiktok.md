@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **What&#8217;s really at stake in the Jensen Huang saga** (2026-11-13)
+  - Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
+
 - **Google really needs you to know it cares about smart glasses privacy** (2026-11-12)
   - Google understands that smart glasses will fail socially before they fail technically, but privacy promises still need visible, enforceable proof.
 
@@ -15,6 +18,3 @@
 
 - **Meet Drops, the new music app bringing back the fun of sharing songs with friends** (2026-11-09)
   - Samsung's Harman launches Drops to make music sharing feel personal again, but it does so with the same TikTok-style infinite scroll that made discovery impersonal.
-
-- **The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules** (2026-11-06)
-  - The EU's demand that TikTok stop using watch time to rank videos goes after the core of its business, not just a bad feature.

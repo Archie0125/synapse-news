@@ -1,127 +1,95 @@
 # Industry
 
 
-*550 articles in the last 7 days*
+*560 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Xbox announces Wolfenstein 3
+### This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood
 
-*The Verge | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Wolfenstein 3's return is welcome, but a script photo and motion-capture tease are hype scaffolding—not yet evidence of a great sequel.
+Mansa’s AI microdrama expands Black stories by shrinking Black employment, exposing the contradiction at the heart of automated representation.
 
 
-### Donald Trump really wants Tim Cook to run Nvidia
+### The Microsoft Outage Is a Warning for the World
 
-*The Verge | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
 
 
-### Nvidia employees petition to bring back Jensen Huang
+### The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat
 
-*Hacker News | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Employee loyalty underscores Huang's impact, but founder nostalgia is a poor substitute for independent governance around serious reported misconduct.
+Saving Hubble could validate commercial satellite servicing, but NASA must weigh scientific upside against the nonnegotiable need for a controlled ending.
 
 
-### GitHub availability report: October 2026
+### TCL QM7L Mini-LED TV Review (2026)
 
-*GitHub Blog | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
+TCL’s QM7L makes OLED-like picture quality affordable, but its awkward pedestal proves one careless hardware choice can spoil an otherwise excellent value.
 
 
-### The Corporate LLM Gateway: Why GPU-Hour Is the Wrong Metric
+### Peacock Promo Codes: 40% Off November 2026
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Cheap GPU-hours make attractive spreadsheets, but corporate LLM projects live or die on auditability, payment operations and provider resilience.
+Peacock’s discount is attractive, but an annual bargain becomes another bill unless its sports and NBCUniversal catalog genuinely earn your screen time.
 
 
-### Choosing a Specialized GEO Marketing Partner in South Korea With a Reviewable Source Manifest
+### LG Promo Codes and Coupons for November 2026
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-The source-manifest advice is solid, but the disclosed self-recommendation makes this a useful workflow wrapped in vendor marketing—not an independent ranking.
+LG's up-to-20-percent reward is attractive on expensive gear, but 'back' is not an immediate discount—read eligibility before buying.
 
 
-### Apple TV just debuted three new originals, including a heist thriller series
+### Jensen Huang and the End of the Founder Fairy Tale
 
-*9to5Mac | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Apple TV’s triple premiere matters less for volume than for making accessibility a product feature alongside prestige storytelling.
+Nvidia's dominance has turned Jensen Huang into mythology, but family-mediated access and choreographed interviews expose the governance risk beneath the founder halo.
 
 
-### Walmart Early Black Friday Deals Double as Great Gifts (2026)
+### Instacart Promo Code: $15 Off | November 2026
 
-*Wired | 2026-11-12*
+*Wired | 2026-11-13*
 
 
-Walmart’s gift deals are useful, but its cheap membership trial turns holiday urgency into a recurring-revenue funnel shoppers must actively escape.
+Instacart's introductory discounts are useful, but convenience—not coupons—is the real product, and recurring economics matter once free delivery ends.
 
 
-### The 10 Best Early Black Friday TV Deals (2026)
+### Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen
 
-*Wired | 2026-11-12*
+*Wired | 2026-11-13*
 
 
-Early Black Friday makes full-price TVs look indefensible, but shoppers should compare historical prices instead of trusting deal labels or manufactured urgency.
+Apple's Neuromancer finally has momentum, but its real challenge is making cyberpunk's blueprint feel new after Hollywood spent four decades borrowing from it.
 
 
-### Synchron Pauses Trials of Its Brain Implant Due to Performance Issues
+### Gametime Promo Code: Save on Tickets in November 2026
 
-*Wired | 2026-11-12*
+*Wired | 2026-11-13*
 
 
-Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
+Gametime's $20 code sounds generous, but on a $200 minimum it is only 10 percent—comparison shopping still matters more than coupon theater.
 
 
-### Silicon Valley Is Still Defending Jensen Huang
+### Even Black Friday Will Be More Expensive Than Usual
 
-*Wired | 2026-11-12*
+*Wired | 2026-11-13*
 
 
-Silicon Valley’s defense of Jensen Huang shows founder worship can outlast serious governance alarms when one leader embodies an industry’s fortunes.
-
-
-### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
-
-*Wired | 2026-11-12*
-
-
-The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
-
-
-### Roborock Robot Vacuum Early Black Friday Deals (2026)
-
-*Wired | 2026-11-12*
-
-
-Roborock’s sub-$700 deals undercut today’s inflated robot-vacuum market, but an early sale is compelling only if the model fits your home—not the countdown.
-
-
-### Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year
-
-*Wired | 2026-11-12*
-
-
-Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
-
-
-### Meet Colette Kress, Nvidia’s New Interim CEO
-
-*Wired | 2026-11-12*
-
-
-Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
+Black Friday's discount theater is colliding with real component inflation, so shoppers should judge final prices—not the size of the crossed-out percentage.

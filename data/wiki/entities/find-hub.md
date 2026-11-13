@@ -1,7 +1,7 @@
 # Find Hub
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth** (2026-11-10)
   - Pixel Tag is the best Android tracker so far, mostly because Google built in features third parties could only bolt on through separate apps.
-
-- **Google's Find Hub can finally notify you if you've left a tracker behind** (2026-11-06)
-  - Google finally added left-behind alerts to Find Hub, years after Apple and Samsung. The feature is fine. Android's slow response to obvious gaps is the real story.

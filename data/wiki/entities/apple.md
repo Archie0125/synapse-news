@@ -1,53 +1,53 @@
 # Apple
 
 
-*Mentioned in 155 articles*
+*Mentioned in 159 articles*
 
 
 ## Recent Mentions
 
 
-- **Donald Trump really wants Tim Cook to run Nvidia** (2026-11-13)
-  - Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+- **macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64** (2026-11-13)
+  - Stela revives the Hackintosh dream through audacious translation, but today it is a technical demonstration—not a practical Mac replacement.
 
-- **Apple’s HomeView Tries Face Authentication Without FaceID** (2026-11-12)
-  - HomeView makes shared computing feel effortless, but Apple is trading Face ID’s certainty for ambient recognition with a larger margin for error.
+- **The new Apple TV has a YouTube problem** (2026-11-13)
+  - The new Apple TV remains excellent hardware, but shipping with a broken YouTube experience is an embarrassing failure of basic launch-day coordination.
 
-- **Foundation Models framework** (2026-11-12)
-  - Apple is turning model choice into a Swift implementation detail, potentially owning the developer layer even when Claude or Gemini does the thinking.
+- **Apple announces release dates for the first Apple Home Collection smart devices** (2026-11-13)
+  - Apple’s Home Collection finally gives its smart-home push physical breadth, but premium prices and staggered availability weaken the ecosystem’s opening pitch.
 
-- **AI is turning Apple's app review process into a nightmare for synth developers** (2026-11-12)
-  - AI coding has democratized app creation, but Apple’s human review capacity is becoming the new bottleneck—and responsible developers are paying the price.
+- **Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri** (2026-11-13)
+  - Apple’s Siri preview could make apps conversationally programmable, but its value depends on reliable action routing—not another polished assistant demo.
 
-- **Pre-orders for some Apple Home Collection devices will open November 13** (2026-11-12)
-  - Apple’s home ecosystem is finally becoming tangible, but premium camera pricing means privacy and integration must justify more than the logo.
+- **Presentation: The Influence Toolkit** (2026-11-13)
+  - For senior technologists, influence is not soft-skill decoration; it is the mechanism that turns technical judgment into organizational outcomes.
 
-- **Nintendo is ending Google and Apple sign-ins early next year** (2026-11-12)
-  - Nintendo’s login cleanup may improve account independence, but unexplained migrations turn sensible security housekeeping into avoidable customer friction.
+- **Switcher (2004)** (2026-11-13)
+  - Switcher’s origin story shows that one concrete competitor demo can expose a product blind spot faster than years of platform dogma.
 
-- **Apple TV 4K (4th gen) review: Still great, but drastically more expensive** (2026-11-12)
-  - The fourth-generation Apple TV 4K remains an excellent streamer, but its $299 price turns premium polish into an increasingly difficult indulgence.
+- **Why Apple's HomeView relies so heavily on your iPhone** (2026-11-13)
+  - HomeView’s iPhone dependence protects privacy and personalization, but turns Apple’s home hub into an ecosystem accessory rather than a truly standalone device.
 
-- **Apple Sports adds live UFC updates** (2026-11-12)
-  - UFC support turns Apple Sports from a score checker into a persistent attention layer across the iPhone and Apple Watch.
+- **Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple** (2026-11-13)
+  - Surface Laptop Ultra proves Windows can offer serious local-AI muscle, but its premium pricing still fails to close Apple's overall advantage.
 
-- **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
-  - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
+- **tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models** (2026-11-13)
+  - Siri AI reaching older Apple TVs is welcome, but requiring a nearby compatible device makes this ecosystem leverage rather than true on-box intelligence.
 
-- **President Trump calls on Tim Cook to be next NVIDIA CEO** (2026-11-12)
-  - Trump's Tim Cook endorsement is headline-ready but strategically hollow: Nvidia needs a credible semiconductor successor, not presidential fan casting.
+- **This tiny iOS 27 camera feature really makes a huge difference** (2026-11-13)
+  - iOS 27’s customizable Camera controls are a small interface change that meaningfully weakens the case for third-party apps on the iPhone 18 Pro.
 
-- **Mount Thor raises $45 million to build Mac data centers for AI agents** (2026-11-12)
-  - Mount Thor is betting macOS will become scarce cloud infrastructure for AI agents, but its $45 million raise also exposes how hardware-heavy that niche is.
+- **Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future** (2026-11-13)
+  - Secure Exclaves show Apple is treating ambient sensing as a security problem, but data collection matters more than the architecture’s branding.
 
-- **iOS 27’s Find My app adds convenient feature I’ve long wished for** (2026-11-12)
-  - Find My’s custom sharing timers are a small upgrade with outsized privacy value because temporary access no longer depends on users remembering to revoke it.
+- **PSA: YouTube app not working on your new Apple TV? Here’s the fix** (2026-11-13)
+  - The YouTube launch bug is easy to fix, but a flagship streaming box failing at its most obvious app exposes avoidable coordination failures.
 
-- **HomeView review, new Apple TV launches, Apple holiday ad** (2026-11-12)
-  - Apple’s smart-home ambitions will be judged by HomeView’s daily usefulness, especially Siri and audio quality, not by another polished launch cycle.
+- **New Apple TV 4K and HomeView now available: Here’s everything you need to know** (2026-11-13)
+  - HomeView and the new Apple TV turn Siri AI into ambient household hardware, but Apple still must prove intelligence—not silicon—earns their place in every room.
 
-- **Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more** (2026-11-12)
-  - Grok Bot’s Apple integrations make it far more useful, but access to messages, mail, location, and contacts turns convenience into a serious trust decision.
+- **iOS 27.2 has two CarPlay improvements, here’s what’s new** (2026-11-13)
+  - iOS 27.2 makes CarPlay more useful through smarter retrieval, but its headline gains are inherited app and Siri upgrades rather than a true driving-interface rethink.
 
-- **Google’s new Android XR glasses work with iOS, Made for iPhone certified** (2026-11-12)
-  - Google wisely made its XR glasses iPhone-friendly, but invisible camera use during Gemini analysis could matter more to public trust than any certification.
+- **Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more** (2026-11-13)
+  - Amazon’s Apple sale is mostly noise around one tiny launch discount; the real value sits in older hardware clearance and mature accessories.

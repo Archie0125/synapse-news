@@ -1,11 +1,29 @@
 # Google
 
 
-*Mentioned in 111 articles*
+*Mentioned in 109 articles*
 
 
 ## Recent Mentions
 
+
+- **The new Apple TV has a YouTube problem** (2026-11-13)
+  - The new Apple TV remains excellent hardware, but shipping with a broken YouTube experience is an embarrassing failure of basic launch-day coordination.
+
+- **Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures** (2026-11-13)
+  - AQuA targets AI agents’ real reliability gap: technically successful requests can still fail users, and infrastructure dashboards cannot detect that alone.
+
+- **You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’** (2026-11-13)
+  - Gemini’s Wallet connector makes personal finance advice unusually practical, but convenience now depends on trusting Google and Plaid with an intimate map of spending.
+
+- **Pixel Watch update brings a sweet redesign I wish was on more apps** (2026-11-13)
+  - Google's Pixel Watch icon redesign is a tiny win showing that functional visual coherence matters more than applying another generic gradient.
+
+- **I’d rather use Android XR glasses over Meta Ray-Bans for the app alone** (2026-11-13)
+  - Android XR's simplest advantage may be its best: a clean companion app can beat Meta on everyday usability before hardware specifications even matter.
+
+- **Android Auto 18.2 update starts rolling out with more light mode teases** (2026-11-13)
+  - Android Auto 18.2 looks uneventful, but fixing invisible reliability failures matters more to drivers than teasing another unfinished light mode.
 
 - **Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year** (2026-11-12)
   - Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
@@ -33,21 +51,3 @@
 
 - **Gemini 4 Hydrogen** (2026-11-12)
   - Hydrogen is Google’s bid to make frontier AI routine: near-top benchmark scores, broad distribution, and pricing designed for high-volume execution rather than prestige demos.
-
-- **Gemini 4 Hydrogen and Orchestrator** (2026-11-12)
-  - Google’s Orchestrator suggests the next AI advantage is not one superior model, but knowing exactly when to switch between expensive judgment and cheap execution.
-
-- **Google Search gets a major upgrade with Gemini 4 Hydrogen** (2026-11-12)
-  - Gemini 4 Hydrogen makes Search more capable, but its real test is whether richer AI answers help users discover the web instead of replacing it.
-
-- **The first batch of Android XR smartglasses made me rethink my stance on specs without displays** (2026-11-12)
-  - Google’s display-free smartglasses suggest everyday usefulness and good design may matter more than squeezing a screen into the first generation.
-
-- **Nintendo is ending Google and Apple sign-ins early next year** (2026-11-12)
-  - Nintendo’s login cleanup may improve account independence, but unexplained migrations turn sensible security housekeeping into avoidable customer friction.
-
-- **Google really needs you to know it cares about smart glasses privacy** (2026-11-12)
-  - Google understands that smart glasses will fail socially before they fail technically, but privacy promises still need visible, enforceable proof.
-
-- **Google’s new Android XR glasses work with iOS, Made for iPhone certified** (2026-11-12)
-  - Google wisely made its XR glasses iPhone-friendly, but invisible camera use during Gemini analysis could matter more to public trust than any certification.

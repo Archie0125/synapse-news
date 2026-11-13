@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Jensen Huang didn’t show confidence in his successor, report says** (2026-11-13)
+  - Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
+
 - **Meet Colette Kress, Nvidia’s New Interim CEO** (2026-11-12)
   - Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
 
@@ -18,9 +21,6 @@
 
 - **Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations** (2026-11-12)
   - Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
-
-- **Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO** (2026-11-12)
-  - Huang’s exit exposes Nvidia’s founder dependence; its next test is proving the AI empire is an institution, not one man’s momentum.
 
 - **Jensen Huang was having a third affair, Reuters reports** (2026-11-12)
   - Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.

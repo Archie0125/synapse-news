@@ -7,6 +7,18 @@
 ## Recent Mentions
 
 
+- **Jensen Huang and the End of the Founder Fairy Tale** (2026-11-13)
+  - Nvidia's dominance has turned Jensen Huang into mythology, but family-mediated access and choreographed interviews expose the governance risk beneath the founder halo.
+
+- **Meta discussed attacking Jonathan Haidt — now even his haters are annoyed** (2026-11-13)
+  - Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.
+
+- **Silicon Valley claims to know the future. So why did it get the midterms so wrong?** (2026-11-13)
+  - Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
+
+- **This year’s Meta Quest 3S early Black Friday doorbuster deal is the best I’ve ever seen** (2026-11-13)
+  - Meta’s Quest 3S bundle is a genuinely aggressive holiday deal, but the gift card and game extras matter only if buyers will actually use them.
+
 - **Here’s How Google Says It’s Making Its Smart Glasses More Private** (2026-11-12)
   - Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
 
@@ -39,15 +51,3 @@
 
 - **WhatsApp may soon replace the Communities tab on iOS** (2026-11-11)
   - WhatsApp swapping Communities for a Contacts tab with online status quietly admits that people want to see who's online now more than they want group features.
-
-- **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
-  - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.
-
-- **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
-  - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
-
-- **New WhatsApp head wants to make the app easier to use, give its AI more chops** (2026-11-10)
-  - WhatsApp's new chief says he wants simplicity while also promising loans, eSIMs and bill pay, which is exactly the kind of feature growth that made the app complicated.
-
-- **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (2026-11-10)
-  - Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.

@@ -1,11 +1,14 @@
 # iOS
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **My favorite recipe app just got a big upgrade — and a subscription fee** (2026-11-13)
+  - Paprika 4 makes a credible case for subscriptions by funding meaningful cross-platform upgrades while preserving a genuinely useful free tier.
 
 - **Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%** (2026-11-12)
   - Opera’s Data Saver is genuinely useful on costly connections, but routing content through compression servers makes privacy disclosure as important as the advertised 80% savings.

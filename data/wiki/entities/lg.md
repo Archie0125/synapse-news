@@ -1,11 +1,17 @@
 # LG
 
 
-*Mentioned in 6 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **LG Promo Codes and Coupons for November 2026** (2026-11-13)
+  - LG's up-to-20-percent reward is attractive on expensive gear, but 'back' is not an immediate discount—read eligibility before buying.
+
+- **Apple Home’s new video doorbell, smart cameras now available to order** (2026-11-13)
+  - Apple’s first Home Collection cameras sell ecosystem simplicity at luxury prices, testing whether Home app convenience can outweigh cheaper, more mature security options.
 
 - **Pre-orders for some Apple Home Collection devices will open November 13** (2026-11-12)
   - Apple’s home ecosystem is finally becoming tangible, but premium camera pricing means privacy and integration must justify more than the logo.

@@ -1,7 +1,7 @@
 # Gmail
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **Gmail users should know about this little-noticed feature** (2026-11-09)
   - Gmail's unsend button is really a send delay, and knowing that helps you use it well: set the longest delay and read your email once more before it goes.
-
-- **Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now** (2026-11-06)
-  - Meta's Muse 'spaces' make a real bid for AI-built personal apps, and also give Meta a continuous feed of your Gmail, calendar, and shopping data.

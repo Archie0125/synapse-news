@@ -1,10 +1,90 @@
 # Startups
 
 
-*171 articles in the last 7 days*
+*157 articles in the last 7 days*
 
 
 ## Latest
+
+
+### This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood
+
+*Wired | 2026-11-13*
+
+
+Mansa’s AI microdrama expands Black stories by shrinking Black employment, exposing the contradiction at the heart of automated representation.
+
+
+### Uber confirms hackers stole thousands of drivers’ license information in data breach
+
+*TechCrunch | 2026-11-13*
+
+
+Uber’s breach shows artificial intelligence vendors are becoming high-value supply-chain targets long before customers build adequate controls around them.
+
+
+### Microsoft’s latest email outage turned into a full blown global cloud crisis
+
+*TechCrunch | 2026-11-13*
+
+
+Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
+
+
+### Jensen Huang didn’t show confidence in his successor, report says
+
+*TechCrunch | 2026-11-13*
+
+
+Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
+
+
+### Israel’s VCs see opportunity for challengers in Nvidia’s turmoil
+
+*TechCrunch | 2026-11-13*
+
+
+Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
+
+
+### ElevenLabs’ new app combines meeting note-taking and dictation for teams
+
+*TechCrunch | 2026-11-13*
+
+
+ElevenAI’s feature bundle is compelling, but a crowded market means voice quality alone will not secure the team workflow.
+
+
+### ChatGPT’s new Wallet lets AI agents shop and check out for you
+
+*TechCrunch | 2026-11-13*
+
+
+ChatGPT Wallet makes agentic shopping tangible, but biometric approval solves only authorization—not whether users trust artificial intelligence to choose wisely.
+
+
+### Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr
+
+*SaaStr | 2026-11-13*
+
+
+This chaotic week exposed the same fault line across venture and artificial intelligence: ambitious structures survive only while liquidity and demand cooperate.
+
+
+### Dear SaaStr: What Is the Difference Between a Good Salesman and a Great One?
+
+*SaaStr | 2026-11-13*
+
+
+Great sales reps win through customer understanding and product mastery, making discount-heavy scripts look less like selling and more like surrender.
+
+
+### 5 Interesting Learnings from Palantir at $9.3 Billion Run-Rate: 96% Growth, 165% NRR, and U.S. Commercial Passing Government for the First Time
+
+*SaaStr | 2026-11-13*
+
+
+Palantir’s growth is extraordinary, but the post-earnings decline shows its valuation now demands perfection beyond even 96% revenue growth.
 
 
 ### Synchron Pauses Trials of Its Brain Implant Due to Performance Issues
@@ -13,30 +93,6 @@
 
 
 Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
-
-
-### SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions
-
-*TechCrunch | 2026-11-12*
-
-
-SoftBank’s turbine loss shows that betting on AI demand is easier than predicting exactly when, where, and how its electricity will be needed.
-
-
-### Phota Labs uses AI to turn everyday photos into professional-looking shots
-
-*TechCrunch | 2026-11-12*
-
-
-Phota Labs makes AI editing feel effortless, but its promise of proactive camera-roll assistance will succeed only if authenticity and privacy survive the automation.
-
-
-### Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s exit exposes Nvidia’s founder dependence; its next test is proving the AI empire is an institution, not one man’s momentum.
 
 
 ### Norwest pushes deeper into AI with new $4B fund
@@ -77,67 +133,3 @@ Nebius’s $40 billion bet could validate neocloud financing, but contract-backe
 
 
 Muse’s calling feature makes agents tangibly useful, but charging $20 monthly turns saved awkwardness into a premium convenience before trust norms are settled.
-
-
-### Microsoft’s Outlook email hit by new outage
-
-*TechCrunch | 2026-11-12*
-
-
-Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
-
-
-### Jensen Huang’s exit puts Nvidia’s support for open source in question
-
-*TechCrunch | 2026-11-12*
-
-
-Nvidia’s open-source commitment now faces its clearest test: whether it was durable strategy or merely Jensen Huang’s useful counterweight to frontier labs.
-
-
-### Jensen Huang was having a third affair, Reuters reports
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.
-
-
-### Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?
-
-*TechCrunch | 2026-11-12*
-
-
-Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
-
-
-### Jensen Huang agrees to testify before Congress
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s closed-door testimony may answer security questions, but secrecy will make rebuilding public trust much harder.
-
-
-### Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
-
-*TechCrunch | 2026-11-12*
-
-
-Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
-
-
-### Google’s latest Search upgrade promises better answers to your most complicated questions
-
-*TechCrunch | 2026-11-12*
-
-
-Hydrogen suggests Search’s real advantage will come from fast model routing, not always deploying the smartest model—if Google’s claims survive everyday queries.
-
-
-### Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s ouster threatens more than Nvidia’s roadmap because chip supply, AI policy, and geopolitical trust had become unusually concentrated around one executive.

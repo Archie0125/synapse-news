@@ -1,11 +1,14 @@
 # TCL
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **TCL QM7L Mini-LED TV Review (2026)** (2026-11-13)
+  - TCL’s QM7L makes OLED-like picture quality affordable, but its awkward pedestal proves one careless hardware choice can spoil an otherwise excellent value.
 
 - **I asked every TV manufacturer 17 questions about how they spy on you** (2026-11-11)
   - Forcing TV makers into yes-or-no answers is the best privacy test yet, and the companies that declined to answer told you plenty.

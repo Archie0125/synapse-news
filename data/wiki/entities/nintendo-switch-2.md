@@ -1,11 +1,14 @@
 # Nintendo Switch 2
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12** (2026-11-13)
+  - At $51.12, 8BitDo’s feature-rich controller is an easy recommendation—provided Switch 2 owners accept a firmware-update detour.
 
 - **Hobbyist turns $45 USB-C hub into a working Nintendo Switch 2 dock by patching its firmware** (2026-11-12)
   - A 540-byte patch turning a $45 hub into a Switch 2 dock suggests Nintendo's incompatibility is an artificial handshake, not a hardware necessity.

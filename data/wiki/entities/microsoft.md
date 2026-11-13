@@ -1,11 +1,38 @@
 # Microsoft
 
 
-*Mentioned in 39 articles*
+*Mentioned in 45 articles*
 
 
 ## Recent Mentions
 
+
+- **The Microsoft Outage Is a Warning for the World** (2026-11-13)
+  - Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
+
+- **Japanese workers return to fax machines during ongoing Microsoft 365 outage** (2026-11-13)
+  - Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
+
+- **Microsoft&#8217;s massive Outlook outage continues** (2026-11-13)
+  - A configuration change apparently disrupted Microsoft’s productivity empire for nearly two days, showing how one cloud fault can paralyze millions of workplaces.
+
+- **Microsoft’s latest email outage turned into a full blown global cloud crisis** (2026-11-13)
+  - Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
+
+- **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil** (2026-11-13)
+  - Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
+
+- **Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary** (2026-11-13)
+  - AI coding does not dilute accountability; it exposes teams that confused code production with engineering ownership long before copilots arrived.
+
+- **"LibreOffice works 365 days a year. Just saying."** (2026-11-13)
+  - LibreOffice turned Microsoft’s subscription branding into an effective reliability joke, showing that open-source ownership remains a potent marketing advantage.
+
+- **Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple** (2026-11-13)
+  - Surface Laptop Ultra proves Windows can offer serious local-AI muscle, but its premium pricing still fails to close Apple's overall advantage.
+
+- **Microsoft services are returning after an outage took down Outlook, Teams and more** (2026-11-13)
+  - Microsoft's recovery does not erase the warning: concentrating email, chat and AI in one cloud turns a service fault into institutional paralysis.
 
 - **Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email** (2026-11-12)
   - Microsoft 365’s outage is another reminder that bundling an organization’s email, meetings, files, security, and AI into one cloud also bundles their failure modes.
@@ -24,30 +51,3 @@
 
 - **Nebius tests the neocloud playbook with $40 billion in planned spending** (2026-11-12)
   - Nebius’s $40 billion bet could validate neocloud financing, but contract-backed debt becomes a trap when delayed capacity pushes revenue rightward and costs upward.
-
-- **Microsoft’s Outlook email hit by new outage** (2026-11-12)
-  - Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
-
-- **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?** (2026-11-12)
-  - Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
-
-- **Azure Logic Apps Standard Gets a Local CLI in Preview** (2026-11-12)
-  - Azure Logic Apps finally gains a credible terminal-first workflow, but preview status means automation teams should experiment before standardizing on it.
-
-- **Who is Collette Kress, NVIDIA's interim CEO?** (2026-11-12)
-  - Colette Kress offers NVIDIA financial continuity, but elevating a CFO without a succession plan underscores how unprepared the board was for a founder crisis.
-
-- **Multiple Microsoft 365 services are experiencing an outage** (2026-11-12)
-  - Microsoft 365’s multi-service outage exposes the downside of an integrated productivity cloud: one infrastructure failure can disable an organization’s entire digital workplace.
-
-- **SC-400: The Exam That Tests Whether You Know Which Purview Tool to Use — Not Just What the Buttons Do** (2026-11-12)
-  - SC-400 tests judgment among overlapping Purview tools more than knowledge of each one, which says as much about Microsoft's sprawl as about the exam.
-
-- **Microsoft Outlook experiencing widespread outage** (2026-11-12)
-  - Outlook’s mass outage shows that enterprise email remains a single point of failure, no matter how sophisticated Microsoft’s cloud branding becomes.
-
-- **CoreWeave turns to customer prepayments, shorter contracts to fund AI growth** (2026-11-11)
-  - CoreWeave is now asking customers to fund its buildout, which works while AI compute is scarce and becomes a problem if demand cools.
-
-- **Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor** (2026-11-11)
-  - TypeScript 7's Go rewrite broke Angular's compiler, and Angular's fix of rebuilding analysis in Rust on Oxc shows how far the JS toolchain has moved past JavaScript.

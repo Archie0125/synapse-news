@@ -1,11 +1,14 @@
 # SaaStr
 
 
-*Mentioned in 14 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
 
+
+- **Dear SaaStr: What Is the Difference Between a Good Salesman and a Great One?** (2026-11-13)
+  - Great sales reps win through customer understanding and product mastery, making discount-heavy scripts look less like selling and more like surrender.
 
 - **Dear SaaStr: How Do You Become Successful at Enterprise Sales? What Are the Biggest Challenges People Experience?** (2026-11-12)
   - Enterprise sales is not funnel optimization at a larger price point; it is founder-led organizational problem solving with uncomfortable human contact.
@@ -42,9 +45,3 @@
 
 - **A Critical App We Pay For Went Down for 2 Days. They Never Offered a Credit. I Won’t Forget.** (2026-11-07)
   - A $330 credit nobody offered may cost a $60K renewal, proof that customers forgive outages but remember vendors who act like nothing happened.
-
-- **Top 5 Learnings from Vercel’s COO: 10 SDRs Down to 1, a $5K-a-Year Lead Agent, and 93% of Support Cases Handled by AI** (2026-11-06)
-  - Replacing 10 lead qualifiers with a $5K-a-year agent is no longer a forecast; Vercel did it in six weeks, and other GTM teams will now be measured against that math.
-
-- **SaaStr AI and 10K Featured in Wall Street Journal** (2026-11-06)
-  - SaaStr's AI marketing agent 10K has impressive numbers, but most of them are reported by SaaStr itself, and a 40% attendance jump after a 15% price cut is economics, not AI magic.

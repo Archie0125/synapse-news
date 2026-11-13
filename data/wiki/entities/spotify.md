@@ -1,11 +1,17 @@
 # Spotify
 
 
-*Mentioned in 3 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **Presentation: The Influence Toolkit** (2026-11-13)
+  - For senior technologists, influence is not soft-skill decoration; it is the mechanism that turns technical judgment into organizational outcomes.
+
+- **The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps** (2026-11-13)
+  - Xiaomi may have found a real use for rear screens: glanceable controls plus AI-made mini-apps, though execution will decide whether the idea survives novelty.
 
 - **Spotify’s AI DJ adds nine voices and a setting to reduce interruptions** (2026-11-10)
   - Spotify's most telling AI DJ upgrade isn't nine new voices; it's the setting that lets the DJ talk less, an admission that AI chatter has limits.

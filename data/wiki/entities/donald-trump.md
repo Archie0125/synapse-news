@@ -1,14 +1,17 @@
 # Donald Trump
 
 
-*Mentioned in 15 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions
 
 
-- **Donald Trump really wants Tim Cook to run Nvidia** (2026-11-13)
-  - Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+- **‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next** (2026-11-13)
+  - Stephen Miller's promotion concentrates Trump's immigration agenda in an experienced operator, making congressional opposition important but hardly sufficient to restrain the White House.
+
+- **The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan** (2026-11-13)
+  - Silicon Valley’s political misread and Nvidia’s chip-tracking contradiction share one lesson: public tech narratives deserve less trust than private incentives.
 
 - **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
   - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
@@ -48,6 +51,3 @@
 
 - **Lame-duck Congress might actually do something: speed up energy projects** (2026-11-06)
   - Permitting reform could cut power bills, but rushed through a lame-duck session it risks becoming a fast lane for AI data centers to skip local scrutiny.
-
-- **Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations** (2026-11-06)
-  - Apple's careful neutrality is about to get audited: a Democratic Congress wants to know whether its App Store calls on ICE apps were policy or politics.

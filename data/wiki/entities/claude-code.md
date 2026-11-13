@@ -7,6 +7,12 @@
 ## Recent Mentions
 
 
+- **Elevated errors on claude.ai, Claude Code, and platform.claude.com** (2026-11-13)
+  - Claude’s resolved authentication outage was brief, but its reach across chat, coding and platform tools exposes a dangerously concentrated failure domain.
+
+- **I write specs for a living. Claude Code built my NBA forecast** (2026-11-13)
+  - Claude Code made a non-programmer’s NBA product possible, but the real leverage came from rigorous specifications, public accountability, and unusually heavy testing.
+
 - **How an AI agent schedules my social posts over MCP** (2026-11-12)
   - Statuz shows agent automation becomes trustworthy when the server—not the model—owns timing, permissions, and publishing guardrails.
 
@@ -45,9 +51,3 @@
 
 - **How I Fight AI Brain Fry** (2026-11-08)
   - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.
-
-- **Goodbye Claude, hello Pi** (2026-11-08)
-  - A loyal Claude Code user defecting to Pi over small frictions shows coding harnesses are now judged on workflow polish, not raw model magic.
-
-- **Goldman Sachs is pulling Claude Code from its bankers and traders** (2026-11-08)
-  - Goldman's retreat from trader 'vibe coding' shows the real cost of AI coding tools isn't the license. It's non-engineers running code next to client data.

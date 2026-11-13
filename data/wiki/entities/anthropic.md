@@ -1,11 +1,17 @@
 # Anthropic
 
 
-*Mentioned in 44 articles*
+*Mentioned in 42 articles*
 
 
 ## Recent Mentions
 
+
+- **Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr** (2026-11-13)
+  - This chaotic week exposed the same fault line across venture and artificial intelligence: ambitious structures survive only while liquidity and demand cooperate.
+
+- **Elevated errors on claude.ai, Claude Code, and platform.claude.com** (2026-11-13)
+  - Claude’s resolved authentication outage was brief, but its reach across chat, coding and platform tools exposes a dangerously concentrated failure domain.
 
 - **Critical RCE Vulnerability in Apache HTTP Server** (2026-11-12)
   - Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.
@@ -45,9 +51,3 @@
 
 - **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
   - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.
-
-- **How to answer Claude Code or Codex from your phone** (2026-11-10)
-  - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
-
-- **Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?** (2026-11-09)
-  - Authors now have to prove they wrote their own books, and the 'Shy Girl' case shows that AI detectors are acting like judges even though they can be wrong.

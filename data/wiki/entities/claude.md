@@ -1,11 +1,17 @@
 # Claude
 
 
-*Mentioned in 16 articles*
+*Mentioned in 17 articles*
 
 
 ## Recent Mentions
 
+
+- **1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests** (2026-11-13)
+  - AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.
+
+- **Elevated errors on claude.ai, Claude Code, and platform.claude.com** (2026-11-13)
+  - Claude’s resolved authentication outage was brief, but its reach across chat, coding and platform tools exposes a dangerously concentrated failure domain.
 
 - **Foundation Models framework** (2026-11-12)
   - Apple is turning model choice into a Swift implementation detail, potentially owning the developer layer even when Claude or Gemini does the thinking.
@@ -45,9 +51,3 @@
 
 - **I counted every server in the official MCP Registry: 59,603 entries, and October alone added 16,282** (2026-11-08)
   - MCP's registry reached nearly 60,000 servers and October alone added 16,282, which looks like adoption but may increasingly be noise.
-
-- **The Components of Agent Memory** (2026-11-07)
-  - Agent memory isn't a storage problem but a curation problem, and 'dreaming' admits that raw logs are useless until something offline distills them.
-
-- **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
-  - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.

@@ -1,14 +1,11 @@
 # Xbox
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
-
-- **Xbox announces Wolfenstein 3** (2026-11-13)
-  - Wolfenstein 3's return is welcome, but a script photo and motion-capture tease are hype scaffolding—not yet evidence of a great sequel.
 
 - **Xbox owners are getting more customizations for backgrounds and the Guide menu** (2026-11-12)
   - Xbox's new customization tools are welcome quality-of-life improvements, though they feel modest beside the platform's larger questions about games and hardware.

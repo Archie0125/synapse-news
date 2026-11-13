@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **The Verge’s 2026 gift guide for dads** (2026-11-13)
+  - The guide sensibly treats dads as people with hobbies, though its gadget-heavy picks still confuse memorable gifts with expensive specifications.
+
 - **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
   - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.
 
@@ -18,6 +21,3 @@
 
 - **Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands** (2026-11-09)
   - Googlers using AI to build the Mac features Googlebook shipped without is impressive. It also shows how unfinished the platform still is.
-
-- **Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign** (2026-11-06)
-  - Remote Agents are the real story in Google's Antigravity update because coding agents can keep working after you close your laptop, while the redesign and Voice Mode matter much less.

@@ -1,7 +1,7 @@
 # iPhone Duo
 
 
-*Mentioned in 19 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
@@ -49,5 +49,5 @@
 - **Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand** (2026-11-07)
   - Anker's active cooling solves the real limit of MagSafe power banks, which is heat rather than speed, but $109.99 is a high price for a power bank.
 
-- **The iPhone Duo has more than 100,000 optimized apps, Apple says** (2026-11-06)
-  - Apple's 100,000-app milestone for the iPhone Duo shows how much leverage it has over developers, but even badged apps like Instagram still feel unfinished.
+- **The Duo apps are coming, says Apple** (2026-11-06)
+  - Apple's 100,000-app milestone shows it's fixing the Duo's software gap fast, but sellouts at $1,999 prove buyers never waited for the apps anyway.

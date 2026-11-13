@@ -1,11 +1,14 @@
 # Android Auto
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **Android Auto 18.2 update starts rolling out with more light mode teases** (2026-11-13)
+  - Android Auto 18.2 looks uneventful, but fixing invisible reliability failures matters more to drivers than teasing another unfinished light mode.
 
 - **Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price** (2026-11-11)
   - Motorola MA2 is a better adapter than its predecessor, but launching at $69.99 after promising about $40 turns a cheap fix into a hard sell.

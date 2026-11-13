@@ -1,7 +1,7 @@
 # The Legend of Zelda: Ocarina of Time
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **Costco members can get $5 off the reimagined Ocarina of Time** (2026-11-07)
   - A $5 Costco discount is small, but it shows Nintendo's Ocarina of Time remake is strong enough to hold full price almost everywhere else.
-
-- **Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM** (2026-11-06)
-  - Leaking Zelda on launch day is embarrassing for Nintendo, but early retail shipments are the bigger failure, and broken emulation is its only temporary protection.

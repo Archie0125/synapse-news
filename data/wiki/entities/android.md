@@ -1,11 +1,17 @@
 # Android
 
 
-*Mentioned in 8 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
+
+- **My favorite recipe app just got a big upgrade — and a subscription fee** (2026-11-13)
+  - Paprika 4 makes a credible case for subscriptions by funding meaningful cross-platform upgrades while preserving a genuinely useful free tier.
+
+- **Android Auto 18.2 update starts rolling out with more light mode teases** (2026-11-13)
+  - Android Auto 18.2 looks uneventful, but fixing invisible reliability failures matters more to drivers than teasing another unfinished light mode.
 
 - **Google Wallet can finally unlock doors with digital home keys** (2026-11-12)
   - Google Wallet’s home keys finally close an embarrassing Android gap, but sparse Aliro lock support keeps the convenience mostly theoretical.

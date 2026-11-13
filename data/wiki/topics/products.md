@@ -1,151 +1,159 @@
 # Products
 
 
-*998 articles in the last 7 days*
+*982 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Xbox announces Wolfenstein 3
+### The Microsoft Outage Is a Warning for the World
+
+*Wired | 2026-11-13*
+
+
+Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
+
+
+### TCL QM7L Mini-LED TV Review (2026)
+
+*Wired | 2026-11-13*
+
+
+TCL’s QM7L makes OLED-like picture quality affordable, but its awkward pedestal proves one careless hardware choice can spoil an otherwise excellent value.
+
+
+### Peacock Promo Codes: 40% Off November 2026
+
+*Wired | 2026-11-13*
+
+
+Peacock’s discount is attractive, but an annual bargain becomes another bill unless its sports and NBCUniversal catalog genuinely earn your screen time.
+
+
+### LG Promo Codes and Coupons for November 2026
+
+*Wired | 2026-11-13*
+
+
+LG's up-to-20-percent reward is attractive on expensive gear, but 'back' is not an immediate discount—read eligibility before buying.
+
+
+### Instacart Promo Code: $15 Off | November 2026
+
+*Wired | 2026-11-13*
+
+
+Instacart's introductory discounts are useful, but convenience—not coupons—is the real product, and recurring economics matter once free delivery ends.
+
+
+### Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen
+
+*Wired | 2026-11-13*
+
+
+Apple's Neuromancer finally has momentum, but its real challenge is making cyberpunk's blueprint feel new after Hollywood spent four decades borrowing from it.
+
+
+### Gametime Promo Code: Save on Tickets in November 2026
+
+*Wired | 2026-11-13*
+
+
+Gametime's $20 code sounds generous, but on a $200 minimum it is only 10 percent—comparison shopping still matters more than coupon theater.
+
+
+### ‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk
+
+*Wired | 2026-11-13*
+
+
+Ending Cybertruck production turns weak demand into a trust test, because Tesla must now prove that service and parts will outlast the vehicle's hype.
+
+
+### Bitdefender Antivirus Plus Review: Undercutting the Competition
+
+*Wired | 2026-11-13*
+
+
+Bitdefender's strong lab scores make its value pitch credible, but a dated Mac app and 700-MB footprint keep it from being an effortless recommendation.
+
+
+### 3 Best Walking Pad Treadmills for Homes and Offices (2026)
+
+*Wired | 2026-11-13*
+
+
+Walking pads can make sedentary work less damaging, but the best machine is the one you will consistently use—not the one with the longest feature list.
+
+
+### Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti
+
+*Tom's Hardware | 2026-11-13*
+
+
+The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
+
+
+### Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs
+
+*Tom's Hardware | 2026-11-13*
+
+
+Intel’s nearly invisible 260K Plus looks less like innovation than channel segmentation: a 100MHz trim packaged for selected prebuilt buyers.
+
+
+### Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy
+
+*Tom's Hardware | 2026-11-13*
+
+
+Secretlab’s retail push is smart because premium chairs are experienced products, and no online spec sheet can tell buyers whether their backs approve.
+
+
+### Japanese workers return to fax machines during ongoing Microsoft 365 outage
+
+*Tom's Hardware | 2026-11-13*
+
+
+Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
+
+
+### Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12
+
+*Tom's Hardware | 2026-11-13*
+
+
+At $51.12, 8BitDo’s feature-rich controller is an easy recommendation—provided Switch 2 owners accept a firmware-update detour.
+
+
+### 10 great PC upgrades for under $100
+
+*Tom's Hardware | 2026-11-13*
+
+
+With AI demand inflating core component costs, the smartest sub-$100 PC upgrades now improve usability and connectivity rather than benchmark scores.
+
+
+### What&#8217;s really at stake in the Jensen Huang saga
 
 *The Verge | 2026-11-13*
 
 
-Wolfenstein 3's return is welcome, but a script photo and motion-capture tease are hype scaffolding—not yet evidence of a great sequel.
+Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
 
 
-### Donald Trump really wants Tim Cook to run Nvidia
+### The Verge’s 2026 gift guide for dads
 
 *The Verge | 2026-11-13*
 
 
-Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+The guide sensibly treats dads as people with hobbies, though its gadget-heavy picks still confuse memorable gifts with expensive specifications.
 
 
-### Your LED Driver Feels Scorching Hot. "That's Normal" Is Only Half True.
+### The smallest version of Camp Snap’s retro digital camcorder fits on your keychain
 
-*Dev.to | 2026-11-13*
+*The Verge | 2026-11-13*
 
 
-A hot LED driver may be operating normally, but “too hot to touch” is no substitute for measuring its rated Tc point.
-
-
-### Wix image URLs: fill vs fit, enc_auto, Vary: Accept and the file behind /v1/
-
-*Dev.to | 2026-11-13*
-
-
-Wix image URLs are a useful transformation API disguised as filenames, but content negotiation makes casual URL inspection dangerously misleading.
-
-
-### Jira Automation with Rovo: 2 of 10 Rules Worked
-
-*Dev.to | 2026-11-13*
-
-
-Rovo’s 20-percent success rate shows AI-generated automation is still a draft generator, while silent failures and broad editing permissions create the real risk.
-
-
-### An EU Rule Puts a Minimum Charger Wattage on New Phone Boxes. For a Phone Camera on Permanent Power, It Is the Number to Check
-
-*Dev.to | 2026-11-13*
-
-
-The EU charger label turns obscure wattage into actionable information, but permanent phone-camera setups still need thermal and battery safeguards.
-
-
-### Accept crypto payments in NestJS
-
-*Dev.to | 2026-11-13*
-
-
-Moonvex makes crypto checkout look simple, but payment reliability depends on idempotency and verified webhooks—not the redirect code.
-
-
-### Apple TV just debuted three new originals, including a heist thriller series
-
-*9to5Mac | 2026-11-13*
-
-
-Apple TV’s triple premiere matters less for volume than for making accessibility a product feature alongside prestige storytelling.
-
-
-### Walmart Early Black Friday Deals Double as Great Gifts (2026)
-
-*Wired | 2026-11-12*
-
-
-Walmart’s gift deals are useful, but its cheap membership trial turns holiday urgency into a recurring-revenue funnel shoppers must actively escape.
-
-
-### The 10 Best Early Black Friday TV Deals (2026)
-
-*Wired | 2026-11-12*
-
-
-Early Black Friday makes full-price TVs look indefensible, but shoppers should compare historical prices instead of trusting deal labels or manufactured urgency.
-
-
-### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
-
-*Wired | 2026-11-12*
-
-
-The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
-
-
-### Roborock Robot Vacuum Early Black Friday Deals (2026)
-
-*Wired | 2026-11-12*
-
-
-Roborock’s sub-$700 deals undercut today’s inflated robot-vacuum market, but an early sale is compelling only if the model fits your home—not the countdown.
-
-
-### Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year
-
-*Wired | 2026-11-12*
-
-
-Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
-
-
-### Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email
-
-*Wired | 2026-11-12*
-
-
-Microsoft 365’s outage is another reminder that bundling an organization’s email, meetings, files, security, and AI into one cloud also bundles their failure modes.
-
-
-### Lovehoney Coupon Offers: 70% Off
-
-*Wired | 2026-11-12*
-
-
-Lovehoney’s 70-percent sale is useful commerce information, but the editorial wrapper should not obscure that this is fundamentally an affiliate shopping pitch.
-
-
-### Google and Samsung’s Android XR Smart Glasses Are Finally Here
-
-*Wired | 2026-11-12*
-
-
-Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
-
-
-### Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile
-
-*Wired | 2026-11-12*
-
-
-Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
-
-
-### Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More
-
-*Wired | 2026-11-12*
-
-
-Open earbuds are becoming genuinely useful all-day wearables, provided buyers accept that environmental awareness and strong isolation are opposite goals.
+Camp Snap’s keychain camcorder turns technical limitations into nostalgic charm, though mystery-box scarcity makes a playful camera feel unnecessarily collectible.

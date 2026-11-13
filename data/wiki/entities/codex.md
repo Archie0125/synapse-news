@@ -1,11 +1,14 @@
 # Codex
 
 
-*Mentioned in 4 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
+
+- **1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests** (2026-11-13)
+  - AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.
 
 - **Let Your Agent Pick the Model: Light Jobs to Fast Models, Hard Ones to the Strongest** (2026-11-12)
   - Writing model routing down as one plain-language rule is smarter than per-task picking, but it relies on the agent judging task difficulty correctly.

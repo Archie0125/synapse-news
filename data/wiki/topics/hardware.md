@@ -1,167 +1,127 @@
 # Hardware
 
 
-*472 articles in the last 7 days*
+*461 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Donald Trump really wants Tim Cook to run Nvidia
+### The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat
 
-*The Verge | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+Saving Hubble could validate commercial satellite servicing, but NASA must weigh scientific upside against the nonnegotiable need for a controlled ending.
 
 
-### Nvidia employees petition to bring back Jensen Huang
+### TCL QM7L Mini-LED TV Review (2026)
 
-*Hacker News | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-Employee loyalty underscores Huang's impact, but founder nostalgia is a poor substitute for independent governance around serious reported misconduct.
+TCL’s QM7L makes OLED-like picture quality affordable, but its awkward pedestal proves one careless hardware choice can spoil an otherwise excellent value.
 
 
-### GitHub availability report: October 2026
+### LG Promo Codes and Coupons for November 2026
 
-*GitHub Blog | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
+LG's up-to-20-percent reward is attractive on expensive gear, but 'back' is not an immediate discount—read eligibility before buying.
 
 
-### Your LED Driver Feels Scorching Hot. "That's Normal" Is Only Half True.
+### Jensen Huang and the End of the Founder Fairy Tale
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-A hot LED driver may be operating normally, but “too hot to touch” is no substitute for measuring its rated Tc point.
+Nvidia's dominance has turned Jensen Huang into mythology, but family-mediated access and choreographed interviews expose the governance risk beneath the founder halo.
 
 
-### Sub‑bit KV cache quantization doubles throughput
+### Even Black Friday Will Be More Expensive Than Usual
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-LoopVQ shows memory traffic—not compute—is the real long-context tax, though its headline gains still need validation beyond looped Ouro models.
+Black Friday's discount theater is colliding with real component inflation, so shoppers should judge final prices—not the size of the crossed-out percentage.
 
 
-### An EU Rule Puts a Minimum Charger Wattage on New Phone Boxes. For a Phone Camera on Permanent Power, It Is the Number to Check
+### ‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk
 
-*Dev.to | 2026-11-13*
+*Wired | 2026-11-13*
 
 
-The EU charger label turns obscure wattage into actionable information, but permanent phone-camera setups still need thermal and battery safeguards.
+Ending Cybertruck production turns weak demand into a trust test, because Tesla must now prove that service and parts will outlast the vehicle's hype.
 
 
-### The 10 Best Early Black Friday TV Deals (2026)
+### 3 Best Walking Pad Treadmills for Homes and Offices (2026)
 
-*Wired | 2026-11-12*
+*Wired | 2026-11-13*
 
 
-Early Black Friday makes full-price TVs look indefensible, but shoppers should compare historical prices instead of trusting deal labels or manufactured urgency.
+Walking pads can make sedentary work less damaging, but the best machine is the one you will consistently use—not the one with the longest feature list.
 
 
-### Synchron Pauses Trials of Its Brain Implant Due to Performance Issues
+### Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Synchron’s trial pause shows that a less invasive brain implant is compelling only if wireless convenience does not come at the cost of reliable performance.
+The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
 
 
-### Silicon Valley Is Still Defending Jensen Huang
+### Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Silicon Valley’s defense of Jensen Huang shows founder worship can outlast serious governance alarms when one leader embodies an industry’s fortunes.
+Intel’s nearly invisible 260K Plus looks less like innovation than channel segmentation: a 100MHz trim packaged for selected prebuilt buyers.
 
 
-### Rocco Classic Smart Fridge Review: A Cool Conversation Piece
+### Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-The Rocco Classic succeeds as beautiful drink furniture, but its forced smart features struggle to justify a price built on more than refrigeration.
+Secretlab’s retail push is smart because premium chairs are experienced products, and no online spec sheet can tell buyers whether their backs approve.
 
 
-### Roborock Robot Vacuum Early Black Friday Deals (2026)
+### Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Roborock’s sub-$700 deals undercut today’s inflated robot-vacuum market, but an early sale is compelling only if the model fits your home—not the countdown.
+SemiAnalysis flags a potentially massive enforcement failure, but converting gigawatts into GPUs—and speculation into causation—requires far more disclosure.
 
 
-### Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year
+### Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Mint’s $500 phone discount is genuinely aggressive, but the upfront annual payment and narrow device eligibility turn the bargain into a carefully engineered commitment.
+Malaysia and Singapore’s probes show AI-chip export controls now depend less on borders than on policing opaque regional supply chains.
 
 
-### Meet Colette Kress, Nvidia’s New Interim CEO
+### macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.
+Stela revives the Hackintosh dream through audacious translation, but today it is a technical demonstration—not a practical Mac replacement.
 
 
-### Jensen Huang’s $470 Billion Affair
+### Japanese workers return to fax machines during ongoing Microsoft 365 outage
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Huang’s affair became a national-security and governance crisis because Nvidia’s chips, China policy, and founder-centric credibility were already inseparable.
+Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
 
 
-### Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?
+### How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation
 
-*Wired | 2026-11-12*
+*Tom's Hardware | 2026-11-13*
 
 
-Huang’s exit gives Nvidia’s rivals a rare opening, but competitors still need products and software—not scandal—to break the company’s AI-computing grip.
-
-
-### Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women
-
-*Wired | 2026-11-12*
-
-
-Colette Kress becoming Nvidia’s interim CEO exposes a familiar succession blind spot: the capable woman was already present, powerful, and somehow still overlooked.
-
-
-### Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month
-
-*Wired | 2026-11-12*
-
-
-Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.
-
-
-### Here’s How Google Says It’s Making Its Smart Glasses More Private
-
-*Wired | 2026-11-12*
-
-
-Google understands smart glasses have a trust problem, but privacy promises will mean little unless bystanders can clearly see and enforce recording boundaries.
-
-
-### Google and Samsung’s Android XR Smart Glasses Are Finally Here
-
-*Wired | 2026-11-12*
-
-
-Android XR glasses finally look retail-ready, but fashion partners and physical try-ons may matter more than another round of impressive AI demos.
-
-
-### Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile
-
-*Wired | 2026-11-12*
-
-
-Fairphone’s Boost deal is necessary US progress, but without in-store handset sales it remains a foothold rather than a distribution breakthrough.
+The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.

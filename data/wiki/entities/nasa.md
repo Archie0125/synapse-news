@@ -1,11 +1,14 @@
 # NASA
 
 
-*Mentioned in 2 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
+
+- **The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat** (2026-11-13)
+  - Saving Hubble could validate commercial satellite servicing, but NASA must weigh scientific upside against the nonnegotiable need for a controlled ending.
 
 - **Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h** (2026-11-11)
   - 48 AI agents 'discovered' a Maya pyramid in 72 hours, except it was already published, which shows agents are fast at finding things and weak at checking them.

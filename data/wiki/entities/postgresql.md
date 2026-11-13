@@ -1,7 +1,7 @@
 # PostgreSQL
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL** (2026-11-07)
   - pg_vectorsearch makes 'just use Postgres' for vector search far more believable, though the eye-popping benchmark is Tiger Data's own and the extension is still alpha.
-
-- **Generic SQL formatters don't know PostgreSQL, and it shows Tags: postgres, sql, tooling, webdev** (2026-11-06)
-  - Generic SQL formatters don't break your Postgres queries. They just quietly make them ugly, and that's the kind of tooling debt nobody budgets for.

@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Walmart Early Black Friday Deals Double as Great Gifts (2026)** (2026-11-12)
-  - Walmart’s gift deals are useful, but its cheap membership trial turns holiday urgency into a recurring-revenue funnel shoppers must actively escape.
+- **Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti** (2026-11-13)
+  - The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
 
 - **Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more** (2026-11-12)
   - The standout Apple discounts are real, but a sprawling Black Friday roundup still rewards price verification more than impulse buying.

@@ -1,26 +1,106 @@
 # Policy
 
 
-*161 articles in the last 7 days*
+*155 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Donald Trump really wants Tim Cook to run Nvidia
+### ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next
+
+*Wired | 2026-11-13*
+
+
+Stephen Miller's promotion concentrates Trump's immigration agenda in an experienced operator, making congressional opposition important but hardly sufficient to restrain the White House.
+
+
+### Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim
+
+*Tom's Hardware | 2026-11-13*
+
+
+SemiAnalysis flags a potentially massive enforcement failure, but converting gigawatts into GPUs—and speculation into causation—requires far more disclosure.
+
+
+### Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy
+
+*Tom's Hardware | 2026-11-13*
+
+
+Malaysia and Singapore’s probes show AI-chip export controls now depend less on borders than on policing opaque regional supply chains.
+
+
+### How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation
+
+*Tom's Hardware | 2026-11-13*
+
+
+The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
+
+
+### ‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims
+
+*Tom's Hardware | 2026-11-13*
+
+
+Employee loyalty may soften Jensen Huang’s fall, but it also exposes Nvidia’s dangerous dependence on one founder.
+
+
+### What&#8217;s really at stake in the Jensen Huang saga
 
 *The Verge | 2026-11-13*
 
 
-Trump's Tim Cook endorsement creates excellent political theater, but Nvidia's succession requires semiconductor strategy—not celebrity CEO matchmaking.
+Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
 
 
-### Nvidia employees petition to bring back Jensen Huang
+### Meta discussed attacking Jonathan Haidt — now even his haters are annoyed
 
-*Hacker News | 2026-11-13*
+*The Verge | 2026-11-13*
 
 
-Employee loyalty underscores Huang's impact, but founder nostalgia is a poor substitute for independent governance around serious reported misconduct.
+Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.
+
+
+### The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
+
+*MIT Technology Review | 2026-11-13*
+
+
+Silicon Valley’s political misread and Nvidia’s chip-tracking contradiction share one lesson: public tech narratives deserve less trust than private incentives.
+
+
+### Silicon Valley claims to know the future. So why did it get the midterms so wrong?
+
+*MIT Technology Review | 2026-11-13*
+
+
+Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
+
+
+### More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
+
+*MIT Technology Review | 2026-11-13*
+
+
+Brain-interface volunteers are not disposable test infrastructure; years-long bodily and intellectual contributions justify autonomy, recognition, and fewer secrecy constraints.
+
+
+### Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces
+
+*InfoQ | 2026-11-13*
+
+
+Dropbox shows that privacy compliance only scales when consent is tested like production code, not treated as a legal checkbox.
+
+
+### Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang
+
+*Engadget | 2026-11-13*
+
+
+Alleged chip-smuggling networks show export controls are only as strong as reseller tracing and end-use enforcement, not the rules written in Washington.
 
 
 ### VITI Magazine FAQ: BIA for Dummies & Running an Ed25519 BIGF Gate in 50 Lines of Python
@@ -85,83 +165,3 @@ Google understands smart glasses have a trust problem, but privacy promises will
 
 
 Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
-
-
-### Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight
-
-*Wired | 2026-11-12*
-
-
-DeepMind’s union fight shows that ethical objections to military AI are evolving from employee dissent into a legally enforceable challenge to management.
-
-
-### Climate Change Has Pushed the World's Ice Out of Its Safe Zone
-
-*Wired | 2026-11-12*
-
-
-The cryosphere is leaving its historic safe zone, making climate adaptation less about avoiding damage and more about limiting irreversible losses already underway.
-
-
-### Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently
-
-*Wired | 2026-11-12*
-
-
-Alex Karp’s progressive label looks less like an ideology than a flexible brand that must be judged against Palantir’s products and contracts.
-
-
-### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
-
-*Tom's Hardware | 2026-11-12*
-
-
-Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
-
-
-### Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
-
-*Tom's Hardware | 2026-11-12*
-
-
-Huang’s exit turns Nvidia’s founder dependency into an immediate governance test, while the allegations ensure succession alone will not end the scrutiny.
-
-
-### Jensen Huang is out. What did China want from him?
-
-*The Verge | 2026-11-12*
-
-
-Huang’s exit turns Nvidia’s governance problem into a geopolitical one, where alleged access and influence may matter more than personal misconduct.
-
-
-### ‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation
-
-*The Verge | 2026-11-12*
-
-
-Tech leaders defending Jensen Huang are treating exceptional performance as exceptional immunity, precisely when Nvidia needs credible governance most.
-
-
-### Jensen Huang was having a third affair, Reuters reports
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.
-
-
-### Jensen Huang agrees to testify before Congress
-
-*TechCrunch | 2026-11-12*
-
-
-Huang’s closed-door testimony may answer security questions, but secrecy will make rebuilding public trust much harder.
-
-
-### Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
-
-*TechCrunch | 2026-11-12*
-
-
-Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.

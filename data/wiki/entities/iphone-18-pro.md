@@ -1,11 +1,14 @@
 # iPhone 18 Pro
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **This tiny iOS 27 camera feature really makes a huge difference** (2026-11-13)
+  - iOS 27’s customizable Camera controls are a small interface change that meaningfully weakens the case for third-party apps on the iPhone 18 Pro.
 
 - **iPhone Duo one week later: The future, or not for me?** (2026-11-11)
   - If a reviewer has to force themselves to unfold the iPhone Duo, the hinge isn't the problem. The use case is.

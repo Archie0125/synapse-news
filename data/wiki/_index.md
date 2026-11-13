@@ -19,7 +19,7 @@
 
 - [Smart Glasses Won’t Win on AI—They’ll Win in the Rain](analysis/2026-11-13-smart-glasses-wont-win-on-ai-theyll-win-in-the-rain-en.md)
 
-- [黃仁勳一走，輝達才發現自己沒有備援系統](analysis/2026-11-13-nvidias-470-billion-warning-jensen-was-the-governance-plan-zh.md)
+- [AI 眼鏡這次真的能紅？先問旁人願不願意被你看](analysis/2026-11-13-smart-glasses-are-back-privacy-not-ai-will-pick-the-winner-zh.md)
 
 
 ## Topics
@@ -75,6 +75,8 @@
 
 - [Airtag](entities/airtag.md)
 
+- [Alex Karp](entities/alex-karp.md)
+
 - [Alexa](entities/alexa.md)
 
 - [Alexandr Wang](entities/alexandr-wang.md)
@@ -84,5 +86,3 @@
 - [Alice Huang](entities/alice-huang.md)
 
 - [Aliro](entities/aliro.md)
-
-- [Alphabet](entities/alphabet.md)

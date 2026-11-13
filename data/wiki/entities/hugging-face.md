@@ -7,14 +7,14 @@
 ## Recent Mentions
 
 
+- **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem** (2026-11-13)
+  - llama.cpp v1.0.0 matters less as a feature milestone than as a promise that local AI developers can finally build on clearer compatibility boundaries.
+
 - **Jensen Huang’s exit puts Nvidia’s support for open source in question** (2026-11-12)
   - Nvidia’s open-source commitment now faces its clearest test: whether it was durable strategy or merely Jensen Huang’s useful counterweight to frontier labs.
 
 - **Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit** (2026-11-12)
   - Hugging Face’s reassurance exposes the deal’s core contradiction: open AI infrastructure would depend on the strategy of a dominant proprietary chip vendor.
-
-- **LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B** (2026-11-12)
-  - LLMON is a promising attempt to make model context legible, but the syntax matters only if it demonstrably reduces failures outside IBM’s own models.
 
 - **Edge0-145B: Frontier AI Capabilities on Your Own Computer** (2026-11-12)
   - Edge0’s local 145B claim could reset on-device AI economics, but extraordinary memory and speed numbers deserve independent reproduction before celebration.

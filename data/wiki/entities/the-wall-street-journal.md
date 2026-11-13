@@ -1,11 +1,14 @@
 # The Wall Street Journal
 
 
-*Mentioned in 3 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
+
+- **How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation** (2026-11-13)
+  - The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
 
 - **Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges** (2026-11-11)
   - Nvidia's board is reportedly ready to end Huang's 33-year run as CEO, proving that even the man behind the AI boom isn't too valuable to fire.

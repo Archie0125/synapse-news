@@ -7,6 +7,12 @@
 ## Recent Mentions
 
 
+- **ChatGPT’s new Wallet lets AI agents shop and check out for you** (2026-11-13)
+  - ChatGPT Wallet makes agentic shopping tangible, but biometric approval solves only authorization—not whether users trust artificial intelligence to choose wisely.
+
+- **You can now tempt fate and give your banking information to ChatGPT** (2026-11-13)
+  - ChatGPT Wallet makes agentic shopping practical, but biometric approval cannot eliminate the deeper risk of an AI choosing the wrong product or seller.
+
 - **AI chatbots are recommending fake retail websites, study finds** (2026-11-12)
   - AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
 
@@ -42,9 +48,3 @@
 
 - **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
   - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.
-
-- **AI is the new dating dealbreaker** (2026-11-06)
-  - In San Francisco, how you feel about AI now shows up on dating profiles the way political views do, a sign that AI has become a question of identity.
-
-- **Agentic shopping, and how AI shopping agents choose** (2026-11-06)
-  - In agentic shopping, your homepage is no longer your storefront; the AI agent is, and brands that don't feed it structured data simply won't exist to buyers.

@@ -1,14 +1,14 @@
 # GitHub Actions
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
 
 
-- **GitHub availability report: October 2026** (2026-11-13)
-  - GitHub's Azure expansion bought meaningful headroom, but October proved that extra capacity cannot compensate for unsafe migrations and weak failure isolation.
+- **I write specs for a living. Claude Code built my NBA forecast** (2026-11-13)
+  - Claude Code made a non-programmer’s NBA product possible, but the real leverage came from rigorous specifications, public accountability, and unusually heavy testing.
 
 - **Why I Built a 100% Ad-Free, 3-Second Daily Expense Tracker PWA (React + Firebase + GitHub Actions) published: true** (2026-11-12)
   - This tracker’s real innovation isn’t React or Firebase; it’s treating three seconds and zero ads as core financial-product features.
@@ -21,6 +21,3 @@
 
 - **De una app de tareas a Azure: .NET 10, Cosmos DB, Terraform y GitHub Actions** (2026-11-11)
   - A student to-do app turns into a solid lesson in cloud deployment because the team designed its database queries and automated its infrastructure with care.
-
-- **GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies** (2026-11-06)
-  - GitHub Actions lockfiles fix a supply-chain hole that should never have existed, and the bigger win is finally pinning transitive dependencies that most teams never saw.

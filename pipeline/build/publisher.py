@@ -1,6 +1,7 @@
 """Publish bilingual articles (EN + zh-TW) to Astro content directory."""
 
 import logging
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -10,6 +11,9 @@ import yaml
 from slugify import slugify
 
 logger = logging.getLogger(__name__)
+
+REPUBLISHED_SOURCE_TYPES = {"news"}
+CJK_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
 
 # Claude prompt for translating article title + summary to zh-TW
 TRANSLATE_PROMPT = """Translate the following tech news title and summary to Traditional Chinese (繁體中文).
@@ -57,10 +61,10 @@ def _format_astro_frontmatter(post: frontmatter.Post, lang: str, article_type: s
 
     # Pick the right title/summary based on language
     if lang == "zh":
-        title = str(post.get("title_zh", post.get("title", "Untitled")))[:120]
+        title = str(post.get("title_zh", post.get("title", "Untitled")))[:200]
         summary = str(post.get("summary_zh", post.get("tldr_zh", post.get("summary", ""))))[:300]
     else:
-        title = str(post.get("title", "Untitled"))[:120]
+        title = str(post.get("title", "Untitled"))[:200]
         summary = str(post.get("tldr_en", post.get("tldr", post.get("summary", ""))))[:300]
 
     # Pick language-specific FAQs and reshape {q,a} -> {question, answer} for Astro schema
@@ -86,6 +90,7 @@ def _format_astro_frontmatter(post: frontmatter.Post, lang: str, article_type: s
         "tags": [str(t) for t in topics],
         "type": article_type,
         "lang": lang,
+        "safeForPublic": True,
     }
     if faqs:
         meta["faqs"] = faqs
@@ -108,7 +113,7 @@ def _translate_title_summary(client: anthropic.Anthropic, title: str, summary: s
         return json.loads(text)
     except Exception as e:
         logger.warning(f"Translation failed for '{title}': {e}")
-        return {"title_zh": title, "summary_zh": summary}
+        return {"title_zh": title, "summary_zh": ""}
 
 
 def publish_article(
@@ -129,11 +134,63 @@ def publish_article(
 
     astro_meta = _format_astro_frontmatter(post, lang, article_type)
 
-    # Clean content
-    content = post.content
-    lines = content.split("\n")
-    if lines and lines[0].startswith("# "):
-        content = "\n".join(lines[1:]).lstrip()
+    if article_type in REPUBLISHED_SOURCE_TYPES:
+        if lang == "zh":
+            comment = str(post.get("summary_zh") or post.get("tldr_zh") or "").strip()
+            key_points = post.get("key_points_zh") or []
+            why_it_matters = str(post.get("hot_take_zh") or "").strip()
+            key_points_heading = "重點"
+            why_heading = "為什麼值得注意"
+            sources_heading = "資料來源"
+            if not comment or not CJK_RE.search(comment):
+                logger.warning(
+                    "Skipping zh news without a Traditional Chinese comment: %s",
+                    title,
+                )
+                return None
+        else:
+            comment = str(
+                post.get("tldr_en") or post.get("tldr") or post.get("summary") or ""
+            ).strip()
+            key_points = post.get("key_points_en") or []
+            why_it_matters = str(post.get("hot_take_en") or "").strip()
+            key_points_heading = "Key points"
+            why_heading = "Why it matters"
+            sources_heading = "Sources"
+
+        if not comment:
+            logger.warning("Skipping %s news without an original comment: %s", lang, title)
+            return None
+
+        source_lines = [
+            f"- [{source['name']}]({source['url']})"
+            for source in astro_meta["sources"]
+            if source.get("url")
+        ]
+        if not source_lines:
+            logger.warning("Skipping %s news without a source URL: %s", lang, title)
+            return None
+
+        sections = [comment]
+        clean_points = [str(point).strip() for point in key_points if str(point).strip()]
+        if clean_points:
+            sections.append(
+                f"## {key_points_heading}\n\n"
+                + "\n".join(f"- {point}" for point in clean_points)
+            )
+        if why_it_matters:
+            sections.append(f"## {why_heading}\n\n{why_it_matters}")
+        sections.append(f"## {sources_heading}\n\n" + "\n".join(source_lines))
+        content = "\n\n".join(sections)
+    else:
+        # Analysis is original writing. Remove only a leading H1 that duplicates
+        # the frontmatter title; retain the rest of the article body unchanged.
+        content = post.content
+        lines = content.splitlines()
+        if lines and lines[0].startswith("# "):
+            heading = lines[0][2:].strip()
+            if heading == str(post.get("title", "")).strip():
+                content = "\n".join(lines[1:]).lstrip()
 
     astro_post = frontmatter.Post(content=content, **astro_meta)
     filepath.write_text(frontmatter.dumps(astro_post), encoding="utf-8")
@@ -150,7 +207,11 @@ def publish_summarized_articles(config_path: str = "config.yaml") -> list[Path]:
     config = yaml.safe_load(Path(config_path).read_text(encoding="utf-8"))
     raw_path = config["paths"]["raw"]
     content_dir = config["paths"]["content"]
-    per_category = config["pipeline"].get("articles_per_category", 3)
+    per_category = config["pipeline"].get("articles_per_category", 1)
+    public_categories = config["pipeline"].get(
+        "public_categories", ["ai-ml", "developer-tools", "policy", "hardware"]
+    )
+    public_news_per_run = config["pipeline"].get("public_news_per_run", 4)
     model = config["api"]["summarize_model"]
 
     published = []
@@ -162,17 +223,23 @@ def publish_summarized_articles(config_path: str = "config.yaml") -> list[Path]:
     by_category: dict[str, list[tuple[Path, frontmatter.Post]]] = {}
     for md_file in sorted(raw.rglob("*.md"), reverse=True):
         post = frontmatter.load(str(md_file))
-        if post.get("status") == "summarized":
+        if post.get("status") == "summarized" and post.get("publishable") is True:
             cat = post.get("category", "industry")
-            by_category.setdefault(cat, []).append((md_file, post))
+            if cat in public_categories:
+                by_category.setdefault(cat, []).append((md_file, post))
 
     # Select top N articles per category
     selected: list[tuple[Path, frontmatter.Post]] = []
     cat_counts: dict[str, int] = {}
-    for cat, items in by_category.items():
+    for cat in public_categories:
+        items = by_category.get(cat, [])
         picked = items[:per_category]
         selected.extend(picked)
-        cat_counts[cat] = len(picked)
+        if picked:
+            cat_counts[cat] = len(picked)
+        if len(selected) >= public_news_per_run:
+            break
+    selected = selected[:public_news_per_run]
 
     logger.info(
         f"Publishing {len(selected)} articles across {len(cat_counts)} categories: "
@@ -193,7 +260,7 @@ def publish_summarized_articles(config_path: str = "config.yaml") -> list[Path]:
             summary_en = post.get("tldr_en", post.get("tldr", ""))
             translated = _translate_title_summary(client, title_en, summary_en, model)
             post["title_zh"] = translated.get("title_zh", title_en)
-            post["summary_zh"] = translated.get("summary_zh", summary_en)
+            post["summary_zh"] = translated.get("summary_zh") or ""
             path.write_text(frontmatter.dumps(post), encoding="utf-8")
 
         # Publish Chinese version
@@ -214,6 +281,9 @@ def publish_analysis_articles(config_path: str = "config.yaml") -> list[Path]:
     config = yaml.safe_load(Path(config_path).read_text(encoding="utf-8"))
     wiki_path = config["paths"]["wiki"]
     content_dir = config["paths"]["content"]
+    public_analysis_topics_per_run = config["pipeline"].get(
+        "public_analysis_topics_per_run", 1
+    )
 
     published = []
     analysis_dir = Path(wiki_path) / "analysis"
@@ -221,7 +291,18 @@ def publish_analysis_articles(config_path: str = "config.yaml") -> list[Path]:
         return published
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    for md_file in analysis_dir.glob(f"{today}*.md"):
+    candidates = sorted(analysis_dir.glob(f"{today}*.md"))
+    selected_topics: list[str] = []
+    selected_files: list[Path] = []
+    for md_file in candidates:
+        topic_key = re.sub(r"-(?:en|zh)$", "", md_file.stem)
+        if topic_key not in selected_topics:
+            if len(selected_topics) >= public_analysis_topics_per_run:
+                continue
+            selected_topics.append(topic_key)
+        selected_files.append(md_file)
+
+    for md_file in selected_files:
         post = frontmatter.load(str(md_file))
         lang = post.get("lang", "en")
         result = publish_article(post, content_dir, lang, "analysis")

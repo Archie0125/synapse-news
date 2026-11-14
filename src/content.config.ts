@@ -4,7 +4,7 @@ import { glob } from 'astro/loaders';
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
-    title: z.string().max(120),
+    title: z.string().max(200),
     summary: z.string().max(1000),
     category: z.enum(['ai-ml', 'startups', 'products', 'policy', 'industry', 'developer-tools', 'hardware']),
     publishedAt: z.coerce.date(),
@@ -18,6 +18,9 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     type: z.enum(['news', 'analysis']).default('news'),
     lang: z.enum(['en', 'zh']).default('en'),
+    // Only pipeline output that passed the editorial gate may bypass the
+    // legacy production cutoff. Existing local preview drafts stay private.
+    safeForPublic: z.boolean().default(false),
     // Optional — pipeline doesn't emit these yet; present articles still validate
     modifiedAt: z.coerce.date().optional(),
     faqs: z.array(z.object({

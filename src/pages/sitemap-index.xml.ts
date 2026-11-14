@@ -1,12 +1,12 @@
-import { getCollection } from 'astro:content';
 import { SITE } from '../data/site';
 import { CATEGORIES } from '../lib/categories';
+import { getPublicArticles } from '../lib/articles';
 import { renderSitemapIndex, xmlResponse } from '../lib/sitemap';
 
 export const prerender = true;
 
 export async function GET() {
-  const articles = await getCollection('articles');
+  const articles = await getPublicArticles();
 
   const lastmodByCategory: Record<string, string> = {};
   let globalLastmod: string | undefined;

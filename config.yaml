@@ -14,10 +14,6 @@ feeds:
     slug: "openai"
     url: "https://openai.com/blog/rss.xml"
     category: "ai-ml"
-  - name: "Anthropic Blog"
-    slug: "anthropic"
-    url: "https://www.anthropic.com/rss.xml"
-    category: "ai-ml"
   - name: "Google AI Blog"
     slug: "googleai"
     url: "https://blog.google/technology/ai/rss/"
@@ -26,47 +22,6 @@ feeds:
     slug: "huggingface"
     url: "https://huggingface.co/blog/feed.xml"
     category: "ai-ml"
-  - name: "AI News (VentureBeat)"
-    slug: "venturebeat-ai"
-    url: "https://venturebeat.com/category/ai/feed/"
-    category: "ai-ml"
-
-  # Startups
-  - name: "TechCrunch"
-    slug: "techcrunch"
-    url: "https://techcrunch.com/feed/"
-    category: "startups"
-  - name: "Crunchbase News"
-    slug: "crunchbase"
-    url: "https://news.crunchbase.com/feed/"
-    category: "startups"
-  - name: "Y Combinator Blog"
-    slug: "ycombinator"
-    url: "https://www.ycombinator.com/blog/rss/"
-    category: "startups"
-  - name: "SaaStr"
-    slug: "saastr"
-    url: "https://www.saastr.com/feed/"
-    category: "startups"
-
-  # Products
-  - name: "The Verge"
-    slug: "theverge"
-    url: "https://www.theverge.com/rss/index.xml"
-    category: "products"
-  - name: "Engadget"
-    slug: "engadget"
-    url: "https://www.engadget.com/rss.xml"
-    category: "products"
-  - name: "9to5Mac"
-    slug: "9to5mac"
-    url: "https://9to5mac.com/feed/"
-    category: "products"
-  - name: "9to5Google"
-    slug: "9to5google"
-    url: "https://9to5google.com/feed/"
-    category: "products"
-
   # Policy
   - name: "EFF"
     slug: "eff"
@@ -80,37 +35,10 @@ feeds:
     slug: "techpolicy"
     url: "https://techpolicy.press/feed"
     category: "policy"
-  - name: "Lawfare"
-    slug: "lawfare"
-    url: "https://www.lawfaremedia.org/feed"
-    category: "policy"
-
-  # Industry
-  - name: "Hacker News"
-    slug: "hn"
-    url: "https://hnrss.org/frontpage?points=100"
-    category: "industry"
-  - name: "Ars Technica"
-    slug: "arstechnica"
-    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
-    category: "industry"
-  - name: "Wired"
-    slug: "wired"
-    url: "https://www.wired.com/feed/rss"
-    category: "industry"
-  - name: "Reuters Tech"
-    slug: "reuters"
-    url: "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best&best-sectors=tech"
-    category: "industry"
-
   # Developer Tools
   - name: "GitHub Blog"
     slug: "github"
     url: "https://github.blog/feed/"
-    category: "developer-tools"
-  - name: "Dev.to"
-    slug: "devto"
-    url: "https://dev.to/feed"
     category: "developer-tools"
   - name: "InfoQ"
     slug: "infoq"
@@ -122,10 +50,6 @@ feeds:
     category: "developer-tools"
 
   # Hardware
-  - name: "Tom's Hardware"
-    slug: "tomshardware"
-    url: "https://www.tomshardware.com/feeds/all"
-    category: "hardware"
   - name: "AnandTech / Chips and Cheese"
     slug: "chipsandcheese"
     url: "https://chipsandcheese.com/feed/"
@@ -142,9 +66,14 @@ feeds:
 pipeline:
   max_articles_per_feed: 15
   max_articles_per_day: 100
-  articles_per_category: 3        # Target: 3 articles per category per day
+  # Public site: one high-signal story per category, four news items plus one
+  # bilingual analysis topic per daily run. Everything else stays internal.
+  articles_per_category: 1
+  public_categories: [ai-ml, developer-tools, policy, hardware]
+  public_news_per_run: 4
+  public_analysis_topics_per_run: 1
   trending_count: 7
-  analysis_count: 5
+  analysis_count: 1
   fetch_delay_seconds: 1.0
   batch_size: 10
 

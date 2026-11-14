@@ -1,7 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
 import StoryCard from './StoryCard.astro';
 import { t, type Lang } from '../lib/i18n';
+import { getPublicArticles } from '../lib/articles';
 
 interface Props {
   slugs: string[];
@@ -9,7 +9,7 @@ interface Props {
 }
 
 const { slugs, lang = 'en' } = Astro.props;
-const allArticles = await getCollection('articles');
+const allArticles = await getPublicArticles();
 const related = allArticles
   .filter(a => slugs.includes(a.id) && a.data.lang === lang)
   .slice(0, 3);

@@ -11,12 +11,21 @@ For EACH article, output a JSON object with these fields:
 - "topics": array of 1-3 tags from: ["ai-ml", "startups", "products", "policy", "industry", "open-source", "cybersecurity", "hardware", "developer-tools"]
 - "entities": array of company/product/person names mentioned (max 5)
 - "sentiment": one of "positive", "negative", "neutral", "mixed"
+- "publishable": boolean. Set true only when the story is materially about AI/ML,
+  developer tools, technology policy, or AI infrastructure/hardware. Set false for
+  shopping deals, gift guides, pets/lifestyle, celebrity or sexual/private-life framing,
+  unsupported accusations, and general consumer tech with no meaningful AI relevance.
+- "exclude_reason": a short reason when publishable is false; otherwise an empty string
 - "hot_take_en": ONE sharp sentence that could be a Threads post (max 50 words). Provocative but fair.
 - "hot_take_zh": same hot take in 繁體中文
 - "faqs_en": array of EXACTLY 3 Q&A pairs in English — each object { "q": "question", "a": "answer" }. Questions must be ones a reader would actually ask (not "What is X?" if X is a common term — ask "Why does X matter here?"). Answers must be self-contained, 1-3 sentences, factually citable on their own (an AI engine should be able to quote any answer verbatim). Prefer "What happened?", "Why does it matter?", "What's next / what to watch?" framing unless the story calls for something else.
 - "faqs_zh": same 3 Q&A pairs in natural 繁體中文 (rewritten, not translated). Same constraints: self-contained, citable answers.
 
 The Chinese text must be natural 繁體中文 with proper tech terminology (人工智慧, 機器學習, 新創公司, 開源).
+
+Editorial gate: be conservative. A source being a technology publication does not make
+every article suitable for FAQ. Excluded stories still need summaries for the internal
+research queue, but they must have publishable=false so the public publisher skips them.
 
 Output ONLY a JSON array of objects. No explanation, no markdown fences.
 

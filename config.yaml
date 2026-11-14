@@ -73,7 +73,9 @@ pipeline:
   public_news_per_run: 4
   public_analysis_topics_per_run: 1
   trending_count: 7
-  analysis_count: 1
+  # Keep daily publication source-backed. Long-form trend analysis can surface
+  # personal names from older corpus entries and therefore requires review.
+  analysis_count: 0
   fetch_delay_seconds: 1.0
   batch_size: 10
 

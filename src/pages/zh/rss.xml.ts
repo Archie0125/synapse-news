@@ -1,9 +1,9 @@
 import rss from '@astrojs/rss';
-import { getCollection } from 'astro:content';
 import { SITE } from '../../data/site';
+import { getPublicArticles } from '../../lib/articles';
 
 export async function GET(context: any) {
-  const articles = await getCollection('articles');
+  const articles = await getPublicArticles();
   const zhArticles = articles
     .filter(a => a.data.lang === 'zh')
     .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());

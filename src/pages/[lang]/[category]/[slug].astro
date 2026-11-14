@@ -1,10 +1,11 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { render } from 'astro:content';
 import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 import { LANGS, type Lang } from '../../../lib/i18n';
+import { getPublicArticles } from '../../../lib/articles';
 
 export async function getStaticPaths() {
-  const articles = await getCollection('articles');
+  const articles = await getPublicArticles();
   return articles.map(article => ({
     params: {
       lang: article.data.lang,

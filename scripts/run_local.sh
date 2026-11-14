@@ -14,8 +14,11 @@ echo "== pipeline rc=$RC"
 if [ $RC -eq 0 ]; then
   git add data/ src/content/articles/ 2>/dev/null
   if ! git diff --staged --quiet; then
-    echo "== validating production build"
-    if ! npx astro build; then
+    echo "== installing locked dependencies"
+    if ! npm ci --legacy-peer-deps; then
+      RC=4
+      echo "ERROR: dependency install failed; staged changes were not committed or pushed"
+    elif ! npx astro build; then
       RC=4
       echo "ERROR: production build failed; staged changes were not committed or pushed"
     else

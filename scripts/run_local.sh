@@ -19,7 +19,7 @@ if [ $RC -eq 0 ]; then
       RC=4
       echo "ERROR: production build failed; staged changes were not committed or pushed"
     else
-      git -c user.name="Synapse Bot" -c user.email="bot@synapse-news.ai" commit -q -m "chore: local pipeline run $(date +%Y-%m-%d_%H%M)"
+      git -c user.name="Archie" -c user.email="41898282+Archie0125@users.noreply.github.com" commit -q -m "chore: local pipeline run $(date +%Y-%m-%d_%H%M)"
       echo "committed $(git rev-parse --short HEAD) on $BR"
       if [ "${ROUTER_PUSH:-0}" = "1" ]; then
         if git push origin "$BR:master"; then

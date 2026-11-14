@@ -1,7 +1,7 @@
 # Muse
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (2026-11-10)
   - Meta is shipping Muse to every screen it can find, but launching fast is not the same as being the agent people actually keep using.
-
-- **Meta introduces Spaces, a new way to collaborate with your Muse agent** (2026-11-06)
-  - Meta's Spaces is a fancy name for project folders. Background app syncing is the real play: Muse is trying to become your always-on personal dashboard.

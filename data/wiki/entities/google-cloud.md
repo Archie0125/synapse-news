@@ -1,11 +1,14 @@
 # Google Cloud
 
 
-*Mentioned in 7 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
 
+
+- **Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions** (2026-11-14)
+  - Google is finally admitting that one mutable API shared by every customer was a trap, and date-stamped snapshots are the honest fix, even if adoption stays opt-in.
 
 - **Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures** (2026-11-13)
   - AQuA targets AI agents’ real reliability gap: technically successful requests can still fail users, and infrastructure dashboards cannot detect that alone.

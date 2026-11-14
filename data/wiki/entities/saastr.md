@@ -1,7 +1,7 @@
 # SaaStr
 
 
-*Mentioned in 13 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
@@ -39,9 +39,3 @@
 
 - **Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?** (2026-11-08)
   - VCs notice confidence first, but the useful version is knowing your numbers cold and admitting what you don't know, not charisma.
-
-- **Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work** (2026-11-07)
-  - Software's 14.6% growth looks healthy, but model spending and price hikes are carrying it while data centers quietly take all the share gains.
-
-- **A Critical App We Pay For Went Down for 2 Days. They Never Offered a Credit. I Won’t Forget.** (2026-11-07)
-  - A $330 credit nobody offered may cost a $60K renewal, proof that customers forgive outages but remember vendors who act like nothing happened.

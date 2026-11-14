@@ -1,14 +1,11 @@
 # TikTok
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **What&#8217;s really at stake in the Jensen Huang saga** (2026-11-13)
-  - Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
 
 - **Google really needs you to know it cares about smart glasses privacy** (2026-11-12)
   - Google understands that smart glasses will fail socially before they fail technically, but privacy promises still need visible, enforceable proof.

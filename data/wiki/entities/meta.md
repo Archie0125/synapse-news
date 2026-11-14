@@ -1,7 +1,7 @@
 # Meta
 
 
-*Mentioned in 39 articles*
+*Mentioned in 34 articles*
 
 
 ## Recent Mentions
@@ -12,9 +12,6 @@
 
 - **Meta discussed attacking Jonathan Haidt — now even his haters are annoyed** (2026-11-13)
   - Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.
-
-- **Silicon Valley claims to know the future. So why did it get the midterms so wrong?** (2026-11-13)
-  - Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
 
 - **This year’s Meta Quest 3S early Black Friday doorbuster deal is the best I’ve ever seen** (2026-11-13)
   - Meta’s Quest 3S bundle is a genuinely aggressive holiday deal, but the gift card and game extras matter only if buyers will actually use them.
@@ -51,3 +48,6 @@
 
 - **WhatsApp may soon replace the Communities tab on iOS** (2026-11-11)
   - WhatsApp swapping Communities for a Contacts tab with online status quietly admits that people want to see who's online now more than they want group features.
+
+- **The US is winning the AI race. Jensen Huang could have blown it** (2026-11-10)
+  - Huang's admitted affair with a suspected Chinese spy shows that the AI race's biggest weakness may be one person who controls the chips, not the chips themselves.

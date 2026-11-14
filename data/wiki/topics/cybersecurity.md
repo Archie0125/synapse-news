@@ -1,7 +1,7 @@
 # Cybersecurity
 
 
-*125 articles in the last 7 days*
+*107 articles in the last 7 days*
 
 
 ## Latest
@@ -21,22 +21,6 @@ Bitdefender's strong lab scores make its value pitch credible, but a dated Mac a
 
 
 The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
-
-
-### Uber confirms hackers stole thousands of drivers’ license information in data breach
-
-*TechCrunch | 2026-11-13*
-
-
-Uber’s breach shows artificial intelligence vendors are becoming high-value supply-chain targets long before customers build adequate controls around them.
-
-
-### Microsoft’s latest email outage turned into a full blown global cloud crisis
-
-*TechCrunch | 2026-11-13*
-
-
-Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
 
 
 ### Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces
@@ -165,3 +149,19 @@ Microsoft’s broad outage shows cloud productivity’s hidden single point of f
 
 
 The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.
+
+
+### Turning a 22-year-old Postgres type-confusion primitive into RCE
+
+*Hacker News | 2026-11-12*
+
+
+A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
+
+
+### Critical RCE Vulnerability in Apache HTTP Server
+
+*Hacker News | 2026-11-12*
+
+
+Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.

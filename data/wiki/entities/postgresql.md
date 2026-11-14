@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Open Source DocumentDB 1.0 Reaches General Availability** (2026-11-14)
+  - DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
+
 - **Turning a 22-year-old Postgres type-confusion primitive into RCE** (2026-11-12)
   - A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
 
@@ -18,6 +21,3 @@
 
 - **The AI Brain: SageMaker BGE Cross-Encoder Reranking & Sub-100ms Bedrock ConverseStream SSE (Part 4)** (2026-11-08)
   - Retrieval only gets you candidates; reranking is what keeps a RAG system honest, and this build shows it can stay fast enough for production.
-
-- **Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL** (2026-11-07)
-  - pg_vectorsearch makes 'just use Postgres' for vector search far more believable, though the eye-popping benchmark is Tiger Data's own and the extension is still alpha.

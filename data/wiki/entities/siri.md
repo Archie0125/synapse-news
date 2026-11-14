@@ -1,7 +1,7 @@
 # Siri
 
 
-*Mentioned in 17 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
@@ -48,6 +48,3 @@
 
 - **Apple aiming to make Siri ‘more like an agent’ as soon as next year: report** (2026-11-08)
   - Apple just caught up on personalized Siri, and the market has already moved to agents. App Intents give Apple a real cost advantage, if it ships fast enough.
-
-- **Raycast combines voice dictation and screen awareness in new AI feature** (2026-11-06)
-  - Raycast's Dictate to AI removes the most tedious part of using AI, explaining context. A third-party launcher shipping this before Apple makes it harder for Siri.

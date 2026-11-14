@@ -1,7 +1,7 @@
 # Jensen Huang
 
 
-*Mentioned in 68 articles*
+*Mentioned in 64 articles*
 
 
 ## Recent Mentions
@@ -22,14 +22,8 @@
 - **‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims** (2026-11-13)
   - Employee loyalty may soften Jensen Huang’s fall, but it also exposes Nvidia’s dangerous dependence on one founder.
 
-- **What&#8217;s really at stake in the Jensen Huang saga** (2026-11-13)
-  - Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
-
 - **Jensen Huang was reckless with the environment, too** (2026-11-13)
   - Nvidia’s climate rhetoric cannot outrun the physical bill for AI: more factories, strained power grids, rising emissions, and looming e-waste.
-
-- **Jensen Huang didn’t show confidence in his successor, report says** (2026-11-13)
-  - Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
 
 - **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil** (2026-11-13)
   - Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
@@ -51,3 +45,9 @@
 
 - **Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?** (2026-11-12)
   - Huang’s exit gives Nvidia’s rivals a rare opening, but competitors still need products and software—not scandal—to break the company’s AI-computing grip.
+
+- **Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women** (2026-11-12)
+  - Colette Kress becoming Nvidia’s interim CEO exposes a familiar succession blind spot: the capable woman was already present, powerful, and somehow still overlooked.
+
+- **Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month** (2026-11-12)
+  - Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.

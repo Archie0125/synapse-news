@@ -1,7 +1,7 @@
 # Donald Trump
 
 
-*Mentioned in 16 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
@@ -9,9 +9,6 @@
 
 - **‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next** (2026-11-13)
   - Stephen Miller's promotion concentrates Trump's immigration agenda in an experienced operator, making congressional opposition important but hardly sufficient to restrain the White House.
-
-- **The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan** (2026-11-13)
-  - Silicon Valley’s political misread and Nvidia’s chip-tracking contradiction share one lesson: public tech narratives deserve less trust than private incentives.
 
 - **President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO** (2026-11-12)
   - Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.
@@ -45,9 +42,3 @@
 
 - **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (2026-11-08)
   - Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.
-
-- **How Stephen Miller Schemed His Way to the Top** (2026-11-06)
-  - After a midterm wipeout, Trump picked loyalty over course correction by making Stephen Miller chief of staff. That's a bet on fighting investigations, not winning voters back.
-
-- **Lame-duck Congress might actually do something: speed up energy projects** (2026-11-06)
-  - Permitting reform could cut power bills, but rushed through a lame-duck session it risks becoming a fast lane for AI data centers to skip local scrutiny.

@@ -1,34 +1,26 @@
 # Industry
 
 
-*560 articles in the last 7 days*
+*496 articles in the last 7 days*
 
 
 ## Latest
 
 
-### This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood
+### Open Source DocumentDB 1.0 Reaches General Availability
 
-*Wired | 2026-11-13*
-
-
-Mansa’s AI microdrama expands Black stories by shrinking Black employment, exposing the contradiction at the heart of automated representation.
+*InfoQ | 2026-11-14*
 
 
-### The Microsoft Outage Is a Warning for the World
-
-*Wired | 2026-11-13*
+DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
 
 
-Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
+### Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions
+
+*InfoQ | 2026-11-14*
 
 
-### The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat
-
-*Wired | 2026-11-13*
-
-
-Saving Hubble could validate commercial satellite servicing, but NASA must weigh scientific upside against the nonnegotiable need for a controlled ending.
+Google is finally admitting that one mutable API shared by every customer was a trap, and date-stamped snapshots are the honest fix, even if adoption stays opt-in.
 
 
 ### TCL QM7L Mini-LED TV Review (2026)
@@ -93,3 +85,27 @@ Gametime's $20 code sounds generous, but on a $200 minimum it is only 10 percent
 
 
 Black Friday's discount theater is colliding with real component inflation, so shoppers should judge final prices—not the size of the crossed-out percentage.
+
+
+### ‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk
+
+*Wired | 2026-11-13*
+
+
+Ending Cybertruck production turns weak demand into a trust test, because Tesla must now prove that service and parts will outlast the vehicle's hype.
+
+
+### Bitdefender Antivirus Plus Review: Undercutting the Competition
+
+*Wired | 2026-11-13*
+
+
+Bitdefender's strong lab scores make its value pitch credible, but a dated Mac app and 700-MB footprint keep it from being an effortless recommendation.
+
+
+### ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next
+
+*Wired | 2026-11-13*
+
+
+Stephen Miller's promotion concentrates Trump's immigration agenda in an experienced operator, making congressional opposition important but hardly sufficient to restrain the White House.

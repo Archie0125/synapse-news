@@ -1,20 +1,14 @@
 # Teams
 
 
-*Mentioned in 6 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
 
-- **The Microsoft Outage Is a Warning for the World** (2026-11-13)
-  - Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
-
 - **Japanese workers return to fax machines during ongoing Microsoft 365 outage** (2026-11-13)
   - Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
-
-- **Microsoft’s latest email outage turned into a full blown global cloud crisis** (2026-11-13)
-  - Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
 
 - **Microsoft services are returning after an outage took down Outlook, Teams and more** (2026-11-13)
   - Microsoft's recovery does not erase the warning: concentrating email, chat and AI in one cloud turns a service fault into institutional paralysis.

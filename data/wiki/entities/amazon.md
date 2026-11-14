@@ -1,7 +1,7 @@
 # Amazon
 
 
-*Mentioned in 46 articles*
+*Mentioned in 40 articles*
 
 
 ## Recent Mentions

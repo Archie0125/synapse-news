@@ -1,18 +1,10 @@
 # Products
 
 
-*982 articles in the last 7 days*
+*863 articles in the last 7 days*
 
 
 ## Latest
-
-
-### The Microsoft Outage Is a Warning for the World
-
-*Wired | 2026-11-13*
-
-
-Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
 
 
 ### TCL QM7L Mini-LED TV Review (2026)
@@ -87,30 +79,6 @@ Bitdefender's strong lab scores make its value pitch credible, but a dated Mac a
 Walking pads can make sedentary work less damaging, but the best machine is the one you will consistently use—not the one with the longest feature list.
 
 
-### Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti
-
-*Tom's Hardware | 2026-11-13*
-
-
-The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
-
-
-### Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs
-
-*Tom's Hardware | 2026-11-13*
-
-
-Intel’s nearly invisible 260K Plus looks less like innovation than channel segmentation: a 100MHz trim packaged for selected prebuilt buyers.
-
-
-### Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy
-
-*Tom's Hardware | 2026-11-13*
-
-
-Secretlab’s retail push is smart because premium chairs are experienced products, and no online spec sheet can tell buyers whether their backs approve.
-
-
 ### Japanese workers return to fax machines during ongoing Microsoft 365 outage
 
 *Tom's Hardware | 2026-11-13*
@@ -135,25 +103,41 @@ At $51.12, 8BitDo’s feature-rich controller is an easy recommendation—provid
 With AI demand inflating core component costs, the smartest sub-$100 PC upgrades now improve usability and connectivity rather than benchmark scores.
 
 
-### What&#8217;s really at stake in the Jensen Huang saga
+### The new Apple TV has a YouTube problem
 
 *The Verge | 2026-11-13*
 
 
-Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
+The new Apple TV remains excellent hardware, but shipping with a broken YouTube experience is an embarrassing failure of basic launch-day coordination.
 
 
-### The Verge’s 2026 gift guide for dads
-
-*The Verge | 2026-11-13*
-
-
-The guide sensibly treats dads as people with hobbies, though its gadget-heavy picks still confuse memorable gifts with expensive specifications.
-
-
-### The smallest version of Camp Snap’s retro digital camcorder fits on your keychain
+### My favorite recipe app just got a big upgrade — and a subscription fee
 
 *The Verge | 2026-11-13*
 
 
-Camp Snap’s keychain camcorder turns technical limitations into nostalgic charm, though mystery-box scarcity makes a playful camera feel unnecessarily collectible.
+Paprika 4 makes a credible case for subscriptions by funding meaningful cross-platform upgrades while preserving a genuinely useful free tier.
+
+
+### Microsoft&#8217;s massive Outlook outage continues
+
+*The Verge | 2026-11-13*
+
+
+A configuration change apparently disrupted Microsoft’s productivity empire for nearly two days, showing how one cloud fault can paralyze millions of workplaces.
+
+
+### Meta discussed attacking Jonathan Haidt — now even his haters are annoyed
+
+*The Verge | 2026-11-13*
+
+
+Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.
+
+
+### Jensen Huang was reckless with the environment, too
+
+*The Verge | 2026-11-13*
+
+
+Nvidia’s climate rhetoric cannot outrun the physical bill for AI: more factories, strained power grids, rising emissions, and looming e-waste.

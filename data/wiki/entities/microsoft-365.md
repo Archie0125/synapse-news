@@ -1,14 +1,11 @@
 # Microsoft 365
 
 
-*Mentioned in 9 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
 
-
-- **The Microsoft Outage Is a Warning for the World** (2026-11-13)
-  - Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
 
 - **Japanese workers return to fax machines during ongoing Microsoft 365 outage** (2026-11-13)
   - Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
@@ -30,6 +27,3 @@
 
 - **Multiple Microsoft 365 services are experiencing an outage** (2026-11-12)
   - Microsoft 365’s multi-service outage exposes the downside of an integrated productivity cloud: one infrastructure failure can disable an organization’s entire digital workplace.
-
-- **Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365** (2026-11-07)
-  - A 27-year homelab Exchange run ends quietly: even a die-hard self-hoster moved to the cloud once Microsoft's subscription licensing made on-prem Exchange harder to justify.

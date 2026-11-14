@@ -1,12 +1,12 @@
 # Synapse Knowledge Base
 
 
-*Last updated: 2026-11-13*
+*Last updated: 2026-11-14*
 
 
 ## Today's Digest
 
-- [Daily Digest 2026-11-13](daily/2026-11-13.md)
+- [Daily Digest 2026-11-14](daily/2026-11-14.md)
 
 
 ## Recent Analysis

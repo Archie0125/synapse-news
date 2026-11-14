@@ -1,7 +1,7 @@
 # AWS
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -24,6 +24,3 @@
 
 - **Babelfish TDS Flaws: A Practical Patch Plan for the Pre-Auth RCE Path** (2026-11-08)
   - The Babelfish pre-auth RCE is a reminder that compatibility layers add attack surface: adding SQL Server support to Postgres quietly opened a door before login.
-
-- **Firecracker VM Escape: PwnEscape Part 2** (2026-11-06)
-  - A reported Firecracker escape is a reminder that microVM isolation is a strong layer, but not a guarantee, for multi-tenant clouds.

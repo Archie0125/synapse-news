@@ -1,14 +1,11 @@
 # Siri AI
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
 
-
-- **Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri** (2026-11-13)
-  - Apple’s Siri preview could make apps conversationally programmable, but its value depends on reliable action routing—not another polished assistant demo.
 
 - **tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models** (2026-11-13)
   - Siri AI reaching older Apple TVs is welcome, but requiring a nearby compatible device makes this ecosystem leverage rather than true on-box intelligence.

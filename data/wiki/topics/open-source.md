@@ -1,10 +1,26 @@
 # Open Source
 
 
-*119 articles in the last 7 days*
+*104 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Open Source DocumentDB 1.0 Reaches General Availability
+
+*InfoQ | 2026-11-14*
+
+
+DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
+
+
+### Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules
+
+*InfoQ | 2026-11-14*
+
+
+Node.js putting debounce and throttle into core is a small change that quietly cuts the npm dependency sprawl the ecosystem has paid for with supply-chain risk for years.
 
 
 ### macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64
@@ -149,19 +165,3 @@ Edge0’s local 145B claim could reset on-device AI economics, but extraordinary
 
 
 Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.
-
-
-### Build once, run on any agent: A practical guide to agent skills
-
-*GitHub Blog | 2026-11-12*
-
-
-Agent skills can turn tribal knowledge into reusable infrastructure, but portability ends where tools, credentials and permissions differ.
-
-
-### How I Built a Self-Healing Study Planner: Catching Paywalled "Free" Courses with Cheerio and Schema.org
-
-*Dev.to | 2026-11-12*
-
-
-Episteme AI tackles a real failure mode by checking course pages, but heuristic paywall detection needs continuous verification to remain trustworthy.

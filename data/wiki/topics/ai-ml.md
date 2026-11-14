@@ -1,18 +1,10 @@
 # AI & ML
 
 
-*408 articles in the last 7 days*
+*353 articles in the last 7 days*
 
 
 ## Latest
-
-
-### This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood
-
-*Wired | 2026-11-13*
-
-
-Mansa’s AI microdrama expands Black stories by shrinking Black employment, exposing the contradiction at the heart of automated representation.
 
 
 ### Jensen Huang and the End of the Founder Fairy Tale
@@ -39,14 +31,6 @@ Black Friday's discount theater is colliding with real component inflation, so s
 AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.
 
 
-### What&#8217;s really at stake in the Jensen Huang saga
-
-*The Verge | 2026-11-13*
-
-
-Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
-
-
 ### Jensen Huang was reckless with the environment, too
 
 *The Verge | 2026-11-13*
@@ -61,22 +45,6 @@ Nvidia’s climate rhetoric cannot outrun the physical bill for AI: more factori
 
 
 Apple’s Home Collection finally gives its smart-home push physical breadth, but premium prices and staggered availability weaken the ecosystem’s opening pitch.
-
-
-### Uber confirms hackers stole thousands of drivers’ license information in data breach
-
-*TechCrunch | 2026-11-13*
-
-
-Uber’s breach shows artificial intelligence vendors are becoming high-value supply-chain targets long before customers build adequate controls around them.
-
-
-### Jensen Huang didn’t show confidence in his successor, report says
-
-*TechCrunch | 2026-11-13*
-
-
-Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
 
 
 ### Israel’s VCs see opportunity for challengers in Nvidia’s turmoil
@@ -127,33 +95,57 @@ Great sales reps win through customer understanding and product mastery, making 
 Palantir’s growth is extraordinary, but the post-earnings decline shows its valuation now demands perfection beyond even 96% revenue growth.
 
 
-### The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
-
-*MIT Technology Review | 2026-11-13*
-
-
-Silicon Valley’s political misread and Nvidia’s chip-tracking contradiction share one lesson: public tech narratives deserve less trust than private incentives.
-
-
-### Silicon Valley claims to know the future. So why did it get the midterms so wrong?
-
-*MIT Technology Review | 2026-11-13*
-
-
-Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
-
-
-### More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
-
-*MIT Technology Review | 2026-11-13*
-
-
-Brain-interface volunteers are not disposable test infrastructure; years-long bodily and intellectual contributions justify autonomy, recognition, and fewer secrecy constraints.
-
-
-### Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri
+### Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability
 
 *InfoQ | 2026-11-13*
 
 
-Apple’s Siri preview could make apps conversationally programmable, but its value depends on reliable action routing—not another polished assistant demo.
+Netflix is betting observability’s bottleneck is no longer missing telemetry but missing relationships—and AI is ineffective without that operational context.
+
+
+### Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures
+
+*InfoQ | 2026-11-13*
+
+
+AQuA targets AI agents’ real reliability gap: technically successful requests can still fail users, and infrastructure dashboards cannot detect that alone.
+
+
+### XYBench: Helping with the problem behind the question
+
+*Hugging Face Blog | 2026-11-13*
+
+
+XYBench exposes a crucial weakness: leading AI assistants can answer fluently while failing to challenge the mistaken premise that makes their answer useless.
+
+
+### llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem
+
+*Hugging Face Blog | 2026-11-13*
+
+
+llama.cpp v1.0.0 matters less as a feature milestone than as a promise that local AI developers can finally build on clearer compatibility boundaries.
+
+
+### Elevated errors on claude.ai, Claude Code, and platform.claude.com
+
+*Hacker News | 2026-11-13*
+
+
+Claude’s resolved authentication outage was brief, but its reach across chat, coding and platform tools exposes a dangerously concentrated failure domain.
+
+
+### Brave Search API now accepts agentic payments via the x402 protocol
+
+*Hacker News | 2026-11-13*
+
+
+Brave’s x402 integration gives autonomous agents cleaner pay-as-you-go search, though blockchain payments replace API-key friction with wallet and stablecoin complexity.
+
+
+### You can now tempt fate and give your banking information to ChatGPT
+
+*Engadget | 2026-11-13*
+
+
+ChatGPT Wallet makes agentic shopping practical, but biometric approval cannot eliminate the deeper risk of an AI choosing the wrong product or seller.

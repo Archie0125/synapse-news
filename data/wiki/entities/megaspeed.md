@@ -1,7 +1,7 @@
 # Megaspeed
 
 
-*Mentioned in 25 articles*
+*Mentioned in 22 articles*
 
 
 ## Recent Mentions
@@ -9,9 +9,6 @@
 
 - **Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy** (2026-11-13)
   - Malaysia and Singapore’s probes show AI-chip export controls now depend less on borders than on policing opaque regional supply chains.
-
-- **What&#8217;s really at stake in the Jensen Huang saga** (2026-11-13)
-  - Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
 
 - **Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month** (2026-11-12)
   - Nvidia’s trillion-dollar slide proves its valuation included an enormous Jensen Huang premium—and the board now must show the company is bigger than its founder.
@@ -51,3 +48,6 @@
 
 - **Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang** (2026-11-09)
   - The Nvidia spy scandal isn't only about one CEO's affair. A single executive sits at the center of U.S. AI chip policy, and that makes him a national security risk.
+
+- **The race is on to sue Nvidia** (2026-11-09)
+  - Within hours of a 4% stock dip, lawyers filed against Nvidia. The case turns on whether Nvidia's denials about Megaspeed misled investors.

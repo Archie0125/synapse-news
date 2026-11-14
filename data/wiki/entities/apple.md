@@ -1,7 +1,7 @@
 # Apple
 
 
-*Mentioned in 159 articles*
+*Mentioned in 136 articles*
 
 
 ## Recent Mentions
@@ -15,12 +15,6 @@
 
 - **Apple announces release dates for the first Apple Home Collection smart devices** (2026-11-13)
   - Apple’s Home Collection finally gives its smart-home push physical breadth, but premium prices and staggered availability weaken the ecosystem’s opening pitch.
-
-- **Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri** (2026-11-13)
-  - Apple’s Siri preview could make apps conversationally programmable, but its value depends on reliable action routing—not another polished assistant demo.
-
-- **Presentation: The Influence Toolkit** (2026-11-13)
-  - For senior technologists, influence is not soft-skill decoration; it is the mechanism that turns technical judgment into organizational outcomes.
 
 - **Switcher (2004)** (2026-11-13)
   - Switcher’s origin story shows that one concrete competitor demo can expose a product blind spot faster than years of platform dogma.
@@ -51,3 +45,9 @@
 
 - **Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more** (2026-11-13)
   - Amazon’s Apple sale is mostly noise around one tiny launch discount; the real value sits in older hardware clearance and mature accessories.
+
+- **Apple Maps in iOS 27 has hidden new feature I’ve been loving** (2026-11-13)
+  - Apple Maps’ weekly Local Lists could make restaurant discovery feel alive, but burying the feature undermines its best chance to challenge established recommendation apps.
+
+- **Apple Home’s new video doorbell, smart cameras now available to order** (2026-11-13)
+  - Apple’s first Home Collection cameras sell ecosystem simplicity at luxury prices, testing whether Home app convenience can outweigh cheaper, more mature security options.

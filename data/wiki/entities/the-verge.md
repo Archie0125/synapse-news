@@ -1,7 +1,7 @@
 # The Verge
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
@@ -27,6 +27,3 @@
 
 - **Soul Glo’s Diaspora Problems is a hardcore record like no other** (2026-11-08)
   - Ahead of a new Soul Glo album, Diaspora Problems still looks like the bar hardcore has to clear, because it never lets the energy drop.
-
-- **AI broke the cybersecurity world. What’s next?** (2026-11-07)
-  - AI is helping attackers find and exploit bugs faster than defenders can adapt, and the security industry is entering a dark age it has no answer for yet.

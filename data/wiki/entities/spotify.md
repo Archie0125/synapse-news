@@ -1,14 +1,11 @@
 # Spotify
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
-
-- **Presentation: The Influence Toolkit** (2026-11-13)
-  - For senior technologists, influence is not soft-skill decoration; it is the mechanism that turns technical judgment into organizational outcomes.
 
 - **The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps** (2026-11-13)
   - Xiaomi may have found a real use for rear screens: glanceable controls plus AI-made mini-apps, though execution will decide whether the idea survives novelty.

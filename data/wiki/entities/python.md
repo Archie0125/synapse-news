@@ -1,7 +1,7 @@
 # Python
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **Building a Reliable FMCSA Carrier Data Scraper with Python and Playwright** (2026-11-10)
   - A useful scraping guide that treats compliance as part of the design. The interesting part isn't Playwright, it's the dedupe and run logs that keep the data clean.
-
-- **Hosting gratis para bots de Discord: guía práctica 2026** (2026-11-07)
-  - A founder-written guide with an honest point: free Discord bot hosting is mostly about expiry dates, and a 4-day renewal cycle is a leash, not a gift.

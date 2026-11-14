@@ -1,7 +1,7 @@
 # NVIDIA
 
 
-*Mentioned in 16 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions

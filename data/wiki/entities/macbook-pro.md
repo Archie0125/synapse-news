@@ -1,7 +1,7 @@
 # MacBook Pro
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -33,6 +33,3 @@
 
 - **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
   - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.
-
-- **9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch** (2026-11-06)
-  - This week's Apple news is mostly small: subscription retention tricks, a removed Siri waitlist and a glowing logo. That tells you where Apple's attention is.

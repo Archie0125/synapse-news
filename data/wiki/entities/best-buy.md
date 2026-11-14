@@ -1,14 +1,11 @@
 # Best Buy
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
 
-
-- **Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy** (2026-11-13)
-  - Secretlab’s retail push is smart because premium chairs are experienced products, and no online spec sheet can tell buyers whether their backs approve.
 
 - **This year’s Meta Quest 3S early Black Friday doorbuster deal is the best I’ve ever seen** (2026-11-13)
   - Meta’s Quest 3S bundle is a genuinely aggressive holiday deal, but the gift card and game extras matter only if buyers will actually use them.

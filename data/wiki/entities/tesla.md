@@ -1,7 +1,7 @@
 # Tesla
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Why EV fast charging slows down after 80 percent** (2026-11-09)
   - The slowdown after 80 percent isn't a flaw. It's battery chemistry, and the 10-to-80 percent figure on spec sheets is the industry quietly admitting it.
-
-- **The Cybertruck’s Death Is Actually Great News for EVs** (2026-11-06)
-  - The Cybertruck's death isn't just Tesla's embarrassment: it signals that oversized EVs were a dead end and that battery cells belong in smaller, cheaper cars.

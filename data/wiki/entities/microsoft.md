@@ -1,14 +1,14 @@
 # Microsoft
 
 
-*Mentioned in 45 articles*
+*Mentioned in 39 articles*
 
 
 ## Recent Mentions
 
 
-- **The Microsoft Outage Is a Warning for the World** (2026-11-13)
-  - Microsoft’s outage shows cloud convenience has become systemic fragility: too many essential institutions still share the same corporate point of failure.
+- **Open Source DocumentDB 1.0 Reaches General Availability** (2026-11-14)
+  - DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
 
 - **Japanese workers return to fax machines during ongoing Microsoft 365 outage** (2026-11-13)
   - Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
@@ -16,14 +16,8 @@
 - **Microsoft&#8217;s massive Outlook outage continues** (2026-11-13)
   - A configuration change apparently disrupted Microsoft’s productivity empire for nearly two days, showing how one cloud fault can paralyze millions of workplaces.
 
-- **Microsoft’s latest email outage turned into a full blown global cloud crisis** (2026-11-13)
-  - Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
-
 - **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil** (2026-11-13)
   - Nvidia’s crisis creates an opening for challengers, but Israel has more to lose from weakened commitment than its startups can quickly replace.
-
-- **Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary** (2026-11-13)
-  - AI coding does not dilute accountability; it exposes teams that confused code production with engineering ownership long before copilots arrived.
 
 - **"LibreOffice works 365 days a year. Just saying."** (2026-11-13)
   - LibreOffice turned Microsoft’s subscription branding into an effective reliability joke, showing that open-source ownership remains a potent marketing advantage.
@@ -51,3 +45,9 @@
 
 - **Nebius tests the neocloud playbook with $40 billion in planned spending** (2026-11-12)
   - Nebius’s $40 billion bet could validate neocloud financing, but contract-backed debt becomes a trap when delayed capacity pushes revenue rightward and costs upward.
+
+- **Microsoft’s Outlook email hit by new outage** (2026-11-12)
+  - Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
+
+- **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?** (2026-11-12)
+  - Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.

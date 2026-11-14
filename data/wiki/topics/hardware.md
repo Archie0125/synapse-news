@@ -1,18 +1,10 @@
 # Hardware
 
 
-*461 articles in the last 7 days*
+*403 articles in the last 7 days*
 
 
 ## Latest
-
-
-### The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat
-
-*Wired | 2026-11-13*
-
-
-Saving Hubble could validate commercial satellite servicing, but NASA must weigh scientific upside against the nonnegotiable need for a controlled ending.
 
 
 ### TCL QM7L Mini-LED TV Review (2026)
@@ -63,30 +55,6 @@ Ending Cybertruck production turns weak demand into a trust test, because Tesla 
 Walking pads can make sedentary work less damaging, but the best machine is the one you will consistently use—not the one with the longest feature list.
 
 
-### Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti
-
-*Tom's Hardware | 2026-11-13*
-
-
-The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
-
-
-### Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs
-
-*Tom's Hardware | 2026-11-13*
-
-
-Intel’s nearly invisible 260K Plus looks less like innovation than channel segmentation: a 100MHz trim packaged for selected prebuilt buyers.
-
-
-### Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy
-
-*Tom's Hardware | 2026-11-13*
-
-
-Secretlab’s retail push is smart because premium chairs are experienced products, and no online spec sheet can tell buyers whether their backs approve.
-
-
 ### Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim
 
 *Tom's Hardware | 2026-11-13*
@@ -125,3 +93,27 @@ Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashi
 
 
 The explosive $7.5 billion narrative raises serious questions, but personal relationships are not substitutes for evidence of a coordinated smuggling operation.
+
+
+### Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12
+
+*Tom's Hardware | 2026-11-13*
+
+
+At $51.12, 8BitDo’s feature-rich controller is an easy recommendation—provided Switch 2 owners accept a firmware-update detour.
+
+
+### ‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims
+
+*Tom's Hardware | 2026-11-13*
+
+
+Employee loyalty may soften Jensen Huang’s fall, but it also exposes Nvidia’s dangerous dependence on one founder.
+
+
+### 1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests
+
+*Tom's Hardware | 2026-11-13*
+
+
+AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.

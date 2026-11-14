@@ -1,7 +1,7 @@
 # Warby Parker
 
 
-*Mentioned in 7 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,9 +21,3 @@
 
 - **Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10** (2026-11-12)
   - Google’s $395 smart glasses make a credible privacy-first comeback, but everyday wearability—not Gemini demos—will decide whether consumers forgive the category.
-
-- **Google's eyewear partners can't keep a lid on its smart glasses plans** (2026-11-06)
-  - Google's partners keep announcing its smart glasses before Google does. That's either sloppy coordination or the most effective leak campaign of the year.
-
-- **Android XR glasses officially get a December release date [Video]** (2026-11-06)
-  - Android XR glasses are finally shipping in December, but Google is leaning on eyewear brands and a Joaquin Phoenix film to sell them, which suggests the main pitch is style rather than a must-have use case.

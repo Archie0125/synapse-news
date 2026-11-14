@@ -1,10 +1,34 @@
 # Dev Tools
 
 
-*412 articles in the last 7 days*
+*355 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Open Source DocumentDB 1.0 Reaches General Availability
+
+*InfoQ | 2026-11-14*
+
+
+DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
+
+
+### Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules
+
+*InfoQ | 2026-11-14*
+
+
+Node.js putting debounce and throttle into core is a small change that quietly cuts the npm dependency sprawl the ecosystem has paid for with supply-chain risk for years.
+
+
+### Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions
+
+*InfoQ | 2026-11-14*
+
+
+Google is finally admitting that one mutable API shared by every customer was a trap, and date-stamped snapshots are the honest fix, even if adoption stays opt-in.
 
 
 ### macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64
@@ -29,30 +53,6 @@ AI proved most useful not as automotive magic, but as a patient technical partne
 
 
 A configuration change apparently disrupted Microsoft’s productivity empire for nearly two days, showing how one cloud fault can paralyze millions of workplaces.
-
-
-### Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri
-
-*InfoQ | 2026-11-13*
-
-
-Apple’s Siri preview could make apps conversationally programmable, but its value depends on reliable action routing—not another polished assistant demo.
-
-
-### Presentation: The Influence Toolkit
-
-*InfoQ | 2026-11-13*
-
-
-For senior technologists, influence is not soft-skill decoration; it is the mechanism that turns technical judgment into organizational outcomes.
-
-
-### Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary
-
-*InfoQ | 2026-11-13*
-
-
-AI coding does not dilute accountability; it exposes teams that confused code production with engineering ownership long before copilots arrived.
 
 
 ### Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability

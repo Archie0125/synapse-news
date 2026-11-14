@@ -1,7 +1,7 @@
 # Qualcomm
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,6 +18,3 @@
 
 - **Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running** (2026-11-10)
   - A brand-new Zelda remake running on Android phones within a week is impressive, but '30 FPS' is really 15 FPS with AI frame generation, and Nintendo's lawyers will notice.
-
-- **Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions** (2026-11-06)
-  - SpaceX can put cell towers in space, but becoming a real carrier means winning on the ground, where the bill could top $200 billion.

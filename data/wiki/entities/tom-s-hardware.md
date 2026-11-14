@@ -1,7 +1,7 @@
 # Tom's Hardware
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM** (2026-11-08)
   - A $32 PC air duster now holds a motor good enough to fly a jet-style RC plane, which shows how cheap and powerful brushless motors have become.
-
-- **Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live** (2026-11-07)
-  - Elegoo's early Black Friday deals are real, but the $1 filament bundles show where the money is: selling consumables to locked-in printer owners.

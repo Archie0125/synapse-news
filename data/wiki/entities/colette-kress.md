@@ -1,14 +1,11 @@
 # Colette Kress
 
 
-*Mentioned in 11 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
 
-
-- **Jensen Huang didn’t show confidence in his successor, report says** (2026-11-13)
-  - Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
 
 - **Meet Colette Kress, Nvidia’s New Interim CEO** (2026-11-12)
   - Colette Kress is Nvidia’s safest stabilizer after Jensen Huang’s scandal, but preserving momentum will require strategic authority, not merely Wall Street credibility.

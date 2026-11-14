@@ -1,7 +1,7 @@
 # Apple Intelligence
 
 
-*Mentioned in 10 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,9 +30,3 @@
 
 - **Apple Intelligence completes regulatory registration for iPad and Mac in China** (2026-11-09)
   - Apple Intelligence clearing China's registration for iPad and Mac is progress, but each device category needing separate approval shows Beijing, not Cupertino, sets the launch schedule.
-
-- **Every Mac comes with an (undocumented) family member classifier** (2026-11-07)
-  - Apple sells on-device privacy, but every Mac since 2022 quietly builds a mostly undocumented graph of your relationships, and on-device does not mean consented.
-
-- **watchOS 27.3 adds new Apple Watch feature that I absolutely love** (2026-11-06)
-  - Siri Recap is the most useful thing Apple Intelligence has shipped, and also the first Apple feature that asks you to wear an always-listening note-taker on your wrist.

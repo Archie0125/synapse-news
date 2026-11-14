@@ -1957,5 +1957,159 @@
     "status": "pending",
     "scheduled_for": "2026-11-15T00:59:20.108865+00:00",
     "queued_at": "2026-11-13T18:39:20.108865+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "Nvidia lost more than $1 trillion in market value over one man's exit.\n\nThat's not a scandal tax. It's a succession-plan tax.\n\nColette Kress is an excellent CFO. But interim CEO of the company holding up the whole AI buildout? The board had years to build a bench.\n\nThe allegations still have to be proven. The governance failure already is.\n\nThe real tell: whether Nvidia picks an outsider CEO before Q1 earnings.",
+    "article_url": "/en/ai-ml/2026-11-13-what-s-really-at-stake-in-the-jensen-huang-saga-en/",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-14T18:04:27.641570+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T18:04:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "黃仁勳下台，台灣受到的衝擊可能比華爾街還大。\n\n他不只是 Nvidia 執行長，也是台積電、廣達、緯創這條 AI 供應鏈最強的業務。\n\n市值蒸發 1 兆美元是 Nvidia 自己的事，訂單節奏會不會亂掉，才是台灣廠商的事。\n\n接下來先看兩件事：Kress 會不會親自來台，還有明年 Computex 主題演講由誰上台。\n\n台上沒有皮衣的那一刻，這場風波才算真正落地。",
+    "schedule_priority": 1,
+    "generated_at": "2026-11-14T18:04:27.641613+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T20:24:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "最多 150 萬顆 Nvidia GPU 疑似流入中國。\n\n先講清楚：數字還沒被證實，這是警報，不是判決。\n\n但不管最後坐實多少，有件事已經很清楚：華府寫的出口管制，實際效力取決於吉隆坡和新加坡的發票查不查得到。\n\n美國國會、馬來西亞、新加坡同時開查，不是巧合，而是大家都怕被當成破口。\n\n下一個被點名的轉運點，大概也逃不出東南亞。",
+    "article_url": "/zh/ai-ml/2026-11-13-what-s-really-at-stake-in-the-jensen-huang-saga-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-14T18:04:27.641625+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-14T22:44:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "The Nvidia smuggling story has everything Hollywood wants: a fund manager, a wife, a CEO, a $7.5 billion number.\n\nNone of that convicts anyone.\n\nSmuggling cases get won with shipping manifests, server serial numbers and money trails. The bedroom stuff is what gets the clicks.\n\nThe real scandal is probably more boring: export controls that relied on paperwork nobody was required to check.\n\nBet: the indictment mentions invoices 10x more than affairs.",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-14T18:04:27.641638+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T01:04:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "zh",
+    "text": "Microsoft 365 掛了快兩天，日本有公司直接把傳真機搬出來用。\n\n尷尬的不是日本還留著傳真機，是兆元級雲端讓它又變得有用了。\n\n同一週 Claude 也短暫當機。\n\n信箱、Teams、文件、AI 全押在同一朵雲上，等於把全公司的單點故障外包出去。\n\n這不是意外，是架構選擇的帳單。\n\n下次董事會問備援計畫，IT 最好別回答「等微軟修好」。",
+    "article_url": "/zh/industry/2026-11-13-yi-duo-yun-bao-ban-quan-gong-si-microsoft-365-dang-ji-bu-shi-zh/",
+    "schedule_priority": 2,
+    "generated_at": "2026-11-14T18:04:27.641643+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T03:24:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "A nearly two-day Microsoft 365 outage stalled courts, schools and governments at the same time.\n\nThat's not an outage. It's systemic risk that nobody regulates as systemic risk.\n\nBanks have to prove they can survive a vendor failure. Your city government's email apparently doesn't.\n\nPrediction: within 18 months, the EU or Japan requires critical public bodies to keep a non-Microsoft fallback for communications.\n\nThe fax lobby will be thrilled.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-14T18:04:27.641656+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T05:44:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Everyone's saying Huang's exit is AMD's big chance.\n\nWrong target. AMD still has to win on software, and ROCm didn't get better overnight.\n\nThe quieter winner is Google. TPUs don't ask customers to bet on a vendor's leadership. You rent them by the hour inside a cloud you already use.\n\nThe exposed ones are CoreWeave and Nebius, whose balance sheets assume uninterrupted Nvidia supply.\n\nWatch neocloud bond spreads, not AMD's stock.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-14T18:04:27.641662+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T08:04:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "ChatGPT Wallet, Gemini plugging into Google Wallet, x402 letting agents pay per request. The plumbing for AI shopping is basically done.\n\nThe trust layer isn't.\n\nUnited already banned agent bookings. Studies show chatbots recommending fake stores.\n\nSo when your agent buys from a scam site, who eats the chargeback: you, your bank, or the AI company?\n\nWhoever answers that first wins agentic commerce. My bet is Visa or Mastercard, not an AI lab.",
+    "schedule_priority": 3,
+    "generated_at": "2026-11-14T18:04:27.641693+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T10:24:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "後黃仁勳時代，最該緊張的不是 Nvidia，是 CoreWeave、Nebius 這種新雲。\n\n它們的商業模式說穿了就是：借錢買 Nvidia GPU，再租出去。\n\n供貨一亂、價格一變，它們的資產負債表會比 Nvidia 股價先出事。\n\nAMD 想趁機搶市，得先過軟體生態這關；Google TPU 反而最輕鬆，客戶根本不用換雲。\n\n半年內，應該會有第一家新雲宣布「多元化晶片採購」。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-14T18:04:27.641682+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T12:44:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "AI 代理幫你買東西，真正的戰爭不在技術，在「客人算誰的」。\n\nUnited 禁止 AI 代理訂票，不是怕機器人，是怕失去會員、加購和你的資料。\n\n航空、飯店、電商遲早會跟進：要嘛封鎖代理，要嘛向代理收過路費。\n\n蝦皮、momo 也逃不掉。\n\n明年雙 11，大概會出現第一個「只給真人的獨家價」。",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-14T18:04:27.641699+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T15:04:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Apple's smart home launch is a loyalty test disguised as a product line.\n\nHomeView, a new Apple TV 4K, cameras, a doorbell. Prices start at $299, and it all works best if everyone in the house has an iPhone.\n\nDay one shipped with broken YouTube and a security patch. On a doorbell camera.\n\nApple doesn't need to beat Ring on price. It needs Siri to stop embarrassing it.\n\nIf Siri AI flops here, the living room stays Amazon's for five more years.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-14T18:04:27.641708+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T17:24:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "en",
+    "text": "Android XR glasses start at $395, with Gemini built in and iPhone support. Google finally priced smart glasses like an accessory, not a dev kit.\n\nDemos won't decide this. Two boring things will:\n\nWill people around you tolerate a camera on your face?\n\nWhat does it cost if you need prescription lenses?\n\nMost adults need vision correction. If Rx lenses push the real price past $700, this stays a gadget.\n\nWhoever signs an optician chain first wins.",
+    "schedule_priority": 4,
+    "generated_at": "2026-11-14T18:04:27.641718+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T19:44:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Apple 終於認真做智慧家庭，但門檻很現實：299 美元起跳，還幾乎綁定 iPhone。\n\n台灣常見的家庭組合是：爸媽用 Android、小孩用 iPhone、電視插的是小米盒子。\n\n在這種家裡，HomeView 只服務得到一半的人。\n\n再加上首日就要補安全漏洞。攝影機跟門鈴這種東西，信任用掉一次就很難拿回來。\n\nApple 智慧家庭在台灣的天花板，就是 iPhone 的市佔率。",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-14T18:04:27.641713+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-15T22:04:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "hot_take",
+    "lang": "zh",
+    "text": "Android XR 眼鏡 395 美元起，內建 Gemini，連 iPhone 都支援。\n\n但台灣人買眼鏡，第一個問題不是 AI 多聰明，而是「能不能配度數」。\n\n近視率這麼高的地方，鏡片要加多少錢，比任何 demo 都關鍵。\n\n第二個問題：捷運上有人戴著鏡頭對著你，你舒服嗎？\n\n誰先跟寶島眼鏡這種通路談成合作，誰就先拿下台灣市場。",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-14T18:04:27.641723+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-16T00:24:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
+  },
+  {
+    "type": "article_link",
+    "lang": "en",
+    "text": "AWS, Google and Microsoft rarely agree on anything. All three backing the same MIT-licensed, MongoDB-compatible database sends a message.\n\nDocumentDB 1.0 isn't about features. It's the hyperscalers' answer to the SSPL.\n\nMongoDB changed its license to stop clouds from reselling it. The clouds just built an exit together.\n\nGive it two years: \"MongoDB-compatible\" becomes the standard, and MongoDB becomes one implementation of it.",
+    "article_url": "/en/developer-tools/2026-11-14-open-source-documentdb-1-0-reaches-general-availability-en/",
+    "schedule_priority": 5,
+    "generated_at": "2026-11-14T18:04:27.641727+00:00",
+    "status": "pending",
+    "scheduled_for": "2026-11-16T02:44:27.644847+00:00",
+    "queued_at": "2026-11-14T18:04:27.644847+00:00"
   }
 ]

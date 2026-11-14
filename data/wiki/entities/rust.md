@@ -1,7 +1,7 @@
 # Rust
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,6 +18,3 @@
 
 - **KetchUp – Open-source SketchUp alternative built with Rust and WebGPU** (2026-11-08)
   - An open-source, browser-native SketchUp alternative aimed at woodworkers is smart positioning. Hobbyists are exactly the users subscription CAD has been pushing away.
-
-- **Every Windows 11 app should kill Electron, and Discord just showed why** (2026-11-07)
-  - Discord's Rust client is a strong demo against Electron's bloat, but one 15-second launch clip from the CTO is marketing, not a benchmark.

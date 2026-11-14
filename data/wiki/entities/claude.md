@@ -1,7 +1,7 @@
 # Claude
 
 
-*Mentioned in 17 articles*
+*Mentioned in 16 articles*
 
 
 ## Recent Mentions

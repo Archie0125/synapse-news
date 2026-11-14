@@ -1,7 +1,7 @@
 # WIRED
 
 
-*Mentioned in 12 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -36,9 +36,3 @@
 
 - **The 9 Best TV Shows to Stream This Month (November 2026)** (2026-11-09)
   - WIRED's November picks show tech anxiety is now prestige TV's favorite genre: crypto scandals, surveillance, and dystopia sell.
-
-- **Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026** (2026-11-06)
-  - Even at its 'lowest price,' a $1,495 smart minifridge is a design object, not an appliance, and the new sub-$1,000 Essential is the real story.
-
-- **Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites** (2026-11-06)
-  - Mattresses are 'on sale' all year, so early Black Friday discounts of up to 35% are only worth it if you already know which bed you want.

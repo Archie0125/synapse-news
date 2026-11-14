@@ -1,7 +1,7 @@
 # Android XR
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -33,6 +33,3 @@
 
 - **Here’s how Google’s Android XR glasses are handling the camera & privacy** (2026-11-12)
   - Google has designed stronger camera safeguards into Android XR glasses, but hardware indicators alone cannot erase a stigma created by years of privacy abuse.
-
-- **Android XR glasses officially get a December release date [Video]** (2026-11-06)
-  - Android XR glasses are finally shipping in December, but Google is leaning on eyewear brands and a Joaquin Phoenix film to sell them, which suggests the main pitch is style rather than a must-have use case.

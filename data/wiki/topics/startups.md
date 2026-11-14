@@ -1,42 +1,10 @@
 # Startups
 
 
-*157 articles in the last 7 days*
+*136 articles in the last 7 days*
 
 
 ## Latest
-
-
-### This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood
-
-*Wired | 2026-11-13*
-
-
-Mansa’s AI microdrama expands Black stories by shrinking Black employment, exposing the contradiction at the heart of automated representation.
-
-
-### Uber confirms hackers stole thousands of drivers’ license information in data breach
-
-*TechCrunch | 2026-11-13*
-
-
-Uber’s breach shows artificial intelligence vendors are becoming high-value supply-chain targets long before customers build adequate controls around them.
-
-
-### Microsoft’s latest email outage turned into a full blown global cloud crisis
-
-*TechCrunch | 2026-11-13*
-
-
-Microsoft’s cascading outage shows cloud consolidation turns one unexplained server failure into a global workplace shutdown.
-
-
-### Jensen Huang didn’t show confidence in his successor, report says
-
-*TechCrunch | 2026-11-13*
-
-
-Huang’s reported dismissal of his successor looks worse because her caution over enormous credit guarantees now resembles governance, not hesitation.
 
 
 ### Israel’s VCs see opportunity for challengers in Nvidia’s turmoil
@@ -133,3 +101,35 @@ Nebius’s $40 billion bet could validate neocloud financing, but contract-backe
 
 
 Muse’s calling feature makes agents tangibly useful, but charging $20 monthly turns saved awkwardness into a premium convenience before trust norms are settled.
+
+
+### Microsoft’s Outlook email hit by new outage
+
+*TechCrunch | 2026-11-12*
+
+
+Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
+
+
+### Jensen Huang’s exit puts Nvidia’s support for open source in question
+
+*TechCrunch | 2026-11-12*
+
+
+Nvidia’s open-source commitment now faces its clearest test: whether it was durable strategy or merely Jensen Huang’s useful counterweight to frontier labs.
+
+
+### Jensen Huang was having a third affair, Reuters reports
+
+*TechCrunch | 2026-11-12*
+
+
+Huang’s reported third affair turns a personal scandal into a board-governance failure, because repeated undisclosed workplace relationships can destabilize even Nvidia-sized institutions.
+
+
+### Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?
+
+*TechCrunch | 2026-11-12*
+
+
+Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.

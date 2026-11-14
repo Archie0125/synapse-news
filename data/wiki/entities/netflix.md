@@ -1,7 +1,7 @@
 # Netflix
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,6 +18,3 @@
 
 - **How much Netflix cost in 2007 vs. 2026** (2026-11-08)
   - Netflix started streaming in 2007 to get ahead of Blockbuster. Nearly 20 years later, regular price hikes have become one of its most dependable habits.
-
-- **The Duo apps are coming, says Apple** (2026-11-06)
-  - Apple's 100,000-app milestone shows it's fixing the Duo's software gap fast, but sellouts at $1,999 prove buyers never waited for the apps anyway.

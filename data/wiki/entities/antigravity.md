@@ -1,14 +1,11 @@
 # Antigravity
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
-
-- **The Verge’s 2026 gift guide for dads** (2026-11-13)
-  - The guide sensibly treats dads as people with hobbies, though its gadget-heavy picks still confuse memorable gifts with expensive specifications.
 
 - **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (2026-11-10)
   - Google is shipping frontier models monthly now, and Carbon's real bet isn't benchmarks but the 'swarm' — selling one prompt as a whole team of agents.

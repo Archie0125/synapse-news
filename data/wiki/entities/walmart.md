@@ -1,14 +1,11 @@
 # Walmart
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
-
-- **Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti** (2026-11-13)
-  - The $730 discount makes this CyberPowerPC tempting, but buyers should price the components—not the markdown—and notice the non-K processor.
 
 - **Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more** (2026-11-12)
   - The standout Apple discounts are real, but a sprawling Black Friday roundup still rewards price verification more than impulse buying.

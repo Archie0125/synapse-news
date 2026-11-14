@@ -1,7 +1,7 @@
 # iPad
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **10 useful iPad apps that could make your daily life easier** (2026-11-08)
   - The most notable thing about this iPad app roundup is its 'minimal AI' filter, a sign that 'no AI' is becoming a selling point.
-
-- **How to use your old tablet to build a live streaming setup** (2026-11-07)
-  - Elgato's mobile app turns an old tablet into a Stream Deck, which helps streamers save money but could reduce demand for Elgato's own hardware.

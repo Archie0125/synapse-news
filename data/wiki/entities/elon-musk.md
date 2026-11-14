@@ -1,7 +1,7 @@
 # Elon Musk
 
 
-*Mentioned in 14 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -9,9 +9,6 @@
 
 - **‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk** (2026-11-13)
   - Ending Cybertruck production turns weak demand into a trust test, because Tesla must now prove that service and parts will outlast the vehicle's hype.
-
-- **Silicon Valley claims to know the future. So why did it get the midterms so wrong?** (2026-11-13)
-  - Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
 
 - **Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang** (2026-11-12)
   - Hiring Huang could accelerate Musk’s chip ambitions, but engineering brilliance cannot erase the security and governance risks surrounding his departure.
@@ -37,14 +34,5 @@
 - **Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board** (2026-11-08)
   - Sequoia's restructuring looks less like strategy and more like a breakup, and Botha joining the SpaceX board without sign-off shows how the trust broke down.
 
-- **He Ran on Fighting Data Centers. Now, He’s Going to Congress** (2026-11-07)
-  - Will Lawrence turned opposition to data centers into a seat in Congress, which shows that AI infrastructure is no longer only a zoning fight. It's a winning campaign message.
-
 - **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
   - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.
-
-- **The Cybertruck’s Death Is Actually Great News for EVs** (2026-11-06)
-  - The Cybertruck's death isn't just Tesla's embarrassment: it signals that oversized EVs were a dead end and that battery cells belong in smaller, cheaper cars.
-
-- **Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations** (2026-11-06)
-  - Apple's careful neutrality is about to get audited: a Democratic Congress wants to know whether its App Store calls on ICE apps were policy or politics.

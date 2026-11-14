@@ -1,7 +1,7 @@
 # Policy
 
 
-*155 articles in the last 7 days*
+*134 articles in the last 7 days*
 
 
 ## Latest
@@ -47,44 +47,12 @@ The explosive $7.5 billion narrative raises serious questions, but personal rela
 Employee loyalty may soften Jensen Huang’s fall, but it also exposes Nvidia’s dangerous dependence on one founder.
 
 
-### What&#8217;s really at stake in the Jensen Huang saga
-
-*The Verge | 2026-11-13*
-
-
-Huang’s resignation may be only the opening act; scrutiny of Nvidia’s China ties could test both government credibility and the AI industry’s stability.
-
-
 ### Meta discussed attacking Jonathan Haidt — now even his haters are annoyed
 
 *The Verge | 2026-11-13*
 
 
 Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.
-
-
-### The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
-
-*MIT Technology Review | 2026-11-13*
-
-
-Silicon Valley’s political misread and Nvidia’s chip-tracking contradiction share one lesson: public tech narratives deserve less trust than private incentives.
-
-
-### Silicon Valley claims to know the future. So why did it get the midterms so wrong?
-
-*MIT Technology Review | 2026-11-13*
-
-
-Silicon Valley’s political misread suggests its celebrated foresight often stops where executive access, short-term incentives, and ideological comfort begin.
-
-
-### More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
-
-*MIT Technology Review | 2026-11-13*
-
-
-Brain-interface volunteers are not disposable test infrastructure; years-long bodily and intellectual contributions justify autonomy, recognition, and fewer secrecy constraints.
 
 
 ### Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces
@@ -165,3 +133,35 @@ Google understands smart glasses have a trust problem, but privacy promises will
 
 
 Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize workplace data long after employees lose meaningful control over it.
+
+
+### Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight
+
+*Wired | 2026-11-12*
+
+
+DeepMind’s union fight shows that ethical objections to military AI are evolving from employee dissent into a legally enforceable challenge to management.
+
+
+### Climate Change Has Pushed the World's Ice Out of Its Safe Zone
+
+*Wired | 2026-11-12*
+
+
+The cryosphere is leaving its historic safe zone, making climate adaptation less about avoiding damage and more about limiting irreversible losses already underway.
+
+
+### Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently
+
+*Wired | 2026-11-12*
+
+
+Alex Karp’s progressive label looks less like an ideology than a flexible brand that must be judged against Palantir’s products and contracts.
+
+
+### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
+
+*Tom's Hardware | 2026-11-12*
+
+
+Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.

@@ -1,7 +1,7 @@
 # SpaceX
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
@@ -27,6 +27,3 @@
 
 - **The one Starlink perk that gives it an edge over traditional internet** (2026-11-08)
   - Starlink's best selling point isn't speed. It's that it keeps working when local networks go down, and that resilience costs extra.
-
-- **Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions** (2026-11-06)
-  - SpaceX can put cell towers in space, but becoming a real carrier means winning on the ground, where the bill could top $200 billion.

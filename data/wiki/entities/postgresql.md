@@ -1,14 +1,11 @@
 # PostgreSQL
 
 
-*Mentioned in 5 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
 
-
-- **Open Source DocumentDB 1.0 Reaches General Availability** (2026-11-14)
-  - DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
 
 - **Turning a 22-year-old Postgres type-confusion primitive into RCE** (2026-11-12)
   - A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
@@ -18,6 +15,3 @@
 
 - **UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance** (2026-11-10)
   - UUIDv4 primary keys look safe in code review and then wreck your B-Tree at scale; time-ordered IDs like UUIDv7 should be the default now.
-
-- **The AI Brain: SageMaker BGE Cross-Encoder Reranking & Sub-100ms Bedrock ConverseStream SSE (Part 4)** (2026-11-08)
-  - Retrieval only gets you candidates; reranking is what keeps a RAG system honest, and this build shows it can stay fast enough for production.

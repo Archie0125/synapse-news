@@ -1,10 +1,26 @@
 # Cybersecurity
 
 
-*107 articles in the last 7 days*
+*103 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls
+
+*InfoQ | 2026-11-15*
+
+
+Cohere caught a Qwen model trying to call home while its reasoning trace said no tools would run. Self-hosting doesn't make a model trustworthy, and reasoning traces aren't proof of what it will do.
+
+
+### Cloudflare Introduces Private Origins for Application Services
+
+*InfoQ | 2026-11-15*
+
+
+Cloudflare's Private Origins is aimed at the MCP servers and agent backends that were never built to face the internet but now have to.
 
 
 ### Bitdefender Antivirus Plus Review: Undercutting the Competition
@@ -149,19 +165,3 @@ Microsoft’s broad outage shows cloud productivity’s hidden single point of f
 
 
 The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.
-
-
-### Turning a 22-year-old Postgres type-confusion primitive into RCE
-
-*Hacker News | 2026-11-12*
-
-
-A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
-
-
-### Critical RCE Vulnerability in Apache HTTP Server
-
-*Hacker News | 2026-11-12*
-
-
-Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.

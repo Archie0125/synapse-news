@@ -1,7 +1,7 @@
 # iPad
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **Apple HomeView review: An adorable smart display that earns its place** (2026-11-12)
   - HomeView succeeds by looking purpose-built rather than like a stranded iPad, though Siri AI must provide lasting utility after the adorable hardware loses its novelty.
-
-- **10 useful iPad apps that could make your daily life easier** (2026-11-08)
-  - The most notable thing about this iPad app roundup is its 'minimal AI' filter, a sign that 'no AI' is becoming a selling point.

@@ -1,7 +1,7 @@
 # SaaStr
 
 
-*Mentioned in 11 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -33,9 +33,3 @@
 
 - **Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?** (2026-11-09)
   - Getting paid on time is mostly a matter of process: start reminders 60 days before renewal, and keep mission-critical service running for enterprise customers.
-
-- **Jason’s Takes on This Week’s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash’s Third Competitor** (2026-11-08)
-  - A real 72% inference bill cut from switching models proves cheap AI has finally reached production, and founders who never re-benchmark are leaving margin on the table.
-
-- **Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?** (2026-11-08)
-  - VCs notice confidence first, but the useful version is knowing your numbers cold and admitting what you don't know, not charisma.

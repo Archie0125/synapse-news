@@ -1,7 +1,7 @@
 # Reddit
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **AMD admits GPU driver bug is writing data continuously, wearing out SSDs** (2026-11-09)
   - AMD's driver utility reportedly ate about 1% of users' SSD life each month while their PCs sat idle, and it's the second logging bug of this kind in a year.
-
-- **Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone** (2026-11-08)
-  - Running a 2.8-trillion-parameter model at home on old Optane is a clever hack, but at 0.85 tokens per second it mostly shows how far home setups are from frontier AI.

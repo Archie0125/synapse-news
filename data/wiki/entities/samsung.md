@@ -1,7 +1,7 @@
 # Samsung
 
 
-*Mentioned in 30 articles*
+*Mentioned in 28 articles*
 
 
 ## Recent Mentions

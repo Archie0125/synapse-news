@@ -1,7 +1,7 @@
 # 9to5Google
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **The Sideload 051: Would you let Ring fly around your house?** (2026-11-10)
   - Ring's Drone Cam forces an awkward question: is an indoor flying camera from Amazon a security upgrade or a surveillance product?
-
-- **Android tablets are back, but are they for you?** (2026-11-08)
-  - Android tablets are selling again, but brands keep chasing giant iPad Pro rivals while the small-tablet buyers who actually exist get mostly ignored.

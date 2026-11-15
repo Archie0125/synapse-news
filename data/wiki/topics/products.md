@@ -1,10 +1,18 @@
 # Products
 
 
-*863 articles in the last 7 days*
+*784 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Cloudflare Introduces Private Origins for Application Services
+
+*InfoQ | 2026-11-15*
+
+
+Cloudflare's Private Origins is aimed at the MCP servers and agent backends that were never built to face the internet but now have to.
 
 
 ### TCL QM7L Mini-LED TV Review (2026)
@@ -133,11 +141,3 @@ A configuration change apparently disrupted Microsoft’s productivity empire fo
 
 
 Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.
-
-
-### Jensen Huang was reckless with the environment, too
-
-*The Verge | 2026-11-13*
-
-
-Nvidia’s climate rhetoric cannot outrun the physical bill for AI: more factories, strained power grids, rising emissions, and looming e-waste.

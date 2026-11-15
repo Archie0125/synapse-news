@@ -1,7 +1,7 @@
 # ChatGPT
 
 
-*Mentioned in 13 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -36,12 +36,3 @@
 
 - **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
   - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.
-
-- **This is what ChatGPT personally feels about humans** (2026-11-08)
-  - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
-
-- **I counted every server in the official MCP Registry: 59,603 entries, and October alone added 16,282** (2026-11-08)
-  - MCP's registry reached nearly 60,000 servers and October alone added 16,282, which looks like adoption but may increasingly be noise.
-
-- **Claude Personal Finance vs. ChatGPT Finances: What sets them apart?** (2026-11-07)
-  - Claude and ChatGPT offer nearly identical finance features, so privacy settings are the real difference, and the timing just before Anthropic's IPO is notable.

@@ -1,7 +1,7 @@
 # NVIDIA
 
 
-*Mentioned in 15 articles*
+*Mentioned in 12 articles*
 
 
 ## Recent Mentions
@@ -40,14 +40,5 @@
 - **NVIDIA DLSS 4.5 has presets you should know about** (2026-11-10)
   - Upscaling is now required for PC gaming rather than optional, and the fact that DLSS 4.5's hidden presets matter this much shows how much control has moved from game developers to NVIDIA.
 
-- **OpenAI raises $11B at a $1.25T valuation** (2026-11-08)
-  - OpenAI still raised $11B, but closing just 37% of its target at a lower price shows investor appetite has a ceiling, even for OpenAI.
-
 - **NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts** (2026-11-08)
   - NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.
-
-- **This is what ChatGPT personally feels about humans** (2026-11-08)
-  - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.
-
-- **Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)** (2026-11-08)
-  - Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.

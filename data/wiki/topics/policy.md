@@ -1,7 +1,7 @@
 # Policy
 
 
-*134 articles in the last 7 days*
+*128 articles in the last 7 days*
 
 
 ## Latest

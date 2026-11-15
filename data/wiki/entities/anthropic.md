@@ -1,11 +1,14 @@
 # Anthropic
 
 
-*Mentioned in 37 articles*
+*Mentioned in 34 articles*
 
 
 ## Recent Mentions
 
+
+- **Anthropic Outlines Its AI-Powered Code Review Process for Claude Code** (2026-11-15)
+  - Anthropic doubled merged PRs while reverts fell over 40%, but its real innovation is deciding which code still needs a human.
 
 - **Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr** (2026-11-13)
   - This chaotic week exposed the same fault line across venture and artificial intelligence: ambitious structures survive only while liquidity and demand cooperate.
@@ -48,6 +51,3 @@
 
 - **Tracking Anthropic-discovered vulnerabilities** (2026-11-10)
   - Anthropic's Project Glasswing is great at finding bugs and much worse at getting them fixed: 37,966 findings, just 217 fixed, and maintainers left to sort the rest.
-
-- **Anthropic takes on Google and Microsoft with Claude Sheets** (2026-11-10)
-  - Claude Sheets isn't about spreadsheets; it's Anthropic trying to own the workspace instead of renting space inside Google's and Microsoft's suites.

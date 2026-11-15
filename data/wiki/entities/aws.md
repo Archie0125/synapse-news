@@ -1,7 +1,7 @@
 # AWS
 
 
-*Mentioned in 6 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,9 +18,3 @@
 
 - **AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications** (2026-11-09)
   - TorchNeuron goes after CUDA's real moat, the cost of switching, but Trainium only wins if 'no code changes' also means no performance surprises.
-
-- **Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal** (2026-11-08)
-  - Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.
-
-- **Babelfish TDS Flaws: A Practical Patch Plan for the Pre-Auth RCE Path** (2026-11-08)
-  - The Babelfish pre-auth RCE is a reminder that compatibility layers add attack surface: adding SQL Server support to Postgres quietly opened a door before login.

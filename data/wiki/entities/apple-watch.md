@@ -1,7 +1,7 @@
 # Apple Watch
 
 
-*Mentioned in 12 articles*
+*Mentioned in 10 articles*
 
 
 ## Recent Mentions
@@ -36,9 +36,3 @@
 
 - **9to5Mac Overtime 089: Live Rewind, Siri Recap, and Apple Watch privacy** (2026-11-09)
   - The real story in this episode isn't Safari's vertical tabs. It's Apple Watch features that raise an uncomfortable question: is your wrist always listening?
-
-- **5 unexpected uses for your old smartwatch** (2026-11-08)
-  - Turning an old smartwatch into an AI voice remote is a clever reuse, but it's also a reminder that short software support is what fills those drawers.
-
-- **How often should you restart your Fitbit watch?** (2026-11-07)
-  - Restarting a Fitbit is harmless and often fixes glitches, but the real lesson is not to confuse restart with reset, which wipes your data.

@@ -1,7 +1,7 @@
 # Sony
 
 
-*Mentioned in 15 articles*
+*Mentioned in 13 articles*
 
 
 ## Recent Mentions
@@ -45,9 +45,3 @@
 
 - **Samsung Galaxy S27 series camera specs leak, and they’re disappointing** (2026-11-09)
   - If these leaked specs are right, the S27 Ultra's camera advantage is shrinking. Samsung is spreading its best hardware across more models instead of pushing the top end forward.
-
-- **Why you should never put your PlayStation 5 on a carpeted floor** (2026-11-07)
-  - Sony's vague carpet guidance leaves PS5 owners guessing, but the advice is simple: carpet feeds dust into the vents, and the floor puts the console in harm's way.
-
-- **What discs can a PlayStation 5 play?** (2026-11-07)
-  - Sony is ending disc-based games in 2028, so the PS5's broad disc compatibility now matters less as a feature and more as a way to keep physical media alive.

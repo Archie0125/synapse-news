@@ -1,10 +1,18 @@
 # Hardware
 
 
-*403 articles in the last 7 days*
+*367 articles in the last 7 days*
 
 
 ## Latest
+
+
+### AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded
+
+*ServeTheHome | 2026-11-14*
+
+
+AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
 
 
 ### TCL QM7L Mini-LED TV Review (2026)
@@ -109,11 +117,3 @@ At $51.12, 8BitDo’s feature-rich controller is an easy recommendation—provid
 
 
 Employee loyalty may soften Jensen Huang’s fall, but it also exposes Nvidia’s dangerous dependence on one founder.
-
-
-### 1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests
-
-*Tom's Hardware | 2026-11-13*
-
-
-AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.

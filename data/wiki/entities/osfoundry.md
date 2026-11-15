@@ -1,7 +1,7 @@
 # osFoundry
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **Cara membiarkan Claude Code menaruh aplikasi kecil ke Room osFoundry setelah kamu menyetujuinya** (2026-11-11)
   - osFoundry keeps AI agents from pushing code straight into a shared workspace by requiring a human to approve each change, which is how agent deployments should work.
-
-- **How to message the AI agent on your laptop from your phone with Telegram** (2026-11-08)
-  - Using a private Telegram bot as a remote control for a laptop agent is a smart low-tech idea, but it turns the bot token into your most sensitive credential.

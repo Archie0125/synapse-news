@@ -1,14 +1,11 @@
 # Microsoft
 
 
-*Mentioned in 39 articles*
+*Mentioned in 35 articles*
 
 
 ## Recent Mentions
 
-
-- **Open Source DocumentDB 1.0 Reaches General Availability** (2026-11-14)
-  - DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
 
 - **Japanese workers return to fax machines during ongoing Microsoft 365 outage** (2026-11-13)
   - Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
@@ -51,3 +48,6 @@
 
 - **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?** (2026-11-12)
   - Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
+
+- **Azure Logic Apps Standard Gets a Local CLI in Preview** (2026-11-12)
+  - Azure Logic Apps finally gains a credible terminal-first workflow, but preview status means automation teams should experiment before standardizing on it.

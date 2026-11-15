@@ -1,7 +1,7 @@
 # Apple
 
 
-*Mentioned in 136 articles*
+*Mentioned in 124 articles*
 
 
 ## Recent Mentions

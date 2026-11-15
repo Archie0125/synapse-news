@@ -1,7 +1,7 @@
 # Engadget
 
 
-*Mentioned in 13 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
@@ -27,21 +27,3 @@
 
 - **5 Nintendo Switch 2 features everyone should know about** (2026-11-09)
   - The Switch 2 is mostly a refinement, so its most useful upgrades are small conveniences like controller finding and game sharing that many owners never notice.
-
-- **The reason why some USB ports are teal** (2026-11-08)
-  - Teal USB ports usually signal faster USB 3.1 Gen 2, but color coding is a hint, not a rule, which is exactly why USB stays confusing.
-
-- **The pros and cons of using your laptop with the lid closed** (2026-11-08)
-  - Lid open or closed barely matters for your laptop's health; it's mostly a desk aesthetics debate dressed up as a tech question.
-
-- **The pros and cons of buying refurbished laptops** (2026-11-08)
-  - Refurbished laptops are often smarter value than new budget machines, but the word 'refurbished' means very different things depending on the seller.
-
-- **Can PC coolant expire? Here's how long it can last** (2026-11-08)
-  - Liquid cooling looks like a one-time upgrade, but the coolant wears out, so you are signing up for regular maintenance whether you planned to or not.
-
-- **5 unexpected uses for your old smartwatch** (2026-11-08)
-  - Turning an old smartwatch into an AI voice remote is a clever reuse, but it's also a reminder that short software support is what fills those drawers.
-
-- **10 useful iPad apps that could make your daily life easier** (2026-11-08)
-  - The most notable thing about this iPad app roundup is its 'minimal AI' filter, a sign that 'no AI' is becoming a selling point.

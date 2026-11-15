@@ -1,18 +1,18 @@
 # Industry
 
 
-*496 articles in the last 7 days*
+*463 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Open Source DocumentDB 1.0 Reaches General Availability
+### AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded
 
-*InfoQ | 2026-11-14*
+*ServeTheHome | 2026-11-14*
 
 
-DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
+AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
 
 
 ### Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions

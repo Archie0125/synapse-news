@@ -1,7 +1,7 @@
 # Elon Musk
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -33,6 +33,3 @@
 
 - **Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board** (2026-11-08)
   - Sequoia's restructuring looks less like strategy and more like a breakup, and Botha joining the SpaceX board without sign-off shows how the trust broke down.
-
-- **After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07)
-  - Musk spent half a billion dollars and came away with a bluer Texas and a voter backlash against data centers. That makes it the most expensive political misread in tech.

@@ -1,7 +1,7 @@
 # Google Cloud
 
 
-*Mentioned in 8 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
@@ -27,6 +27,3 @@
 
 - **TPU 8tx and TPU 8i Max** (2026-11-09)
   - Four TPU systems in one year shows Google is turning TPUs from an in-house tool into a product line aimed straight at Nvidia's customers.
-
-- **Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal** (2026-11-08)
-  - Google Cloud's self-managed VMware option is less about innovation and more about catching up to AWS and Oracle as Broadcom reshapes VMware licensing.

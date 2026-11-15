@@ -1,7 +1,7 @@
 # AirPods Pro 3
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,6 +18,3 @@
 
 - **Apple just released new AirPods Pro 3 firmware and more** (2026-11-10)
   - New AirPods firmware with no release notes is Apple's update ritual at its most opaque: you can't trigger it, and you're not told what it does.
-
-- **How long can you expect your Apple AirPods to last?** (2026-11-08)
-  - AirPods can last for years, but the battery sets the real lifespan, so your charging habits decide how long they stay useful.

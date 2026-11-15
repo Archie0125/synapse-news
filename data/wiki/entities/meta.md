@@ -1,7 +1,7 @@
 # Meta
 
 
-*Mentioned in 34 articles*
+*Mentioned in 33 articles*
 
 
 ## Recent Mentions

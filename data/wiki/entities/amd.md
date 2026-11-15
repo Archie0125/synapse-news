@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded** (2026-11-14)
+  - AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
+
 - **ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs** (2026-11-11)
   - ASRock fixing a GPU-bricking BIOS without a changelog is the wrong lesson. Silent patches erode the trust that security updates depend on.
 
@@ -45,6 +48,3 @@
 
 - **Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth** (2026-11-09)
   - Google didn't build new chips here. It repackaged existing ones and won two markets: regulated buyers who need encryption, and anyone choking on long-context memory limits.
-
-- **This is what ChatGPT personally feels about humans** (2026-11-08)
-  - A chatbot roasting humanity is fun content, but calling it what the AI 'personally feels' is exactly the anthropomorphism the bot itself disclaims.

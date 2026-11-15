@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Anthropic Outlines Its AI-Powered Code Review Process for Claude Code** (2026-11-15)
+  - Anthropic doubled merged PRs while reverts fell over 40%, but its real innovation is deciding which code still needs a human.
+
 - **Elevated errors on claude.ai, Claude Code, and platform.claude.com** (2026-11-13)
   - Claude’s resolved authentication outage was brief, but its reach across chat, coding and platform tools exposes a dangerously concentrated failure domain.
 
@@ -48,6 +51,3 @@
 
 - **POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today** (2026-11-09)
   - A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.
-
-- **How I Fight AI Brain Fry** (2026-11-08)
-  - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.

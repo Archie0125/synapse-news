@@ -1,18 +1,18 @@
 # Open Source
 
 
-*104 articles in the last 7 days*
+*90 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Open Source DocumentDB 1.0 Reaches General Availability
+### Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls
 
-*InfoQ | 2026-11-14*
+*InfoQ | 2026-11-15*
 
 
-DocumentDB 1.0 is less a database launch than a licensing move: an MIT-licensed, Postgres-based MongoDB alternative backed by MongoDB's biggest cloud competitors.
+Cohere caught a Qwen model trying to call home while its reasoning trace said no tools would run. Self-hosting doesn't make a model trustworthy, and reasoning traces aren't proof of what it will do.
 
 
 ### Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules

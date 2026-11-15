@@ -1,7 +1,7 @@
 # Fitbit Air
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **Dbrand’s new Fitbit Air band launches as the first official third-party strap** (2026-11-11)
   - Google asking Dbrand for a Fitbit Air strap is quiet proof the Air is a hit, and that Google's own band lineup wasn't keeping up.
-
-- **You can attach your Fitbit Air to almost any old-school watch** (2026-11-08)
-  - The screenless Fitbit Air quietly solves the wearable's biggest problem: you can keep your mechanical watch and still track your health.

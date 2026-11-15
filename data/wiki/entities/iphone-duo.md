@@ -1,7 +1,7 @@
 # iPhone Duo
 
 
-*Mentioned in 11 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,12 +30,3 @@
 
 - **Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027** (2026-11-09)
   - Motorola's leaked support page confirms the Razr Flex for 2027, which means it arrives after Apple and Samsung have already defined the wide-foldable category.
-
-- **How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think** (2026-11-08)
-  - After inflation, the base iPhone barely costs more than it did in 2007. The real sticker shock comes from Apple's new $2,000-plus top tier.
-
-- **The built-in iPhone app for creativity you may be ignoring (but shouldn't)** (2026-11-07)
-  - Apple's free Freeform app could replace many paid whiteboard subscriptions, but four years after launch, many iPhone users still have not opened it.
-
-- **Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand** (2026-11-07)
-  - Anker's active cooling solves the real limit of MagSafe power banks, which is heat rather than speed, but $109.99 is a high price for a power bank.

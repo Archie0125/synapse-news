@@ -1,7 +1,7 @@
 # Nintendo Switch 2
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Making a €40 USB-C hub work as a Nintendo Switch 2 dock** (2026-11-09)
   - This €40 dock hack shows Nintendo’s incompatibility is a firmware handshake problem, not a USB-C limitation—and determined users can route around it.
-
-- **Why you shouldn't remove the screen protector film on your Nintendo Switch 2** (2026-11-08)
-  - The Switch 2's 'screen protector' is actually part of the display assembly, and peeling it off for satisfaction could cost you a $500 console.

@@ -1,7 +1,7 @@
 # Qwen
 
 
-*Mentioned in 4 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,9 +12,3 @@
 
 - **Apple Intelligence completes regulatory registration for iPad and Mac in China** (2026-11-09)
   - Apple Intelligence clearing China's registration for iPad and Mac is progress, but each device category needing separate approval shows Beijing, not Cupertino, sets the launch schedule.
-
-- **Run DeepSeek R1 Locally with Ollama (2026): VRAM Formula & Hardware Sizing Matrix (1.5B to 671B)** (2026-11-08)
-  - Running DeepSeek R1 locally comes down to arithmetic, not hype; most 'local R1' users run distilled Qwen or Llama models, not the 671B original.
-
-- **Cloudflare Workers AI Retires 24 Models on November 20: What to Change Now** (2026-11-08)
-  - Cloudflare is retiring 24 Workers AI models with about two weeks' notice and no automatic rerouting. That is the hidden tax of building on hosted model IDs.

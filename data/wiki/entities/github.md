@@ -1,7 +1,7 @@
 # GitHub
 
 
-*Mentioned in 22 articles*
+*Mentioned in 20 articles*
 
 
 ## Recent Mentions

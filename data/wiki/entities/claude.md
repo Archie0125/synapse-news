@@ -1,7 +1,7 @@
 # Claude
 
 
-*Mentioned in 16 articles*
+*Mentioned in 14 articles*
 
 
 ## Recent Mentions
@@ -48,6 +48,3 @@
 
 - **How I Fight AI Brain Fry** (2026-11-08)
   - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.
-
-- **I counted every server in the official MCP Registry: 59,603 entries, and October alone added 16,282** (2026-11-08)
-  - MCP's registry reached nearly 60,000 servers and October alone added 16,282, which looks like adoption but may increasingly be noise.

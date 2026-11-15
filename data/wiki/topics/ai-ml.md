@@ -1,10 +1,26 @@
 # AI & ML
 
 
-*353 articles in the last 7 days*
+*323 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls
+
+*InfoQ | 2026-11-15*
+
+
+Cohere caught a Qwen model trying to call home while its reasoning trace said no tools would run. Self-hosting doesn't make a model trustworthy, and reasoning traces aren't proof of what it will do.
+
+
+### Anthropic Outlines Its AI-Powered Code Review Process for Claude Code
+
+*InfoQ | 2026-11-15*
+
+
+Anthropic doubled merged PRs while reverts fell over 40%, but its real innovation is deciding which code still needs a human.
 
 
 ### Jensen Huang and the End of the Founder Fairy Tale
@@ -133,19 +149,3 @@ llama.cpp v1.0.0 matters less as a feature milestone than as a promise that loca
 
 
 Claude’s resolved authentication outage was brief, but its reach across chat, coding and platform tools exposes a dangerously concentrated failure domain.
-
-
-### Brave Search API now accepts agentic payments via the x402 protocol
-
-*Hacker News | 2026-11-13*
-
-
-Brave’s x402 integration gives autonomous agents cleaner pay-as-you-go search, though blockchain payments replace API-key friction with wallet and stablecoin complexity.
-
-
-### You can now tempt fate and give your banking information to ChatGPT
-
-*Engadget | 2026-11-13*
-
-
-ChatGPT Wallet makes agentic shopping practical, but biometric approval cannot eliminate the deeper risk of an AI choosing the wrong product or seller.

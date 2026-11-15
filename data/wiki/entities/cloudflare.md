@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Cloudflare Introduces Private Origins for Application Services** (2026-11-15)
+  - Cloudflare's Private Origins is aimed at the MCP servers and agent backends that were never built to face the internet but now have to.
+
 - **An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.** (2026-11-12)
   - The audit’s real value was not finding 31 proven holes, but turning uncertain AI suspicions into a transparent, fixable security backlog.
 
@@ -21,9 +24,6 @@
 
 - **Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security** (2026-11-09)
   - Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
-
-- **Cloudflare Scales D1 Control Plane to Millions of Databases** (2026-11-08)
-  - Cloudflare's D1 redesign is a lesson in boring engineering: heartbeats, idempotency, and eventual consistency beat clever central coordination at millions of databases.
 
 - **The Web Is More Than Enough, by Paul Ford** (2026-11-08)
   - A side-project office suite that stores data in the URL drew hundreds of thousands of visitors. The real point: AI has made the browser's raw power cheap to use, and native apps should worry.

@@ -1,7 +1,7 @@
 # Gemini
 
 
-*Mentioned in 31 articles*
+*Mentioned in 28 articles*
 
 
 ## Recent Mentions

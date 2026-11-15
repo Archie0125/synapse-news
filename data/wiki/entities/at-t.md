@@ -1,7 +1,7 @@
 # AT&T
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **Save serious money with RedPocket’s Black Friday plans that start at $5 a month** (2026-11-10)
   - This is sponsored content, but the pitch is real: a $5 MVNO plan plus a $150 Android rebate shows how overpriced big-carrier plans have become.
-
-- **How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think** (2026-11-08)
-  - After inflation, the base iPhone barely costs more than it did in 2007. The real sticker shock comes from Apple's new $2,000-plus top tier.

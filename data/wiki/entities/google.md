@@ -1,7 +1,7 @@
 # Google
 
 
-*Mentioned in 103 articles*
+*Mentioned in 98 articles*
 
 
 ## Recent Mentions

@@ -1,7 +1,7 @@
 # Garmin
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **Waze rolling out cyclist alerts based on real-time locations from Garmin trackers** (2026-11-10)
   - Waze's Garmin-powered cyclist alerts are a smart, privacy-conscious safety feature, but they only protect cyclists who own a Garmin and remember to opt in.
-
-- **Qalo SL-1 vs. Garmin Cirqa: How these minimalist wearables compare** (2026-11-08)
-  - Garmin and Qalo are both going after Whoop's subscription model, but Garmin's optional paid tier shows that "subscription-free" can come with conditions.

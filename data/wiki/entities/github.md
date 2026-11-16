@@ -1,11 +1,14 @@
 # GitHub
 
 
-*Mentioned in 20 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
+
+- **GitHub Rebuilds the Copilot App's Diff Surface to Open Million-Line Pull Requests Without Jank** (2026-11-16)
+  - GitHub's million-line diff work is impressive engineering, but it also confirms the uncomfortable truth that AI is generating more code than humans can review.
 
 - **IceWM** (2026-11-13)
   - IceWM’s longevity proves that speed, predictability and low resource use remain genuine features even as mainstream desktops chase heavier visual polish.
@@ -36,18 +39,3 @@
 
 - **Git security vulnerabilities announced** (2026-11-10)
   - Six Git vulnerabilities, including code execution on recursive clone, are a reminder that the most trusted tool in your stack still needs routine patching.
-
-- **AMR Mechanical and Electrical Engineering — Ch.14: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - An IP rating is a lab test result, not a durability promise. Outdoor robot buyers who confuse the two will learn the hard way.
-
-- **AMR Mechanical and Electrical Engineering — Ch.13: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - A wiring harness looks like assembly work but is really a reliability system, and a chapter on it is overdue in robotics education.
-
-- **AMR Mechanical and Electrical Engineering — Ch.12: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - An emergency stop that depends on software, the cloud, or the main computer is not an emergency stop, and the chapter gets this exactly right.
-
-- **AMR Mechanical and Electrical Engineering — Ch.11: Contents {#contents .TOC-Heading} [KR]** (2026-11-09)
-  - The DC-DC converter is the least glamorous part of an AMR, and the one that decides whether the AI computer gets clean, stable power.
-
-- **AMR Mechanical and Electrical Engineering — Ch.10: Chapter 10. Battery and BMS [KR]** (2026-11-09)
-  - In mobile robots, the battery is not a power supply but a design constraint that shapes the chassis, center of gravity, and business model.

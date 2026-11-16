@@ -1,7 +1,7 @@
 # Linux
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Synaptics patent claims stop work on DisplayLink drivers** (2026-11-10)
   - A Linux user asked Synaptics for driver help and got patent threats instead. That's a strong reason not to buy DisplayLink docks if you run Linux.
-
-- **How to use your laptop as a second monitor** (2026-11-09)
-  - Your old laptop can be a free second monitor, but HDMI won't do it. Wireless casting is the practical route, as long as you accept the lag.

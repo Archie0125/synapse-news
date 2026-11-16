@@ -1,18 +1,58 @@
 # Open Source
 
 
-*90 articles in the last 7 days*
+*72 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls
+### Uno Platform 7.0 Adds WebGPU Backend, Apple TV and Reactor Support, and Retires Native Rendering
 
-*InfoQ | 2026-11-15*
+*InfoQ | 2026-11-16*
 
 
-Cohere caught a Qwen model trying to call home while its reasoning trace said no tools would run. Self-hosting doesn't make a model trustworthy, and reasoning traces aren't proof of what it will do.
+Uno Platform 7.0 bets everything on Skia and WebGPU and drops native rendering. Cross-platform .NET is choosing consistency over native feel.
+
+
+### Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty
+
+*InfoQ | 2026-11-16*
+
+
+The EU's CRA is turning supply-chain security from a nice-to-have into a legal duty, and OpenSSF wants open-source tooling to be the way companies comply.
+
+
+### Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J
+
+*InfoQ | 2026-11-16*
+
+
+A fourth preview of Lazy Constants with no changes shows Java's caution at its most extreme, while Spring AI and TornadoVM jitLLM quietly show where the ecosystem is heading.
+
+
+### AWS Open-Sources Emulator for Local Testing of 200+ Services by Coding Agents
+
+*InfoQ | 2026-11-16*
+
+
+AWS building an emulator for coding agents, largely with agents, is the real story. Fast local feedback loops matter more for AI-written code than smarter models do.
+
+
+### Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw
+
+*InfoQ | 2026-11-16*
+
+
+A 257-character password logging into root sounds absurd, and that's the lesson. Narrow edge-case bugs become real breaches once attackers find default images that match.
+
+
+### Hugging Face and OpenRouter join forces to make open-weight models easy to run
+
+*Hugging Face Blog | 2026-11-16*
+
+
+Hugging Face dropping its own router for OpenRouter is a smart admission that model hosting and inference routing are different businesses, and open-weight users win.
 
 
 ### Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules
@@ -125,43 +165,3 @@ finprim’s strongest argument is not API convenience but preventing quietly div
 
 
 A decades-old PostgreSQL type-confusion flaw undercuts the comfort of managed databases: outsourcing operations cannot neutralize a vulnerability embedded in the core engine.
-
-
-### Show HN: My $300 embroidery machine needed a subscription, so I built my own app
-
-*Hacker News | 2026-11-12*
-
-
-ZigZag turns a petty subscription wall into a compelling case for open, AI-assisted tools that return ownership of physical hardware to buyers.
-
-
-### Rust 1.100
-
-*Hacker News | 2026-11-12*
-
-
-Rust 1.100’s decade-long journey to stabilize `!` shows that boring language evolution is often the price of dependable software.
-
-
-### I'm making LLMs work on small and old devices
-
-*Hacker News | 2026-11-12*
-
-
-Smolmaxxing shows local AI progress is increasingly a systems-engineering story: clever memory movement can matter more than buying newer silicon.
-
-
-### Edge0-145B: Frontier AI Capabilities on Your Own Computer
-
-*Hacker News | 2026-11-12*
-
-
-Edge0’s local 145B claim could reset on-device AI economics, but extraordinary memory and speed numbers deserve independent reproduction before celebration.
-
-
-### Critical RCE Vulnerability in Apache HTTP Server
-
-*Hacker News | 2026-11-12*
-
-
-Apache’s new RCE flaw is not yet exploited publicly, but its massive cloud exposure makes waiting for proof an irresponsible patch strategy.

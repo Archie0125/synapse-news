@@ -1,7 +1,7 @@
 # Meta Muse
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **United is restricting AI agents from booking flights** (2026-11-11)
   - United cites security and FAA rules to keep AI agents from booking flights, but the CEO's 'no new middleman' remark points to customer ownership as the real motive.
-
-- **macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how** (2026-11-08)
-  - Apple is closing a convenient Full Disk Access shortcut after AI agents abused it, but leaving drag-and-drop open makes this look more like friction than real protection.

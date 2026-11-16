@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Hugging Face and OpenRouter join forces to make open-weight models easy to run** (2026-11-16)
+  - Hugging Face dropping its own router for OpenRouter is a smart admission that model hosting and inference routing are different businesses, and open-weight users win.
+
 - **1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests** (2026-11-13)
   - AI proved most useful not as automotive magic, but as a patient technical partner helping expose and tune an otherwise opaque 32-year-old engine computer.
 
@@ -18,6 +21,3 @@
 
 - **How to answer Claude Code or Codex from your phone** (2026-11-10)
   - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
-
-- **How I Fight AI Brain Fry** (2026-11-08)
-  - The fix for AI burnout isn't more willpower. It's treating your attention as the bottleneck and building a queue so the agent waits on you, not the other way around.

@@ -1,7 +1,7 @@
 # Android Auto
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **Android Auto is getting a Gemini upgrade, but only if you use a Pixel** (2026-11-11)
   - Google's smartest Android Auto feature is locked to Pixel 10 and 11, a reminder that Gemini is now a phone-sales weapon, not just a platform feature.
-
-- **Android Auto cutting off older devices, now requires Android 11 or newer** (2026-11-09)
-  - Google quietly raising Android Auto's floor to Android 11 is reasonable housekeeping, but announcing it on a support page after drivers saw warnings is sloppy communication.

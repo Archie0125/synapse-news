@@ -1,11 +1,14 @@
 # Claude Code
 
 
-*Mentioned in 17 articles*
+*Mentioned in 15 articles*
 
 
 ## Recent Mentions
 
+
+- **Hugging Face and OpenRouter join forces to make open-weight models easy to run** (2026-11-16)
+  - Hugging Face dropping its own router for OpenRouter is a smart admission that model hosting and inference routing are different businesses, and open-weight users win.
 
 - **Anthropic Outlines Its AI-Powered Code Review Process for Claude Code** (2026-11-15)
   - Anthropic doubled merged PRs while reverts fell over 40%, but its real innovation is deciding which code still needs a human.
@@ -48,6 +51,3 @@
 
 - **Fable 5.2 one-shotted my nephew's dream game** (2026-11-09)
   - A kid's crayon game design went from an unreasonable birthday request to a fun, playable beat 'em up in one shot. In under a year, AI agents' ceiling for game dev moved a lot.
-
-- **POV: You Asked Your Coding Agent to Fix a Null Reference for the Third Time Today** (2026-11-09)
-  - A high schooler's Vow language makes a sharp point: if agents keep guessing at null bugs, fix the language they write in, not the prompt.

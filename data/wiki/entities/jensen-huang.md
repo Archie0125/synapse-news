@@ -1,7 +1,7 @@
 # Jensen Huang
 
 
-*Mentioned in 64 articles*
+*Mentioned in 56 articles*
 
 
 ## Recent Mentions

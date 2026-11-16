@@ -1,7 +1,7 @@
 # Donald Trump
 
 
-*Mentioned in 12 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
@@ -39,6 +39,3 @@
 
 - **Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang** (2026-11-09)
   - The Nvidia spy scandal isn't only about one CEO's affair. A single executive sits at the center of U.S. AI chip policy, and that makes him a national security risk.
-
-- **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (2026-11-08)
-  - Nvidia's CEO admitting an affair is a personal scandal, but an affair with a suspected Chinese intelligence asset puts the world's most strategic chip company in a geopolitical bind.

@@ -1,7 +1,7 @@
 # NVIDIA
 
 
-*Mentioned in 12 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
@@ -39,6 +39,3 @@
 
 - **NVIDIA DLSS 4.5 has presets you should know about** (2026-11-10)
   - Upscaling is now required for PC gaming rather than optional, and the fact that DLSS 4.5's hidden presets matter this much shows how much control has moved from game developers to NVIDIA.
-
-- **NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts** (2026-11-08)
-  - NVIDIA's board says nothing leaked, but now that its CEO's personal life is a national security issue, that statement won't reassure Washington.

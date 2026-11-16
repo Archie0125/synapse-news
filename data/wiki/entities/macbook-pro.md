@@ -1,7 +1,7 @@
 # MacBook Pro
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **How to customize or disable the touchscreen on the new MacBook Pro** (2026-11-09)
   - The fact that the new MacBook Pro's headline touchscreen gets a 'how to turn it off' guide in launch week says a lot about who it's actually for.
-
-- **Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13** (2026-11-09)
-  - Early Black Friday cuts of $250 on M5 MacBook Air show discounts now arrive weeks early, so waiting for the actual day gets you little extra.

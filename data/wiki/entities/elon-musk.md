@@ -1,7 +1,7 @@
 # Elon Musk
 
 
-*Mentioned in 9 articles*
+*Mentioned in 7 articles*
 
 
 ## Recent Mentions
@@ -27,9 +27,3 @@
 
 - **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
   - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.
-
-- **Musk says Tesla will refund some Cybertruck deposits, defends decision to end production** (2026-11-09)
-  - Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
-
-- **Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board** (2026-11-08)
-  - Sequoia's restructuring looks less like strategy and more like a breakup, and Botha joining the SpaceX board without sign-off shows how the trust broke down.

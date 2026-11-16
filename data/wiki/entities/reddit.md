@@ -1,7 +1,7 @@
 # Reddit
 
 
-*Mentioned in 8 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -24,9 +24,3 @@
 
 - **Reddit Is Convinced I'm a Robot. My Karma Is 1.** (2026-11-10)
   - Reddit's bot filter flagging a karma-1 account isn't a bug; it's proof that growth hacking on platforms built around trust ends with you pasting comments at midnight.
-
-- **Lawyer builds private AI server with eight used Nvidia V100 GPUs** (2026-11-09)
-  - A lawyer's eight-V100 rig shows privacy is now a hardware decision, and the used GPU market is already pricing that demand in.
-
-- **AMD admits GPU driver bug is writing data continuously, wearing out SSDs** (2026-11-09)
-  - AMD's driver utility reportedly ate about 1% of users' SSD life each month while their PCs sat idle, and it's the second logging bug of this kind in a year.

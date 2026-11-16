@@ -1,7 +1,7 @@
 # SaaStr
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **AI Startups May Have Fewer Sales Reps. But Not as a Percent of the Team. Has The Playbook Really Changed All That Much?** (2026-11-10)
   - The claim that AI killed the sales team falls apart once you look at percentages, because AI cut support headcount, not sales headcount.
-
-- **Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?** (2026-11-09)
-  - Getting paid on time is mostly a matter of process: start reminders 60 days before renewal, and keep mission-critical service running for enterprise customers.

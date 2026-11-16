@@ -1,7 +1,7 @@
 # Startups
 
 
-*125 articles in the last 7 days*
+*101 articles in the last 7 days*
 
 
 ## Latest

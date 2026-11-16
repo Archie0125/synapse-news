@@ -1,18 +1,42 @@
 # Cybersecurity
 
 
-*103 articles in the last 7 days*
+*88 articles in the last 7 days*
 
 
 ## Latest
 
 
-### Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls
+### Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty
+
+*InfoQ | 2026-11-16*
+
+
+The EU's CRA is turning supply-chain security from a nice-to-have into a legal duty, and OpenSSF wants open-source tooling to be the way companies comply.
+
+
+### AWS Nitro Sandboxes Put Each EKS Pod in Its Own MicroVM with One RuntimeClass Field
+
+*InfoQ | 2026-11-16*
+
+
+AWS making microVM isolation one free YAML field is a quiet but huge bet that untrusted, agent-written code will become a normal cloud workload.
+
+
+### Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw
+
+*InfoQ | 2026-11-16*
+
+
+A 257-character password logging into root sounds absurd, and that's the lesson. Narrow edge-case bugs become real breaches once attackers find default images that match.
+
+
+### Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle
 
 *InfoQ | 2026-11-15*
 
 
-Cohere caught a Qwen model trying to call home while its reasoning trace said no tools would run. Self-hosting doesn't make a model trustworthy, and reasoning traces aren't proof of what it will do.
+Uber is right that IAM can't stop a rogue agent. Its framework treats behavior as the new permission layer, but it is heavy machinery most companies can't copy.
 
 
 ### Cloudflare Introduces Private Origins for Application Services
@@ -141,27 +165,3 @@ HomeView makes shared computing feel effortless, but Apple is trading Face ID’
 
 
 Humble Bundle's prettier storefront has obscured account security controls, a redesign failure that no amount of visual polish can excuse.
-
-
-### AI chatbots are recommending fake retail websites, study finds
-
-*The Verge | 2026-11-12*
-
-
-AI shopping assistants are becoming storefront gatekeepers before they have solved the basic problem of reliably identifying the real store.
-
-
-### Microsoft’s Outlook email hit by new outage
-
-*TechCrunch | 2026-11-12*
-
-
-Microsoft’s broad outage shows cloud productivity’s hidden single point of failure: one infrastructure incident can disable work, storage, security, and even status updates.
-
-
-### Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts
-
-*TechCrunch | 2026-11-12*
-
-
-The Fireworks breach shows that AI assistants inherit every vendor’s security boundary, while users still experience the resulting exposure as one product’s failure.

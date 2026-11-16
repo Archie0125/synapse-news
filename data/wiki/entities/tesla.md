@@ -1,7 +1,7 @@
 # Tesla
 
 
-*Mentioned in 5 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,9 +15,3 @@
 
 - **Elon Musk’s Terafab targets 1 million wafers a month after 2032** (2026-11-10)
   - A million wafers a month would put Terafab on par with Samsung's memory output. It's classic Musk ambition, but real equipment orders mean the industry is starting to take it seriously.
-
-- **Musk says Tesla will refund some Cybertruck deposits, defends decision to end production** (2026-11-09)
-  - Musk says Cybertruck demand exceeds supply even as Tesla ends production and refunds deposits, while about 71,000 sales against 1 million reservations suggest otherwise.
-
-- **Why EV fast charging slows down after 80 percent** (2026-11-09)
-  - The slowdown after 80 percent isn't a flaw. It's battery chemistry, and the 10-to-80 percent figure on spec sheets is the industry quietly admitting it.

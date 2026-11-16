@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Uno Platform 7.0 Adds WebGPU Backend, Apple TV and Reactor Support, and Retires Native Rendering** (2026-11-16)
+  - Uno Platform 7.0 bets everything on Skia and WebGPU and drops native rendering. Cross-platform .NET is choosing consistency over native feel.
+
 - **Japanese workers return to fax machines during ongoing Microsoft 365 outage** (2026-11-13)
   - Japan’s fax fallback looks quaint, but Microsoft’s outage shows that unfashionable redundancy can outperform a sophisticated digital monoculture.
 
@@ -48,6 +51,3 @@
 
 - **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?** (2026-11-12)
   - Kress offers operational stability, but Nvidia’s lack of succession planning has turned a governance failure into a $3.8 trillion leadership experiment.
-
-- **Azure Logic Apps Standard Gets a Local CLI in Preview** (2026-11-12)
-  - Azure Logic Apps finally gains a credible terminal-first workflow, but preview status means automation teams should experiment before standardizing on it.

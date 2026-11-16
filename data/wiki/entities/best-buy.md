@@ -1,7 +1,7 @@
 # Best Buy
 
 
-*Mentioned in 9 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -24,12 +24,3 @@
 
 - **Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more** (2026-11-10)
   - Black Friday arrived in early November, and the big discounts on brand-new devices like Dell's XPS Googlebook show how quickly retailers are clearing inventory.
-
-- **How to shop like a pro during Black Friday and Cyber Monday** (2026-11-09)
-  - With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.
-
-- **Here are the price-matching policies for Best Buy, Walmart, and others** (2026-11-09)
-  - Price matching sounds consumer-friendly, but the fine print shows it's mostly a retention tool, and Amazon doesn't need one at all.
-
-- **Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more** (2026-11-09)
-  - Early Black Friday deals look generous, but in a RAM-driven price-hike year, '$300 off' often just means getting back to last year's normal.

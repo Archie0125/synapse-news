@@ -1,7 +1,7 @@
 # Meta Quest
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **The Disney+ app on Meta Quest now includes 3D movies** (2026-11-10)
   - Meta is trying to sell VR as the world's best 3D movie theater, a smarter pitch than the metaverse, but it only works if subscribers actually put the headset on.
-
-- **YouTube auf Quest wird neu gedacht – aber was macht das mit deinen Augen?** (2026-11-09)
-  - A YouTube redesign on Quest becomes a pitch for VR amblyopia training, an intriguing idea that still needs clinical evidence more than marketing copy.

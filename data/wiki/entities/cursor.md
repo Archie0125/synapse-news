@@ -1,7 +1,7 @@
 # Cursor
 
 
-*Mentioned in 6 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,9 +18,3 @@
 
 - **Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.** (2026-11-09)
   - Voice for coding agents is quickly becoming expected. Claude Code's dictation-only input looks like a gap, unless Anthropic is betting developers would rather not talk to their IDE.
-
-- **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
-  - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.
-
-- **SpaceXAI Grok Bot availability just keeps growing - here's which plans offer it** (2026-11-08)
-  - Grok Bot is now in a pile of subscription plans, but making an agent easier to buy doesn't prove it's worth paying for.

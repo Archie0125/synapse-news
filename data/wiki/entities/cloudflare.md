@@ -1,7 +1,7 @@
 # Cloudflare
 
 
-*Mentioned in 7 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,9 +21,3 @@
 
 - **Kubernetes - Setup External DNS** (2026-11-10)
   - Running External DNS with Flux and SOPS on a home cluster is overkill, and that is exactly why it's good practice: it is the same setup production clusters use.
-
-- **Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security** (2026-11-09)
-  - Cloudflare's Merkle Tree Certificates make the web faster today, but the post-quantum payoff is still a promise, since the test used classical signatures.
-
-- **The Web Is More Than Enough, by Paul Ford** (2026-11-08)
-  - A side-project office suite that stores data in the URL drew hundreds of thousands of visitors. The real point: AI has made the browser's raw power cheap to use, and native apps should worry.

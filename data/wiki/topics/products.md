@@ -1,10 +1,18 @@
 # Products
 
 
-*784 articles in the last 7 days*
+*658 articles in the last 7 days*
 
 
 ## Latest
+
+
+### New Ask Maps features to help with holiday travel and prep
+
+*Google AI Blog | 2026-11-16*
+
+
+The holiday framing is fluff, but Ask Maps booking appointments for you is Google quietly turning Maps into an agent that controls local commerce.
 
 
 ### Cloudflare Introduces Private Origins for Application Services
@@ -133,11 +141,3 @@ Paprika 4 makes a credible case for subscriptions by funding meaningful cross-pl
 
 
 A configuration change apparently disrupted Microsoft’s productivity empire for nearly two days, showing how one cloud fault can paralyze millions of workplaces.
-
-
-### Meta discussed attacking Jonathan Haidt — now even his haters are annoyed
-
-*The Verge | 2026-11-13*
-
-
-Meta’s alleged whisper campaign turned a disputed academic debate into a corporate-trust crisis, uniting researchers who otherwise disagree about social media’s harms.

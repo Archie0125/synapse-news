@@ -1,14 +1,11 @@
 # Zen 6
 
 
-*Mentioned in 5 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
 
-
-- **AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded** (2026-11-14)
-  - AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
 
 - **Talking Zen 6 with Mike Clark at AMD In-Depth** (2026-11-11)
   - With Zen 6, AMD's 'dense' core becomes its top-performance core, a quiet change that says density, not clock speed, is where server IPC gains now come from.

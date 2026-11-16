@@ -1,14 +1,11 @@
 # AMD
 
 
-*Mentioned in 14 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
 
-
-- **AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded** (2026-11-14)
-  - AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
 
 - **ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs** (2026-11-11)
   - ASRock fixing a GPU-bricking BIOS without a changelog is the wrong lesson. Silent patches erode the trust that security updates depend on.
@@ -39,12 +36,6 @@
 
 - **AMD’s Zen 6 Family: Feeding the Beast** (2026-11-10)
   - Zen 6 looks like a routine upgrade from the outside, but inside AMD rebuilt key parts and chose to make wrong guesses cheaper instead of making the predictor bigger.
-
-- **Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now** (2026-11-09)
-  - At $399.99, the 9800X3D becomes the easy pick for AM5 gamers, though you need two coupons to get that price.
-
-- **AMD admits GPU driver bug is writing data continuously, wearing out SSDs** (2026-11-09)
-  - AMD's driver utility reportedly ate about 1% of users' SSD life each month while their PCs sat idle, and it's the second logging bug of this kind in a year.
 
 - **Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth** (2026-11-09)
   - Google didn't build new chips here. It repackaged existing ones and won two markets: regulated buyers who need encryption, and anyone choking on long-context memory limits.

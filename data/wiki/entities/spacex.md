@@ -1,7 +1,7 @@
 # SpaceX
 
 
-*Mentioned in 7 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,9 +21,3 @@
 
 - **Starlink Mini 2** (2026-11-10)
   - Starlink Mini 2 trended on Hacker News, but the product page shows almost nothing without JavaScript. The hype is running ahead of the specs.
-
-- **Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board** (2026-11-08)
-  - Sequoia's restructuring looks less like strategy and more like a breakup, and Botha joining the SpaceX board without sign-off shows how the trust broke down.
-
-- **The one Starlink perk that gives it an edge over traditional internet** (2026-11-08)
-  - Starlink's best selling point isn't speed. It's that it keeps working when local networks go down, and that resilience costs extra.

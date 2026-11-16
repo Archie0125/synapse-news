@@ -1,10 +1,34 @@
 # Policy
 
 
-*128 articles in the last 7 days*
+*102 articles in the last 7 days*
 
 
 ## Latest
+
+
+### Building trustworthy AI by fencing it in, not predicting it
+
+*MIT Technology Review | 2026-11-16*
+
+
+The argument is right that a guardrail AI can edit isn't a guardrail. It still comes from a sponsor that sells certification and testing services.
+
+
+### Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty
+
+*InfoQ | 2026-11-16*
+
+
+The EU's CRA is turning supply-chain security from a nice-to-have into a legal duty, and OpenSSF wants open-source tooling to be the way companies comply.
+
+
+### Article: Governed Autonomous Intelligence for Mission-Critical Utility
+
+*InfoQ | 2026-11-16*
+
+
+The best idea here isn't the AI. It's admitting the model should never hold the keys, and that agents should earn autonomy one action class at a time.
 
 
 ### ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next
@@ -141,27 +165,3 @@ Spirit workers’ opt-out deal exposes a glaring gap: companies can monetize wor
 
 
 DeepMind’s union fight shows that ethical objections to military AI are evolving from employee dissent into a legally enforceable challenge to management.
-
-
-### Climate Change Has Pushed the World's Ice Out of Its Safe Zone
-
-*Wired | 2026-11-12*
-
-
-The cryosphere is leaving its historic safe zone, making climate adaptation less about avoiding damage and more about limiting irreversible losses already underway.
-
-
-### Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently
-
-*Wired | 2026-11-12*
-
-
-Alex Karp’s progressive label looks less like an ideology than a flexible brand that must be judged against Palantir’s products and contracts.
-
-
-### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
-
-*Tom's Hardware | 2026-11-12*
-
-
-Trump’s Tim Cook endorsement is headline fuel, not succession logic; Nvidia needs semiconductor continuity and independent governance more than celebrity approval.

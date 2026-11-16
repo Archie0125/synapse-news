@@ -1,7 +1,7 @@
 # The Verge
 
 
-*Mentioned in 6 articles*
+*Mentioned in 4 articles*
 
 
 ## Recent Mentions
@@ -18,9 +18,3 @@
 
 - **eBay appears to have shut the door on third-party AI agents** (2026-11-10)
   - eBay blocking Meta's Muse shows the AI agent revolution has a landlord problem: the stores agents need don't want to be just a database.
-
-- **How to shop like a pro during Black Friday and Cyber Monday** (2026-11-09)
-  - With sales running nearly all year, Black Friday's real advantage goes to shoppers with price trackers, not shoppers with urgency.
-
-- **Soul Glo’s Diaspora Problems is a hardcore record like no other** (2026-11-08)
-  - Ahead of a new Soul Glo album, Diaspora Problems still looks like the bar hardcore has to clear, because it never lets the energy drop.

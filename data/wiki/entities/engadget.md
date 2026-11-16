@@ -1,7 +1,7 @@
 # Engadget
 
 
-*Mentioned in 7 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -15,9 +15,6 @@
 
 - **Why you probably shouldn't buy gadgets with micro USB ports** (2026-11-09)
   - A micro USB port in 2026 is a red flag: it tells you the product is either old stock or the maker cut corners.
-
-- **Think twice before using a webcam cover on your MacBook** (2026-11-09)
-  - A webcam cover sold as cheap privacy insurance can crack your MacBook display, and the warning comes from Apple's own support page.
 
 - **The pros and cons of using mesh Wi-Fi** (2026-11-09)
   - Mesh Wi-Fi gets sold as the upgrade, but most homes are paying for range they'll never use. Start with a standalone router unless you know where your dead zones are.

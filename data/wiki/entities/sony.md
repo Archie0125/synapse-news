@@ -1,7 +1,7 @@
 # Sony
 
 
-*Mentioned in 13 articles*
+*Mentioned in 11 articles*
 
 
 ## Recent Mentions
@@ -36,12 +36,6 @@
 
 - **GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro** (2026-11-10)
   - A 30fps target in 2026 tells us Rockstar spent the hardware budget on world density instead of smoothness, and PS5 Pro owners get only small upgrades.
-
-- **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
-  - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.
-
-- **Nacon Revolution 5 Unlimited controller review: More customization than I can handle** (2026-11-09)
-  - Nacon's $230 controller wins on hardware like TMR sticks and trigger blockers, but piling on this many options may be its biggest weakness.
 
 - **Samsung Galaxy S27 series camera specs leak, and they’re disappointing** (2026-11-09)
   - If these leaked specs are right, the S27 Ultra's camera advantage is shrinking. Samsung is spreading its best hardware across more models instead of pushing the top end forward.

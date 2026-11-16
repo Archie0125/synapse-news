@@ -1,11 +1,14 @@
 # Google
 
 
-*Mentioned in 98 articles*
+*Mentioned in 88 articles*
 
 
 ## Recent Mentions
 
+
+- **New Ask Maps features to help with holiday travel and prep** (2026-11-16)
+  - The holiday framing is fluff, but Ask Maps booking appointments for you is Google quietly turning Maps into an agent that controls local commerce.
 
 - **The new Apple TV has a YouTube problem** (2026-11-13)
   - The new Apple TV remains excellent hardware, but shipping with a broken YouTube experience is an embarrassing failure of basic launch-day coordination.
@@ -48,6 +51,3 @@
 
 - **Google’s latest Search upgrade promises better answers to your most complicated questions** (2026-11-12)
   - Hydrogen suggests Search’s real advantage will come from fast model routing, not always deploying the smartest model—if Google’s claims survive everyday queries.
-
-- **Gemini 4 Hydrogen** (2026-11-12)
-  - Hydrogen is Google’s bid to make frontier AI routine: near-top benchmark scores, broad distribution, and pricing designed for high-volume execution rather than prestige demos.

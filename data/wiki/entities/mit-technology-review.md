@@ -7,8 +7,8 @@
 ## Recent Mentions
 
 
-- **Securing the agentic enterprise with data lineage** (2026-11-04)
-  - This sponsored piece has a real point under the vendor framing: once agents pass data to other agents, you can't secure what you can't trace.
+- **The Download: testing tech promises and searching for cognitive immortality** (2026-11-16)
+  - Scoring hyped technologies on a 0–10 progress meter is a fun reality check, but this newsletter roundup has little substance on AI.
 
-- **Roundtables: Inside the Quest for Cognitive Immortality** (2026-11-04)
-  - Cognitive immortality makes a great headline, but until anyone can define what 'you' is, uploading your mind is philosophy with a startup pitch deck attached.
+- **Building trustworthy AI by fencing it in, not predicting it** (2026-11-16)
+  - The argument is right that a guardrail AI can edit isn't a guardrail. It still comes from a sponsor that sells certification and testing services.

@@ -1,14 +1,11 @@
 # Gmail
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
 
-
-- **I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found** (2026-11-09)
-  - Pangram's Gmail plug-in sells you suspicion for $20 a month: it lets you check whether your friends' emails were written by AI.
 
 - **Google Gemini routes personal Drive files and emails to human annotators** (2026-11-09)
   - Google quietly broke a 2023 promise: Gemini can now route your Gmail and Drive content to human reviewers, and you don't even have to tag those apps for it to happen.

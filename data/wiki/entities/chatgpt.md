@@ -1,7 +1,7 @@
 # ChatGPT
 
 
-*Mentioned in 10 articles*
+*Mentioned in 9 articles*
 
 
 ## Recent Mentions
@@ -33,6 +33,3 @@
 
 - **How to answer Claude Code or Codex from your phone** (2026-11-10)
   - Coding agents now run without you for long stretches, then stall waiting for permission. Phone control fixes that, but each agent has its own app and setup.
-
-- **Cursor for Godot: how to use Cursor on a Godot game, and let it run the game too** (2026-11-09)
-  - Cursor reads Godot code fine but can't see what happens once you press Play. This guide closes that gap with MCP, and doubles as a well-built pitch for Flockbay.

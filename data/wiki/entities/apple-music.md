@@ -1,7 +1,7 @@
 # Apple Music
 
 
-*Mentioned in 4 articles*
+*Mentioned in 3 articles*
 
 
 ## Recent Mentions
@@ -15,6 +15,3 @@
 
 - **iOS 27.3: Three new iPhone features coming soon** (2026-11-09)
   - iOS 27.3's real story is the Health app, which Apple pulled from 27.2 and is now relaunching as an AI health coach.
-
-- **Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year** (2026-11-09)
-  - Apple Music crowning Olivia Dean is a safe, data-backed pick, but the year-end ritual still feels like a polite echo of Spotify Wrapped.

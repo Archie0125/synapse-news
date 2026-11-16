@@ -1,7 +1,7 @@
 # iPhone Duo
 
 
-*Mentioned in 8 articles*
+*Mentioned in 6 articles*
 
 
 ## Recent Mentions
@@ -24,9 +24,3 @@
 
 - **iOS 27.3: Three new iPhone features coming soon** (2026-11-09)
   - iOS 27.3's real story is the Health app, which Apple pulled from 27.2 and is now relaunching as an AI health coach.
-
-- **Here’s how Webex adapts meetings and multitasking for iPhone Duo** (2026-11-09)
-  - Webex shipping native iPhone Duo support at launch proves foldables become useful when enterprise apps show up on day one, not when Apple ships the hardware.
-
-- **Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027** (2026-11-09)
-  - Motorola's leaked support page confirms the Razr Flex for 2027, which means it arrives after Apple and Samsung have already defined the wide-foldable category.

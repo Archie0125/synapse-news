@@ -1,7 +1,7 @@
 # PlayStation 5
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **How SCSKiller is trying to fix shader stuttering in PC games** (2026-11-10)
   - A free open-source app is doing what big-budget studios won't: attacking PC shader stutter head-on. That says more about the studios than about the app.
-
-- **Nacon Revolution 5 Unlimited controller review: More customization than I can handle** (2026-11-09)
-  - Nacon's $230 controller wins on hardware like TMR sticks and trigger blockers, but piling on this many options may be its biggest weakness.

@@ -1,11 +1,14 @@
 # OpenAI
 
 
-*Mentioned in 26 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions
 
+
+- **Building trustworthy AI by fencing it in, not predicting it** (2026-11-16)
+  - The argument is right that a guardrail AI can edit isn't a guardrail. It still comes from a sponsor that sells certification and testing services.
 
 - **ChatGPT’s new Wallet lets AI agents shop and check out for you** (2026-11-13)
   - ChatGPT Wallet makes agentic shopping tangible, but biometric approval solves only authorization—not whether users trust artificial intelligence to choose wisely.
@@ -48,6 +51,3 @@
 
 - **OpenAI acquires Odessia, travel startup created by Sonder founder** (2026-11-10)
   - OpenAI's Odessia deal isn't about buying a travel product it immediately shut down; it's about buying a founder who knows how to run teams of AI agents.
-
-- **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (2026-11-10)
-  - Claude Meetings goes after the most wasted hour in office work, and Anthropic's strict privacy defaults may matter more than the AI itself.

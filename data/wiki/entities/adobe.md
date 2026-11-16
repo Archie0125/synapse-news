@@ -1,7 +1,7 @@
 # Adobe
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Google and Adobe partner to add app integration in Google Drive, Gemini** (2026-11-10)
   - Google is sending Drive's PDF users to Acrobat instead of fixing its own editor, which admits Adobe still owns the PDF workflow.
-
-- **Disney and Adobe are building generative AI tools together** (2026-11-09)
-  - Disney's Adobe deal is a bet that "commercially safe," IP-trained AI can scale production, and "artist-led" is doing a lot of PR work in that pitch.

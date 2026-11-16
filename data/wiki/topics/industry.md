@@ -1,18 +1,66 @@
 # Industry
 
 
-*463 articles in the last 7 days*
+*383 articles in the last 7 days*
 
 
 ## Latest
 
 
-### AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded
+### TE Connectivity at OCP Summit 2026 The Interview
 
-*ServeTheHome | 2026-11-14*
+*ServeTheHome | 2026-11-16*
 
 
-AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
+GPUs get the headlines, but connectors, cables and power racks are where AI data center limits show up, and TE Connectivity is cashing in.
+
+
+### The Download: testing tech promises and searching for cognitive immortality
+
+*MIT Technology Review | 2026-11-16*
+
+
+Scoring hyped technologies on a 0–10 progress meter is a fun reality check, but this newsletter roundup has little substance on AI.
+
+
+### Building AI that can work across the enterprise
+
+*MIT Technology Review | 2026-11-16*
+
+
+A sponsored piece repeating the enterprise-AI script: fix your data first, govern your agents, scale beyond pilots. Familiar advice, paid placement.
+
+
+### Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG
+
+*InfoQ | 2026-11-16*
+
+
+A 20% gain sounds modest. What makes Uber's legal agent worth studying is that it learns from lawyers' actual edits, not from a pile of prompts.
+
+
+### Article: Governed Autonomous Intelligence for Mission-Critical Utility
+
+*InfoQ | 2026-11-16*
+
+
+The best idea here isn't the AI. It's admitting the model should never hold the keys, and that agents should earn autonomy one action class at a time.
+
+
+### Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data
+
+*InfoQ | 2026-11-16*
+
+
+Airbnb's CASTLE gets around search's cold-start problem by using booking behavior as ground truth. It is clever, but synthetic queries are only as honest as the LLM writing them.
+
+
+### Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle
+
+*InfoQ | 2026-11-15*
+
+
+Uber is right that IAM can't stop a rogue agent. Its framework treats behavior as the new permission layer, but it is heavy machinery most companies can't copy.
 
 
 ### Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions
@@ -77,35 +125,3 @@ Apple's Neuromancer finally has momentum, but its real challenge is making cyber
 
 
 Gametime's $20 code sounds generous, but on a $200 minimum it is only 10 percent—comparison shopping still matters more than coupon theater.
-
-
-### Even Black Friday Will Be More Expensive Than Usual
-
-*Wired | 2026-11-13*
-
-
-Black Friday's discount theater is colliding with real component inflation, so shoppers should judge final prices—not the size of the crossed-out percentage.
-
-
-### ‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk
-
-*Wired | 2026-11-13*
-
-
-Ending Cybertruck production turns weak demand into a trust test, because Tesla must now prove that service and parts will outlast the vehicle's hype.
-
-
-### Bitdefender Antivirus Plus Review: Undercutting the Competition
-
-*Wired | 2026-11-13*
-
-
-Bitdefender's strong lab scores make its value pitch credible, but a dated Mac app and 700-MB footprint keep it from being an effortless recommendation.
-
-
-### ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next
-
-*Wired | 2026-11-13*
-
-
-Stephen Miller's promotion concentrates Trump's immigration agenda in an experienced operator, making congressional opposition important but hardly sufficient to restrain the White House.

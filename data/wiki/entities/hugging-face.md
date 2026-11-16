@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Hugging Face and OpenRouter join forces to make open-weight models easy to run** (2026-11-16)
+  - Hugging Face dropping its own router for OpenRouter is a smart admission that model hosting and inference routing are different businesses, and open-weight users win.
+
 - **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem** (2026-11-13)
   - llama.cpp v1.0.0 matters less as a feature milestone than as a promise that local AI developers can finally build on clearer compatibility boundaries.
 
@@ -21,6 +24,3 @@
 
 - **I Saw the Future of Robotics in a Virtual Duck That Chases My Cat** (2026-11-11)
   - A cat-chasing virtual duck sounds silly, but going from weeks to hours of robot training shows AI is quietly collapsing robotics' simulation bottleneck.
-
-- **The 130 KB AI is a 175 KB PDF** (2026-11-09)
-  - Shipping a whole classifier inside a PDF is a clever trick, but it mostly shows how little 'AI' a 74% Naive Bayes model actually needs.

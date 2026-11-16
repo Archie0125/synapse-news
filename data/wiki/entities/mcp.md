@@ -7,6 +7,9 @@
 ## Recent Mentions
 
 
+- **Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle** (2026-11-15)
+  - Uber is right that IAM can't stop a rogue agent. Its framework treats behavior as the new permission layer, but it is heavy machinery most companies can't copy.
+
 - **An AI agent believes whatever its tools send back** (2026-11-13)
   - Publishing an output schema without enforcing it is security theater; reliable AI agents need runtime validation and confidence in the validator itself.
 
@@ -24,6 +27,3 @@
 
 - **Google Antigravity adds ‘Knowledge Work’ interface for non-coding work** (2026-11-10)
   - Google's Knowledge Work mode admits coding agents were general-purpose agents all along; the IDE was just the first container.
-
-- **A read-only MCP server for TeamCity** (2026-11-09)
-  - A read-only TeamCity MCP server takes the worst part of CI debugging, finding the one log line that matters, and makes deliberately limited agent power look like the smart default.

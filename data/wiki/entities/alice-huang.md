@@ -1,7 +1,7 @@
 # Alice Huang
 
 
-*Mentioned in 27 articles*
+*Mentioned in 21 articles*
 
 
 ## Recent Mentions

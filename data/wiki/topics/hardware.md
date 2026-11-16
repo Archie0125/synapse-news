@@ -1,18 +1,18 @@
 # Hardware
 
 
-*367 articles in the last 7 days*
+*293 articles in the last 7 days*
 
 
 ## Latest
 
 
-### AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded
+### TE Connectivity at OCP Summit 2026 The Interview
 
-*ServeTheHome | 2026-11-14*
+*ServeTheHome | 2026-11-16*
 
 
-AMD launching embedded Venice alongside its flagship server chips shows embedded customers are no longer an afterthought for AMD's server roadmap.
+GPUs get the headlines, but connectors, cables and power racks are where AI data center limits show up, and TE Connectivity is cashing in.
 
 
 ### TCL QM7L Mini-LED TV Review (2026)

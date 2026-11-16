@@ -1,7 +1,7 @@
 # Gemini 4 Argon
 
 
-*Mentioned in 6 articles*
+*Mentioned in 5 articles*
 
 
 ## Recent Mentions
@@ -21,6 +21,3 @@
 
 - **Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains** (2026-11-10)
   - Gemini 4 Carbon's most important claim isn't topping a benchmark. It's using 3x fewer tokens, which makes agent swarms more affordable to run.
-
-- **Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement** (2026-11-09)
-  - Gemini 4 Argon has impressive robotics demos and benchmark scores, but heavy prompt scaffolding and missing failure rates make it hard to tell how much is the model.

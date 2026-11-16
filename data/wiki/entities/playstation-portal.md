@@ -1,7 +1,7 @@
 # PlayStation Portal
 
 
-*Mentioned in 3 articles*
+*Mentioned in 2 articles*
 
 
 ## Recent Mentions
@@ -12,6 +12,3 @@
 
 - **Starlink Mini 2 adds a swappable battery** (2026-11-10)
   - Sony killing a PC app used by under 0.4 percent of Premium members is sensible, but it's another sign that PlayStation is pulling back from PC.
-
-- **Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage** (2026-11-09)
-  - Sony is quietly turning the PlayStation Portal from a PS5 accessory into a media device, and testing that change in Japan first.

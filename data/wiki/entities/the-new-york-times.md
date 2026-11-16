@@ -1,7 +1,7 @@
 # The New York Times
 
 
-*Mentioned in 9 articles*
+*Mentioned in 8 articles*
 
 
 ## Recent Mentions
@@ -30,6 +30,3 @@
 
 - **Here’s what Trump said he knew about Jensen Huang** (2026-11-09)
   - Trump's vagueness about when he learned of Jensen Huang's alleged spy entanglement is the real story: Washington apparently sat on a national-security risk at America's most strategic chipmaker.
-
-- **Nvidia is investigating Jensen Huang’s relationship with a Chinese spy** (2026-11-08)
-  - Nvidia's board says it has 'confidence in Jensen' before its own investigation has started, and that sentence undercuts the word 'independent.'

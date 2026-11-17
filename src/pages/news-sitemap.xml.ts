@@ -1,5 +1,5 @@
-import { getCollection } from 'astro:content';
 import { SITE } from '../data/site';
+import { getPublicArticles } from '../lib/articles';
 
 export const prerender = true;
 
@@ -13,7 +13,7 @@ function xmlEscape(s: string): string {
 }
 
 export async function GET() {
-  const articles = await getCollection('articles');
+  const articles = await getPublicArticles();
   // Google News crawls articles published in the last ~2 days.
   // Use start-of-day 2 days ago so midnight-timestamped articles are included.
   const cutoff = new Date();

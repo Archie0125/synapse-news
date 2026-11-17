@@ -114,6 +114,8 @@ def apply_summaries(
             post["topics"] = summary.get("topics", [])
             post["entities"] = summary.get("entities", [])
             post["sentiment"] = summary.get("sentiment", "neutral")
+            post["publishable"] = summary.get("publishable") is True
+            post["exclude_reason"] = str(summary.get("exclude_reason") or "")[:300]
             post["status"] = "summarized"
 
             # Bilingual key points

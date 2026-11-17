@@ -1,5 +1,4 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HeroStory from '../../components/HeroStory.astro';
 import StoryCard from '../../components/StoryCard.astro';
@@ -10,6 +9,7 @@ import SortBar from '../../components/SortBar.astro';
 import { CATEGORIES } from '../../lib/categories';
 import { LANGS, t, getCategoryName, type Lang } from '../../lib/i18n';
 import { SITE } from '../../data/site';
+import { getPublicArticles } from '../../lib/articles';
 
 export function getStaticPaths() {
   return LANGS.map(lang => ({ params: { lang } }));
@@ -17,7 +17,7 @@ export function getStaticPaths() {
 
 const lang = Astro.params.lang as Lang;
 
-const allArticles = await getCollection('articles');
+const allArticles = await getPublicArticles();
 const langArticles = allArticles
   .filter(a => a.data.lang === lang)
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());

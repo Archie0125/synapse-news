@@ -1,0 +1,138 @@
+---
+category: industry
+faqs:
+- answer: Producers such as Northern Leaf converted greenhouses that once grew Jersey
+    tomatoes, a crop hurt by rising fuel costs and cheaper imports, into regulated
+    medical cannabis facilities. Northern Leaf's 100,000-square-foot site makes it
+    one of Europe's largest licensed medical cannabis producers.
+  question: How did Jersey become a medical cannabis exporter?
+- answer: Jersey exported more than 9,200 kilograms of cannabis in 2025. That is modest
+    compared with UK growers but very large per person on an island of about 100,000
+    residents, which is why cannabis is becoming one of the island's important new
+    industries.
+  question: Why does a 9,200-kilogram export figure matter for Jersey?
+- answer: The industry depends on medical cannabis rules and demand outside the island,
+    especially in the UK and Europe. It also needs costly medical-grade infrastructure
+    such as automated irrigation, environmental monitoring and air purification, so
+    a change in regulation or pricing could hit a small economy hard.
+  question: What are the risks to Jersey's cannabis industry?
+featured: false
+lang: en
+publishedAt: '2026-11-09T07:00:00+00:00'
+relatedSlugs: []
+sources:
+- name: Wired
+  url: https://www.wired.com/story/welcome-to-weed-island-jersey/
+summary: Jersey swapped dying tomato greenhouses for medical cannabis, a smart pivot
+  for a tiny economy that still depends on regulators and buyers elsewhere.
+tags:
+- industry
+- policy
+title: Welcome to Weed Island
+trending: false
+type: news
+---
+
+Steven Tan walks along a narrow concourse in the Northern Leaf greenhouse in St Lawrence, Jersey, reading aloud the strains of his [cannabis](https://www.wired.com/tag/cannabis/) plants: Pink Gasoline, Moon Beam Gelato, Carbon Fibre, Gorilla Kush. Rows of plants stretch off into the distance. To the untrained eye, they look largely the same, with their distinctive jagged-edged, multi-fingered leaf shape and sticky buds like tiny pinecones.
+
+But Tan, the CEO and director of [medical cannabis](https://www.wired.com/story/medical-cannabis-nhs-prescription/) manufacturer Northern Leaf, knows them intimately. “These plants are all different,” he says, stopping next to a mature Carbon Fibre specimen. “Just like humans.”
+
+Northern Leaf is one of the largest licensed medical marijuana producers in Europe. Its 100,000-square-foot growing facility is based in Jersey, the largest of the Channel Islands, located between England and France. Previously, this greenhouse was home to Jersey tomatoes, once a famed crop on the island that came close to extinction, thanks to growing fuel costs and cheaper competition from overseas. Now, it is fitted out with all of the technology required for cultivating [cannabis](https://www.wired.com/story/wired-guide-cannabis/) that meets strict regulations for medical use, which include: automated irrigation, environmental monitoring, and air purification.
+
+Despite being just 45 square miles in size, with a population of 100,000, Jersey—which lies 14 miles off the coast of the French mainland but is a British Crown Dependency—has emerged as an unlikely player in the medical cannabis industry. Although its total exports (over 9,200 kilograms in 2025) are small compared to UK growers, this represents an enormous amount per capita, and cannabis is fast becoming one of the island’s important new industries. Jersey’s chief minister, Lyndon Farnham, [has previously said that](https://www.bailiwickexpress.com/news/jerseys-cannabis-sector-yet-deliver-significant-tax-revenue/) he wants Jersey to be a “centre of excellence” for medical cannabis, and for cannabis production to become a mainstay of the island’s economy.
+
+Currently, 90 percent of Jersey’s cannabis production comes from Northern Leaf. In 2025, the company exported £8.4 million ($11.3 million) worth of medical marijuana to markets including the UK and Germany (regulations mean it is only permitted to grow for export and cannot sell to customers in Jersey). Tan has much greater ambitions. He points to another famous Jersey export, Jersey Royal potatoes. “Jersey’s potato industry did £40 million in 2025,” he said. “I am already doing a quarter of the potato industry on 5 percent of the land. On 20 percent of the land, I could create an industry worth more than the potato industry. That is where it will get interesting.”
+
+Born in Malaysia to a Chinese dad and Irish mother, Tan, 50, wanted to become a vet, but after graduating from university in 1998, ended up developing software for Citibank. He was making good money, but his heart wasn’t in finance. What really interested him was growing weed. “I loved the science of it, the genetics, the seeds, the smells,” Tan says.
+
+The early 2000s were the perfect time for an inquisitive young business grad to get into the cannabis business. Across the world, governments were legalizing medical marijuana and moving towards decriminalization over draconian sentencing.
+
+Tan began bouncing around jurisdictions that were relaxing laws on cannabis, working as a consultant in California, the Netherlands, and Canada. “I started to see these legal frameworks opening up. The minute they existed, I went there,” he says.
+
+Jersey has a somewhat unique regulatory environment. As a Crown Dependency, it has close ties to Britain, but is not a part of the UK. Crucially, it is self-governing: It can make its own laws. Jersey’s main reputation today is as a tax haven, attracting some of the world’s wealthiest individuals and companies, thanks to its lack of capital gains tax and 0 percent corporation tax for most companies. Along its coastline, next to twee beachside cafes and Nazi bunkers (the Channel Islands were the only part of the British Isles to be occupied by Hitler’s forces in World War II), you can find offices of international banks and wealth management firms catering to the super rich.
+
+Although traditionally culturally conservative, Jersey has become something of a trailblazer on cannabis. The island legalized medical cannabis in 2019. Today, five private clinics operate on the island. The [latest figures suggest](https://www.bailiwickexpress.com/news/medicinal-cannabis-prescriptions-surge-to-more-than-72000-in-a-year/) that 6 percent of the population is prescribed cannabis, compared to an estimated 0.4 percent in Germany and 0.1 percent in the UK. Upon legalization, the island’s chief minister, Lyndon Farnham, laid out ambitious plans for the island to become a hub of the medical cannabis trade, repurposing the horticultural facilities and know-how from its tomato-growing glory days for this new endeavor.
+
+Tan joined Northern Leaf as CEO in 2024, when the company was in dire straits after a failed IPO. That year, it was valued at just £3.7 million, despite having spent as much as £30 million on its weed-growing facility.
+
+Tan nevertheless saw a lot of potential, and over the last two years has seen capacity at the site increase from 25 percent to 75 percent. He believes the £8.4 million of product the company exported last year is just the beginning.
+
+Sarah Clover, a barrister at Kings Chambers who works on cannabis licensing in Jersey, told WIRED the island’s advantage is hard to replicate. Growers are inspected by the UK Medicines and Healthcare products Regulatory Agency (MHRA), which is known for enforcing rigorous standards on quality. “Anybody buying from Jersey knows that the stuff coming out of it is absolutely gold standard, because the MHRA says it is,” she says. Permits, however, are handled by a small team on the island: “You can make an application for a permit on a Monday and get it on a Tuesday.”
+
+Many within the Jersey medicinal cannabis industry now want to go beyond growing the raw ingredient and package it for export as a final product on the island. Northern Leaf already has the facilities to do so, but Jersey law dictates it can only export bulk amounts of raw cannabis for other companies to process and pack for distribution and sale. The company is waiting to see if Jersey will change its law. “At the minute we’re kind of on this seesaw—which way will the island go?” Clover says. “It could really take off here. Jersey could be a life sciences hub, not just for cannabis but for all sorts of pharmaceuticals.”
+
+But running a cannabis business on a small island poses challenges, and not everyone is enthused about the idea of expansion. Tan has faced off against residents every time that the facility has expanded production. Some locals have complained that they can smell cannabis from their balconies. Others have linked the growing industry to concerns over misuse of cannabis on the island, despite the fact that all of its product is exported. Cannabis is a “contributory factor” in 22 percent of admissions to the island’s acute mental health ward, according to Jersey’s health minister.
+
+One patient, Michael, told WIRED that he was prescribed medical cannabis for 18 months after having tried two other prescribed medications for insomnia and anxiety. “The initial assessment was simple. I had a meeting with the cannabis doctor who was pretty evangelical about its medicinal properties. They check your medical history with your GP, and within 10 days you’re good to go,” he says.
+
+Michael was prescribed 30 grams a month of “unbelievably good” cannabis and told that if he ran out he could back and ask for more. “I stopped because it was seriously affecting my mental health \[and\] I have since seen a psychiatric professional who said I should never have been prescribed it given my documented mental health history,” he says.
+
+Illegal resale of medical cannabis is also an issue, with a rise in so-called “user-dealers,” who sell their excess medical marijuana to others. Jersey Police told WIRED this “undermines the legal framework and creates opportunities for criminal supply.”
+
+Overall, however, cannabis-related offenses have dropped since Jersey legalized medical cannabis in 2019—from 216 in 2016 to just 12, as of July 2026.
+
+Tan is circumspect about the challenges of operating on Jersey. “Culturally, the people here are harder to convince about cannabis,” he says. “It’s an older society.” But after 25 years working in the industry, he’s used to the pushback.
+
+“It’s a normal challenge,” he says. “And I think when anyone sits down and meets me, they understand. This isn’t a bunch of stoners growing a bit of weed in a plastic greenhouse.”
+
+While Jersey’s medical cannabis industry grows, some people on the island want to go further. In 2024, a vote to decriminalize recreational cannabis was defeated by a single vote in the island’s parliament. When it was brought back for another vote by the island’s then health minister, it was withdrawn before it could be debated. It is expected to be brought back before the parliament in the coming months.
+
+Some individuals on the island have decided not to wait. By exploiting a loophole in current laws, they have made Jersey one of the only places in Europe outside of Amsterdam where THC products can be purchased and consumed legally.
+
+One morning in February 2024, Gary Tucker arrived at work, his weed shop in St Helier, Jersey, to find a dozen customs officers and the local media waiting outside. It was a raid—and not his first. The officers emptied shelves and boxes into bin bags. “They were literally running their arms down the shelves and putting everything into bags. They took everything,” Tucker, a California native and former analyst in the US Army, told WIRED.
+
+Tucker operates outside of Jersey’s medical cannabis industry. His shop, Bailiwick Botanicals, sells products that are clearly recreational: hash cakes, gummies, and other snacks, all infused with tetrahydrocannabinol (THC), the psychoactive ingredient in cannabis that gets you high and is heavily controlled.
+
+He’s able to do this owing to a loophole in Jersey law which allows the sale of products containing CBD—another critical ingredient in cannabis, but one that doesn’t get you high. Jersey’s law says that the amount of THC in CBD products cannot exceed 3 percent of the weight of the CBD. So, if you want to sell products with high levels of THC, you just have to boost the CBD. “It’s just a math equation,” Tucker says.
+
+Tucker admits it isn’t an ideal situation: studies suggest that ingesting high levels of CBD can cause liver damage. But he sees that as an issue with the regulation, not his solution. “I’m just following consumer demand,” he says.
+
+Tucker is somewhat evangelical about the properties of cannabis. In his time as a weapons trainer for the military, he struggled with the mental health impacts of hearing that recruits he had trained had been killed in action. “I needed to step back from it. It started to really affect my mind,” Tucker says.
+
+Veterans he knew were turning to cannabis, and Tucker began buying it on the black market. “It was the only thing that helped me,” he says. ”Cannabis gave me my life back.”
+
+Tucker currently manufactures most of his products in the US before shipping them to Sark—a smaller Channel Island best known for having no cars and also its own government—and then to Jersey. New regulations in the US, however, mean Tucker may need to change his approach.
+
+Tucker sees Jersey as a potential export hub for THC products to Europe. He believes Jersey’s budding weed industry should push beyond medical cannabis and into the recreational market. “This isn’t just a bunch of guys in a cellar somewhere. Not only does cannabis help people, but getting it to the shelf creates jobs. From the grower to the retailer. It permeates across all industries. We’re making cosmetics. We’re making gummies. We’re making drinks,” he says.
+
+After the 2024 raid, Bailiwick Botanicals shut its doors for two weeks, and its full stock wasn’t returned until six months later. As of June 2026, Tucker and his team are selling THC-infused fudge, chocolate, and other sweets. His newest product, THC-infused coffee beans, is selling well. The police have stayed away.
+
+In a written statement to WIRED, Jersey’s government said that the “possibility of abuse of our limits to get round the law in other jurisdictions is a matter of concern to the Government of Jersey and we are looking at ways to address it. Work is underway to consider whether Jersey’s existing legal exemptions for CBD products require amendment.”
+
+For his part, Tan is reluctant to be drawn on his views on the so-called “rec” (recreational) market. For now, Jersey still has harsh sentencing rules on recreational cannabis use, with the penalties for possession and possession with intent to supply remaining up to five years and 14 years in jail, respectively. The proposed (and withdrawn) law to decriminalize cannabis notes that, the way the law is currently written, someone who rolled three joints and gave one to a friend would be guilty of supply and receive a criminal record. “Without change, people will continue receiving serious criminal records for small amounts … punishments \[that\] can result in additional harms greater than the drug itself,” it said.
+
+While Jersey makes its own laws, however, it may not be able to completely legalize cannabis. Jersey is a signatory to the UN Convention on drugs control via the UK, and the UK Home Office would undoubtedly have a view if the island were to set itself up as an “Amsterdam on the Sea.” In 2022, an effort by the government of Bermuda (a British Overseas Territory) to legalize recreational cannabis was blocked after the UK withheld Royal Assent from the bill.
+
+Back at the Northern Leaf warehouse in the Jersey parish of St Lawrence, Tan is flipping the lids off large boxes and rifling through clear plastic bags packed full of cannabis.
+
+This is all weed that will not be sold, either because there were issues with production or the THC levels were too low. Instead, it is taken to a secure area of the facility where it is locked away in a reinforced armored vault. Specialist staff with bodycams take the bags to the island’s incinerator, where it is unceremoniously burned, as required by law.
+
+Tan regularly makes a case to the government for changes to the law and support for the cannabis industry, such as an industrial energy tariff to help with spiraling energy costs.
+
+He has claimed that Jersey could be home to “the Monsanto of cannabis,” alluding to the agricultural giant that was acquired by pharmaceutical company Bayer in 2018 for $66 billion. He’d like to get deeper into the genetics of cannabis, form a tissue-culture lab, and “bring out strains that nobody has ever seen.”
+
+But speaking of himself, he references a different genre of business: He’s Willy Wonka, but for weed. Thirty years ago, when Tan quit corporate finance, his father warned him that he could make a lot more money if he stayed in banking. “And you know what, he was right,” he says. “But I would not have had nearly as much fun.”
+
+## Comments
+
+Back to top
+
+## Summary
+
+**TLDR:** Jersey swapped dying tomato greenhouses for medical cannabis, a smart pivot for a tiny economy that still depends on regulators and buyers elsewhere.
+
+- Northern Leaf, run by CEO Steven Tan, is one of Europe's largest licensed medical cannabis producers and grows in a 100,000-square-foot greenhouse on Jersey.
+- The facility used to grow Jersey tomatoes, a once-famous crop pushed close to extinction by rising fuel costs and cheaper imports.
+- Jersey exported more than 9,200 kilograms of cannabis in 2025. That is small next to UK growers but large for an island of about 100,000 people.
+- Medical-grade growing requires automated irrigation, environmental monitoring and air purification, so the industry is closer to precision agriculture than to traditional farming.
+- As a British Crown Dependency between England and France, Jersey has its own regulatory status, which helped it build a niche industry quickly. That niche is exposed if UK or European medical cannabis rules change.
+
+## 摘要
+
+**重點摘要：** 澤西島把沒落的番茄溫室改種醫療大麻，對小經濟體來說是聰明的轉型，但這門生意的命脈仍掌握在其他地方的監管機關和買家手裡。
+
+- Northern Leaf 由執行長 Steven Tan 領軍，是歐洲規模最大的持牌醫療大麻生產商之一，在澤西島經營 10 萬平方英尺的溫室。
+- 這座溫室過去種的是澤西番茄，這種曾經聞名的作物因燃料成本上升和海外低價競爭，幾乎從島上消失。
+- 澤西島 2025 年大麻出口超過 9,200 公斤。總量比不上英國業者，但以約 10 萬人口計算，人均產量相當驚人。
+- 醫療級種植需要自動灌溉、環境監測和空氣淨化，這個產業更接近精準農業，而不是傳統種田。
+- 澤西是位於英法之間的英國皇家屬地，擁有自己的監管地位，因此能很快建立利基產業。但如果英國或歐洲的醫療大麻法規改變，這個利基也會跟著受影響。

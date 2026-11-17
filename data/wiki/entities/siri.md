@@ -1,0 +1,35 @@
+# Siri
+
+
+*Mentioned in 9 articles*
+
+
+## Recent Mentions
+
+
+- **Why Apple's HomeView relies so heavily on your iPhone** (2026-11-13)
+  - HomeView’s iPhone dependence protects privacy and personalization, but turns Apple’s home hub into an ecosystem accessory rather than a truly standalone device.
+
+- **Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future** (2026-11-13)
+  - Secure Exclaves show Apple is treating ambient sensing as a security problem, but data collection matters more than the architecture’s branding.
+
+- **Apple TV 4K (4th gen) review: Still great, but drastically more expensive** (2026-11-12)
+  - The fourth-generation Apple TV 4K remains an excellent streamer, but its $299 price turns premium polish into an increasingly difficult indulgence.
+
+- **Apple HomeView review: A versatile smart display and Siri-powered home hub** (2026-11-12)
+  - HomeView looks versatile, but its $299 value proposition is fundamentally an Apple ecosystem loyalty test disguised as a smart display.
+
+- **HomeView review, new Apple TV launches, Apple holiday ad** (2026-11-12)
+  - Apple’s smart-home ambitions will be judged by HomeView’s daily usefulness, especially Siri and audio quality, not by another polished launch cycle.
+
+- **Apple TV 4K review: The best streamer comes at a cost** (2026-11-12)
+  - The new Apple TV 4K looks built to age gracefully, but $299 is steep when its most noticeable upgrade may be a remote you can find.
+
+- **watchOS 27.3: Three new features coming soon to Apple Watch** (2026-11-11)
+  - watchOS 27.3 makes Siri more capable on the wrist, but Live Rewind looks like an answer to a problem most people solve by asking 'sorry, what?'
+
+- **Google Gemini coming to CarPlay** (2026-11-11)
+  - Gemini finally reaches CarPlay as the last major holdout. In-car AI is now table stakes, and Apple's dashboard has become neutral ground for every chatbot.
+
+- **Apple starts offering $50 extended usage packs for AI features in Creator Studio** (2026-11-09)
+  - Apple's $50 AI usage packs show that generative AI isn't really unlimited in a subscription, and creative professionals are paying more for it first.

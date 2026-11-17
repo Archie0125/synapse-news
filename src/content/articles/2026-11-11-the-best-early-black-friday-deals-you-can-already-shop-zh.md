@@ -1,0 +1,87 @@
+---
+category: products
+faqs:
+- answer: 2026 年黑色星期五是 11 月 27 日，但零售商已開始對 3D 印表機、充電器、掃地機器人和電視等科技產品降價。越接近當天，價格可能還會再降。
+  question: 2026 年黑色星期五是哪天？現在已經有優惠了嗎？
+- answer: 不一定。由於整體物價上漲，有折扣不代表是歷史低價，消費者最好先比對過去的售價。
+  question: 提前的黑五折扣真的划算嗎？
+- answer: 提前優惠包括第三代 Ember 智慧馬克杯、Hisense 2026 CanvasTV 4K QLED 藝術電視，以及 Elegoo Centauri
+    Carbon 2 Combo 3D 印表機。
+  question: 有哪些值得注意的提前優惠商品？
+featured: false
+lang: zh
+publishedAt: '2026-11-11T15:53:55+00:00'
+relatedSlugs: []
+sources:
+- name: The Verge
+  url: https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
+summary: 黑色星期五早鳥優惠已經開跑，但科技產品價格普遍上漲，標上折扣不代表就真的買到好價格。
+tags:
+- products
+- hardware
+title: 黑色星期五早鳥優惠搶先看：現在就能下手的好康整理
+trending: false
+type: news
+---
+
+The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. But we’re still seeing worthwhile discounts on a host of tried-and-tested gear, with more expected in the coming weeks.
+
+# The best early Black Friday deals you can already shop
+
+Black Friday is still several weeks away, but you can already save on 3D printers, chargers, robot vacuums, and more.
+
+Below, we’ve rounded up the best early Black Friday deals we’ve found so far. Prices could drop further as Black Friday approaches, as is always the case, but these deals are worth considering if you’d rather shop early and beat the holiday rush. We’ll continue to update this guide as more retailers launch their holiday sales, too, so be sure to check back regularly as we get closer to the main event.
+
+Ember’s latest smart mug is designed to keep your coffee at the ideal temperature for up to three hours, with five temp settings between 120 and 145 degrees Fahrenheit. The third-gen version is similar to prior models; however, you can now adjust the heat settings directly on the mug and throw it in the dishwasher, which wasn’t the case before.
+
+Hisense’s 2026 CanvasTV is a 4K QLED TV that doubles as wall art when you’re not watching. It features a matte, anti-glare display and runs on Google’s excellent TV software; it’s also a great pick for gamers thanks to its snappy 144Hz variable refresh rate and a pair of HDMI 2.1 ports.
+
+The Elegoo Centauri Carbon 2 Combo is a beginner-friendly 3D printer that supports four filament spools. It features an enclosed build chamber, automatic bed leveling, and a large touchscreen, making it easy to produce reliable prints.
+
+Moft’s Trackable Tripod Wallet is a MagSafe-compatible wallet that holds two cards and folds into an adjustable phone stand or small tripod. It also supports both Apple’s Find My network and Google’s Find Hub, offers Qi wireless charging, and includes a detachable shutter remote for taking photos.
+
+Govee’s Christmas lights offer over 130 preset lighting effects, though you can also create your own custom light displays. The IP65-rated lights feature Matter support, so they’ll work with any major smart home platform, and are sold in lengths up to 328 feet with up to 1,000 LED beads.
+
+Govee’s Table Lamp 2 is way more fun than your average table lamp. The color-changing device boasts built-in scheduling and more than 60 dynamic lighting effects, including preset scenes for various holidays. You can even create custom color combos for when “Dandelion” and other presets just aren’t cutting it.
+
+Birdfy’s metal smart bird feeder features a wide-angle 4K camera that lets you get an up-close look at visiting birds, along with a 1.8-liter seed capacity and a built-in solar panel for charging. It also offers free AI-powered recognition of more than 6,000 bird species.
+
+Tessan’s universal travel adapter delivers up to 205W of combined USB charging power and can charge up to eight devices, including a pair of laptops, at the same time. It features six USB-C ports, including two that can deliver up to 140W individually, a USB-A port, and an AC outlet. It also works in over 200 countries and regions.
+
+Bambu Lab’s P2S Combo is a 3D printer that can print in multiple colors and automatically dry its materials to help improve print quality. It also features a 5-inch touchscreen, a built-in camera for monitoring prints remotely, and AI-powered tools that can detect printing problems.
+
+The Dreame X60 Ultra is a powerful robot vacuum and mop that does a great job of cleaning carpets, thanks to its dual roller brushes and 35,000Pa of suction. It can climb over tall thresholds, squeeze under low furniture, and automatically detach its mop pads when vacuuming carpets.
+
+Eight Sleep’s Pod 6 automatically adjusts your bed’s temperature based on your sleep patterns, heart rate, and breathing. It features a redesigned hub that’s half the size of its predecessor and adjusts temperatures faster. The system also tracks sleep quality, detects snoring, and lets couples control the temperature on each side of the bed independently.
+
+Flextail’s Zero Pump 2 might weigh a mere 1.7 ounces, but it can quickly inflate and deflate a sleeping pad. It comes with six nozzles and a replaceable battery that recharges via USB-C, allowing you to inflate up to 30 pads on a single charge.
+
+The last-gen Litter-Robot 4 can monitor your cat’s visits, track their weight, and automatically separate waste from clean litter after each use, so you can go up to eight days without emptying your cat’s litter box. The so-called starter bundle also includes 20 pounds of litter, 25 waste drawer liners, a host of odor-control accessories, a litter-trapping mat, and a three-year warranty.
+
+Headspace makes it easier to build mindfulness into your everyday life, whether you’re looking to manage stress, improve focus, or get a better night’s sleep. An annual subscription gives you access to hundreds of guided meditations, breathing exercises, and other tools for beginners and experienced users alike.
+
+Part of Casetify’s [early Black Friday sale](https://www.casetify.com/iphone-cases/iphone-18-pro-max-cases?DG=iPhone&D_iPhone=iphone-18-pro-max&AG=Collections&A_Collections=Best+Selling+Prints), which offers up to 50 percent off select phone case styles, this Moonaries Illo case features playful artwork from the illustrator behind Mocha Cat. It’s available for the iPhone 17 Pro, iPhone 16 Pro, and other iPhone models.
+
+The Icemag 3 can wirelessly deliver up to 25W of power to compatible smartphones and up to 35W wired charging via USB-C. The 10,000mAh Qi2 charger can also act as a foldable kickstand, comes with an integrated USB-C cable that serves as a lanyard, and sports a transparent design with colorful RGB lighting.
+
+**Follow topics and authors**from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+## Summary
+
+**TLDR:** Early Black Friday deals are here, but with prices rising across tech, a discount sticker no longer guarantees you're getting a good price.
+
+- Black Friday is November 27th, and retailers are already discounting 3D printers, chargers, robot vacuums, and more.
+- Rising prices across the board mean a discount may not be a historic low.
+- Highlights include the third-gen Ember smart mug, now dishwasher-safe with on-mug controls.
+- Hisense's 2026 CanvasTV, a 4K QLED art TV with Google TV, 144Hz VRR, and two HDMI 2.1 ports, is also on sale.
+- The Elegoo Centauri Carbon 2 Combo, a beginner 3D printer with four-spool support, is another pick.
+
+## 摘要
+
+**重點摘要：** 黑色星期五提前開跑，但科技產品全面漲價，折扣標籤已經不等於買到好價格。
+
+- 黑色星期五在 11 月 27 日，零售商已開始對 3D 印表機、充電器、掃地機器人等商品降價。
+- 整體物價上漲，代表折扣價不一定是歷史低價。
+- 推薦商品包括第三代 Ember 智慧馬克杯，現在可用洗碗機清洗，也能直接在杯身調溫。
+- Hisense 2026 CanvasTV 是搭載 Google TV 的 4K QLED 藝術電視，支援 144Hz VRR 和兩個 HDMI 2.1 埠。
+- Elegoo Centauri Carbon 2 Combo 是支援四卷線材的入門 3D 印表機，也在優惠名單中。

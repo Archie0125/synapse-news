@@ -1,0 +1,26 @@
+# iPhone Duo
+
+
+*Mentioned in 6 articles*
+
+
+## Recent Mentions
+
+
+- **Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales** (2026-11-12)
+  - Foxconn's 46% surge shows AI servers are diversifying its engine, while bullish iPhone Duo forecasts reveal Apple still depends on premium hardware to offset a shrinking market.
+
+- **30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry** (2026-11-12)
+  - A reported 30% return rate is alarming but not conclusive; the bigger warning is that Apple’s radical foldable currently feels easier to trial than commit to.
+
+- **The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come** (2026-11-12)
+  - The iPhone Duo’s beautiful hardware cannot hide immature software, giving seasoned Android foldables an unexpected advantage in the category Apple usually perfects late.
+
+- **iPhone Duo one week later: The future, or not for me?** (2026-11-11)
+  - If a reviewer has to force themselves to unfold the iPhone Duo, the hinge isn't the problem. The use case is.
+
+- **If you bought an iPhone Duo, have you kept or returned it? [Poll]** (2026-11-11)
+  - The iPhone Duo's return wave suggests a great demo and something you want to use every day are two different things.
+
+- **iOS 27.3: Three new iPhone features coming soon** (2026-11-09)
+  - iOS 27.3's real story is the Health app, which Apple pulled from 27.2 and is now relaunching as an AI health coach.

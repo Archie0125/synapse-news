@@ -3,6 +3,7 @@ title: "Google DeepMind AlphaEarth：每一個衛星像素，都能成為 AI 洞
 summary: "適逢 2026 年地球日，Google 宣布旗下 Earth AI 計畫重大進展，核心是 AlphaEarth Foundations 基礎模型——一個以 PB 級多源衛星數據訓練、以每 10 公尺解析度覆蓋全球陸地與沿岸水域的地理空間模型。錯誤率比同類模型低 24%，聯合國糧農組織、史丹佛大學等 50 多個合作夥伴已在實際部署中使用。"
 category: "ai-ml"
 publishedAt: 2026-04-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -55,7 +56,7 @@ Google 報告指出，AlphaEarth 在標準基準測試中比同類地理空間�
 
 ## 地理空間推理：讓 AI 成為地球分析師
 
-除了 AlphaEarth Foundations，Google 也發布了「地理空間推理」（Geospatial Reasoning）框架——將 AlphaEarth 嵌入向量與 Gemini 的語言和推理能力整合，讓複雜的空間分析查詢可以用自然語言完成。
+Google Earth AI 也包含一個由 Gemini 驅動的「地理空間推理」（Geospatial Reasoning）代理（agent），負責統籌包括 AlphaEarth Foundations 在內的 Earth AI 基礎模型，以回答複雜的空間查詢。
 
 過去要分析「美國東南部哪些河流出現藻華」，需要一名 GIS 專家花幾個小時手動篩選衛星波段、設定閾值、輸出地圖。Geospatial Reasoning 讓用戶直接輸入這樣的查詢，系統自動選擇衛星層、套用 AlphaEarth 嵌入、在地圖上標示結果，並附上文字說明。
 
@@ -96,3 +97,5 @@ AlphaEarth 在地球日宣布，時機是刻意安排的，但它的意義遠超
 對地理空間產業而言，AlphaEarth 是一個競爭格局的轉折點：建立在窄域特定任務模型上的商業衛星公司、GIS 軟體供應商和環境顧問機構，都需要重新評估自己的護城河。
 
 而對那些默默從事森林監測、水質追蹤和土地使用製圖的機構而言，AlphaEarth 只是讓重要工作變得更快、更易取得的工具。在一個環境變化監測能力與需求之間差距以年計算的世界，這本身就意義重大。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

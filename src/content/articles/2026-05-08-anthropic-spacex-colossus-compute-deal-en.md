@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Signs SpaceX's Colossus 1 for 220,000 GPUs, Doubles Claude Code Rate Limits"
-summary: "Anthropic announced on May 6 that it has secured the entire computing capacity of SpaceX's Colossus 1 data center — originally built to run xAI's Grok — giving the AI safety company access to over 300 megawatts and 220,000 Nvidia GPUs within a month. The deal prompted Anthropic to immediately double Claude Code's rate limits and remove peak-hour caps, while the company revealed it is also exploring space-based AI compute with SpaceX."
+title: "Anthropic Signs SpaceX's Colossus 1 for 220,000 GPUs, Doubles Claude Code Five-Hour Rate Limits"
+summary: "Anthropic announced on Wednesday that it has agreed to use all of the compute capacity at SpaceX's Colossus 1 data center, giving it access to more than 300 megawatts and over 220,000 NVIDIA GPUs within the month. Anthropic also doubled Claude Code's five-hour rate limits and removed the peak hours limit reduction for Pro and Max accounts, and said it has expressed interest in developing space-based AI compute with SpaceX."
 category: "ai-ml"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,17 +29,17 @@ relatedSlugs:
   - "2026-05-07-anthropic-goldman-blackstone-enterprise-ai-en"
 ---
 
-Sometime in the past six months, Claude Code became something that Anthropic's own infrastructure could no longer keep up with. On May 6, 2026, the AI safety company announced an unusual fix: it has secured the full computing capacity of Colossus 1, a data center built and owned by SpaceX that was originally constructed to power xAI's Grok models, and will use it to dramatically expand the compute available to Claude users. The deal is a reminder that in the current AI era, the infrastructure constraints are often more binding than the models themselves.
+Sometime in the past six months, Claude Code became something that Anthropic's own infrastructure could no longer keep up with. On Wednesday, Anthropic announced an unusual fix: it has agreed to use all of the compute capacity at SpaceX's Colossus 1 data center in Memphis, Tennessee, to expand the compute available to Claude users. The deal is a reminder that in the current AI era, the infrastructure constraints are often more binding than the models themselves.
 
 ## What Colossus 1 Brings
 
-The numbers are striking. Colossus 1 gives Anthropic access to more than 300 megawatts of power capacity across more than 220,000 Nvidia GPUs, all expected to come online for Anthropic's workloads within a month of the announcement. For context, that is roughly comparable to a mid-sized hyperscaler's dedicated AI training cluster — handed to a company that, until recently, was primarily known for running lean on compute relative to its rivals.
+The numbers are striking. Colossus 1 gives Anthropic access to more than 300 megawatts of new capacity across more than 220,000 Nvidia GPUs, which Anthropic said it would have within the month. For context, that is roughly comparable to a mid-sized hyperscaler's dedicated AI training cluster — handed to a company that, until recently, was primarily known for running lean on compute relative to its rivals.
 
 The deal is structured through SpaceX rather than xAI directly, reflecting SpaceX's role as the owner and operator of the Colossus 1 physical facility. The arrangement also has a forward-looking component: Anthropic disclosed it has "expressed interest" in working with SpaceX to explore multiple gigawatts of compute capacity deployed in space — an ambitious framing that signals the relationship extends well beyond an emergency capacity arrangement.
 
 ## Immediate Impact: Rate Limits Doubled
 
-Anthropic moved fast to translate the new capacity into user-facing benefits. Alongside the infrastructure announcement, the company confirmed it is doubling Claude Code's rate limits across all paid subscription tiers — Pro, Max, Team, and Enterprise — and removing the peak-hour usage caps that had frustrated developers working within the tool's previous constraints.
+Anthropic moved fast to translate the new capacity into user-facing benefits. Alongside the infrastructure announcement, the company said it is doubling Claude Code's five-hour rate limits for Pro, Max, Team, and seat-based Enterprise plans, and removing the peak hours limit reduction on Claude Code for Pro and Max accounts.
 
 The peak-hour cap removal is particularly meaningful. Claude Code had been experiencing the kind of demand spike characteristic of genuinely viral developer adoption: rapid enough that even periods of moderate global usage could bump users into rate limits during peak hours in certain regions. Removing that ceiling, even temporarily, signals that Anthropic now has enough compute headroom to operate Claude Code more like an always-on infrastructure service rather than a usage-rationed API.
 
@@ -54,7 +55,7 @@ There is also a structural logic: xAI's Grok development cadence fluctuates, cre
 
 ## Layering on Top of AWS
 
-The SpaceX deal is the latest addition to an increasingly diversified compute strategy at Anthropic. In April 2026, the company announced an expanded partnership with Amazon Web Services for up to 5 gigawatts of AI infrastructure capacity, including nearly 1 gigawatt of AWS Trainium 2 compute expected to be available by the end of 2026.
+The SpaceX deal is the latest addition to an increasingly diversified compute strategy at Anthropic. The company has also announced an agreement with Amazon for up to 5 gigawatts of capacity, including nearly 1 gigawatt of new capacity by the end of 2026.
 
 The multi-provider approach makes strategic sense. AWS gives Anthropic access to Trainium, Amazon's custom AI training chip, reducing dependency on Nvidia GPU allocations for certain workloads. SpaceX's Colossus 1 provides immediate Nvidia GPU capacity for inference-heavy workloads like Claude Code. And Anthropic continues to pursue its own preferred cloud partnerships for specific product lines.
 
@@ -75,3 +76,5 @@ The Anthropic-SpaceX deal highlights a dynamic that is reshaping how AI companie
 For developers and enterprises relying on Claude Code, the immediate takeaway is simple: the compute ceiling that was throttling productivity has been substantially raised, and the peak-hour frustrations that punctuated the prior several months should ease significantly within weeks.
 
 The longer-term implication is more structural. Anthropic, having crossed $44 billion in annualized revenue and accelerating, is now constructing an infrastructure stack commensurate with its ambitions — one that mixes owned capacity, hyperscaler partnerships, competitor facility leases, and potentially orbital compute in a configuration that no one would have predicted a year ago.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "MIT Technology Review Unveils Its First-Ever '10 Things That Matter in AI' List at EmTech AI 2026"
-summary: "MIT Technology Review today published a brand-new annual list — '10 Things That Matter in AI Right Now' — at its EmTech AI 2026 conference on the MIT campus. The list, separate from the publication's existing 10 Breakthrough Technologies ranking, was created because AI generated too many candidates to fit into a single combined list. It covers AI companions, mechanistic interpretability, generative coding, hyperscale data centers, and more."
+summary: "MIT Technology Review planned to unveil a brand-new annual list, '10 Things That Matter in AI Right Now', at its EmTech AI conference on the MIT campus on April 21, 2026. The list, separate from the publication's existing 10 Breakthrough Technologies ranking, grew out of the editors having more worthy AI candidates than they could fit into that list. AI companions, mechanistic interpretability, generative coding and hyperscale data centers made the 2026 Breakthrough Technologies list."
 category: "ai-ml"
 publishedAt: 2026-04-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -35,7 +36,7 @@ The solution was a new list. On April 21, 2026, at the EmTech AI conference on t
 
 The decision to create a separate AI-specific list reflects something about the moment the industry is in. For the past three years, AI has dominated the conversation in technology, and the pace of meaningful development — new model capabilities, infrastructure innovations, governance debates, novel application categories — has accelerated to the point where a general-purpose breakthrough technologies list cannot do it justice.
 
-"The 2026 '10 Breakthrough Technologies' list was harder to compile than usual because there were so many worthy AI candidates we couldn't fit them all in," the publication noted in its preview. The new list is not limited to technologies in the narrow sense — it covers technologies, emerging research directions, bold ideas, and powerful movements reshaping the trajectory of AI.
+In its preview, the publication said its 2026 list was harder to wrangle than normal because it had "so many worthy AI candidates we couldn’t fit them all in." The new list is not limited to technologies in the narrow sense — it covers technologies, emerging research directions, bold ideas, and powerful movements reshaping the trajectory of AI.
 
 The inaugural list was compiled by MIT Technology Review's AI reporting team and unveiled on stage at EmTech AI 2026 before its online publication.
 
@@ -47,7 +48,7 @@ The framing of "The Great Integration" is itself a signal of where the industry'
 
 ## What Made the List
 
-Among the items on the inaugural "10 Things That Matter in AI Right Now":
+Four AI items did make the 2026 "10 Breakthrough Technologies" list, and they show the areas the editors are following:
 
 **AI Companions**: The list leads with the rapid normalization of AI chatbots as emotional companions — a development the editors describe as having "almost become mainstream in the past year." The emergence of AI companions raises deep questions about dependency, loneliness, mental health, and what it means to form a meaningful relationship. Products like Character.AI, Replika, and a growing number of purpose-built companion apps now serve tens of millions of users who engage with them in explicitly emotional registers.
 
@@ -72,3 +73,5 @@ The launch of this list is, in its own way, a marker of how much the AI conversa
 The fact that MIT Technology Review felt compelled to create a separate list for AI — rather than simply allocating more slots in its existing framework — says something about the density and pace of meaningful development in the field. We are no longer at the stage where AI can be usefully understood as one topic among many. It has become the lens through which technology, policy, economics, and culture are all being simultaneously refracted.
 
 The "10 Things That Matter in AI Right Now" will be updated annually. Next year's list, presumably compiled against an even noisier backdrop, will tell us how much has changed.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

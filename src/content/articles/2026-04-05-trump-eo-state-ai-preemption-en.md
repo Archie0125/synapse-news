@@ -3,6 +3,7 @@ title: "Trump Executive Order Activates DOJ Task Force to Override State AI Laws
 summary: "The DOJ's AI Litigation Task Force, operational since January 10, is now actively challenging state AI statutes that conflict with the Trump administration's December 2025 executive order preempting local regulation. With over 20 states having enacted comprehensive AI laws, the outcome of this federal-state standoff will define who governs AI in America for the next decade."
 category: "policy"
 publishedAt: 2026-04-05T10:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -53,7 +54,7 @@ The FTC also issued its AI policy statement on March 11, clarifying that it cons
 
 ## The Funding Leverage Mechanism
 
-Beyond litigation, the EO includes a less-discussed but potentially more powerful tool: it conditions certain federal broadband and technology funding on states pausing enforcement of AI statutes that conflict with federal priorities.
+Beyond litigation, the EO includes a less-discussed but potentially more powerful tool: it directs Commerce to make states with onerous AI laws ineligible for certain BEAD broadband non-deployment funds, and directs agencies to assess whether they can condition discretionary grants on states not enacting or enforcing conflicting AI laws.
 
 This funding conditionality mechanism mirrors approaches used in other federal-state regulatory contexts — most notably the use of highway funding to enforce the national minimum drinking age in the 1980s, which the Supreme Court upheld in *South Dakota v. Dole* (1987). If the same logic applies here, states that want access to federal AI infrastructure grants from the CHIPS Act and broadband programs may have to agree to pause enforcement of specific AI laws during the litigation period.
 
@@ -61,13 +62,13 @@ Legal scholars are divided on whether the funding mechanism is constitutionally 
 
 ## Carve-Outs That Reveal Priorities
 
-The EO's explicit carve-outs are as revealing as its targets. The following categories of state AI law are explicitly excluded from preemption efforts:
+The EO's explicit carve-outs are as revealing as its targets. The EO directs that its legislative recommendation for a federal framework not propose preempting state AI laws on the following topics:
 
 - **Child safety laws**: State laws requiring age verification, content moderation, or parental consent for AI systems used by minors.
 - **State procurement rules**: States retain authority to set their own standards for AI systems used in state government operations.
-- **Data center permitting**: States retain authority over land use, zoning, and utility regulations for AI infrastructure — a significant carve-out given the enormous amount of data center construction planned across the country.
+- **Data center infrastructure**: AI compute and data center infrastructure laws, other than generally applicable permitting reforms.
 
-The carve-outs suggest the EO is targeting state laws that create friction for private sector AI deployment, not laws that protect state sovereignty or vulnerable populations. That framing will be central to the constitutional challenges the litigation task force will face.
+The carve-outs suggest the EO is targeting state laws that create friction for private sector AI deployment, not laws on child safety, state procurement or data center infrastructure. That framing will be central to the constitutional challenges the litigation task force will face.
 
 ## Industry Response: Complicated
 
@@ -87,3 +88,5 @@ The DOJ litigation is unlikely to produce final judicial resolution before 2027 
 - **State compliance decisions**: some states may voluntarily pause enforcement of challenged laws rather than defend them with limited resources against the DOJ
 
 The December 2025 EO is the most aggressive assertion of federal authority over AI regulation in U.S. history. The DOJ's task force activation turns it from a policy statement into an active legal contest. Whatever the courts ultimately decide, the fight itself will force clarity on constitutional questions that were, until very recently, entirely theoretical.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

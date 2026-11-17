@@ -3,6 +3,7 @@ title: "Andrej Karpathy Joins Anthropic to Lead Pre-Training Research, Intensify
 summary: "Andrej Karpathy—OpenAI co-founder, former Tesla AI director, and the researcher who coined 'vibe coding'—announced on May 19 that he is joining Anthropic's pre-training team under Nick Joseph. His mandate: build a new group that uses Claude itself to accelerate pre-training research. The hire adds the highest-profile name yet to Anthropic's growing roster of elite researchers, and signals an industry-wide escalation in the competition for the engineers who actually know how to train frontier models."
 category: "ai-ml"
 publishedAt: 2026-06-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -40,7 +41,7 @@ For an industry that watches talent move between a handful of elite labs with ne
 
 Few researchers have worked at the frontier of AI across as many distinct eras and institutions as Karpathy. He co-founded OpenAI in 2015 alongside Sam Altman, Greg Brockman, Ilya Sutskever, and others, working on deep learning and computer vision in the lab's earliest days. He left in 2017 to lead Tesla's Autopilot and Full Self-Driving programs—arguably the most consequential real-world deployment of deep learning at that point in history—building the system that turned the company's entire vehicle fleet into a data collection operation and pioneered the use of vision-only perception at scale.
 
-After leaving Tesla in 2022, Karpathy returned to OpenAI for a year before departing again in 2024 to found Eureka Labs, an education startup focused on AI-powered teaching assistants. His YouTube channel explaining deep learning from first principles had already made him one of the most influential educators in the field; Eureka Labs was an attempt to scale that work through software. The company launched a product but did not wind down—Karpathy's X post noted that he "remains deeply passionate about education and plans to resume his work on it in time," treating his Anthropic role as a leave of absence rather than a permanent departure.
+After leaving Tesla in 2022, Karpathy returned to OpenAI for a year before departing again in 2024 to found Eureka Labs, an education startup focused on AI-powered teaching assistants. His YouTube channel explaining deep learning from first principles had already made him one of the most influential educators in the field; Eureka Labs was an attempt to scale that work through software. Karpathy has not shared many updates on Eureka Labs since its launch, and it is not clear whether he will continue with the startup. "I remain deeply passionate about education and plan to resume my work on it in time," he said.
 
 ## What He Will Actually Do
 
@@ -75,3 +76,5 @@ Anthropic has not provided a timeline for when Karpathy's pretraining team will 
 The era in which a handful of former Googlers and OpenAI alumni dominated every major AI lab is ending. The field is consolidating into a smaller set of institutions with the compute, the data, and—increasingly—the talent to operate at the true frontier. Anthropic is building for that consolidation, hiring researchers with the specific backgrounds that will determine which lab builds the next generation of models first, and most safely.
 
 Karpathy landing there is not just a personnel story. It is a structural development in the competition that will shape what AI can do over the next decade.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

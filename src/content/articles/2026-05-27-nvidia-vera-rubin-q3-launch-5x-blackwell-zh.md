@@ -3,6 +3,7 @@ title: "NVIDIA Vera Rubin 確認第三季出貨：效能超越 Blackwell 五倍�
 summary: "NVIDIA 在創下歷史紀錄的 Q1 FY2027 財報電話會議上確認，Vera Rubin 平台將於 2026 年第三季開始出貨，第四季進入量產。這款七晶片架構每 GPU 可提供 50 petaFLOPs NVFP4 推理效能、機架層級達 3.6 exaFLOPs 吞吐量，可能是 Transformer 架構普及以來最關鍵的 AI 硬體世代交替。"
 category: "hardware"
 publishedAt: 2026-05-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -50,11 +51,11 @@ Vera CPU 同樣野心十足。採用 2,270 億電晶體、基於客製化 Arm「
 
 ## 供給現實的冷靜審視
 
-對 Vera Rubin 規格的期待，需要用生產現實來節制。NVIDIA 預測 Q2 FY2027 營收約 910 億美元——仍主要由 Blackwell 驅動。按慣例，公司在新 GPU 上市第一年將 60% 至 70% 的產能分配給超大規模雲端業者，其餘部分由企業、政府和雲端新創競搶。
+對 Vera Rubin 規格的期待，需要用生產現實來節制。NVIDIA 預測 Q2 FY2027 營收約 910 億美元，上下浮動 2%。按慣例，公司在新 GPU 上市第一年將 60% 至 70% 的產能分配給超大規模雲端業者，其餘部分由企業、政府和雲端新創競搶。
 
 分析師估計 2026 年 Vera Rubin GPU 總產量介於 20 萬至 30 萬顆之間——僅是已安裝 Blackwell 基礎的一小部分。首批客戶預計涵蓋 AWS、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure 與 CoreWeave，大致依此優先順序分配。
 
-這種供給約束弔詭地解釋了為何 NVIDIA 將 Blackwell 加上 Rubin 合計平台展望至 2027 年累積營收 1 兆美元。Blackwell 仍以產多少賣多少的速度持續出貨；Rubin 新增的是高端層級而非取代前代。隨財報一同宣布的 800 億美元股票回購與 25 倍股息增加，反映管理層對需求跑道遠超任何近期供給上限的強烈信心。
+NVIDIA 也指出，Blackwell 與 Rubin 的平台營收能見度達 1 兆美元，這項數字已於 2026 年 3 月的 GTC 上討論過。Blackwell 仍以產多少賣多少的速度持續出貨；Rubin 新增的是高端層級而非取代前代。隨財報一同宣布的 800 億美元股票回購與 25 倍股息增加，反映管理層對需求跑道遠超任何近期供給上限的強烈信心。
 
 ## Groq 3 LPX：低延遲的新維度
 
@@ -75,3 +76,5 @@ LPX 被納入 Vera Rubin 平台，標誌著 NVIDIA 正在為推理請求以快�
 更廣泛的含義是，推理的經濟學即將再次轉變。自 2022 年 ChatGPT 時刻以來每一年，百萬 token 的成本下降了約 80%——不是因為 OpenAI 或 Anthropic 變得更有效率，而是因為他們運行的硬體在固定功耗下變得大幅更快。Vera Rubin 若能實現相對 Blackwell 10 倍的每 token 成本改善，將加速這一趨勢，並擴大部署 AI 代理在經濟上合理的任務範圍。
 
 對在 NVIDIA 分配隊列另一端等待的企業、開發者與研究人員而言，2026 年第三季的到來再怎麼快都不夠快。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

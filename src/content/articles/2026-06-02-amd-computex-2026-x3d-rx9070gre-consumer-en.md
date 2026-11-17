@@ -3,6 +3,7 @@ title: "AMD at Computex 2026: New X3D CPUs, RX 9070 GRE Goes Global, and AM5 Loc
 summary: "AMD used Computex 2026 to make a series of targeted consumer hardware announcements: the Ryzen 7 7700X3D bringing 3D V-Cache to an accessible $329 price point, a limited 10th Anniversary Edition of the beloved 5800X3D, the global launch of the Radeon RX 9070 GRE, and a firm commitment to support the AM5 socket through 2029—giving upgraders a rare long-term platform guarantee."
 category: "hardware"
 publishedAt: 2026-06-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -34,7 +35,7 @@ While much of Computex 2026 has been dominated by enterprise AI hardware and bil
 
 ## Ryzen 7 7700X3D: 3D V-Cache Reaches a New Price Floor
 
-The most significant new product is the Ryzen 7 7700X3D, launching July 16 at $329. Built on Zen 4 with AMD's 3D V-Cache stacking technology, the chip brings eight cores, sixteen threads, a 4.5 GHz boost clock, and 104MB of total cache at a price point $70 below where the 7800X3D launched two years ago.
+The most significant new product is the Ryzen 7 7700X3D, launching July 16 at $329. Built on Zen 4 with AMD's 3D V-Cache stacking technology, the chip brings eight cores, sixteen threads, a 4.5 GHz boost clock, and 104MB of total cache at $329, well below the $449 at which the 7800X3D launched.
 
 The 7700X3D is a meaningful product for gamers who have been waiting for 3D V-Cache to become accessible. AMD's V-Cache technology—which stacks additional SRAM directly on top of the CPU die to create a massive L3 cache—has consistently delivered the best gaming performance of any desktop processor since it debuted on the 5800X3D in 2022. The larger cache reduces the latency and bandwidth pressure on system memory for game workloads, which translates directly into higher minimum frame rates in CPU-bound scenarios.
 
@@ -50,9 +51,9 @@ AMD is being explicit that AM4 is a mature platform—there will be no new AM4 C
 
 ## RX 9070 GRE: RDNA 4 Goes Global
 
-The Radeon RX 9070 GRE was already available in China, where AMD launched it as a region-specific offering for the Chinese New Year period. At Computex, AMD confirmed the global rollout began June 1 at $549.
+The Radeon RX 9070 GRE was already available in China, where it has been a China-exclusive card since May 2025. At Computex, AMD confirmed the global rollout on June 1 at $549.
 
-The card is a meaningful data point for the value segment of the discrete GPU market. With RDNA 4 architecture, 12GB of GDDR6 memory, and support for AMD's FidelityFX Super Resolution 4 technology, the RX 9070 GRE slots into a market gap between the full RX 9070 ($599) and the mid-range options below it. Its performance targets roughly Nvidia's RTX 5070 territory at a competitive price.
+The card is a meaningful data point for the value segment of the discrete GPU market. With RDNA 4 architecture, 12GB of memory, and support for AMD's latest FSR technologies, the RX 9070 GRE targets QHD gaming and sits between the Radeon RX 9060 XT and the Radeon RX 9070, closer to the RX 9070. Its performance targets roughly Nvidia's RTX 5070 territory at a competitive price.
 
 FSR 4, which AMD introduced with the RDNA 4 launch, represents a genuine quality improvement over FSR 3—the machine learning-based upscaling algorithm now produces image quality that most reviewers consider competitive with Nvidia's DLSS 4 in standard modes. For gamers who have historically dismissed FSR as visually inferior, FSR 4 on RDNA 4 hardware merits a second look.
 
@@ -76,10 +77,12 @@ ULL profiles work by tightening memory timings in ways that reduce latency at th
 
 Notably absent from Computex: any significant update on AMD's data center GPU plans. The Instinct MI450X is in market but its competitive position against Nvidia's Blackwell and the upcoming Vera Rubin has become a quiet concern. AMD's consumer hardware story is strong; its AI infrastructure story is under more scrutiny.
 
-Also absent: any new Ryzen 9000 announcements. The current Ryzen 9000 series is capable but launched with performance that disappointed enthusiasts who expected larger Zen 5 IPC gains. AMD seems content to let 3D V-Cache carry the gaming narrative for now, with a full architectural generation to follow in its own time.
+The current Ryzen 9000 series is capable but launched with performance that disappointed enthusiasts who expected larger Zen 5 IPC gains. AMD seems content to let 3D V-Cache carry the gaming narrative for now, with a full architectural generation to follow in its own time.
 
 ## The Bottom Line for PC Builders
 
 Computex 2026 gave PC builders concrete reasons to act. The Ryzen 7 7700X3D at $329 is the easiest recommendation AMD has made in the sub-$350 gaming CPU space in years. The global RX 9070 GRE fills a gap in the midrange GPU market. And the AM5 commitment through 2029 reduces the platform risk anxiety that has historically made some buyers hesitate on platform investments.
 
 None of it is as dramatic as the AI GPU wars or the cloud infrastructure build-out dominating the rest of Computex's floors. But for the millions of PC gamers considering their next upgrade, AMD in Taipei this week had the most relevant things to say.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

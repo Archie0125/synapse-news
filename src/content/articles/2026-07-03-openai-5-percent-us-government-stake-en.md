@@ -3,6 +3,7 @@ title: "OpenAI Proposes Giving the US Government a 5% Stake Worth $42 Billion"
 summary: "OpenAI CEO Sam Altman is pushing a landmark proposal that would grant the US government a 5% ownership stake in every major American AI lab, worth roughly $42.6 billion at OpenAI's current $852 billion valuation. The plan—which Altman has pitched to Trump, Bessent, and Sanders—aims to give the public a financial share in AI's upside while defusing mounting political pressure over the technology."
 category: "policy"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -35,7 +36,7 @@ The plan, first reported by the Financial Times and confirmed by Bloomberg and C
 
 The intellectual architecture of Altman's proposal draws from an unexpected source: the Alaska Permanent Fund, the state's sovereign wealth vehicle that distributes a portion of oil revenues to every Alaskan resident as an annual dividend. Altman has reportedly framed his vision as an "Alaska-style" arrangement for AI—one where the public doesn't just bear the risks of powerful artificial intelligence but shares in its financial rewards.
 
-Under the broader version of the proposal, OpenAI would not be the only company making the offer. Altman wants Anthropic, Google, and Meta Platforms to each grant the government equivalent stakes in their AI operations. Whether those companies would agree is far from certain. Anthropic declined to comment; Google and Meta did not respond to requests before publication.
+Under the broader version of the proposal, OpenAI would not be the only company making the offer. Altman wants Anthropic, Google, and Meta Platforms to each grant the government equivalent stakes in their AI operations. Whether those companies would agree is far from certain. The White House, OpenAI, Google and Meta did not respond to CNBC's requests for comment, and a source familiar with the matter said the Trump administration and Anthropic have not discussed the government taking stakes in that company.
 
 The specifics of how the stakes would be structured remain undefined. The discussions are described by people familiar with them as conceptual and early-stage. Any formal arrangement would likely require an act of Congress, and the political path to get there is treacherous—particularly in an environment where the administration has repeatedly clashed with AI companies over model access restrictions.
 
@@ -45,7 +46,7 @@ The timing of Altman's overture is not accidental. OpenAI is navigating one of t
 
 The proposed stake is, at least in part, a political sweetener. By inviting the government into OpenAI's equity structure, Altman signals a willingness to share not just the responsibilities of frontier AI development but its financial fruits. The move would also complicate any effort by Congress to impose punitive regulations: legislators would be voting against their own constituents' financial interests.
 
-"Giving the public a financial interest in the company is the best way to share the upside of AI," Altman told associates in conversations described to reporters. The framing echoes language he has used publicly about the need for AI's benefits to be broadly distributed, while translating it into a concrete—and self-interested—policy mechanism.
+Altman argued that giving the public a financial interest in the company is the best way to share the upside of AI, the FT reported, citing two people familiar with the talks. The framing echoes language he has used publicly about the need for AI's benefits to be broadly distributed, while translating it into a concrete—and self-interested—policy mechanism.
 
 ## The Conversations Behind the Proposal
 
@@ -68,3 +69,5 @@ The proposal arrives at a moment when questions about who benefits from AI—and
 For Altman, the 5% offer is a strategic gamble. It costs OpenAI something—dilution, a new powerful stakeholder, potential governance complications—but buys something potentially more valuable: political cover, a friendlier regulatory environment, and a narrative in which the government is a partner in AI's success rather than an adversary trying to contain it.
 
 Whether the gambit works depends on whether Congress can agree on a mechanism to accept and hold such stakes, whether other AI companies will follow, and ultimately whether voters find the "Alaska for AI" framing compelling. None of those outcomes are guaranteed. But in a political environment defined by anxiety about AI's concentration of wealth and power, Altman is betting that the best defense is a very expensive offense.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

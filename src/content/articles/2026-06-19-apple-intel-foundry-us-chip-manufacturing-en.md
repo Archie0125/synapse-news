@@ -1,8 +1,9 @@
 ---
-title: "Apple Taps Intel Foundry to Manufacture US-Made Chips, Intel Stock Surges 10%"
+title: "Trump Says Apple and Intel Will Make Chips in the US, Intel Shares Jump 9% Premarket"
 summary: "President Trump announced on June 18 that Apple and Intel have agreed to collaborate on chip design and domestic manufacturing, the first major production partnership between the companies since Apple abandoned Intel CPUs in 2020. Intel shares surged nearly 10% on the news, marking a critical milestone in the US push to reduce semiconductor reliance on Taiwan."
 category: "hardware"
 publishedAt: 2026-06-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 A presidential announcement sent semiconductor stocks soaring on Thursday: Apple and Intel will collaborate to design and manufacture chips inside the United States, President Trump confirmed via Truth Social on June 18, 2026. The deal marks the most consequential shift in Apple's chip supply chain since the company ditched Intel processors for its own Apple Silicon in 2020 — and signals a dramatic turn in Intel's fortunes under renewed domestic manufacturing ambitions.
 
-Intel shares surged 9–10.67% in premarket trading following the announcement, part of a broader semiconductor rally that has pushed the sector up 90% year-to-date in 2026. Intel's stock has now gained 464% over the past twelve months — a remarkable recovery for a company that spent much of 2023–2024 mired in losses and executive turnover.
+Intel shares surged 9–10.67% in premarket trading following the announcement, part of a broader semiconductor rally that has pushed the sector up 90% year-to-date in 2026. Intel's stock had already gained 464% over the previous twelve months before the news.
 
 ## The Strategic Logic
 
@@ -73,3 +74,5 @@ Wall Street's enthusiasm, however, suggests the market is betting on the long-te
 Neither Apple nor Intel confirmed the specifics of the agreement beyond the presidential announcement, and a joint statement is expected in the coming days. Industry watchers will be scrutinizing which chip categories are designated for Intel fabrication, what financial commitments accompany the deal, and whether other hyperscalers — Amazon, Google, and Microsoft are all building custom silicon — might follow Apple's lead in exploring Intel as a domestic foundry option.
 
 The global chip supply chain realignment, accelerated by US-China tensions and pandemic-era disruptions, is now shaping decisions at the very top of the technology industry. For Intel, an Apple partnership would be the most concrete proof yet that its foundry ambitions are becoming a commercial reality. For Apple, it is a strategic hedge that doubles as a political asset. For the semiconductor industry as a whole, the era of TSMC's near-monopoly on advanced manufacturing may be entering its final chapter.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

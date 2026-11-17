@@ -1,8 +1,9 @@
 ---
-title: "Xi Jinping to Deliver First-Ever Keynote at WAIC 2026, Signaling China's Bid for Global AI Leadership"
-summary: "Chinese President Xi Jinping will address the World AI Conference in Shanghai on July 17 — his first appearance at the annual summit — as Beijing prepares to unveil its vision for a global AI governance organization and more than 300 products make their world debut, including Huawei's Atlas 950 computing cluster and the world's first AI Agent smartphone."
+title: "Xi Jinping to Deliver Keynote at WAIC 2026 in Shanghai for the First Time"
+summary: "Chinese President Xi Jinping will attend the opening ceremony of the World AI Conference in Shanghai and deliver a keynote speech — reportedly his first appearance at the event — as more than 300 products make their global debut, including Huawei's Atlas 950 and the world's first AI Agent smartphone."
 category: "policy"
 publishedAt: 2026-07-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-07-02-un-itu-ai-for-good-global-commission-en"
 ---
 
-Chinese President Xi Jinping will deliver the opening keynote at the 2026 World Artificial Intelligence Conference (WAIC) in Shanghai on July 17, making his first-ever appearance at the annual summit and marking a dramatic escalation in Beijing's ambition to shape how artificial intelligence is governed worldwide.
+Chinese President Xi Jinping will attend the opening ceremony of the 2026 World Artificial Intelligence Conference (WAIC) in Shanghai and deliver a keynote speech, making his first appearance at the event, which runs from July 17 to 20.
 
-The announcement, made on July 13 by Chinese state authorities, ends years of speculation about when China's top leader would personally engage with the event that has served as the country's showcase for domestic AI capability since 2018. That Xi is not merely sending a delegate but appearing himself signals that the Chinese government now views AI governance as an arena of strategic geopolitical competition — one where it intends to claim the high ground.
+The announcement, made on Monday by a Chinese Foreign Ministry spokesperson, marks the first time China's leader will appear at the country's flagship AI event. That Xi is not merely sending a delegate but appearing himself signals that the Chinese government now views AI governance as an arena of strategic geopolitical competition — one where it intends to claim the high ground.
 
 **A Summit Redefined**
 
@@ -58,7 +59,7 @@ Beneath the geopolitical theater, WAIC 2026 is also a product showcase for China
 
 Huawei is scheduled to unveil its Atlas 950 computing cluster — a system built around 8,192 of the company's Ascend neural processing unit cards — which has been optimized specifically for large-scale model training and inference. The Atlas 950 represents Huawei's answer to NVIDIA's H100 and B200 systems, developed entirely without American components following U.S. export restrictions that cut off Huawei's access to leading-edge chips in 2020. While independent benchmarks of the Atlas 950 are not yet publicly available, the system's 8,192-NPU configuration positions it as Huawei's most serious bid yet for hyperscale AI training.
 
-Also making its world debut is what organizers are billing as the first AI Agent smartphone — a handset designed from the ground up around persistent, autonomous AI agents rather than traditional app-based computing. ZTE is reported to be the manufacturer. Unlike existing AI smartphones that run agent capabilities as software layers atop conventional app architectures, the device integrates on-device AI agent orchestration at the hardware level, enabling persistent background agents capable of monitoring and taking actions across the device without explicit per-task user invocation.
+Also making its debut is what a Shanghai official described as the world's first AI Agent smartphone. ZTE is reported to be the manufacturer. Unlike existing AI smartphones that run agent capabilities as software layers atop conventional app architectures, the device integrates on-device AI agent orchestration at the hardware level, enabling persistent background agents capable of monitoring and taking actions across the device without explicit per-task user invocation.
 
 MiniMax, one of China's better-funded model startups with reportedly strong revenue and a multi-billion-dollar valuation, will launch its M3 multimodal large model at the conference, offering extended reasoning capabilities across text, code, image, and video inputs. The Jieyue Agent Operating System and several humanoid robotics platforms are also among the 300-plus debut products.
 
@@ -70,4 +71,6 @@ But hardware remains a constraint. U.S. export controls on advanced GPUs have pu
 
 For global policymakers attending the parallel governance track, the challenge is clear: how do you engage constructively with a framework-setting process when the frameworks themselves may encode fundamentally different values about state control, data privacy, and accountability? China's preferred governance architecture — one in which AI development is a matter of national sovereignty first and international harmonization second — clashes directly with the multilateral approach favored by the EU, the OECD, and much of the G7.
 
-The answers — or the failure to find them — will define international AI governance for years to come. They start being negotiated, formally, in Shanghai on July 17.
+The answers — or the failure to find them — will define international AI governance for years to come. The conference and the High-Level Meeting on Global AI Governance run in Shanghai from July 17 to 20.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

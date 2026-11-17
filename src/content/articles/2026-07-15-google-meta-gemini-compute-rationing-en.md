@@ -3,6 +3,7 @@ title: "Google Is Rationing AI Compute to Meta — and Renting GPUs From SpaceX 
 summary: "Google informed Meta it could not fulfill the company's full Gemini compute quota, forcing Meta to curb employee AI usage and accelerate a switch to its own Muse Spark model. To bridge its own capacity gap, Google signed a $920 million monthly deal to rent 110,000 Nvidia GPUs from SpaceX — a signal that even the world's most powerful AI infrastructure builder cannot keep pace with demand it helped create."
 category: "industry"
 publishedAt: 2026-07-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -50,7 +51,7 @@ Meta's reliance on Gemini for content safety operations was a consequential stra
 
 Meta instructed employees across relevant divisions to tighten AI token usage and "improve efficiency" — corporate language that translates, in practice, to doing less with AI than they had planned to. The restrictions disrupted and delayed the timelines of multiple internal AI projects, according to sources cited by the Financial Times.
 
-The episode has since accelerated Meta's already-in-progress transition away from external model dependence. Muse Spark, developed by Meta's Superintelligence Labs under former Google Brain researcher leadership, is now handling the safety workloads that Gemini once served. Meta has also published its AI capex guidance for 2026 at $115 to $135 billion — a figure that suggests the company is building toward infrastructure self-sufficiency even if it cannot achieve it immediately.
+The episode has since accelerated Meta's already-in-progress transition away from external model dependence. Muse Spark, developed by Meta's Superintelligence Labs under former Google Brain researcher leadership, is now handling the safety workloads that Gemini once served. Meta raised its full-year 2026 capital expenditure guidance to between $125 billion and $145 billion at its April 2026 earnings call, up from an earlier range of $115 billion to $135 billion — a sign the company is investing heavily in its own infrastructure.
 
 ## What the SpaceX GPU Deal Reveals
 
@@ -77,3 +78,5 @@ The Google-Meta compute rationing episode, combined with the SpaceX GPU rental d
 This is not the picture of a mature market with well-understood supply chains and predictable capacity planning. It is the picture of a technology transition happening faster than any individual actor, however well-resourced, can fully accommodate. The winners of the AI infrastructure race will be the ones who find ways to build, secure, and deploy compute capacity ahead of demand — a challenge that has proven harder than it looked.
 
 Whether the current disarray resolves as the data center pipeline catches up with demand, or whether new constraints emerge at the layer above hardware, remains to be seen. But one thing the Google-Meta episode makes clear: at the frontier of AI deployment, compute is the constraint, and the constraint is real.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

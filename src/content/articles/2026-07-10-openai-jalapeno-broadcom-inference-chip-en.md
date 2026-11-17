@@ -3,6 +3,7 @@ title: "OpenAI Unveils Jalapeño: Its First Custom Inference Chip, Built With Br
 summary: "OpenAI and Broadcom revealed Jalapeño, OpenAI's first in-house AI inference processor, promising roughly 50% cost savings over GPU alternatives. Developed from concept to tape-out in under nine months, the chip signals a major vertical integration push by the world's most valuable AI company."
 category: "hardware"
 publishedAt: 2026-07-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -37,13 +38,13 @@ The announcement marks a genuine strategic inflection point, not just for OpenAI
 
 Jalapeño is an inference processor — designed specifically for the phase of AI computation that happens after a model has been trained, when it responds to real user queries. That distinction matters enormously. Training large language models requires the generalized, massively parallel floating-point performance of Nvidia H100 and GB300 GPUs. Inference is a different beast: it demands low latency, high memory bandwidth, and cost efficiency at scale, often running billions of requests per day.
 
-Where Nvidia's hardware is a general-purpose accelerator adapted to AI workloads, Jalapeño was designed from a blank slate with a single objective: run OpenAI's LLM inference workloads as efficiently as possible. "We have a deep understanding of the workload," OpenAI President Greg Brockman said at the chip's reveal. "We wanted to build something that will be able to accelerate what's possible."
+Where Nvidia's hardware is a general-purpose accelerator adapted to AI workloads, Jalapeño was designed from a blank slate with a single objective: run OpenAI's LLM inference workloads as efficiently as possible. "We have a deep understanding of the workload," OpenAI President Greg Brockman said on the company's in-house podcast shortly after the Broadcom partnership was announced. "We've really been looking for specific workloads that are underserved, [and asking] how can we build something that will be able to accelerate what's possible?" he said.
 
-Early testing bears that out. Engineering samples of Jalapeño are already running ML workloads in the lab at production target frequency and power levels — including GPT-5.3-Codex-Spark, one of OpenAI's coding-optimized models. The company says performance per watt is "substantially better than current state-of-the-art alternatives," and independent analysis suggests cost savings of roughly 50% compared to standard GPU deployments.
+Early testing bears that out. Engineering samples of Jalapeño are already running ML workloads in the lab at production target frequency and power levels — including GPT-5.3-Codex-Spark, one of OpenAI's coding-optimized models. The company says early results show performance per watt significantly better than current state-of-the-art alternatives.
 
 ## The Speed of Development
 
-What is perhaps most remarkable about Jalapeño is not the chip itself but how quickly it materialized. The partnership between OpenAI and Broadcom was officially announced in October 2025. From initial design concept to manufacturing tape-out — the point at which chip designs are committed to silicon — took fewer than nine months. For a high-performance advanced semiconductor, that may be the fastest ASIC development cycle ever achieved in the industry.
+What is perhaps most remarkable about Jalapeño is not the chip itself but how quickly it materialized. The partnership between OpenAI and Broadcom was officially announced in October, after 18 months of working together. OpenAI says the chip was designed end to end in nine months. For a high-performance advanced semiconductor, that may be the fastest ASIC development cycle ever achieved in the industry.
 
 The speed reflects a deliberate approach to co-development. Broadcom, the world's largest ASIC manufacturer and a dominant force in custom silicon for hyperscalers like Google and Meta, brought its implementation expertise to the table. OpenAI contributed deep, empirical knowledge of how its models actually run in production — how attention heads access memory, how key-value cache access patterns shift under load, how routing decisions flow through mixture-of-experts architectures. Crucially, OpenAI also used its own AI models to accelerate portions of chip design and optimization — a genuinely new feedback loop in semiconductor engineering.
 
@@ -57,7 +58,7 @@ The playbook is borrowed from predecessors. Google built its Tensor Processing U
 
 ## Part of a Larger Vertical Integration Strategy
 
-Jalapeño is described by OpenAI as the first step in a "multi-generation compute platform." Initial deployment is planned for before the end of 2026, with successive generations of the architecture to follow. The company has not disclosed planned production volumes, but Broadcom's role as Merchant of Record for the manufacturing relationship suggests significant scale is anticipated.
+Jalapeño is described by OpenAI as the first step in a "multi-generation compute platform." The companies are aiming for initial deployment by the end of 2026, "expanding in the years ahead." The company has not disclosed planned production volumes, but Broadcom's role as Merchant of Record for the manufacturing relationship suggests significant scale is anticipated.
 
 This chip strategy fits within a broader pattern at OpenAI. The company has moved aggressively into hardware adjacencies over the past year: the rumored Ive-led AI device effort, the Stargate data center buildout with SoftBank and Oracle, a reported 5% equity stake offered to the U.S. government. Owning inference silicon closes another loop in a company that increasingly resembles a vertically integrated platform rather than a software startup.
 
@@ -73,4 +74,6 @@ For the broader semiconductor ecosystem, Jalapeño is another data point that AI
 
 ---
 
-*OpenAI's Jalapeño chip will enter initial production deployment by end of 2026, with successive chip generations planned under the multi-generation platform roadmap.*
+*OpenAI and Broadcom are aiming for initial deployment of the Jalapeño chips by the end of 2026, "expanding in the years ahead."*
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

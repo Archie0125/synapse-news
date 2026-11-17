@@ -3,6 +3,7 @@ title: "OpenAI Pulls the Plug on Sora: The $15M-a-Day AI Video Gamble That Faile
 summary: "OpenAI is winding down Sora, its AI video generation platform, after costs spiraled to an estimated $15 million per day against lifetime revenue of just $2.1 million. The collapse reveals the brutal unit economics of generative video—and signals where the AI frontier is really headed."
 category: "ai-ml"
 publishedAt: 2026-06-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-06-13-trump-anthropic-fable5-mythos-export-controls-en"
 ---
 
-When OpenAI unveiled Sora in February 2024, the internet stopped. The ability to generate photorealistic, physics-defying video clips from a text prompt felt like a window into the future of media, entertainment, and human creativity. Eighteen months later, that window has been boarded shut.
+When OpenAI unveiled Sora in February 2024, the internet stopped. The ability to generate photorealistic, physics-defying video clips from a text prompt felt like a window into the future of media, entertainment, and human creativity. More than two years later, that window has been boarded shut.
 
 On March 24, 2026, OpenAI quietly announced it would discontinue Sora. The consumer-facing web and mobile app was shuttered on April 26. The API, which developers had woven into dozens of creative production pipelines, will go dark on September 24, 2026. User data will be permanently deleted with no recovery window promised after the cutoff.
 
@@ -46,7 +47,7 @@ Sora launched into a market that evolved faster than anyone anticipated. By mid-
 
 Both competitors offered meaningfully lower pricing than Sora's $200-per-month Pro tier, accelerating defection among the creative professionals who might have remained Sora's most defensible customer segment.
 
-A planned $150 million content licensing deal with Disney, which would have used Sora to generate visual assets for subsidiary productions, collapsed before signing as the technical quality concerns and legal questions around training data could not be resolved to Disney's satisfaction. That potential lifeline—which might have demonstrated an enterprise revenue model for AI video generation—never arrived.
+A $1 billion deal signed in December 2025 to bring over 200 Disney characters into the Sora ecosystem fell apart when Disney confirmed it was exiting the agreement within 30 minutes of the shutdown announcement. That potential lifeline—which might have demonstrated an enterprise revenue model for AI video generation—never arrived.
 
 ## The Legal Overhang
 
@@ -58,7 +59,7 @@ While none of the cases had reached verdict by the time of the shutdown announce
 
 The decision to shutter Sora is as much a resource allocation story as a product failure. OpenAI is redirecting the freed compute capacity toward areas leadership believes represent the actual frontier of value creation.
 
-Chief among them is Project "Spud," an internally developed desktop superapp that the company has been quietly building for a September 2026 launch timed to coincide with its anticipated IPO process. Spud is described as a reasoning-first productivity environment—closer to a personal AI operating system than a standalone chatbot or content generation tool.
+Chief among them is Project "Spud," an internally developed desktop superapp that the company has been quietly building for a September 2026 launch timed to coincide with its anticipated IPO process. Spud is described as a next-generation desktop "superapp" that, according to one source, will focus on "Physical World Understanding" for industrial and robotic applications rather than a TikTok-style video app.
 
 Compute is also flowing toward the company's expanding robotics research program and toward agentic AI systems capable of executing multi-step tasks across software environments without human intervention.
 
@@ -78,4 +79,6 @@ In the annals of AI product launches, Sora will be remembered as the moment the 
 
 OpenAI, for its part, appears to have absorbed the lesson quickly. The company is refocusing on compound value—AI that reasons, integrates across tools, and charges for outcomes rather than raw generation. Whether that pivot produces the durable business model that Sora could not remains the central question as the company prepares for its most consequential chapter yet: going public.
 
-For now, the countdown clock on Sora's API reads 101 days. After that, the most hyped AI video platform in history disappears entirely—a cautionary tale rendered in compute receipts and empty subscription logs.
+For now, the countdown clock on Sora's API reads 101 days. After that, one of the most hyped AI projects in history disappears entirely—a cautionary tale rendered in compute receipts and empty subscription logs.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

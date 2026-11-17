@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Rewrites Its Agents SDK With a Native Sandbox and Model-Native Harness for Long-Horizon Tasks"
-summary: "OpenAI this week released a major update to its Agents SDK, adding a model-native harness with configurable memory and filesystem tools, plus native sandbox execution through integrations with E2B, Modal, Vercel, and others. Launching first in Python, the update gives enterprise developers the full infrastructure layer they previously had to build from scratch."
+summary: "OpenAI this week released an update to its Agents SDK, adding a model-native harness with configurable memory and filesystem tools, plus native sandbox execution through integrations with E2B, Modal, Vercel, and others. Launching first in Python, the update gives developers an execution layer so they no longer need to build one themselves."
 category: "developer-tools"
 publishedAt: 2026-04-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -98,3 +99,5 @@ Pricing for the new SDK capabilities uses standard API pricing, billed on tokens
 OpenAI committed to bringing the harness and sandbox capabilities to TypeScript in a future release, acknowledging that a significant portion of enterprise development work happens in TypeScript rather than Python. The company is also working on additional agentic capabilities — including code mode and subagents — for both languages.
 
 The broader direction is clear: OpenAI sees the Agents SDK as the primary interface through which enterprise developers will interact with its models for task execution — and it is investing accordingly to make that interface competitive with alternatives that have had more time to mature.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

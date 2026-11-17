@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Hits $965B Valuation, Overtakes OpenAI as World's Most Valuable AI Startup"
-summary: "Anthropic closed a $65 billion Series H round at a $965 billion post-money valuation, surpassing OpenAI's $852B IPO target just weeks after filing. Backed by chipmakers Samsung, SK Hynix, and Micron alongside Sequoia and Altimeter, Anthropic's rise is fueled by a $47B revenue run rate driven largely by Claude Code enterprise adoption."
+title: "Anthropic Hits $965B Valuation, Overtakes OpenAI as Most Valuable AI Startup"
+summary: "Anthropic announced a $65 billion Series H round at a $965 billion valuation, surpassing OpenAI's $852B valuation from March. The round was led by Altimeter, Dragoneer, Greenoaks and Sequoia, and Anthropic's rise is fueled by a $47B revenue run rate driven largely by Claude Code."
 category: "ai-ml"
 publishedAt: 2026-06-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-06-17-microsoft-mai-seven-models-openai-independence-en"
 ---
 
-Three months is a long time in AI. In February 2026, Anthropic closed a Series G at a $380 billion valuation — itself a staggering figure that would have seemed impossible two years prior. By May 28, 2026, the company had more than doubled that figure, closing a $65 billion Series H round at a $965 billion post-money valuation. The result: Anthropic is now the most valuable private company in the AI industry, leapfrogging OpenAI — which filed its S-1 for a public offering valuing it at $852 billion — to claim a title that, until recently, seemed locked up by the maker of ChatGPT.
+Three months is a long time in AI. In February 2026, Anthropic was valued at $380 billion — itself a staggering figure. On Thursday, the company announced a $65 billion Series H round at a $965 billion valuation, almost triple the $380 billion figure from February.
 
 The round was led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital. But the most telling aspect of the investor roster is who else participated: Micron Technology, Samsung, and SK Hynix — three of the world's largest semiconductor manufacturers — all took positions. That semiconductor giants are writing equity checks into an AI model lab signals something fundamental about how the AI supply chain is evolving. Securing favored-customer relationships, or simply insurance, with the companies most likely to consume their cutting-edge memory and compute is now a board-level priority.
 
@@ -39,19 +40,19 @@ Anthropic's $47 billion annual revenue run rate — crossed in May 2026 — did 
 
 Enterprise adoption of Claude across industries compounds the picture. Financial services firms use Claude to automate document review and compliance workflows. Healthcare organizations deploy it for clinical note summarization. The pattern is consistent: Claude enters through a pilot, proves productivity gains in weeks, and becomes load-bearing infrastructure within months.
 
-The $47B run rate, crossing just three months after the $380B Series G, represents extraordinary velocity. For context, OpenAI's S-1 filing, submitted in June, disclosed its own revenue trajectory — but Anthropic's figure, if sustained, would put it among the fastest-growing enterprise software businesses in history.
+The $47B run rate, up from $30B earlier this year, represents extraordinary velocity. For context, OpenAI is preparing to file its confidential IPO prospectus, but Anthropic's figure, if sustained, would put it among the fastest-growing enterprise software businesses in history.
 
 ## Amazon's Decade-Long Bet
 
-Amazon's commitment to Anthropic, disclosed alongside the Series H, deserves its own paragraph. Amazon has committed up to **$25 billion** in investment, and Anthropic has in turn pledged to spend over **$100 billion on AWS cloud infrastructure over the next decade**. That is not a vendor relationship. That is a structural coupling — the kind that typically shows up in the history books of how major technology platforms were built.
+Amazon's commitment to Anthropic, part of the Series H, deserves its own paragraph. Amazon has committed up to **$25 billion** in investment, and Anthropic has in turn pledged to spend over **$100 billion on AWS cloud infrastructure over the next decade**. That is not a vendor relationship. That is a structural coupling — the kind that typically shows up in the history books of how major technology platforms were built.
 
 The arrangement solves a genuine problem for Anthropic. Training and serving frontier AI models requires compute at a scale that taxes even well-funded organizations. By locking in long-term capacity on AWS, Anthropic trades some financial flexibility for predictable infrastructure access. For Amazon, it provides an anchor tenant for its rapidly expanding AI-optimized data center footprint, and a model that competes directly with OpenAI's models on Azure.
 
 ## The OpenAI Contrast
 
-The timing of Anthropic's valuation announcement — arriving weeks before OpenAI's S-1 filing — is not coincidence. The two companies have been on parallel trajectories since Dario Amodei and a core team of safety-focused researchers departed OpenAI in 2021 to found Anthropic. For years, the narrative held that OpenAI was the industry leader and Anthropic the principled challenger.
+The timing of Anthropic's valuation announcement comes as OpenAI prepares to file its confidential IPO prospectus. The two companies have been closely linked since Anthropic was founded in 2021 by former OpenAI researchers. For years, the narrative held that OpenAI was the industry leader and Anthropic the principled challenger.
 
-That narrative is now in flux. OpenAI's public filing targets an $852 billion IPO valuation, below Anthropic's latest private mark. More importantly, OpenAI's path to public markets brings scrutiny that private companies avoid: quarterly disclosures, public earnings calls, and institutional shareholders who can vote. Anthropic remains private, with the flexibility that entails.
+That narrative is now in flux. OpenAI was valued at $852 billion in its March funding round, below Anthropic's latest private mark. More importantly, OpenAI's path to public markets brings scrutiny that private companies avoid: quarterly disclosures, public earnings calls, and institutional shareholders who can vote. Anthropic remains private, with the flexibility that entails.
 
 The strategic divergence between the two companies is sharpening. OpenAI has pursued consumer reach aggressively, deploying ChatGPT across voice interfaces, operating systems integrations, and social media. Anthropic has been more deliberate, investing heavily in interpretability research and enterprise reliability. Neither strategy is obviously correct — the market will decide.
 
@@ -70,3 +71,5 @@ The valuation reflects several converging beliefs among sophisticated investors:
 Whether those beliefs prove correct depends on execution over the next few years — particularly on whether Anthropic can scale infrastructure to meet demand, maintain model quality advantages as competitors close gaps, and navigate the regulatory environment that is tightening around AI systems on both sides of the Atlantic.
 
 What is not in doubt is that the competition at the frontier of AI is now a genuine two-company race, with a supporting cast of challengers. The prize — controlling the infrastructure layer that increasingly runs the global economy's knowledge work — is large enough to justify nine-digit bets. Anthropic has just raised the stakes.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

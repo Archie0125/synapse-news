@@ -1,8 +1,9 @@
 ---
-title: "SpaceX Files Public S-1 for History's Largest IPO at $1.75 Trillion Valuation"
-summary: "SpaceX's public S-1 registration opens the roadshow for what could be the biggest IPO in market history, targeting a $1.75 trillion valuation and a $75 billion raise. With Starlink surpassing 10 million subscribers and $11.4 billion in 2025 revenue, plus the recent absorption of xAI, the company is betting that space infrastructure and AI are inseparable—and that public markets agree."
+title: "SpaceX Targets June Nasdaq Debut for History's Largest IPO, With Public S-1 Expected Soon"
+summary: "SpaceX's public S-1, expected as early as May 21, would open the way to what could be the biggest IPO in market history, with a $75 billion raise targeted. Starlink crossed 10 million subscribers and generated $11.4 billion in 2025 revenue, and SpaceX has absorbed xAI."
 category: "startups"
 publishedAt: 2026-05-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,41 +31,41 @@ relatedSlugs:
   - "2026-05-08-anthropic-spacex-colossus-compute-deal-en"
 ---
 
-SpaceX's public S-1 registration statement hit the SEC's EDGAR system this week, officially triggering what could be the largest initial public offering in stock market history. Targeting a $1.75 trillion valuation and an eye-popping $75 billion capital raise, the filing marks a pivotal moment not just for SpaceX but for the entire ecosystem of private technology companies that have delayed public debuts while building genuine infrastructure-scale businesses.
+SpaceX's public S-1 registration statement is expected to reach the SEC's EDGAR system as early as May 21, which would set in motion what could be the largest initial public offering in stock market history. Targeting a $75 billion capital raise at a valuation reported at between $1.75 trillion and above $2 trillion, the offering is a pivotal moment for SpaceX.
 
-At its target valuation, a June listing on Nasdaq under the ticker SPCX would eclipse the record set by Saudi Aramco's $1.7 trillion IPO in 2019—the last time a company commanded this kind of number from public markets.
+A listing on Nasdaq under the ticker SPCX, targeted for June 12, would eclipse Saudi Aramco's 2019 IPO, which raised about $29 billion and is the current record.
 
 ## Starlink Is the Engine
 
-The S-1 makes clear that Starlink, SpaceX's satellite internet division, is no longer an experimental side project—it is the company's dominant revenue engine and the primary thesis for the entire offering. Starlink ended 2025 with approximately $11.4 billion in revenue, up 50% year-over-year, and crossed 10 million subscribers in February 2026, doubling its base in under 12 months. As of late April, the constellation encompassed nearly 10,300 active satellites in low Earth orbit, forming the largest commercial satellite network ever deployed.
+The S-1 makes clear that Starlink, SpaceX's satellite internet division, is no longer an experimental side project—it is the company's dominant revenue engine and the primary thesis for the entire offering. Starlink contributed approximately $11.4 billion in 2025 revenue and crossed 10 million subscribers in February 2026. As of late April, the constellation encompassed nearly 10,300 active satellites in low Earth orbit, forming the largest commercial satellite network ever deployed.
 
-The financial profile is striking. Starlink generated an EBITDA margin as high as 63% in 2025—margins that rival the best software businesses anywhere in the economy. Analysts at Quilty Space project Starlink alone will produce $20 billion in revenue and $14 billion in EBITDA for full-year 2026, with free cash flow of roughly $8.1 billion. The implication is that Starlink, on a standalone basis, would already qualify as one of the most profitable infrastructure companies in the world.
+The financial profile is striking. Starlink generated an EBITDA margin as high as 63% in 2025—margins that rival the best software businesses anywhere in the economy. Analysts at Quilty Space project Starlink alone will produce $20 billion in revenue and $14 billion in EBITDA for full-year 2026, with free cash flow of roughly $8.1 billion.
 
-For SpaceX overall, 2025 total revenue came in between $15 billion and $16 billion, with group EBITDA of approximately $8 billion. The company's capital efficiency is remarkable for a business that builds and launches rockets for a living.
+For SpaceX overall, the combined company generated $18.67 billion in revenue in 2025 and posted a net loss of $4.94 billion, according to Reuters' review of the draft S-1.
 
-## Launch Services: An 82% Market Share Moat
+## Launch Services: A Dominant Market Position
 
-Beyond Starlink, SpaceX's launch services division controls an estimated 82% of global commercial payload launch market share—a position that has only hardened as competitors struggled to match the cost economics of Falcon 9's reusable first stage. The company has executed over 200 launches annually since 2024, with Falcon 9 sustaining one of the most reliable track records in spaceflight history, including more than 300 consecutive successful missions without a loss.
+Beyond Starlink, SpaceX's launch business claimed more than 80% of global rocket launches last year. SpaceX flew 170 Falcon 9 missions in 2025.
 
 Starship, the super-heavy lift vehicle still in iterative testing, represents the company's decade-long ambition: point-to-point Earth travel, lunar logistics for NASA's Artemis program, and eventually Mars. While Starship does not yet contribute meaningfully to revenue, full orbital point-to-point demonstration flights were completed in early 2026, and the rocket has secured contracts with NASA and several sovereign clients. Investors are being asked to price in the optionality.
 
-## The xAI Integration: A $4.94 Billion Complication
+## The xAI Integration: A $4.94 Billion Net Loss
 
-The S-1 must also account for one of the most unusual corporate integrations in recent memory: SpaceX's February 2026 all-stock acquisition of Elon Musk's AI company xAI, which carried a $250 billion valuation at the time of the deal. Combined with SpaceX's pre-merger $1 trillion private valuation, the transaction created a $1.25 trillion entity now seeking to list at $1.75 trillion—implying roughly $500 billion of incremental value from synergies, growth trajectory, and market premium.
+The S-1 must also account for one of the most unusual corporate integrations in recent memory: SpaceX's February 2026 all-stock acquisition of Elon Musk's AI company xAI, which carried a $250 billion valuation at the time of the deal. Combined with SpaceX's pre-merger $1 trillion valuation, the transaction created a $1.25 trillion entity that is now seeking a substantially higher valuation in the IPO.
 
-The filing discloses a $4.94 billion accounting loss attributed to the xAI merger, driven primarily by goodwill write-downs and integration costs—an eye-catching number that bears will likely fixate on during the roadshow.
+The draft S-1 shows a $4.94 billion net loss for the combined company in 2025, a swing almost entirely attributable to xAI's cash burn and an eye-catching number that bears will likely fixate on during the roadshow.
 
-The strategic logic, however, is hard to dismiss. xAI's Grok AI models are being embedded in Starlink terminals, autonomous flight systems, and internal engineering tooling. More concretely, xAI's Colossus 1 data center—the 300-megawatt Memphis facility xAI built in 2024—is now being leased to Anthropic in a deal announced in May 2026 that is expected to generate billions in annual infrastructure revenue. The data center that was sitting at approximately 11% utilization for Grok model training has been transformed into a lucrative third-party compute facility almost overnight.
+The strategic logic, however, is hard to dismiss. xAI's Grok models are integrated into Starlink network management. More concretely, Anthropic announced on May 6 an agreement to use all compute capacity at the Colossus 1 data center in Memphis, which offers more than 300 megawatts and over 220,000 Nvidia GPUs. The data center that was sitting at approximately 11% utilization for Grok model training has been transformed into a lucrative third-party compute facility almost overnight.
 
 ## Governance: Musk Maintains Iron Control
 
-One aspect of the filing that is already generating debate among institutional investors is its governance structure. Musk controls approximately 79% of shareholder votes while holding only around 42% of the equity, via a dual-class share structure. The arrangement is not unprecedented—Meta, Alphabet, and Snap all employ similar mechanisms—but the magnitude of Musk's control is exceptional. Shareholders buying into the IPO will have limited ability to influence company direction regardless of how large a stake they accumulate.
+One aspect of the filing that is already generating debate among institutional investors is its governance structure. Musk controls roughly 79% to 84% of shareholder votes, depending on the report, while holding only around 42% of the equity, via a dual-class share structure. The dual-class design is common among major US technology companies including Meta and Alphabet, but it is used here at a more extreme ratio than typical. Shareholders buying into the IPO will have limited ability to influence company direction regardless of how large a stake they accumulate.
 
 The filing also includes an unusually generous retail allocation: up to 30% of shares are expected to be offered to individual investors, roughly three times the typical norm for a large offering. The move appears designed to generate grassroots enthusiasm and broaden the investor base among Musk's substantial personal following—a demographic that has historically shown loyalty to his companies. Critics have called it a savvy but cynical distribution strategy; supporters argue it democratizes access to a generational asset.
 
 ## The $75 Billion Capital Plan
 
-If the raise proceeds as planned, it will generate nearly four times the capital of the previous record U.S. tech IPO. The underwriting syndicate—Bank of America, Citigroup, Goldman Sachs, JPMorgan, and Morgan Stanley—represents essentially every major Wall Street bank, a lineup that signals institutional seriousness about the offering.
+If the raise proceeds as planned, it will be roughly 2.5 times the size of Saudi Aramco's 2019 record. The underwriting syndicate is led by Bank of America, Citigroup, Goldman Sachs, JPMorgan and Morgan Stanley, part of a 21-bank group.
 
 Proceeds are expected to fund an aggressive Starlink expansion, accelerating toward a 15,000-satellite constellation, extending coverage to aviation and maritime markets, and deepening penetration in emerging economies where terrestrial broadband infrastructure remains patchy or nonexistent. A portion will also fund continued Starship development and, contingent on contract flow, early infrastructure for lunar logistics operations.
 
@@ -72,6 +73,8 @@ Proceeds are expected to fund an aggressive Starlink expansion, accelerating tow
 
 The investment case is not without complication. Musk's regulatory entanglements—ongoing government contracts combined with his provocative public persona—feature prominently in the S-1's risk factors. The xAI write-down will require careful framing to institutional allocators. And at $1.75 trillion, SpaceX would be priced more richly than Apple on a revenue multiple, demanding continued extraordinary execution.
 
-The bull case is equally clear: SpaceX holds near-monopoly positions in both satellite broadband and commercial launch, is generating infrastructure-grade cash flows, and has embedded an AI division whose data center assets are generating immediate third-party revenue. A handful of analysts have compared its competitive moat to early Amazon Web Services—a business that looked expensive at every price until it didn't.
+The bull case rests on Starlink's trajectory, launch dominance, government and defence demand, and the speculative role of space-based AI infrastructure, though only Starlink and launch currently generate profit. A handful of analysts have compared its competitive moat to early Amazon Web Services—a business that looked expensive at every price until it didn't.
 
-The roadshow is expected to begin the week of June 8. By mid-June, public markets will deliver their verdict on one of the most anticipated listings in a generation.
+The roadshow is expected to launch around June 4. With pricing targeted for June 11 and a trading debut on June 12, public markets will soon weigh in on one of the most anticipated listings in a generation.
+
+*Correction (November 15, 2026): 24 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "OpenAI's Dreaming V3 Gives ChatGPT a Memory That Actually Keeps Up With 
 summary: "OpenAI launched Dreaming V3, a background memory synthesis system for ChatGPT that automatically tracks user preferences and context without requiring explicit instructions—pushing factual recall accuracy to 82.8% while raising fresh privacy debates."
 category: "ai-ml"
 publishedAt: 2026-06-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -26,17 +27,17 @@ relatedSlugs:
   - "2026-06-04-openai-codex-sites-role-plugins-enterprise-en"
 ---
 
-For two years, ChatGPT's memory system operated on an implicit contract: you tell it what to remember, it remembers. The burden sat squarely with the user. On June 4, 2026, OpenAI quietly dismantled that contract. The rollout of **Dreaming V3**—already reaching Plus and Pro subscribers in the United States—represents the most significant architectural change to ChatGPT's personalization layer since the product launched.
+For two years, ChatGPT's memory system operated on an implicit contract: you tell it what to remember, it remembers. The burden sat squarely with the user. On June 4, 2026, OpenAI quietly dismantled that contract. The rollout of **Dreaming V3**—already reaching Plus and Pro subscribers in the United States—is described as OpenAI's most significant memory upgrade since the original ChatGPT rollout in 2024.
 
 The name is evocative by design. Like biological memory consolidation that happens during sleep, Dreaming V3 runs a background synthesis process after each conversation ends. It doesn't wait for a "remember this" instruction. It reads what you said, infers what matters, and updates a structured memory state—automatically, continuously, without user prompting.
 
 ## How the Architecture Actually Works
 
-The prior system treated ChatGPT memory as a flat list of discrete facts that users or the model could add manually. Dreaming V3 replaces that foundation entirely. A lightweight inference process fires post-conversation, examining what the user discussed, what preferences emerged, what time-sensitive facts were mentioned, and what changed since the last session.
+The prior saved-memories system only recorded what users told it to remember during an active conversation. Dreaming V3 replaces that foundation entirely. A background process runs after conversations end, synthesizing preferences, constraints, ongoing projects and time-sensitive context.
 
-The system then synthesizes a hierarchical memory state: standing preferences, active constraints, ongoing projects, and time-stamped context that degrades or updates as events pass. OpenAI's canonical example is telling: if a user mentioned a trip to Singapore planned for July, Dreaming V3 will eventually recognize that July has passed and revise the memory accordingly—"went to Singapore in July 2026" replacing "going to Singapore in July."
+The system then synthesizes a memory state that covers preferences, constraints, ongoing projects and time-sensitive context, updating entries as time passes. OpenAI's canonical example is telling: if a user mentioned a trip to Singapore planned for July, Dreaming V3 will eventually recognize that July has passed and revise the memory accordingly—"went to Singapore in July 2026" replacing "going to Singapore in July."
 
-That temporal awareness is new. Previous memory implementations had no mechanism to handle staleness. Dreaming V3 is designed specifically around the problem of memories becoming false over time.
+That temporal awareness is new. Under saved memories, entries never updated themselves, which was the original source of staleness. Dreaming V3 is designed specifically around the problem of memories becoming false over time.
 
 ## The Benchmark Numbers
 
@@ -45,8 +46,8 @@ OpenAI published internal evaluation metrics alongside the launch announcement, 
 | Metric | 2024 | 2025 | 2026 |
 |---|---|---|---|
 | Factual Recall | 41.5% | 67.9% | 82.8% |
-| Preference Adherence | — | — | 71.3% |
-| Time-Sensitive Accuracy | — | — | 75.1% |
+| Preference Adherence | — | — | low 70s |
+| Time-Sensitive Accuracy | — | — | mid 70s |
 
 The factual recall trajectory—doubling in two years—is the number OpenAI is leading with. The company also reports that Dreaming V3 achieves this at approximately **five times lower compute cost** than the prior memory system, an efficiency gain that matters enormously at scale: ChatGPT serves roughly 900 million weekly users as of February 2026.
 
@@ -54,7 +55,7 @@ Independent verification of these numbers does not yet exist. The benchmarks are
 
 ## Storage and Control
 
-Plus and Pro users receive **doubled memory storage** compared to the prior system. The new memory summary page—accessible from settings—shows users a high-level view of what ChatGPT believes it knows about them. Users can correct entries, dismiss information entirely, or issue natural-language instructions directly through a chat interface embedded in the settings panel.
+Plus and Pro users receive **doubled memory storage** compared to the prior system. The new memory summary page shows users a high-level view of what ChatGPT knows about them. Users can correct entries, dismiss information, give instructions about which topics ChatGPT should or shouldn't raise, or chat directly with ChatGPT about what it remembers.
 
 The rollout schedule breaks down by tier:
 - **Plus/Pro (US):** Active since June 4
@@ -66,9 +67,9 @@ Temporary Chat mode continues to bypass memory entirely for users who want a cle
 
 ## The Privacy Tension
 
-The launch lands against a backdrop of unresolved concern. A February 2026 study posted to arXiv by a team of independent researchers found that **96% of ChatGPT memories examined were created unilaterally by the model**—without explicit user instruction. The researchers argued this represents a fundamental consent gap: users believed they controlled what the system retained, but the model was constructing and storing inferences largely on its own initiative.
+The launch lands against a backdrop of unresolved concern. A February 2026 study posted to arXiv found that **96% of ChatGPT memories examined were created unilaterally by the model**—without explicit user instruction. The finding came from a sample of 2,050 memory entries from 80 users, and privacy researchers have raised flags about memory systems that infer behavioral profiles.
 
-Dreaming V3 does not resolve this tension—it formalize it. The system is explicitly designed to generate and update memories without user prompts. OpenAI's response is that the memory summary page gives users meaningful visibility and control. Critics counter that a review interface after the fact is not the same as meaningful consent before the fact.
+Dreaming V3 does not resolve this tension—it formalize it. The system is explicitly designed to generate and update memories without user prompts. OpenAI's response is that the memory summary page gives users meaningful visibility and control.
 
 This debate will intensify as the rollout extends to the Free tier, where the user base is larger, more diverse, and less likely to audit memory settings.
 
@@ -87,3 +88,5 @@ For developers and researchers who use ChatGPT extensively, the practical implic
 3. **The memory audit** is now more critical than ever. Power users should review their memory summary page immediately after the update lands on their account, as the system may have already begun synthesizing inferences from existing conversation history.
 
 The rollout to Free-tier users in the coming weeks will be the real test of whether this architecture performs at scale, across millions of users with radically different conversation patterns. OpenAI has a window to define what persistent AI personalization looks like before Google and Anthropic ship their next memory upgrades. Dreaming V3 is a clear opening move in that race.
+
+*Correction (November 15, 2026): 12 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Nvidia RTX Spark 超級晶片顛覆 PC 市場格局"
-summary: "在 2026 年 Computex 展上，黃仁勳發表 RTX Spark 超級晶片，將 20 核 Grace ARM 處理器與 Blackwell GPU 整合，搭載 128GB 統一記憶體。這款晶片讓 Nvidia 正面對決 Intel、AMD 與高通，同時將 Windows 筆電打造成本地 AI 運算的新標竿。"
+summary: "在 Computex 展上，黃仁勳發表與聯發科共同打造的 PC 晶片 RTX Spark，將 Blackwell GPU 與聯發科 CPU 結合。Nvidia 進軍 PC 市場，也使 Intel、AMD 與高通股價下跌。"
 category: "hardware"
 publishedAt: 2026-06-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -26,13 +27,13 @@ relatedSlugs:
   - "2026-06-04-big-tech-725b-ai-capex-race-zh"
 ---
 
-Nvidia 從來沒有做過 PC 處理器。但這個紀錄，在 2026 年 6 月 1 日正式結束。
+Nvidia 在週一宣布進軍 PC 市場。
 
-在台北 Computex 展的主題演講中，執行長黃仁勳（Jensen Huang）正式發表 **RTX Spark 超級晶片**——一款專為 Windows 筆電與輕薄桌機設計的全新系統單晶片系列。這不只是一款新產品，更代表 Nvidia 意圖掌控從資料中心到終端裝置的完整 AI 運算堆疊，同時直接衝擊 Intel、AMD 與高通在消費性 PC 市場的版圖。
+在台灣 Computex 展的主題演講中，執行長黃仁勳（Jensen Huang）正式發表 **RTX Spark**——一款與聯發科共同開發、適用於 PC 的系統單晶片。這不只是一款新產品，更代表 Nvidia 意圖掌控從資料中心到終端裝置的完整 AI 運算堆疊，同時直接衝擊 Intel、AMD 與高通在消費性 PC 市場的版圖。
 
 ## RTX Spark 的技術底蘊
 
-RTX Spark 不是把 GPU 塞進輕薄機殼的改款，而是一款全新架構的處理器。它將 **Grace CPU（20 核 Arm 架構）**與 **Blackwell 世代 GPU（6,144 個 CUDA 核心，第五代 Tensor Core，支援 FP4 精度）**透過 **NVLink-C2C 晶片互連**整合在同一封裝，共用 **128 GB LPDDR5X 統一記憶體**，記憶體頻寬高達 **300 GB/s**。
+它將 Nvidia 先進的 **Blackwell GPU** 與 **聯發科 CPU** 整合在同一顆系統單晶片上。
 
 128 GB 的記憶體容量格外值得關注。Apple M4 Max 的上限也是 128 GB，高通 Snapdragon X Elite 的天花板則是 64 GB。RTX Spark 一舉追平 Apple，並將高通遠拋在後。對於需要在本機執行大型 AI 模型的企業用戶而言，這個數字意味著過去只能在伺服器上跑的任務，現在在筆電上也能完成。
 
@@ -56,13 +57,13 @@ Nvidia 與 Microsoft 已在韌體與驅動程式層面深度合作，將這些�
 
 ## 上市時程與合作夥伴
 
-RTX Spark 系統預計於 **2026 年秋季上市**，合作的 OEM 廠商陣容龐大：**Dell、HP、聯想、華碩、微星（MSI）**，以及 **微軟 Surface 系列**。微軟 Surface 的入列頗具指標意義，意味著 Surface 旗艦機種可能放棄 Intel 處理器，全面轉向 RTX Spark。
+RTX Spark 預計於 **今年稍後**登場，將搭載於 **微軟、Dell、HP、華碩、聯想**與 **微星（MSI）**的新款 Windows PC。
 
 Nvidia 同時公布了三代路線圖。下一代代號 **Vera Rubin**，將採用 LPDDR6 記憶體提升頻寬；第三代 **Rosa Feynman** 同樣列在路線圖上，記憶體規格尚未揭露。
 
 ## 對 Intel、AMD、高通的直接衝擊
 
-RTX Spark 發表後，**AMD、Intel 與高通**股價隨即應聲下跌。市場的擔憂不是短期競爭，而是結構性威脅：Nvidia 瞄準的是高附加價值的 AI PC 企業市場——而這正是三家公司原本寄予厚望的核心戰場。
+RTX Spark 發表後，**AMD、Intel 與高通**股價隨即應聲下跌。市場的擔憂不是短期競爭，而是結構性威脅：Nvidia 打算為 PC 打造系統單晶片，威脅到長期由 Intel 與 AMD 雙雄掌控的市場。
 
 Intel 押注 Lunar Lake 與 Panther Lake 的 NPU 加速路線；AMD 力推 Strix Halo APU；高通以 Snapdragon X 系列定義 Windows on Arm 體驗。但 RTX Spark 的殺手鐧在於三家都缺乏的能力：一個在晶片層級與高頻寬統一記憶體深度整合的世界級顯示核心。
 
@@ -79,3 +80,5 @@ Computex 發表刻意略過定價細節。以 Nvidia 的定位與製造成本推
 但無論定價如何，這場發表已確立一件更重要的事：Nvidia 要進入 PC 市場了。接下來 18 個月，PC 產業的競爭格局將圍繞這個現實重新布局。
 
 6 月 8 日，Apple WWDC 2026 即將登場，外界預期 Apple 將以新一代 Apple Intelligence 功能正面回應。AI PC 的軍備競賽正在加速——而且幾十年來首次，最受矚目的筆電晶片，不來自 Intel、AMD 或高通。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 8 處。*

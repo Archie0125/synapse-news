@@ -3,6 +3,7 @@ title: "EU AI Act Goes Live: What August 2's Enforcement Deadline Means for Ever
 summary: "On August 2, 2026, the EU AI Act's Article 50 transparency obligations become enforceable across all 27 member states, while the European AI Office gains full penalty powers over GPAI providers like GPT, Claude, and Gemini — a seismic shift for the global AI industry that has been a year in the making."
 category: "policy"
 publishedAt: 2026-08-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -66,9 +67,9 @@ For context: OpenAI's annualized revenue was reported at approximately $14 billi
 
 ## The High-Risk Delay: What's Not Happening
 
-The August 2 enforcement date arrives in a context that is, notably, more measured than many companies feared a year ago. The Digital Omnibus on AI — Regulation (EU) 2026/1744 — entered into force on July 27, 2026, and fundamentally reshaped the compliance timeline for high-risk AI applications.
+The August 2 enforcement date arrives in a context that is, notably, more measured than many companies feared a year ago. The Digital Omnibus on AI entered into force in July 2026, following its publication in the EU Official Journal, and fundamentally reshaped the compliance timeline for high-risk AI applications.
 
-Systems listed in Annex III — the category covering AI used in hiring and recruitment, educational scoring, credit decisions, law enforcement, border control, and critical infrastructure management — will not face their full compliance obligations on August 2. Under the Digital Omnibus revisions, Annex III operators now have until December 2, 2027 to comply. Systems already on the market before that date receive an additional year — until December 2, 2026 — as a transitional accommodation designed to allow retrofitting rather than forced redesign.
+Systems listed in Annex III — the category covering AI used in hiring and recruitment, educational scoring, credit decisions, law enforcement, border control, and critical infrastructure management — will not face their full compliance obligations on August 2. Under the Digital Omnibus revisions, Annex III operators now have until December 2, 2027 to comply. Separately, systems already on the market before August 2 receive a four-month grace period, until December 2, 2026, but that applies only to the machine-readable marking requirement for synthetic content.
 
 For AI embedded in regulated products like medical devices and industrial machinery, obligations are pushed further still, to August 2, 2028.
 
@@ -80,7 +81,7 @@ The EU AI Act's enforcement activation matters beyond Europe's borders. As the w
 
 Multinationals headquartered outside the EU — including every major American AI company — cannot maintain separate "EU-compliant" and "global" product versions without significant engineering overhead. The cost of bifurcation is generally prohibitive, so many companies have already begun rolling Article 50-compliant disclosure features into their global products. ChatGPT's interface, for instance, began displaying more explicit AI identity banners globally in June; Gemini and Claude interfaces similarly adopted enhanced disclosure language ahead of the deadline.
 
-The deepfake-labeling requirements, however, are proving more complex. Synthetic content flows across platforms, social media, and messaging apps at scales that make per-piece marking technically difficult and easily defeated. The EU Commission acknowledged in July that "technical gaps and a lack of common standards could undermine enforcement" in this area, and indicated that implementing guidelines for deepfake watermarking are still being finalized.
+The deepfake-labeling requirements, however, are proving more complex. Synthetic content flows across platforms, social media, and messaging apps at scales that make per-piece marking technically difficult and easily defeated. Experts warn that "technical gaps and a lack of common standards could undermine enforcement" in this area, and the Commission's code of practice on marking and labelling AI-generated content has since been finalized.
 
 ## What Happens Next
 
@@ -91,3 +92,5 @@ But the office also signaled that it will not wait indefinitely. With the appoin
 For AI companies operating globally, the calculus is now unambiguous: the EU market is too large to exit and too regulated to ignore. The year of the grace period is over. Compliance is no longer a roadmap item — it's a legal requirement with a fine schedule attached.
 
 The rest of the world is watching closely. Canada, the UK, Brazil, and Singapore have all cited the EU AI Act as a reference point for their own draft frameworks. How the European AI Office handles its first enforcement actions will shape not just the EU market, but the emerging global architecture for AI governance.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

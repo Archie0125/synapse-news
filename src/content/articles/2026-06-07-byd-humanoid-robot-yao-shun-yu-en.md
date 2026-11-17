@@ -1,8 +1,9 @@
 ---
-title: "BYD Enters Humanoid Robotics With Project 'Yao-Shun-Yu,' Plans 20,000 Factory Units in 2026"
-summary: "The world's largest EV maker has confirmed it is developing humanoid robots under a secret project codenamed 'Yao-Shun-Yu,' with 150 prototypes already testing inside BYD's own factories. Executive Vice President Li Ke says automotive AI and robotics share deep technological roots, and the company could sell consumer robots through its massive dealer network."
+title: "BYD Confirms It Is Developing Humanoid Robots and Could Sell Them Through Its Dealer Network"
+summary: "BYD has confirmed it is developing humanoid robots. Executive Vice President Li Ke says automotive AI and robotics share common technological foundations, and the company could sell consumer robots through its dealer network."
 category: "hardware"
 publishedAt: 2026-06-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,13 +32,13 @@ relatedSlugs:
 
 BYD has spent the last three decades building competitive advantages in batteries, supply chains, and software-hardware integration for electric vehicles. Now the world's largest EV maker is applying that industrial machinery to a new frontier: humanoid robots.
 
-Executive Vice President Li Ke formally confirmed BYD's entry into humanoid robotics in a recent public appearance, providing the most direct official statement the company has made on ambitions outside the automotive sector. The project, internally codenamed **"Yao-Shun-Yu"** after three legendary sage-kings in Chinese history, has been quietly operating since 2022 under BYD's 15th Business Unit—the division responsible for electronic integration and intelligence.
+Executive Vice President Li Ke confirmed BYD's entry into humanoid robotics in a recent interview program, in what is the company's most direct public statement yet on ambitions outside the automotive sector.
 
-The timeline and scale are more advanced than most observers expected. Approximately 150 prototypes are already undergoing testing inside BYD's own manufacturing facilities, giving the company a real-world operational environment that most robotics startups can only dream of. The company plans to deploy **20,000 units** within its own factories by end of 2026—a figure that would make BYD one of the largest deployments of humanoid robots in an industrial setting anywhere in the world. A dedicated industrial park in Xi'an is being built to eventually produce 50,000 robots annually.
+The timeline and scale are more advanced than most observers expected. Approximately 150 prototypes are already undergoing testing inside BYD's own manufacturing facilities, giving the company a real-world operational environment that most robotics startups can only dream of.
 
 ## Why an Automaker Belongs in Humanoid Robotics
 
-Li Ke's core argument for BYD's entry is technological overlap, not opportunism. "Automotive AI and robotics share common technological foundations," he said, listing perception systems, decision-making algorithms, motion control, software-hardware integration, and safety-critical systems as areas where BYD has accumulated deep competencies through its EV development. The same battery technology that powers BYD's vehicles can power robots. The same sensor suites and computing platforms translate directly. The safety-critical engineering culture required to put millions of cars on public roads at scale is arguably more relevant to robot development than the agile-startup culture that characterizes many robotics companies.
+Li Ke's core argument for BYD's entry is technological overlap, not opportunism. Li Ke said automotive AI and robotics share common technological foundations, pointing to perception, decision-making, motion control, software integration, and hardware engineering as areas that overlap. The same battery technology that powers BYD's vehicles can power robots. The same sensor suites and computing platforms translate directly. The safety-critical engineering culture required to put millions of cars on public roads at scale is arguably more relevant to robot development than the agile-startup culture that characterizes many robotics companies.
 
 This argument is not unique to BYD—Tesla has made a nearly identical case for Optimus, and Hyundai acquired Boston Dynamics partly on the same logic. But BYD's version has a distinctive edge: the company manufactures at an extraordinary scale and has already proven it can bring complex hardware products from prototype to mass production faster and cheaper than most Western competitors. In April 2026, BYD sold 321,123 vehicles. The manufacturing muscle required to produce and deploy robots at the scale BYD is describing is precisely the kind of capability it has spent decades building.
 
@@ -51,7 +52,7 @@ The strategy echoes BYD's broader pattern: compete not just on the product itsel
 
 ## China's Automotive AI Convergence
 
-BYD's entry makes it the third major Chinese automaker to move seriously into humanoid robotics, following Chery and Xpeng. In April 2026, Chery launched online sales of humanoid robots priced at 280,000 yuan (approximately $41,400), powered by 0.7-kWh batteries—the first instance of a major automaker selling humanoid robots directly to the public. Xpeng has framed its robotics efforts as a natural extension of its "embodied AI" strategy, drawing a direct line from autonomous driving perception to full-body robot intelligence.
+BYD joins a growing list of Chinese automakers entering humanoid robotics, including Chery, which has begun online sales of a humanoid robot. Xpeng has framed its robotics efforts as a natural extension of its "embodied AI" strategy, drawing a direct line from autonomous driving perception to full-body robot intelligence.
 
 The convergence is not coincidental. Chinese automakers face a domestic EV market that is intensely competitive, with margins being compressed by aggressive pricing wars. Humanoid robotics represents a high-value-added adjacent market where Chinese manufacturers believe they can apply their industrial capabilities before Western counterparts get fully organized. The Chinese government's supportive posture toward embodied AI—including industrial policy subsidies and a stated goal of becoming a global leader in humanoid robotics by 2030—provides additional tailwind.
 
@@ -59,12 +60,14 @@ Globally, the field is crowded with well-funded entrants. Tesla's Optimus progra
 
 ## Open Platform Strategy
 
-Li Ke hinted at a potentially distinctive strategic posture for BYD in robotics: rather than building a vertically closed system, the company may adopt an open platform model—manufacturing robot hardware while cooperating with external robotics software companies. This mirrors BYD's approach in the automotive space, where it has been willing to supply components and platforms to competitors in exchange for scale advantages.
+Li Ke said BYD could create an open platform rather than limiting itself to internally developed products, manufacturing its own robots while also cooperating with external robotics companies. This mirrors BYD's approach in the automotive space, where it has been willing to supply components and platforms to competitors in exchange for scale advantages.
 
 Such an approach would position BYD less as a humanoid robot product company and more as a humanoid robot infrastructure provider—supplying the high-quality, mass-produced hardware on which a broader ecosystem of robotics software companies could build. If successful, it would be a powerful flywheel: volume manufacturing drives down unit costs, lower costs enable wider deployment, wider deployment generates operational data, and data improves the robots.
 
 ## What Comes Next
 
-BYD has been deliberately vague about commercialization timelines and investment figures. Li Ke offered no specific pricing, product launch dates, or details on the Yao-Shun-Yu robot's specifications. What the announcement does establish is that BYD is serious, that internal testing is already underway at meaningful scale, and that the company sees humanoid robotics as a strategic priority worth building a dedicated business unit and manufacturing infrastructure around.
+BYD has been deliberately vague about commercialization timelines and investment figures. Li Ke did not provide a commercialization timeline, technical specifications, investment figures, or production targets. What the announcement does establish is that BYD is serious, that internal testing is already underway at meaningful scale, and that the company sees humanoid robotics as a strategic priority worth building a dedicated business unit and manufacturing infrastructure around.
 
 For the global robotics industry, the entry of BYD—with its manufacturing scale, supply chain depth, and distribution reach—changes the competitive calculus in ways that venture-backed startups will need to reckon with. The question is no longer whether large industrial companies will dominate humanoid robotics. The question is which large industrial companies will dominate it.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

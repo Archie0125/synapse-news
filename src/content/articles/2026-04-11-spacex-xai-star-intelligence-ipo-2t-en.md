@@ -1,8 +1,9 @@
 ---
 title: "SpaceX-xAI IPO Valuation Target Revised Above $2 Trillion as Orbital AI Pitch Takes Shape"
-summary: "Two months after SpaceX officially acquired xAI in a $1.25 trillion all-stock deal, Bloomberg reports that bankers have revised the combined entity's IPO valuation target above $2 trillion in testing-the-waters conversations with prospective investors. The pitch now centers on a concept Elon Musk calls 'orbital intelligence': space-based data centers powered by Starlink that could sidestep the terrestrial energy bottleneck constraining AI growth."
+summary: "Two months after SpaceX acquired xAI in a $1.25 trillion all-stock deal, Bloomberg reports that SpaceX has revised its IPO valuation target above $2 trillion in testing-the-waters conversations with prospective investors. The pitch centers on orbital data centers that could sidestep the terrestrial energy bottleneck constraining AI growth."
 category: "startups"
 publishedAt: 2026-04-11T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,9 +33,9 @@ relatedSlugs:
   - "2026-04-08-openai-ipo-cfo-rift-en"
 ---
 
-When SpaceX officially acquired xAI on February 2nd in what became the largest corporate merger in recorded history at a combined $1.25 trillion valuation, many Wall Street observers assumed the IPO math was already set. The combined entity—encompassing SpaceX's launch and Starlink businesses, xAI's Grok AI platform, and the Colossus data center in Memphis—would go public at somewhere between $1.5 trillion and $1.75 trillion. Ambitious, historic, but at least grounded in the asset values.
+When SpaceX officially acquired xAI on February 2nd in what became the largest corporate merger in recorded history at a combined $1.25 trillion valuation, many Wall Street observers assumed the IPO math was already set. The combined entity, which includes Starlink, xAI and X, was reported to be targeting a valuation of $1.75 trillion, after earlier reports of as high as $1.5 trillion. Ambitious, historic, but at least grounded in the asset values.
 
-Then Bloomberg reported, in testing-the-waters conversations that bankers have been conducting with large institutional investors over the past two weeks, that the target has been revised again—upward. The new reference valuation being floated: above $2 trillion, potentially reaching $2.3 trillion in some scenarios, which would make the SpaceX IPO not just the largest in human history but larger than the entire current market capitalization of Saudi Aramco.
+Then Bloomberg reported on April 2 that the company had since revised its valuation target above $2 trillion in testing-the-waters conversations with prospective investors. The new target of above $2 trillion, with a raise of up to $75 billion, would make the SpaceX IPO the largest in recorded history, surpassing Saudi Aramco's $29 billion debut in 2019.
 
 The reason for the upward revision is what Musk and his bankers are now calling the "orbital intelligence" thesis—a framing that the investment pitch has been quietly rebuilt around over the past month.
 
@@ -50,7 +51,7 @@ The investor pitch separates the near-term business (existing Starlink revenue, 
 
 ## The Grok Layer Is Being Rebuilt
 
-One piece of the investment thesis that has drawn scrutiny from analysts is the state of xAI's AI products. FinTech Weekly reported in March that the Grok AI platform that xAI brought into the merger is being substantially rebuilt—a process that SpaceX and xAI engineers have internally called "Grok Renewal." Sources described Grok's original architecture as optimized for speed and public engagement (its primary deployment surface was X.com) rather than the enterprise API use cases that compete with OpenAI and Anthropic.
+One piece of the investment thesis that has drawn scrutiny from analysts is the state of xAI's AI products. FinTech Weekly reported that xAI is being rebuilt, with Musk posting on March 12 that it "was not built right first time around, so is being rebuilt from the foundations up."" Sources described Grok's original architecture as optimized for speed and public engagement (its primary deployment surface was X.com) rather than the enterprise API use cases that compete with OpenAI and Anthropic.
 
 The rebuild, expected to complete in Q3 2026, is targeting what xAI calls "infrastructure-grade reliability": consistent uptime guarantees, deterministic output formatting for programmatic use, and a new fine-tuning and deployment pipeline for enterprise customers. Until completion, the IPO process has a notable gap: the AI product that is central to the orbital intelligence thesis does not yet have enterprise-grade capabilities to sell.
 
@@ -67,3 +68,5 @@ The IPO timeline remains June 2026, subject to SEC review of the confidential fi
 Beyond the spectacle of the valuation, the SpaceX-xAI IPO is likely to reshape competitive dynamics in AI infrastructure in ways that are difficult to fully model in advance. A successful $2 trillion IPO would hand Musk's combined entity a balance sheet and a public currency—SpaceX stock—that could accelerate acquisitions, talent recruitment, and capital expenditure at a speed that even well-funded private companies cannot match.
 
 The orbital intelligence framing, if it gains credibility with investors, also changes how the market evaluates AI infrastructure more broadly. A $2 trillion valuation for an orbital AI concept implicitly sets a ceiling on the addressable market that every other AI infrastructure investment is pursuing. It is, in a very literal sense, a bet that the ceiling is space.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

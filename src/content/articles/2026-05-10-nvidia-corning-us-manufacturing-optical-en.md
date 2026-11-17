@@ -1,8 +1,9 @@
 ---
-title: "Nvidia Bets $3.2B on Corning to 10x US Optical Fiber Capacity for AI Infrastructure"
-summary: "Nvidia and Corning announced a multiyear partnership on May 7 that gives Nvidia rights to invest up to $3.2 billion in the glass and fiber company. Corning will 10x its US optical connectivity capacity, expand fiber production by more than 50%, and open three new facilities in North Carolina and Texas—creating over 3,000 jobs—as AI data centers demand an entirely new generation of optical interconnects."
+title: "Nvidia and Corning Partner to Expand US Optical Connectivity Manufacturing for AI Infrastructure"
+summary: "Nvidia and Corning announced a partnership to expand domestic optical connectivity manufacturing capacity. Corning is building three new facilities in Texas and North Carolina, which it says will create more than 3,000 jobs."
 category: "hardware"
 publishedAt: 2026-05-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 When Jensen Huang stood alongside Corning CEO Wendell Weeks to announce a multiyear partnership on May 7, the combination of names was unusual enough to demand explanation. Nvidia makes AI chips. Corning makes glass—famously the cover glass for smartphones, but also the backbone fiber-optic cable that carries data between continents. The connection between them, it turns out, runs through the most capital-intensive infrastructure buildout in recent technology history.
 
-"We're going through the single largest infrastructure buildout in human history," Huang said at the announcement. The deal gives Nvidia rights to invest up to $3.2 billion in Corning—structured as options to purchase up to 15 million shares and a pre-funded warrant for up to 3 million shares. Corning stock rose approximately 12% on the news. Nvidia gained about 6%.
+"We're going through the single largest infrastructure buildout in human history," Huang said on CNBC's "Mad Money." The deal gives Nvidia rights to invest up to $3.2 billion in Corning—structured as options to purchase up to 15 million shares and a pre-funded warrant for up to 3 million shares. Corning stock rose approximately 12% on the news. Nvidia gained about 6%.
 
 ## The Optical Bottleneck Inside AI Data Centers
 
@@ -48,7 +49,7 @@ Under the partnership, Corning has committed to a specific and measurable expans
 
 - **10x increase** in US optical connectivity capacity
 - **More than 50% expansion** in overall fiber production volume
-- **Three new advanced manufacturing facilities**, located in North Carolina and Corning's home state of New York, plus Texas
+- **Three new facilities**, located in Texas and North Carolina
 - **More than 3,000 new jobs** across the expansion
 
 North Carolina and Texas represent the geographic concentration of existing and planned AI data center construction in the United States, reflecting a deliberate localization strategy: reducing the distance between where the fiber is made and where it is installed.
@@ -79,4 +80,6 @@ Huang's framing of the partnership as revitalizing American manufacturing carrie
 
 The political dimension reflects the current environment. The White House has been pushing major technology companies to announce domestic manufacturing investments, and Corning's three-facility expansion—with a 3,000-job creation commitment—fits precisely the profile of announcements the administration has been encouraging. Nvidia's growing portfolio of such investments, spanning optical components, data center power infrastructure, and compute capacity, positions the company favorably in a regulatory environment where tech companies' domestic economic contributions are being scrutinized closely.
 
-For Corning's 3,200 new employees and the communities in North Carolina, New York, and Texas hosting the new facilities, the more immediate reality is that AI infrastructure demand is creating manufacturing employment in glass and fiber—sectors that had seen decades of offshoring pressure—at a scale that would have seemed implausible three years ago.
+For the communities in North Carolina and Texas hosting the new facilities, Corning says the expansion will create more than 3,000 jobs.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

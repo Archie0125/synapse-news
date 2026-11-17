@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Eyes $900 Billion Valuation in $50B Raise That Would Crown It the World's Most Valuable AI Startup"
-summary: "Anthropic is in advanced discussions to close a funding round of approximately $50 billion at a valuation of $900 billion—which would make it the highest-valued private AI company in the world, overtaking OpenAI's $852 billion post-money mark. The Claude-maker, which has reached $30 billion in annualized revenue, is targeting a board decision in May with a potential IPO as early as October 2026."
+title: "Anthropic Weighs $50B Raise at Up to $900 Billion Valuation, Which Could Match or Top OpenAI"
+summary: "Anthropic is reportedly in talks with investors to raise approximately $50 billion at a valuation of up to $900 billion—which would match or surpass OpenAI's $852 billion post-money mark. The Claude-maker, which has reached $30 billion in annualized revenue, is expected to decide on the round at a board meeting in May."
 category: "startups"
 publishedAt: 2026-05-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-05-02-pentagon-ai-classified-networks-anthropic-excluded-en"
 ---
 
-Less than three years after raising its Series B at a $4 billion valuation, Anthropic is in serious discussions to close a funding round that would value the company at $900 billion—a 225-fold increase that would make it the most valuable private technology company in history and overtake the $852 billion post-money valuation OpenAI set when it closed its record $122 billion round earlier this year.
+Anthropic is in talks to raise a funding round that would value the company at $900 billion, which would match or surpass the $852 billion post-money valuation OpenAI set when it closed its record $122 billion round earlier this year.
 
-According to multiple sources familiar with the discussions, Anthropic has received several preemptive offers to raise fresh capital of approximately $50 billion at a valuation in the $850 billion to $900 billion range. The company's board is expected to make a decision in May, and a public offering is being contemplated for as early as October 2026, which would make Anthropic one of the fastest-tracked IPOs in tech history given its 2021 founding.
+According to multiple sources familiar with the discussions, Anthropic has received several preemptive offers to raise fresh capital of approximately $50 billion at a valuation in the $850 billion to $900 billion range.
 
 ## The Revenue Story Behind the Valuation
 
@@ -38,13 +39,13 @@ The $900 billion figure is not without foundation. Anthropic earlier confirmed t
 
 The revenue is driven primarily by enterprise API access to Claude—now in its Opus 4.7 and Sonnet 4.6 incarnations—along with a rapidly growing Claude Code developer product that has become the preferred coding assistant for a significant share of professional software engineers. First-time business buyers of enterprise AI are reportedly choosing Anthropic at three times the rate of OpenAI, according to spending data from financial infrastructure platform Ramp, suggesting that Anthropic's reputation for safety-conscious, reliable performance is translating into commercial advantage at scale.
 
-Amazon's $25 billion commitment, announced earlier this year, has provided the balance sheet stability to invest aggressively in model training and infrastructure. In parallel, Google deepened its position with an investment of up to $40 billion, the largest single investment commitment any tech company has made into an AI startup. Anthropic also announced it has secured up to 5 gigawatts of dedicated compute capacity for training and inference—a level of infrastructure commitment that signals confidence in continued revenue growth at a scale that requires enormous compute.
+Earlier this month, Amazon agreed to invest up to $25 billion in Anthropic in a deal largely centered on AI infrastructure. Google said earlier this month that it plans to invest up to $40 billion in Anthropic. Anthropic also secured up to 5 gigawatts of compute capacity for training and deploying its Claude models as part of the Amazon deal, and another 5 gigawatts through an announcement with Google and Broadcom that will start to come online next year.
 
 ## The Competitive Context
 
 The $900 billion figure means something different depending on what you compare it to.
 
-Measured against Anthropic's last known valuation—$61.5 billion following a previous fundraise—$900 billion represents a 15x increase in roughly 18 months. That pace of value creation is historically unusual even by the standards of hypergrowth tech companies, but it mirrors the trajectory of the broader AI startup market, which saw Q1 2026 global venture funding break $300 billion for the first time, with AI companies capturing 80 cents of every dollar invested.
+Anthropic raised its last round at a $380 billion valuation in February, so $900 billion would more than double its valuation. That pace of value creation is historically unusual even by the standards of hypergrowth tech companies, but it mirrors the trajectory of the broader AI startup market, which saw Q1 2026 global venture funding break $300 billion for the first time, with AI companies capturing 80 cents of every dollar invested.
 
 Measured against OpenAI, $900 billion is a symbolic inversion. OpenAI was, for most of the past three years, considered the unchallenged commercial and capability leader in generative AI. Its ChatGPT user base, at roughly 800 million monthly active users, remains vastly larger than Claude's. But Anthropic's enterprise momentum, combined with OpenAI's ongoing legal, governance, and executive turbulence—the Musk trial, the CFO dispute, the IPO timeline debates—has given institutional investors reason to view Anthropic as the more predictable bet.
 
@@ -67,3 +68,5 @@ An October 2026 IPO would be aggressive. Taking a company public requires months
 The more likely scenario, analysts suggest, is that the current fundraise provides a bridge that allows Anthropic to continue operating at full intensity through the end of 2026 while preparing for a public offering in early to mid-2027. The $50 billion round itself, at a $900 billion valuation, would be the largest private fundraise in technology history—adding another record to a market that has been setting them quarterly.
 
 What the valuation ultimately reflects is a bet that the AI market will be large enough, and Anthropic's share of it defensible enough, to justify public market scrutiny at a scale that would make it one of the most valuable technology companies in the world on day one. Given the revenue trajectory, the institutional backing, and the product moat Anthropic has built around safety-focused enterprise AI, that bet is not obviously wrong.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

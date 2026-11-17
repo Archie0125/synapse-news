@@ -3,6 +3,7 @@ title: "MiniMax M3 Beats GPT-5.5 on Coding at 5% of the Compute Cost"
 summary: "Chinese AI lab MiniMax released M3 on June 1, an open-weight multimodal model that outperforms both GPT-5.5 and Gemini 3.1 Pro on the SWE-Bench Pro coding benchmark while running at just 1/20th the per-token compute of its predecessor. With a 1-million-token context window and native multimodality built from pretraining, M3 is the most credible open-weight challenge to frontier closed models yet."
 category: "ai-ml"
 publishedAt: 2026-06-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-06-04-deepseek-74b-funding-59b-valuation-close-en"
 ---
 
-When MiniMax released M3 on June 1, the Chinese AI lab did not just ship another model — it shipped a benchmark result that stopped the open-source community cold. M3 scored 59.0% on SWE-Bench Pro, the most demanding software engineering evaluation currently in widespread use, surpassing both OpenAI's GPT-5.5 and Google's Gemini 3.1 Pro on the same test. The score arrived on an open-weight model. The cost to run it, according to MiniMax's own measurements, is roughly 5–10% of comparable frontier alternatives.
+When MiniMax released M3 on June 1, the Chinese AI lab did not just ship another model — it shipped a benchmark result that stopped the open-source community cold. M3 scored 59.0% on SWE-Bench Pro, the most demanding software engineering evaluation currently in widespread use, surpassing both OpenAI's GPT-5.5 and Google's Gemini 3.1 Pro on the same test. MiniMax says the model's weights will be open-sourced within the next 10 days. The cost to run it, according to MiniMax's own measurements, is roughly 5–10% of comparable frontier alternatives.
 
 For a field that has spent the last eighteen months debating whether open-source can close the gap with closed frontier labs, M3 represents the clearest evidence yet that the gap is narrowing faster than most observers expected.
 
@@ -42,7 +43,7 @@ The efficiency gains are not purely theoretical. M3's Terminal-Bench 2.1 score o
 
 Most multimodal language models are fundamentally text models with vision capabilities grafted on afterward. Image and video understanding is handled by a separate encoder whose representations are injected into the text model, creating a fusion architecture that is functional but rarely seamless.
 
-MiniMax took a different approach with M3, engineering the model to be natively multimodal from what the company calls "Step Zero." Rather than fusing a pretrained text network with a separate vision system, MiniMax redesigned the data ingest pipeline from scratch to blend naturally interleaved sequences of text, images, and video. The total pretraining corpus exceeded 100 trillion tokens. The result is a model that does not treat vision as a secondary capability — it reasons over images and video in the same representational space as text.
+MiniMax took a different approach with M3, engineering the model to be natively multimodal from what the company calls "Step Zero." Rather than fusing a pretrained text network with a separate vision system, MiniMax says M3 underwent mixed-modality training from Step 0, and it re-architected its text pretraining data pipeline to produce a large volume of interleaved data. The total pretraining corpus exceeded 100 trillion tokens. The result is a model that does not treat vision as a secondary capability — it reasons over images and video in the same representational space as text.
 
 M3 accepts text, image, and video inputs, produces text output, and includes computer operation capability, meaning it can navigate graphical interfaces directly. The native multimodality matters particularly for agentic use cases where models need to observe and interact with visual environments, a capability that M3's architecture handles more gracefully than fusion-based alternatives.
 
@@ -58,11 +59,11 @@ On Terminal-Bench 2.1, which evaluates long-horizon terminal-based software engi
 
 MiniMax announced at launch that open-source model weights would be released within ten days, under a permissive license that includes commercial use. By the time this article publishes, those weights should be publicly available on Hugging Face, making M3 deployable on private infrastructure without API dependencies.
 
-The pricing for the hosted API reflects the efficiency gains. MiniMax's token plans start at $20 per month for approximately 1.7 billion tokens, with professional and enterprise tiers at $50 and $120 respectively. The per-token API pricing is competitive with mid-tier models, not frontier pricing, despite frontier-level benchmark performance on specific tasks.
+The pricing for the hosted API reflects the efficiency gains. MiniMax's token plans start at $20 per month for approximately 1.7 billion tokens, with Max and Ultra tiers at $50 and $120 respectively. The per-token API pricing is competitive with mid-tier models, not frontier pricing, despite frontier-level benchmark performance on specific tasks.
 
 ## The Chinese Open-Source Moment
 
-M3 arrives at a moment when Chinese AI labs have become unusually competitive at the open-source frontier. DeepSeek's V4 Pro, released in late April, brought a 1.6-trillion-parameter MoE architecture with frontier-level coding performance at dramatically lower inference costs. Qwen 3.7 Max reached fourth place on web development benchmarks. Now MiniMax has added a genuinely multimodal, million-context-window open-weight model to the mix.
+M3 arrives at a moment when Chinese AI labs have become unusually competitive at the open-source frontier. DeepSeek's V4 Pro, released in late April, brought a 1.6-trillion-parameter MoE architecture with frontier-level coding performance at dramatically lower inference costs. Qwen 3.7 Max reached fourth place on web development benchmarks. Now MiniMax has announced a natively multimodal, million-context-window model whose weights it says it will open-source.
 
 The pattern is not coincidental. Chinese labs operate under tighter constraints on acquiring the latest NVIDIA GPU hardware, driven partly by U.S. export controls. The response has been to invest heavily in architectural efficiency — building models that extract more capability per FLOP rather than simply scaling up compute. The result is a generation of models that are more efficient by design, and that efficiency is now appearing on benchmarks as performance at a fraction of the cost.
 
@@ -75,3 +76,5 @@ M3 is not a universal frontier replacement. Its knowledge cutoff and overall rea
 The open weights also come with the standard caveat of open-weight models: MiniMax retains control of training and fine-tuning data, and the model's safety properties — particularly around harmful outputs at scale — have not received the same level of external evaluation as models from labs that operate under more comprehensive AI safety programs.
 
 Still, for the majority of developers building agentic coding workflows, long-context analysis pipelines, or multimodal applications, M3 represents the most compelling case yet that the open-source ecosystem can serve as a credible alternative to the frontier API stack. The benchmark numbers suggest the architecture choices are working. The pricing suggests they may not be limited to research for long.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

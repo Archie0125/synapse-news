@@ -1,8 +1,9 @@
 ---
 title: "UK's National Grid Bets $1.75B on U.S. AI Power Startup Joulent and Its 2.67-Gigawatt Texas Plant"
-summary: "Britain's National Grid is investing $1.75 billion for a 35% stake in Joulent, a startup building a 2.67-gigawatt natural gas power campus in West Texas to supply a Microsoft-operated AI data center. The deal signals that traditional energy utilities are moving aggressively into AI infrastructure, treating data center power as a multi-decade contractual asset class."
+summary: "Britain's National Grid has agreed to invest $1.75 billion for a 35% stake in Joulent, a startup developing a 2.67 GW co-located power facility in West Texas to supply a Microsoft-operated data center. The deal reflects National Grid's move into contracted power infrastructure for AI data centers."
 category: "industry"
 publishedAt: 2026-07-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-06-30-spacex-ai1-orbital-data-center-ipo-en"
 ---
 
-There is a new kind of infrastructure deal reshaping the American energy landscape, and it does not originate from an AI lab or a hyperscaler. On July 1, 2026, Britain's National Grid announced it would invest $1.75 billion for a 35% stake in Joulent LLC, a purpose-built energy company developing dedicated power generation for AI data centers that cannot wait for conventional utility interconnections.
+There is a new kind of infrastructure deal reshaping the American energy landscape, and it does not originate from an AI lab or a hyperscaler. On July 1, 2026, Britain's National Grid announced it had agreed to invest $1.75 billion for a 35% stake in Joulent LLC, a purpose-built energy company developing dedicated power generation for AI data centers that cannot wait for conventional utility interconnections.
 
 The investment is the largest single bet any traditional electric utility has made on AI power infrastructure, and it frames the sector's energy demand not as a problem to be managed but as a structured financial opportunity spanning decades.
 
@@ -36,7 +37,7 @@ The investment is the largest single bet any traditional electric utility has ma
 
 Joulent's flagship development, called Project Kilby, is a 2.67-gigawatt gas-fired power generation campus in Reeves County, West Texas. To put that number in context: 2.67 GW is roughly equivalent to the entire electricity output of a mid-sized coal plant, delivered to a single customer campus. Joulent is developing Kilby in a 50/50 partnership with Chevron Corporation, through its subsidiary Energy Forge, with GE Vernova supplying the turbines.
 
-The buyer of that power is Microsoft, which is building a data center campus at the site and has signed a 20-year power purchase agreement (PPA) with Joulent. Microsoft President Noelle Walsh, commenting on the deal, described the arrangement as addressing a coordination gap between AI advancement and energy infrastructure: "AI and cloud are advancing at a pace that requires closer coordination between energy and infrastructure."
+The buyer of that power is Microsoft, which operates the data center campus that Kilby will supply under a 20-year power purchase agreement (PPA). Microsoft President Noelle Walsh, commenting on the deal, described the arrangement as addressing a coordination gap between AI advancement and energy infrastructure: "AI and cloud are advancing at a pace that requires closer coordination between energy and infrastructure."
 
 Project Kilby is targeting first power delivery by 2028. By that point, it will serve as the primary electricity source for what is expected to be one of the largest AI computing campuses on the continent.
 
@@ -48,7 +49,7 @@ National Grid CEO Zoë Yujnovich described the investment as "disciplined, partn
 
 For National Grid's shareholders, the investment thesis is that AI-driven power demand has created a new category of energy infrastructure — large, contracted, long-duration — that fits squarely within the financial profile of what an electric utility can and should own. The fact that Joulent is building the plant in Texas rather than National Grid's traditional service territory doesn't change the financial structure of the asset.
 
-National Grid also brings something more than capital. Yujnovich noted that the company's expertise in high-voltage networks, infrastructure project execution, and electrical equipment supply chains is part of what Joulent is buying with the partnership. Building a 2.67 GW campus involves solving problems that a newly founded power developer, however well-funded, does not have embedded institutional knowledge to address efficiently.
+National Grid also brings something more than capital. National Grid said the partnership is intended to extend beyond capital, with expertise in high-voltage networks, system integration and balancing, infrastructure development and project execution. Building a 2.67 GW campus involves solving problems that a newly founded power developer, however well-funded, does not have embedded institutional knowledge to address efficiently.
 
 ## The Broader Interconnection Problem
 
@@ -56,9 +57,9 @@ Joulent's founding premise — and the investment thesis behind this deal — is
 
 AI data centers are being designed and contracted on timelines measured in months. Microsoft, Amazon, Google, and Meta have announced hundreds of billions of dollars in AI infrastructure commitments over the past 18 months, but the actual power to run those campuses has emerged as the primary constraint on delivery.
 
-Joulent's approach is to bypass the interconnection problem by co-locating generation with load. Rather than drawing power from the grid, Project Kilby generates electricity on-site, feeding directly into the Microsoft campus without requiring a high-voltage transmission connection subject to public queue and regulatory review. The state of Texas facilitates this model more readily than most other jurisdictions, because the state's ERCOT grid operates largely independently of federal oversight and has a relatively permissive framework for private power arrangements.
+Joulent's approach is to bypass the interconnection problem by co-locating generation with load. The state of Texas facilitates this model more readily than most other jurisdictions, because the state's ERCOT grid operates largely independently of federal oversight and has a relatively permissive framework for private power arrangements.
 
-The Chevron partnership matters here as well. West Texas is one of the most prolific natural gas producing regions on earth. Joulent, through Energy Forge, can access gas supplies at prices and on timelines that a company without Chevron's upstream relationships could not. The turbines from GE Vernova are gas-fired, but Joulent's integrated architecture also includes battery storage and renewable generation capacity — a hedge against eventual carbon pricing and a signal that the company is not building a stranded-asset bet on unabated natural gas.
+The Chevron partnership matters here as well. West Texas is one of the most prolific natural gas producing regions on earth. Joulent, through Energy Forge, can access gas supplies at prices and on timelines that a company without Chevron's upstream relationships could not. The turbines from GE Vernova are gas-fired, but Joulent's solutions also include battery storage and renewables integration, and future developments could incorporate renewables, beginning with solar.
 
 ## Capital Racing to Meet Demand
 
@@ -66,9 +67,7 @@ The Joulent deal is not an isolated event. It is the latest in a series of major
 
 Microsoft itself has announced power supply agreements aggregating more than 10 GW globally over the past year. Amazon has committed to purchasing renewable energy at a scale that, if delivered, would make it the world's largest single buyer of clean power. Google has revived nuclear power purchase agreements for the first time in decades, signing PPAs for advanced small modular reactors.
 
-National Grid, for its part, has been explicit about the scale of what it sees coming. The company has said it expects to connect more than 10 GW of data center demand across its U.K. and U.S. service territories within five years — a figure that would dwarf the current data center load on its network.
-
-Chris James, Joulent's founder and CEO, summarized the strategic context in straightforward terms: "This investment strengthens Joulent's ability to deliver reliable, large-scale power on the timelines AI infrastructure and advanced industry now requires."
+National Grid, for its part, has been explicit about the scale of what it sees coming. The company has said it expects to connect more than 10 GW of demand across the U.K. and U.S. over the next five years through its data center connection program.
 
 ## What This Signals to the Industry
 
@@ -78,4 +77,6 @@ For AI companies and their investors, the more consequential question is how man
 
 The United States has not built infrastructure at that pace since the mid-twentieth century. Whether the combination of private capital, utility expertise, and tech company PPAs can substitute for the public infrastructure programs of that era remains to be seen. What the National Grid-Joulent deal confirms is that at least some of the largest traditional infrastructure operators believe it can.
 
-Final investment decision on the Joulent stake is expected before the end of 2026. Project Kilby's 2028 power delivery target is, by the standards of energy infrastructure, aggressive — but by the standards of AI compute demand, merely essential.
+A final investment decision on the Joulent stake is expected in 2026. Project Kilby's 2028 power delivery target is, by the standards of energy infrastructure, aggressive — but by the standards of AI compute demand, merely essential.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

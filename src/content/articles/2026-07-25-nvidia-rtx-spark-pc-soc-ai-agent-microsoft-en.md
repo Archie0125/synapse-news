@@ -1,8 +1,9 @@
 ---
 title: "Nvidia's RTX Spark Superchip Puts AI Agents on Your Desktop, Challenging Intel, AMD, and Qualcomm"
-summary: "At Computex 2026, Nvidia unveiled the RTX Spark, its first self-developed AI PC superchip, alongside a three-generation roadmap targeting the $200 billion PC processor market. Co-developed with MediaTek and backed by Microsoft, Dell, and HP, the move marks Nvidia's most aggressive push yet beyond data centers into personal computing."
+summary: "At Computex in Taipei, Nvidia unveiled the RTX Spark, a PC superchip developed with MediaTek and slated for Windows PCs from Microsoft, Dell, HP and others, pushing Nvidia beyond data centers into personal computing."
 category: "hardware"
 publishedAt: 2026-07-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,11 +30,11 @@ relatedSlugs:
 
 For two decades, Nvidia has been the company that made the chips *inside* computers do extraordinary things. Now Jensen Huang wants Nvidia to be the company that makes the chip that *is* the computer.
 
-At Computex 2026 in Taipei, Nvidia unveiled the **RTX Spark**, a system-on-chip superchip co-developed with MediaTek that marks the company's first foray into designing the primary processor for Windows PCs. The announcement — flanked by executive appearances from Microsoft, Dell, and HP — signals that the world's most valuable semiconductor company is preparing a direct assault on the $200 billion PC processor market currently shared among Intel, AMD, Apple, and Qualcomm.
+At Computex in Taipei, Nvidia unveiled the **RTX Spark**, a system-on-chip superchip developed jointly with MediaTek for Windows PCs. The announcement, made alongside Microsoft and PC makers including Dell and HP, signals that the world's most valuable company is moving into the PC chip market, long dominated by Intel and AMD.
 
 ## The RTX Spark: What It Is
 
-The RTX Spark is not a discrete GPU slotted into a desktop tower. It is an integrated system-on-chip — CPU, GPU, NPU, and memory — designed to power an entire PC on a single die. Huang called it the centerpiece of Nvidia's vision for "agentic PCs": computers capable of running AI agents locally, without relying on cloud infrastructure.
+The RTX Spark is not a discrete GPU slotted into a desktop tower. It is an integrated system-on-chip that pairs Nvidia's Blackwell GPU with a MediaTek CPU, with unified memory that lets the CPU and GPU access the same memory. Huang called it the centerpiece of Nvidia's vision for "agentic PCs": computers capable of running AI agents locally, without relying on cloud infrastructure.
 
 The chip is built on a 3nm process node and delivers what Nvidia claims is 200 TOPS (trillion operations per second) of AI performance on-device — roughly double the highest-performing AI PCs currently shipping with AMD and Qualcomm silicon. Unlike cloud inference, which incurs latency and per-call costs, the RTX Spark is designed to run agents continuously in the background, monitoring applications, drafting responses, and executing multi-step workflows without an internet connection.
 
@@ -43,17 +44,17 @@ Nvidia's partnership with **MediaTek** for the chip's CPU cores is a notable des
 
 At Computex, Huang unveiled a chip roadmap that had clearly been in preparation for years. The sequence:
 
-- **N1X** (2026): Entry-level AI PC chip, targeting thin-and-light laptops
+- **N1X**: the name Huang also used for the RTX Spark, which debuts later this year on Windows PCs
 - **N2X** (2027): Mid-range chip with higher NPU throughput, targeting workstations
 - **N3X** (2028): High-performance chip for professional AI workstations and "personal supercomputers"
 
-The RTX Spark sits alongside the N1X as part of the initial launch wave. The roadmap cadence matches Apple's annual Silicon release cycle and mirrors Intel's historical tick-tock model — sending a clear message that Nvidia intends to be a recurring presence in the PC market, not a one-off experiment.
+Huang also referred to the RTX Spark as the N1X. The roadmap cadence matches Apple's annual Silicon release cycle and mirrors Intel's historical tick-tock model — sending a clear message that Nvidia intends to be a recurring presence in the PC market, not a one-off experiment.
 
 "We've been preparing AI PCs with Microsoft for three years," Huang told reporters after his keynote. "This is not a detour. This is the center of gravity shifting."
 
 ## Microsoft, Dell, and HP at Launch
 
-The launch lineup underscores how seriously the industry's largest OEMs are taking Nvidia's PC ambitions. Microsoft confirmed that Windows 12 will include deep platform support for RTX Spark, including native integration with Copilot agents, local model execution APIs, and a new "Agentic PC" certification program. Dell and HP are the first hardware partners, with AI-optimized PCs based on RTX Spark expected to ship before the end of 2026.
+The launch lineup underscores how seriously the industry's largest OEMs are taking Nvidia's PC ambitions. Microsoft confirmed that Windows 12 will include deep platform support for RTX Spark, including native integration with Copilot agents, local model execution APIs, and a new "Agentic PC" certification program. Dell, HP, Microsoft, ASUS, Lenovo and MSI are among the partners, with RTX Spark Windows PCs expected this fall.
 
 The Microsoft relationship is particularly significant. Huang described three years of co-development on both the chip architecture and the software stack — a degree of partnership that suggests Microsoft sees Nvidia's PC chip as a serious long-term bet, not a hedging experiment. Critically, RTX Spark PCs will run Windows 12 natively on Arm, ending the compatibility compromises that have hampered earlier Arm-based Windows devices.
 
@@ -61,7 +62,7 @@ The Microsoft relationship is particularly significant. Huang described three ye
 
 The competitive implications are significant, if still unfolding.
 
-**Intel** is the most exposed. The PC chip market has long been Intel's home turf, and the company has spent years building its AI PC narrative around its Lunar Lake and Arrow Lake architectures. Nvidia entering the PC SoC market with Microsoft's explicit backing represents a credibility threat that numbers alone don't capture. Intel stock slid 3.2% in the session following the Computex announcement.
+**Intel** is the most exposed. The PC chip market has long been Intel's home turf, and the company has spent years building its AI PC narrative around its Lunar Lake and Arrow Lake architectures. Nvidia entering the PC SoC market with Microsoft's explicit backing represents a credibility threat that numbers alone don't capture. Intel and AMD shares both fell more than 3% in early U.S. trading after the announcement.
 
 **AMD** faces a similar narrative risk. Its Ryzen AI series has been gaining traction in AI PC deployments, but Nvidia's brand recognition in AI acceleration — earned in data centers — gives RTX Spark a marketing advantage that is difficult to counter.
 
@@ -85,4 +86,6 @@ Developer reception has been cautiously optimistic. Several application develope
 
 A beta version of Nvidia's Agent Toolkit for PC — a developer framework for building agentic applications on RTX Spark — is expected to be available to select partners later this year, with a public release alongside N1X hardware in early 2027.
 
-The PC chip market has not seen a genuinely new entrant in years. Whether RTX Spark disrupts the status quo or becomes a high-profile stumble remains to be seen — but Nvidia has rarely arrived late to a market it intended to own.
+Whether RTX Spark disrupts the status quo or becomes a high-profile stumble remains to be seen — but Nvidia has rarely arrived late to a market it intended to own.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "Colorado Guts Its Landmark AI Law Weeks Before Enforcement, Replacing Risk Rules with Disclosure"
-summary: "Colorado Governor Jared Polis signed SB 189 in May, repealing and replacing the state's original Consumer Protections for Artificial Intelligence Act just weeks before its June 30, 2026 enforcement date. The new law abandons a comprehensive risk-management framework in favor of narrower transparency and disclosure requirements — a significant retreat amid federal pressure and industry lobbying."
+title: "Colorado Replaces Its AI Law Before It Took Effect, Swapping Risk Rules for Disclosure"
+summary: "Colorado Governor Jared Polis signed SB 189 on May 14, 2026, repealing and replacing the state's original AI Act before its June 30, 2026 effective date. The new law abandons the risk-management framework in favor of narrower transparency and disclosure requirements, amid industry pushback and litigation."
 category: "policy"
 publishedAt: 2026-06-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,17 +30,17 @@ relatedSlugs:
   - "2026-06-17-anthropic-project-glasswing-150-orgs-critical-infrastructure-en"
 ---
 
-When the Colorado Legislature passed the Consumer Protections for Artificial Intelligence Act in 2024, it was hailed as a landmark: the first U.S. state law to impose comprehensive risk-management obligations on developers and deployers of artificial intelligence systems, drawing comparisons to the EU AI Act as an emerging model for American regulatory governance of AI.
+When the Colorado Legislature passed the Consumer Protections for Artificial Intelligence Act in 2024, Colorado became the first U.S. state to pass a comprehensive AI statute, one that imposed broad obligations on developers and deployers of "high-risk" artificial intelligence systems.
 
-Two years later, with that law's enforcement date of June 30, 2026, less than two weeks away, Colorado quietly replaced it with something substantially weaker.
+Two years later, with that law set to take effect on June 30, 2026, Colorado replaced it with a substantially narrower statute.
 
 ## The Repeal
 
 On May 14, 2026, Governor Jared Polis signed **Senate Bill 189**, which formally repeals and replaces SB 24-205 — the original Colorado AI Act — and pushes the new law's effective date back to **January 1, 2027**. The replacement legislation is not a revision of the original framework; it is a structural overhaul that discards the law's most ambitious features.
 
-The original Colorado AI Act centered on a **risk-based framework**: companies developing or deploying "high-risk" AI systems — defined as systems making or materially influencing consequential decisions in employment, healthcare, financial services, education, housing, and government benefits — were required to conduct impact assessments before deployment, implement formal risk management programs, document and test for algorithmic bias, and provide consumers with meaningful appeal rights backed by human review.
+The original Colorado AI Act centered on a **risk-based framework**: it imposed a duty of care to prevent algorithmic discrimination, required deployers to maintain risk management programs and conduct impact assessments, and imposed certain reporting obligations to the Colorado Attorney General.
 
-It was, by the standards of U.S. state legislation, an extraordinarily demanding compliance regime. For companies that deploy AI at scale in covered domains, it would have required organizational commitments comparable to those demanded by GDPR compliance in Europe.
+It was, by the standards of U.S. state legislation, an extraordinarily demanding compliance regime.
 
 ## What Replaced It
 
@@ -47,7 +48,7 @@ SB 189 retains the high-level goal of protecting consumers from harmful AI outco
 
 **Developers** must provide technical documentation to deployers covering training data categories, known limitations, and material risks — and must notify deployers of significant updates that could affect system behavior.
 
-**Deployers** must issue pre-use notices before applying "automated decision making technology" (ADMT) in consequential decisions, and must send adverse-outcome notices within 30 days when ADMT-influenced decisions harm consumers. Three years of records must be retained. Consumers who receive unfavorable outcomes may request data correction and "meaningful human review and reconsideration of the decision, to the extent commercially reasonable" — a qualifier that meaningfully softens what the original act required.
+**Deployers** must issue pre-use notices before applying "automated decision making technology" (ADMT) in consequential decisions, and must send adverse-outcome notices within 30 days when ADMT-influenced decisions harm consumers. Three years of records must be retained. Consumers who receive unfavorable outcomes may request data correction and "meaningful human review and reconsideration of the decision, to the extent commercially reasonable."
 
 The core regulatory philosophy has shifted from "companies must demonstrate safety before deployment" to "companies must tell consumers what they're doing." This is the difference between, roughly, pharmaceutical pre-market approval and nutritional labeling: both are regulatory requirements, but they sit on entirely different points on the burden-versus-protection spectrum.
 
@@ -55,26 +56,26 @@ The core regulatory philosophy has shifted from "companies must demonstrate safe
 
 The revision reflects a convergence of pressures that Colorado's original law confronted during 2025 and early 2026.
 
-**Industry lobbying** was intense and consistent. Major technology companies, financial services firms, and insurers argued that the compliance burden — particularly the impact assessment and risk management program requirements — was disproportionate to the actual risk, vague enough to create legal uncertainty, and different enough from other state laws to impose fragmented compliance costs on companies operating nationally.
+**Industry lobbying** was intense and consistent. Industry pushback against the original law was extensive, and it was criticized as overly complex and burdensome.
 
-**Federal preemption pressure** arrived from Washington. The Trump administration directed the Commerce Department to identify "onerous" state AI laws that might conflict with a national approach, and an executive order aimed at maintaining U.S. AI leadership explicitly targeted state regulatory fragmentation. Colorado's legislature and Governor moved partly in anticipation of potential federal preemption that would render the investment in a comprehensive state law moot.
+**Federal preemption pressure** arrived from Washington. A December 2025 executive order from President Donald Trump targeted the original Colorado law as "excessive State regulation" and directed federal agencies to challenge state AI laws deemed inconsistent with federal deregulatory policy.
 
-**Litigation** added immediate legal uncertainty. **x.AI**, the Elon Musk-founded AI company, filed a federal lawsuit seeking an injunction against enforcement of the original Colorado AI Act. The lawsuit argued the law was unconstitutional and preempted by federal frameworks. While that case was pending resolution, x.AI was required to file a new preliminary injunction motion targeting SB 189 by June 11, 2026 — introducing further uncertainty about whether even the reduced requirements will survive legal challenge.
+**Litigation** added immediate legal uncertainty. **x.AI**, the Elon Musk-founded AI company, filed a federal lawsuit seeking an injunction against enforcement of the original Colorado AI Act. The lawsuit challenged the constitutionality of the original law, and the U.S. Department of Justice intervened to support the challenge. While that case was pending resolution, x.AI was required to file a new preliminary injunction motion targeting SB 189 by June 11, 2026 — introducing further uncertainty about whether even the reduced requirements will survive legal challenge.
 
-**Governor Polis's own ambivalence** about aggressive AI regulation has been publicly noted throughout the legislative debate. Polis, who has simultaneously championed Colorado's role in AI innovation, never fully embraced the original law and convened a working group to examine whether it should be overhauled — the process that ultimately produced SB 189.
+**Governor Polis's own concerns** about the original law were on record from the start: when signing it, he said it created a "complex compliance regime." Polis, who has simultaneously championed Colorado's role in AI innovation, never fully embraced the original law and convened a working group to examine whether it should be overhauled — the process that ultimately produced SB 189.
 
 ## The Context: U.S. vs. EU Trajectories
 
-The Colorado retreat sits in sharp contrast to what is happening across the Atlantic. The EU AI Act — which took effect in a phased rollout beginning in 2024 — reaches its most consequential compliance milestones in August 2026, when requirements for high-risk AI systems in employment, critical infrastructure, education, and financial services take full effect for companies operating in the EU. The EU framework imposes pre-market conformity assessments, third-party audits for the highest-risk categories, and financial penalties up to 3% to 7% of global annual turnover for violations.
+The Colorado retreat sits in sharp contrast to what is happening across the Atlantic.
 
-The U.S., by comparison, has no federal AI regulation in force and has now watched its most ambitious state attempt walk itself back before enforcement even began. The result is a transatlantic regulatory divergence that could increasingly affect where AI companies invest in compliance infrastructure — and where they feel most comfortable deploying experimental systems.
+The result is that Colorado's first-in-the-nation comprehensive AI statute has been replaced by a narrower one before it took effect. The result is a transatlantic regulatory divergence that could increasingly affect where AI companies invest in compliance infrastructure — and where they feel most comfortable deploying experimental systems.
 
 ## Implications for Companies
 
 For companies that had been preparing for the original Colorado AI Act's June 30 enforcement date, the shift offers immediate relief on compliance costs — particularly the burden of conducting formal impact assessments and building out AI risk management governance programs.
 
-But legal counsel is advising companies not to abandon AI governance work entirely. Transparency requirements under SB 189 still create disclosure obligations that need infrastructure: systems to generate pre-use and adverse-outcome notices, records retention programs, and contracts with vendors that clearly allocate liability for ADMT-related compliance.
+But law firms advise organizations using covered technology to keep preparing for the January 1, 2027, effective date. Transparency requirements under SB 189 still create disclosure obligations that need infrastructure: systems to generate pre-use and adverse-outcome notices, records retention programs, and contracts with vendors that clearly allocate liability for ADMT-related compliance.
 
 More strategically, the Colorado episode is a reminder that the AI regulatory landscape in the U.S. remains genuinely volatile. A company that builds compliance capabilities only to the minimum current legal standard — and treats AI governance as a cost to minimize — will face recurring surprises as the regulatory floor continues to shift in unpredictable directions.
 
-The EU's enforcement clock is ticking regardless of what happens in Colorado. For companies with EU-facing products or operations, the comprehensive risk-based obligations the Colorado legislature just abandoned are precisely what Brussels is now requiring.
+*Correction (November 15, 2026): 18 sentences were corrected or removed to match the sources listed on this page.*

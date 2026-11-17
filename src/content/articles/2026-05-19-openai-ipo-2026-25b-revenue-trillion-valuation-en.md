@@ -3,6 +3,7 @@ title: "OpenAI Targets $1 Trillion IPO as Annual Revenue Crosses $25 Billion"
 summary: "OpenAI has hit $25 billion in annualized revenue and is actively planning a public listing, with CFO Sarah Friar targeting an H2 2026 regulatory filing and a potential 2027 stock market debut at a valuation of up to $1 trillion. The company's $852 billion private valuation — set during its $122 billion mega-round in March 2026 — now makes it the most valuable startup in history, though it projects $57 billion in annual cash burn by 2027."
 category: "startups"
 publishedAt: 2026-05-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,21 +31,19 @@ relatedSlugs:
   - "2026-04-04-openai-gpt5-leak-en"
 ---
 
-OpenAI has crossed a revenue milestone that few technology companies reach while still private: $25 billion in annualized recurring revenue, a figure the company confirmed in February 2026 and that has since climbed toward approximately $2 billion per month. The number gives concrete weight to what has been a recurring piece of IPO speculation, and for the first time, the company's own executives are discussing a public listing timeline with enough specificity to be taken seriously.
+The number gives concrete weight to what has been a recurring piece of IPO speculation, and for the first time, the company's own executives are discussing a public listing timeline with enough specificity to be taken seriously.
 
 ## The Revenue Story
 
-The path from zero to $25 billion in annual revenue in roughly three years is extraordinary by any measure. OpenAI crossed $1 billion in ARR in late 2023, $5 billion through 2024, and accelerated sharply through 2025 as ChatGPT subscriptions scaled, enterprise contracts multiplied, and API revenue from developers building on the platform became a material revenue stream in its own right.
-
 The March 2026 funding announcement — a $122 billion round that closed on March 31 — disclosed approximately $2 billion in monthly revenue, aligning with the February ARR figure. More than 1,000 customers are now spending over $1 million per year on OpenAI products, a segment that includes major financial institutions, law firms, healthcare systems, and technology companies integrating GPT models into production workflows.
 
-Rival Anthropic, by comparison, is approaching $19 billion in annualized revenue, also growing rapidly after securing a $30 billion raise at a $900 billion-plus valuation in May 2026. The two companies together are defining what a commercially successful frontier AI lab can look like — and establishing financial benchmarks that will set the terms of the IPO conversations that follow.
+Rival Anthropic raised $65 billion at a $965 billion post-money valuation in May 2026. The two companies together are defining what a commercially successful frontier AI lab can look like — and establishing financial benchmarks that will set the terms of the IPO conversations that follow.
 
 ## The IPO Machinery
 
 CFO Sarah Friar has told associates that OpenAI is targeting a regulatory filing in the second half of 2026, with a stock market debut potentially in 2027. The deliberate pace reflects both the complexity of OpenAI's corporate structure — its conversion from a capped-profit entity to a full for-profit corporation required months of legal and governance restructuring — and a desire to ensure the company's financials can withstand the scrutiny that public markets apply.
 
-Goldman Sachs, JPMorgan, and Morgan Stanley are in discussions to advise the offering, though no mandates have been formally issued. Bankers involved in those conversations have discussed a potential IPO valuation of up to $1 trillion at listing, though the final number will depend heavily on where interest rates and technology valuations stand when the company actually files.
+Bankers involved in those conversations have discussed a potential IPO valuation of up to $1 trillion at listing, though the final number will depend heavily on where interest rates and technology valuations stand when the company actually files.
 
 OpenAI's current private valuation of $852 billion, established at the March round, already makes it the most valuable startup in history by a significant margin. The gap between its last round valuation and a potential $1 trillion public market target implies relatively modest further appreciation — a $148 billion increase — which bankers close to the deal describe as achievable given the revenue growth trajectory.
 
@@ -71,3 +70,5 @@ The timing pressure on the IPO is also shaped by competitive dynamics. OpenAI's 
 An IPO in 2027 would give OpenAI public capital at a moment when it may need to defend its market position against well-capitalized rivals with lower-cost inference infrastructure and massive distribution advantages. Waiting longer risks either a less favorable valuation environment or a period in which competitive pressure has eroded the revenue growth story that is the central pillar of the listing thesis.
 
 The company that once existed as a research lab dedicated to safely developing artificial intelligence is now a $25 billion revenue business navigating the most consequential IPO decision in the technology industry's recent history. The numbers are extraordinary. The financial risks are substantial. And the outcome will define what it means to be a public AI company.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

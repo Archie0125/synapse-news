@@ -1,8 +1,9 @@
 ---
 title: "FTC Proposes AI Accuracy Policy That Could Preempt State Laws Requiring Output Changes"
-summary: "The Federal Trade Commission has issued a proposed policy statement declaring that AI companies distorting their models' outputs to comply with state regulations could be committing deceptive practices under federal law. The statement specifically singles out Colorado's AI Act and invites public comment through July 31."
+summary: "The Federal Trade Commission has issued a proposed policy statement saying that AI companies that distort their systems' outputs to achieve undisclosed ideological objectives could be deceiving consumers in violation of federal law. The statement cites Colorado's AI Act as an example and invites public comment through July 31."
 category: "policy"
 publishedAt: 2026-07-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-07-02-un-itu-ai-for-good-global-commission-en"
 ---
 
-The U.S. Federal Trade Commission has entered what may become one of the defining legal battles of the AI era: the fight over who gets to decide what an AI model says. On July 1, the FTC issued a proposed policy statement asserting that AI companies which alter their models' outputs to satisfy state laws — rather than to improve accuracy — could be engaging in deceptive practices prohibited by federal law.
+The U.S. Federal Trade Commission has entered what may become one of the defining legal battles of the AI era: the fight over who gets to decide what an AI model says. The FTC is seeking public comment on a proposed policy statement asserting that AI companies which distort their systems' outputs to achieve undisclosed ideological objectives could be deceiving consumers in violation of federal law.
 
 The statement is not merely regulatory guidance. It is a shot across the bow of state-level AI legislation, framing the patchwork of state AI laws as a potential threat to the integrity of the AI systems American consumers and businesses depend on.
 
@@ -53,9 +54,9 @@ The specific tension is real and not easily resolved. A model trained on histori
 
 ## An Executive Order at the Root
 
-The FTC did not arrive at this policy on its own initiative. The statement was issued pursuant to Executive Order 14365, signed by President Trump on December 11, 2025, which directed the FTC to clarify how Section 5 of the FTC Act applies to AI models and specifically to address "how state laws requiring alterations to the accurate outputs of AI models can conflict with federal law."
+The FTC did not arrive at this policy on its own initiative. The statement follows a December executive order in which President Trump directed the FTC to issue a policy statement addressing the legal implications of state laws that require alteration of the "truthful outputs of AI models."
 
-That framing — "accurate outputs" — embedded a significant assumption in the FTC's mandate from the start. By defining the problem as state laws interfering with accuracy, the executive order predisposed the FTC toward a preemption analysis. The Commission voted 2-0 in favor of issuing the proposed statement, indicating unanimous support among the agency's current membership.
+That framing — "truthful outputs" — embedded a significant assumption in the FTC's mandate from the start. By defining the problem as state laws interfering with accuracy, the executive order predisposed the FTC toward a preemption analysis. The Commission voted 2-0 in favor of issuing the proposed statement, indicating unanimous support among the agency's current membership.
 
 The broader context is a Trump administration that has been consistently skeptical of state-level AI regulation, particularly as it applies to large language models. The White House has pursued voluntary frameworks for frontier AI development — agreeing with major AI companies on pre-release access and safety evaluations — while pushing back against mandatory state requirements it views as overreach.
 
@@ -80,3 +81,5 @@ The battle over who governs AI in America is no longer only happening in Congres
 ---
 
 *Public comments on the FTC's proposed AI accuracy policy statement are due July 31, 2026. The full text is available in the Federal Register (Document 2026-13628).*
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

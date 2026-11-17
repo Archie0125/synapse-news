@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Launches Free ChatGPT Program for 100,000 Academic Researchers"
-summary: "OpenAI launched ChatGPT for Academic Researchers on July 29, 2026, granting free access to frontier models including GPT-5.6 to 10,000 scientists at institutions including the Institute for Advanced Study and École normale supérieure, with plans to expand to 100,000 researchers by 2027 as part of a $250 million scientific initiative."
+summary: "OpenAI launched ChatGPT for Academic Researchers, giving free access to advanced ChatGPT features, including GPT-5.6 Sol Pro, to an initial 10,000 scientists at a limited number of universities, with plans to onboard 90,000 more over time as part of a $250 million scientific initiative."
 category: "ai-ml"
 publishedAt: 2026-07-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -28,15 +29,15 @@ relatedSlugs:
   - "2026-07-20-chai-discovery-400m-series-c-ai-drug-design-en"
 ---
 
-OpenAI quietly unveiled one of its most consequential access programs on July 29, 2026, launching ChatGPT for Academic Researchers—a free tier granting participating scientists access to the company's most capable frontier models, advanced research tools, and direct support from OpenAI staff. The program is part of a $250 million OpenAI initiative designed to accelerate scientific discovery, and it begins with 10,000 researchers at a select group of universities and research institutes.
+OpenAI today launched ChatGPT for Academic Researchers, a program granting participating scientists free access to advanced ChatGPT features, including its latest models, expanded deep research tools, and support from OpenAI staff. The program is part of a $250 million OpenAI initiative designed to accelerate scientific discovery, and it begins with 10,000 researchers at a select group of universities and research institutes.
 
-The inaugural cohort includes institutions such as the Institute for Advanced Study in Princeton and France's École normale supérieure (ENS). OpenAI has said it intends to scale access to 100,000 researchers by the end of 2027.
+The inaugural cohort includes institutions such as the Institute for Advanced Study in Princeton and France's École normale supérieure (ENS). OpenAI plans to onboard 90,000 more researchers over time, bringing the total to 100,000, with free access running through 2027.
 
 ## What Participants Get
 
-Researchers admitted to the program receive free access to the full GPT-5.6 model family—including Sol, Terra, and Luna, OpenAI's current flagship models—across ChatGPT, ChatGPT Work, and the Codex autonomous coding environment. Access comes with higher usage limits, larger context windows, and expanded deep research capabilities compared to standard consumer tiers.
+Researchers admitted to the program receive free access to OpenAI's latest models, including GPT-5.6 Sol and a GPT-5.6 Sol Pro version optimized for difficult queries and long-running tasks, along with Codex and ChatGPT Work. Access comes with higher usage limits, larger context windows, and an expanded edition of deep research.
 
-Each accepted researcher can also invite up to four collaborators from their institution, effectively multiplying the program's reach without requiring separate application processes. OpenAI employees will provide hands-on training in applying ChatGPT to complex research tasks and will help scientists integrate the platform with their existing tools, databases, and workflows.
+Each accepted researcher can also invite up to four collaborators from their institution, effectively multiplying the program's reach without requiring separate application processes. OpenAI will provide training on applying ChatGPT to complex research tasks, and its employees will help scientists integrate the service with their other scientific applications.
 
 What researchers will not receive: model weights. Despite pressure from the academic community to open-source frontier systems, OpenAI has maintained that the weights for GPT-5.6 and its family will not be released. Participants get API-level access to hosted versions, not local deployment capability.
 
@@ -69,3 +70,5 @@ The program's selectivity is worth noting. Starting with 10,000 researchers at a
 Model weight restrictions also limit the program's value for researchers who need to study model internals, run on-premises for data sovereignty reasons, or adapt models for low-resource settings. OpenAI has so far declined to address whether a restricted weights track might become available for qualified safety and interpretability researchers.
 
 Still, the program represents a meaningful shift in how OpenAI is engaging with the academic community—and a signal that the company views scientific credibility, not just commercial revenue, as a material asset in the current moment.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

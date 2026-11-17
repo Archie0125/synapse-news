@@ -3,6 +3,7 @@ title: "Samsung and Cadence Team Up on Physical AI Chiplet Platform Targeting Ro
 summary: "Samsung Foundry and Cadence Design Systems unveiled a joint Physical AI chiplet platform at CadenceLive 2026, built on Samsung's 5nm SF5A process. The pre-verified modular design targets real-time camera processing, AI radar, and autonomous systems, with tape-out planned for early 2027 and volume production in the second half of that year."
 category: "hardware"
 publishedAt: 2026-05-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -58,7 +59,7 @@ The manufacturing robotics application is growing rapidly. With automation inves
 
 Samsung and Cadence are targeting a prototype tape-out in early 2027, with volume manufacturing on the SF5A process expected in the second half of 2027. This is a relatively aggressive timeline for a new chiplet ecosystem and reflects both the urgency of the physical AI market and Samsung Foundry's need for differentiated advanced-node revenue as TSMC maintains its lead at the process frontier.
 
-Samsung Foundry's position in the semiconductor industry has been a persistent topic of analysis over the past two years. Its 3nm and 4nm processes have experienced yield challenges that allowed TSMC to maintain dominance in premium advanced-node manufacturing. The Physical AI chiplet platform represents a strategic move to compete on system-level value rather than purely on process node competition — offering an integrated design solution that includes not just the foundry process but the pre-verified IP, design tools, and Cadence's extensive EDA ecosystem.
+Samsung Foundry's position in the semiconductor industry has been a persistent topic of analysis over the past two years. Its 3nm process suffered from yield problems, and customers including Qualcomm and Nvidia redirected advanced-node orders to TSMC during that period. The Physical AI chiplet platform represents a strategic move to compete on system-level value rather than purely on process node competition — offering an integrated design solution that includes not just the foundry process but the pre-verified IP, design tools, and Cadence's extensive EDA ecosystem.
 
 Cadence's role in this partnership extends beyond providing the EDA tools used to design the chiplets. The company's verification intellectual property and design rule checks are embedded in the platform, meaning chiplet designs created within the ecosystem carry Cadence's own certification as meeting specified standards. For automotive and industrial customers who require third-party validation of safety-critical silicon, this embedded Cadence validation is commercially significant.
 
@@ -69,3 +70,5 @@ The Samsung-Cadence partnership is a leading indicator of where the physical AI 
 NVIDIA has recognized this with its push into automotive through Drive Thor and its investment in robotics companies. Qualcomm's Snapdragon Ride platform addresses similar territory. The difference is that Samsung and Cadence are offering a foundry-plus-design-ecosystem solution rather than a finished chip, which gives physical AI companies a path to custom silicon that doesn't require building an in-house chip design team from scratch.
 
 The tape-out timeline puts volume production in late 2027 — which means the first generation of products built on this platform will likely appear in commercial robots, vehicles, and industrial systems in 2028 and 2029. The decisions that physical AI companies make about their silicon strategy today will shape the competitive landscape of autonomous systems a decade from now.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

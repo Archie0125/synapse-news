@@ -1,8 +1,9 @@
 ---
 title: "Arcade Raises $60M to Solve the Permission Problem That's Blocking Enterprise AI Agents"
-summary: "Arcade, the startup that authored the MCP authorization spec and runs secure AI agent actions across Fortune 500 companies, has raised $60 million in Series A funding led by SYN Ventures. The round reflects growing enterprise urgency around AI agent governance — specifically, the inability to audit which agent took which action on whose behalf in production systems."
+summary: "Arcade, the startup that authored the MCP authorization spec and whose technology is used in production by a leading U.S. bank, Prosus and LangChain, has raised $60 million in Series A funding led by SYN Ventures. The round reflects growing enterprise urgency around AI agent governance — specifically, the inability to audit which agent took which action on whose behalf in production systems."
 category: "startups"
 publishedAt: 2026-06-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -43,7 +44,7 @@ Arcade describes itself as the "secure action layer" for production AI agents, a
 
 **Audit trails**: Every action is logged in a way that can be reconstructed: which model invoked it, which user triggered the workflow, what data was accessed, what was changed.
 
-The CEO, Alex Salazar, put the core problem in characteristically direct terms: "Nobody can prove that for any given action by an agent, whether that agent on behalf of that user can perform that action on that resource. Agents don't fail in production because the model is wrong — they fail because the permissions model is wrong."
+The CEO, Alex Salazar, put the core problem in characteristically direct terms: "Nobody can prove that for any given action by an agent, whether that agent on behalf of that user can perform that action on that resource. Agents don't fail in production because the model is wrong. They fail because nobody can prove that for any given action by an agent, whether that agent on behalf of that user can perform that action on that resource."
 
 ## The MCP Connection
 
@@ -51,7 +52,7 @@ Arcade isn't just a security wrapper; it's the organization that authored the MC
 
 This positioning is strategically significant. By writing the spec, Arcade has made itself structurally relevant to every enterprise deploying MCP-compatible agents — which, as Anthropic's Claude and competing platforms standardize on MCP, increasingly means every major enterprise AI deployment.
 
-The company currently maintains over 8,000 MCP tools built for enterprise agent workflows, and its platform has seen tool call volumes increase 25-fold over six months. Production deployments span a leading US bank, Prosus, and LangChain — each representing the kind of high-volume, high-stakes agent operation where a permissions failure isn't just embarrassing; it's a compliance event.
+The company offers more than 8,000 MCP tools built for agent-based workflows, and its platform has seen tool call volumes increase 25-fold over the past six months. Production deployments span a leading US bank, Prosus, and LangChain — each representing the kind of high-volume, high-stakes agent operation where a permissions failure isn't just embarrassing; it's a compliance event.
 
 ## Why This Problem Is Getting Worse Before It Gets Better
 
@@ -59,20 +60,22 @@ The AI agent governance challenge is a direct consequence of how quickly the und
 
 The permission models inherited from human-centric identity and access management (IAM) systems weren't designed for agents. A human employee gets a role, a set of permissions, and accountability through organizational structure. An AI agent can be invoked by multiple users, running in parallel across thousands of concurrent workflows, with credentials that don't map cleanly to any individual person. Traditional IAM gives you a blunt instrument when you need a scalpel.
 
-Jay Leek, a partner at SYN Ventures, articulated the investor thesis cleanly: "Adoption outruns the infrastructure that makes it safe. Agents are at that wall right now." SYN Ventures' portfolio skews toward security infrastructure in frontier technology categories, and the firm's lead on this round reflects a judgment that agent governance is the security category of the current AI cycle.
+Jay Leek, Managing Partner at SYN Ventures, who is joining Arcade's board, articulated the investor thesis cleanly: "Every wave of enterprise software has eventually hit the same wall, where adoption outruns the infrastructure that makes it safe. Agents are at that wall right now." SYN Ventures' portfolio skews toward security infrastructure in frontier technology categories, and the firm's lead on this round reflects a judgment that agent governance is the security category of the current AI cycle.
 
 ## The Enterprise Adoption Calculus
 
 For enterprises, the security concern isn't abstract. Regulators in financial services (where several of Arcade's existing customers operate), healthcare, and critical infrastructure have made clear that AI system governance must be auditable, documentable, and reversible. "The AI did it" is not a defense in front of a bank examiner or an SEC investigator.
 
-The practical implication: many enterprises have reached a point where AI agent deployments have been tested, validated for capability, and approved internally — only to stall at the security and compliance gate because no one can provide an answer to basic governance questions. Arcade's pitch is that it removes that blocker without requiring enterprises to build their own authorization infrastructure from scratch.
+The practical implication: many enterprises have struggled to move AI agents beyond pilot programs because security teams lack visibility into which agents are taking actions, on whose behalf, and against which resources. Arcade's pitch is that it removes that blocker without requiring enterprises to build their own authorization infrastructure from scratch.
 
 The strategic investors in this round — Morgan Stanley (a major financial institution with direct interest in AI governance tools) and Wipro (a consulting firm deeply engaged in enterprise AI deployments globally) — signal that demand for this solution is not hypothetical. Both organizations have operational skin in the game.
 
 ## What the $60M Buys
 
-The new capital will accelerate product development, expand the MCP tool ecosystem, and grow Arcade's engineering and go-to-market teams. The company is also expanding integrations with major enterprise identity platforms — connecting Arcade's authorization layer to existing corporate SSO and IAM infrastructure, which is a prerequisite for seamless enterprise deployment.
+The new capital will accelerate product development, expand Arcade's ecosystem, and fund hiring of additional employees. The company is also expanding integrations with major enterprise identity platforms — connecting Arcade's authorization layer to existing corporate SSO and IAM infrastructure, which is a prerequisite for seamless enterprise deployment.
 
-With 25x tool call growth in six months and production deployments at globally significant financial institutions, Arcade has demonstrated that the market exists and the product works. The question the Series A answers is whether the company can scale it — from a handful of marquee design partners to the thousand-plus enterprise deployments that would make Arcade genuinely foundational to the AI agent economy.
+With 25x tool call growth in six months and production use at a leading U.S. bank, Prosus and LangChain, Arcade has shown meaningful traction. The question the Series A answers is whether the company can scale it — from a handful of marquee design partners to the thousand-plus enterprise deployments that would make Arcade genuinely foundational to the AI agent economy.
 
 Given that AI agent adoption shows no signs of slowing, the governance infrastructure that makes it safe to scale represents a large and largely unaddressed market. Arcade is currently the closest thing to a purpose-built solution that exists.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

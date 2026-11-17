@@ -1,8 +1,9 @@
 ---
-title: "ByteDance's Seedream 5.0 Pro Signals China Has Won the AI Image Race"
-summary: "ByteDance launched Seedream 5.0 Pro this week — a multimodal image model that generates layered PNG files, handles 14-language text rendering, and produces keyframe-ready visuals — deepening a Chinese lead in AI visual generation that now challenges San Francisco across every benchmark. Alibaba's HappyHorse-1.0 simultaneously ranks No. 2 globally in video generation, while Seedance 2.5 generates 30-second video clips natively without stitching."
+title: "ByteDance Launches Seedream 5.0 Pro, an Image Model Built Around Layered, Editable Output"
+summary: "ByteDance launched Seedream 5.0 Pro on July 8 — a multimodal image model that can split images into layered PNG files, renders text in roughly 14 languages, and is positioned as a keyframe generator for video. Separately, ByteDance says its Seedance 2.5 can generate 30-second video clips natively without stitching, though that claim has not been independently verified.​"
 category: "ai-ml"
 publishedAt: 2026-07-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -54,7 +55,7 @@ The model is available through ByteDance's Dreamina creative platform and via AP
 
 Seedream 5.0 Pro does not exist in isolation. It is the flagship of a Chinese visual AI ecosystem that has, over the past 18 months, moved from a position of catching up to one of genuine frontier competition.
 
-ByteDance's Seedance 2.5, released in June, generates 30-second video clips natively without the stitching artifacts that have plagued earlier Chinese video models and that still occasionally appear in Western competitors' outputs. The four-year timeline from OpenAI's Sora — which demonstrated impressive but often inconsistent video generation — to a production-grade tool that achieves 70-90% gross margins at commercial scale, reflects how quickly Chinese labs have industrialized the research.
+ByteDance's Seedance 2.5, announced in June and in global enterprise beta with a public launch targeted for early July, is claimed by the company to generate 30-second video clips natively without stitching; those claims have not been independently verified. The four-year timeline from OpenAI's Sora — which demonstrated impressive but often inconsistent video generation — to a production-grade tool that achieves 70-90% gross margins at commercial scale, reflects how quickly Chinese labs have industrialized the research.
 
 Alibaba's HappyHorse-1.0 has climbed to the No. 2 position across major independent video generation benchmarks, displacing OpenAI's Sora and competing directly with Google DeepMind's Veo models. Alibaba is also discounting aggressively — offering rates 40% below comparable Western API pricing — in a pattern that mirrors the competitive playbook its cloud division has used in infrastructure services.
 
@@ -77,3 +78,5 @@ None of this competitive momentum is insulated from legal risk. ByteDance's Seed
 The legal resolution of AI training data questions — still unresolved in the United States, the EU, and the UK — will determine how freely Chinese-developed visual AI can be deployed in commercial workflows in those markets. If US courts establish that training on copyrighted images without license constitutes infringement, it creates a trade barrier for Chinese models that was never written by any legislature, but emerges organically from copyright litigation.
 
 For now, Seedream 5.0 Pro is available globally and drawing serious attention from designers and product teams who care about results more than jurisdiction. The benchmark wars for AI visual generation have a new frontrunner, and it is not based in San Francisco.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

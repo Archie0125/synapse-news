@@ -1,8 +1,9 @@
 ---
 title: "How a Poisoned VS Code Extension Breached GitHub and Hit OpenAI, Grafana, and Mistral"
-summary: "A 18-minute window was all threat group TeamPCP needed. A malicious version of Nx Console 18.95.0 compromised a GitHub employee's device and exfiltrated approximately 3,800 internal repositories. Confirmed downstream victims include OpenAI, Grafana Labs, and Mistral AI—all traced to a TanStack npm supply chain compromise two weeks prior."
+summary: "A brief window was all threat group TeamPCP needed. A malicious version of Nx Console 18.95.0 compromised a GitHub employee's device and exfiltrated approximately 3,800 internal repositories. OpenAI, Grafana Labs, and Mistral AI were also hit, in a TanStack npm supply chain compromise that began on May 11."
 category: "developer-tools"
 publishedAt: 2026-05-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -32,13 +33,13 @@ relatedSlugs:
   - "2026-05-16-gitlab-agentic-era-restructuring-en"
 ---
 
-On the morning of May 18, 2026, a version number change in one of the most popular VS Code extensions set off a supply chain incident that will define developer security conversations for years. Nx Console version 18.95.0 was live on the Visual Studio Marketplace for just 18 minutes before Microsoft's security team pulled it. For TeamPCP, the threat group that orchestrated the operation, 18 minutes was enough.
+On the morning of May 18, 2026, a version number change in one of the most popular VS Code extensions set off a supply chain incident that will define developer security conversations for years. Nx Console version 18.95.0 was live on the Visual Studio Marketplace for only a short time on May 18 before it was removed. For TeamPCP, the threat group that orchestrated the operation, 18 minutes was enough.
 
 By the time version 18.95.0 was removed, the damage was done. GitHub—itself a subsidiary of Microsoft—disclosed on May 19 that approximately 3,800 of its internal source code repositories had been exfiltrated. In the days that followed, confirmed downstream victims expanded to include OpenAI, Grafana Labs, and Mistral AI.
 
 ## The Anatomy of a Multi-Stage Attack
 
-Understanding how TeamPCP pulled this off requires rewinding to May 11, two weeks before the extension was published. That day, the group executed a supply chain compromise of 42 TanStack npm packages, injecting a credential-stealing JavaScript payload into 84 malicious versions spread across the npm registry.
+Understanding how TeamPCP pulled this off requires rewinding to May 11, a week before the extension was published. That day, the group executed a supply chain compromise of 42 TanStack npm packages, injecting a credential-stealing JavaScript payload into 84 malicious versions spread across the npm registry.
 
 TanStack is a widely used collection of open-source JavaScript utilities—libraries like TanStack Query, TanStack Router, and TanStack Form appear in tens of thousands of production codebases. The poisoned packages were designed with one objective: harvest GitHub credentials stored or accessed through the GitHub CLI (gh). Among the tens of thousands of developers affected by that initial compromise was a legitimate contributor to the Nx Console project.
 
@@ -64,19 +65,19 @@ Nx Console had over 2.2 million installs before the incident. Despite the extens
 
 GitHub disclosed the incident publicly on May 19, confirming that an employee's device was compromised by the poisoned extension, and that the resulting access was used to exfiltrate approximately 3,800 internal repositories. GitHub's CISO confirmed that Nx Console was the root cause. The company characterized the 3,800 figure as "directionally consistent" with its ongoing investigation.
 
-The repositories included internal tooling, configuration management code, and infrastructure automation scripts. GitHub emphasized that the breach did not affect the public GitHub platform or customer repositories directly—but the downstream implications were significant. Any secrets or API keys embedded in those internal repositories could provide access to systems far beyond GitHub itself.
+The repositories included internal tooling, configuration management code, and infrastructure automation scripts. GitHub said its assessment was that only GitHub-internal repositories were exfiltrated, and that it had no evidence that customer information stored outside those repositories was affected, though the investigation was ongoing. Any secrets or API keys embedded in those internal repositories could provide access to systems far beyond GitHub itself.
 
-Confirmed downstream victims illustrate the cascading nature of modern supply chain attacks. Developers at OpenAI, Grafana Labs, and Mistral AI who ran VS Code with auto-update enabled received the malicious build during the 18-minute window. The secrets on those machines—credentials to AI training infrastructure, observability platforms, cloud providers—were potentially exposed to the same exfiltration pipeline.
+Confirmed downstream victims illustrate the cascading nature of modern supply chain attacks. OpenAI, Grafana Labs, and Mistral AI were also confirmed as victims, though sources tie their compromises to the TanStack campaign rather than to the Nx Console build.
 
 ## TeamPCP's Fingerprints
 
-The threat group publicly claimed responsibility through posts on a dark web forum, framing the attack as a demonstration of "the inherent fragility of the modern developer supply chain." Security researchers at OX Security, which published one of the earliest technical analyses, identified multiple previous TeamPCP campaigns targeting developer tooling, noting the group's preference for patience: they often wait weeks between initial credential theft and exploitation. The gap between the TanStack compromise on May 11 and the Nx Console publish on May 18 fits that pattern precisely.
+The threat group publicly claimed responsibility through posts on a dark web forum, framing the attack as a demonstration of "the inherent fragility of the modern developer supply chain." Security researchers at OX Security, which published one of the earliest technical analyses, identified multiple previous TeamPCP campaigns targeting developer tooling, noting the group's preference for patience: they often wait weeks between initial credential theft and exploitation. The gap between the TanStack compromise on May 11 and the Nx Console publish on May 18 is consistent with that pattern.
 
 StepSecurity, which issued an independent advisory for the Nx Console compromise, noted that this attack represents an evolution in developer-targeting tactics. Previous supply chain attacks have typically focused on injecting malicious code into libraries used in production deployments. This attack instead targeted the development environment itself—VS Code extensions running with developer-level privileges on machines that hold credentials for every system those developers can reach.
 
 ## The Fix and the Fallout
 
-Nx Console published version 18.95.1 on May 18, immediately after the malicious version was removed. The team issued security guidance urging all developers to rotate credentials, audit their machines for signs of compromise, and review any recent deployments or CI/CD pipeline outputs for anomalous activity.
+The Nx team released updated versions of the extension, v18.100.0 and later, to remediate the issue. The team issued security guidance urging all developers to rotate credentials, audit their machines for signs of compromise, and review any recent deployments or CI/CD pipeline outputs for anomalous activity.
 
 Microsoft announced plans to implement real-time behavioral analysis for VS Code Marketplace extension updates—a capability that would have caught the malicious payload before distribution. The Marketplace had previously relied primarily on static analysis and publisher reputation signals, a posture that proved inadequate against a compromised legitimate maintainer account.
 
@@ -89,3 +90,5 @@ The Nx Console incident follows a pattern that security researchers have been wa
 The fact that a 2.2-million-install extension could be compromised and weaponized, have a malicious version published, and breach GitHub's internal codebase in a window of 18 minutes serves as a stark demonstration of how quickly supply chain attacks can move once the initial foothold is established.
 
 GitHub has not commented on whether any of the stolen repository contents have been observed in the wild. For enterprises still assessing their exposure, that silence offers little comfort.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

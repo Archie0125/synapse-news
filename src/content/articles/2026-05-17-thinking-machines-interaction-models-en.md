@@ -1,8 +1,9 @@
 ---
 title: "Mira Murati's Thinking Machines Lab Unveils Interaction Models: Full-Duplex AI at 0.4 Seconds"
-summary: "Thinking Machines Lab, the startup founded by former OpenAI CTO Mira Murati, has previewed its debut product: Interaction Models, a native multimodal AI architecture built from scratch for real-time human conversation. The flagship TML-Interaction-Small model responds in 0.4 seconds — matching natural conversational speed — and runs as a 276B-parameter Mixture-of-Experts system with only 12B parameters active at inference."
+summary: "Thinking Machines Lab, the startup founded by former OpenAI CTO Mira Murati, has previewed Interaction Models, a new class of AI designed to process input and generate responses simultaneously. The initial TML-Interaction-Small model claims a response latency of 0.4 seconds, roughly matching natural human conversational speed."
 category: "ai-ml"
 publishedAt: 2026-05-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-04-23-thinking-machines-lab-google-cloud-deal-en"
 ---
 
-Mira Murati spent seven years at OpenAI helping build the technology that reshaped the industry. Since leaving as CTO in late 2024, she has been unusually quiet for someone who raised a record $2 billion seed round before writing a single line of product code. On May 11, the silence broke. Thinking Machines Lab previewed its first product: Interaction Models, an approach to AI that Murati argues is not an iteration on existing voice-mode technology but a ground-up rethink of what it means for a machine to converse.
+Mira Murati spent seven years at OpenAI helping build the technology that reshaped the industry. Since leaving as CTO in 2024, she has been relatively quiet for someone who raised a record $2 billion seed round. Thinking Machines Lab launched a research preview of its new models on Monday. Thinking Machines Lab previewed Interaction Models, a new class of AI designed to process input and generate responses simultaneously rather than sequentially.
 
 ## The Latency Problem, Solved by Architecture
 
@@ -49,11 +50,11 @@ This design choice has significant implications for enterprise use cases. Custom
 
 ## Seventeen Months, $2 Billion, and a Product
 
-The timeline of Thinking Machines Lab is worth appreciating. Murati left OpenAI in late 2024. By July 2025 — less than nine months after founding — the company had completed a $2 billion seed round at a $12 billion valuation, with participation from Andreessen Horowitz, Nvidia, AMD, Cisco, and Jane Street. In March 2026, the company announced a multi-year strategic partnership with Nvidia for one gigawatt of Vera Rubin computing capacity. In April 2026, a multi-billion dollar Google Cloud infrastructure deal followed.
+The timeline of Thinking Machines Lab is worth appreciating. Murati left OpenAI in late 2024. By July 2025, the company had completed a $2 billion seed round at a $12 billion post-money valuation, led by Andreessen Horowitz. In March 2026, the company announced a multi-year strategic partnership with Nvidia for one gigawatt of Vera Rubin computing capacity. In April 2026, a multi-billion dollar Google Cloud infrastructure deal followed.
 
-The capital and compute commitments assembled by a company with no public product represent a bet on Murati's credibility and the team she recruited — a cohort that reportedly includes senior researchers from OpenAI, Google DeepMind, and Meta AI. The Interaction Models preview, released seventeen months after the company's founding, is the first public evidence of what that credibility has been building toward.
+The capital and compute commitments assembled by a company with no public product represent a bet on Murati's credibility and the team she recruited — a cohort that reportedly includes senior researchers from OpenAI, Google DeepMind, and Meta AI.
 
-Limited access to TML-Interaction-Small is being rolled out over the coming months through a waitlist. The company has not announced pricing. A broader public release is expected in the second half of 2026.
+A limited research preview is expected within months. The company has not announced pricing. A broader public release is expected in the second half of 2026.
 
 ## The Competitive Context
 
@@ -62,3 +63,5 @@ Thinking Machines enters a voice AI market that is more crowded in 2026 than it 
 What separates Thinking Machines' positioning from these competitors is the insistence on full-duplex native architecture rather than system-level latency optimization applied to an existing model. Whether that architectural difference translates to a meaningful product advantage at scale is the question the Interaction Models preview raises but does not yet answer.
 
 The more intriguing question is what Murati's team does next. The $12 billion valuation and the infrastructure deals in place suggest they are not building a voice assistant. They are building infrastructure for a new generation of human-AI interaction, with voice as the first surface. The model's name — TML-Interaction-Small — implies a larger sibling is in development. For a company that has been this quiet for this long, the "small" in the name feels like a deliberate understatement.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Google I/O 2026 前瞻：5月19日將揭曉什麼——Gemini 4、Android 17，以及「AI即一切」的全面押注"
-summary: "Google I/O 2026將於5月19至20日在山景城舉行，議程密集：Gemini 4廣受期待、Android 17將對開發者深度揭示，傳聞已久的Aluminium OS——Android與ChromeOS的全面合併——可能正式亮相，同時伴隨Project Astra更新與大規模代理式編程（agentic coding）布局。"
+summary: "Google I/O 2026將於5月19至20日在山景城舉行，預期將公布Android 17的開發者細節，Gemini 4可能亮相，據報導旨在融合ChromeOS與Android的Aluminium OS也可能展示，同時還有Gemini與代理式編程（agentic coding）的相關消息。"
 category: "products"
 publishedAt: 2026-05-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -58,7 +59,7 @@ Android 17的發布基本已成定局。谷歌提前公布部分議程標題，�
 
 I/O 2026最具潛在顛覆性的公告，或許不是某個模型或行動端作業系統更新，而是Aluminium OS——谷歌從頭設計的、以AI為核心的桌面作業系統——的正式亮相。
 
-洩露的職位招聘、基礎架構代碼和開發者文件揭示了一個內部代號ALOS的專案：一個專為筆記型電腦和桌面設計的Android-based作業系統。關鍵在於，這並非在ChromeOS上套一層Android外殼，而是一個從零打造的桌面級平台，目標是直接對標微軟Windows和蘋果macOS。谷歌自身洩露的資料中，該專案被描述為「以Android為基礎」並「以人工智慧為核心構建」。
+洩露的職位招聘、基礎架構代碼和開發者文件揭示了一個內部代號ALOS的專案：一個專為筆記型電腦和桌面設計的Android-based作業系統。谷歌自身洩露的資料中，該專案被描述為「以Android為基礎」並「以人工智慧為核心構建」。
 
 Aluminium OS之所以不只是一次品牌重塑，在於它代表的結構性轉變。ChromeOS長期以來是一個可靠卻有限的平台——擅長Web應用和輕量工作負載，卻不適合需要原生應用支援的創意工作者和企業用戶。以Android為基礎的繼任者，理論上可以原生運行龐大的Android應用生態，同時在作業系統層面將谷歌的雲端與AI服務融入每一次交互之中。在Aluminium OS設備上，Gemini不會是你需要去打開的應用程式，而是嵌入視窗管理器、檔案系統和剪貼板的環境基礎設施。
 
@@ -91,3 +92,5 @@ Android XR——谷歌與三星和高通聯合開發的混合現實平台——�
 Sundar Pichai在5月19日需要傳達的，不僅是谷歌的模型夠好——跑分數據已經支持這一點。他需要傳達的是，谷歌的生態系統——Gemini跨Android、搜尋、雲端和Workspace的整合、開發者工具鏈、端側推斷的故事——賦予了谷歌純粹AI實驗室無法複製的結構性優勢。這正是I/O比其他任何谷歌平台都更適合闡明的論點。
 
 倒數十七天。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

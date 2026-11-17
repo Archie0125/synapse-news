@@ -1,8 +1,9 @@
 ---
 title: "Apple's Secret AI Server Chip Gets a Glass Upgrade — and Samsung Is Supplying It"
-summary: "Apple is advancing development of its first custom AI server chip, codenamed Baltra, while Samsung Electro-Mechanics has begun supplying experimental glass substrate samples for packaging. The collaboration marks Apple as the last major tech hyperscaler to build its own AI silicon, while the glass substrate technology represents a potential generational leap in chip packaging that could reshape AI hardware economics in the 2027–2028 timeframe."
+summary: "Apple is developing its first custom AI server chip, codenamed Baltra, with Broadcom, while Samsung Electro-Mechanics has reportedly supplied glass substrate samples to Apple since last year. Mass production of the glass substrates is targeted after 2027."
 category: "hardware"
 publishedAt: 2026-04-09T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,9 +33,9 @@ relatedSlugs:
   - "2026-04-04-amd-mi300x-enterprise-en"
 ---
 
-Apple has spent the past several years making M-series chips that have reshaped the laptop and desktop markets. Its next challenge — and arguably its most strategically consequential hardware project — is building a chip that can power AI inference at the scale of iCloud, Siri, and Apple Intelligence for a billion-plus users without paying Nvidia for every computation. New reporting this week reveals that Apple's effort to cross that line has accelerated, with Samsung Electro-Mechanics now supplying glass substrate samples for what could become the packaging foundation of Apple's first custom AI server chip.
+Apple has spent the past several years making M-series chips that have reshaped the laptop and desktop markets. Its next challenge — and arguably its most strategically consequential hardware project — is building a chip that can power AI inference at the scale of iCloud, Siri, and Apple Intelligence for a billion-plus users without paying Nvidia for every computation. Reporting this week says Samsung Electro-Mechanics has supplied glass substrate samples to Apple, which it has reportedly been providing since last year.
 
-The chip, codenamed Baltra, has been in development for roughly two years. It is being co-designed with Broadcom — whose networking expertise covers the interconnect fabric critical for AI server deployments — and is targeted for manufacture at TSMC's N3P process node, the same advanced 3-nanometer generation used by Nvidia and OpenAI's first custom silicon. A team of Apple engineers based in Israel, in the company's R&D center northeast of Tel Aviv, is leading the design effort. Servers using Baltra are expected to begin deployment in 2027.
+The chip, codenamed Baltra, has been in development for roughly two years. It is being developed with Broadcom and is expected to be manufactured by TSMC, with one report pointing to TSMC's 3nm N3E process. A team of Apple engineers based in Israel, in the company's R&D center northeast of Tel Aviv, is leading the design effort. Servers using Baltra are expected to begin deployment in 2027.
 
 ## Why Glass Substrates Matter
 
@@ -46,7 +47,7 @@ Glass substrates solve this by replacing the organic core with glass, which has 
 
 Samsung Electro-Mechanics is now running a pilot glass substrate production line at its Sejong facility in South Korea. Mass production is not targeted until after 2027. But the supply of experimental samples to Apple is a meaningful signal: it suggests Apple is evaluating glass substrates not just as a commodity material to buy, but as a potential design-in for future AI chip packages — either for Baltra or for whatever follows it.
 
-Industry observers see the Samsung-Apple engagement serving two purposes simultaneously. In the near term, Apple is almost certainly evaluating packaging material characteristics as an end customer of Broadcom-designed platforms. In the longer term, it may be laying groundwork to design its own server chip packaging using glass substrates when the technology matures for mass production. The distinction matters: the former is procurement due diligence; the latter is a bet on Apple exerting the same vertical integration over AI server packaging that it has historically exerted over device chips.
+Industry observers see the Samsung-Apple engagement serving two purposes simultaneously. In the near term, Apple may be assessing packaging material characteristics for Broadcom-based platforms as an end customer. In the longer term, it may be laying groundwork to design its own server chip packaging using glass substrates when the technology matures for mass production. The distinction matters: the former is procurement due diligence; the latter is a bet on Apple exerting the same vertical integration over AI server packaging that it has historically exerted over device chips.
 
 ## The Last Hyperscaler to Build Its Own
 
@@ -65,3 +66,5 @@ Apple entering the custom AI server chip market will have ripple effects across 
 For Nvidia, Apple's move is not an immediate threat — Baltra is internal infrastructure, not a product sold to Nvidia's customers. But it represents one more large-scale inference workload migrating away from Nvidia silicon as hyperscalers bring AI compute in-house. The trend is structural: every major cloud provider is now on a path toward custom AI silicon, and Nvidia's share of the inference market will be contested from an increasing number of directions.
 
 The Baltra program is, in Apple's characteristically quiet way, one of the most consequential bets the company is making. If it succeeds — and Apple's silicon track record over the past decade makes skepticism difficult to sustain — it will mean that by the time Apple Intelligence reaches its full intended scope, the compute infrastructure underpinning it will be as proprietary as the device it runs on.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

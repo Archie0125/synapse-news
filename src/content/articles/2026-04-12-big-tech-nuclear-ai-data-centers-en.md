@@ -3,6 +3,7 @@ title: "Big Tech Puts Its Money Behind Nuclear: How AI's Power Hunger Is Revivin
 summary: "Microsoft, Meta, Amazon, and Google have collectively committed to sourcing tens of gigawatts of nuclear power for their AI data centers, transforming hyperscalers from energy consumers into financiers of next-generation reactors. The deals — spanning restarted plants, life extensions, and small modular reactors from TerraPower, Oklo, and Kairos Power — signal that AI's electricity demand has permanently reshaped the energy investment landscape."
 category: "industry"
 publishedAt: 2026-04-12T09:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -35,17 +36,17 @@ relatedSlugs:
 
 As recently as 2021, energy analysts were writing obituaries for nuclear power. Aging plants were shutting down, construction costs were ballooning, and cheap natural gas was winning on economics. Then came the large language model. Today, four of the world's largest technology companies have collectively committed to sourcing tens of gigawatts of nuclear capacity — enough to power tens of millions of homes — to run their AI infrastructure. The obituary has been shelved.
 
-The tipping point arrived in earnest over the first months of 2026, as a wave of deals between hyperscalers and nuclear energy companies closed and became public. On April 10, a new report confirmed that big tech is now going beyond signing power-purchase agreements to becoming active financiers of physical energy infrastructure — providing capital to help build, extend, and certify nuclear plants that might otherwise never break ground.
+The tipping point arrived in earnest over the first months of 2026, as a wave of deals between hyperscalers and nuclear energy companies closed and became public.
 
 ## The Deals Reshaping the Nuclear Landscape
 
 **Microsoft** signed what was described as the largest corporate nuclear agreement in history with Constellation Energy: a commitment to purchase roughly 2 gigawatts of nuclear power through 2040. The cornerstone of that arrangement is the restart of Three Mile Island Unit 1 in Pennsylvania — the plant famously adjacent to the 1979 accident site — which Constellation expects to bring back online by 2027, delivering 835 megawatts directly to Microsoft's data center grid. The deal gave Constellation the commercial certainty it needed to invest hundreds of millions of dollars in safety upgrades for the dormant reactor.
 
-**Meta** went further, executing a trifecta of nuclear commitments that amounts to 6.6 gigawatts of clean power by 2035 — enough electricity to serve roughly five million American homes. The deals span Vistra's Ohio and Pennsylvania nuclear plants (life extension and uprate funding), TerraPower's Natrium advanced reactor projects (financing two initial units with options on six more), and Oklo's microreactor campus in Ohio (1.2 gigawatts of future capacity). Combined with an earlier 20-year agreement with Constellation's Clinton Clean Energy Center in Illinois, Meta has become one of the most consequential corporate purchasers of nuclear energy in American history.
+**Meta** went further, announcing agreements with Vistra, Oklo and TerraPower that could unlock up to 6.6 gigawatts of clean energy by 2035. The deals span Vistra's Ohio and Pennsylvania nuclear plants (life extension and uprate funding), TerraPower's Natrium advanced reactor projects (funding two initial units with rights to up to six more), and Oklo's advanced nuclear technology campus in Ohio (up to 1.2 gigawatts of capacity). Combined with an earlier 20-year agreement with Constellation's Clinton Clean Energy Center in Illinois, Meta has become one of the most consequential corporate purchasers of nuclear energy in American history.
 
-**Amazon** secured commitments with X-energy, a developer of high-temperature gas-cooled reactors, targeting more than 5 gigawatts of nuclear capacity by 2039. The company also separately locked in 1.5 gigawatts of dedicated solar capacity in Texas, making clear that its grid strategy involves a diversified clean energy mix, not a single bet.
+**Amazon** is working with X-energy to bring online more than 5 gigawatts of small modular reactors in the U.S. by 2039. The company also separately locked in 1.5 gigawatts of dedicated solar capacity in Texas, making clear that its grid strategy involves a diversified clean energy mix, not a single bet.
 
-**Alphabet (Google)** signed an agreement with Kairos Power to bring a fluoride salt-cooled small modular reactor online by 2030, with options for follow-on units. Like its peers, Google framed the deal not simply as energy procurement but as a catalyst for commercializing nuclear technology that needs an anchor customer to clear regulatory and financing hurdles.
+**Alphabet (Google)** signed an agreement with Kairos Power, aiming to bring its first small modular reactor online by 2030. Like its peers, Google framed the deal not simply as energy procurement but as a catalyst for commercializing nuclear technology that needs an anchor customer to clear regulatory and financing hurdles.
 
 ## Why Nuclear, and Why Now
 
@@ -57,9 +58,9 @@ That gridlock has pushed tech companies to go upstream. Rather than wait for uti
 
 ## The Small Modular Reactor Bet
 
-The most forward-looking aspect of these deals is the commitment to small modular reactors — nuclear plants that are factory-built in standardized modules, then assembled on-site. SMRs are not yet commercially proven at scale. TerraPower's Natrium design, backed by Bill Gates, and Oklo's compact microreactor, backed by Sam Altman, are both still working through the Nuclear Regulatory Commission's approval process. X-energy and Kairos Power are in similar positions.
+The most forward-looking aspect of these deals is the commitment to small modular reactors — nuclear plants that are factory-built in standardized modules, then assembled on-site. SMRs are not yet commercially proven at scale. TerraPower's Natrium design, backed by Bill Gates, and Oklo, backed by Sam Altman, have not yet secured construction permits for their advanced reactors from the Nuclear Regulatory Commission, according to Latitude Media. X-energy and Kairos Power are in similar positions.
 
-What hyperscaler contracts provide is something the SMR industry has never had: a creditworthy customer willing to sign decade-long offtake agreements in advance. Without that, private capital could not confidently underwrite construction. With it, the financing model for first-of-a-kind nuclear projects shifts from the traditional utility rate base — where costs are spread across millions of ratepayers and approved by state regulators — to direct corporate commitments. It is analogous to what Amazon's early AWS commitments did for cloud data center construction in the 2000s: providing the demand certainty that unlocked an entirely new category of infrastructure investment.
+What hyperscaler contracts provide is something the SMR industry has historically lacked: long-term power buyers whose balance sheets can offer revenue certainty and funding. Without that, private capital could not confidently underwrite construction. With it, the financing model for first-of-a-kind nuclear projects shifts from the traditional utility rate base — where costs are spread across millions of ratepayers and approved by state regulators — to direct corporate commitments. It is analogous to what Amazon's early AWS commitments did for cloud data center construction in the 2000s: providing the demand certainty that unlocked an entirely new category of infrastructure investment.
 
 "We are moving from being customers to being partners in building out the energy infrastructure the country needs," a senior Microsoft energy executive told Fortune in February. "The only way these projects get financed is if we step up."
 
@@ -76,3 +77,5 @@ For the nuclear sector, the arrival of hyperscalers as customers represents an u
 The risk, as some analysts note, is that this demand concentration creates fragility. If one or two major tech companies significantly reduced their AI infrastructure buildout — due to a model efficiency breakthrough, a regulatory shift, or a market downturn — the offtake commitments that underpin these projects could be renegotiated, creating stranded cost risk for investors and host communities.
 
 For now, however, the direction of travel is clear. AI's electricity hunger has turned an industry that was quietly fading into one of the most actively financed sectors in energy. The atom and the algorithm have found each other, and the implications for the global electricity grid will take decades to fully understand.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

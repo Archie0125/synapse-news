@@ -1,8 +1,9 @@
 ---
-title: "OpenAI to Build $30 Billion 'Project Camellia' Data Center in Georgia — Its First Self-Designed Campus"
-summary: "OpenAI announced plans to build a massive 3.2-gigawatt data center campus in Effingham County, Georgia, with an initial investment of at least $20 billion and a total cost likely exceeding $30 billion. Project Camellia marks the company's first self-designed and self-built computing facility, part of a revised compute roadmap that now projects $750 billion in total spending through 2030."
+title: "OpenAI Plans $30 Billion-Plus 'Project Camellia' Data Center in Georgia"
+summary: "OpenAI announced plans to build a massive data center campus in Effingham County, Georgia, with 3.2 gigawatts of power secured, an investment of at least $20 billion and a total cost likely exceeding $30 billion. Project Camellia comes as part of a revised compute roadmap that now projects $750 billion in spending through 2030."
 category: "ai-ml"
 publishedAt: 2026-07-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-07-10-openai-jalapeno-broadcom-inference-chip-en"
 ---
 
-OpenAI has unveiled its most ambitious infrastructure project yet: a data center campus in Effingham County, Georgia, that will consume **3.2 gigawatts of electricity** at full capacity and cost well north of **$30 billion** to build out — enough power to theoretically supply roughly 2.4 million U.S. homes, and an investment that rivals the GDP of some small nations.
+OpenAI has unveiled plans for a data center campus in Effingham County, Georgia, backed by **3.2 gigawatts of electricity** secured from Georgia Power and a cost that would exceed **$30 billion** if built to full scale.
 
-Dubbed **Project Camellia**, the facility represents a qualitative shift in OpenAI's infrastructure posture. Until now, the company has relied on partnerships with Microsoft Azure and other hyperscale cloud providers to supply the computational horsepower it needs to train and serve its models. Project Camellia is its first attempt to design and build compute infrastructure from scratch — owning the land, the buildings, the power contracts, and the cooling systems rather than renting them.
+Dubbed **Project Camellia**, the facility represents a qualitative shift in OpenAI's infrastructure posture. Until now, the company has relied on partnerships with Microsoft Azure and other hyperscale cloud providers to supply the computational horsepower it needs to train and serve its models. With Project Camellia, OpenAI says it will independently design and develop the data center itself, taking a larger role than it has as a cloud tenant.
 
 ## Scale and Location
 
@@ -63,9 +64,7 @@ Third, there is strategic independence. Microsoft has historically been OpenAI's
 
 The announcement was not without friction. Utility rate increases and environmental concerns associated with the AI data center buildout wave have generated growing opposition from local communities across the United States.
 
-OpenAI moved pre-emptively to address these concerns at Effingham County, committing to a series of specific pledges: paying full electricity costs and infrastructure expenses rather than seeking subsidies, reducing power draw during peak grid demand periods, implementing closed-loop cooling systems designed to minimize water consumption, contributing hundreds of millions of dollars in state and local taxes, and commissioning independent third-party audits of all environmental commitments.
-
-The last point is particularly unusual — it signals that OpenAI is aware that the credibility of corporate pledges in the AI infrastructure wave has been eroding, and is attempting to differentiate its approach with verifiable accountability mechanisms.
+OpenAI said it will pay the full cost of the Georgia facility's electricity and supporting infrastructure, reduce power consumption during periods of high demand, use a closed-loop cooling system to limit water usage, pay hundreds of millions of dollars in state and local taxes and commission an independent audit of its commitments.
 
 ## Context: The Enterprise Platform Play
 
@@ -80,3 +79,5 @@ OpenAI's Georgia announcement comes as every major hyperscaler is racing to secu
 The aggregate effect is a multi-trillion-dollar bet on physical infrastructure concentrated in a span of a few years — a construction boom with few historical precedents outside of wartime mobilization.
 
 Whether the revenue to justify that spend materializes on schedule remains the central uncertainty of the current AI era. But Project Camellia makes clear that OpenAI, at least, is willing to bet its balance sheet on it.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Android 17 將 Gemini Omni 嵌入作業系統層，Google 把行動平�
 summary: "Google 於 6 月 16 日發布 Android 17，將 Gemini Omni 以作業系統基礎設施的形態內建，而非以 App 形式提供。本次更新帶來 Lyria 3 音樂生成、AudioLM 語音翻譯、新的 App Functions 框架，以及能跨 App 在背景執行任務的 Gemini Intelligence 代理層。"
 category: "products"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -37,7 +38,7 @@ Google 為 Android 17 選擇的敘事框架意圖明確：Gemini 是作業系統
 
 過去在 Android 上的 Gemini 透過 App 更新交付——是一個疊加在作業系統之上的獨立層，需要用戶主動喚起才能使用。Android 17 改變了這一切。Google 為內建於 OS 的 AI 能力套件總稱「Gemini Intelligence」，以系統層級子層（system-level sub-layer）的形態運作。它在後台持續執行，能存取跨 App 的上下文，並可透過 Google 全新的 App Functions 框架在已登錄的第三方 App 中執行操作——即使那些 App 並非在前台執行。
 
-對用戶而言，這意味著 Gemini 現在可以跨 App 完成多步驟任務。對 Gemini 說「從[App 名稱]訂我的老樣子」，系統可以找到 App 已登錄的功能、擷取參數並執行訂單，用戶甚至不需要打開那個 App。說「把這段影片剪成 90 年代風格存到相簿」，Gemini Omni 就能在 OS 層操作媒體檔案。
+目前 AppFunctions 與 Gemini 的整合仍處於僅限受信任測試者參與的私人預覽階段，因此跨 App 功能尚未全面開放。說「把這段影片剪成 90 年代風格存到相簿」，Gemini Omni 就能在 OS 層操作媒體檔案。
 
 對開發者而言，這個訊號更為直接：未登錄 App Functions 的 App，對 Gemini 代理人而言形同隱形。在 Gemini 日益成為用戶與手機互動的環境介面的生態中，「對 Gemini 不可見」可能意味著真實的流量分發劣勢。
 
@@ -49,7 +50,7 @@ Google 為 Android 17 選擇的敘事框架意圖明確：Gemini 是作業系統
 
 **AudioLM 語音翻譯。** 在 Pixel 10a 及後續機型上，AudioLM 提供即時語音對語音翻譯，並能保留說話者的音調、語速和聲紋等特徵跨語言呈現。舊有翻譯工具能處理語言轉換，但輸出聲音機械且千篇一律。AudioLM 的方法更接近配音，而非轉錄。
 
-**App Functions 框架。** 這是支撐代理行為的開發者架構。App 透過一個 Jetpack 函式庫將特定功能（「下訂單」、「搜尋庫存」、「查詢最新交易」）對外暴露，並對應至 Google 的 App Functions 平台 API。Gemini 代理人可以發現這些功能並以擷取的參數呼叫它們。Google 將其描述為讓 App「扮演裝置端 MCP 伺服器」——借用了已成為 AI 代理生態連接標準的 Model Context Protocol 語言。
+**App Functions 框架。** 這是為代理行為而設計的開發者架構：一套 Android 平台 API，並搭配 Jetpack 函式庫，以簡化 Android MCP 整合的開發。App 可將特定功能（「下訂單」、「搜尋庫存」、「查詢最新交易」）對外暴露，並對應至 Google 的 App Functions 平台 API。目前 AppFunctions 與 Gemini 的整合仍處於僅限受信任測試者參與的私人預覽階段，開發者可報名參加 Early Access Program 開始試用。Google 將其描述為讓 App「扮演裝置端 MCP 伺服器」——借用了已成為 AI 代理生態連接標準的 Model Context Protocol 語言。
 
 **Android AI Core API。** 第三方開發者透過這個 API 以程式化方式存取裝置端的 Gemini Nano，實現零邊際成本的 AI 推理，不需要呼叫雲端伺服器。這對隱私和延遲都有重大意義：過去必須離開裝置才能處理的敏感查詢，現在可以完全在本地完成。
 
@@ -72,3 +73,5 @@ Google 的文件揭示，Gemini Intelligence 最強大的代理功能（包括�
 Android 17 是 Google 迄今對其 AI 時代平台論述最清晰的一次表達：在 AI 領域，最持久的護城河不是最好的模型，而是最深度整合進人們實際花費時間的介面之中。這個論述能否成立，取決於用戶究竟想不想要一個主動跨 App 行動的環境 AI，還是更傾向於主動呼叫的互動模式。
 
 早期的參與數據顯示 Google 的押注正在落地。它是否最終能產生足以支撐投入的商業回報，以及是否會迫使 Apple、微軟和三星以相似的 OS 層 AI 架構回應，將是未來 18 個月需要觀察的問題。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

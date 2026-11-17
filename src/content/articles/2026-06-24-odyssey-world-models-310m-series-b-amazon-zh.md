@@ -3,6 +3,7 @@ title: "Odyssey完成3.1億美元B輪融資、估值14.5億：讓AI學會物理�
 summary: "世界模型新創Odyssey完成由Natural Capital領投、Amazon、AMD Ventures與Google Ventures跟投的3.1億美元B輪融資，估值達14.5億美元，累計融資3.37億美元。由自動駕駛老將創立的Odyssey押注AI的下一個前沿不是語言，而是物理——能夠以準確因果關係模擬現實世界的AI，為機器人、互動影片和遊戲創作帶來突破。"
 category: "startups"
 publishedAt: 2026-06-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -47,7 +48,7 @@ Odyssey的CEO奧利弗·卡梅隆（Oliver Cameron）曾是自動駕駛卡車公
 
 ## AWS為首選雲端，Trainium是那個大賭注
 
-這次融資伴隨著一項戰略基礎設施承諾：Amazon Web Services將成為Odyssey的首選雲端供應商，公司將優化其模型以在AWS的**Trainium**晶片上運行——這是Amazon定位為挑戰Nvidia資料中心統治地位的主力自研晶片。
+這次融資伴隨著一項戰略基礎設施承諾：Amazon Web Services將成為Odyssey的首選雲端供應商，公司將優化其模型以在AWS的**Trainium**晶片上運行，這是與Nvidia AI晶片競爭的產品。
 
 這在當前競爭格局下是一次有意義的押注。Trainium 2以及即將到來的Trainium 3，代表AWS在爭奪歷來由Nvidia H100和B200 GPU主導的AI訓練工作負載方面最積極的努力。Odyssey承諾進行Trainium優化，為Amazon提供了一個高知名度的前沿訓練工作負載可行性案例，同時Odyssey也可能獲得AWS算力資源的優先訪問和更優惠的費率。
 
@@ -76,3 +77,5 @@ Odyssey並非孤例。Google DeepMind的Genie及其後繼者、Meta的V-JEPA系�
 帶著3.1億美元的新資本，Odyssey的即期優先事項是擴大訓練規模、擴充團隊，以及深化AWS合作夥伴關係，在生產規模上部署Trainium優化的推論。公司尚未公布具體的產品上市時間線，但表示機器人應用距離商業化最近。
 
 世界模型論題的真正考驗，將在Odyssey的系統被部署到真實機器人環境和互動應用中時到來——當問題從「你能模擬物理學嗎？」轉變為「你能把物理學模擬得足夠好，以便對真實任務有實際意義嗎？」在這個問題上，Odyssey已獲得Amazon、Google、AMD以及AI領域一些最受尊重的實踐者的關注。在市場的物理法則最終宣告裁決之前，這份信任也許正是3.1億美元最重要的購買。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

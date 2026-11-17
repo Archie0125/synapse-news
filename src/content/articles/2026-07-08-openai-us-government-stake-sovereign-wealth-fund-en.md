@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Proposes 5% Equity Stake to U.S. Sovereign Wealth Fund in Bold Political Gambit"
-summary: "OpenAI CEO Sam Altman has pitched giving the U.S. government a 5% equity stake—worth roughly $42.6 billion—through a proposed sovereign wealth fund, as the company seeks to defuse mounting political pressure. The deal could set a precedent forcing rivals like Anthropic, Google, and Meta to follow suit, reshaping how Washington relates to the AI industry. Talks remain preliminary and likely require congressional approval."
+summary: "OpenAI CEO Sam Altman has pitched giving the U.S. government a 5% equity stake—worth roughly $42.6 billion—through a proposed sovereign wealth fund, as the company seeks to defuse mounting political pressure. The proposal envisions rivals like Anthropic, Google, and Meta ceding similar stakes, though it is unclear whether they would agree. Talks remain preliminary and likely require congressional approval."
 category: "policy"
 publishedAt: 2026-07-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -31,11 +32,11 @@ The proposal, first reported by the Financial Times in early July, is not merely
 
 ## The Mechanics of the Deal
 
-On paper, the structure is relatively straightforward. OpenAI would transfer 5% of its equity—equivalent to approximately $42.6 billion based on the company's recent $965 billion valuation following its $65 billion Series H—to a federal sovereign wealth fund managed by or under the supervision of the U.S. Treasury. The fund's logic mirrors that of the Alaska Permanent Fund, established in 1976 to convert surplus oil revenues into permanent public wealth. In Altman's version, the resource being monetized is the AI boom itself.
+On paper, the structure is relatively straightforward. OpenAI has proposed transferring 5% of its equity, worth roughly $42.6 billion based on the $852 billion post-money valuation from its record-breaking March funding round, to a U.S. sovereign wealth fund. The fund's logic mirrors that of the Alaska Permanent Fund, established in 1976 to convert surplus oil revenues into permanent public wealth. In Altman's version, the resource being monetized is the AI boom itself.
 
 Two possible structures are being discussed. In one, OpenAI issues shares directly to the fund. In a broader variant, OpenAI contributes to an industry-wide vehicle in which Anthropic, Google, and Meta participate on similar terms, creating a diversified portfolio of equity stakes across America's leading AI developers.
 
-Senator Bernie Sanders has engaged in conversations with Altman on the proposal and pushed for a considerably more expansive version: a 50% stake in all major AI companies. Most observers regard that figure as politically untenable, but it signals the ideological range within which any congressional debate would unfold—and puts Altman's 5% offer in the context of a genuine negotiating floor rather than a ceiling.
+Senator Bernie Sanders has proposed a more aggressive version in June: a one-time 50% tax on the stock of AI companies, with the collected shares deposited into a public wealth fund. Most observers regard that figure as politically untenable, but it signals the ideological range within which any congressional debate would unfold—and puts Altman's 5% offer in the context of a genuine negotiating floor rather than a ceiling.
 
 ## Why OpenAI Needs Washington on Its Side
 
@@ -65,7 +66,7 @@ For smaller AI startups and open-source developers, the implications are murkier
 
 ## What Happens Next
 
-For now, Altman's proposal remains a trial balloon. No legislation has been introduced. No equity has been transferred. Anthropic, Google, and Meta have each declined to comment on whether they would participate in a similar arrangement.
+For now, Altman's proposal remains a trial balloon. The White House, OpenAI, Google and Meta did not respond to CNBC's requests for comment, and a source said the Trump administration and Anthropic have not discussed the government taking stakes in the company.
 
 The path to any legislative action runs through a deeply divided Congress with limited appetite for complex new regulatory frameworks, especially ones that could be characterized as partial nationalization of private industry. Sources familiar with the discussions stress that the framework could still shift significantly before anything is formalized.
 
@@ -74,3 +75,5 @@ But the proposal has already changed the Overton window of what is politically t
 For investors and policy watchers, the critical risk is not necessarily that the proposal succeeds in its current form, but that it generates regulatory momentum that changes the political math on AI investment regardless of whether any equity actually changes hands. The moment governments begin treating AI companies as public utilities or strategic national assets—rather than pure commercial enterprises—the rules of the game shift in ways that are very difficult to reverse.
 
 Sam Altman appears to be betting that giving Washington a financial stake in OpenAI's success is cheaper, in the long run, than fighting a government that feels left out of the most transformative technological shift in a generation. Whether that bet pays off will be one of the defining policy questions of 2026 and beyond.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

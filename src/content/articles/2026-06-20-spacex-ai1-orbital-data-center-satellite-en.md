@@ -1,8 +1,9 @@
 ---
 title: "SpaceX Unveils AI1 Satellite: The World's First Orbital Data Center, Wider Than a Boeing 747"
-summary: "SpaceX revealed its AI1 orbital AI compute satellite spanning 70 meters tip-to-tip and delivering 120 kW of sustained compute from low Earth orbit. The announcement, timed to the company's landmark IPO roadshow, targets one gigawatt of orbital AI compute by late 2027 and could fundamentally reshape where AI inference happens."
+summary: "SpaceX publicly detailed its plan to put AI computing into orbit on solar-powered satellites carrying computer chips. The plans, released ahead of the company's historic IPO, target one gigawatt of orbital AI compute by the end of 2026."
 category: "hardware"
 publishedAt: 2026-06-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -49,15 +50,15 @@ SpaceX engineer Ian Dahl characterized the AI1 as simpler than the Starlink V3 b
 
 Behind the AI1 hardware is an even more ambitious supply chain buildout.
 
-SpaceX has disclosed Terafab, a semiconductor fabrication plan jointly developed with Tesla, targeting radiation-hardened chips specifically designed for the orbital compute environment. CFO Bret Johnsen confirmed that longer-term AI1 variants will rely on Terafab silicon rather than commercial Nvidia hardware. SpaceX has projected approximately $55 billion in investment to build out the Terafab initiative, though the timeline extends well into the 2030s.
+SpaceX has disclosed Terafab, a proposed chip manufacturing facility, and has agreed with Tesla on a general framework for it. CFO Bret Johnsen confirmed that longer-term AI1 variants will rely on Terafab silicon rather than commercial Nvidia hardware. SpaceX's S-1 filing says it has agreed with Tesla only on a "general framework" for Terafab, with no timeline, no budget and no binding deal.
 
-Closer to operational reality is Gigasat, a planned manufacturing complex on approximately 1,000 acres in Bastrop County, Texas. At full buildout, the facility could encompass up to 11 million square feet of manufacturing space — larger than any existing semiconductor fab in the United States. A semiconductor packaging operation at the Bastrop campus began equipment installation in April 2026 and is targeting production readiness by end of year.
+The proposed Terafab chip manufacturing facility is planned for the Gibbons Creek Reservoir site in Grimes County, Texas. SpaceX publicly pitched Terafab as a potential 100 million square foot operation. A semiconductor packaging operation at the Bastrop campus began equipment installation in April 2026 and is targeting production readiness by end of year.
 
-SpaceX has set an audacious scale target: one gigawatt of operational orbital AI compute by late 2027, scaling toward 100 gigawatts within three-and-a-half years. Even the near-term milestone would represent a meaningful fraction of the AI compute capacity that major hyperscalers currently operate on the ground — all of it powered by sunlight rather than strained power grids.
+SpaceX says it is targeting one gigawatt of orbital AI compute by the end of 2026, scaling to 100 gigawatts within three-and-a-half years. Even the near-term milestone would represent a meaningful fraction of the AI compute capacity that major hyperscalers currently operate on the ground — all of it powered by sunlight rather than strained power grids.
 
 ## The IPO Connection
 
-The AI1 reveal was not accidental timing. SpaceX priced its IPO during the week of June 11 under the ticker SPCX on Nasdaq, targeting a valuation of approximately $1.75 trillion and raising around $75 billion — making it one of the largest public offerings in history. The IPO prospectus listed AI1 and orbital compute as a core growth pillar distinct from the Starlink satellite internet business, which already runs at meaningful profit margins.
+The AI1 reveal was not accidental timing. SpaceX's IPO goes public on Friday under the ticker SPCX on Nasdaq, targeting a valuation of $1.77 trillion, which would make it the largest stock offering in American history. The IPO prospectus listed AI1 and orbital compute as a core growth pillar distinct from the Starlink satellite internet business, which already runs at meaningful profit margins.
 
 The company's 2025 revenue of $18.7 billion came primarily from launch services and Starlink subscriptions, alongside a $4.94 billion net loss reflecting heavy reinvestment. But SpaceX is framing the orbital compute opportunity as a new category that leverages the same rockets, satellite manufacturing capabilities, and constellation management infrastructure that Starlink requires — turning sunk costs into scalable margin on a second revenue line.
 
@@ -86,3 +87,5 @@ Whatever the operational challenges, SpaceX's entry into orbital AI compute chan
 Prototype AI1 units are scheduled for launch in early 2027, with commercial deployment and volume production following through that year. If SpaceX's manufacturing cadence even approaches what it achieved with Starlink V2 Mini satellites — more than a hundred per Falcon 9 launch — the orbital compute buildout could scale faster than any comparable ground-based infrastructure campaign in history.
 
 The sky, it turns out, is not the limit. It is the address.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

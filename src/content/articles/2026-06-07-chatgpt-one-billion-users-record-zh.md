@@ -1,8 +1,9 @@
 ---
 title: "ChatGPT達10億月活躍用戶：史上擴張最快的應用程式，商業化壓力同步升溫"
-summary: "根據市場研究機構Sensor Tower估算，ChatGPT於2026年5月突破10億月活躍用戶，從2022年11月上線至今約三年，成為人類歷史上擴張至此規模最快的應用程式，超越TikTok、Instagram、YouTube與Google Maps。龐大用戶基礎背後，OpenAI如何將流量轉化為可持續商業模式，仍是業界關注焦點。"
+summary: "根據Sensor Tower估算，ChatGPT於五月突破10億月活躍App用戶，距離上線約三年，成為史上最快達到此里程碑的應用程式。這個數字為估算值，OpenAI仍面臨將龐大用戶群轉化為可持續商業模式的挑戰。"
 category: "ai-ml"
 publishedAt: 2026-06-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -29,7 +30,7 @@ relatedSlugs:
 
 2026年春天，ChatGPT悄悄跨越了一道任何消費者應用程式都未曾這麼快抵達的門檻：10億月活躍用戶。根據市場情報機構Sensor Tower的估算，OpenAI的AI助理在2026年5月突破這個數字——距離其2022年11月上線，大約三年時間——成為有史以來最快達到這一里程碑的應用程式。
 
-對照組令人印象深刻：TikTok花了五年，Instagram花了六年，YouTube與Google Chrome各自花了約七年，Google Maps則耗費將近十年。ChatGPT用了三年。
+對照組令人印象深刻：據Sensor Tower表示，Google Maps、Chrome、YouTube、Messenger與TikTok達到10億月活躍用戶，各自花了五到八年。ChatGPT用了三年。
 
 ## 成長數字背後
 
@@ -72,3 +73,5 @@ relatedSlugs:
 它沒有告訴我們的是：OpenAI是否建立了適合下一個十年的商業模式；ChatGPT與競爭對手之間現有的品質差距是否能夠延續；2026年的10億月活躍用戶，是否能轉化為Alphabet和Meta用各自十億用戶產品所構建的那種持久市場地位。
 
 從零到十億用戶，三年，這是驚人的成就。更難的問題——這個用戶基礎能否成為同等驚人商業版圖的地基——答案，還在書寫之中。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

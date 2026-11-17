@@ -1,8 +1,9 @@
 ---
 title: "The $134 Billion AI Trial: OpenAI vs. Elon Musk Heads to Court on April 27"
-summary: "Jury selection in Elon Musk's lawsuit against OpenAI begins April 27 in Oakland, California. Musk is seeking up to $134 billion in alleged wrongful gains and demanding the removal of CEO Sam Altman, while OpenAI accuses him of a last-minute 'legal ambush' that dramatically expanded the case's scope just weeks before trial."
+summary: "Jury selection in Elon Musk's lawsuit against OpenAI begins April 27 in Oakland, California. Musk is seeking up to $134 billion in alleged wrongful gains and the removal of CEO Sam Altman, while OpenAI accuses him of a last-minute 'legal ambush' ahead of trial."
 category: "policy"
 publishedAt: 2026-04-14T09:25:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -38,7 +39,7 @@ OpenAI has responded with fury, calling the eleventh-hour expansion of Musk's de
 
 The backstory is well-known in the tech world by now, but it bears recounting as trial approaches. Musk was a co-founder and early donor of OpenAI when it was established in 2015 as a nonprofit research laboratory. His donations were made, he claims, under the explicit promise that the company would remain dedicated to its public mission of ensuring that artificial general intelligence benefited all of humanity—not shareholders.
 
-OpenAI's relationship with Musk soured well before he formally departed from its board in 2018. He later founded xAI and its Grok model as a competing venture, and filed his original lawsuit in February 2024. Over the intervening two years, the case has expanded dramatically: new evidence has emerged from private communications, additional defendants have been added, and Musk's lawyers have repeatedly amended the complaint.
+OpenAI's relationship with Musk soured well before he formally departed from its board in 2018. He later founded xAI and its Grok model as a competing venture, and filed his original lawsuit in 2024. Over the intervening two years, the case has expanded dramatically: new evidence has emerged from private communications, additional defendants have been added, and Musk's lawyers have repeatedly amended the complaint.
 
 The most recent amendment, filed in early April 2026, represents the most dramatic expansion yet. Musk's legal team added demands that OpenAI CEO Altman and President Brockman be removed from their roles, that any damages recovered go back to the OpenAI nonprofit rather than to Musk personally, and that the court retain ongoing supervisory authority over future OpenAI transactions. Musk's lawyers framed the leadership removal request as a standard remedy when charity officers fail to execute a public mission.
 
@@ -48,7 +49,7 @@ OpenAI's response has been uncharacteristically combative. In a late-night legal
 
 "This case has always been about Elon generating more power and more money for what he wants," OpenAI said in a public statement. "His lawsuit remains nothing more than a harassment campaign that's driven by ego, jealousy and a desire to slow down a competitor."
 
-OpenAI also separately pressed the court to investigate Musk's activities ahead of trial, claiming that his behavior suggested an intent to disrupt rather than litigate in good faith. The company has characterized Musk's legal efforts as part of a broader pattern—public attacks, attempted hostile acquisition bids, and now expanded lawsuit demands—that collectively amount to an attempt to destabilize OpenAI at a critical moment in its commercial trajectory.
+OpenAI also sent a letter to the California and Delaware attorneys general urging them to investigate what it called "improper and anti-competitive behavior" by Musk and his associates ahead of trial. The company has characterized Musk's legal efforts as part of a broader pattern—public attacks, attempted hostile acquisition bids, and now expanded lawsuit demands—that collectively amount to an attempt to destabilize OpenAI at a critical moment in its commercial trajectory.
 
 ## What's Actually on Trial
 
@@ -73,3 +74,5 @@ The trial also carries unavoidable political dimensions. Musk's xAI directly com
 OpenAI has not been subtle about its interpretation. In shareholder memos and public filings, it has framed Musk's lawsuit as part of a pattern of competitive interference rather than principled nonprofit advocacy—a frame designed to cast his motivations in the least favorable light before jurors.
 
 With jury selection beginning April 27 and trial expected to last several months, the AI industry will be watching every development closely. Whatever the verdict, *Musk v. Altman* has already forced a public reckoning with how the organizations shaping artificial intelligence are governed, accountable, and ultimately controlled.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

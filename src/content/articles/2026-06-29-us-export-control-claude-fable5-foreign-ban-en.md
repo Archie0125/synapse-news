@@ -1,8 +1,9 @@
 ---
-title: "US Government Orders Anthropic to Cut Off All Foreign Nationals from Fable 5 — Anthropic Complies, Pushes Back"
-summary: "On June 12, the US government issued an emergency export control directive ordering Anthropic to immediately suspend access to Claude Fable 5 and Mythos 5 for all foreign nationals worldwide, citing a reported jailbreak method. Anthropic disabled both models globally for all customers to ensure compliance, while publicly arguing the directive sets a dangerous and unworkable precedent for the AI industry."
+title: "US Government Orders Anthropic to Cut Off Foreign Nationals from Fable 5 — Anthropic Complies, Pushes Back"
+summary: "The US government issued an export control directive ordering Anthropic to suspend access to Fable 5 and Mythos 5 for all foreign nationals. Anthropic disabled both models for all customers to ensure compliance, while publicly disagreeing with the decision."
 category: "policy"
 publishedAt: 2026-06-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -33,19 +34,19 @@ relatedSlugs:
   - "2026-06-28-eu-cada-cloud-ai-development-act-en"
 ---
 
-At 5:21 PM Eastern Time on June 12, 2026, Anthropic received a letter from the US government. The directive, citing national security authorities, ordered the company to immediately suspend all access to Claude Fable 5 and Claude Mythos 5 for every foreign national on Earth — whether they were sitting in another country, employed at a US company on a work visa, or working inside Anthropic itself.
+At 5:21 PM Eastern Time on June 12, 2026, Anthropic received a letter from the US government. The directive, citing national security authorities, ordered the company to suspend all access to Fable 5 and Mythos 5 for any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.
 
 By the time most of the world woke up on June 13, both of Anthropic's most capable models were dark.
 
 ## The Directive and the Jailbreak
 
-The government's stated rationale hinged on a reported jailbreak. According to Anthropic's account of the situation, officials told the company that researchers — subsequently identified as being affiliated with Amazon — had discovered a method of bypassing Fable 5's safety guardrails in the cybersecurity domain.
+The letter did not provide specific details of the government's national security concern, but Anthropic understood it to center on a reported jailbreak. According to Anthropic, its understanding is that the government believes it became aware of a method of bypassing, or "jailbreaking," Fable 5. Cybersecurity Dive reported that the directive came after Amazon researchers were reportedly able to circumvent some of Fable 5's guardrails.
 
 The specific technique was, by Anthropic's own description, strikingly mundane: asking the model "to read a specific codebase and fix any software flaws." When invoked in a particular sequence, this apparently prompted Fable 5 to surface vulnerability information that its safety filters were designed to suppress.
 
-Anthropic engineers reviewed the technique and reached a different conclusion than the government did. They characterized it as a "narrow, non-universal jailbreak" that exposed "a small number of previously known, minor vulnerabilities." More pointedly, the company noted that the same underlying capability exists in OpenAI's GPT-5.5 — a model accessible to hundreds of millions of users globally without equivalent restrictions.
+Anthropic engineers reviewed the technique and reached a different conclusion than the government did. They characterized it as a "narrow, non-universal jailbreak" that exposed "a small number of previously known, minor vulnerabilities." More pointedly, the company said the level of capability displayed is widely available from other models, including OpenAI's GPT-5.5.
 
-"Finding a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," Anthropic wrote in its public statement — an argument pointed directly at the inconsistency of singling out Fable 5 when the vulnerability class appeared to be industry-wide.
+"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," Anthropic wrote in its public statement.
 
 ## Why Global Shutdown, Not Just Geofencing
 
@@ -53,7 +54,7 @@ The specific mechanism of the directive created an unusual compliance problem. R
 
 Verifying whether a user inside the United States is a foreign national is not something Anthropic's systems were designed to do. Without robust, real-time citizenship verification across its entire user base — a technical and privacy minefield — the only legally defensible interpretation of the directive was to shut down Fable 5 and Mythos 5 for all customers globally.
 
-Access to all other Claude models — Opus 4.8, Sonnet, Haiku, and earlier versions — remained unaffected. But Fable 5, which Anthropic had launched just three days before the directive arrived, went from general availability to complete inaccessibility in a matter of hours.
+Access to all other Anthropic models, including Opus 4.8, was not affected. But Fable 5, which had been released just that week, was disabled for all customers.
 
 ## What Mythos 5 Is and Why It Was Also Swept Up
 
@@ -81,4 +82,6 @@ For the global AI community, the Fable 5 shutdown raised questions that will out
 
 ---
 
-*Access to Claude Fable 5 and Mythos 5 remains suspended as of publication. Anthropic has stated it is actively working with government officials to resolve the situation and restore access.*
+*Access to Claude Fable 5 and Mythos 5 remains suspended as of publication. Anthropic has said it is working to restore access as soon as possible.*
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

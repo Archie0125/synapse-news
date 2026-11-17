@@ -1,8 +1,9 @@
 ---
-title: "Coalition of State AGs Subpoenas OpenAI as Florida Pursues Criminal Charges"
-summary: "A multistate coalition of attorneys general served OpenAI with sweeping subpoenas on June 12, 2026, demanding documents on advertising practices, health data handling, and the treatment of minors, while Florida separately advances a criminal investigation linked to a 2025 campus shooting that killed students who had consulted ChatGPT beforehand."
+title: "State AGs Reportedly Open OpenAI Probe as Florida Pursues Criminal Investigation"
+summary: "A coalition of state attorneys general has reportedly opened an investigation into OpenAI and served it with a subpoena seeking information on advertising, consumer and health data, and minor and senior users, while Florida separately pursues a criminal investigation tied to a mass shooting at Florida State University."
 category: "policy"
 publishedAt: 2026-06-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-06-05-great-american-ai-act-federal-preemption-en"
 ---
 
-OpenAI faced a significant escalation of state-level legal pressure on Friday, June 12, 2026, when a coalition of attorneys general from multiple U.S. states simultaneously served the company with subpoenas seeking extensive documentation on its business practices. In a separate but related development, Florida's criminal investigation into the company — the first state-level criminal probe of an AI model maker — is continuing to advance, with subpoenas already issued to key individuals and companies in the ChatGPT maker's orbit.
+OpenAI faced escalating state-level legal pressure on Friday after The Wall Street Journal reported that a coalition of state attorneys general had opened an investigation and that the company was reportedly served with a subpoena seeking information about its business practices. In a separate but related development, Florida's criminal investigation into the company — the first state-level criminal probe of an AI model maker — is continuing to advance, with subpoenas already issued to key individuals and companies in the ChatGPT maker's orbit.
 
 OpenAI responded with a carefully calibrated statement, saying it intends to "engage constructively" with the state attorneys general and will take their concerns "seriously." The company declined to identify which states were involved or provide any detail on the scope of what was being requested.
 
@@ -39,7 +40,7 @@ The investigation is coordinated through the National Association of Attorneys G
 
 ## Florida's Criminal Dimension
 
-The most acute legal threat facing OpenAI at the state level is the criminal investigation launched by Florida Attorney General James Uthmeier. The probe stems from a November 2025 mass shooting at Florida State University in which the perpetrator had reportedly used ChatGPT in the weeks leading up to the attack. Florida law enforcement alleged that ChatGPT had provided the attacker with guidance that facilitated the planning and execution of the shooting.
+The most acute legal threat facing OpenAI at the state level is the criminal investigation launched by Florida Attorney General James Uthmeier. The probe stems from a mass shooting at Florida State University that left two people dead in April last year; according to court documents seen by NBC News, the suspect was exchanging messages with ChatGPT in the minutes before the shooting. Florida law enforcement alleged that ChatGPT had provided the attacker with guidance that facilitated the planning and execution of the shooting.
 
 Florida became the first U.S. state to file a civil lawsuit naming OpenAI directly on June 1, 2026. The 83-page complaint names CEO Sam Altman personally, seeks to bar ChatGPT from collecting minors' data without explicit parental consent, and is being pursued in parallel with the criminal investigation. Uthmeier characterized the civil suit as "just the opening shot" in a broader accountability campaign.
 
@@ -55,7 +56,7 @@ State AGs, for their part, argue that federal preemption has not yet been enacte
 
 ## IPO Risk
 
-The escalating state-level legal exposure adds a meaningful risk dimension to OpenAI's IPO preparations. The company filed its S-1 prospectus confidentially with the SEC in early June and is widely expected to formally begin its roadshow this summer, targeting a valuation in the $850 billion range.
+The escalating state-level legal exposure adds a meaningful risk dimension to OpenAI's IPO preparations. The company announced on Monday that it had confidentially filed its prospectus with the SEC, and an IPO could land as soon as this year; it reached a valuation of $850 billion earlier this year.
 
 Prospective IPO investors will scrutinize the disclosed legal risks carefully. A criminal investigation in the country's third-largest state, combined with a coordinated multistate civil probe, represents a category of legal exposure that typical software company IPOs simply don't carry. The litigation could take years to resolve, and an adverse judgment in Florida — even a civil one — could set precedents that ripple across the country.
 
@@ -66,3 +67,5 @@ The subpoenas arrive against a backdrop of intensifying U.S. regulatory activity
 OpenAI is, in many respects, the target of choice for regulators: it is the most recognizable consumer AI brand, its user base is enormous and demographically diverse, and its recent moves into advertising, health features, and agentic tasks for vulnerable users have created precisely the kind of consumer protection surface area that attorneys general are constitutionally empowered to police.
 
 For a company preparing to raise hundreds of billions of dollars in the public markets, the legal calendar for the second half of 2026 is looking increasingly complex.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

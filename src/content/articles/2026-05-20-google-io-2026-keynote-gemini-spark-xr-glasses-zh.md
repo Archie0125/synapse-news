@@ -3,6 +3,7 @@ title: "Google I/O 2026：Gemini Spark 以月費百元全天候 AI 代理登場�
 summary: "Google 執行長 Sundar Pichai 在年度開發者大會宣布 Gemini 3.5 Flash 即日上線，並推出月費 100 美元 AI Ultra 方案中的持續型代理服務 Gemini Spark，以及可模擬物理現象的 Gemini Omni 影片模型。壓軸登場的 Android XR 音訊眼鏡由 Warby Parker、Gentle Monster 與三星聯合打造，預計今年秋季開賣。"
 category: "products"
 publishedAt: 2026-05-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -37,7 +38,7 @@ relatedSlugs:
 
 ## Gemini Omni：讓 AI 看懂物理世界
 
-技術含量最高的公告是 Gemini Omni Flash——Google 首款對外開放的 Omni 系列模型，即日起可在 Gemini 應用程式中使用。示範影片中，Omni 模擬了動能、重力與物體碰撞的視覺過程，並將複雜的科學概念轉換為簡短的動態解說影片。
+技術含量最高的公告之一是 Gemini Omni Flash，Google DeepMind 執行長 Demis Hassabis 表示，這款模型現已在 Google 各項產品中提供使用。示範影片中，Omni 模擬了動能、重力與物體碰撞的視覺過程，並將複雜的科學概念轉換為簡短的動態解說影片。
 
 這填補了競爭對手尚未公開解決的缺口：一個能在視覺層面理解物理世界的 AI，不只是用文字描述。教育、工程模擬、互動式產品展示，都是明確的應用場景。這個功能與本月初外流的預告內容吻合，也印證了當時的產品路線圖並非謠言。
 
@@ -47,7 +48,7 @@ relatedSlugs:
 
 Spark 定位為「全天候 AI 代理」，設計理念不是讓你開口問，而是讓它主動幫你做事，即使你離開裝置也持續在背景運行。這個代理服務以 Gemini 3.5 驅動，在 Google Cloud 基礎設施上執行，深度整合 Google Docs、Sheets、Gmail 與 Calendar，在手機與電腦上都能使用。
 
-現場 demo 讓這個價值主張變得具體：Spark 被要求協助籌備一場社區派對。接到指令後，它自動起草了活動說明文件、建立了 Sheets 出席追蹤表、發送 Calendar 邀請給潛在與會者，並隨著回覆持續更新試算表，整個流程僅靠一道初始指令驅動。demo 是即時執行，非預先錄製，現場開發者反應熱烈。
+現場 demo 讓這個價值主張變得具體：Spark 被要求協助籌備一場社區派對。在示範中，Spark 彙整了出席回覆、追蹤誰要帶什麼、替尚未回覆的鄰居草擬後續追蹤郵件，並在 Google Sheets 建立了即時更新的出席追蹤表，重要動作則須由使用者核准後才會執行。demo 是即時執行，非預先錄製，現場開發者反應熱烈。
 
 100 美元的定價，是對 OpenAI o3 Pro 方案的直接正面挑戰，也代表 Google 決心搶攻高端 AI 訂閱市場，不把頂級用戶讓給 ChatGPT 或 Microsoft Copilot。「真正的代理能力，不只是對話能力」——這是 Google 為這個五倍漲價所提出的核心論點。
 
@@ -74,3 +75,5 @@ Google 同時確認了第二款 Android XR 產品：Xreal 的 Project Aura——
 Google 的問題從來不是「能不能做出好模型」，而是「能不能把模型能力轉化成消費者習慣和開發者生態黏著度」。Gemini Spark 和 AI Ultra 方案，是迄今最直接的一次嘗試——用高價值訂閱關係，把前沿 AI 能力和日常生活綁在一起。
 
 這個每月百元全天候 AI 代理的賭注，未來三十天就會開始得到市場的答覆。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

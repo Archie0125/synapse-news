@@ -3,6 +3,7 @@ title: "Z.ai's GLM-5.1 Becomes First Open-Source Model to Top SWE-Bench Pro — 
 summary: "Chinese AI lab Z.ai released GLM-5.1, a 754-billion-parameter open-weight model under the MIT license that scored 58.4% on SWE-Bench Pro — surpassing GPT-5.4 and Claude Opus 4.6 on real-world code repair. The model can operate autonomously for up to eight hours and was trained entirely on Huawei Ascend 910B hardware, with no Nvidia involvement."
 category: "ai-ml"
 publishedAt: 2026-04-12T09:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -38,7 +39,7 @@ The score — 58.4% on SWE-Bench Pro — beat both OpenAI's GPT-5.4 and Anthropi
 
 GLM-5.1 is not a general-purpose chatbot upgrade. Z.ai built it from the ground up for *agentic engineering*: long-running, multi-step software tasks that require sustained planning, execution, and self-correction. In benchmark demos, the model operated autonomously for up to eight hours in a single continuous run — planning, writing code, running tests, identifying failures, and iterating to a final solution without human intervention. That puts it squarely in competition with proprietary coding agents like OpenAI's Devin successor and Anthropic's Claude Code, not just raw chatbot rankings.
 
-Under the hood, GLM-5.1 uses a MoE + DSA (Decomposed Sparse Attention) architecture trained with asynchronous reinforcement learning. Unlike dense transformers that activate all parameters on every token, GLM-5.1 keeps inference costs comparable to a 37-billion-parameter dense model despite its 754B total parameter count. The context window supports up to 200,000 tokens with a maximum output of 128,000 tokens — critical for agentic tasks that require maintaining coherent state across entire codebases.
+Under the hood, GLM-5.1 uses a MoE + DSA (Dynamic Sparse Attention) architecture trained with asynchronous reinforcement learning. Unlike dense transformers that activate all parameters on every token, its predecessor GLM-5 used only 40 billion active parameters per inference despite a large total parameter count; GLM-5.1 has 754B parameters in total. Through OpenRouter, the model is offered with a 202,752-token context window — useful for agentic tasks that require maintaining coherent state across large codebases.
 
 Deployment is straightforward: the model weights are fully public on Hugging Face under an MIT license, enabling unrestricted commercial use, modification, and redistribution. Inference is supported via SGLang, vLLM, xLLM, Transformers, and KTransformers for self-hosting, and the Z.AI platform exposes an OpenAI SDK-compatible API for cloud access.
 
@@ -60,7 +61,7 @@ At 58.4%, GLM-5.1 beats GPT-5.4 and matches human expert-level performance on a 
 
 The release reshapes several assumptions that have structured the AI landscape for the past two years:
 
-**Open-source has caught up on code.** For software engineering tasks, the proprietary advantage of GPT and Claude has effectively been neutralized. Any company building coding tools on top of closed APIs now has a free, MIT-licensed alternative with comparable or superior benchmark performance.
+**Open-source is competitive on code.** GLM-5.1 tops SWE-Bench Pro at 58.4%, though Claude Opus 4.6 still leads on NL2Repo (49.8% vs 42.7%) and other models lead on Terminal-Bench 2.0. Any company building coding tools on top of closed APIs now has an MIT-licensed open-weights alternative that leads on SWE-Bench Pro, though it trails Claude Opus 4.6 on some other coding benchmarks.
 
 **China's domestic AI stack is real.** The combination of GLM-5.1 (trained on Huawei chips) and DeepSeek V4 (expected late April, also on Ascend 950PR) demonstrates that Chinese labs have successfully built a vertically integrated AI training pipeline that operates independently of US-controlled hardware.
 
@@ -70,4 +71,6 @@ The release reshapes several assumptions that have structured the AI landscape f
 
 Z.ai has indicated that GLM-5.1 is a stepping stone toward a full multimodal agentic release later in 2026. The company is expanding its developer platform to support tool-calling, sandboxed code execution, and long-term memory — features currently only available through closed platforms like Claude Code and OpenAI's operator API.
 
-For developers, the immediate opportunity is clear: a state-of-the-art coding model is now available for free, with no usage restrictions, deployable locally on consumer hardware via quantized versions. The first genuinely open frontier coding agent has arrived, and it was built in Beijing on chips Washington tried to block.
+For developers, the immediate opportunity is clear: a strong coding model is now available as open weights under an MIT license, or through API providers such as OpenRouter. The first genuinely open frontier coding agent has arrived, and it was built in Beijing on chips Washington tried to block.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "WeRide and Uber Launch Spain's First Commercial Robotaxi Service in Madrid"
-summary: "WeRide, Uber, and local operator AVOMO have announced the launch of Spain's first commercial robotaxi pilot in the Madrid region, marking WeRide's inaugural entry into the European market and the fourth city under a 15-city global partnership. Rides will be bookable through the Uber app, with trained safety operators initially on board before a transition to fully driverless operations."
+title: "WeRide and Uber to Launch Spain's First Commercial Robotaxi Service in Madrid"
+summary: "WeRide, Uber, and fleet partner Avomo plan to launch a commercial robotaxi pilot in Madrid later this year, marking the first joint entry of WeRide and Uber into the European market. Rides will be bookable through the Uber app, with trained safety operators initially on board before a push toward fully driverless operations."
 category: "industry"
 publishedAt: 2026-06-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,9 +28,9 @@ relatedSlugs:
   - "2026-06-07-chatgpt-one-billion-users-record-en"
 ---
 
-Autonomous vehicles are coming to Madrid. WeRide, the Nasdaq-listed Chinese autonomous driving company, has announced a joint launch of Spain's first commercial robotaxi service in collaboration with Uber and AVOMO, a Moove Cars Group company that serves as Uber's local fleet operations partner. The service will run through the Uber app and marks a significant milestone for autonomous mobility in Europe: no commercial robotaxi service of this kind has previously operated on Spanish roads.
+Autonomous vehicles are coming to Madrid. WeRide, the Nasdaq-listed Chinese autonomous driving company, has announced with Uber a plan to launch Spain's first commercial robotaxi pilot service in Madrid, with Avomo, a Moove Cars Group company, handling day-to-day fleet operations. The service will run through the Uber app and marks a significant milestone for autonomous mobility in Europe: no commercial robotaxi service of this kind has previously operated on Spanish roads.
 
-The announcement positions WeRide as the most geographically aggressive of the autonomous vehicle companies, extending its commercial network to its twelfth global city less than three years after its Nasdaq debut.
+Madrid will become the 12th city globally to host WeRide's robotaxi operations.
 
 ## How the Service Works
 
@@ -39,7 +40,7 @@ AVOMO, the Moove Cars Group subsidiary, will manage day-to-day fleet operations 
 
 ## Why Madrid?
 
-WeRide's global expansion map now covers 12 cities across four continents, and Madrid was the fourth entry under the 15-city framework that WeRide and Uber signed in a previous partnership agreement. The remaining 11 cities are committed by 2030, meaning the pace of expansion will accelerate as the Madrid proof of concept generates data.
+With Madrid, WeRide and Uber will have completed deployments in four cities under their plan to add 15 new cities globally over five years, announced in May 2025. The remaining 11 cities will gradually see service coverage by 2030, according to the collaboration plan.
 
 Madrid's selection reflects several practical factors. Spain has been more receptive than many EU member states to innovative mobility regulation — the Madrid regional government is providing active support for the pilot, which matters for the pathway to driverless certification. The city's geography, with a well-connected urban core and large residential suburbs, mirrors the operational profile of WeRide's Middle East deployments.
 
@@ -66,3 +67,5 @@ For European competitors — including local mobility startups and established O
 The companies have committed to scaling the fleet progressively, with "hundreds of robotaxis over time" as the stated target. The transition from supervised to fully driverless operations will depend on accumulated mileage, safety record, and regulatory sign-off from the Madrid regional government and Spanish national transport authorities.
 
 For consumers, the first thing that changes is simply that the option exists. Madrid residents will soon be able to open Uber and ride in a vehicle where the person in the front seat is a monitor, not a driver. How quickly that becomes unremarkable — as it has for the passengers who've been riding WeRide vehicles across the Gulf for the past year — may be the most telling metric of all.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

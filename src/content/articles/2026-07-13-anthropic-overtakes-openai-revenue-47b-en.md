@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Surpasses OpenAI in Revenue at $47B ARR, Eyes Q2 Profitability"
-summary: "Anthropic's annualized revenue hit $47 billion in May 2026—surpassing OpenAI's estimated $33 billion run rate—driven by explosive enterprise adoption of Claude. The company is now projecting quarterly operating profit of $559 million in Q2 2026, which would make it the first frontier AI lab to reach profitability."
+title: "Anthropic Surpasses OpenAI in Revenue at $47B Run Rate"
+summary: "Anthropic's annualized revenue hit $47 billion in May 2026, surpassing OpenAI's self-reported $25 billion to $33 billion run rate, driven by enterprise adoption of Claude. One report says the company reported profitability in Q4 2025."
 category: "industry"
 publishedAt: 2026-07-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -59,7 +60,7 @@ The revenue comparison tells a story of diverging trajectories. OpenAI ended 202
 
 The profitability comparison is even more stark. OpenAI's S-1 filing—submitted confidentially in May 2026—disclosed a loss ratio of $1.22 for every $1 earned in Q1 2026, with a projected $14 billion operating loss for the full year. The company's path to profitability is currently targeted for 2030 at the earliest, constrained by massive compute costs, an estimated $6 billion annual revenue share owed to Microsoft, and the infrastructure burden of running ChatGPT for 500 million monthly users.
 
-Anthropic, by contrast, is targeting its first quarterly operating profit in Q2 2026, with an internal projection of $10.9 billion in quarterly revenue and $559 million in operating income. If those figures hold, Anthropic would become the first frontier AI lab in history to report a profitable quarter—a milestone with significant implications for the company's IPO narrative and for the broader sector's viability claims.
+Anthropic, by contrast, reportedly posted profitability in Q4 2025 and projects sustainable profitability by 2029.
 
 ## The IPO Race
 
@@ -86,3 +87,5 @@ The revenue concentration risk is also real. A significant portion of Anthropic'
 And the competitive environment is accelerating. Google's Gemini 3.5 Pro—set to launch July 17—targets the same enterprise coding and reasoning tasks where Claude has been dominant. OpenAI's GPT-5.6 family, launched earlier this month, directly competes for the enterprise workloads driving Anthropic's growth. The question is not whether Anthropic has built something real—at $47 billion ARR, the answer is clearly yes—but whether the lead is durable in a market where model capabilities are converging rapidly.
 
 For now, Anthropic has transformed the AI industry's narrative from "who has the best model" to "who has the better business." That shift favors the company with more enterprise contracts, more sticky deployments, and—if Q2 2026 figures hold—actual profit.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

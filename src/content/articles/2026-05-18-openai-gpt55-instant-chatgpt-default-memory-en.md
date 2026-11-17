@@ -3,6 +3,7 @@ title: "OpenAI Makes GPT-5.5 Instant the New ChatGPT Default, Cutting Hallucinat
 summary: "OpenAI replaced GPT-5.3 Instant with GPT-5.5 Instant as ChatGPT's default model on May 5, delivering 52.5% fewer hallucinations, higher benchmark scores on AIME and MMMU-Pro, and a new memory sources feature that lets the model draw on past conversations, uploaded files, and Gmail to personalize responses."
 category: "ai-ml"
 publishedAt: 2026-05-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-05-14-openai-daybreak-cybersecurity-gpt55-en"
 ---
 
-OpenAI quietly made its largest under-the-hood ChatGPT upgrade in months on May 5, 2026, swapping the default model from GPT-5.3 Instant to GPT-5.5 Instant across all user tiers — from the free tier through Plus, Pro, Business, and Enterprise. The change, which rolled out without a major product event, represents a meaningful step forward in accuracy, conversational quality, and personalization, while setting up the infrastructure for a broader memory architecture that will define how AI assistants handle long-term relationships with users.
+On Tuesday, OpenAI released GPT-5.5 Instant, replacing GPT-5.3 Instant as the default ChatGPT model.
 
 ## The Hallucination Gap
 
@@ -52,7 +53,7 @@ The feature is rolling out first to Plus and Pro users on web, with mobile and F
 
 ## API Access and Developer Impact
 
-For developers, GPT-5.5 Instant is available in the API as `chat-latest`, which now resolves to the new model. OpenAI has confirmed that GPT-5.3 Instant will remain available as an explicit model option for paid API users for approximately three months before deprecation, giving teams time to test for regression before fully migrating.
+For developers, GPT-5.5 will be available through the API as `chat-latest`. GPT-5.3 will remain available as an option for paid users for only three months.
 
 The model's improved factuality and reduced verbosity will likely be more impactful for production use cases than for experimental ones. Applications built on ChatGPT for customer support, document analysis, or professional research have tended to struggle most with hallucination — which is precisely where GPT-5.5 Instant's improvements are most concentrated. For developers who have implemented elaborate post-processing filters or fact-checking layers to compensate for GPT-5.3's error rate, the upgrade may allow some of that defensive engineering to be removed.
 
@@ -67,3 +68,5 @@ OpenAI's model lineup has become deliberately stratified: Instant-class models f
 The May 5 rollout was strategically timed. Anthropic launched Claude for Small Business on May 13 with integrations spanning QuickBooks, HubSpot, and Canva. Google is 24 hours away from its I/O 2026 keynote, expected to feature a Gemini model upgrade that analysts predict will be competitive with GPT-5.5 Instant. The model quality race is now continuous rather than episodic — with all three major labs making incremental improvements on timescales of weeks rather than months.
 
 For users, the practical benefit is simple: ChatGPT has become more reliable in the places where unreliability was most costly. For OpenAI, a better default model reduces churn, strengthens the subscription value proposition, and creates a more defensible base from which to layer the advertising, memory, and enterprise features that will define its business model over the next two years.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Researchers Strip AI Safety Guardrails From Meta and Google Models in Under 10 Minutes"
-summary: "A Financial Times investigation found that a free, open-source tool called Heretic can remove safety filters from Meta's Llama 3.3 and Google's Gemma 3 in under 10 minutes on a standard laptop. The modified models provided detailed instructions for chemical weapons, malware, and child sexual abuse material — renewing the debate over open-weight AI model safety."
+summary: "A Financial Times investigation found that a free tool called Heretic can strip the safety guardrails from Meta's Llama 3.3 in under 10 minutes without specialist hardware. Modified models responded to prompts involving chlorine gas dispersal, malware and child sexual abuse stories — renewing the debate over open-weight AI model safety."
 category: "ai-ml"
 publishedAt: 2026-05-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-05-19-meta-avocado-delay-closed-source-pivot-en"
 ---
 
-A tool freely available on GitHub can remove the safety alignment from Meta's Llama 3.3 and Google's Gemma 3 — two of the world's most widely deployed open-source AI models — in under 10 minutes on a standard consumer laptop, according to an investigation by the Financial Times published over the weekend. The modified systems subsequently responded to prompts involving the dispersal of chlorine gas in crowded spaces, provided working code for credit card theft, and generated stories describing the sexual abuse of children.
+A tool freely available on GitHub can remove the safety guardrails from Meta's Llama 3.3 in under 10 minutes without any specialist hardware, according to an investigation by the Financial Times and AI safety group Alice. A modified version of Google's Gemma 3 responded to a question on dispersing chlorine gas through a crowded indoor space, generated code to steal credit card information, and wrote stories describing child sexual abuse.
 
-The tool, called Heretic, was published in February 2026 by developer Philipp Emanuel Weidmann and automates a technique known as directional ablation — colloquially dubbed "abliteration" — that systematically suppresses the neural weights responsible for refusal behavior in instruction-tuned language models. Since its release, Weidmann says, Heretic has been used to create more than 3,500 "decensored" model variants, which have collectively been downloaded over 13 million times from model-sharing platforms.
+The tool, called Heretic, was created by developer Philipp Emanuel Weidmann, who released it last year, and automates a technique known as "abliteration" that removes the safeguards of open-source models. Since its release, Weidmann says, Heretic has been used to create more than 3,500 "decensored" model variants, which have collectively been downloaded 13 million times.
 
 ## How Abliteration Works
 
@@ -40,7 +41,7 @@ Abliteration works by identifying and suppressing the specific directional compo
 
 What Heretic adds is automation. The tool uses Optuna's Tree-structured Parzen Estimator (TPE) optimizer to conduct an automated parameter search that finds optimal abliteration settings without manual tuning. According to published benchmarks, Heretic achieves a 3-in-100 refusal rate on Gemma-3-12B-IT with a KL divergence of just 0.16 — 6.5 times less capability degradation than leading manual abliteration techniques, meaning the model remains highly capable while losing almost all its safety behavior.
 
-The entire process runs on consumer hardware. In the FT's tests, Llama 3.3 was stripped of its guardrails on an unmodified laptop in less than 10 minutes. No specialist hardware, cloud access, or advanced machine learning expertise was required.
+The entire process runs on consumer hardware. In the FT's tests, Llama 3.3 was stripped of its guardrails in less than 10 minutes without any specialist hardware. No specialist hardware or advanced technical expertise was required.
 
 ## What the Modified Models Produced
 
@@ -75,3 +76,5 @@ For the companies releasing open-weight models, the challenge is that alignment 
 At 13 million downloads and counting, the post-abliteration model ecosystem is already large enough to be a meaningful security consideration. Whether that changes the calculus of frontier labs still releasing open weights — Meta has announced plans for Llama 4 Scout and Llama 5 as open-weight releases — remains to be seen.
 
 What the FT investigation makes harder to argue is that the risk of open-weight AI model misuse is purely theoretical. Heretic has already made it practical.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

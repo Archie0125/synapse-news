@@ -3,6 +3,7 @@ title: "Under Oath, Musk Admits xAI 'Partly' Distilled OpenAI's Models to Build 
 summary: "In a striking moment from the Musk v. Altman trial, Elon Musk testified under oath that xAI used distillation techniques on OpenAI's models to help train Grok — an admission that may violate OpenAI's terms of service and opens a broader reckoning about how widely the practice is used across the AI industry."
 category: "ai-ml"
 publishedAt: 2026-05-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 Elon Musk went to federal court in Oakland to accuse OpenAI of betraying the public trust. What he ended up doing — in one of the most stunning moments of the trial so far — is accidentally illustrating how the entire AI industry may be doing something very similar to what he's suing OpenAI for: quietly leveraging others' work while publicly claiming the moral high ground.
 
-On Thursday, April 30, during cross-examination, Musk was asked whether xAI had used distillation techniques on OpenAI's models to help train Grok. His response: "Generally, AI companies distill other AI companies." Pressed for a direct yes or no, he landed on a single syllable that ricocheted across the industry: "Partly."
+On Thursday, April 30, during cross-examination, Musk was asked whether xAI had used distillation techniques on OpenAI's models to help train Grok. His response, as reported, was that "generally all the AI companies" do it." Pressed for a direct yes or no, he landed on a single syllable that ricocheted across the industry: "Partly."
 
 ## What Distillation Actually Means
 
@@ -41,7 +42,7 @@ In machine learning, distillation is a technique where a smaller, more efficient
 
 The appeal is obvious: training a truly frontier model costs hundreds of millions or billions of dollars in compute. Distillation offers a shortcut. By systematically querying a competitor's billion-dollar model and harvesting its outputs, a company can bake the equivalent of years of expensive training into its own system at a fraction of the cost.
 
-The legal status, however, is murky. Distillation is not explicitly illegal under U.S. law. But it may violate the terms of service that AI companies impose on their APIs — and OpenAI's terms of service explicitly prohibit using its models' outputs to train competing systems. Whether that constitutes copyright infringement, trade secret misappropriation, or is simply an unenforced contractual clause is a question lawyers are actively debating.
+The legal status, however, is murky. It is not clear that distillation is explicitly illegal. But it may violate the terms of service that AI companies impose on their APIs — and OpenAI's terms of service explicitly prohibit using its models' outputs to train competing systems. Whether that constitutes copyright infringement, trade secret misappropriation, or is simply an unenforced contractual clause is a question lawyers are actively debating.
 
 ## The Irony That Wrote Itself
 
@@ -49,7 +50,7 @@ The courtroom irony was almost too clean. Musk has spent weeks in that Oakland f
 
 And yet, there he was, testifying that xAI — his AI company, built while he was publicly attacking OpenAI — had itself used OpenAI's models as training data. The technique he partially admitted to is precisely the kind of thing that OpenAI's lawyers have characterized as unfair appropriation of their intellectual property and competitive advantage.
 
-Musk's defense was to normalize the practice: "Generally, AI companies distill other AI companies." That may be true. But it's also the same logic that the companies he's suing have sometimes used to justify their own allegedly borderline behaviors — that everyone does it, that it's an industry norm, that the ethics were never as clear as the aggrieved party later claims.
+Musk's defense was to normalize the practice, saying "generally all the AI companies" do it." That may be true. But it's also the same logic that the companies he's suing have sometimes used to justify their own allegedly borderline behaviors — that everyone does it, that it's an industry norm, that the ethics were never as clear as the aggrieved party later claims.
 
 OpenAI's legal team, unsurprisingly, was quick to highlight the admission. It fits neatly into their counter-narrative of the trial: that Musk is not a principled whistleblower but a competitor who built his own AI empire by exploiting the same infrastructure and knowledge he now claims belongs to the public.
 
@@ -76,3 +77,5 @@ For the Musk v. Altman trial itself, the distillation admission is a gift to Ope
 The trial continues through late May, with Sam Altman, Greg Brockman, and Satya Nadella of Microsoft all scheduled to testify. Whatever the jury ultimately decides about Musk's $134 billion damages claim, the cross-examination moment when a man suing OpenAI admitted his company used OpenAI's models to help build its competitor product has already made its mark on the record.
 
 The broader question — who owns the latent knowledge baked into a large language model, and whether extracting it through systematic querying constitutes misappropriation — may ultimately be decided not in this courtroom, but in future litigation that the Musk v. Altman proceedings have unwittingly helped set in motion.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

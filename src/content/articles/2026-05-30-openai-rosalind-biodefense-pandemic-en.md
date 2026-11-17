@@ -3,6 +3,7 @@ title: "OpenAI Launches Rosalind Biodefense Program, Offers Free GPT-Rosalind to
 summary: "OpenAI unveiled its Rosalind Biodefense program on May 29, offering vetted governments, national labs, and nonprofits free access to GPT-Rosalind—a frontier reasoning model for biology and drug discovery—to accelerate pandemic preparedness and biodefense. Partners include Lawrence Livermore National Laboratory, Johns Hopkins Applied Physics Laboratory, and CEPI's 100 Days Mission."
 category: "ai-ml"
 publishedAt: 2026-05-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -33,7 +34,7 @@ OpenAI took a significant step into biosecurity on May 29, 2026, announcing the 
 
 Named after the pioneering crystallographer Rosalind Franklin, whose meticulous X-ray diffraction work helped establish the double-helix structure of DNA, GPT-Rosalind is OpenAI's frontier reasoning model purpose-built for biology, chemistry, and translational medicine. Unlike general-purpose models, it is optimized for scientific workflows that blend structured data — genomic sequences, protein folding predictions, clinical trial endpoints — with unstructured literature and expert reasoning.
 
-The model demonstrates improved tool use and deeper understanding across protein engineering, genomics, and drug discovery pipelines. OpenAI cites benchmark performance across molecular docking, literature synthesis, and epidemiological forecasting tasks. GPT-Rosalind was first introduced in early 2026 as a specialized research tool for life sciences organizations; the biodefense program represents its most consequential public deployment yet.
+The model demonstrates improved tool use and deeper understanding across protein engineering, genomics, and drug discovery pipelines. OpenAI cites benchmark performance across molecular docking, literature synthesis, and epidemiological forecasting tasks. GPT-Rosalind was introduced in April as a life sciences AI model; the biodefense program extends access to selected developers and government partners.
 
 ## The Biodefense Program Structure
 
@@ -90,3 +91,5 @@ The Rosalind Biodefense program's success will be measured against concrete outc
 If the 100 Days Mission delivers — vaccines deployable within three months of a novel pathogen's emergence — it would constitute one of the clearest proof points yet that large language models can materially alter the trajectory of a global health crisis.
 
 For OpenAI, the strategic calculus is equally clear: position the company as an indispensable partner to governments on the hardest problems, build institutional goodwill ahead of its anticipated IPO, and demonstrate empirically that safety and deployment are not in fundamental conflict. The Rosalind Biodefense program is an ambitious attempt to make that case in the domain where the stakes are highest.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Google DeepMind Launches Gemini Robotics 2 With Full-Body Intelligence for Humanoids"
-summary: "Google DeepMind released Gemini Robotics 2, a new suite of AI models enabling humanoid robots to coordinate full-body movements—from torso to legs—for the first time. The system achieves a 92% success rate on complex dexterous tasks, is being demonstrated on Apptronik's Apollo 2 humanoid, and is now available in private preview to over 100 trusted testers via Google AI Studio."
+summary: "Google DeepMind released Gemini Robotics 2, a new suite of AI models that lets humanoid robots coordinate whole-body movements, from feet to fingertips. The system is being demonstrated on Apptronik's Apollo 2 humanoid, and Gemini Robotics ER 2 is available through Google AI Studio and in private preview on the Gemini Enterprise Agent Platform."
 category: "ai-ml"
 publishedAt: 2026-07-31
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-07-19-agility-robotics-spac-ipo-humanoid-nasdaq-en"
 ---
 
-Google DeepMind unveiled Gemini Robotics 2 on Thursday, releasing what the company is calling the first AI model series capable of giving humanoid robots genuine whole-body intelligence—the ability to plan and coordinate movements not just in the arms and hands, but across the entire body, from the torso down to the legs.
+Google DeepMind unveiled Gemini Robotics 2, a model series that gives humanoid robots whole-body intelligence, with coordinated movement not just in the arms and hands but across the entire body, from feet to fingertips.
 
 The launch represents a significant leap beyond the original Gemini Robotics system, introduced in early 2025, which was limited to controlling a robot's upper body. With Gemini Robotics 2, a machine can now twist, lean, crouch, and reach simultaneously while reasoning through complex tasks in real time—the kind of fluid, integrated physical reasoning that humans perform automatically but that has proven stubbornly difficult to replicate in AI-controlled hardware.
 
@@ -39,23 +40,23 @@ In robotics, the challenge of whole-body control has long been treated as a prob
 
 Previous approaches, including the original Gemini Robotics, handled this by decomposing the problem: a high-level reasoning system would plan a task, and a lower-level controller would execute it using pre-scripted or model-predictive motion primitives. The limitation was that this separation created gaps—when real conditions didn't match the motion primitive's assumptions, robots would fail ungracefully.
 
-Gemini Robotics 2 replaces this decomposed architecture with a unified model that reasons about task completion and body motion simultaneously. The result is a system that can handle genuine physical contingencies—an object that slips, a surface that tilts—by adapting its entire body posture dynamically rather than failing when a pre-scripted motion sequence becomes inappropriate.
+The result is a system that can handle genuine physical contingencies—an object that slips, a surface that tilts—by adapting its entire body posture dynamically rather than failing when a pre-scripted motion sequence becomes inappropriate.
 
 ## Three Models, Three Deployment Profiles
 
 The Gemini Robotics 2 suite is not a single model but three:
 
-**Gemini Robotics 2** is the full cloud-hosted model, providing the highest capability for whole-body control, dexterous manipulation, and multi-robot coordination. It is designed to run inference from Google's cloud infrastructure and is best suited for research, development, and industrial deployments where network latency is acceptable.
+**Gemini Robotics 2** is a vision-language-action (VLA) model that converts vision and language input into motor control, and it can control full humanoids, from feet to fingertips, as well as other bi-arm robots. It is designed to run inference from Google's cloud infrastructure and is best suited for research, development, and industrial deployments where network latency is acceptable.
 
 **Gemini Robotics On-Device 2** is a smaller, optimized variant designed to run locally on robot hardware without requiring cloud connectivity. It trades some capability for dramatically lower latency—critical for reactive tasks where even a 50-millisecond round-trip to a cloud server would cause noticeable delays in physical response.
 
-**Gemini Robotics ER 2** (Emergent Reasoning) is the most sophisticated variant, accessible via Google AI Studio and in private preview on Google's enterprise platform. ER 2 is designed for tasks requiring longer-horizon planning, multi-step task chaining, and reasoning about physical consequences across extended sequences of actions.
+**Gemini Robotics ER 2** is an embodied reasoning model, accessible via Google AI Studio and in private preview on Google's Gemini Enterprise Agent Platform. It plans multi-step tasks lasting several minutes, communicates with humans and enables robots to work together as a team. ER 2 is designed for tasks requiring longer-horizon planning, multi-step task chaining, and reasoning about physical consequences across extended sequences of actions.
 
 ## Performance in Testing
 
 DeepMind published benchmark results alongside the release. In tests involving unscrewing a lightbulb—a task that demands precise coordination between arm movement, grip force, torso stabilization, and visual feedback—Gemini Robotics 2 achieved a 92% success rate, compared to roughly 60% for leading prior systems on the same task.
 
-The system is also the first to demonstrate reliable multi-robot coordination, where two Gemini Robotics 2-powered humanoids can hand objects between each other, coordinate on shared tasks, and avoid collisions while pursuing independent sub-goals—without pre-scripted choreography.
+Multi-robot collaboration is another new capability: DeepMind says Gemini Robotics ER 2 allows different robot types to communicate and coordinate on complex workflows.
 
 ## Apptronik's Apollo 2 as the Lead Demo Platform
 
@@ -65,7 +66,7 @@ In live demonstrations, the Apollo 2 running Gemini Robotics 2 showed capabiliti
 
 ## Access and Availability
 
-Gemini Robotics 2 and On-Device 2 are now being shared with more than 100 trusted testers, including academic robotics labs, industrial hardware partners, and select enterprise customers. Gemini Robotics ER 2 is available via Google AI Studio as an API endpoint and as a private preview on Google's enterprise AI platform.
+Gemini Robotics 2 and On-Device 2 are available to selected early-access partners. Gemini Robotics ER 2 is available via Google AI Studio as an API endpoint and as a private preview on Google's enterprise AI platform.
 
 Full general availability timelines have not been announced, but DeepMind said it expects to expand access throughout the second half of 2026, with the On-Device 2 variant expected to reach hardware integration kits for qualified partners before the end of the year.
 
@@ -80,3 +81,5 @@ Google's bet is that the model layer—not the hardware layer—will be where th
 Whether the bet pays off will depend on whether DeepMind can maintain its lead over NVIDIA's physical AI stack, Boston Dynamics Atlas's increasingly capable whole-body control, and the growing number of Chinese robotics AI teams whose models are already demonstrating competitive performance on standard benchmarks.
 
 For now, Gemini Robotics 2 sets a new public benchmark for what AI-powered whole-body coordination looks like—and raises the floor for every competitor coming behind it.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

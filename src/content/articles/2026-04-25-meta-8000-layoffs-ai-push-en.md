@@ -3,6 +3,7 @@ title: "Meta Cuts 8,000 Jobs on May 20 to Fund $135 Billion AI Spending Spree"
 summary: "Meta will lay off roughly 8,000 employees — 10% of its workforce — starting May 20, while simultaneously closing 6,000 open roles. The restructuring is designed to offset capital expenditures projected to reach $115–135 billion in 2026 as Mark Zuckerberg bets the company on its Superintelligence Labs."
 category: "industry"
 publishedAt: 2026-04-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-04-04-big-tech-layoffs-ai-hiring-en"
 ---
 
-Meta Platforms announced on April 23 that it will cut approximately 8,000 employees — roughly 10% of its 78,865-person global workforce — effective May 20, in what company leadership is framing as a necessary rebalancing to fund one of the most aggressive AI capital expenditure programs in corporate history. A companywide memo from Chief People Officer Janelle Gale confirmed the cuts, adding that Meta is simultaneously eliminating around 6,000 open roles that were in the pipeline, meaning the total reduction in headcount trajectory is closer to 14,000. Additional layoffs are being planned for the second half of 2026.
+Meta Platforms told employees in a Thursday memo that it will cut approximately 8,000 employees — roughly 10% of its 78,865-person global workforce — with the cuts beginning May 20, as the company continues ramping up investments in artificial intelligence. A companywide memo from Chief People Officer Janelle Gale confirmed the cuts, adding that Meta is simultaneously eliminating around 6,000 open roles that were in the pipeline, meaning the total reduction in headcount trajectory is closer to 14,000. Additional layoffs are being planned for the second half of 2026.
 
-The announcement triggered immediate comparisons to Microsoft's concurrent restructuring, also announced this week, which cut a similar number of roles. CNBC reported that between the two companies, approximately 20,000 jobs were eliminated within a 48-hour window, prompting questions from labor economists and market analysts about whether the AI-driven labor crisis that researchers had long projected was now arriving in visible form.
+The announcement came the same day Microsoft confirmed it will offer voluntary buyouts to some U.S. employees, as job cuts pick up across the tech sector.
 
 ## The Numbers Behind the Decision
 
@@ -47,7 +48,7 @@ The restructuring is inseparable from Meta's strategic reorganization around its
 
 Wang now runs the Superintelligence Labs with a mandate to develop foundational AI capabilities that can compete with OpenAI's o-series reasoning models and Anthropic's Claude. The division's first major public output, Muse Spark, was released earlier this month to a mixed reception — technically impressive in certain benchmarks but still trailing on creative and agentic tasks. Meta has indicated that Muse Spark is a proof-of-concept rather than a finished product, with more capable versions expected in the second half of 2026.
 
-The restructuring is also reshaping internal job categories in ways that reflect a broader shift in how Meta thinks about AI-native work. Roughly 1,000 employees have already been rebranded into new titles — "AI builder," "AI pod lead," and "AI org lead" — while engineers from across the company are being consolidated into a newly expanded Applied AI organization that reports directly to Zuckerberg's office.
+The restructuring is also reshaping internal job categories in ways that reflect a broader shift in how Meta thinks about AI-native work. Roughly 1,000 employees have already been rebranded into new titles — "AI builder," "AI pod lead," and "AI org lead" — while engineers from across the company are being transferred into the Applied AI organization, which reports to CTO Andrew Bosworth.
 
 ## Who Gets Cut, and What It Means
 
@@ -61,12 +62,14 @@ Trust and safety is also under structural pressure. Meta has invested heavily in
 
 Meta is not alone in using AI investment as a rationale for workforce reductions. The pattern across big tech in 2026 has been consistent: announce record infrastructure spending, then announce layoffs in the same earnings cycle, framing the personnel cuts as part of an efficiency drive rather than a sign of financial stress.
 
-Microsoft made a similar move this week, cutting roughly 6,000 positions — or approximately 3% of its workforce — despite reporting strong Azure growth. Amazon is conducting rolling reductions in its devices and retail technology divisions. Google has been more measured, largely because its advertising business continues to generate surplus cash, but has nonetheless reduced headcount in several engineering units.
+Microsoft confirmed this week that it will offer voluntary buyouts to some U.S. employees, with about 7% of U.S. employees eligible. Amazon announced plans in January to eliminate about 16,000 corporate jobs. Google has been more measured, largely because its advertising business continues to generate surplus cash, but has nonetheless reduced headcount in several engineering units.
 
 The cumulative effect is a bifurcation of the technology labor market: companies that are net hirers (Anthropic, xAI, Perplexity, and a cohort of well-funded AI startups) versus companies that are net reducers (the established platforms rationalizing for AI transition). For engineers and product managers with demonstrable AI skills, the market remains tight. For those in roles that AI can now partially automate, the 2026 job market is considerably less welcoming than it was two years ago.
 
 ## Looking Ahead: Q1 2026 Earnings on April 29
 
-Meta will report its first-quarter 2026 financial results on April 29, alongside Microsoft. Analysts expect Meta's Q1 revenue to come in around $55.5 billion, with earnings per share of approximately $6.65. The core advertising business is expected to remain healthy, supported by AI-driven improvements to ad targeting that have demonstrably improved return-on-ad-spend for Meta's largest customers.
+Meta is scheduled to report its first-quarter 2026 financial results on April 29. Analysts expect Meta's Q1 revenue to come in around $55.5 billion, with earnings per share of approximately $6.65. The core advertising business is expected to remain healthy, supported by AI-driven improvements to ad targeting that have demonstrably improved return-on-ad-spend for Meta's largest customers.
 
 The more interesting story may be what the company says about Superintelligence Labs' contribution to long-term strategy, and whether Zuckerberg provides any updated timeline for models that can credibly compete with GPT-5.5 or Claude Opus 4.7. The market will be watching to see whether the massive capex increase is already yielding early signals of competitive AI capability — or whether Meta is still in the investment phase with returns still years away.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

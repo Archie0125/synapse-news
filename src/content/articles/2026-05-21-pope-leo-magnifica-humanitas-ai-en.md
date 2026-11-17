@@ -1,8 +1,9 @@
 ---
 title: "Pope Leo XIV's AI Encyclical 'Magnifica Humanitas' Drops May 25 — With Anthropic's Co-Founder on Stage"
-summary: "Pope Leo XIV will publish 'Magnifica Humanitas,' the Catholic Church's first major teaching document on artificial intelligence, on May 25. The encyclical — signed on the 135th anniversary of Rerum Novarum — addresses the protection of human dignity in the AI age. Presenting alongside the Pope will be Christopher Olah, co-founder of Anthropic, in a pairing that signals how seriously both technology and religion are taking the moral dimensions of AI."
+summary: "Pope Leo XIV's first encyclical, 'Magnifica Humanitas,' on safeguarding the human person in the time of artificial intelligence, will be released on May 25. The document bears the Pope's signature dated May 15, the 135th anniversary of Rerum Novarum. Christopher Olah, co-founder of Anthropic, is among several speakers who will present it alongside the Pope."
 category: "policy"
 publishedAt: 2026-05-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-04-04-eu-ai-act-enforcement-en"
 ---
 
-On Monday, May 25, in the Vatican's Synod Hall, Pope Leo XIV will publish the Catholic Church's most direct engagement with the age of artificial intelligence. The document is called *Magnifica Humanitas* — "Magnificent Humanity" in Latin — and it is the first papal encyclical in history to address AI as its central subject.
+On May 25, Pope Leo XIV's encyclical on artificial intelligence will be released and presented at 11:30 a.m. in the Vatican's Synod Hall. The document is called *Magnifica Humanitas* — "Magnificent Humanity" in Latin — and it is the first papal encyclical in history to address AI as its central subject.
 
-Standing at the podium alongside the Pope will be Christopher Olah, co-founder of Anthropic and one of the most influential researchers in AI interpretability. The pairing of the world's most visible religious leader with one of Silicon Valley's most prominent AI safety researchers is not accidental. It announces, plainly, that the church and the technology industry are now in direct conversation about the same set of questions.
+Among the speakers present alongside the Pope will be Christopher Olah, co-founder of Anthropic and head of research on the interpretability of artificial intelligence. The pairing of the world's most visible religious leader with one of Silicon Valley's most prominent AI safety researchers is not accidental. It announces, plainly, that the church and the technology industry are now in direct conversation about the same set of questions.
 
 ## The Historical Echo
 
@@ -69,3 +70,5 @@ Bishop Daniel Flores, in an essay published ahead of the release, made the argum
 *Magnifica Humanitas* will not carry the force of law. Encyclicals are not legislative documents. But the Catholic Church has 1.4 billion members and an institutional presence in more countries than any government. When it speaks clearly on a moral question, it shifts the frame of public debate — sometimes slowly, sometimes with remarkable speed.
 
 The AI industry has spent years debating its ethical obligations largely within a bubble of technologists, ethicists, and regulators. On May 25, one of the oldest moral institutions in human civilization enters that debate with a document it spent years preparing. The conversation is about to get considerably more complicated.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

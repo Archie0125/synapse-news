@@ -1,8 +1,9 @@
 ---
-title: "Trump Administration Eyes FINRA-Style Watchdog to Vet Frontier AI Models Before Public Release"
-summary: "The Trump administration is considering establishing an independent self-regulatory organization modeled on FINRA to evaluate the safety of frontier AI models, according to people familiar with the proposal. Treasury Secretary Scott Bessent helped develop the framework, which would create an industry-funded body reporting to the SEC that tests AI systems for cybersecurity and bioweapons risks before or after deployment."
+title: "Trump Administration Weighs FINRA-Style Watchdog to Vet Frontier AI Models"
+summary: "The Trump administration is considering an independent regulator for AI modeled on FINRA to vet the safety of frontier AI models, according to people familiar with the matter. Treasury Secretary Scott Bessent helped develop the proposal, which would create an agency reporting to the SEC."
 category: "policy"
 publishedAt: 2026-07-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,27 +32,25 @@ relatedSlugs:
   - "2026-07-09-illinois-sb315-ai-safety-audit-law-en"
 ---
 
-The Trump administration is actively developing a plan to create an independent regulator for artificial intelligence modeled on the Financial Industry Regulatory Authority — the industry-funded watchdog that oversees broker-dealers and their registered representatives in the US securities industry. The proposal, first reported by Bloomberg on July 17, 2026, would establish a self-regulatory organization for frontier AI that tests models for safety risks and publishes standardized assessments, with oversight from the Securities and Exchange Commission.
+The Trump administration is considering a plan to create an independent regulator for artificial intelligence similar to the Financial Industry Regulatory Authority, the independent, industry-funded regulator for brokerage firms. The proposal, first reported by Bloomberg on July 17, 2026, would establish a self-regulatory organization for frontier AI that tests models for safety risks and publishes standardized assessments, with oversight from the Securities and Exchange Commission.
 
 The development represents a significant turn in the administration's approach to AI governance. For the first eighteen months of Trump's second term, the White House's posture on AI regulation was almost uniformly focused on cutting red tape and accelerating American AI development — a deliberate contrast to what Republicans characterized as the Biden administration's overly cautious, innovation-stifling approach. The FINRA proposal suggests that the administration has concluded that some form of structured safety evaluation is necessary to prevent the kind of catastrophic AI failures that could trigger far more aggressive congressional action.
 
 ## What the Proposal Envisions
 
-According to people familiar with the discussions, Treasury Secretary Scott Bessent has been the primary architect of the proposal within the administration. Bessent, who spent decades in the financial industry before joining the administration, is reportedly drawn to the FINRA model because it demonstrates how an industry with systemic risk potential can be regulated without creating a heavy-handed government bureaucracy.
+According to people familiar with the discussions, Treasury Secretary Scott Bessent helped develop the proposal within the administration. Bessent, who spent decades in the financial industry before joining the administration, is reportedly drawn to the FINRA model because it demonstrates how an industry with systemic risk potential can be regulated without creating a heavy-handed government bureaucracy.
 
-The proposed structure would create a committee of independent technical experts — drawn from academia, national laboratories, and industry — to evaluate frontier AI models against a defined set of risk categories. The initial focus, according to people familiar with the discussions, would be on two areas where catastrophic misuse risk is highest: cybersecurity vulnerabilities that a model could enable or exploit, and biological threats, including models that could assist in the design or synthesis of pathogenic agents.
+A similar plan from Google DeepMind CEO Demis Hassabis suggests a board of independent technical experts review AI models as part of a standards body overseen by the federal government. It remains unclear what kinds of model assessments the administration's proposal would call for. Hassabis's plan points to test protocols for areas like cybersecurity and biological threats.
 
-The organization would be funded by the AI industry — meaning companies like OpenAI, Anthropic, Google, Microsoft, xAI, and Meta would pay membership fees and assessments to support its operations, similar to how securities broker-dealers fund FINRA. This industry-funding structure is deliberately designed to avoid creating a new government agency that would require congressional appropriations and face the kind of budget and staffing instability that has plagued the US AI Safety Institute at NIST.
+It is also unclear how a new agency would be funded under the administration's proposal, though Hassabis recommends that industry fund the self-regulatory organization. This industry-funding structure is deliberately designed to avoid creating a new government agency that would require congressional appropriations and face the kind of budget and staffing instability that has plagued the US AI Safety Institute at NIST.
 
-The SEC connection is less obvious at first glance. FINRA technically operates as a self-regulatory organization registered with and overseen by the SEC, but its day-to-day operations are independent of direct government control. The analogy for AI would be an organization that develops and enforces safety standards for frontier models, with the SEC providing a legal framework for enforcement if companies fail to comply — rather than having the SEC directly regulate AI model deployments.
+The SEC connection is less obvious at first glance. FINRA technically operates as a self-regulatory organization registered with and overseen by the SEC, but its day-to-day operations are independent of direct government control. FINRA derives its authority from the SEC, which essentially farms out oversight to it, but it is unclear what role the SEC would play in overseeing AI companies under the proposal.
 
 ## The Problem It Is Trying to Solve
 
-The proposal is a response to a genuine governance gap. Frontier AI models are increasingly deployed in contexts where failures could cause harm at scale — healthcare systems, financial markets, critical infrastructure, and potentially weapons development. But the United States currently has no systematic pre-deployment evaluation process for these systems.
+The proposal is a response to a genuine governance gap. Frontier AI models are increasingly deployed in contexts where failures could cause harm at scale — healthcare systems, financial markets, critical infrastructure, and potentially weapons development.
 
-The existing safety infrastructure is fragmented: the US AI Safety Institute at NIST conducts voluntary evaluations but has no enforcement authority. The Center for AI Standards and Innovation has signed evaluation agreements with Google DeepMind, Microsoft, and xAI, but these are voluntary partnerships with no standardized methodology. The Trump administration's own AI Action Plan, signed in early 2026, called for "voluntary safety commitments" from AI developers — an approach that critics argued was inadequate given the pace of model capability development.
-
-What a FINRA-style body would add is a standardized evaluation framework, an independent testing methodology, and — crucially — a compliance mechanism. Companies that develop frontier models above a certain capability threshold would be required to submit to evaluation before deployment, and the organization's findings would be made public.
+The existing safety infrastructure is fragmented: the US AI Safety Institute at NIST conducts voluntary evaluations but has no enforcement authority. The Center for AI Standards and Innovation, which sits under the Commerce Department, has announced agreements with Google DeepMind, Microsoft, and xAI that allow the government to evaluate AI models before they are publicly available. The Trump administration's own AI Action Plan, signed in early 2026, called for "voluntary safety commitments" from AI developers — an approach that critics argued was inadequate given the pace of model capability development.
 
 ## Industry and Expert Reaction
 
@@ -74,3 +73,5 @@ The proposal is still in early development, and several critical details remain 
 These are tractable problems — FINRA has resolved analogous questions for the securities industry over its 16-year history — but they will require substantial stakeholder engagement before a workable proposal can be sent to Congress or implemented through executive action.
 
 What the emergence of this proposal makes clear is that the question in Washington is no longer whether frontier AI will be regulated, but how. The administration that campaigned on AI deregulation is now designing a regulatory body. The only remaining debate is whether the body it designs will be adequate to the task.
+
+*Correction (November 15, 2026): 12 sentences were corrected or removed to match the sources listed on this page.*

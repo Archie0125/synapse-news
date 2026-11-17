@@ -1,8 +1,9 @@
 ---
-title: "Tesla Q1 2026: Musk Commits $25B to AI and Robotics as Optimus Production Begins in July"
-summary: "Tesla's first-quarter 2026 earnings beat analyst expectations, but the real news was Elon Musk's $25 billion capital expenditure commitment — nearly three times 2025 spending — along with confirmation that Optimus humanoid robot production lines will begin running in late July. The announcement marks Tesla's most decisive pivot yet from electric vehicle maker to an integrated AI, robotics, and autonomous transport platform."
+title: "Tesla Q1 2026: Musk Commits $25B to AI and Robotics as Optimus Unveil Eyed for Late July or August"
+summary: "Tesla's first-quarter 2026 earnings beat analyst expectations on profit even as revenue missed, and the company said it expects to spend more than $25 billion in 2026, up from $8.5 billion in 2025. Musk said he would rather unveil Optimus closer to the start of production, which he put around late July or August."
 category: "hardware"
 publishedAt: 2026-04-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -34,23 +35,23 @@ Tesla delivered a mixed first quarter in 2026: revenue beat Wall Street expectat
 
 ## The Numbers: A Beat, Then a Warning
 
-Tesla reported Q1 2026 revenue of $22.39 billion, up 15.8% year-over-year, with earnings per share of $0.41 — both figures ahead of consensus estimates. Full self-driving subscriptions reached 1.28 million active users, the first substantial evidence that Tesla's long-promised software transition is beginning to materialize in recurring revenue.
+Tesla reported Q1 2026 revenue of $22.39 billion, up 16% year-over-year, with earnings per share of $0.41 adjusted. EPS beat consensus estimates, but revenue came in below the $22.64 billion expected. Full self-driving subscriptions reached 1.28 million active users, the first substantial evidence that Tesla's long-promised software transition is beginning to materialize in recurring revenue.
 
 But CFO Vaibhav Taneja followed the upbeat headline metrics with a sobering disclosure: the company expects to go negative on free cash flow for the remainder of 2026. The $25 billion capex plan — a figure $5 billion above the guidance Tesla itself issued just three months prior — will consume capital well beyond what operations generate in the near term.
 
 ## Where the $25 Billion Goes
 
-The investment spans five distinct initiatives that together describe a company attempting to become something it has never quite been: a hardware-software-infrastructure conglomerate built around AI.
+The investment spans several initiatives that together describe a company attempting to become something it has never quite been: a hardware-software-infrastructure conglomerate built around AI.
 
 **Optimus robot production** takes the largest mindshare. Musk confirmed that preparation for Tesla's first large-scale Optimus factory will begin in Q2 2026, with production ramping in "late July, August." He said he'd prefer to make the announcement closer to the actual start date rather than pre-announcing. The first-generation Optimus production line will be located in Fremont, California, replacing the Model S and Model X assembly lines. Its designed annual capacity is one million robots per year. A second-generation line planned for Gigafactory Texas targets ten million robots annually — a figure that, if achieved, would represent the largest humanoid robot manufacturing operation in history.
 
 **Cybercab manufacturing** is advancing in parallel. Tesla's purpose-built robotaxi — a vehicle with no steering wheel and no pedals — has been appearing in production line footage, and Musk reaffirmed plans to have Cybercab operating across "a dozen states" by the end of 2026. Meaningful robotaxi revenue is unlikely before 2027, Musk acknowledged, but the infrastructure buildout is underway now.
 
-**A dedicated AI chip fabrication facility in Austin**, shared with SpaceX and xAI, will receive approximately $3 billion of the capex. The move represents significant vertical integration: rather than depending solely on NVIDIA for GPUs powering Tesla's Dojo supercomputer and future AI training infrastructure, the company is building its own silicon supply chain alongside its Musk-universe partners.
+**A dedicated chip fabrication facility in Austin**, part of the broader TERAFAB project with SpaceX, is described as a $3 billion research fab to be built on Giga Texas grounds. The move represents significant vertical integration: rather than depending solely on NVIDIA for GPUs powering Tesla's Dojo supercomputer and future AI training infrastructure, the company is building its own silicon supply chain alongside its Musk-universe partners.
 
 **Expanded AI infrastructure for autonomy and humanoid robotics** rounds out the plan, including continued development of the Cortex platform — Tesla's internal supercomputing cluster — which underpins both FSD training and Optimus's neural networks.
 
-**New manufacturing capacity** for Cybertruck and next-generation vehicle platforms completes the spending portfolio, though the AI and robotics categories dominate investor attention.
+**New manufacturing capacity** for Semi, the Houston Gigafactory and battery production rounds out the spending, though the AI and robotics categories dominate investor attention.
 
 ## The Robotaxi Race Heats Up
 
@@ -77,3 +78,5 @@ The $25 billion capex plan is, at its core, a statement that Tesla believes its 
 Whether that vision materializes — or whether the free cash flow burn and execution risk of managing simultaneous chip fabrication, robotaxi deployment, and humanoid robot production lines overwhelms even a company of Tesla's scale — will define investor sentiment for years.
 
 The market's initial reaction was telling: shares briefly spiked 4% on the FCF beat before erasing gains as the capex details landed. The market knows what kind of company this is becoming. The question is whether the price is right.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

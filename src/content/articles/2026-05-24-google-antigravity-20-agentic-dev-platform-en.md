@@ -3,6 +3,7 @@ title: "Google Antigravity 2.0: The Agentic Development Platform That Wants to R
 summary: "Google launched Antigravity 2.0 at I/O 2026, a standalone agent-first development platform with a desktop app, CLI, SDK, and managed execution environment. Unlike traditional AI coding assistants, Antigravity treats agents as the primary interface for software development, enabling multi-agent orchestration, asynchronous task management, and autonomous verification across editor, terminal, and browser."
 category: "developer-tools"
 publishedAt: 2026-05-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -28,7 +29,7 @@ relatedSlugs:
 
 The story of developer tools over the past three years has been one of steady incremental addition: a Copilot here, an autocomplete there, a chat panel bolted to the side of an editor that developers already know and trust. The tools got better, but the underlying model — human in the driver's seat, AI offering suggestions — remained intact.
 
-Google's Antigravity 2.0, announced at I/O 2026 on May 19, is a more radical proposition. It does not try to add agentic capabilities to an existing editor. It starts from the premise that agents should be the primary interface for development, and builds a platform around that assumption from scratch.
+Google's Antigravity 2.0, announced at I/O 2026 on May 19, is a more radical proposition. It does not try to add agentic capabilities to an existing editor. It starts from the premise that agents should be the primary interface for development, building on the agent-first platform Google launched in November 2025.
 
 The result is a standalone desktop application — available on macOS, Windows, and Linux — paired with a command-line interface, a developer SDK, and a managed execution environment in the Gemini API, all organized around the idea that developers should be operating at the level of tasks and goals, not individual file edits and command executions.
 
@@ -50,7 +51,7 @@ The knowledge base can also be populated programmatically through the Antigravit
 
 ## Model Optionality and Cross-Provider Support
 
-One of the more surprising aspects of Antigravity 2.0 is its explicit support for models from competing providers. The platform ships with generous rate limits on Gemini 3.5 Flash and Gemini 3 Pro as the primary models, but also supports Anthropic's Claude Sonnet 4.5 and OpenAI's GPT-OSS in the same interface. Developers can configure which model to use per task, or let the platform select based on task type.
+One of the more surprising aspects of Antigravity 2.0 is its explicit support for models from competing providers. The original Antigravity launched with generous rate limits on Gemini 3 Pro and full support for Anthropic's Claude Sonnet 4.5 and OpenAI's GPT-OSS; it was later upgraded to Gemini 3.1 Pro, and with 2.0 users get access to Gemini 3.5 Flash. Developers can configure which model to use per task, or let the platform select based on task type.
 
 This is a deliberate strategy. Google's bet is that the platform — the tooling, the workflow, the deployment infrastructure — is the sticky layer, not the model. By supporting competitive models, Antigravity reduces the switching cost for developers who already use Claude or GPT in other contexts, while keeping Google's models in the default position that most users will never change.
 
@@ -83,3 +84,5 @@ The announcement lands in a market where the agentic IDE category is actively be
 Antigravity 2.0 is Google's most direct attempt to compete in this space with a first-party, fully integrated platform. Its advantages are integration depth — particularly with Android development and Google Cloud deployment — and the ability to leverage Google's model infrastructure at scale. Its challenge is the same one Google faces in developer tools generally: trust. Developers are conservative about their tooling, and persuading them to adopt a new primary development environment requires demonstrated reliability, not just impressive demos at a keynote.
 
 The platform's support for Anthropic and OpenAI models is, in this light, a smart concession: it lowers the adoption bar by allowing developers to continue using familiar models in a new context, while betting that the platform experience will prove compelling enough to keep them engaged long after the initial switch.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

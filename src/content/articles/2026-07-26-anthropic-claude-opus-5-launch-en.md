@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Releases Claude Opus 5: Near-Frontier Intelligence at Half the Price"
-summary: "Anthropic launched Claude Opus 5 on July 24, offering benchmark-beating performance—including a 43.3% score on the Frontier-Bench coding evaluation—at the same $5/$25 per-million-token price point as its predecessor. The model becomes the new default in Claude Code and Claude Max, targeting daily agentic workloads."
+summary: "Anthropic launched Claude Opus 5 on July 24, with a 43.3% score on the Frontier-Bench agentic terminal coding benchmark, at the same $5/$25 per-million-token price as its predecessor. The model is the default on Claude Max and the default for Claude Code daily work."
 category: "ai-ml"
 publishedAt: 2026-07-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,9 +29,9 @@ Anthropic has released Claude Opus 5, the company's most efficient frontier-clas
 
 ## A Model That Beats the Frontier at Its Own Game
 
-The headline number is on Frontier-Bench, a coding-intensive evaluation designed to stress-test a model's ability to write, debug, and reason about software. Claude Opus 5 scored 43.3% on the benchmark, compared with Fable 5's 33.7%—a lead of nearly ten percentage points that surprised even close observers of the model race. Anthropic attributed the gap to targeted fine-tuning for agentic workflows, where the model must string together dozens of tool calls and self-corrections across a session without human guidance.
+The headline number is on Frontier-Bench v0.1, an agentic terminal coding evaluation. Claude Opus 5 scored 43.3% on the benchmark, compared with Fable 5's 33.7%—a lead of nearly ten percentage points that surprised even close observers of the model race. Anthropic attributed the gap to targeted fine-tuning for agentic workflows, where the model must string together dozens of tool calls and self-corrections across a session without human guidance.
 
-On ARC-AGI-3, a test of novel problem-solving that resists the kind of rote memorization that can inflate benchmark scores, Opus 5 posted 30.2%—roughly three times the performance of competing models at similar price points. Its computer-use score on the OSWorld benchmark hit 70.6%, a figure that points directly at the autonomous agent market: the model can control a desktop environment well enough to handle real office workflows without hand-holding.
+On ARC-AGI-3, a test of novel problem-solving, Opus 5 posted 30.2%, roughly three times the next best model shown. Its computer-use score on the OSWorld benchmark hit 70.6%, a figure that points directly at the autonomous agent market: the model can control a desktop environment well enough to handle real office workflows without hand-holding.
 
 ## Pricing and Positioning
 
@@ -44,7 +45,7 @@ A Fast Mode is also available, delivering approximately 2.5 times the generation
 
 Claude Opus 5 ships with thinking enabled by default, reflecting Anthropic's view that deliberate, chain-of-thought reasoning should be the baseline for complex tasks rather than an optional add-on. The model carries a 1 million token context window and supports up to 128,000 output tokens per generation, both specifications that favor long-horizon agentic tasks over short conversational exchanges.
 
-What may matter more to enterprise buyers than the raw performance numbers is the alignment story. Opus 5 posted a 2.30 misalignment audit rating—the lowest of any model in the Anthropic lineup—meaning it produces fewer outputs that conflict with stated instructions or drift toward unintended behavior during extended autonomous operation. Lower variance in outputs was another deliberate design goal; in practice, this translates to more predictable behavior across repeated runs, which is critical for production deployment.
+What may matter more to enterprise buyers than the raw performance numbers is the alignment story. Opus 5 posted a 2.30 score on Anthropic's automated behavioral audit, where lower is better, beating Opus 4.8 (2.85), Mythos 5 (2.81) and Sonnet 5 (3.35). Lower variance in outputs was another deliberate design goal; in practice, this translates to more predictable behavior across repeated runs, which is critical for production deployment.
 
 The model also reflects a calculated tradeoff on cybersecurity: Opus 5 can identify software vulnerabilities competently, but Anthropic constrained it from providing detailed exploitation guidance. The company has been explicit that this is an intentional design choice, not a capability ceiling—a signal to enterprise security teams that the model can participate in defensive workflows without becoming a force multiplier for attackers.
 
@@ -58,6 +59,8 @@ For developers building on the Anthropic API, Opus 5 is accessible through the s
 
 The release comes during a month that has seen OpenAI's GPT-5.6 family and Google's Gemini 3.6 Flash both capture attention, compressing the time between frontier launches to a pace that was unthinkable two years ago. In that context, Opus 5's benchmark numbers carry a particular competitive weight: they demonstrate that the cost-performance curve in large language models is still bending sharply downward.
 
-The more provocative implication of Opus 5's Frontier-Bench score is what it says about capability diffusion. Anthropic's most expensive model can now be outperformed on coding tasks by its mid-tier offering—a pattern that, if it holds across labs, suggests that the gap between "flagship" and "everyday" AI is narrowing faster than pricing structures have adjusted to acknowledge. For buyers who locked in enterprise contracts pegged to Fable 5 pricing, that arithmetic deserves a second look.
+The more provocative implication of Opus 5's Frontier-Bench score is what it says about capability diffusion. Anthropic's Opus-class model now outscores Fable 5 on several benchmarks, including Frontier-Bench, though not all, a pattern that, if it holds across labs, suggests the gap between "flagship" and "everyday" AI is narrowing. For buyers who locked in enterprise contracts pegged to Fable 5 pricing, that arithmetic deserves a second look.
 
-What Anthropic is betting on is that the right response to a narrowing capability gap is not to hold back the cheaper model, but to accelerate the frontier one. Fable 5 retains its position on the hardest novel-problem benchmarks. The goal is for the two tiers to chase each other upward—with Opus 5 covering the territory that Fable 5 already mapped, and Fable 5 pushing into the unknown ahead of it.
+What Anthropic is betting on is that the right response to a narrowing capability gap is not to hold back the cheaper model, but to accelerate the frontier one. The goal is for the two tiers to chase each other upward—with Opus 5 covering the territory that Fable 5 already mapped, and Fable 5 pushing into the unknown ahead of it.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

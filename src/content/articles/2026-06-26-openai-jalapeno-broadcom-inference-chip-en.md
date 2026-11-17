@@ -1,8 +1,9 @@
 ---
 title: "OpenAI and Broadcom Unveil Jalapeño: ChatGPT's Maker Enters the Silicon Race"
-summary: "OpenAI revealed its first custom AI inference chip, co-developed with Broadcom, called Jalapeño. Built from concept to tape-out in just nine months—a record for high-performance ASICs—the chip targets the inference workloads that power ChatGPT and OpenAI's enterprise products, promising significantly better performance-per-watt than current NVIDIA alternatives."
+summary: "OpenAI revealed its first custom-built AI inference chip, co-developed with Broadcom, called Jalapeño. The chip is still being tested, but OpenAI says early results show significantly better performance-per-watt than current state-of-the-art alternatives."
 category: "hardware"
 publishedAt: 2026-06-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -36,11 +37,11 @@ Jalapeño is what the chip industry calls an ASIC — Application-Specific Integ
 
 It's a reticle-sized chip, meaning it occupies the maximum area possible on the silicon wafer given the lithography constraints of the fabrication process — a design choice that maximizes compute density. Early testing shows it delivers "performance per watt substantially better than current state-of-the-art," according to OpenAI, though the company has not yet published full benchmark numbers.
 
-"We have a deep understanding of the workload," said Greg Brockman, OpenAI's President, in a statement accompanying the launch. "We've really been looking for specific workloads that are underserved, [and asking] how can we build something that will be able to accelerate what's possible?"
+"We have a deep understanding of the workload," said Greg Brockman, OpenAI's President, on the company's in-house podcast shortly after the Broadcom partnership was announced. "We've really been looking for specific workloads that are underserved, [and asking] how can we build something that will be able to accelerate what's possible?"
 
 ## A Nine-Month ASIC: AI Designing AI Silicon
 
-What makes Jalapeño as technically impressive as the chip itself is how fast it was built. The partnership between OpenAI and Broadcom was announced in October 2025. From that initial design kick-off to manufacturing tape-out — the final step before a chip goes into production — took just **nine months**.
+The partnership between OpenAI and Broadcom was announced in October 2025. From that initial design kick-off to manufacturing tape-out — the final step before a chip goes into production — took just **nine months**.
 
 That's remarkable. Typical ASIC development cycles for high-performance, production-ready silicon run 18 to 24 months. Cutting that timeline in half required two things: Broadcom's deep expertise in custom silicon implementation, and something genuinely novel — OpenAI's own models were used to accelerate parts of the chip's design and optimization process.
 
@@ -50,7 +51,7 @@ It's a recursive achievement: AI helping design the chips that will run AI. Engi
 
 The distinction between training and inference chips is crucial to understanding why Jalapeño matters.
 
-Training is where raw computational brute force wins. You're running gradient descent across trillions of parameters with massive memory bandwidth requirements. NVIDIA's H100 and H200 GPUs, with their enormous HBM3 memory and NVLink interconnects, remain unmatched for this workload. OpenAI will continue using NVIDIA hardware for training its frontier models.
+Training is where raw computational brute force wins. You're running gradient descent across trillions of parameters with massive memory bandwidth requirements. NVIDIA's H100 and H200 GPUs, with their enormous HBM3 memory and NVLink interconnects, remain unmatched for this workload. More performance-intensive tasks like pre-training will likely still rely on NVIDIA hardware.
 
 Inference is a different beast. When you type a message into ChatGPT, a model runs forward pass computations in milliseconds, generating one token at a time until the response completes. This workload is high-frequency, latency-sensitive, and runs at scale across millions of simultaneous users. The cost profile is also different: inference is where OpenAI spends the bulk of its compute dollars *per day*.
 
@@ -87,3 +88,5 @@ The implications extend beyond cost savings. Custom silicon gives OpenAI the abi
 Nvidia's stock dipped 3.2% on the announcement day before recovering — a market signal that Wall Street understands the long-term implication. The inference market is vast and growing. Every billion queries per day that OpenAI routes through Jalapeño instead of NVIDIA GPUs is a direct hit to NVIDIA's service revenue.
 
 The AI infrastructure race is no longer just about model size. It's about who controls the silicon underneath.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

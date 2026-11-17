@@ -1,8 +1,9 @@
 ---
-title: "Senate Debates Whether AI Inventions Can Even Be Patented — and the Stakes Are Enormous"
-summary: "The Senate Judiciary Committee held a hearing on July 14 examining how patent law applies to AI-generated inventions, as Congress debates the Patent Eligibility Restoration Act. New research shows AI patents are being invalidated at significantly higher rates than non-AI patents, threatening the IP foundation that billions in AI investment depends upon."
+title: "Senate Judiciary Committee Examines Patent Eligibility as Study Finds AI Patents Invalidated More Often"
+summary: "The Senate Judiciary Committee held a hearing on July 14 on the patent eligibility debate, as Congress considers the Patent Eligibility Restoration Act. A new study finds AI patents asserted in district court are invalidated under Section 101 at significantly higher rates than non-AI patents."
 category: "policy"
 publishedAt: 2026-07-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 At 10:15 a.m. on July 14, in Room 216 of the Hart Senate Office Building, the Senate Judiciary Committee convened to answer a question that sounds technical but carries enormous economic weight: can artificial intelligence inventions actually be patented under current law, and if not, what happens to the trillions of dollars being invested on the premise that they can?
 
-The hearing — titled "Artificial Intelligence and Intellectual Property, Part I: Patents, Innovation, and Competition" — is the first in a series examining whether the United States patent system is fit for purpose in an era of generative AI. The session arrives against a backdrop of growing alarm in the research and startup communities that existing legal doctrine is systematically stripping AI companies of intellectual property protection at precisely the moment they need it most.
+The hearing — titled "Hearings To Examine Genes To Machines, Focusing On The Patent Eligibility Debate" — examined what kinds of innovations can be patented under current law. The session arrives against a backdrop of growing alarm in the research and startup communities that existing legal doctrine is systematically stripping AI companies of intellectual property protection at precisely the moment they need it most.
 
 ## The Alice Problem
 
@@ -38,7 +39,7 @@ To understand why this hearing matters, you need to understand Alice. In 2014, t
 
 Courts applying the *Alice* framework — in combination with an earlier ruling, *Mayo Collaborative Services v. Prometheus Laboratories* — have invalidated patents on everything from diagnostic methods to machine learning algorithms, often on the grounds that they involve an "abstract idea" implemented on generic computing hardware. The test is notoriously vague. Different judges have reached opposite conclusions on nearly identical technology descriptions, and the uncertainty has created a chilling effect on patent prosecution in fields most closely tied to AI.
 
-A study published the day before the hearing by the IP Policy Institute found that AI inventions face significantly higher rates of subject matter eligibility invalidations under Section 101 — the statutory provision where Alice and Mayo operate — compared to patents in other technology categories. The gap is not marginal. Depending on the technical domain, AI-related patents were invalidated at rates two to three times higher than comparable non-AI patents from the same era.
+A study published the day before the hearing by Professor Amy Semet, through her affiliation with the IP Policy Institute, found that AI patents asserted in U.S. district court litigation face significantly higher rates of subject matter eligibility invalidations under Section 101 — the statutory provision where Alice and Mayo operate — than non-AI patents. The gap is not marginal. Depending on the technical domain, AI-related patents were invalidated at rates two to three times higher than comparable non-AI patents from the same era.
 
 ## What the Patent Eligibility Restoration Act Would Do
 
@@ -73,3 +74,5 @@ The United States is not alone in wrestling with these questions. The European P
 In each jurisdiction, the core tension is the same: the patent system was designed in an era of physical invention, and its application to software and AI methods has been awkward almost from the start. The difference between countries is not whether they face the problem, but how aggressively they choose to solve it.
 
 For the US, where the AI industry is currently the world's largest and where investor confidence in AI IP is most economically significant, the outcome of the current legislative deliberation will shape the competitive landscape well beyond the current technology cycle. The July 14 hearing was not a vote, not a final decision, and not a resolution. It was, however, the Senate on record acknowledging that the question cannot be deferred much longer.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

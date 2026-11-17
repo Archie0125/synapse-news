@@ -3,6 +3,7 @@ title: "Qualcomm in Talks to Acquire Tenstorrent for Up to $10 Billion in RISC-V
 summary: "Qualcomm is in advanced discussions to acquire Tenstorrent, the Canadian RISC-V AI chip startup led by legendary chip architect Jim Keller, for between $8 and $10 billion — a threefold valuation jump in under a year. The deal, if completed, would hand Qualcomm a credible data center AI strategy, deep RISC-V expertise, and one of the most respected chip designers alive."
 category: "hardware"
 publishedAt: 2026-06-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -38,15 +39,15 @@ But the strategic logic is hard to miss. If the deal closes, it would be the mos
 
 ## Who Tenstorrent Is
 
-Founded in 2016 and headquartered in Toronto, Tenstorrent has spent a decade pursuing an approach to AI hardware that differs fundamentally from the GPU paradigm Nvidia has refined for three decades. Instead of adapting graphics processors to handle AI workloads, Tenstorrent built from the ground up on the RISC-V instruction set architecture — an open standard that allows chip designers to customize processor cores without paying licensing royalties to Arm or Intel.
+Founded in 2016, Tenstorrent has spent a decade pursuing an approach to AI hardware that differs fundamentally from the GPU paradigm Nvidia has refined for over two decades. Instead of adapting graphics processors to handle AI workloads, Tenstorrent built from the ground up on the RISC-V instruction set architecture — an open standard that allows chip designers to customize processor cores without paying licensing royalties to Arm or Intel.
 
-The company's flagship product, the Blackhole chip, reached general availability in April 2026. Its computing architecture, built around Tensix cores, takes a different view of how neural network computation should be distributed across silicon. Each Blackhole chip contains 768 RISC-V cores alongside dedicated AI engines and a high-bandwidth interconnect, designed for the kind of distributed inference workloads that large-scale AI deployments require.
+The company's flagship product, the Blackhole chip, reached general availability in April 2026. Its computing architecture, built around Tensix cores, takes a different view of how neural network computation should be distributed across silicon. Each Blackhole chip packs 120 Tensix cores, each with five RISC-V processors, alongside 16 larger RISC-V cores and a network-on-chip mesh, designed for the kind of inference workloads that large-scale AI deployments require.
 
 The Galaxy Blackhole platform packs 32 Blackhole chips into a 6U server enclosure — a dense, high-throughput configuration aimed at data center customers who want to run large models without the per-chip costs that Nvidia's H-series and B-series GPUs command.
 
 ## Why Jim Keller Is the Asset
 
-In any conversation about Tenstorrent, the name Jim Keller comes up first. His track record in semiconductor design is without parallel among active practitioners: he architected AMD's K8 processor, which rescued the company from near-bankruptcy in the early 2000s; designed the Apple A4 and A5 chips that defined the original iPhone's silicon; led AMD's Zen microarchitecture development; built Tesla's Full Self-Driving chip; and served as Intel's head of Silicon Engineering.
+In any conversation about Tenstorrent, the name Jim Keller comes up first.
 
 At Tenstorrent, Keller has applied that experience to the problem of AI hardware from first principles. His design philosophy emphasizes radical efficiency — extracting maximum compute from minimum power and area — rather than simply scaling up existing architectures. The RISC-V bet reflects a conviction that the future of AI hardware requires open, customizable cores that can be tailored to specific workloads rather than adapted from general-purpose designs.
 
@@ -54,7 +55,7 @@ For Qualcomm, acquiring Tenstorrent isn't just buying a company. It's hiring the
 
 ## What Qualcomm Needs
 
-Qualcomm's position in the AI era is a study in successful mobile dominance that didn't translate cleanly to data center opportunity. The Snapdragon SoC family commands the premium Android market and powers the majority of the world's smartphones. But data center AI, the sector that has generated the most dramatic value creation in technology over the past three years, has been essentially Nvidia's world — with some market share taken by AMD, Google's TPUs, and Amazon's Trainium.
+Qualcomm's position in the AI era is a study in successful mobile dominance that didn't translate cleanly to data center opportunity. The Snapdragon processor family powers most Android flagship phones. But data center AI, the sector that has generated the most dramatic value creation in technology over the past three years, has been essentially Nvidia's world — with some market share taken by AMD, Google's TPUs, and Amazon's Trainium.
 
 Qualcomm has made attempts to enter the data center AI space organically, but the results have been modest. The company's server-class Arm chips have found customers, but not at the scale or pricing that challenges Nvidia in inference or training. Meanwhile, Qualcomm's licensing dispute with Arm Holdings has added strategic urgency to its RISC-V ambitions — owning deep RISC-V capability reduces existential dependence on a supplier the company is actively litigating against.
 
@@ -79,3 +80,5 @@ What isn't in doubt is the direction of travel. As OpenAI builds its Jalapeño i
 ---
 
 *Talks are ongoing and no deal has been announced. Reuters and The Information first reported the discussions in June 2026.*
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

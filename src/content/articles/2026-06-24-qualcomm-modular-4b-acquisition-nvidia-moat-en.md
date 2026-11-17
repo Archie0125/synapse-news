@@ -3,6 +3,7 @@ title: "Qualcomm Nears $4B Deal for Modular to Attack Nvidia's Software Moat"
 summary: "Qualcomm is in advanced talks to acquire AI software startup Modular for approximately $4 billion, Bloomberg reports. The deal targets Nvidia's most durable competitive advantage — CUDA lock-in — by bringing Modular's hardware-agnostic Mojo language and MAX inference engine inside Qualcomm's growing chip stack."
 category: "hardware"
 publishedAt: 2026-06-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
 
 Qualcomm is in advanced discussions to acquire Modular, the AI infrastructure software startup founded by Chris Lattner and Tim Davis, for approximately $4 billion — a deal that, if completed, would represent the chipmaker's most strategically pointed challenge yet to Nvidia's grip on the AI software ecosystem.
 
-Bloomberg first reported the talks on June 22. The deal is expected to be announced in the coming days, timed conspicuously close to Qualcomm's Investor Day, which takes place on June 24.
+Bloomberg first reported the talks on June 22. The deal could be announced within weeks, according to Bloomberg, though the terms could change or the talks could fall through; the report landed two days before Qualcomm's June 24 Investor Day.
 
 ## Why Modular Matters
 
@@ -36,13 +37,13 @@ Modular was founded in 2022 by two engineers who met at Google: Chris Lattner, t
 
 Mojo is a superset of Python that compiles down to efficient machine code and is designed to run at speeds comparable to C++ across heterogeneous hardware, including Nvidia's H-series GPUs, AMD's Instinct accelerators, Intel's Gaudi chips, and Qualcomm's own AI processors. MAX is an inference optimization engine that sits on top of models exported from PyTorch or JAX and extracts near-optimal performance from whichever silicon is underneath it.
 
-The Nvidia moat that Qualcomm is targeting is real and deeply embedded. CUDA, Nvidia's proprietary computing platform, has been the default programming environment for AI research and development for more than a decade. Code written in CUDA does not run natively on competing chips. Moving a production AI workload from an Nvidia H100 to an AMD MI450 or a Qualcomm Cloud AI chip requires a rewrite — sometimes a partial one, sometimes a significant one — that introduces time, cost, and regression risk. That friction has kept customers on Nvidia hardware even in cases where alternatives are technically competitive or cheaper.
+The Nvidia moat that Qualcomm is targeting is real and deeply embedded. CUDA, Nvidia's programming layer, has been built up since the 2000s, and a vast ecosystem of tools, libraries and roughly four million developers has grown up around it. Code written in CUDA does not run natively on competing chips. Moving a production AI workload from an Nvidia H100 to an AMD MI450 or a Qualcomm Cloud AI chip requires a rewrite — sometimes a partial one, sometimes a significant one — that introduces time, cost, and regression risk. That friction has kept customers on Nvidia hardware even in cases where alternatives are technically competitive or cheaper.
 
 Mojo and MAX are an attempt to dissolve that friction with a software layer that abstracts away the underlying hardware. If successful, the tools would shift the buying decision for AI inference silicon away from "what does my code already run on" and toward pure metrics of performance, power, and price.
 
 ## Qualcomm's M&A Spree
 
-The Modular deal, if confirmed, would be Qualcomm's second major AI acquisition in June alone, alongside a separately reported $8–10 billion pursuit of Tenstorrent, the RISC-V AI chip startup backed by Hyundai and Samsung.
+The Modular deal, if confirmed, would come alongside a separately reported pursuit of Tenstorrent, the AI-chip startup valued at up to $10 billion.
 
 Together with the $2.4 billion Alphawave deal for high-speed interconnect technology and the acquisition of RISC-V design firm Ventana, Qualcomm has assembled the components of a vertically integrated AI computing stack: processing cores (Ventana), interconnect fabric (Alphawave), accelerator silicon (Tenstorrent), and now software portability (Modular).
 
@@ -62,4 +63,6 @@ One uncertainty hovering over the deal involves Modular's open source commitment
 
 How Qualcomm manages the tension between the commercial interest in making Modular's tools particularly well-optimized for Qualcomm silicon, versus the open source promise that they run well on all hardware, will be closely watched by the developer community and by Modular's enterprise customers. A perception that the tools have been weaponized as Qualcomm-specific rather than remaining genuinely hardware-agnostic would undermine the core value proposition that justified the acquisition price in the first place.
 
-Neither Qualcomm nor Modular commented on the reported deal as of publication time.
+Qualcomm declined to comment on the reported deal.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

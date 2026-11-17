@@ -1,8 +1,9 @@
 ---
-title: "Waymo and TU Delft Publish the AI World's First Rigorous Human-Driver Benchmark for Robotaxis"
-summary: "Waymo partnered with TU Delft to publish the 'Reference Driver' in Nature Communications — a computational model that simulates human driving behavior before crashes using active inference theory. The open-sourced research tool gives autonomous vehicle developers and regulators a scientific baseline for comparing robotaxi decisions against a careful human driver, arriving as Waymo prepares to defend its safety record across more cities."
+title: "Waymo and TU Delft Publish a New Human-Driver Benchmark for Robotaxis"
+summary: "Waymo partnered with TU Delft to publish the 'Reference Driver' in Nature Communications — a computational model that simulates human driving behavior before crashes using active inference theory. Waymo says it will help the company better understand how humans behave in crash scenarios its robotaxis encounter, and it is making the research code available under an academic, non-commercial license."
 category: "ai-ml"
 publishedAt: 2026-06-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,11 +33,11 @@ On June 10, Waymo took a significant step toward resolving this dispute on scien
 
 ## What the Reference Driver Is
 
-The model is built on a framework called active inference — a theory from computational neuroscience that describes decision-making as a continuous process of imagining possible futures, assigning probabilities to outcomes, and selecting actions that minimize "surprise" — the gap between expected and actual experience.
+The model is built on a framework called active inference — the theory that a driver is constantly imagining possible futures and taking actions to reach the safest, most predictable one.
 
 Applied to driving, this means the Reference Driver doesn't just model what a human does in the last fraction of a second before a collision. It models the entire behavioral sequence leading up to a conflict: when a driver first perceives a hazard, how their speed and lane position change in response, and what options they evaluate before taking evasive action. The model can simulate a "careful and competent human driver" responding to traffic conflicts in a way that previous computational approaches simply could not.
 
-"The model can simulate the internal 'surprise' a driver feels during a conflict, providing a more human-like benchmark for autonomous systems that was previously impossible to automate at scale," one of the TU Delft researchers explained in documentation accompanying the paper.
+"The Reference Driver can simulate the internal 'surprise' a driver feels during a conflict, providing a more human-like benchmark for autonomous driving systems that was previously impossible to automate at scale," Arkady Zgonnikov, an assistant professor at TU Delft, said in a statement.
 
 ## The Problem It Solves
 
@@ -52,13 +53,13 @@ Waymo is in an expansion phase. The company is operating in San Francisco, Los A
 
 The regulatory environment for autonomous vehicles has grown significantly more demanding over the past two years. The National Highway Traffic Safety Administration now requires detailed incident reports from AV operators within 24 hours of any crash involving an injury or airbag deployment. State regulators in California and Texas have imposed additional conditions on commercial robotaxi licenses. The scrutiny is not going away.
 
-Against this backdrop, the Reference Driver is a proactive move. Rather than waiting for regulators to demand a comparison methodology, Waymo is publishing one, open-sourcing the code under an academic non-commercial license, and establishing its preferred framework before others can impose one.
+Against this backdrop, the Reference Driver is a proactive move. Waymo is publishing a new human-driver model and making the research code available under an academic, non-commercial license.
 
 The choice to publish in *Nature Communications* — one of the highest-impact scientific journals in the world — is itself a statement. This is not a white paper from Waymo's communications team. It is peer-reviewed research that will be tested, challenged, and potentially adopted by independent researchers and eventually regulators. Waymo is betting its methodology can survive that scrutiny.
 
 ## The Open-Source Angle
 
-By releasing the research code under an academic license, Waymo is inviting the broader autonomous vehicle research community to use the Reference Driver as a shared baseline. If the model is adopted — by academic researchers, by competing AV companies in their own validation, or eventually by regulatory agencies — it becomes a de facto industry standard rather than a Waymo-proprietary tool.
+By making the research code available under an academic, non-commercial license, Waymo is inviting others to collaborate on pushing the Reference Driver further. If the model is adopted — by academic researchers, by competing AV companies in their own validation, or eventually by regulatory agencies — it becomes a de facto industry standard rather than a Waymo-proprietary tool.
 
 That outcome would serve Waymo's long-term interests well. A Waymo-developed benchmark, validated by the scientific community and adopted by regulators, would reflect practices that Waymo already follows. Competitors who have invested less in safety modeling would face a higher bar.
 
@@ -71,3 +72,5 @@ Waymo's safety data is the empirical foundation on which all of this research re
 The Reference Driver paper is, in one sense, Waymo translating those empirical results into a theoretical framework that others can use. The company is done proving to itself that its vehicles are safer. Now it is building the tools to prove it to everyone else.
 
 For an industry that has promised safety for a decade and delivered it inconsistently, a peer-reviewed, open-source benchmark developed with an academic partner and published in a top journal is a meaningful development. Whether it ultimately reshapes regulatory practice — or simply becomes a useful research tool for AV engineers — the Reference Driver is the most scientifically serious attempt yet to answer the question the autonomous vehicle industry has always struggled with: safer than whom, and measured how?
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

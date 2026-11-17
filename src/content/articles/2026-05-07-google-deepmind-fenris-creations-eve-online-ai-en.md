@@ -1,8 +1,9 @@
 ---
-title: "Google DeepMind Takes Stake in EVE Online's Studio, Rebranded Fenris Creations, in $120M AI Research Deal"
-summary: "CCP Games, the Icelandic studio behind the 23-year-old space MMO EVE Online, has split from its Korean parent Pearl Abyss, rebranded as Fenris Creations, and entered a research partnership with Google DeepMind, which has taken a minority equity stake. The $120 million deal will use EVE Online as a sandbox for training and evaluating AI on long-horizon planning, persistent memory, and continual learning — capabilities seen as critical gaps in current frontier models."
+title: "EVE Online's Studio Rebrands as Fenris Creations in $120M Buyout, Partners With Google DeepMind"
+summary: "CCP Games, the Icelandic studio behind the more than 20-year-old space MMO EVE Online, has split from its Korean parent Pearl Abyss, rebranded as Fenris Creations, and entered a research partnership with Google DeepMind, with Google taking a minority stake. The $120 million transaction value refers to the ownership change, while the research partnership will use an offline version of EVE Online to test and evaluate AI models on long-horizon planning, memory, and continual learning."
 category: "ai-ml"
 publishedAt: 2026-05-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -44,7 +45,7 @@ These are not incremental improvements on existing systems. They are, arguably, 
 
 ## Research Methodology
 
-To study these capabilities in a controlled scientific environment, Google DeepMind will work with an **offline version of EVE Online running on a local server**, isolated from the live game and its 23 years of accumulated player culture. This approach allows the research team to run experiments at arbitrary speed, reset states, and vary parameters in ways that would be impossible in a live multiplayer environment.
+To study these capabilities in a controlled environment, Google DeepMind will work with an **offline version of EVE Online running on a local server**, not connected to the live game. This approach allows the research team to run experiments at arbitrary speed, reset states, and vary parameters in ways that would be impossible in a live multiplayer environment.
 
 The offline environment also addresses the ethical complexity of using an active player community as unwitting research subjects. By isolating the research infrastructure from the live game, Fenris Creations and Google DeepMind can conduct rigorous scientific work without disrupting the experience of existing players.
 
@@ -52,7 +53,7 @@ More details about the research agenda will be shared publicly at **EVE Fanfest 
 
 ## The Corporate Transformation
 
-The Google DeepMind partnership was announced alongside a significant corporate restructuring that separated Fenris Creations from Pearl Abyss, the South Korean gaming conglomerate that had acquired CCP Games in 2018 for approximately $425 million. While the acquisition had provided financial stability during a turbulent period for the MMO genre, the separation appears to reflect a mutual agreement that Fenris Creations' future lies in a direction — AI research collaboration and platform development — that diverges meaningfully from Pearl Abyss's core gaming portfolio.
+The Google DeepMind partnership was announced alongside a significant corporate restructuring that separated Fenris Creations from Pearl Abyss, the South Korean gaming conglomerate that had acquired CCP Games in 2018 for approximately $425 million. While the acquisition had provided support for the company since 2018, a joint review of long-term strategy led both parties to conclude that the company is now best supported through independent ownership, while Pearl Abyss focuses on the growth of its own core titles and IP portfolio.
 
 Fenris Creations retains the same leadership team, staff, and operational structure. The rebrand reflects a deliberate attempt to signal a new strategic identity: not just a game studio, but a research organization that happens to have built and maintained one of the world's most sophisticated persistent simulations.
 
@@ -73,3 +74,5 @@ For Fenris Creations, the partnership offers something beyond capital: associati
 The collaboration raises intriguing questions about the future role of complex simulations in AI development. If EVE Online proves useful for advancing long-horizon planning and memory research, it could inspire a broader category of "complex simulation environments" as research tools — not games designed for fun, but persistent worlds designed to exhibit the properties most relevant to understanding and developing general-purpose AI.
 
 That would be a meaningful development for the field. One of the chronic criticisms of current AI benchmarks is that they are too narrow, too well-specified, and too disconnected from the messiness of real-world tasks to adequately measure genuine capability progress. An environment that has generated genuine emergent complexity over two decades of player interaction is, almost by definition, something different.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

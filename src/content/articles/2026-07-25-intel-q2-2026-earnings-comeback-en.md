@@ -1,8 +1,9 @@
 ---
-title: "Intel's Fastest Revenue Growth in 15 Years Can't Mask a Foundry Problem — Stock Falls 8%"
+title: "Intel's Fastest Revenue Growth Since 2011 Can't Mask Foundry Worries — Stock Falls 8%"
 summary: "Intel posted a stunning Q2 2026 beat — 25% revenue growth, 59% data center surge, and 18A yields climbing to 85% — but investors punished the stock after discovering that external foundry customers represent a mere sliver of a multi-billion-dollar segment. The Intel comeback story is real, but its most critical chapter remains unwritten."
 category: "hardware"
 publishedAt: 2026-07-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -36,11 +37,11 @@ Then came the fine print. Intel's foundry business brought in roughly $5.8 billi
 
 Start with the headline: Intel's total Q2 2026 revenue topped $16 billion, beating analyst consensus. The Data Center and AI segment — the business unit that houses Intel's Xeon server processors and accelerator products — grew 59% year-over-year to $6.3 billion. That kind of data center growth hasn't been seen since the earliest days of the cloud computing transition.
 
-The company's client computing group, which makes chips for PCs and laptops, also held its own amid signs of an AI PC upgrade cycle gaining traction. Consumers and enterprise IT departments alike are beginning to replace aging hardware with systems that can run local AI workloads — Intel's Core Ultra processors with integrated NPUs are designed precisely for that use case.
+Consumers and enterprise IT departments alike are beginning to replace aging hardware with systems that can run local AI workloads — Intel's Core Ultra processors with integrated NPUs are designed precisely for that use case.
 
-Most critically, Intel Foundry — the business unit tasked with manufacturing chips for outside customers — grew revenue 31% compared to a year ago. The 18A process node, once derided as vaporware by industry analysts, has now achieved commercial-grade yields. Apple and Microsoft have both confirmed participation as early design partners. Intel says it has signed ten long-term foundry agreements with unnamed customers, a significant jump from the handful that existed six months prior.
+Most critically, Intel Foundry — the business unit tasked with manufacturing chips for outside customers — grew revenue 31% compared to a year ago. The 18A process node, once derided as vaporware by industry analysts, has now achieved commercial-grade yields. Apple and Microsoft have both confirmed participation as early design partners.
 
-"We are now supply-constrained in our data center segment — a problem we have not had in years," Tan told analysts on the earnings call. "This is a fundamentally different Intel than the one we were 18 months ago."
+Intel said its data center operations cannot keep up with orders, leaving it unable to fully meet customer demand. "This is a fundamentally different Intel than the one we were 18 months ago."
 
 ## The Number That Deflated Everything
 
@@ -64,11 +65,11 @@ The 85% yield figure on 18A is the key data point that Intel needed to make this
 
 ## The Case for Patience
 
-Not everyone interpreted Thursday's sell-off as a death knell for the Intel turnaround narrative. Several analysts issued notes on Friday morning arguing that the stock reaction was an overreaction driven by investors misunderstanding the foundry revenue timeline.
+Not everyone interpreted Friday's sell-off as a death knell for the Intel turnaround narrative. Several analysts issued notes on Friday morning arguing that the stock reaction was an overreaction driven by investors misunderstanding the foundry revenue timeline.
 
-The argument goes roughly like this: external foundry customer agreements involve multi-year design cycles. A company that decides today to tape out a chip on Intel 18A will not place production wafer orders for 12 to 18 months. The ten long-term agreements Intel announced are functionally an order backlog — they represent future revenue that simply hasn't materialized yet because the customers are still in the design phase.
+The argument goes roughly like this: external foundry customer agreements involve multi-year design cycles. A company that decides today to tape out a chip on Intel 18A will not place production wafer orders for 12 to 18 months.
 
-Intel's 163% year-to-date gain heading into the earnings report also meant the bar for a positive stock reaction was extremely high. The company needed not just good results but blow-out results plus clear evidence of external demand — a combination that no single earnings quarter was likely to deliver simultaneously.
+Intel's big year-to-date gain heading into the earnings report also meant the bar for a positive stock reaction was extremely high. The company needed not just good results but blow-out results plus clear evidence of external demand — a combination that no single earnings quarter was likely to deliver simultaneously.
 
 CEO Lip-Bu Tan has repeatedly emphasized that the Intel foundry transformation is a multi-year project. He set an explicit target of generating $15 billion in annual external foundry revenue by 2030. Against that timeline, $174 million in one quarter is not a crisis — it is simply the early innings of a long build.
 
@@ -76,8 +77,10 @@ CEO Lip-Bu Tan has repeatedly emphasized that the Intel foundry transformation i
 
 The next major catalyst for Intel's foundry story will likely come in October, when the company is expected to name additional 18A customers and provide updates on the production ramp timeline for existing design partners. Any announcement naming a major fabless customer — a Qualcomm, a MediaTek, or a hyperscaler doing custom silicon — would be a significant inflection point for the stock.
 
-In the meantime, Intel's core businesses are genuinely thriving. Data center demand for Xeon processors accelerated as enterprises built out the CPU-side infrastructure needed to support their AI deployments. The AI PC cycle is creating a real PC upgrade tailwind for the first time since the pandemic-era surge. And the Foundry segment, whatever its external revenue limitations, is at least no longer a source of embarrassing headlines about process delays and yield failures.
+In the meantime, Intel's core businesses are genuinely thriving. Data center demand for Xeon processors accelerated as enterprises built out the CPU-side infrastructure needed to support their AI deployments. And the Foundry segment, whatever its external revenue limitations, is at least no longer a source of embarrassing headlines about process delays and yield failures.
 
 Intel's Q2 2026 report is the story of a company that has done everything it needed to do to get back in the game — and is now waiting for the market to verify that its bets on the future were correctly placed. The verification process, it turns out, takes longer than a single earnings quarter.
 
 For investors, the question is whether the 15-year record revenue growth is the beginning of a sustained structural recovery or a peak driven by cyclical AI demand that will prove harder to sustain. That answer won't come from quarterly revenue figures. It will come from the customer logos on the next foundry announcement.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Apple WWDC 2026 前瞻：Siri 大換腦，iOS 27 周一亮相"
-summary: "Apple 第 37 屆年度開發者大會將於 6 月 8 日登場，預計帶來 Siri 15 年來最重大的架構翻新：獨立 App、持久對話記憶、螢幕感知能力，以及結合 Apple 自有模型與 Google Gemini 的混合 AI 技術棧。iOS 27、macOS 27 等六大平台更新也將一同亮相。"
+summary: "Apple 開發者大會將於 6 月 8 日登場，預計帶來 Siri 的重大翻新，包含獨立 App、螢幕感知與個人脈絡，並由 Google 的 Gemini 模型支撐新一代 Apple Foundation Models。iOS 27、iPadOS 27 與 macOS 27 預計也將一同亮相。"
 category: "products"
 publishedAt: 2026-06-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 兩年前的 WWDC 2024，Apple 承諾帶來全新 Siri，卻沒兌現。一年前的 WWDC 2025，Apple 再次承諾，依然沒有到位。這個週一，WWDC 2026，Apple 把所有賭注壓在這一張牌上。
 
-**Apple 全球開發者大會**將於 6 月 8 日上午 10 點（太平洋時間）以主題演講揭幕，這場發表會被普遍視為近年來 Apple 最關鍵的一場。核心故事是 Siri——一次從架構層次徹底翻修的改造，將長期被外界取笑的語音助理真正打造成一款 AI 產品。圍繞這個主軸，六大平台將同步推出新版作業系統，以及一系列 Apple Intelligence 功能擴充，若執行到位，將重塑全球超過十億 iPhone 用戶每天與裝置互動的方式。
+**Apple 全球開發者大會**將於 6 月 8 日上午 10 點（太平洋時間）以主題演講揭幕，這場發表會被普遍視為近年來 Apple 最關鍵的一場。核心故事是 Siri——預計包含獨立 App、螢幕感知與個人脈絡的重大翻新，並由 Google 的 Gemini 模型支撐新一代 Apple Foundation Models。預計將推出的 iOS 27、iPadOS 27 與 macOS 27 也將一同亮相，並帶來一系列 Apple Intelligence 功能擴充，若執行到位，將重塑全球超過十億 iPhone 用戶每天與裝置互動的方式。
 
 ## Siri 2.0：從語音捷徑到真正的 AI 助理
 
@@ -38,7 +39,7 @@ relatedSlugs:
 
 這個架構轉變，解決了 Siri 最持久的痛點：每次對話結束就忘得一乾二淨。新版 Siri 接受參照前輪對話內容的追問，可搜尋過去的互動記錄，並能跨多輪對話綜合資訊作出回應，而非將每個問題視為獨立查詢。
 
-Apple 在 2024 年就預告的幾項能力——**個人脈絡感知**（理解你的人際關係、行事曆記錄、近期裝置活動）、**螢幕感知**（直接看到並操作螢幕上顯示的內容，不需要用戶另行描述）、**跨 App 操作**（跨多個應用程式執行多步驟任務）——預計在本次 WWDC 全數落地。根據 Bloomberg 的報導，這些功能終於就緒，背後的關鍵是 Apple 與 **Google** 擴大合作，將 Gemini 模型引入 Apple 的 **Private Cloud Compute** 基礎設施，在 Apple 自家資料中心的 Nvidia 硬體上運行。
+Apple 在 2024 年就預告的幾項能力——**個人脈絡感知**（可存取電子郵件、訊息、檔案與照片）、**螢幕感知**（看到並操作螢幕上顯示的內容）、**跨 App 操作**（在 App 內與跨 App 完成任務）——預計在本次 WWDC 預覽，但這些功能是否都會在 Beta 版或 iOS 27 正式推出時提供，目前尚不明朗。根據 Bloomberg 的報導，這些功能終於就緒，背後的關鍵是 Apple 與 **Google** 擴大合作，將 Gemini 模型引入 Apple 的 **Private Cloud Compute** 基礎設施，在 Apple 自家資料中心的 Nvidia 硬體上運行。
 
 對於超出裝置端模型能力範圍的查詢，用戶將可選擇第三方 AI 引擎：**Google Gemini**、**OpenAI 的 ChatGPT** 或 **Anthropic 的 Claude**。iOS 27 因此成為首個讓用戶真正選擇 AI 模型而非鎖定單一供應商的 Apple 作業系統。
 
@@ -83,3 +84,5 @@ WWDC 2026 的賭注格外沉重，因為 Apple 在 AI 領域的公信力已然�
 開發者 Beta 版與主題演講同日開放下載，公開 Beta 版預計 7 月跟進，完整消費者版本將於 9 月搭配新款 iPhone 硬體一同推出。
 
 對全球近 15 億台活躍 iOS 裝置的用戶而言，週一的主題演講是過去兩年積累的那個問題的最直接解答：Apple 到底是真正進入了 AI 時代，還是依然只是站在旁邊觀望？
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

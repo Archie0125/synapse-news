@@ -3,6 +3,7 @@ title: "Google's Gemini 3.6 Flash Brings Built-In Computer Use and Becomes the D
 summary: "Google launched Gemini 3.6 Flash on July 21 at $1.50 per million input tokens, adding built-in computer use, a 1-million-token context window, and 280 tokens per second throughput. The model is now the default powering Gemini API Managed Agents, which simultaneously gained background execution, remote MCP connections, scheduled cron triggers, and a free tier — making autonomous cloud agents significantly easier to build and run."
 category: "developer-tools"
 publishedAt: 2026-08-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-08-01-deepseek-v4-flash-0731-agent-benchmarks-en"
 ---
 
-Two separate Google releases, arriving two weeks apart, have together shifted what developers can build with the Gemini API. On July 7, Managed Agents — Google's hosted sandbox infrastructure for autonomous agents — gained background execution, remote MCP connections, and scheduled triggers. On July 21, Gemini 3.6 Flash launched as the new default model powering those agents, bringing computer use, multimodal input, and a price point that undercuts its predecessor. Together they form a coherent developer story: a faster, more capable agent runtime at lower cost.
+Two separate Google releases, arriving three weeks apart, have together shifted what developers can build with the Gemini API. On July 7, Managed Agents — Google's hosted sandbox infrastructure for autonomous agents — gained long-running background task support and remote MCP server integration. On July 28, Gemini 3.6 Flash became the new default model powering those agents, with a lower output token price than its predecessor. Together they form a coherent developer story: a faster, more capable agent runtime at lower cost.
 
 ## Gemini 3.6 Flash: What Changed
 
@@ -82,3 +83,5 @@ For independent developers and startups, though, the combination of Gemini 3.6 F
 The highest-value experiments right now involve the intersection of computer use and background execution: tasks where an agent needs to navigate a graphical interface to extract or input information, and where that task runs for minutes or hours without requiring a live connection. Scheduled code review pipelines, competitive analysis crawlers, and document processing automations are the workflows most immediately suited to the new capability stack.
 
 The Gemini API changelog notes that the gemini-robotics-er-1.6-preview model will be shut down on August 31, 2026, and several image generation models are being deprecated on August 17. Developers relying on those specific model identifiers should plan migrations before those dates.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

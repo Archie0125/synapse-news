@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Launches ChatGPT Work: The Super App That Turns AI Into an Employee"
-summary: "OpenAI unveiled ChatGPT Work on July 9, a long-awaited enterprise 'super app' powered by GPT-5.6 that autonomously executes complex multi-step workflows. The launch merges ChatGPT, Codex, and new workspace agents into a single platform, directly targeting Anthropic's Claude Cowork and signaling a new phase in the battle for enterprise AI."
+summary: "OpenAI unveiled ChatGPT Work on July 9, an agent in ChatGPT powered by GPT-5.6 that gathers information across apps and works through complex projects in smaller steps. The launch merges the Codex app into a new ChatGPT desktop app alongside Chat and Work, and puts OpenAI in direct competition with Anthropic's Claude Cowork."
 category: "products"
 publishedAt: 2026-07-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-07-09-openai-gpt-live-full-duplex-voice-en"
 ---
 
-OpenAI's long-anticipated enterprise offensive arrived this week with the launch of ChatGPT Work, a platform that fundamentally redefines what the company's flagship product can do. Announced Thursday, July 9, and now rolling out to Pro and Enterprise users, ChatGPT Work is less a chatbot upgrade and more a wholesale reconstruction of how AI integrates into professional workflows — one that OpenAI hopes will finally displace Anthropic's growing grip on the enterprise segment.
+OpenAI's long-anticipated enterprise offensive arrived this week with the launch of ChatGPT Work, a platform that fundamentally redefines what the company's flagship product can do. Announced Thursday, July 9, and rolling out first to Pro, Enterprise and Edu users on web and mobile, ChatGPT Work is less a chatbot upgrade and more a wholesale reconstruction of how AI integrates into professional workflows.
 
 ## What ChatGPT Work Actually Does
 
@@ -35,11 +36,11 @@ At its core, ChatGPT Work is an autonomous execution environment. Users hand it 
 
 The output is concrete: spreadsheets, slide decks, polished documents, and functional web apps, all generated without the back-and-forth that has characterized AI-assisted work to date. OpenAI officials described it as the difference between a tool that gives you ideas and one that "ships finished work."
 
-The platform runs on GPT-5.6, the company's newest flagship model family introduced alongside ChatGPT Work. The Sol variant of GPT-5.6 — optimized for agentic coding and computer-use tasks — posted 88.8% accuracy on Terminal-Bench 2.1, a developer-terminal coding benchmark, narrowly edging Anthropic's Fable 5 at 88%. Altman told CNBC that Sol is 54% more token-efficient on agentic coding tasks than its predecessor, a figure that translates directly to cost savings for enterprise deployments running agents at scale.
+The platform runs on GPT-5.6, the company's newest flagship model family introduced alongside ChatGPT Work. The Sol variant of GPT-5.6 — optimized for agentic coding and computer-use tasks — posted 88.8% accuracy on Terminal-Bench 2.1, a developer-terminal coding benchmark, narrowly edging Anthropic's Fable 5 at 88%. Altman said Sol is 54% more token efficient on agentic coding jobs and "as good or better" than competing models on the market.
 
 ## Merging the Product Family
 
-The ChatGPT Work launch also reorganizes OpenAI's increasingly sprawling product lineup. The standalone Codex application — which OpenAI introduced earlier this year as its coding agent — is folding into a redesigned ChatGPT desktop application that puts Chat, Work, and Codex under a unified interface. Notably, the new desktop app makes all three available on the Free tier, not just paid plans — a significant broadening of access.
+The ChatGPT Work launch also reorganizes OpenAI's increasingly sprawling product lineup. The standalone Codex application is merging into a redesigned ChatGPT desktop application that puts Chat, Work, and Codex under a unified interface. Notably, the new desktop app makes all three available on the Free tier, not just paid plans — a significant broadening of access.
 
 Workspace agents represent another new layer. Enterprise and Business users can now create custom agents, test them, share them within their organizations, and schedule them to run automatically, including as integrations inside Slack for Business and Enterprise workspaces. The agents can connect to internal data sources, giving them the operational context required to function within a specific company's environment rather than starting from scratch on every session.
 
@@ -49,7 +50,7 @@ The competitive framing inside OpenAI's announcement was unusually direct. Multi
 
 Anthropic had the head start, and it mattered. That head start gave Anthropic considerable leverage in enterprise procurement conversations, as IT buyers who built internal processes around Cowork face nontrivial switching costs. OpenAI officials said ChatGPT Work would be "both cheaper and more broadly available" than rival offerings — a pointed jab at both Cowork's enterprise pricing tier and at xAI's Grok 4.5, which debuted last week at a premium price point.
 
-The pricing structure for ChatGPT Work has not been fully disclosed, but OpenAI indicated it would be bundled into existing ChatGPT subscriptions rather than sold as a standalone product — effectively offering agentic capabilities at a lower incremental cost to users already paying for Pro or Business access.
+OpenAI has not published per-task prices for ChatGPT Work, which follows the same usage structure as Codex: longer, more involved tasks consume more of a plan's included usage.
 
 ## A Broader Platform Consolidation
 
@@ -63,6 +64,8 @@ Both companies are also reportedly preparing for potential initial public offeri
 
 For developers building on the OpenAI platform, the Work rollout introduces workspace agent APIs that streamline much of what previously required complex orchestration through the Assistants API. The new endpoints simplify agent creation, scheduling, and enterprise environment integration.
 
-Codex's absorption into the unified ChatGPT desktop app also signals a philosophical shift: OpenAI now treats code generation as one capability within a general-purpose work platform, not a specialized standalone tool. Developers who built workflows around the standalone Codex app should monitor the transition timeline, as OpenAI plans to phase out the standalone version in the coming weeks.
+Codex's absorption into the unified ChatGPT desktop app also signals a philosophical shift: OpenAI now treats code generation as one capability within a general-purpose work platform, not a specialized standalone tool. Developers who built workflows around the standalone Codex app should monitor the transition, though they can keep Codex as their default view in the new desktop app.
 
 The broader message from this week's launch is unmistakable: OpenAI sees the enterprise as the central battleground for the next phase of AI adoption, and it is no longer content to cede that ground to Anthropic while competing primarily on model benchmarks.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

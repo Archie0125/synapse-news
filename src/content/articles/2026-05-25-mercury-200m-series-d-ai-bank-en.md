@@ -1,8 +1,9 @@
 ---
 title: "Mercury Raises $200M at $5.2B Valuation to Become the Default Bank for AI Startups"
-summary: "Mercury, the fintech platform banking one in three U.S. startups, closed a $200 million Series D at a $5.2 billion valuation—up 49% in just 14 months. The round comes weeks after the OCC granted conditional approval for Mercury Bank, a federal charter that would allow the company to operate as a full-service bank rather than relying on partner institutions. AI startup formation is driving Mercury's fastest growth period in company history."
+summary: "Mercury, the fintech platform that counts a third of early-stage startups among its customers, closed a $200 million Series D at a $5.2 billion valuation—up 49% in 14 months. The round comes weeks after the OCC granted conditional approval for Mercury to become a federally regulated bank, which would reduce its reliance on partner banks. CEO Immad Akhund says AI startup formation is fueling recent growth."
 category: "startups"
 publishedAt: 2026-05-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,17 +30,17 @@ relatedSlugs:
   - "2026-05-22-hark-700m-series-a-brett-adcock-universal-ai-en"
 ---
 
-In the first funding round to directly acknowledge the "AI startup formation boom" as a primary growth driver, Mercury closed a $200 million Series D on May 20, valuing the company at $5.2 billion—a 49% increase from the $3.5 billion valuation it carried just 14 months ago. The round was led by TCV, with participation from Andreessen Horowitz, Coatue, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital.
+Mercury raised a $200 million Series D at a $5.2 billion valuation, a 49% increase from the $3.5 billion valuation it achieved 14 months ago. The round was led by TCV, with participation from Andreessen Horowitz, Coatue, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital.
 
-The timing is not coincidental. Mercury has positioned itself at the intersection of two compounding trends: the explosion in AI startup formation, which has dramatically compressed the time to launch a venture-backed company, and the persistent inadequacy of traditional banking infrastructure for technology companies. The result is a company that now banks more than 300,000 customers—including one in three U.S. startups—posting $650 million in annualized revenue and four consecutive years of GAAP profitability.
+The timing is not coincidental. Mercury has positioned itself at the intersection of two compounding trends: the explosion in AI startup formation, which has dramatically compressed the time to launch a venture-backed company, and the persistent inadequacy of traditional banking infrastructure for technology companies. The result is a company with more than 300,000 customers—including a third of early-stage startups—posting $650 million in annualized revenue and four consecutive years of profitability.
 
 ## The OCC Charter: From Fintech to Actual Bank
 
 The funding announcement arrived just weeks after a milestone that fundamentally changes Mercury's regulatory and competitive standing. In April 2026, the Office of the Comptroller of the Currency granted conditional approval for Mercury to establish Mercury Bank, a de novo national bank charter—the first such approval for a startup-focused fintech in years.
 
-The charter, applied for in December 2025, would allow Mercury to operate as a full-service federally regulated bank rather than offering banking services through partner institutions like Choice Financial Group and Evolve Bank & Trust. The practical implications are significant:
+The charter would allow Mercury to operate as a federally regulated bank and reduce its reliance on partner banks such as Column and Choice Financial. The practical implications are significant:
 
-**Zelle integration**: As a chartered bank, Mercury can connect directly to the Zelle payment network, currently unavailable to non-chartered institutions. Zelle processed $806 billion in transactions in 2025, and its availability is a meaningful differentiator for Mercury's small business and startup customers who transact heavily with other businesses.
+**Zelle integration**: Once it is a regulated bank, Mercury will be able to join the Zelle network for instant payments. Zelle processed $806 billion in transactions in 2025, and its availability is a meaningful differentiator for Mercury's small business and startup customers who transact heavily with other businesses.
 
 **Expanded lending**: A direct charter enables Mercury to underwrite and hold loans on its own balance sheet rather than originating through partners. Mercury already offers revenue-based financing and venture debt; as a chartered bank, it could offer a broader product suite with better pricing.
 
@@ -49,11 +50,11 @@ The charter, applied for in December 2025, would allow Mercury to operate as a f
 
 ## AI Startup Formation as a Growth Engine
 
-Mercury's CEO Immad Akhund has been explicit about what's driving the company's accelerating growth: the AI startup boom. The speed at which founders can now build companies—using AI for engineering, customer support, marketing, and operations—has compressed the formation-to-revenue timeline significantly. Mercury reports a 2.5x year-over-year increase in new account applications, with a disproportionate share coming from AI-native companies.
+Mercury's CEO Immad Akhund has said AI is a big enabler of the company's recent growth. The speed at which founders can now build companies—using AI for engineering, customer support, marketing, and operations—has compressed the formation-to-revenue timeline significantly. Mercury reports a 2.5x year-over-year increase in new account applications, with a disproportionate share coming from AI-native companies.
 
 More than 300,000 customers have chosen Mercury, and the company reports that a rapidly growing share of those customers are AI companies—from solo founders building with large language models to Series B companies deploying autonomous agents for enterprise workflows. Mercury's pitch to this cohort is a combination of developer-friendly APIs, treasury management tools, and financial infrastructure designed for companies that are themselves built on software.
 
-The company's first in-product AI feature, Mercury Insights, launched in 2025, gives customers a real-time, interactive view of their financial health—burn rate projections, revenue trend analysis, and cash flow forecasting. For a startup founder whose primary job is building product, not managing finances, the ability to query a financial assistant rather than reconciling spreadsheets represents a meaningful quality-of-life improvement.
+Mercury recently launched tools that let businesses interact with their accounts through AI agents, and it plans to unveil a broader AI interface later this year that will let customers approve payments, send invoices and manage finances with conversational language. For a startup founder whose primary job is building product, not managing finances, the ability to query a financial assistant rather than reconciling spreadsheets represents a meaningful quality-of-life improvement.
 
 ## Four Years of Profitability in a Sector Known for Losses
 
@@ -77,4 +78,6 @@ Mercury plans to deploy the $200 million toward three priorities: accelerating t
 
 The timing of the round—coming as AI startup formation continues to accelerate and just weeks after a landmark regulatory approval—reflects an investor base betting that Mercury is positioned to be the default financial infrastructure layer for a startup ecosystem increasingly defined by AI-native companies.
 
-"Artificial intelligence is dramatically accelerating the pace at which founders can build companies," Akhund said in a statement accompanying the announcement. "Mercury was founded to serve that next generation of business builders, and we're just getting started."
+"AI is collapsing the friction between an idea and a company faster than anything I have seen in my career," Akhund said in a press release. "Mercury was founded to serve that next generation of business builders, and we're just getting started."
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

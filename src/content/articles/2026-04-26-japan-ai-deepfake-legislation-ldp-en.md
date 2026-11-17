@@ -1,8 +1,9 @@
 ---
-title: "Japan's Ruling Party Moves to Criminalize AI Deepfakes, With Anime and Manga in the Crosshairs"
-summary: "Japan's Liberal Democratic Party has drafted legislation seeking criminal penalties for repeat offenders who use generative AI to create unauthorized images of anime and manga characters, or to produce non-consensual explicit deepfakes of real people — marking a significant hardening of the country's otherwise innovation-first AI policy and the first move toward criminal liability in the Indo-Pacific region for specific AI content misuse."
+title: "Japan's Ruling Party Urges Government to Consider AI Penalties Over Deepfakes and Copyright Infringement"
+summary: "Japan's Liberal Democratic Party is urging the government to consider adding penalties to the country's AI law, citing concerns over deepfakes and copyright infringement tied to generative AI, including content resembling anime and manga characters."
 category: "policy"
 publishedAt: 2026-04-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,21 +32,21 @@ relatedSlugs:
 
 Japan has long positioned itself as among the world's most AI-friendly jurisdictions — a country that explicitly welcomed AI training on copyrighted works, resisted the punitive impulses of the EU AI Act, and passed its first national AI law in May 2025 deliberately without financial penalties. That posture is now under revision.
 
-Japan's ruling Liberal Democratic Party (LDP) has drafted new legislation that would for the first time impose criminal penalties on repeat offenders who misuse generative AI, with a particular focus on two categories of harm that have become acute in Japan's cultural and social landscape: the unauthorized generation of anime and manga character images, and the creation of non-consensual explicit deepfakes featuring real people. If enacted, Japan would become the first major democratic nation in the Indo-Pacific region to criminalize specific categories of AI-generated content misuse.
+Japan's ruling Liberal Democratic Party (LDP) is urging the government to consider adding penalties to the country's AI law, citing concerns over deepfakes and copyright infringement tied to generative AI, including unauthorized images resembling anime and manga characters. If enacted, Japan would become the first major democratic nation in the Indo-Pacific region to criminalize specific categories of AI-generated content misuse.
 
 ## From Innovation-First to Enforcement-Ready
 
-Japan's existing AI framework — the Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-related Technology, which became law in May 2025 — was drafted with a deliberately light regulatory touch. It empowers the government to investigate serious incidents and issue guidance, but includes no monetary penalties and no criminal liability. The philosophy was intentional: Japanese policymakers were wary of hampering the nation's AI development aspirations with the kind of compliance overhead that drew sustained criticism of the EU's approach.
+Japan's existing AI framework — the Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-related Technology, which became law in May 2025 — was drafted with a deliberately light regulatory touch. It includes provisions for government investigation and guidance when AI harms people's rights or interests, but lacks punitive provisions. The philosophy was intentional: Japanese policymakers were wary of hampering the nation's AI development aspirations with the kind of compliance overhead that drew sustained criticism of the EU's approach.
 
 But eighteen months of real-world AI deployment have shifted the political calculus. Japan has witnessed a significant rise in AI-generated content that violates intellectual property rights and personal dignity, from synthetic images of living celebrities in compromising contexts to AI-generated reproductions of iconic anime characters used in unauthorized merchandise and content distribution.
 
-The LDP proposal, reported by UPI on April 23, calls for penalties on businesses that repeatedly ignore government requests to take down infringing or harmful AI-generated content. It also advocates criminal consequences for individuals who are serial offenders — those who, after receiving cease-and-desist notices, continue to generate and distribute prohibited content.
+The LDP proposal, reported by UPI on April 23, calls on the government to study penalties for businesses that ignore reporting or information requests. It also advocates criminal consequences for individuals who are serial offenders — those who, after receiving cease-and-desist notices, continue to generate and distribute prohibited content.
 
 ## Anime: Japan's Cultural and Commercial Flashpoint
 
 The focus on anime and manga is not incidental. Japan's anime industry generated approximately ¥2.7 trillion ($18 billion) in revenue in 2024, with character intellectual property representing a substantial portion of that value. The emergence of AI tools capable of generating near-perfect imitations of copyrighted character designs — at scale and without licensing fees — has alarmed studios, original artists, and the creative unions that represent them.
 
-The problem is compounded by geography. Many of the AI services generating unauthorized anime-style content are operated by companies based outside Japan — in the United States, Europe, and China — making domestic enforcement orders practically difficult to execute against the actual operators. The LDP proposal explicitly addresses this, calling on the Japanese government to adopt a more active posture toward overseas operators that repeatedly produce infringing content, including through international legal cooperation frameworks.
+The problem is compounded by geography. Many of the AI services generating unauthorized anime-style content are operated by companies based outside Japan — in the United States, Europe, and China — making domestic enforcement orders practically difficult to execute against the actual operators. The LDP proposal addresses this, calling on the Japanese government to take a more active approach toward operators that repeatedly generate copyright-infringing content.
 
 Several major Japanese studios, including those behind globally recognized franchises, have filed formal complaints with Japan's Agency for Cultural Affairs over AI-generated reproductions of their characters. The complaints argue that even though existing Japanese copyright law carves out broad exceptions for AI training, the downstream commercial use of AI-generated character images falls outside those exceptions and constitutes infringement — a legal interpretation that remains contested and largely untested in court.
 
@@ -63,7 +64,7 @@ The LDP's proposal must navigate a genuine tension. Japan's approach to AI devel
 
 There is a legitimate concern among Japanese AI researchers and industry groups that introducing criminal penalties — even targeted at clear cases of abuse — could create chilling effects on legitimate AI development and creative applications. The question of where "unauthorized anime character reproduction" ends and "AI-generated art in the style of anime" begins is not legally trivial; that boundary matters enormously to the thousands of independent artists and developers who use AI tools in their creative workflows.
 
-The LDP's current draft attempts to thread this needle by focusing penalties on repeat offenders and commercial-scale abuse rather than individual creative uses. The proposed framework targets "businesses that ignore requests" and individual "repeat offenders" — language designed to avoid criminalizing one-time or accidental violations while creating clear deterrence against systematic abuse.
+The LDP's recommendations call on the government to study penalties and take a more active approach toward operators that repeatedly generate infringing content.
 
 Whether that framing survives parliamentary debate is uncertain. Japan's legislative process will expose the draft to significant legal scrutiny, and the difficulty of defining "repeat offender" and "commercial scale" precisely enough to withstand constitutional challenge may require substantial revision before the bill progresses.
 
@@ -76,3 +77,5 @@ If the LDP legislation passes in its current form, it signals that even the most
 For global AI companies, the Japan draft carries practical implications regardless of its final form. The call for enforcement against overseas operators — backed by the threat of international legal cooperation mechanisms — suggests that geographic distance will become less reliable as a shield against content-related liability in major markets. Companies whose services can generate unauthorized anime character images or non-consensual explicit content may face increasing pressure to implement proactive content controls for the Japanese market, or risk being targeted under the new framework if it passes.
 
 The global AI governance picture remains far from settled. Japan's proposed shift from promotion to enforcement — however targeted and narrowly scoped — represents a meaningful data point in the evolving international consensus about what AI companies owe the societies whose cultural output and personal dignity their systems can so easily reproduce, distort, or exploit.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

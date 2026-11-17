@@ -1,8 +1,9 @@
 ---
 title: "Silicon Valley Unites Against Chinese AI Theft: The Frontier Model Forum Goes to War"
-summary: "OpenAI, Anthropic, and Google have activated the Frontier Model Forum as a live threat-intelligence operation, pooling defenses against an industrial-scale adversarial distillation campaign traced to DeepSeek, Moonshot AI, and MiniMax. Anthropic alone documented 16 million unauthorized extractions via 24,000 fake accounts and has banned all Chinese-controlled companies from Claude."
+summary: "OpenAI, Anthropic, and Google are sharing threat intelligence through the Frontier Model Forum to counter adversarial distillation by Chinese firms. Anthropic has accused DeepSeek, Moonshot AI, and MiniMax of generating over 16 million exchanges with Claude via about 24,000 fraudulent accounts, and has banned Chinese-controlled companies from using Claude."
 category: "policy"
 publishedAt: 2026-04-13T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-04-12-anthropic-mythos-cybersecurity-model-en"
 ---
 
-OpenAI, Anthropic, and Google have formally declared that they are sharing threat intelligence to combat what they describe as an industrial-scale campaign to steal their frontier AI models — and for the first time, they have named the adversaries: DeepSeek, Moonshot AI, and MiniMax.
+OpenAI, Anthropic, and Google are sharing threat intelligence through the Frontier Model Forum to combat what they describe as adversarial distillation by Chinese rivals. Anthropic has accused DeepSeek, Moonshot AI, and MiniMax, while OpenAI has told U.S. lawmakers that DeepSeek tried to free-ride on its models.
 
-The disclosure, made through the Frontier Model Forum — the industry nonprofit the three companies co-founded alongside Microsoft in 2023 — represents an unprecedented activation of the Forum as a live, operational threat-intelligence hub. Previously the organization had focused on policy advocacy and safety research. Now it is functioning more like an AI-sector equivalent of the Financial Services Information Sharing and Analysis Center: a trusted clearinghouse for real-time attack signatures and coordinated defenses.
+The companies are sharing intelligence through the Frontier Model Forum, the industry nonprofit the three companies co-founded alongside Microsoft in 2023. Previously the organization had focused on policy advocacy and safety research. Now it is functioning more like an AI-sector equivalent of the Financial Services Information Sharing and Analysis Center: a trusted clearinghouse for real-time attack signatures and coordinated defenses.
 
 ## The Attack: Adversarial Distillation at Industrial Scale
 
@@ -40,7 +41,7 @@ The technique at the center of the dispute is called adversarial distillation. I
 
 Adversarially applied, the same technique becomes a form of intellectual property theft. Attackers create fraudulent accounts, flood frontier AI APIs with millions of carefully engineered prompts, harvest the responses, and use that synthetic data to train their own competitive models — effectively bootstrapping themselves onto years of R&D investment and hundreds of billions of dollars in training compute.
 
-The numbers Anthropic has published are striking: more than 16 million unauthorized exchanges extracted from Claude, routed through approximately 24,000 fraudulently created accounts — all traced to three Chinese AI companies. OpenAI and Google each confirmed comparable patterns at similar scale, though they declined to publish specific figures.
+Anthropic estimates that the three Chinese AI companies collectively generated over 16 million exchanges with Claude from around 24,000 fraudulently created accounts.
 
 ## How the Alliance Works
 
@@ -48,7 +49,7 @@ The Frontier Model Forum's new threat-sharing arrangement is explicitly modeled 
 
 The response toolkit is layered and surgical. The bluntest measures are account termination and IP blocking. More sophisticated defenses include rate-limiting adjustments that throttle suspicious query patterns without affecting legitimate users, and a particularly clever technique the companies are calling "output perturbation": subtly altering the statistical properties of API responses in ways that introduce noise into any training corpus assembled from those responses, degrading the quality of a student model trained on them without being perceptible in any individual response.
 
-"This is the first time the Forum has been activated as an active threat-intelligence operation against a specific external adversary," a source familiar with the negotiations told Bloomberg. The transition from policy forum to operational defense network reflects how seriously the frontier labs now view model extraction as a strategic threat.
+The transition from policy forum to operational defense network reflects how seriously the frontier labs now view model extraction as a strategic threat.
 
 ## Anthropic Takes the Most Aggressive Stance
 
@@ -83,3 +84,5 @@ The Frontier Model Forum is in discussions about formalizing a shared technical 
 OpenAI, Anthropic, and Google are each independently training detection models on known adversarial distillation query patterns; the Forum would facilitate cross-company validation of these detectors and establish shared criteria for escalating confirmed attacks to law enforcement and regulators.
 
 For the developers who build on these APIs, the practical impact is mostly invisible — the defenses are designed to be transparent. But the symbolic shift is real: three companies that compete fiercely on model capability have concluded that on this issue, collective defense is more effective than individual vigilance. The era of frontier AI APIs as freely harvestable training data pipelines is, by their account, over.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

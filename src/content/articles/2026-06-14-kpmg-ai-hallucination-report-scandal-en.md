@@ -1,8 +1,9 @@
 ---
-title: "KPMG's AI Report Was Mostly Fabricated — And Nobody Caught It Until GPTZero Did"
-summary: "KPMG's October 2025 report on agentic AI, distributed widely to enterprise clients, was found to contain only 5 accurate citations out of 45. GPTZero's investigation revealed fabricated case studies, 'vibe citations,' and factual claims contradicted by KPMG's own data. The firm pulled the report, but the episode raises uncomfortable questions about how AI-generated consulting work is reviewed."
+title: "KPMG's AI Report Was Riddled With Faulty Citations, GPTZero Found"
+summary: "KPMG's October 2025 report on agentic AI was found to contain only 5 accurate citations out of 45. GPTZero's investigation found 'vibe citations' and case study claims that appear fabricated or misattributed, as well as a statistic at odds with KPMG's own CEO Outlook."
 category: "industry"
 publishedAt: 2026-06-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -40,7 +41,7 @@ The GPTZero investigation was methodical. Researchers categorized each of the 45
 
 The factual errors were not minor formatting glitches. The report claimed that Emirates airline had adopted a mobile chatbot named "Sara" capable of changing flight bookings. In reality, Sara is a physical robot assistant that Emirates introduced in 2023 and that cannot alter reservations. The claim would be easy to verify with a single web search. It wasn't verified.
 
-More embarrassing was an internal contradiction: the report cited a statistic that 55% of CEOs were prioritizing AI investment, sourcing the figure to KPMG's own 2025 CEO Outlook survey. The actual KPMG 2025 CEO Outlook showed 71% — a significant discrepancy from a report that cited itself, incorrectly.
+More embarrassing was an apparent internal contradiction: the report cited "KPMG research" for a statistic that 55% of CEOs rank AI as their top investment priority, while KPMG's 2025 CEO Outlook, released the same month, showed 71%. The actual KPMG 2025 CEO Outlook showed 71% — a significant discrepancy from a report that cited itself, incorrectly.
 
 Case studies described purported agentic AI deployments at UBS, Swiss Federal Railways, and Transport for London. Representatives from all three organizations disputed the characterizations. None confirmed the deployments as described in the report.
 
@@ -56,7 +57,7 @@ The question of accountability is genuinely difficult. If a consulting firm uses
 
 ## The "Vibe Citing" Problem at Scale
 
-GPTZero's coinage of "vibe citing" has already spread rapidly in AI-critical circles because it captures something specific: the problem is not that AI makes random errors. It is that AI generates errors that have the *feel* of correctness. The citation format is right. The author affiliation sounds plausible. The publication venue is respectable. The date is consistent with the claim. Everything except the underlying fact is accurate.
+GPTZero's coinage of "vibe citing" has already spread rapidly in AI-critical circles because it captures something specific: the problem is not that AI makes random errors. It is that AI generates errors that have the *feel* of correctness. The citation format is right. The author affiliation sounds plausible. The publication venue is respectable. The date is consistent with the claim. In many cases the citation points to a real source, but components such as the title, date or author are paraphrased or fabricated.
 
 This matters for enterprise AI adoption for a specific reason. Organizations consuming AI-generated content — whether consulting reports, legal briefs, or medical literature reviews — must now build verification workflows for a failure mode that was previously rare. In a world of human-authored reports, a citation to "McKinsey Global Institute, 2023" could reasonably be assumed to exist and say roughly what was claimed. In an AI-assisted world, that assumption is no longer safe.
 
@@ -71,3 +72,5 @@ Several things would help. Mandatory AI disclosure — requiring consulting deli
 For KPMG, the reputational damage is substantial. The Big Four sell trust in their analytical rigor as their primary product. A report on AI credibility that is itself not credible is exactly the kind of story that circulates in boardrooms for years. The firm's response — pulling the report and citing an internal review — is the minimum viable response. Whether it does more depends on how much regulatory or client pressure develops in coming weeks.
 
 For the broader enterprise AI ecosystem, the incident serves as a useful stress test of a proposition that AI vendors have been making for two years: that AI-assisted knowledge work, properly supervised, can be trusted. The KPMG case suggests the supervision part of that equation is harder to implement reliably than it looks.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

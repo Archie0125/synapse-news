@@ -3,6 +3,7 @@ title: "DeepSeek V4 Launch Imminent: 1 Trillion Parameters, Apache 2.0, $5.2M Tr
 summary: "DeepSeek's V4 model is reportedly weeks away from release, rewritten to run on Huawei Ascend chips rather than Nvidia hardware. Leaked benchmarks claim 80%+ on SWE-bench Verified and a $5.2 million training cost — figures that, if confirmed, would make it the most capable open-weights model ever released and deepen China's AI stack decoupling from US-controlled hardware."
 category: "ai-ml"
 publishedAt: 2026-04-05T09:20:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,7 +32,7 @@ The leaked benchmarks — unverified by independent testers as of this writing �
 
 ## The Architecture: Trillion Parameters, Efficient Activation
 
-DeepSeek V4 uses a Mixture-of-Experts (MoE) architecture with approximately 1 trillion total parameters — but only around 37 billion active parameters per forward pass. This MoE design is the same approach that made DeepSeek V3 so efficient: most parameters are "specialists" that activate only for relevant token contexts, keeping inference costs manageable even at enormous total parameter counts.
+DeepSeek V4 uses a Mixture-of-Experts (MoE) architecture; DeepSeek's V4 launch announcement lists V4-Pro at 1.6 trillion total parameters with 49 billion active. This MoE design is the same approach that made DeepSeek V3 so efficient: most parameters are "specialists" that activate only for relevant token contexts, keeping inference costs manageable even at enormous total parameter counts.
 
 The 1M token context window is a substantial expansion, enabling the model to reason across book-length documents, large codebases, and extended conversation histories without truncation. Native multimodal capability across text, images, and video brings it to feature parity with GPT-5 and Claude's current capabilities.
 
@@ -70,7 +71,7 @@ Like DeepSeek V3, V4 is expected to release with full open weights under Apache 
 
 The combination of frontier-class capabilities and Apache 2.0 licensing represents a specific competitive threat to the closed-model API businesses of OpenAI and Anthropic. Enterprises that currently pay for API access to GPT-5 or Claude for coding, reasoning, or multimodal tasks may find that a locally deployed DeepSeek V4 — fine-tuned on their proprietary data, running on their own infrastructure — provides comparable results at lower marginal cost.
 
-The enterprise adoption dynamic depends heavily on inference efficiency. Running 37 billion active parameters from a 1 trillion parameter MoE model still requires significant hardware; the cost crossover point between API pricing and self-hosted deployment varies significantly by use case and usage volume.
+The enterprise adoption dynamic depends heavily on inference efficiency. Running 49 billion active parameters from a 1.6 trillion parameter MoE model still requires significant hardware; the cost crossover point between API pricing and self-hosted deployment varies significantly by use case and usage volume.
 
 ## What Comes After the Release
 
@@ -79,3 +80,5 @@ If the benchmarks hold and DeepSeek releases V4 under Apache 2.0 within the next
 V4, if it performs as claimed, would be a larger shock — not because the benchmarks would be unprecedented (Claude Opus 4.5 is already near 81% on SWE-bench), but because it would demonstrate that an open-weight model on non-Nvidia hardware has achieved near-parity with the best closed models in the world. That combination — open, cheap, hardware-independent, near-frontier — is the scenario Western AI labs have been working to prevent.
 
 The next few weeks will determine whether DeepSeek V4 is that model.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

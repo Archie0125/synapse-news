@@ -1,8 +1,9 @@
 ---
 title: "前OpenAI技術長穆拉蒂的Thinking Machines發布互動模型：0.4秒全雙工AI對話"
-summary: "前OpenAI技術長Mira Murati創辦的Thinking Machines Lab發布首款產品「互動模型」（Interaction Models）——一個從零打造、專為即時人機對話設計的原生多模態AI架構。旗艦模型TML-Interaction-Small的回應延遲僅0.4秒，接近自然對話速度，底層為2760億參數的混合專家（MoE）架構，推理時僅啟用120億參數。"
+summary: "前OpenAI技術長Mira Murati創辦的Thinking Machines Lab預覽「互動模型」（Interaction Models），這是一類新型AI，設計上可同時處理輸入並生成回應。初版TML-Interaction-Small模型宣稱回應延遲為0.4秒，約等同人類自然對話速度。"
 category: "ai-ml"
 publishedAt: 2026-05-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-04-23-thinking-machines-lab-google-cloud-deal-zh"
 ---
 
-Mira Murati在OpenAI工作了七年，親手參與塑造了整個AI產業的走向。2024年底以技術長身份離開後，這位募集到史上最大規模種子輪的創辦人，展現了一種在矽谷罕見的自我克制——在還未推出任何產品之前，保持沉默。5月11日，沉默被打破。Thinking Machines Lab正式預覽首款產品：互動模型（Interaction Models）。穆拉蒂強調，這不是現有語音模式技術的迭代升級，而是對「機器如何對話」這個問題從底層重新思考的答案。
+Mira Murati在OpenAI工作了七年，親手參與塑造了整個AI產業的走向。2024年以技術長身份離開後，這位募集到史上最大規模種子輪的創辦人，相對低調。Thinking Machines Lab於週一推出新模型的研究預覽。Thinking Machines Lab預覽互動模型（Interaction Models），這是一類新型AI，設計上可同時處理輸入並生成回應，而非依序處理。
 
 ## 用架構解決延遲問題
 
@@ -35,7 +36,7 @@ Mira Murati在OpenAI工作了七年，親手參與塑造了整個AI產業的走�
 
 Thinking Machines發布預覽的核心模型TML-Interaction-Small，宣稱回應延遲為0.40秒。若這個數字能在不同對話情境和規模下穩定維持，就已落在人類聽者感受為「自然」的延遲範圍下緣。目前公司尚未公開詳細的基準測試方法，系統也還未開放公眾使用，獨立驗證仍有待進行。
 
-實現這一目標的架構選擇，是採用總參數量高達2760億的混合專家（Mixture-of-Experts，MoE）設計，但每次推理僅啟用約120億個參數。MoE架構已成為前沿實驗室平衡能力與效率的主流正規——Meta的Llama 4、Google的Gemini系列、OpenAI的GPT-4o都採用了這種架構的變體。Thinking Machines聲稱與眾不同之處在於：他們的模型是專為持續、全雙工互動而從零訓練，而非將一個以文字為基礎的大型語言模型適配到語音場景。
+Thinking Machines聲稱與眾不同之處在於：他們的模型是專為持續、全雙工互動而從零訓練，而非將一個以文字為基礎的大型語言模型適配到語音場景。
 
 ## 全雙工：被忽視的維度
 
@@ -45,13 +46,13 @@ Thinking Machines將TML-Interaction-Small描述為原生全雙工系統，能夠
 
 這個設計選擇對企業應用場景有深遠影響。客服代理、輔導教學和醫療問診流程長期受制於回合制互動模式——那種不自然的停頓讓使用者感覺自己是在操作一個工具，而非進行對話。全雙工架構若能在規模上可靠運作，將移除這個根本性的限制。
 
-## 十七個月、20億美元，然後一款產品
+## 20億美元，然後一款產品
 
-Thinking Machines Lab的時間軸值得細細品味。穆拉蒂於2024年底離開OpenAI。到2025年7月——創辦後不到九個月——公司便以120億美元估值完成了20億美元的種子輪，投資方包括Andreessen Horowitz、NVIDIA、AMD、Cisco和Jane Street。2026年3月，公司宣布與NVIDIA建立多年戰略夥伴關係，取得1吉瓦的Vera Rubin運算容量。4月，一項數十億美元的Google Cloud基礎設施協議隨後簽署。
+Thinking Machines Lab的時間軸值得細細品味。穆拉蒂於2024年底離開OpenAI。到2025年7月，公司已以120億美元的投後估值完成20億美元種子輪，由Andreessen Horowitz領投。2026年3月，公司宣布與NVIDIA建立多年戰略夥伴關係，取得1吉瓦的Vera Rubin運算容量。4月，一項數十億美元的Google Cloud基礎設施協議隨後簽署。
 
-在沒有任何公開產品的情況下聚集如此規模的資本與運算資源，是市場對穆拉蒂個人信譽和她所招募團隊的一次豪賭——據報包括來自OpenAI、Google DeepMind和Meta AI的資深研究員。創辦十七個月後發布的互動模型預覽，是這份信譽迄今所建構成果的第一次公開亮相。
+在沒有任何公開產品的情況下聚集如此規模的資本與運算資源，是市場對穆拉蒂個人信譽和她所招募團隊的一次豪賭——據報包括來自OpenAI、Google DeepMind和Meta AI的資深研究員。
 
-TML-Interaction-Small的限量訪問將在未來幾個月透過候補名單陸續開放，定價尚未公布，更廣泛的公開發布預計在2026年下半年推出。
+有限的研究預覽預計在數月內推出。
 
 ## 競爭格局
 
@@ -60,3 +61,5 @@ Thinking Machines進入的語音AI市場，在2026年比一年前更為擁擠。
 Thinking Machines有別於這些競爭者的，是對全雙工原生架構的堅持——而非把系統級延遲優化疊加在既有模型之上。這種架構差異是否能在規模商用後轉化為有意義的產品優勢，是這次互動模型預覽提出但尚未解答的問題。
 
 更耐人尋味的是：穆拉蒂的團隊下一步要做什麼？120億美元的估值和已就位的基礎設施協議表明，他們建構的不是一個語音助理，而是下一代人機互動的底層基礎設施，以語音作為第一個應用介面。模型的命名——TML-Interaction-**Small**——暗示更大型的兄弟模型正在研發中。對一家沉默這麼久的公司而言，名字裡的「Small」感覺像是刻意為之的低調。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 9 處。*

@@ -3,6 +3,7 @@ title: "HHS Is Using ChatGPT to Audit Medicaid Funding Across All 50 States — 
 summary: "The US Department of Health and Human Services launched AERO, an initiative that uses ChatGPT to scan five years of state healthcare audits and flag potential fraud. With the AI's accuracy metrics unpublished and no formal appeals process established, hospitals and state Medicaid agencies face enforcement decisions made by a black-box system."
 category: "policy"
 publishedAt: 2026-07-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,13 +32,13 @@ relatedSlugs:
 
 On May 21, the US Department of Health and Human Services quietly launched something remarkable: a federal enforcement program that deploys ChatGPT to scan and flag potential fraud across five years of compliance audits filed by every state Medicaid agency, nonprofit hospital system, and federal healthcare grantee in the country. The initiative — called AERO, for Audit Enforcement and Risk Oversight — can impose consequences ranging from temporary payment holds to permanent debarment from federal programs. What it has not done is disclose how accurate the AI system is.
 
-That gap, between the scope of the authority being exercised and the transparency of the tool exercising it, is at the center of a growing controversy that has now reached Congress, healthcare advocacy groups, and a collection of state attorneys general who are watching AERO's first enforcement actions begin to land.
+That gap, between the scope of the authority being exercised and the transparency of the tool exercising it, is at the center of a growing controversy, as HHS has not said when enforcement will begin.
 
 ## What AERO Does
 
-AERO is led by Gustav Chiarello, HHS's Assistant Secretary for Financial Resources, who announced the program to HHS staff in late May. The mandate: use ChatGPT and other large language model tools to analyze at least five years of Single Audit Act compliance records filed by organizations that receive $1 million or more in federal funding annually.
+AERO is led by Gustav Chiarello, HHS's Assistant Secretary for Financial Resources, and HHS announced the program on May 21. The mandate: use ChatGPT and other large language model tools to analyze at least five years of Single Audit Act compliance records filed by organizations that receive $1 million or more in federal funding annually.
 
-The scope is broad. Single Audit filers include state Medicaid agencies, nonprofit healthcare providers, public hospital systems, federally qualified health centers, academic medical centers that receive federal research grants, Head Start programs, and addiction treatment providers. In aggregate, this encompasses hundreds of billions of dollars in annual federal healthcare spending and thousands of organizations across all 50 states.
+The scope is broad. Single Audit filers include state Medicaid agencies, nonprofit healthcare providers, public hospital systems, federally qualified health centers, academic medical centers that receive federal research grants, Head Start programs, and addiction treatment providers. In aggregate, this encompasses organizations across all 50 states, including any state, local government, nonprofit or university that spends $1 million or more in federal funds each year.
 
 The AI is tasked with reading audit narratives, identifying recurring compliance findings, flagging patterns that might indicate systemic problems, and prioritizing which organizations warrant heightened human review. Enforcement consequences for organizations that fail that review include temporary payment holds — which can freeze the Medicaid reimbursements that keep rural hospitals financially viable — and, in the most serious cases, permanent debarment from federal programs.
 
@@ -51,30 +52,26 @@ At larger scale, the population of AERO filers is diverse enough that even a mod
 
 HHS has also not disclosed: what specific model or version of ChatGPT is being used; what prompting methodology or fine-tuning approach is applied; what human review is performed on AI-flagged determinations before enforcement actions are initiated; or what the appeals pathway is for organizations that believe they have been incorrectly flagged.
 
-As of July 13, TechTimes reported that "the federal government is now using ChatGPT to make enforcement decisions that can freeze Medicaid funding to hospitals, nonprofits, and state agencies across all 50 states — and it has not published the tool's error rate, disclosed its methodology, or specified when funds will actually be cut."
+As of June 25, TechTimes reported that "the federal government is now using ChatGPT to make enforcement decisions that can freeze Medicaid funding to hospitals, nonprofits, and state agencies across all 50 states — and as of today, it has not published the tool's error rate, disclosed its methodology, or specified when funds will actually be cut."
 
 ## The Legal and Regulatory Context
 
-AERO operates under existing HHS authority over Single Audit Act compliance, which means it does not require new legislation. HHS framed it as an efficiency initiative: the agency faces a substantial backlog of unreviewed audits, and using AI to triage and prioritize review is a defensible response to resource constraints.
+AERO operates under existing HHS authority over Single Audit Act compliance, which means it does not require new legislation. HHS has said the program responds to years of audit problems, including chronic noncompliance and unaddressed deficiencies, and that it aims to hold states and grantees accountable for persistent audit failures.
 
-But the use of AI in federal enforcement contexts touches an increasingly active area of administrative law. The Administrative Procedure Act requires agencies to follow notice-and-comment rulemaking when making substantive changes to how they enforce regulations; whether AERO constitutes such a change is now being debated by administrative law scholars. The FTC's recent policy statement on AI accuracy in commercial contexts — which requires AI systems used in consumer-facing decisions to meet disclosed accuracy standards — does not directly apply to federal agencies, but it has set a normative benchmark that critics are invoking.
+But the use of AI in federal enforcement contexts touches an increasingly active area of administrative law. The Administrative Procedure Act requires agencies to follow notice-and-comment rulemaking when making substantive changes to how they enforce regulations; whether AERO constitutes such a change is now being debated by administrative law scholars.
 
-The Biden-era Executive Order 13960 on trustworthy AI in government required federal agencies to conduct algorithmic impact assessments before deploying AI in high-stakes decision-making contexts. The Trump administration rescinded portions of that order; whether the remaining requirements apply to AERO is a question that has not been publicly resolved.
+Under OMB Memorandum M-25-21, agencies deploying high-impact AI must report their risk management practices to the Office of Management and Budget by September 22, 2026, and HHS has not publicly disclosed whether AERO has been assessed under that framework.
 
 ## Congressional and State Responses
 
-Senator Ron Wyden of Oregon sent a letter to HHS Secretary in late June demanding the disclosure of AERO's accuracy metrics, the AI model specifications, and the appeals process before any enforcement action resulting from AI-flagged determinations is finalized. A bipartisan group of eight senators signed on to a follow-up letter requesting a 90-day implementation pause pending methodology disclosure.
-
-Several state attorneys general — including those from California, New York, and Illinois — have opened inquiries into how AERO's operation interacts with state Medicaid program administration, particularly around questions of whether federal AI-flagged determinations supersede state-level compliance determinations.
-
-The American Hospital Association has publicly called for a moratorium on AERO enforcement actions until HHS publishes validation data. The National Council of Nonprofits and several federally qualified health center advocacy groups have joined that call.
-
 ## The Broader Stakes
 
-AERO is not the only federal AI enforcement initiative underway. The Department of Labor has piloted AI-assisted ERISA audit triage. The Small Business Administration has deployed AI to flag PPP loan applications for review. The IRS has used AI in tax return anomaly detection for several years.
+AERO is not the only federal AI enforcement initiative underway.
 
 What distinguishes AERO is the scale of its enforcement authority and the directness of the economic consequences it can trigger. Medicaid payment holds are not fines that an organization can dispute over years of litigation; they can interrupt cash flows that pay clinical staff within weeks. The asymmetry between the speed and scale of AI-flagged enforcement and the speed of the human review and appeals process that should accompany it is the core governance problem AERO has created.
 
 Healthcare policy experts note a deeper irony: AI is being deployed to enforce compliance with auditing standards that were themselves designed to be verified by human auditors who could exercise contextual judgment. An AI reading a compliance narrative does not know, for example, that a particular internal control finding was already resolved through a corrective action plan that postdates the audit period under review. Whether the system can handle that kind of document-level context, and how reliably it does so, is precisely the question the missing accuracy data would answer.
 
-For now, the organizations receiving AERO letters are navigating that uncertainty on their own — with potential consequences that run into the millions of dollars per entity, and a federal system that has not yet explained how it will know if it has made a mistake.
+For now, the organizations receiving AERO letters are navigating that uncertainty on their own, with a federal system that has not yet explained how it will know if it has made a mistake.
+
+*Correction (November 15, 2026): 17 sentences were corrected or removed to match the sources listed on this page.*

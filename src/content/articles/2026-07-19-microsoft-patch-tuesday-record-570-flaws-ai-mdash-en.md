@@ -1,8 +1,9 @@
 ---
 title: "Microsoft's AI Bug Finder Just Tripled Patch Tuesday — 570 Flaws in a Single Month"
-summary: "Microsoft's July 2026 Patch Tuesday fixed a record 570 security vulnerabilities, nearly four times the July 2025 figure, after the company deployed an internal AI system called MDASH to continuously scan Windows code for exploitable bugs. Two of the three zero-days patched this cycle were actively exploited in the wild, including a critical SharePoint flaw used in targeted attacks."
+summary: "Microsoft's July 2026 Patch Tuesday fixed a record 570 security vulnerabilities, more than four times the July 2025 figure, as the company said AI is helping it discover more flaws. Two of the three zero-days patched this cycle were actively exploited in attacks, including a SharePoint flaw."
 category: "developer-tools"
 publishedAt: 2026-07-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,7 +33,7 @@ relatedSlugs:
 
 For seventeen years, Microsoft's monthly Patch Tuesday has followed a rough cadence: a hundred-odd vulnerabilities, a handful of critical flaws, and the occasional zero-day that makes the headlines. July 2026 broke every metric in that pattern. The company patched 570 security vulnerabilities in a single update cycle — a number that exceeds the previous record by a factor the security community is still absorbing — and attributed the surge not to a sudden explosion of undiscovered bugs, but to an AI system it had quietly deployed to find them first.
 
-The AI system, which Microsoft is calling MDASH (Machine-Driven Automated Security Hunter), has been running internally against Windows codebases since late 2025. The July Patch Tuesday is the first update cycle where its output dominated the patch count, and the results are striking. Of the 570 vulnerabilities, Microsoft credited MDASH with discovering the majority — a claim that, if accurate, represents one of the largest proactive security interventions in commercial software history.
+The AI system, which Microsoft calls MDASH, is a multi-model agentic security scanning harness that uses more than 100 specialized AI agents to analyze code, identify potential vulnerabilities and validate findings. The July Patch Tuesday is the first update cycle where its output dominated the patch count, and the results are striking. Microsoft has not said that MDASH discovered all 570 vulnerabilities; it says the tool helped researchers find 16 vulnerabilities in networking and authentication components.
 
 ## The Numbers
 
@@ -40,7 +41,7 @@ The scale of the July update requires context. In July 2025, Microsoft patched 1
 
 Among the 59 Critical vulnerabilities — those rated most severe under Microsoft's CVSS scoring — 48 involved Remote Code Execution, meaning an attacker could run arbitrary code on an affected system without requiring physical access. Nine involved Elevation of Privilege, allowing attackers to escalate permissions after initial access.
 
-The three zero-days occupy a category of their own. CVE-2026-56155 affects Active Directory Federation Services, allowing an already-authenticated user to elevate their privileges to domain administrator level. CVE-2026-56164 is the most concerning: a missing authentication check in Microsoft SharePoint Server that an attacker can exploit remotely without any credentials. This flaw was observed being used in targeted attacks in the wild before the patch was available. The third zero-day (CVE-2026-56179) was publicly disclosed but not yet observed in active exploitation.
+The three zero-days occupy a category of their own. CVE-2026-56155 affects Active Directory Federation Services, allowing an already-authenticated user to elevate their privileges to domain administrator level. CVE-2026-56164 is the most concerning: a missing authentication check in Microsoft SharePoint Server that an attacker can exploit remotely without any credentials. This flaw was observed being used in targeted attacks in the wild before the patch was available. The third zero-day (CVE-2026-50661), a Windows BitLocker security feature bypass, was publicly disclosed but not known to be actively exploited.
 
 ## How MDASH Works
 
@@ -69,3 +70,5 @@ The broader implication is that the cadence of enterprise patch management is br
 ## A Changed Equilibrium
 
 The AI arms race in security has been anticipated for years, but the July Patch Tuesday makes it concrete. The same model capabilities that let defenders find bugs faster also let attackers find them, and the equilibrium that existed when vulnerability research was primarily a human-scale activity no longer holds. Microsoft has made a clear bet on the defensive side: deploy AI, find bugs faster, patch at machine speed. Whether the industry can operationalize patches at the same speed is the question that will define enterprise security practice for the rest of the decade.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

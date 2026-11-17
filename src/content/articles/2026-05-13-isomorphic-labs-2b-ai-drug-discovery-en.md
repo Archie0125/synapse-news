@@ -1,8 +1,9 @@
 ---
 title: "Isomorphic Labs Raises $2.1B to Scale AI-Designed Drugs Toward Clinical Trials"
-summary: "Google DeepMind spinout Isomorphic Labs has secured $2.1 billion in a Series B led by Thrive Capital, the second-largest biotech funding round ever. The company, founded by Nobel Prize-winner Demis Hassabis, will use the capital to scale its AI Drug Design Engine and push its first AI-designed compounds into human clinical trials by end of 2026."
+summary: "Isomorphic Labs, the Alphabet-backed AI drug design company, has secured $2.1 billion in a Series B led by Thrive Capital, which analysts describe as the second-largest biotech funding round ever. The company, led by Nobel Prize-winner Demis Hassabis, will use the capital to scale its AI drug design engine and accelerate its pipeline toward the clinic."
 category: "ai-ml"
 publishedAt: 2026-05-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,31 +32,31 @@ In one of the largest bets ever placed on AI-driven biology, Isomorphic Labs has
 
 ## From AlphaFold to the Clinic
 
-To understand Isomorphic Labs, you have to understand AlphaFold. In 2020, Google DeepMind's protein-structure prediction system AlphaFold 2 effectively solved one of biology's grand challenges: determining the three-dimensional shape of proteins from amino acid sequences alone. The achievement was so profound that DeepMind co-founder and CEO Demis Hassabis, along with colleague John Jumper, was awarded the 2024 Nobel Prize in Chemistry.
+To understand Isomorphic Labs, you have to understand AlphaFold. In 2020, Google DeepMind's protein-structure prediction system AlphaFold 2 effectively solved one of biology's grand challenges: determining the three-dimensional shape of proteins from amino acid sequences alone. Demis Hassabis, who leads Isomorphic Labs, shared the 2024 Nobel Prize in Chemistry with John Jumper for their work on AlphaFold.
 
-Isomorphic Labs was founded in 2021 to translate that scientific breakthrough into medicine. Rather than simply predicting protein structures, the company built what it calls the AI Drug Design Engine — or IsoDDE — a system that uses AlphaFold 3 and successor models to design entirely novel small molecules that can interact with biological targets in therapeutically useful ways. The approach promises to compress drug discovery timelines from a decade or more to a matter of months, while dramatically widening the universe of druggable disease targets.
+Isomorphic Labs was founded in 2021 to translate that scientific breakthrough into medicine. Rather than simply predicting protein structures, the company built the AI drug design engine, or IsoDDE, a unified, proprietary system of AI models that works across multiple therapeutic areas and drug modalities. The approach promises to compress drug discovery timelines from a decade or more to a matter of months, while dramatically widening the universe of druggable disease targets.
 
-"This capital injection allows us to build out our drug design engine at scale, driving us forward in our mission to solve all diseases," said Hassabis in announcing the round.
+"This capital injection allows us to build out our drug design engine at scale, driving us forward in our mission to solve all disease," said Hassabis in announcing the round.
 
 ## The Round: Who's Betting and How Much
 
-The $2.1 billion Series B follows a $600 million Series A raised approximately a year ago, representing a dramatic acceleration in investor confidence. Thrive Capital, the firm founded by Josh Kushner that has become one of the most aggressive backers of AI companies, led the new round for the second consecutive time — an unusual show of conviction that signals deep belief in both the technology and the team.
+The $2.1 billion Series B follows a $600 million round raised in March 2025, the company's first external funding round. Thrive Capital, the firm founded by Josh Kushner that has become one of the most aggressive backers of AI companies, led the new round for the second consecutive time — an unusual show of conviction that signals deep belief in both the technology and the team.
 
-New investors joining the round include MGX (Abu Dhabi's AI and advanced technology investment firm), Temasek (Singapore's state investment company), and the UK Sovereign AI Fund — the British government's new vehicle for backing domestic and allied AI champions. Existing backers Alphabet and Google Ventures (GV) maintained their positions, while CapitalG, Alphabet's independent growth fund, also participated.
+Existing backers Alphabet and Google Ventures (GV) maintained their positions, while CapitalG, Alphabet's independent growth fund, also participated.
 
 The involvement of sovereign wealth funds from both the Gulf and Southeast Asia, alongside the UK government's AI fund, reflects a geopolitical dimension to the investment: governments are increasingly treating foundational AI capabilities in biology as strategic national assets, not merely commercial opportunities.
 
 ## A Pipeline Closing In on Humans
 
-The most consequential aspect of the Series B is not its size but its timing and purpose. Isomorphic Labs now expects to initiate its first clinical trials — actual dosing of human patients with AI-designed therapeutic compounds — before the end of 2026.
+The most consequential aspect of the Series B is not its size but its timing and purpose. Isomorphic Labs has said the funding will help accelerate its pipeline toward the clinic, and Hassabis has pushed its first clinical trial timeline to the end of 2026.
 
-That represents a modest delay from Hassabis's earlier, more bullish target of getting AI-designed drugs into trials by end of 2025. But the revisions reflect the genuine difficulty of drug development rather than any failure of the underlying technology: clinical trial design, regulatory preparation, manufacturing, and safety work all take time regardless of how quickly a molecule can be designed.
+That represents a modest delay from Hassabis's earlier, more bullish target of getting AI-designed drugs into trials by end of 2025.
 
-The company's in-house pipeline spans multiple undisclosed therapeutic targets, with a particular emphasis on areas where conventional drug discovery has historically struggled: proteins once considered "undruggable" due to their shape or behavior. AlphaFold 3's ability to model not just individual protein structures but the interactions between proteins, nucleic acids, and small molecules has opened new pockets and binding sites that earlier computational methods could not even visualize.
+The company's in-house pipeline is focused on oncology and immunology, and it has said it will accelerate and expand that pipeline toward the clinic. AlphaFold 3's ability to model not just individual protein structures but the interactions between proteins, nucleic acids, and small molecules has opened new pockets and binding sites that earlier computational methods could not even visualize.
 
 ## Pharma Giants Are Already In
 
-Isomorphic Labs is not operating as a pure academic exercise. The company has signed major research collaborations with Eli Lilly and Novartis — two of the world's largest pharmaceutical companies — tasking it with using AlphaFold to discover small molecules against undisclosed targets. Johnson & Johnson is also among its strategic partners.
+Isomorphic Labs is not operating as a pure academic exercise. The company has signed major research collaborations with Eli Lilly and Novartis, tasking its AI engine with designing small molecule drugs against undisclosed targets. Johnson & Johnson is also among its strategic partners. Johnson & Johnson is also among its strategic partners.
 
 These deals provide both validation and a steady stream of real-world problem statements against which to test IsoDDE. More importantly, they create a business model that doesn't require Isomorphic to bear the full financial burden of seeing its own compounds through multi-year, multi-billion-dollar clinical programs. The company can simultaneously pursue its internal pipeline and generate revenue from partnership milestones.
 
@@ -67,8 +68,6 @@ Hassabis has been notably unguarded about the scale of his ambitions. "Solve all
 
 The question is not whether AI can accelerate drug discovery — the early evidence strongly suggests it can — but whether it can do so reliably and safely enough to transform the clinical success rates that have historically plagued even the most scientifically sound drug programs. Roughly 90% of compounds that enter Phase I clinical trials never make it to market. AI-designed molecules, designed to hit their targets with greater precision and predicted safety margins, should theoretically perform better. But theories require clinical data to validate.
 
-That data starts arriving later this year.
-
 ## Context: A Moment of AI Biology Convergence
 
 The Isomorphic raise lands at a pivotal moment. Across the life sciences sector, AI-drug discovery companies have attracted a combined estimated $15 billion in venture investment over the past 18 months. Competitors including Recursion Pharmaceuticals, Insilico Medicine, and Relay Therapeutics are all advancing AI-designed compounds through various stages of clinical development. Several early failures in the space — including some high-profile Phase II disappointments — have tempered some of the more exuberant predictions, but have not fundamentally shaken investor conviction.
@@ -76,3 +75,5 @@ The Isomorphic raise lands at a pivotal moment. Across the life sciences sector,
 What distinguishes Isomorphic is the pedigree of its foundational technology. AlphaFold's standing in the scientific community is essentially without peer among applied AI achievements. The Series B is, in many ways, a bet that scientific legitimacy eventually translates to clinical efficacy — and that when the first human trial results start arriving, they will vindicate what is becoming one of the most expensive scientific bets of the decade.
 
 The clock is now running.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

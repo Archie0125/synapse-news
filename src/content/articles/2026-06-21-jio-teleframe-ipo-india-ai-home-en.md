@@ -3,6 +3,7 @@ title: "Ambani's AI Gambit: Jio TeleFrame, a $110 Billion Infrastructure Bet, an
 summary: "At Reliance Industries' 49th AGM on June 19, Mukesh Ambani launched a full-spectrum AI offensive: unveiling TeleFrame, a proactive home AI hub designed to rival Amazon Echo and Google Nest; announcing the Jio Platforms IPO filing with SEBI for 270 million shares; and reaffirming a $110 billion AI infrastructure commitment aimed at building India's sovereign AI backbone entirely on clean energy."
 category: "products"
 publishedAt: 2026-06-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -55,7 +56,7 @@ Behind the product announcements lies a staggering capital commitment. Ambani re
 
 This facility will form the nucleus of what Reliance calls a "sovereign AI backbone," compute infrastructure that is owned, operated, and governed by an Indian entity. The framing positions Jio not as a consumer of American or Chinese AI services but as a self-sufficient platform capable of training, fine-tuning, and deploying models at national scale.
 
-The partners underwriting this ambition are formidable. Google, Meta, and Nvidia all have formal partnerships with Jio. A dedicated Meta AI data center is under construction in Gujarat. JioHotstar — the platform born from the merger of JioCinema and Disney+ Hotstar — clocked 451 million monthly active users at the AGM, giving Reliance one of the largest behavioral data pools in Asia to train AI systems on real-world usage patterns.
+The partners underwriting this ambition are formidable. Google, Meta, and Nvidia all have formal partnerships with Jio. Last week, Reliance announced a collaboration with Meta to establish an AI data center in Gujarat. JioHotstar — the platform born from the merger of JioCinema and Disney+ Hotstar — clocked 451 million monthly active users at the AGM, giving Reliance one of the largest behavioral data pools in Asia to train AI systems on real-world usage patterns.
 
 ## Jio Platforms IPO: A Milestone Filing
 
@@ -82,3 +83,5 @@ Data privacy advocates have raised pointed questions about the network-embedded 
 The geopolitical subtext is clear. Ambani's sovereign AI push comes as India navigates carefully between the United States and China in the global technology rivalry. Building domestic AI infrastructure — rather than importing it — gives India policy leverage that pure consumption would not. Whether a company backed by Google, Meta, and Nvidia can credibly claim to be building sovereign infrastructure is a tension that will become more important as the project scales.
 
 What seems certain is that the June 19 AGM marked the moment Jio's ambitions formally moved beyond telecommunications into the AI platform wars. The capital is committed, the products are announced, the IPO is filed. The next chapter writes itself in execution.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

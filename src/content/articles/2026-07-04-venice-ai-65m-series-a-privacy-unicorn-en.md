@@ -3,6 +3,7 @@ title: "Venice.ai Hits $1B Valuation With $65M Series A, Betting Privacy Is Chat
 summary: "Venice AI closed a $65 million Series A at a $1 billion valuation — its first ever external funding round — led by crypto venture firm Dragonfly, with Coinbase Ventures participating. The privacy-first AI platform founded by Bitcoin pioneer Erik Voorhees already generates $70M+ in annualized revenue and is profitable, serving 3 million users who want AI interactions that are never logged or stored."
 category: "startups"
 publishedAt: 2026-07-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -34,9 +35,9 @@ The company is led by Erik Voorhees, one of early Bitcoin's most prominent advoc
 
 Venice's technical architecture is built around a specific and uncomfortable question: what happens to everything you type into an AI chatbot? For most frontier AI providers, the answer is some version of "we might use it to improve our models" or "we retain it for safety review" or "we process it on our servers, with various protections." For Venice, the answer is meant to be: nothing, because we never have it.
 
-User input is encrypted client-side before being transmitted. Conversations are stored on the user's device, not Venice's servers. Queries routed to external closed-source models — OpenAI, Anthropic, and others, which Venice also supports — pass through a proxy layer that strips identifying information before they reach the underlying model. End-to-end encryption is available for select models on paid subscriptions. The practical result is a platform on which there is, in principle, no data to subpoena, breach, or sell.
+User input is encrypted client-side before being transmitted. Conversations are stored on the user's device, not Venice's servers. All user input is routed through an external proxy before it is processed and returned, with no data stored on Venice's own systems, and the company also routes queries to closed-source models such as those from OpenAI and Anthropic. End-to-end encryption is available for select models on paid subscriptions. The practical result is a platform on which there is, in principle, no data to subpoena, breach, or sell.
 
-That architecture matters differently to different users. A therapist taking session notes wants to ensure client confidentiality. A lawyer drafting a privileged document wants to avoid inadvertent disclosure to a third party's AI training pipeline. A journalist interviewing a source in a sensitive situation needs a tool that creates no records. A privacy-conscious individual simply doesn't want Google or Anthropic to know they've been asking an AI about their health, relationships, or finances. Venice's user base, at more than three million active users, spans all of these cases.
+That architecture matters differently to different users. A therapist taking session notes wants to ensure client confidentiality. A lawyer drafting a privileged document wants to avoid inadvertent disclosure to a third party's AI training pipeline. A journalist interviewing a source in a sensitive situation needs a tool that creates no records. A privacy-conscious individual simply doesn't want Google or Anthropic to know they've been asking an AI about their health, relationships, or finances. Venice's user base numbers more than three million active users.
 
 ## Already Profitable, Without a Dollar of VC
 
@@ -48,9 +49,9 @@ Voorhees has been explicit about where this leads. Running AI inference through 
 
 ## Crypto DNA in an AI Company
 
-The venture dynamics behind this round are worth examining. Dragonfly leading the round, with Coinbase Ventures participating, is a clear signal about Venice's positioning within the tech ecosystem. Erik Voorhees is a figure with deep credibility in crypto circles and corresponding skepticism in mainstream Silicon Valley. His founding of ShapeShift and his decades-long public advocacy for Bitcoin and financial privacy cast a long shadow over the Venice story.
+The venture dynamics behind this round are worth examining. Dragonfly leading the round, with Coinbase Ventures participating, is a clear signal about Venice's positioning within the tech ecosystem. Erik Voorhees is a figure with deep credibility in crypto circles and corresponding skepticism in mainstream Silicon Valley. His founding of ShapeShift and his long public advocacy for Bitcoin and financial privacy cast a long shadow over the Venice story.
 
-Venice has also integrated crypto payments in ways that distinguish it from peers. The company launched VVV, a proprietary token, in January 2026, and added DIEM in August. Users can stake VVV tokens to mint DIEM, which generates $1 in daily AI credits. Only about 8 percent of Venice's users pay with crypto, but the tokenomic architecture signals that Venice is building for a specific segment of users who want both AI privacy and financial transaction privacy — the intersection of two communities that have historically overlapped.
+Venice has also integrated crypto payments in ways that distinguish it from peers. Users can stake VVV tokens to mint DIEM, which generates $1 in daily AI credits. Only about 8 percent of Venice's users pay with crypto, but the tokenomic architecture signals that Venice is building for a specific segment of users who want both AI privacy and financial transaction privacy — the intersection of two communities that have historically overlapped.
 
 This positioning carries both advantages and risks. The crypto community provides a ready-made, privacy-aligned user base with high tolerance for product friction in exchange for ideological alignment. But it also anchors Venice's brand in a community that mainstream enterprise buyers and individual consumers with no crypto exposure may view with suspicion. Voorhees' bet is that those concerns will recede as privacy concerns about mainstream AI providers grow.
 
@@ -61,3 +62,5 @@ The market opportunity Venice is pursuing is not speculative. Surveys consistent
 The regulatory environment is also moving in Venice's direction. The EU AI Act, GDPR enforcement actions against AI companies, and emerging state-level privacy regulations in the United States all create compliance requirements around AI data handling that mainstream providers must navigate through policy changes. For Venice, privacy is not a policy position; it is a technical guarantee baked into the architecture. That distinction will matter more as enterprise procurement teams are forced to document exactly what AI providers do with employee data.
 
 At $1 billion and $70 million in run-rate revenue, Venice is valued at roughly 14 times revenue — a multiple that is modest by AI standards and implies investors believe the growth runway extends well beyond the company's current scale. The funding will not make Venice the largest AI platform by any measure. But it may be enough to establish it as the default choice for the growing segment of users for whom "private by design" is not a feature request but a requirement.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

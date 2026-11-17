@@ -1,8 +1,9 @@
 ---
 title: "Moonshot AI Releases Kimi K2.7 Code: 1-Trillion-Parameter Open-Source Coding Agent"
-summary: "Moonshot AI dropped Kimi K2.7 Code on June 12, a 1-trillion-parameter Mixture-of-Experts coding model that cuts reasoning token usage by 30% versus its predecessor and posts a 21.8% gain on Kimi Code Bench v2. Available on Hugging Face under a Modified MIT license, it's the fifth major Kimi release in 12 months and stakes a position in the increasingly competitive open-source coding agent market."
+summary: "Moonshot AI dropped Kimi K2.7 Code on June 12, a 1-trillion-parameter Mixture-of-Experts coding model that cuts reasoning token usage by 30% versus its predecessor and posts a 21.8% gain on Kimi Code Bench v2. Available on Hugging Face under a Modified MIT license, it stakes a position in the increasingly competitive open-source coding agent market."
 category: "developer-tools"
 publishedAt: 2026-06-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-06-12-opencode-displaces-cursor-ai-coding-agent-en"
 ---
 
-Chinese AI lab Moonshot AI released Kimi K2.7 Code on June 12, the latest iteration of its open-source coding series and the fifth major model release under the K2 family in approximately twelve months. The model packs 1 trillion total parameters into a Mixture-of-Experts architecture, runs with 32 billion active parameters per inference step, and ships with a 256K-token context window — a combination designed specifically for the long-horizon, multi-step code execution patterns that define modern AI coding agents.
+Moonshot AI released Kimi K2.7 Code on June 12, the latest iteration of its open-source coding series and the newest release in the K2 family, which began in July 2025. The model packs 1 trillion total parameters into a Mixture-of-Experts architecture, runs with 32 billion active parameters per inference step, and ships with a 256K-token context window — a combination designed specifically for the long-horizon, multi-step code execution patterns that define modern AI coding agents.
 
 The headline improvement over K2.6 is a 30% reduction in reasoning token usage, which translates directly into lower inference costs and faster latency for the agentic workflows the model is built to power. In a market where token economics increasingly determine whether developers integrate a model or look elsewhere, this is not a minor optimization.
 
@@ -46,7 +47,7 @@ The 1T parameter / 32B active parameter split reflects the standard Mixture-of-E
 
 For coding workloads specifically, this architecture has strong theoretical advantages. Code generation requires different expertise for different languages, frameworks, and abstraction levels. A Python async function, a Rust lifetime annotation, and a Kubernetes YAML manifest require different patterns of knowledge. MoE models can route each token to the most relevant experts, which is one reason they have consistently outperformed equivalently-sized dense models on code benchmarks since GPT-4 introduced the architecture at scale.
 
-Moonshot has not released its full architecture documentation, including the number of experts and routing mechanism. Researchers who have inspected the Hugging Face weights report 384 experts, with each token routing to 8 experts per layer, consistent with the architecture described for the earlier K2 series.
+The architecture is reported to use 384 experts, with each token routing to 8 experts, consistent with the architecture shared with K2.5 and K2.6.
 
 ## The Open-Source Positioning
 
@@ -71,3 +72,5 @@ K2.7 Code will be stress-tested rapidly by the developer community on Hugging Fa
 The 30% token reduction claim also deserves close attention in production conditions. Token count reductions in reasoning chains can be achieved in ways that genuinely reflect improved efficiency or in ways that reflect shorter, less thorough reasoning — a tradeoff that shows up as latency and cost savings on benchmarks but as quality degradation on hard real-world tasks. The structure of Kimi Code Bench v2 does not fully distinguish between these scenarios.
 
 For developers building coding agent pipelines, K2.7 Code is worth evaluating — particularly for Rust or Go workloads, where the MLS Bench gains are most meaningful, and for long-running agentic sessions where the 30% token reduction compounds into material cost savings over time.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

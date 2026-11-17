@@ -1,8 +1,9 @@
 ---
 title: "ChatGPT Becomes the Fastest App in History to Reach 1 Billion Monthly Active Users"
-summary: "ChatGPT surpassed 1 billion monthly active app users in May 2026 — roughly three years after its launch — becoming the fastest application in history to hit the milestone, outpacing TikTok, Instagram, YouTube, and Google Maps. The figure, estimated by Sensor Tower, underscores the structural shift in how consumers relate to AI, even as OpenAI faces pressure to convert its massive audience into a sustainable business."
+summary: "ChatGPT surpassed 1 billion monthly active app users in May, roughly three years after its launch, becoming the fastest app in history to hit the milestone, according to Sensor Tower estimates. The figure is an estimate, and OpenAI still faces the challenge of converting its massive audience into a sustainable business."
 category: "ai-ml"
 publishedAt: 2026-06-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,7 +30,7 @@ relatedSlugs:
 
 In the spring of 2026, ChatGPT quietly crossed a threshold that no consumer application has ever reached this quickly: one billion monthly active users. According to market intelligence firm Sensor Tower, the OpenAI chatbot surpassed the milestone in May 2026 — approximately three years after its launch in November 2022 — making it the fastest application in recorded history to reach what has long been considered the ultimate consumer software benchmark.
 
-To put that pace in context: it took TikTok five years to reach 1 billion monthly active users. Instagram took six. YouTube and Google Chrome each took approximately seven. Google Maps required nearly a decade. ChatGPT did it in three.
+To put that pace in context: Sensor Tower said it took between five and eight years for Google Maps, Chrome, YouTube, Messenger and TikTok to reach 1 billion monthly active users. Instagram took six. YouTube and Google Chrome each took approximately seven. Google Maps required nearly a decade. ChatGPT did it in three.
 
 ## The Growth Numbers
 
@@ -72,3 +73,5 @@ The 1 billion figure is, in the end, both a genuine milestone and a carefully co
 What it does not say is whether OpenAI has built the right business model for the next decade, whether the current quality gap between ChatGPT and its competitors will persist, or whether a billion monthly active users in 2026 translates into the kind of durable market position that Alphabet and Meta built with their billion-user properties.
 
 Three years from a standing start to a billion users is an extraordinary achievement. The harder question — whether this user base becomes the foundation for an equally extraordinary business — is still being written.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

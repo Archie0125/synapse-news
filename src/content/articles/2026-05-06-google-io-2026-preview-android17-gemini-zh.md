@@ -1,8 +1,9 @@
 ---
 title: "Google I/O 2026 前瞻：Android 17、Gemini 升級、XR 智慧眼鏡，以及系統大一統的野心"
-summary: "Google 年度開發者大會將於 2026 年 5 月 19 至 20 日在加州山景城 Shoreline 露天劇場舉行，外界對 Android 17「隨處自適應」計畫、Gemini 模型重大更新、Android XR 智慧眼鏡，以及長期傳聞中的「Aluminum OS」（Android 與 ChromeOS 大一統）預覽充滿期待。Google 還將在 5 月 12 日搶先播出「Android Show：I/O 特別版」，在 Apple WWDC 之前搶佔開發者的注意力。"
+summary: "Google 年度開發者大會將於 2026 年 5 月 19 至 20 日在加州山景城 Shoreline 露天劇場舉行，已公布的議程主題包括 Android 17、AI 與 Chrome，並可能一窺長期傳聞中整合 ChromeOS 與 Android 的「Aluminium OS」。Google 也將在 5 月 12 日播出「Android Show：I/O 特別版」，在大會前為 Android 舉辦專屬展示。"
 category: "developer-tools"
 publishedAt: 2026-05-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -28,19 +29,19 @@ relatedSlugs:
   - "2026-05-06-google-io-2026-preview-android17-gemini-en"
 ---
 
-距離年度開發者大會還有兩週，Google 已經開始暖場。5 月 5 日，Google 正式宣布「The Android Show：I/O 特別版」將於 5 月 12 日直播，這場以消費者為主角的預覽活動，用 Google 自己的話來說，是為了慶祝「Android 有史以來最重要的一年」。光是這句話就值得重視——這是一個承諾，而 I/O 2026 將是兌現的時刻。
+距離年度開發者大會還有兩週，Google 已經開始暖場。5 月 5 日，Google 正式宣布「The Android Show：I/O 特別版」將於 5 月 12 日直播，這是一場預錄節目，將於 5 月 12 日在 YouTube 播出，Google 表示將揭曉為何今年是「Android 有史以來最重要的年度之一」。光是這句話就值得重視——這是一個承諾，而 I/O 2026 將是兌現的時刻。
 
-Google I/O 2026 定於 2026 年 5 月 19 至 20 日在加州山景城 Shoreline 露天劇場舉行，全程於 io.google 直播。主題演講在 5 月 19 日太平洋時間上午 10 點至 11 點 45 分登場，開發者專場緊接著在下午 1 點 30 分開始，下午 3 點 30 分則有專場 AI 議程，涵蓋多模態處理、媒體生成與機器人技術。從已公開的議程安排和外部消息研判，I/O 2026 有望成為自第一代 Pixel 發表以來最具份量的 Google 開發者大會。
+Google I/O 2026 定於 2026 年 5 月 19 至 20 日在加州山景城 Shoreline 露天劇場舉行，全程於 io.google 直播。主題演講在 5 月 19 日太平洋時間上午 10 點（美東時間下午 1 點）登場，當天太平洋時間下午 3:30 起另有專場 AI 議程。從已公開的議程安排和外部消息研判，I/O 2026 有望成為自第一代 Pixel 發表以來最具份量的 Google 開發者大會。
 
 ## Android 17：「隨處自適應」的野心
 
-Android 17 的核心是 Google 命名為「隨處自適應（Adaptive Everywhere）」的設計哲學——讓 Android 在手機、汽車、客廳、穿戴裝置與擴增實境等各種環境之間無縫切換，用戶不需要為環境的變化費心思。
+據報導，Android 17 將轉向「隨處自適應（Adaptive Everywhere）」的做法，讓用戶能在 Android、ChromeOS 與 XR 之間，於手機、汽車、客廳與沉浸式環境中流暢切換。
 
 已公開的 I/O 議程說明提到：效能更新、相機與媒體 App 的新功能、桌機與大螢幕體驗強化、以及帶有深度 AI 整合意味的自動化功能。第二天有一場獨立議程「Android 17 的隨處自適應方式」，足以說明這項計畫的規模之大，需要專場深度技術剖析。
 
 對開發者而言，實務影響包括自適應佈局的新 API——可智慧地在不同尺寸螢幕間重排的元件——以及與 Android XR 的更深整合：這個平台是 Google 押注連接手機與即將到來的 AI 智慧眼鏡及混合實境裝置的關鍵。
 
-Android 17 預計在 WWDC 之後的 6 月下旬釋出開發者預覽版，穩定版目標在 10 月推出。
+Android 17 正進行最後調整，穩定版預計在 6 月推出。
 
 ## Gemini：底層的 AI 模型層
 
@@ -62,9 +63,7 @@ I/O 2026 將是 Google 自 Gemini 發表以來最重要的一次 Gemini 展示�
 
 Google 的 Android XR 平台自 2025 年底進入開發者預覽，但 I/O 2026 預計標誌著從預覽版升格為正式平台的轉折。包括三星在內的硬體合作夥伴正在 Android XR 上開發裝置，首批搭載此平台的消費級智慧眼鏡預計在 2026 年下半年上市。
 
-I/O 議程中有多場議程涵蓋 XR 開發、空間音訊、沉浸式 UI，以及 Gemini 在 XR 常駐 AI 中的推理管線。所有人都在等待的實機示範，是 Project Astra 在一副眼鏡上運行的樣子——持久的視覺上下文、即時翻譯，以及在背景安靜運作的 AI 記憶，不需要掏出手機。
-
-Google 是否會在 I/O 現場展示 XR 實體硬體，還是留待獨立發布活動，目前仍不確定；但議程的密度說明：XR 在這屆大會上將首次被視為頭等公民。
+所有人都在等待的實機示範，是 Project Astra 在一副眼鏡上運行的樣子——持久的視覺上下文、即時翻譯，以及在背景安靜運作的 AI 記憶，不需要掏出手機。
 
 ## Aluminum OS：最大的變數
 
@@ -76,8 +75,8 @@ Google 過去曾嘗試作業系統融合，最具代表性的是 ChromeOS 上的
 
 ## 競爭格局
 
-Google I/O 2026 在 Apple WWDC 的兩週前登場，這個安排是刻意的。Google 想在 Apple 有機會重置敘事之前，先建立 AI 開發者議題的主導權。去年 WWDC 之後，Apple 的公告主導了整個後續報導週期，改變了外界對裝置端 AI 競賽走向的感知。今年，Google 選擇搶先——5 月 12 日的 Android Show、5 月 19 日的 I/O 主題演講，以及隨後數週的開發者議程內容。
-
 壓力是真實的。為 Android 開發的開發者是龐大的族群，但他們同時被 OpenAI 的新興平台野心、微軟的 GitHub Copilot 生態，以及 Anthropic 以 Claude 為核心的開發工具大力招攬。I/O 2026 是 Google 向開發者世界重申的機會：從模型到市場，沒有任何工具鏈比 Google 的整合更深、更完整、更難被第三方零件拼湊的方案取代。
 
-主題演講還有 13 天。期待值已被拉到最高。
+主題演講將於 5 月 19 日太平洋時間上午 10 點登場。期待值已被拉到最高。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 13 處。*

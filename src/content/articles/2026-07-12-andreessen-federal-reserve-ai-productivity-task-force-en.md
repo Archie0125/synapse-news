@@ -1,8 +1,9 @@
 ---
 title: "Marc Andreessen Joins Federal Reserve AI Task Force Under New Chair Kevin Warsh"
-summary: "Fed Chair Kevin Warsh appointed a16z co-founder Marc Andreessen to co-lead a Productivity and Jobs task force examining how AI is reshaping the economy. The move blurs the line between Silicon Valley and central banking — and immediately drew conflict-of-interest scrutiny given Andreessen's 30-year friendship with Warsh and his portfolio's deep AI bets."
+summary: "Fed Chair Kevin Warsh named venture capitalist Marc Andreessen to the Productivity and Jobs task force, one of five panels set up to examine the central bank's operations, including areas from inflation to artificial intelligence."
 category: "policy"
 publishedAt: 2026-07-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -28,19 +29,19 @@ relatedSlugs:
   - "2026-07-09-illinois-sb315-ai-safety-audit-law-en"
 ---
 
-The Federal Reserve has never before enlisted a Silicon Valley venture capitalist to help shape its economic thinking. That changed on July 9, 2026, when new Fed Chair Kevin Warsh announced the members of five external task forces — and Marc Andreessen, co-founder of Andreessen Horowitz (a16z) and one of the most vocal technology optimists in American public life, was named a co-leader of the Productivity and Jobs task force.
+That changed on Thursday, when Fed Chair Kevin Warsh announced the members of five task forces — and venture capitalist Marc Andreessen was named to the Productivity and Jobs task force.
 
 The appointment marks a striking convergence of tech industry influence and central banking authority, arriving at a moment when AI's impact on employment, inflation, and GDP growth has become the most contested empirical question in macroeconomics.
 
 ## The Task Forces and Their Mandate
 
-Warsh, who was confirmed as Fed Chair in January 2026 after a lengthy Senate confirmation process, campaigned internally on reforming how the Fed approaches its monetary policy communications, balance sheet management, and economic modeling. Upon taking office, he organized five external advisory bodies covering: monetary policy communication, balance sheet policy, data sources, productivity and jobs, and inflation frameworks.
+Warsh, who was confirmed as Fed Chair in January 2026 after a lengthy Senate confirmation process, campaigned internally on reforming how the Fed approaches its monetary policy communications, balance sheet management, and economic modeling. He first disclosed his intention to create five task forces last month, covering: communications, balance sheet policy, data, productivity and jobs, and inflation frameworks.
 
 The Productivity and Jobs task force that Andreessen joins has the most direct bearing on how the Fed will interpret AI's macroeconomic effects. Its formal mandate, as described by the Fed, is to "assess the economic impact of new general-purpose technologies, including artificial intelligence, to inform the Federal Reserve's policy judgments."
 
-Joining Andreessen as co-leaders are Stanford economist Charles I. Jones — one of the leading academic researchers on long-run productivity growth — and Asha Sharma, the CEO of Microsoft Xbox who previously held senior product roles at Google. Former Walmart CEO Doug McMillon, who chairs the Business Roundtable, is also named to the group.
+Also on the Productivity and Jobs task force are Stanford economist Charles I. Jones — one of the leading academic researchers on long-run productivity growth — and Asha Sharma, the CEO of Microsoft Xbox who previously held senior product roles at Google. Former Walmart CEO Doug McMillon was named to the Data task force.
 
-The task force is expected to deliver recommendations by the end of 2026.
+The Fed did not indicate a timeline for when the task forces would complete their work, though Warsh has said he expects changes to come this year.
 
 ## Why This Appointment Is Significant
 
@@ -69,3 +70,5 @@ This lag is not new; economists documented a similar "productivity paradox" with
 The labor displacement question is more immediately urgent. If AI is causing structural unemployment — displacing workers in ways that existing retraining programs cannot absorb at sufficient speed — the Fed may need to think differently about what "maximum employment" looks like and how it should respond to higher unemployment that is supply-side rather than demand-driven.
 
 These are precisely the kinds of questions where Andreessen's bottom-up visibility into AI deployment patterns is potentially valuable — and where his financial interest in particular answers is potentially distorting. That tension is the central feature of the appointment, and it will follow the task force's work until its final recommendations are delivered.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

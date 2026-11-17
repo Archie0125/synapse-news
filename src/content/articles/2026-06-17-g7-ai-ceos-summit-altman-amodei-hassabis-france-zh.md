@@ -1,8 +1,9 @@
 ---
-title: "史上首次：三大AI實驗室CEO同台出席G7峰會，對決各國元首"
-summary: "OpenAI的Sam Altman、Anthropic的Dario Amodei與Google DeepMind的Demis Hassabis於6月15至17日同台出席在法國埃維昂舉辦的G7峰會，這是全球三大前沿AI實驗室掌門人首次聯袂面對世界最強大的政府領導人。峰會揭示出G7各國僅願提出自願性承諾，與安全倡議人士要求具有約束力監管框架之間愈來愈深的鴻溝。"
+title: "Altman、Amodei與Hassabis預計出席G7峰會埃維昂"
+summary: "OpenAI的Sam Altman、Anthropic的Dario Amodei與Google DeepMind的Demis Hassabis預計出席6月15日至17日在法國埃維昂舉辦的G7峰會，據報導這是G7會議首次有三大AI公司同時派代表出席。"
 category: "policy"
 publishedAt: 2026-06-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-06-15-white-house-ai-innovation-security-executive-order-zh"
 ---
 
-法國埃維昂原本以礦泉水聞名，本週卻成為一場歷史性會面的舞台。
+法國埃維昂原本以礦泉水聞名，本週卻成為一場意義更重大的會議舞台：這是G7會議首次有全球三大領先AI實驗室同時派代表出席。
 
-OpenAI執行長Sam Altman、Anthropic執行長Dario Amodei、Google DeepMind執行長Demis Hassabis，這三位全球最具影響力的AI實驗室掌門人，首次在同一個房間裡面對各國元首。地點是法國日內瓦湖畔小城埃維昂，時間是6月15至17日的第52屆G7峰會。
+OpenAI執行長Sam Altman、Anthropic執行長Dario Amodei、Google DeepMind執行長Demis Hassabis，這三位全球最具影響力的AI實驗室掌門人預計出席G7峰會，據報導這是G7會議首次有三大AI公司同時派代表出席。地點是法國日內瓦湖畔小城埃維昂，時間是6月15至17日的第52屆G7峰會。
 
 此次峰會由法國總統馬克宏主持。除了上述三人，出席的科技界代表還包括巴黎AI新創Mistral AI的Arthur Mensch、Cohere的Aidan Gomez、Meta的Alex Wang、Salesforce的Marc Benioff，以及日本AI公司Sakana AI的Ren Ito。但真正引發地緣政治關注的，是這「三大」共同現身的意義。
 
@@ -45,7 +46,7 @@ OpenAI執行長Sam Altman、Anthropic執行長Dario Amodei、Google DeepMind執�
 
 ## CEO說了什麼，又沒說什麼
 
-OpenAI與Anthropic的發言人此前確認，峰會將討論「先進AI帶來的機遇與威脅」，但兩家公司均未提供具體議程。Google DeepMind則除確認Hassabis出席外，不予進一步說明。
+OpenAI發言人表示，公司預期將討論先進AI帶來的機遇與威脅，但不願進一步說明；Anthropic則確認其執行長出席，未說明議程。
 
 這種沉默本身便說明問題。峰會主辦方將前沿AI風險——尤其是網路安全與生物安全領域——列為核心議題。然而，最有能力製造此類風險的公司，對於在多邊場合做出具體承諾天然保持謹慎，因為任何一句話都可能成為未來談判的固定基準。
 
@@ -73,6 +74,8 @@ Altman、Amodei和Hassabis作為AI治理夥伴出現在政府面前，本身就�
 
 峰會於6月17日正式閉幕。但後續進程已在排程中：G7七國的資料保護主管機關將於6月23日齊聚巴黎，進行四天的AI執法、跨境資料流動，以及一個長期被利用的管轄漏洞之圓桌討論，由法國國家資訊與自由委員會（CNIL）主持。
 
-這次巴黎會議是否能比埃維昂產出更具體的成果，仍是未知數。但至少，建構前沿AI的人與負責治理它的政府，終於在同一個房間裡出現了。
+這次巴黎會議是否能比埃維昂產出更具體的成果，仍是未知數。
 
-問題在於，這兩個群體之間的距離依然遼闊。而AI能力發展，並不會停下腳步等待治理差距縮小。
+而AI能力發展，並不會停下腳步等待治理差距縮小。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

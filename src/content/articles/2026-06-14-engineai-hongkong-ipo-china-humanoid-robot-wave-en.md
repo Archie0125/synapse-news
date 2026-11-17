@@ -3,6 +3,7 @@ title: "EngineAI Files for Hong Kong IPO as China's Humanoid Robot Sector Races 
 summary: "Shenzhen-based EngineAI has filed confidentially for a Hong Kong IPO, becoming the latest in a wave of Chinese humanoid robot makers seeking public listings — alongside sector leader Unitree, which is targeting a $7 billion IPO, and BYD-backed hand manufacturer PaXini. EngineAI's 12,000-square-meter factory can produce one robot every 15 minutes, underpinning an IPO story built on scale rather than revenue disclosure. China now ships approximately 90% of the world's humanoid robots, but the market faces an uncomfortable reality: only 23% of buyers report satisfaction with available products."
 category: "hardware"
 publishedAt: 2026-06-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -36,11 +37,11 @@ But EngineAI's filing is less important as an individual event than as a data po
 
 EngineAI was founded in 2023 by CEO Zhao Tongyang, drawing its team from top Chinese universities, with a stated focus on what it calls "embodied AI" — machines designed not just to process data but to perceive and physically interact with their environments. The company's public profile is built primarily on hardware achievement: its PM01 robot, which it positions as a mid-range option between the entry-level SA01 and the industrial T800, attracted global attention when footage of it executing a front flip circulated widely in 2025. Hardware demonstrations have a long history of outrunning commercial reality in robotics, but the footage was nonetheless a legitimate proof-of-physical-capability milestone.
 
-The company's most significant recent development is not a product launch but a factory opening. On June 1, 2026 — approximately six weeks before the IPO filing — EngineAI opened a 12,000-square-meter production facility in Shenzhen and began shipping its T800 model. The facility is designed to manufacture one humanoid robot every 15 minutes, theoretically supporting annual output of roughly 10,000 units.
+The company's most significant recent development is not a product launch but a factory opening. On June 1, 2026, about 11 days before the IPO filing report, EngineAI opened a 12,000-square-meter production facility in Shenzhen and began shipping its first batch of T800 robots. The facility is designed to manufacture one humanoid robot every 15 minutes, theoretically supporting annual output of roughly 10,000 units.
 
 That production rate matters for the IPO narrative. Humanoid robotics has faced persistent criticism that demonstrations are engineering theater — impressive in controlled settings, irrelevant to manufacturing realities. A factory producing at that throughput, even at early-stage quality yields, shifts the story from "can we build one?" to "can we build at scale?" — a fundamentally different investment thesis.
 
-EngineAI raised $200 million in an April 2026 Series B, led by a fund affiliated with Henan Investment Group and electronics supplier Luxshare Precision Industry, pushing its valuation above 10 billion yuan, or approximately $1.5 billion. Revenue figures have not been disclosed, and the confidential IPO filing means financial details will remain opaque until the company formally submits its prospectus.
+EngineAI raised a Series B in April 2026, led by a fund affiliated with Henan Investment Group and electronics supplier Luxshare Precision Industry, pushing its valuation above 10 billion yuan, or approximately $1.5 billion. Revenue figures have not been disclosed, and the confidential IPO filing means financial details will remain opaque until the company formally submits its prospectus.
 
 ## Unitree, PaXini, and the Broader IPO Cohort
 
@@ -71,3 +72,5 @@ EngineAI's Hong Kong filing, if it proceeds to a listed IPO, will test how much 
 Several questions will determine the health of the Chinese humanoid robot IPO wave through the end of 2026. First, whether Unitree's larger Shanghai listing attracts meaningful institutional demand from international investors, or remains primarily a domestic Chinese capital story. Second, whether EngineAI's factory metrics — units shipped, order backlog, industrial customer names — can withstand public market due diligence when a formal prospectus is filed. And third, whether any of the 150-plus competing Chinese humanoid companies announce production partnerships with major manufacturing customers before the IPO window closes, giving the sector the revenue proof point it currently lacks.
 
 The hardware is increasingly real. The market is not yet.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

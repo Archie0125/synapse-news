@@ -1,8 +1,9 @@
 ---
 title: "Transformer 架構共同發明人 Noam Shazeer 離開 Google，加入 OpenAI"
-summary: "Noam Shazeer 是 2017 年 Transformer 架構奠基論文的共同作者，也是 Google Gemini 計畫的共同負責人。他宣布離開 Google DeepMind，以架構研究負責人身分加入 OpenAI。Google 才在 22 個月前以約 27 億美元的代價讓他回鍋，此番人才流失震撼 AI 業界。"
+summary: "Noam Shazeer 是 2017 年 Transformer 架構奠基論文的共同作者，也是 Google Gemini 計畫的共同負責人。他宣布離開 Google（曾任工程副總裁及 Gemini AI 模型共同負責人），加入 OpenAI。Google 於 2024 年 8 月讓他回鍋，不到兩年他再度離開，此番人才流失震撼 AI 業界。"
 category: "ai-ml"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -27,27 +28,27 @@ relatedSlugs:
 
 2017 年，Google Brain 的一組研究員發表了一篇名為《Attention Is All You Need》的論文，從此徹底改寫了人工智慧的發展軌跡。Noam Shazeer 是這八位共同作者之一，而他也因此成為現代 AI 時代最具代表性的人物之一。
 
-2026 年 6 月 18 日，Shazeer 宣布將以架構研究負責人（Lead for Architecture Research）的頭銜加入 OpenAI，正式離開他共同主導的 Google Gemini 計畫。業界人士普遍認為，這是繼 Andrej Karpathy 加入 Anthropic 後，AI 領域最重要的一次個人層級人才移動。
+Shazeer 於週三宣布將離開 Google，加入 OpenAI；他在 Google 擔任工程副總裁，同時是 Gemini AI 模型的共同負責人。業界人士普遍認為，這是繼 Andrej Karpathy 加入 Anthropic 後，AI 領域最重要的一次個人層級人才移動。
 
 ## Transformer 之父，現代 AI 的奠基者
 
 《Attention Is All You Need》所提出的 Transformer 架構，是目前幾乎所有主流大型語言模型的技術基礎——無論是 GPT-4、Claude、Gemini、Llama 還是 Mistral，都建立在這項架構之上。說 Shazeer 的研究影響深遠，其實是低估了他的貢獻；在某種程度上，他幫助發明的典範架構，正是今日所有 AI 公司競相追逐的技術核心。
 
-在 Google 工作將近二十年後，他於 2021 年離職，與共同創辦人 Daniel De Freitas 一起創立了 Character.AI。這家消費端 AI 公司以高度客製化的角色扮演對話機器人見長，吸引了大批死忠用戶，也證明了大眾對 AI 對話的渴望——比 ChatGPT 轟動全球還早了整整一年。
+他於 2021 年離開 Google，創立了 Character.AI。
 
-## Google 斥資 27 億美元的回鍋計畫
+## Google 的回鍋計畫
 
-2024 年 8 月，Google 以一項被許多分析師形容為「棋局妙手」的安排，將 Shazeer 和 De Freitas 雙雙從 Character.AI 拉回麾下。Google 並未直接收購 Character.AI，而是以授權其技術為條件，同時支付據報約 27 億美元的代價換回這兩位人才。Shazeer 重返 Google 後擔任工程副總裁，並出任 Gemini 計畫的共同負責人。
+2024 年 8 月，Google 將 Shazeer 找了回來。Shazeer 重返 Google 後擔任工程副總裁，並出任 Gemini 計畫的共同負責人。
 
-這場豪賭只維持了不到 22 個月。
+這次回鍋不到兩年，他就再度離開。
 
-「我非常興奮地宣布，我即將加入 OpenAI，」Shazeer 在公告中寫道，並指出 OpenAI 的規模部署能力以及在架構前沿突破的研究機會是他做出決定的關鍵因素。
+「我很高興與大家分享，我即將加入 OpenAI，並期待與那裡的優秀團隊共事，」Shazeer 在 X 的貼文中表示。
 
 ## Altman 的十年念想
 
 OpenAI 執行長 Sam Altman 完全沒有掩飾自己的興奮。他在 X 上寫道：「Noam 是我從 OpenAI 創立之初就最想合作的人之一。只花了十年。」這句話暗示 Altman 早在多年前就曾試圖招攬 Shazeer。
 
-在 OpenAI，Shazeer 將主導模型架構的長期研究方向。這家公司正積極招募頂尖研究員，為預計在 2026 年 9 月進行的 IPO 做準備——市場估值可能超過 8,500 億美元。Shazeer 在 scaling laws（規模定律）、mixture-of-experts（混合專家）架構以及高效注意力機制方面的深厚造詣，將直接應用於下一代前沿模型的設計。
+OpenAI 本月稍早已秘密遞交首次公開募股（IPO）申請。Shazeer 在 scaling laws（規模定律）、mixture-of-experts（混合專家）架構以及高效注意力機制方面的深厚造詣，將直接應用於下一代前沿模型的設計。
 
 ## Google 的損失不只是符號意義
 
@@ -66,3 +67,5 @@ Shazeer 的跳槽是頂尖 AI 研究員在少數幾家前沿機構間頻繁流�
 這段故事有一個耐人尋味的弔詭之處。2017 年，Shazeer 在 Google 幫助發明了 Transformer 架構，而正是這個架構讓 OpenAI 得以崛起——從 GPT-1 到 GPT-5，所有 OpenAI 的模型都建立在那篇論文的洞見之上。近十年後，他選擇加入了因他的研究而壯大的這家公司。
 
 無論是後 Transformer 時代的新架構突破，還是效率上的根本性躍進，這些問題的答案，或許將由 Shazeer 在 OpenAI 的工作來揭曉。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 9 處。*

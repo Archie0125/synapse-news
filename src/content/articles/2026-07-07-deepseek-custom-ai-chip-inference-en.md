@@ -3,6 +3,7 @@ title: "DeepSeek Quietly Building Its Own AI Chip to Escape Dependence on Nvidia
 summary: "A Reuters exclusive published July 7 reveals that Chinese AI startup DeepSeek has been secretly developing a custom inference chip for about a year, hiring semiconductor engineers and approaching foundry partners. The move would make DeepSeek the latest major AI lab to vertically integrate into silicon — and could reshape China's AI hardware landscape."
 category: "hardware"
 publishedAt: 2026-07-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -65,6 +66,8 @@ For Nvidia, the risk is more distant: China already accounts for a fraction of i
 
 ## The Broader Pattern
 
-The chip announcement confirms a trend that is accelerating across the global AI industry: every frontier AI lab is moving to control its own silicon. The era of AI companies as pure software enterprises, entirely dependent on commodity hardware from a handful of suppliers, is ending. DeepSeek's entry into chip design — even in its early stages — is the latest evidence that this vertical integration imperative has crossed geopolitical lines.
+The report, if accurate, suggests DeepSeek may be another entrant in the fiercely competitive Chinese AI market, as it looks to reduce its reliance on third-party chip providers. The era of AI companies as pure software enterprises, entirely dependent on commodity hardware from a handful of suppliers, is ending.
 
 The company that shocked the world with R1's efficiency has demonstrated that unconventional engineering approaches can produce remarkable results under constraint. Whether that same ingenuity can crack custom silicon within China's manufacturing limitations remains to be seen. But that DeepSeek is trying at all is itself a signal about where the industry is heading.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

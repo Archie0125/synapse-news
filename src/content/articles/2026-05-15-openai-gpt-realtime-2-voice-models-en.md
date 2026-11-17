@@ -3,6 +3,7 @@ title: "OpenAI Launches GPT-Realtime-2: Voice AI That Can Actually Think"
 summary: "OpenAI has released three new real-time audio models through its API — GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper — bringing GPT-5-class reasoning to live voice interactions and targeting a rapid displacement of traditional call center and transcription infrastructure."
 category: "products"
 publishedAt: 2026-05-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -36,7 +37,7 @@ The flagship model in the release is GPT-Realtime-2, which OpenAI describes as i
 
 The context window has expanded dramatically — from 32,000 tokens in the previous generation to 128,000 tokens, allowing voice agents to maintain much longer conversational histories without losing earlier context. In a customer service deployment, that means an agent can reference information shared 45 minutes earlier in the same call without being explicitly reminded.
 
-Benchmarks show the model scoring 96.6% on Big Bench Audio Intelligence, a composite evaluation of comprehension, reasoning, and coherence across spoken interactions. That is 15.2% higher than its predecessor, GPT-Realtime-1.5, on the same benchmark.
+On OpenAI's own benchmarks, GPT-Realtime-2 at high effort scores 15.2% higher than its predecessor, GPT-Realtime-1.5, on Big Bench Audio, the company's audio-reasoning benchmark.
 
 The model is also built to handle real-world conversational friction. It can process simultaneous speech from multiple speakers, manage interruptions without losing its place, and gracefully incorporate corrections in mid-sentence. These are the exact failure modes that have made the current generation of AI phone agents feel robotic — the tendency to restart rather than adapt.
 
@@ -64,7 +65,7 @@ For accessibility use cases — automatic captions for the deaf and hard-of-hear
 
 The release is explicitly aimed at the call center and contact center market, which OpenAI estimates runs over 15 million agent seats globally. The combination of GPT-5-class reasoning and low-latency audio means that for the first time, AI voice agents can handle genuinely complex queries — not just routing callers or answering FAQs, but explaining a disputed insurance claim, walking a customer through a technical troubleshooting sequence, or negotiating a payment plan.
 
-ElevenLabs, which raised $500 million at a $5 billion valuation in May, is likely to feel the most direct competitive pressure. Its voice synthesis technology is best-in-class, but GPT-Realtime-2's reasoning capability combined with OpenAI's model distribution gives developers a strong reason to consolidate on a single API rather than stitching together OpenAI reasoning with ElevenLabs speech.
+ElevenLabs, which raised a Series D in February at an $11 billion valuation, is likely to feel direct competitive pressure. Its voice synthesis technology is best-in-class, but GPT-Realtime-2's reasoning capability combined with OpenAI's model distribution gives developers a strong reason to consolidate on a single API rather than stitching together OpenAI reasoning with ElevenLabs speech.
 
 Smaller players in the live translation market — Interprefy, Kudo, Wordly — face a similar dynamic. Their per-minute rates cannot match GPT-Realtime-Translate at $0.034/min without equivalent accuracy, and their enterprise contracts are now under renewal pressure.
 
@@ -73,3 +74,5 @@ Smaller players in the live translation market — Interprefy, Kudo, Wordly — 
 OpenAI confirmed at launch that GPT-Realtime-2 is already being used by GPT-5.5 to handle voice-mode interactions in ChatGPT, replacing the previous voice pipeline. The company has also said that workspace agents — its enterprise automation product — will be able to receive voice instructions via GPT-Realtime-2, making it possible to trigger multi-step automated workflows entirely through spoken commands.
 
 That means the vision is not just a smarter phone agent. It is a voice interface for the agentic AI era: one where speaking to your AI assistant is not merely a convenience, but the primary way humans direct complex, multi-step automated work.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

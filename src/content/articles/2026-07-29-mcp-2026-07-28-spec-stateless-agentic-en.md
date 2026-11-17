@@ -3,6 +3,7 @@ title: "MCP Gets Its Biggest Upgrade Ever: Stateless Core, New Auth, and a Path 
 summary: "The Model Context Protocol released its 2026-07-28 specification, the largest change to the AI agent communication standard since its launch. The update drops the stateful session model entirely, introduces multi-round-trip requests, tightens OAuth-based authorization, and establishes a formal extensions framework — setting the stage for MCP to power production-grade agentic AI at scale."
 category: "developer-tools"
 publishedAt: 2026-07-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -45,13 +46,13 @@ Stateless protocols face a specific challenge: how does a server ask a client a 
 
 The solution in the 2026-07-28 spec is Multi Round-Trip Requests (MRTR). When a server needs additional input from a client to complete a tool call — for example, to request confirmation before executing a destructive action, or to ask for a credential it doesn't yet have — it can return a `resultType: "input_required"` response that includes a specification of what it needs. The client retries the original request with answers embedded in an `inputResponses` payload. The protocol handles the rest.
 
-This pattern enables workflows that were previously only possible with complex out-of-band coordination: an AI agent can invoke a tool, be asked for additional information mid-call, provide it, and receive the result — all within a clean stateless request-response cycle. For enterprise agentic AI, where human-in-the-loop checkpoints and conditional execution are standard requirements, MRTR is significant.
+This pattern lets an AI agent invoke a tool, be asked for additional information mid-call, provide it, and receive the result, without a held-open stream between client and server. For enterprise agentic AI, where human-in-the-loop checkpoints and conditional execution are standard requirements, MRTR is significant.
 
 ## Authorization Hardening
 
 The 2026-07-28 spec represents a major tightening of MCP's authorization model, addressing a set of weaknesses that security researchers had flagged in enterprise deployments.
 
-The changes include: mandatory RFC 9207 issuer validation for authorization servers (preventing confused-deputy attacks in multi-tenant environments); formal support for `application_type` during Dynamic Client Registration (enabling secure localhost redirect handling for development tooling); credentials that are now bound to their issuing authorization server rather than floating freely; and the replacement of Dynamic Client Registration with Client ID Metadata Documents (CIMD), a more auditable credential provisioning model.
+The changes include: authorization servers should return the `iss` parameter per RFC 9207 and clients must validate it before redeeming a code, closing an authorization-server mix-up hole; clients set `application_type` during Dynamic Client Registration so authorization servers stop rejecting localhost redirects for desktop and CLI apps; client credentials are bound to the issuer that minted them; and Dynamic Client Registration is formally deprecated in favor of Client ID Metadata Documents (CIMD), though it continues to work for backward compatibility.
 
 Critically, the legacy HTTP+SSE transport — the original MCP transport layer — is formally deprecated in this release. The deprecation is announced with a 12-month minimum offramp, giving existing deployments time to migrate. The newer HTTP streaming transport and the MCP stdio transport remain supported and become the exclusive supported paths going forward.
 
@@ -59,7 +60,7 @@ Critically, the legacy HTTP+SSE transport — the original MCP transport layer �
 
 The spec formalizes an extensions mechanism that was previously ad-hoc. Extensions are now versioned namespaces in the form `io.modelcontextprotocol/{name}`, with explicit lifecycle management including the new 12-month deprecation policy.
 
-The first extension to graduate from experimental to stable under this framework is Tasks (`io.modelcontextprotocol/tasks`). Tasks now use a poll-based model (`tasks/get` and `tasks/update` methods) with change notifications delivered through a `subscriptions/listen` mechanism. This makes it possible for AI agents to initiate long-running background operations, check on their status, and receive updates — without requiring an open connection. It's the foundation for async agentic workflows at production scale.
+Tasks (`io.modelcontextprotocol/tasks`) moves out of the experimental core and into an extension under this framework, alongside other extensions such as MCP Apps and Enterprise Managed Authorization. Tasks now use a poll-based model (`tasks/get` and `tasks/update` methods) with change notifications delivered through a `subscriptions/listen` mechanism. This makes it possible for AI agents to initiate long-running background operations, check on their status, and receive updates — without requiring an open connection. It's the foundation for async agentic workflows at production scale.
 
 Three existing protocol features — Roots, Sampling, and Logging — are simultaneously deprecated as part of a broader consolidation, with the same 12-month offramp.
 
@@ -81,6 +82,8 @@ The Agentic AI Foundation (AAIF), a Linux Foundation directed fund, now formally
 
 The TypeScript, Python, Go, and C# SDK implementations have all been updated to the 2026-07-28 specification. A Rust SDK is available in beta. Java and Swift SDK updates are expected to follow within 60 days.
 
-Developers upgrading existing MCP integrations will need to handle three breaking changes: the removal of session identifiers from request handling, the transition from Dynamic Client Registration to CIMD for credentials, and the migration away from the deprecated HTTP+SSE transport. The spec changelog includes a migration guide that the SDK authors reviewed prior to publication, and early adopter feedback during the beta period improved the upgrade path substantially.
+The release notes say there will be some migration cost, especially for developers who depended on session identifiers. The spec changelog includes a migration guide that the SDK authors reviewed prior to publication, and early adopter feedback during the beta period improved the upgrade path substantially.
 
 For developers building agentic AI systems today, the 2026-07-28 spec is effectively a new foundation — one that trades the operational simplicity of a stateful protocol for the scalability, security, and composability that production-grade enterprise AI systems require.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

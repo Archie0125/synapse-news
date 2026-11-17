@@ -1,8 +1,9 @@
 ---
-title: "DeepSeek V4 Goes Live on Huawei Chips as U.S. Escalates AI Theft Accusations"
-summary: "China's DeepSeek released its 1.6 trillion-parameter V4 model fully optimized for Huawei's Ascend processors, delivering frontier-adjacent performance at a fraction of Western prices. The launch arrives as U.S. officials allege Chinese firms are running industrial-scale campaigns to steal American AI intellectual property."
+title: "DeepSeek Releases V4 Preview With Huawei Chip Support as U.S. Alleges AI Copying"
+summary: "China's DeepSeek released a preview of its V4 model, which it says was trained on Huawei's Ascend processors, at far lower prices than Western rivals. The release came a day after a White House adviser alleged Chinese developers run industrial-scale campaigns to copy U.S. technology."
 category: "ai-ml"
 publishedAt: 2026-06-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -26,15 +27,15 @@ relatedSlugs:
   - "2026-06-06-us-chip-ban-chinese-overseas-subsidiaries-en"
 ---
 
-# DeepSeek V4 Goes Live on Huawei Chips as U.S. Escalates AI Theft Accusations
+# DeepSeek Releases V4 Preview With Huawei Chip Support as U.S. Alleges AI Copying
 
-DeepSeek, the Hangzhou-based AI laboratory backed by quantitative hedge fund High-Flyer Capital, has released its most capable model to date—a 1.6 trillion-parameter mixture-of-experts architecture called V4-Pro—trained end-to-end on Huawei's Ascend 910C processors rather than Nvidia hardware. The release, arriving weeks after a preview launch in late April, marks the most significant demonstration yet that Chinese AI development has found a credible path around U.S. semiconductor export controls.
+DeepSeek, the Hangzhou-based AI startup owned by the Chinese hedge fund High-Flyer, has released a preview of its newest model, with V4-Pro at 1.6 trillion parameters. DeepSeek said it used Huawei's Ascend AI processors to train the model. The release, a preview launched on a Friday, comes more than a year after DeepSeek's V3 and R1 models shook markets.
 
-The timing is no accident. Washington has ramped up pressure simultaneously, with senior officials now formally alleging that DeepSeek and other Chinese AI labs are running what one government document described as "industrial-scale campaigns" to extract intellectual property from American models through systematic distillation and data poisoning. Beijing's foreign ministry dismissed the characterizations as "groundless."
+The timing is no accident. Washington has ramped up pressure at the same time: on Thursday, Michael Kratsios, science and technology adviser to President Trump, alleged that Chinese AI developers were engaged in "industrial-scale campaigns" to copy U.S. technology. Beijing's foreign ministry dismissed the characterizations as "groundless."
 
 ## What the Model Actually Does
 
-V4-Pro is enormous: 1.6 trillion total parameters across 256 experts, activating approximately 37 billion at inference time. In raw parameter count, that places it alongside GPT-5.4 and Gemini 3.1 Pro. DeepSeek's own technical report acknowledges V4 "falls marginally short" of those frontier models, estimating a developmental lag of three to six months—a significant narrowing from the 12-to-18 month gap that characterized DeepSeek's earlier releases.
+V4-Pro is enormous: 1.6 trillion total parameters across 256 experts, activating approximately 37 billion at inference time. In raw parameter count, that places it alongside GPT-5.4 and Gemini 3.1 Pro. DeepSeek's own technical report says V4 "falls marginally short of GPT-5.4 and Gemini 3.1 Pro," suggesting a trajectory that trails state-of-the-art frontier models by approximately three to six months.
 
 A companion model, V4-Flash, delivers a 284 billion-parameter variant at dramatically lower cost, targeting latency-sensitive applications where the full flagship would be impractical.
 
@@ -44,7 +45,7 @@ The 1 million-token context window is V4's other headline capability. At a momen
 
 DeepSeek's most disruptive contribution has never been raw capability alone. It is price. V4-Pro enters at $3.48 per million output tokens. OpenAI's comparable tier runs at $30 per million; Anthropic charges $25. That is roughly an 8-to-10x cost difference for models with substantially overlapping practical utility. V4-Flash at $0.28 per million output tokens undercuts even the leanest Western mini-models.
 
-"Pricing could fall further once Huawei scales up Ascend 950 production in the second half of this year," the company said in its release statement—suggesting DeepSeek's competitive advantage is structural rather than a temporary promotional position.
+DeepSeek expects to lower V4-Pro prices later in the year as Huawei scales up production of its new Ascend 950 AI processors.
 
 Financial markets responded accordingly. SMIC, the Chinese foundry manufacturing Huawei's Ascend chips, saw shares jump 10% on the announcement. Rival Chinese AI firms MiniMax and Knowledge Atlas each fell over 9%, as investors recalculated the competitive landscape.
 
@@ -52,7 +53,7 @@ Financial markets responded accordingly. SMIC, the Chinese foundry manufacturing
 
 The technically significant aspect of V4 is the chip stack. Until now, training large frontier models outside the Nvidia H100/H200/GB200 supply chain was considered largely theoretical. V4 appears to have changed that calculus.
 
-A research group that includes Huawei Technologies demonstrated full-parameter post-training of V4-Pro using a cluster of at least 1,000 Huawei Ascend 910C chips—a significant engineering achievement in cluster coordination at that scale. Huawei confirmed "day-zero compatibility" across its full Ascend SuperNode product line, including the newer 950 series processors entering limited production.
+A research group that includes Huawei Technologies demonstrated full-parameter post-training of V4-Pro using a cluster of at least 1,000 Huawei Ascend 910C chips—a significant engineering achievement in cluster coordination at that scale. Huawei announced that its Ascend processors would offer "full support" for DeepSeek's models.
 
 The implication is geopolitically significant: China now has at least one domestic model-training stack capable of producing frontier-adjacent results without any Nvidia involvement. That was not assumed to be possible when the Biden administration imposed its first export controls in October 2022.
 
@@ -60,7 +61,7 @@ Huawei is projecting $12 billion in AI chip revenue for 2026 as domestic demand 
 
 ## The Intellectual Property Dimension
 
-U.S. officials have paired the model release news with escalating IP theft allegations. The specific claims center on model distillation—training a student model to mimic a more capable teacher model's outputs—which government documents allege Chinese labs pursued at "industrial scale" using API access to American frontier models before export restrictions closed that pathway.
+The release came a day after U.S. officials made new allegations of IP copying by Chinese AI developers. The specific claims center on model distillation—training a student model to mimic a more capable teacher model's outputs—which government documents allege Chinese labs pursued at "industrial scale" using API access to American frontier models before export restrictions closed that pathway.
 
 DeepSeek's early V2 and V3 releases sparked similar accusations, particularly after analysis of V3's outputs showed response patterns some researchers attributed to distillation from GPT-4 and Claude 3 family models. DeepSeek denied those characterizations.
 
@@ -83,3 +84,5 @@ The release lands in a context where U.S. chip controls are being stretched in b
 Whether V4 represents a durable capability crossing or a high-water mark that Chinese labs will struggle to maintain without continued access to Western research outputs remains genuinely contested. What is no longer contested is that Huawei's Ascend platform is a serious training substrate for frontier-scale models.
 
 The next six months—as Ascend 950 production scales and V4 gets deployed across enterprise customers—will determine whether this moment represents a lasting strategic shift in the global AI balance or a demonstration that outpaces the underlying supply chain's capacity to sustain it.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

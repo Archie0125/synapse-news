@@ -3,6 +3,7 @@ title: "Meta 推出 299 美元自有品牌 AI 眼鏡，首次脫離 Ray-Ban 標�
 summary: "Meta 於 2026 年 6 月 23 日發布首款自有品牌 AI 眼鏡，起售價 299 美元，搭載全新 Muse Spark 端側 AI 模型，支援 20 種語言即時翻譯。這是 Meta 與 EssilorLuxottica 合作推出的首款非 Ray-Ban 品牌智慧眼鏡，比 Ray-Ban Meta Gen 2 便宜 80 美元，並在 Apple AR 眼鏡延遲至 WWDC 2027 的背景下搶先佔領消費市場。"
 category: "products"
 publishedAt: 2026-07-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -37,7 +38,7 @@ relatedSlugs:
 
 Meta Adventurer 與 Meta Fury 的硬件規格與去年發布的 Ray-Ban Meta Gen 2 相同：1200 萬像素相機，支援 3K 影片錄製；五麥克風陣列，具備抗噪語音喚醒能力；電池續航可達八小時。附帶充電盒額外提供約 40 小時電量。硬件配置基本上沿用 Ray-Ban 世代的水準——差異化在於品牌、價格與 AI 軟體。
 
-Adventurer 採用更纖細的日常輪廓，偏向商務場景。Fury 的鏡框更大，呈矩形輪廓，帶有運動風格。第三款 Meta Glasses by Kylie 是與 Kylie Jenner 聯名設計的細橢圓造型，售價 399 美元。Meta 表示整個系列共有 26 種款式，涵蓋不同框型、顏色與鏡片選項，也提供度數鏡片版本。
+Adventurer 採用更纖細的日常輪廓，偏向商務場景。Fury 與 Adventurer 同樣採用類似 Wayfarer 的矩形輪廓，但鏡框更厚。第三款 Meta Glasses by Kylie 是與 Kylie Jenner 聯名設計的細橢圓造型，售價 399 美元。光是 Adventurer 與 Fury 兩款，Meta 就提供 26 種顏色與鏡片組合，包括變色、偏光與透明鏡片選項，眼鏡也支援配戴度數鏡片。
 
 真正創新的部分在於內建的 AI 模型。Meta Glasses 搭載 Muse Spark——Meta 專為穿戴設備推理場景打造的專屬 AI 模型，在眼鏡的散熱與電量限制下優化運算效率，盡可能減少每次交互的雲端依賴。Muse Spark 與 7 月底為 Ray-Ban Meta Display Glasses 推送的更新使用相同模型，但它首次在 Meta 自有品牌產品上作為主功能亮相，而非架構在通用 AI 之上的品牌體驗。
 
@@ -72,3 +73,5 @@ Snap 以 2,195 美元同步發布的 AR Specs，清晰地呈現了智慧眼鏡�
 299 美元的定價層是真正影響採用規模的市場。在這個價位，購買決策更接近一副 AirPods Pro，而非需要反覆掂量的消費電子投資。如果 Meta 能在這個價位賣出數百萬副——其 76% 的市場份額和現有 Ray-Ban Meta 用戶基礎表明這是可以實現的——對 AI 眼鏡作為平台的複利效應將相當可觀：更多用戶產生更多數據用於改進 Muse Spark，更多用戶帶動更多開發者在眼鏡原生應用上的投入，更多用戶製造的社會規範化效應，則降低了後續買家的心理摩擦。
 
 這個飛輪效應，正是 Meta 在 Apple、三星、Google 等軟硬件巨頭紛紛嘗試在消費習慣固化之前建立自身位置的同時，維持穿戴 AI 品類領先所依賴的核心機制。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

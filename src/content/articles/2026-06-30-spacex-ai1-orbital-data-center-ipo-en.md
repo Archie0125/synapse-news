@@ -3,6 +3,7 @@ title: "SpaceX's Historic $75B IPO Bets on Space-Based AI Compute With AI1 Orbit
 summary: "SpaceX completed the world's largest-ever IPO on June 12, raising $75 billion at a $2.1 trillion market cap under Nasdaq ticker SPCX. The company simultaneously unveiled AI1, a 70-meter orbital compute satellite targeting 1 GW of space-based AI capacity by late 2027, with Google already contracted to pay $920 million per month for access."
 category: "hardware"
 publishedAt: 2026-06-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-06-26-openai-jalapeno-broadcom-inference-chip-en"
 ---
 
-On June 12, 2026, SpaceX priced its initial public offering at $135 per share on Nasdaq — and by the time trading closed that afternoon, the stock sat at $160.95. The 19% single-day pop gave the company a market capitalization of roughly $2.1 trillion, making it the most valuable public debut in history and eclipsing Saudi Aramco's 2019 record by a comfortable margin. The $75 billion raised in the offering itself set another record. But the number that rattled the technology industry most wasn't on the stock ticker — it was the wingspan of a satellite.
+SpaceX shares opened at $150 in their Nasdaq debut on Friday, above the $135 IPO price, and the stock closed the day at around $161. The 19% single-day pop gave the company a market capitalization of roughly $2.1 trillion, making it the most valuable public debut in history and eclipsing Saudi Aramco's 2019 record by a comfortable margin. The $75 billion raised in the offering itself set another record. But the number that rattled the technology industry most wasn't on the stock ticker — it was the wingspan of a satellite.
 
 ## The AI1 Satellite: Compute That Orbits
 
@@ -68,3 +69,5 @@ Not everyone agrees. CNBC ran an analysis the week of the IPO asking "Do AI data
 SpaceX's answer to these objections is essentially: the same arguments were made about satellite internet before Starlink demonstrated that reusable launch economics could change the equation entirely. That argument persuaded enough institutional investors to make SPCX the most talked-about public offering of 2026. Whether AI1 vindicates the thesis will become apparent when the first prototype satellites reach orbit sometime next year.
 
 For now, the space industry has a new vertical: orbital AI compute. And it arrived via the largest IPO in history.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

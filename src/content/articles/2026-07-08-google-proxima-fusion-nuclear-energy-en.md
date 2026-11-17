@@ -1,8 +1,9 @@
 ---
 title: "Google Backs €411M Round for German Fusion Startup Proxima, Betting on 2030s Power Plant"
-summary: "Alphabet's Google and German energy giant RWE have co-invested in Proxima Fusion's €411 million ($469 million) Series C, valuing the Munich-based stellarator startup at €2.4 billion and making it Europe's most valuable fusion company. Proxima aims to build Europe's first commercial fusion power plant in the 2030s—a timeline that aligns precisely with when AI data centers will require terawatts of reliable carbon-free baseload electricity."
+summary: "Alphabet's Google and German energy giant RWE have co-invested as strategic investors in Proxima Fusion's €411 million ($468 million) round, which valued the startup at $2.7 billion. Proxima aims to build Europe's first commercial fusion power plant, with a demonstrator running in the early 2030s and the plant targeted for later that decade."
 category: "industry"
 publishedAt: 2026-07-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
 
 When Google announced a fusion energy investment in Germany on July 7, it was easy to read the move as the kind of speculative, moonshot-adjacent bet that big tech companies make to burnish their sustainability credentials. Look at the numbers, however, and the investment logic becomes much harder, much more commercial, and much more urgent.
 
-German startup Proxima Fusion has closed a €411 million ($469 million) Series C at a €2.4 billion ($2.7 billion) valuation, making it the most valuable fusion company in Europe by a substantial margin. The round was led by XTX Ventures—the investment arm of algorithmic trading firm XTX Markets, whose founder Alex Gerko has quietly become one of the most active deep-tech investors in the world—alongside London-based East X Ventures. Google (through Alphabet) and German national energy firm RWE AG are strategic investors in the round.
+German startup Proxima Fusion has closed a €411 million ($468 million) round at a $2.7 billion valuation, and is the best-funded fusion startup in Europe by some distance. The round was led by XTX Ventures—the investment arm of algorithmic trading firm XTX Markets, whose founder Alex Gerko has quietly become one of the most active deep-tech investors in the world—alongside London-based East X Ventures. Google (through Alphabet) and German national energy firm RWE AG are strategic investors in the round.
 
 Proxima's goal: build Europe's first commercial fusion power plant, with a demonstrator operating in the early 2030s.
 
@@ -36,7 +37,7 @@ Proxima's goal: build Europe's first commercial fusion power plant, with a demon
 
 Proxima is developing a type of fusion reactor called a stellarator—a cousin of the more famous tokamak design but with fundamentally different magnetic field geometry. Where tokamaks (the design used in ITER and by Commonwealth Fusion Systems) require precise plasma control that is still an active research challenge, stellarators are theoretically more stable because their twisted magnetic fields can confine plasma without the constant active corrections that tokamaks need.
 
-The world's most advanced stellarator, Wendelstein 7-X at Germany's Max Planck Institute for Plasma Physics in Greifswald, demonstrated key milestones in recent years that gave Proxima's founders—many of whom came directly from the Max Planck team—the confidence that commercial stellarators were achievable within a decade. The company was founded in 2023, which means it has gone from inception to a $2.7 billion valuation in three years, a pace that reflects both the genuine technical progress and the extraordinary urgency of the energy problem the company is attempting to solve.
+The world's most advanced stellarator, Wendelstein 7-X at Germany's Max Planck Institute for Plasma Physics in Greifswald, demonstrated key milestones in recent years that gave Proxima's founders—many of whom came directly from the Max Planck team—the confidence that commercial stellarators were achievable within a decade.
 
 ## The AI Energy Crisis Behind the Investment
 
@@ -66,7 +67,7 @@ The €411 million round is a record for European fusion. For context, the entir
 
 ## The Timeline Problem
 
-The central challenge for fusion investment—and the reason it has attracted justified skepticism for decades—is that fusion has always been "twenty years away." Proxima's timeline targets a demonstrator in the early 2030s and a commercial plant by the mid-to-late 2030s. That is aggressive, and there are serious technical hurdles remaining.
+The central challenge for fusion investment—and the reason it has attracted justified skepticism for decades—is that fusion has always been "twenty years away." Proxima's timeline targets a demonstrator in the early 2030s and a commercial plant later that decade. That is aggressive, and there are serious technical hurdles remaining.
 
 Plasma confinement at commercial scale in a stellarator has never been demonstrated. The engineering challenges of building a system that can withstand the neutron bombardment from sustained fusion reactions are formidable. The materials science for plasma-facing components at commercial scale does not fully exist yet. And the grid integration of a new type of power plant—even a well-functioning one—introduces regulatory, permitting, and operational challenges that can easily add years to any timeline.
 
@@ -79,3 +80,5 @@ For the tech industry specifically, the Google-Proxima relationship represents a
 The question that will define energy policy for the next fifteen years is not whether AI needs more power—it clearly does—but whether the infrastructure to supply that power can be built quickly enough to keep pace. Google's bet on Proxima is, in its essence, a vote that it cannot rely on existing technology alone to solve that problem, and that fusion—despite its historically frustrating timeline—is worth funding seriously.
 
 That is a significant signal from one of the most analytically rigorous capital allocators in the technology sector.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

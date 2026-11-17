@@ -3,6 +3,7 @@ title: "Anthropic 將 Claude 帶進 Microsoft Word：原生側邊欄改寫文件
 summary: "Anthropic 宣布 Claude for Word 進入公開測試，這款原生 Office 外掛程式將 Claude 以永久側邊欄形式直接嵌入 Word，適用於 Team 和 Enterprise 計畫用戶。整合支援起草、編輯與結構調整，所有 AI 生成的修改均以 Word 原生追蹤變更格式呈現，並可同時連接 Claude for Excel 與 Claude for PowerPoint，讓單次對話涵蓋三個同時開啟的文件。"
 category: "products"
 publishedAt: 2026-04-12T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -60,7 +61,7 @@ Anthropic 一位高階主管在發布聲明中表示：「我們不是要取代 
 
 ## Microsoft Foundry 與雙供應商策略
 
-與此同時，Anthropic 也宣布 Claude 完整上架 Microsoft Foundry——微軟面向企業客戶、用於在 Azure 上建構自定義 AI 應用程式的平台。透過 Foundry，開發者可以使用 Python、TypeScript 和 C# SDK，搭配 Microsoft Entra 驗證，以無伺服器方式部署存取 Claude，讓組織能夠建構將 Claude 能力與現有微軟基礎設施結合的內部工具。
+與此同時，Anthropic 也已讓 Claude 在 Microsoft Foundry 以公開預覽形式提供——Microsoft Foundry 是微軟面向企業客戶、用於在 Azure 上建構自定義 AI 應用程式的平台。透過 Foundry，開發者可以使用 Python、TypeScript 和 C# SDK，搭配 Microsoft Entra 驗證，以無伺服器方式部署存取 Claude，讓組織能夠建構將 Claude 能力與現有微軟基礎設施結合的內部工具。
 
 Foundry 上架揭示了一個耐人尋味的結構性訊號：微軟樂於在自家雲端平台上託管競爭對手的 AI 模型；Anthropic 也樂於透過微軟的生態系發行。這和微軟在 Azure AI 上發行 Meta、Mistral 等多家廠商模型的做法如出一轍，沒有排他性要求。對被鎖定在 Azure 或 Microsoft 365 協議中的企業而言，能夠透過 Foundry 運行 Claude 而無需管理獨立 API 憑證或基礎設施，大幅降低了部署門檻。
 
@@ -68,6 +69,8 @@ Foundry 上架揭示了一個耐人尋味的結構性訊號：微軟樂於在自
 
 ## 使用資格與上市狀況
 
-Claude for Word 公開測試版目前僅開放給 Claude Team 和 Enterprise 計畫的訂閱用戶。外掛可透過 Microsoft AppSource 安裝，或由 IT 管理員透過 Microsoft 365 管理中心集中部署，Mac 和 Windows 均支援。Claude Pro 消費者計畫目前尚未開放，但 Anthropic 表示將在 2026 年晚些時候擴大適用範圍。
+Claude for Word 公開測試版目前僅開放給 Claude Team 和 Enterprise 計畫的訂閱用戶。外掛可透過 Microsoft AppSource 安裝，或由 IT 管理員透過 Microsoft 365 管理中心集中部署，Mac 和 Windows 均支援。不過消息來源說法不一：一說目前僅限 Team 和 Enterprise 訂閱用戶使用，後續推出階段預計擴大方案適用範圍；另一說則指適用於付費的 Claude 方案，包括 Pro 和 Max。
 
 Word、Excel 和 PowerPoint 全套整合的完成，標誌著一個重要里程碑：企業用戶首次能夠在整個文件工作流程中使用同一個 AI 模型，從試算表分析到簡報製作再到書面報告，全程在單一連續對話情境中完成。這能否比微軟更緊密的原生 Copilot 整合更有吸引力？這將成為今年企業軟體領域最值得關注的競爭之一。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

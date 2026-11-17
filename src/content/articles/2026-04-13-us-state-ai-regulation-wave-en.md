@@ -1,8 +1,9 @@
 ---
 title: "America's AI Regulation Fractures Along State Lines as Federal Consensus Collapses"
-summary: "With federal AI legislation stalled, U.S. states have become the de facto regulators of consumer AI. Nebraska's Conversational AI Safety Act passed this week, mandating chatbot disclosures and crisis protocols for minor users. Across the country, a patchwork of state-level bills is creating a fragmented compliance landscape that industry groups warn could harm innovation — while advocates argue it is the only protection consumers have."
+summary: "Nebraska's Conversational AI Safety Act, passed April 10 as part of LB525, requires chatbot disclosures and crisis protocols and adds safeguards for minor account holders."
 category: "policy"
 publishedAt: 2026-04-13T09:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -35,17 +36,17 @@ This week's Troutman Privacy tracker update, published April 13, 2026, catalogue
 
 ## Nebraska's Conversational AI Safety Act: What It Requires
 
-Sponsored by State Senator Eliot Bostar of Lincoln, Nebraska's Conversational Artificial Intelligence Safety Act is the most detailed state-level attempt yet to regulate AI chatbot behavior specifically for consumer-facing and minor-user contexts.
+Sponsored by State Senator Eliot Bostar of Lincoln, Nebraska's Conversational Artificial Intelligence Safety Act regulates AI chatbot behavior for consumers generally and for minor account holders specifically.
 
-**Disclosure requirements** sit at the core of the bill. Any operator of a conversational AI service must clearly disclose, at the beginning of each interaction, that the user is speaking with an AI — not a human. The threshold is intent and perception: if a reasonable person would be misled into thinking they are interacting with a human, disclosure is required. This covers everything from customer service bots to AI companion applications.
+**Disclosure requirements** sit at the core of the bill. If a reasonable person interacting with an AI chatbot could be misled into believing they are interacting with a human, the operator must clearly and conspicuously disclose that the chatbot is artificial intelligence. The threshold is intent and perception: if a reasonable person would be misled into thinking they are interacting with a human, disclosure is required. This covers everything from customer service bots to AI companion applications.
 
-**Continuous session disclosures** go further. In sessions lasting more than three hours, operators must re-disclose the AI's non-human nature at three-hour intervals. The provision targets AI companion apps and mental health chatbots, which have come under scrutiny in multiple states following high-profile incidents of users developing parasocial dependencies on AI systems.
+**Continuous session disclosures** go further. For minor account holders, the disclosure must be either a persistent visible disclaimer, or appear at the beginning of each session and again at least every three hours during a continuous session. The provision targets AI companion apps and mental health chatbots, which have come under scrutiny in multiple states following high-profile incidents of users developing parasocial dependencies on AI systems.
 
-**Minor-specific protections** are extensive. Operators must take affirmative steps to ensure AI systems cannot produce sexually explicit content for users identified as minors, and must implement age-appropriate content filters across the interaction stack. This is not a content-labeling requirement — it is an operational obligation on the service itself.
+**Minor-specific protections** are extensive. When a user is a minor, operators must institute reasonable measures to prevent the chatbot from producing visual depictions of sexually explicit content, directly telling the user to engage in sexually explicit conduct, or sexually objectifying the user. This is not a content-labeling requirement — it is an operational obligation on the service itself.
 
-**Crisis response protocols** are perhaps the most substantive provision. Any conversational AI system must implement a defined response protocol when users express suicidal ideation or intent to self-harm. At minimum, the protocol must direct users to crisis service providers — the National Suicide Prevention Lifeline, the Crisis Text Line, or other appropriate services. Operators cannot simply refuse to respond or pivot the conversation; they have an affirmative duty to provide crisis referrals.
+**Crisis response protocols** are perhaps the most substantive provision. Any conversational AI system must implement a defined response protocol when users express suicidal ideation or intent to self-harm. The protocol must include reasonable efforts to refer users to crisis service providers such as a suicide hotline, a crisis text line, or other appropriate crisis services. The protocol applies to all users, adult and minor, not just minors.
 
-**Enforcement** rests exclusively with the Nebraska Attorney General, who may bring civil actions and seek penalties between $1,000 and $500,000. Critically, there is no private right of action — individual users cannot sue. The law becomes operative on July 1, 2027, giving operators approximately 14 months to come into compliance.
+**Enforcement** rests exclusively with the Nebraska Attorney General, who may bring civil actions and seek penalties between $1,000 and $500,000. Critically, there is no private right of action — individual users cannot sue.
 
 ## Why Nebraska Matters Beyond Its Borders
 
@@ -57,7 +58,7 @@ The bill's crisis response protocol provision, in particular, is a direct legisl
 
 Nebraska joins Colorado, Texas, California, Illinois, and at least a dozen other states that have passed or are actively advancing AI-specific legislation in 2025-2026. The scope varies enormously — from Colorado's comprehensive AI Act, which includes employment-related AI decision-making requirements, to narrower state bills targeting specific use cases like facial recognition, credit scoring, or healthcare AI.
 
-According to Stanford HAI's 2026 AI Index, released the same day as this tracker update, 47 countries globally now have active AI legislation. In the United States alone, compliance costs for AI systems vary by as much as **8x between different state regulatory regimes**, creating a fragmented landscape that smaller AI companies in particular struggle to navigate.
+According to Stanford HAI's 2026 AI Index, released March 19, 47 countries globally have introduced AI-specific legislation, and 23 have enacted laws with active enforcement. According to the report, average compliance costs for mid-size AI deployers vary by as much as **8x between jurisdictions**, from $180,000 in Singapore to $1.4M in the EU.
 
 For a company deploying a consumer-facing AI product nationally, the matrix of requirements already includes:
 - Disclosure mandates (timing, format, and frequency vary by state)
@@ -86,3 +87,5 @@ The Troutman tracker identifies several additional state-level AI bills with sig
 Each of these, if passed, adds another layer to the compliance matrix. Companies deploying AI products to U.S. consumers in 2026 are operating in an increasingly demanding and inconsistent regulatory environment — one that is most accurately described not as "lightly regulated" but as "multiply and unevenly regulated," with the complexity growing every legislative session.
 
 The federal question remains open. But the practical reality is that the United States now has AI regulation. It just happens to look like 50 different regulatory regimes instead of one.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

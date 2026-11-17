@@ -1,8 +1,9 @@
 ---
-title: "PhysicsX Raises $300 Million to Bring AI-Driven Physics Simulation to the World's Factories"
-summary: "London-based PhysicsX, founded by two Formula 1 engineers, raised $300M in a Series C led by Temasek, valuing the industrial AI startup at $2.4 billion—more than double its year-ago valuation. Its Large Physics Models compress multi-day engineering simulations into seconds, accelerating design cycles for aerospace, semiconductor, and clean energy industries."
+title: "PhysicsX Raises $300 Million at a $2.4 Billion Valuation to Bring AI to Engineering"
+summary: "London-based PhysicsX, founded by two former Formula 1 engineers, raised $300M in a Series C led by Temasek, valuing the industrial AI startup at $2.4 billion—more than double its year-ago valuation. The company says its AI compresses design and simulation processes that once took months into seconds, for industries including aerospace, defence, semiconductors and energy."
 category: "startups"
 publishedAt: 2026-06-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,7 +40,7 @@ PhysicsX occupies a specialized but rapidly expanding niche within the AI landsc
 
 PhysicsX's approach is to train deep learning models—which it calls Large Physics Models (LPMs)—on massive datasets representing the behavior of physical systems: thermodynamics, fluid dynamics, structural mechanics, and coupled multiphysics interactions. Once trained, an LPM can evaluate a physics scenario in milliseconds rather than hours, enabling engineers to explore orders of magnitude more design iterations in the same calendar time.
 
-"We're compressing complex designs and simulation processes that once took months into seconds," CEO Jacomo Corbo said in a statement accompanying the raise. The implications extend beyond speed: certain optimization problems only become tractable when the cost of each evaluation drops from hours to fractions of a second. An LPM doesn't just accelerate existing workflows—it makes previously impossible searches routine.
+PhysicsX is compressing complex designs and simulation processes that once took months into seconds, according to Tech.eu. The implications extend beyond speed: certain optimization problems only become tractable when the cost of each evaluation drops from hours to fractions of a second. An LPM doesn't just accelerate existing workflows—it makes previously impossible searches routine.
 
 ## A Cap Table That Reads Like a Strategic Alliance
 
@@ -47,9 +48,9 @@ The composition of PhysicsX's investor list is almost as significant as the fund
 
 Temasek's decision to lead the round signals something broader: sovereign wealth funds are beginning to recognize that infrastructure-layer industrial AI—less glamorous than consumer chatbots but potentially more economically significant—warrants direct equity stakes rather than exposure through listed equities. Singapore has made advanced manufacturing competitiveness a national policy priority, and owning a position in the company most likely to define AI-accelerated engineering fits that strategy precisely.
 
-## Four Industries Where PhysicsX Is Making Its Bet
+## Industries Where PhysicsX Is Making Its Bet
 
-PhysicsX has organized its go-to-market around four verticals where simulation bottlenecks are most acute and commercial returns most visible:
+PhysicsX works with organisations in aerospace, defence, automotive, semiconductors, materials, energy and renewables, areas where engineering is held back by resource and skill bottlenecks:
 
 **Aerospace and defense**: Airframe and engine development involve thousands of high-fidelity CFD runs per program, and development cycles that routinely span a decade. PhysicsX's platform is particularly valuable for novel configurations—hydrogen combustion engines, blended wing bodies, urban air mobility designs—where traditional empirical databases are thin and computational simulation must substitute for flight experience.
 
@@ -65,4 +66,6 @@ PhysicsX's fundamental bet—that a generalist Large Physics Model can achieve t
 
 The company's competitors include entrenched simulation vendors like Ansys (now part of Synopsys), Siemens' own Simcenter platform, and a growing field of AI-native challengers including Monolith AI and Neural Concept. What differentiates PhysicsX's pitch is the generality argument: rather than accelerating one simulation type, it is building a unified platform analogous to how GPT changed the economics of language tasks.
 
-With approximately 350 employees, expansion planned into the US and Singapore, and backing from strategically aligned corporates who can both validate the technology and channel revenue, PhysicsX has assembled the resources to test that thesis at scale. For industries where competitive advantage is measured in grams of weight saved and fractions of degrees Celsius, the ability to explore millions of design iterations rather than dozens could prove transformational—not just for the company's investors, but for the pace of physical innovation itself.
+With more than 300 employees, planned expansion in the US and Singapore, and backing from investors including Nvidia, Applied Materials and Siemens, PhysicsX has new resources to test that thesis at scale. For industries where competitive advantage is measured in grams of weight saved and fractions of degrees Celsius, the ability to explore millions of design iterations rather than dozens could prove transformational—not just for the company's investors, but for the pace of physical innovation itself.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

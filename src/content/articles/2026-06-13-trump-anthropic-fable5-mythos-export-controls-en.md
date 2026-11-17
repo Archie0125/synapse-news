@@ -3,6 +3,7 @@ title: "Trump Administration Slaps Export Controls on Anthropic's Frontier AI Mo
 summary: "Commerce Secretary Howard Lutnick sent a letter to Anthropic CEO Dario Amodei on June 12, 2026, imposing U.S. export controls on Claude Fable 5 and Claude Mythos 5, blocking all foreign access after a hacker claimed to have jailbroken the system — even as Anthropic disputed the breach."
 category: "policy"
 publishedAt: 2026-06-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ The action marks the first time the U.S. government has applied export control m
 
 ## The Jailbreak That Triggered the Controls
 
-The precipitating event was a public claim from an individual operating under the online alias "Pliny the Liberator," a figure known in AI security circles for demonstrating techniques to circumvent AI safety filters. Pliny claimed to have "liberated" Fable 5 by bypassing its restricted cybersecurity capability layer, which had been engineered to route certain biology, chemistry, and offensive security queries through the less capable, already-public Claude Opus system rather than Fable 5's full capability suite.
+The precipitating event was a public claim from an individual operating under the online alias "Pliny the Liberator," a figure known in AI security circles for demonstrating techniques to circumvent AI safety filters. Pliny claimed to have "liberated" Fable 5 by circumventing its restrictive safety layer, which makes the model fall back to the less capable Claude Opus 4.8 in sensitive areas such as cybersecurity and biology.
 
 The Commerce Department told Anthropic it had been alarmed by Pliny's demonstration and viewed the successful bypass — even if unverified — as evidence that the models posed a meaningful proliferation risk if accessible to foreign adversaries. A government official speaking on background said that the administration had previously asked Anthropic to delay the public release of Fable 5 but was unable to secure a commitment to do so, which ultimately prompted the resort to formal export controls.
 
@@ -41,7 +42,7 @@ Anthropic, for its part, forcefully disputed Pliny's claims. The company said th
 
 ## The Fable 5 / Mythos Architecture
 
-To understand the export controls, it helps to understand how Anthropic structured its frontier model release. Claude Mythos 5 is the full-capability version of the model, restricted to a small circle of vetted partners — primarily defense and intelligence organizations and a handful of cybersecurity firms operating under specific contractual terms. Claude Fable 5 is the public-facing version of the same underlying model, but with a deliberate capability restriction: for a defined set of sensitive domains, Fable 5's outputs are generated using the older, already-public Claude Opus architecture rather than Fable 5's full inference capacity.
+To understand the export controls, it helps to understand how Anthropic structured its frontier model release. Claude Mythos 5 is a new version of Mythos that Anthropic is deploying to organizations already approved to access the advanced model. Claude Fable 5 is the first publicly available version of Mythos, but with safety limits: in high-risk areas such as cybersecurity, biology, chemistry and distillation, the model blocks responses and falls back to Claude Opus 4.8.
 
 Anthropic described this as a tiered access model designed to allow broad public access to a frontier-class AI while reserving the full dual-use capability suite for contexts where appropriate safeguards could be verified. The company said it planned to steadily expand access to Mythos through a formal trusted-partner program, including a systematic application process for cybersecurity organizations.
 
@@ -64,3 +65,5 @@ There is also an IPO dimension that is impossible to ignore. Anthropic filed its
 Some observers have suggested the administration's action is also a signal to the broader industry that the White House views AI model capabilities, not just chips and hardware, as subject to export control discipline. That would represent a significant expansion of the U.S. national security perimeter around AI development, with consequences that will ripple through the industry for years.
 
 Anthropic said it remains "committed to working constructively with the Commerce Department" and intends to pursue the formal trusted-access licensing process for its international customers. But the path back to full international API access for Fable 5 and Mythos is now substantially longer than it was on Thursday.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

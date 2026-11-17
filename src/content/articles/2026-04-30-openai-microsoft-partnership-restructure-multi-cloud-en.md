@@ -3,6 +3,7 @@ title: "OpenAI and Microsoft Tear Up Their Exclusive Marriage — A New Multi-Cl
 summary: "OpenAI and Microsoft announced a sweeping restructure of their landmark partnership on April 27, ending cloud exclusivity, scrapping the controversial AGI clause, and capping revenue-sharing payments. The deal resets the power balance between the two companies while freeing OpenAI to deepen ties with Amazon Web Services and Google Cloud."
 category: "ai-ml"
 publishedAt: 2026-04-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -33,11 +34,11 @@ When Microsoft agreed to pour billions of dollars into a then-obscure San Franci
 
 ## The End of Azure Exclusivity
 
-The most consequential change in the restructured deal is straightforward: OpenAI is no longer bound to sell its models exclusively through Microsoft's Azure cloud. Under the original terms, Microsoft was the preferred — and in practice, near-exclusive — distribution channel for OpenAI's frontier models. That arrangement gave Azure a significant competitive moat, effectively meaning that any enterprise seeking direct access to GPT-series models had to route through Microsoft's cloud infrastructure.
+The most consequential change in the restructured deal is straightforward: OpenAI can now serve all its products to customers across any cloud provider, not only Microsoft's Azure. Under the original terms, Microsoft held exclusive rights to any OpenAI product accessed through an API, though it had agreed to let OpenAI run certain products, like consumer ChatGPT, on other clouds. That arrangement gave Azure a significant competitive moat, effectively meaning that any enterprise seeking direct access to GPT-series models had to route through Microsoft's cloud infrastructure.
 
-That moat is now gone. OpenAI can now offer its products to customers across any cloud provider, including Amazon Web Services and Google Cloud — the two largest cloud platforms in the world. The change removes what had become a growing source of tension as OpenAI scaled toward commercial viability and began building relationships with hyperscalers beyond Microsoft.
+That moat is now gone. OpenAI can now serve all of its products to customers across any cloud provider, including Amazon and Google. The change removes what had become a growing source of tension as OpenAI scaled toward commercial viability and began building relationships with hyperscalers beyond Microsoft.
 
-The timing is not accidental. In February 2026, Amazon announced it would invest up to $50 billion in OpenAI and expand its existing AWS agreement to $138 billion in total cloud commitments over eight years. Under the old exclusive arrangement, that deal risked putting Microsoft in legal jeopardy — the original partnership contained clauses that could have been interpreted as preventing OpenAI from signing such agreements with direct cloud competitors. The April 27 restructure resolves that ambiguity entirely, giving OpenAI a clean path forward with multiple cloud partners.
+The timing is not accidental. In February, Amazon announced it would invest up to $50 billion in OpenAI, and OpenAI said it would expand its existing $38 billion AWS agreement by $100 billion over the next eight years. The April 27 restructure resolves that ambiguity entirely, giving OpenAI a clean path forward with multiple cloud partners.
 
 ## The AGI Clause Is Gone
 
@@ -51,7 +52,7 @@ The restructured deal eliminates the AGI clause entirely. Microsoft's license no
 
 The original deal required Microsoft to pay a revenue share to OpenAI on Azure-generated revenue from OpenAI products, while OpenAI simultaneously paid a share back to Microsoft. The arrangement was designed to align incentives when OpenAI was a pre-revenue nonprofit. As the company has grown into one of the most commercially valuable AI vendors on the planet, the bilateral revenue share had become increasingly difficult to justify.
 
-Under the new terms, Microsoft will stop paying OpenAI a revenue share entirely. OpenAI will continue to pay Microsoft a revenue share through 2030, reflecting Microsoft's ongoing role as a capital provider and preferred cloud partner — but that payment is now subject to a total cap, removing the open-ended financial exposure that had characterized the earlier arrangement.
+Under the new terms, Microsoft will stop paying OpenAI a revenue share entirely. OpenAI will continue to pay Microsoft a revenue share through 2030, independent of OpenAI's technology progress, at the same percentage but now subject to a total cap.
 
 Microsoft retains its equity stake in OpenAI, continuing to participate in the company's upside as a major shareholder. OpenAI products will still ship first on Azure unless Microsoft cannot or chooses not to support the necessary technical capabilities — preserving Azure's competitive advantage on the launch cadence while eliminating its commercial exclusivity.
 
@@ -70,3 +71,5 @@ Not everything changed. Microsoft remains OpenAI's preferred cloud infrastructur
 The partnership that once looked like a corporate acquisition in all but name has evolved into something closer to a preferred vendor relationship with equity participation. That may be a less cinematic arrangement than the original "exclusive marriage" narrative, but it is almost certainly more stable — and better suited to an AI landscape that has grown far more complex, competitive, and consequential than anyone anticipated in 2019.
 
 The next test will come as AWS begins publicly marketing OpenAI model access. When enterprise buyers can run GPT-5-class models on three different hyperscaler clouds simultaneously, the question of where the real competitive moat lies — the model, the cloud, or the application layer — will get a definitive real-world answer.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

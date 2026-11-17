@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Pledges $150M to Place 1,000 AI Fellows at Nonprofits Across America"
-summary: "Anthropic launched Claude Corps, a national fellowship program funded with $150 million that will train and embed 1,000 early-career workers at nonprofits across the United States over three cohorts beginning in October 2026. Fellows earn $85,000 annually to help organizations ranging from RAINN to Goodwill Industries integrate Claude into their community-facing work."
+summary: "Anthropic launched Claude Corps, a national fellowship program funded with an initial $150 million that will train 1,000 early-career fellows and place them at nonprofits across the United States, with the first cohort beginning in October 2026. Fellows receive a salary of $85,000 and benefits to help host organizations such as Braven, Code the Dream and the YMCA of Greater Charlotte advance their missions."
 category: "ai-ml"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -27,21 +28,21 @@ relatedSlugs:
   - "2026-06-09-anthropic-ipo-s1-one-trillion-en"
 ---
 
-The most ambitious corporate AI citizenship program yet launched in the United States isn't coming from a foundation or a philanthropic arm — it's the core business strategy of a company currently fighting a government ban on its most powerful models. Anthropic's Claude Corps, announced on June 11 and backed by a $150 million initial commitment, will train and deploy 1,000 early-career fellows at nonprofits across America over the next two years. It is simultaneously a workforce development program, a product expansion strategy, and — coming when it does — a pointed statement about what Anthropic believes AI should be for.
+Anthropic's Claude Corps isn't coming from a foundation or a philanthropic arm — it's coming from Anthropic itself, a company whose Fable 5 and Mythos 5 models were suspended for foreign nationals under a government export control directive the day after the announcement. Anthropic's Claude Corps, announced on June 11 and backed by a $150 million initial commitment, will train 1,000 early-career fellows and place them at nonprofits across America, with at least 400 nonprofits hosting fellows over the next 12 months. It is simultaneously a workforce development program, a product expansion strategy, and — coming when it does — a pointed statement about what Anthropic believes AI should be for.
 
 "We started Anthropic because we believe AI will be one of the most transformative technologies in human history," the company wrote in its announcement. "We launched Claude Corps because we believe every community in America deserves to benefit from that transformation."
 
 ## What the Program Actually Is
 
-Claude Corps is not a grant program or a hackathon. It is a structured, full-time, in-person fellowship that places early-career workers — defined as anyone over 18 with fewer than two years of professional experience, regardless of educational background — inside nonprofit organizations for twelve months, with Anthropic funding their employment in full.
+Claude Corps is not a grant program or a hackathon. It is a structured, full-time, in-person fellowship that places early-career workers — defined as anyone over 18 with under two years of full-time work experience, regardless of educational background — inside nonprofit organizations for twelve months, with Anthropic funding the program.
 
-The financial package is generous by nonprofit standards: fellows receive $85,000 in annual salary plus benefits, along with direct access to Claude's API and associated tooling. They are not volunteers or interns. They are full-time employees, with CodePath — the nonprofit organization that serves as America's largest provider of collegiate computer science education — acting as the employer of record, handling payroll, benefits, and employment administration. A second partner, Social Finance, a registered nonprofit investment advisor, takes responsibility for measurement and evaluation, and will build the longer-term funding vehicle designed to let the program scale past its initial 1,000-person target.
+Fellows receive a full-time salary of $85,000 plus benefits, along with Claude API and tooling access. They are not volunteers or interns. They are full-time employees, with CodePath — the nonprofit organization that serves as America's largest provider of collegiate computer science education — acting as the employer of record, handling payroll, benefits, and employment administration. A second partner, Social Finance, a nonprofit and registered investment advisor, leads measurement and evaluation, and will build the longer-term financial vehicle designed to let the program scale.
 
-The first cohort of 100 fellows begins in October 2026. Applications close July 17. Second and third cohorts, each larger than the first, are planned for January 2027 and August 2027.
+The first cohort of 100 fellows begins in October 2026. Applications close July 17.
 
 ## The Organizations
 
-Among the 400-plus nonprofits slated to host fellows in the first year, the list reflects the breadth of America's civic infrastructure: RAINN (the national sexual assault hotline and resource organization), Goodwill Industries International, Code for America, Year Up United, the YMCA of Greater Charlotte, and the Montgomery County Food Bank in Texas.
+At least 400 nonprofits are slated to host fellows over the next 12 months, and the list reflects the breadth of America's civic infrastructure: Braven, Code the Dream, Heartland Forward, the YMCA of Greater Charlotte, and the Montgomery County Food Bank in Texas, among others.
 
 Each represents a different type of mission and a different kind of AI opportunity. RAINN handles enormous volumes of crisis contacts and has existing digital infrastructure that could benefit from intelligent triage and routing. Goodwill's retail and job-placement operations involve massive amounts of donation sorting, pricing, and employment matching. Code for America has been applying technology to government services for over a decade and is well-positioned to absorb an AI-fluent fellow and deploy their skills quickly. Food banks face complex logistics problems — inventory forecasting, distribution routing, volunteer coordination — that AI can meaningfully improve.
 
@@ -74,3 +75,5 @@ Nonprofits serve the populations most likely to be displaced by AI-driven econom
 Whether Claude Corps scales to the tens of thousands of fellows it would take to meaningfully shift that dynamic is a question for future fundraising rounds. For now, at 1,000 fellows and $150 million, it is the largest single corporate commitment to AI access for the nonprofit sector ever announced — and a proof of concept for what the industry could do if more of it chose to.
 
 Applications are open at anthropic.com/claude-corps. The first cohort deadline is July 17.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

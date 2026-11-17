@@ -3,6 +3,7 @@ title: "SpaceXAI Launches Grok 4.5: A 1.5-Trillion-Parameter Opus-Class Model Bu
 summary: "SpaceXAI released Grok 4.5 on July 8-9, 2026, its first model built in partnership with AI coding company Cursor following SpaceX's $60B acquisition of Anysphere. Elon Musk claims the V9-architecture model rivals Anthropic's Opus 4.7 at a fraction of the cost, priced at $2 input / $6 output per million tokens."
 category: "ai-ml"
 publishedAt: 2026-07-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-07-06-cursor-ios-mobile-app-spacex-coding-agents-en"
 ---
 
-SpaceXAI didn't wait for OpenAI to lead the conversation on July 9. One day before the GPT-5.6 family landed for all users, xAI's AI division — now formally operating under the SpaceX corporate umbrella — shipped Grok 4.5 to the public. The model represents the most significant release in xAI's short history, the first model developed in partnership with Cursor, and a direct claim on Anthropic's top-tier Opus 4.7 at a price point that undercuts it by more than 75%.
+SpaceXAI didn't wait for OpenAI to lead the conversation on July 9. SpaceXAI's Grok 4.5 was announced in a blog post on Wednesday, with Musk saying it would be available to the public the next day, while OpenAI was planning to release GPT 5.6 on Thursday. The model is the first flagship release developed along with Cursor, and a direct claim on Anthropic's Opus 4.7 at a much lower price: $2 input and $6 output per million tokens, against $5 and $25 for Opus 4.7.
 
 ## The V9 Architecture and Cursor Partnership
 
@@ -61,7 +62,7 @@ For context, the competitive landscape on July 9, 2026 looks like this: OpenAI's
 
 Grok 4.5 is available through three access paths: **SuperGrok Heavy subscriptions** at a $99/month promotional rate, **X Premium+** membership at $16/month, and through the xAI API for developers. The three-tier access structure reflects SpaceXAI's attempt to monetize different segments simultaneously — committed power users who want the strongest available model, casual consumers who want it bundled with their X subscription, and developers who want API access without a subscription.
 
-The launch comes roughly five weeks after SpaceX's June IPO — the company's first time trading publicly — which gives the AI capability conversation a new dimension. Investor expectations now include SpaceXAI's model revenue as part of the SpaceX growth story, and each successful Grok release becomes a market event rather than just a product announcement.
+The launch comes several weeks after SpaceXAI went public, and Grok 4.5 is the company's first model since then. Investor expectations now include SpaceXAI's model revenue as part of the SpaceX growth story, and each successful Grok release becomes a market event rather than just a product announcement.
 
 ## The Rebranding: xAI Becomes SpaceXAI
 
@@ -76,3 +77,5 @@ The broader significance of Grok 4.5 isn't the model in isolation — it's what 
 This convergence fundamentally changes the nature of enterprise AI procurement. Developers no longer face a tradeoff between capability and availability — they face a matrix of capability, cost, latency, safety, and ecosystem fit across three credible options from three credible providers. The era of a single dominant model forcing all enterprise decisions has ended. What replaces it is a more competitive, nuanced, and ultimately better market for the engineers and companies building on top of these systems.
 
 Whether Grok 4.5's Opus-class performance claims survive independent evaluation is the question to watch in the coming weeks. But even if it turns out to be closer to Sonnet-level performance at $2/$6, SpaceXAI has still introduced a model that will move enterprise procurement conversations and force Anthropic to reconsider its Opus pricing structure.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "OpenAI 以 GPT-5.5 Instant 取代 ChatGPT 預設模型，幻覺率降低逾五成"
-summary: "OpenAI 於 5 月 5 日靜悄悄地將 ChatGPT 預設模型從 GPT-5.3 Instant 升級至 GPT-5.5 Instant，錯誤陳述（幻覺）率降低 52.5%，AIME 數學評測成績從 65.4 提升至 81.2，並推出「記憶來源」功能，讓模型可調閱過往對話、上傳檔案及 Gmail 來客製化回應。"
+summary: "OpenAI 於週二推出 GPT-5.5 Instant，取代 GPT-5.3 Instant 成為 ChatGPT 預設模型，錯誤陳述（幻覺）率降低 52.5%，AIME 數學評測成績從 65.4 提升至 81.2，並推出「記憶來源」功能，讓模型可調閱過往對話、上傳檔案及 Gmail 來客製化回應。"
 category: "ai-ml"
 publishedAt: 2026-05-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-05-14-openai-daybreak-cybersecurity-gpt55-zh"
 ---
 
-2026 年 5 月 5 日，OpenAI 悄悄完成了 ChatGPT 數月來最重要的底層升級：將所有用戶層級（免費、Plus、Pro、Business、Enterprise）的預設模型從 GPT-5.3 Instant 換成 GPT-5.5 Instant。這次更新並未舉辦大型發布活動，卻在準確性、對話品質與個人化三個維度上帶來明顯進步，同時為更完整的記憶架構打下基礎——而這個架構將決定 AI 助理如何與用戶建立長期關係。
+OpenAI 於週二推出 GPT-5.5 Instant，取代 GPT-5.3 Instant 成為 ChatGPT 的預設模型。
 
 ## 幻覺率大幅下降
 
@@ -42,7 +43,7 @@ relatedSlugs:
 
 ## 記憶來源：更深遠的架構意義
 
-這次 5 月 5 日更新中，技術層面更值得關注的，不是模型本身，而是同步推出的「記憶來源」（memory sources）功能。當 GPT-5.5 Instant 客製化某個回應時——例如引用了三次對話前用戶說過的話、參照了上傳的文件，或從連結的 Gmail 中提取了相關脈絡——系統現在會顯示透明層：具體調閱了哪些資訊、來源是什麼。
+這次更新中，技術層面更值得關注的，不是模型本身，而是同步推出的「記憶來源」（memory sources）功能。當 GPT-5.5 Instant 客製化某個回應時——例如引用了三次對話前用戶說過的話、參照了上傳的文件，或從連結的 Gmail 中提取了相關脈絡——系統現在會顯示透明層：具體調閱了哪些資訊、來源是什麼。
 
 對 Plus 和 Pro 用戶來說，模型現在可以主動查詢過往對話、上傳檔案及連結的 Gmail 來建構個人化回應。一個問「我之前決定 Q3 預算怎麼處理？」的用戶，可能會得到引用自己上傳的試算表或某次過往對話的具體答案。記憶不是被動存在的，而是即時檢索、即時應用的。
 
@@ -52,7 +53,7 @@ relatedSlugs:
 
 ## API 存取與開發者影響
 
-對開發者而言，GPT-5.5 Instant 可透過 API 以 `chat-latest` 存取，這個指向現已更新為新模型。OpenAI 確認，GPT-5.3 Instant 仍可作為付費 API 用戶的明確選項使用約三個月，讓開發團隊有時間在完全遷移前測試迴歸情況。
+對開發者而言，GPT-5.5 將可透過 API 以 `chat-latest` 存取。GPT-5.3 將僅為付費用戶保留三個月作為可選項目。
 
 模型在事實準確性和簡潔性上的改善，對生產環境應用的影響可能比實驗性用途更顯著。基於 ChatGPT 建構的客服、文件分析或專業研究應用，向來最難應對幻覺問題——而 GPT-5.5 Instant 的進步恰好最集中在這些領域。若開發者過去為了補償 GPT-5.3 的錯誤率而建置了複雜的後處理過濾或事實核查層，這次升級或許讓部分防禦性工程有機會簡化。
 
@@ -64,6 +65,8 @@ OpenAI 的模型陣容已刻意形成分層：Instant 系列負責快速、對�
 
 ## 競爭格局的背景
 
-5 月 5 日的推出時機，絕非碰巧。Anthropic 於 5 月 13 日推出面向小型企業的 Claude for Small Business，整合了 QuickBooks、HubSpot、Canva 等工具。Google 則將在 24 小時後舉行 Google I/O 2026 主題演講，分析師預測 Gemini 的模型升級將與 GPT-5.5 Instant 處於同一競爭水準。模型品質競賽已從一年一度的史詩對決，演變為每隔數週就有增量進步的持續角力。
+這次的推出時機，絕非碰巧。Anthropic 於 5 月 13 日推出面向小型企業的 Claude for Small Business，整合了 QuickBooks、HubSpot、Canva 等工具。Google 則將在 24 小時後舉行 Google I/O 2026 主題演講，分析師預測 Gemini 的模型升級將與 GPT-5.5 Instant 處於同一競爭水準。模型品質競賽已從一年一度的史詩對決，演變為每隔數週就有增量進步的持續角力。
 
 對用戶而言，好處是直觀的：ChatGPT 在最昂貴的失誤領域變得更可靠了。對 OpenAI 而言，更好的預設模型可降低流失率、強化訂閱的價值主張，同時為廣告、記憶與企業功能的分層疊加打下更穩固的基礎——而那些功能將定義其未來兩年的商業模式。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

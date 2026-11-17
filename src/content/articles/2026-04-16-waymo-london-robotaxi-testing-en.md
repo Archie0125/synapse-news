@@ -1,8 +1,9 @@
 ---
-title: "Waymo Starts Testing Robotaxis on London Streets, Targeting First International Commercial Launch"
-summary: "Waymo has begun operating its autonomous Jaguar I-Pace vehicles on public roads in London with safety drivers, as the company prepares for a commercial robotaxi launch in the UK later this year — its first market outside the United States. The move marks a turning point for the autonomous vehicle industry's global ambitions, even as Waymo must retrain its AI systems for left-hand traffic and London's notoriously complex road conditions."
+title: "Waymo Starts Testing Robotaxis on London Streets Ahead of Planned Commercial Launch"
+summary: "Waymo has begun testing its autonomous Jaguar I-Pace vehicles on public roads in London with safety operators behind the wheel, as the company prepares for a commercial robotaxi launch in the city this year. London could become Waymo's first international commercial market."
 category: "products"
 publishedAt: 2026-04-16T09:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,13 +27,13 @@ relatedSlugs:
   - "2026-04-06-weride-uber-dubai-robotaxi-en"
 ---
 
-Waymo has quietly begun one of the most consequential tests in autonomous vehicle history. Since April 14, 2026, the Alphabet-owned robotaxi company has been operating its all-electric Jaguar I-Pace vehicles on public roads in London — moving from controlled mapping and observation runs into active supervised driving, where the AI system handles the wheel while a trained safety operator sits ready to intervene. Commercial service, pending UK regulatory approval, is targeted for later this year.
+Waymo has begun testing its robotaxis on London's public roads. Waymo has started testing its all-electric Jaguar I-Pace vehicles on public roads in London, after employees first drove them manually to map the city, and a human safety operator is behind the wheel. Commercial service, pending UK regulatory approval, is targeted for later this year.
 
-If it succeeds, London will become Waymo's first market outside the United States and the first city in the United Kingdom to offer a commercial driverless ride-hail service. Given London's complexity — a city that is simultaneously among the world's busiest, most historically irregular, and most scrutinized from a transportation-policy standpoint — the implications extend well beyond the UK.
+London could be Waymo's first international commercial market, though Wayve and Uber also plan to launch a fully driverless robotaxi service in the city. Given London's complexity — a city that is simultaneously among the world's busiest, most historically irregular, and most scrutinized from a transportation-policy standpoint — the implications extend well beyond the UK.
 
 ## Why London Is the Hardest Test Yet
 
-Waymo's existing deployments span eleven US cities, including San Francisco, Los Angeles, Phoenix, Austin, Atlanta, and Nashville. These markets share certain characteristics that made them suitable first steps: wide lanes, grid-based street layouts in many areas, and driving conventions that Waymo's systems were trained on from the start. London is different in almost every meaningful way.
+Waymo operates commercially in 11 cities, including Atlanta, Austin, Los Angeles, Phoenix, and the San Francisco Bay Area. These markets share certain characteristics that made them suitable first steps: wide lanes, grid-based street layouts in many areas, and driving conventions that Waymo's systems were trained on from the start. London is different in almost every meaningful way.
 
 Traffic flows on the left, turning conventions are mirrored, and the city's road network evolved organically over centuries — producing the kind of narrow, asymmetric, and perpetually interrupted street geometry that no American city comes close to replicating. Roundabouts are ubiquitous and range from simple two-lane intersections to multi-exit gyratory systems with unpredictable right-of-way dynamics. Cyclists are everywhere, often sharing lanes with vehicles that weigh 2,000 kg. Pedestrians cross mid-block, step off curbs without warning, and treat jaywalking as a civic right.
 
@@ -71,3 +72,5 @@ At 500,000 weekly trips and growing, Waymo is already the clear leader in commer
 London tests whether the technology and the business model can scale internationally without losing performance or safety margins. If Waymo can operate profitably in London's conditions, it can likely operate in most major cities on earth. If it struggles — with the AI, with the regulators, or with the economics — it will reveal important limits to the "train in the US, deploy everywhere" playbook that has animated the autonomous vehicle industry's optimism for years.
 
 The eyes of the AV industry are on London.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

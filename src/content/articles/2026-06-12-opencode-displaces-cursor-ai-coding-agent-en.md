@@ -1,8 +1,9 @@
 ---
-title: "OpenCode Tops the AI Coding Agent Rankings, Dethroning Cursor at 172K Stars"
-summary: "OpenCode, an open-source terminal-native AI coding agent, has dethroned Cursor from the top of LogRocket's June 2026 AI developer tool power rankings. With 172,000 GitHub stars, 7.5 million monthly developers, support for 75+ LLM providers, and Language Server Protocol integration, OpenCode is making the case that the best coding agent doesn't have to cost $20 per month or lock you into a single AI vendor."
+title: "OpenCode Passes 220K GitHub Stars as an Open-Source Coding Agent for Any Model"
+summary: "OpenCode, an open-source terminal-native AI coding agent, has over 220,000 GitHub stars, over 22 million monthly developers and support for 200+ LLM providers. It is making the case that the best coding agent doesn't have to cost $20 per month or lock you into a single AI vendor."
 category: "developer-tools"
 publishedAt: 2026-06-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -32,7 +33,7 @@ That changed in June 2026. LogRocket's latest AI developer tool power rankings, 
 
 ## What OpenCode Actually Is
 
-OpenCode is a terminal-native AI coding agent built to work inside the developer's existing workflow rather than replace it. Unlike IDE-native tools that require adopting a new editor — Cursor, for instance, is a modified fork of VS Code — OpenCode runs in any terminal, connects to any code editor via Language Server Protocol, and talks to any of 75+ LLM providers through the Models.dev catalog and AI SDK.
+OpenCode is a terminal-native AI coding agent built to work inside the developer's existing workflow rather than replace it. Unlike IDE-native tools that require adopting a new editor — Cursor, for instance, is a VS Code fork — OpenCode runs in any terminal, supports LSP servers, and talks to 200+ LLM providers through the Models.dev catalog and AI SDK.
 
 The architecture is deliberately provider-agnostic. Developers can route to Claude Sonnet for complex reasoning tasks, switch to a local Ollama model for sensitive proprietary code, use Gemini for long-context document processing, and query GPT-5.5 for specialized tasks — all within the same workflow, with the same interface. The number of providers is not a marketing figure; it reflects OpenCode's design philosophy that the best model depends on the task and should not be determined by the tool vendor.
 
@@ -40,11 +41,11 @@ Language Server Protocol integration is the feature that most distinguishes Open
 
 ## The Numbers
 
-OpenCode crossed 160,000 GitHub stars in June 2026, making it the most-starred open-source coding agent ahead of Gemini CLI and Aider. The project has over 900 contributors and 13,000 commits, reflecting sustained community development rather than a single-company push. An estimated 7.5 million developers use OpenCode monthly.
+OpenCode has over 220,000 GitHub stars, making it the most-starred open-source coding agent ahead of Gemini CLI and Aider. The project has over 1,000 contributors and over 20,000 commits, reflecting sustained community development rather than a single-company push. OpenCode says it is used by over 22 million developers every month.
 
-By comparison, the most visible open-source alternative — Google's Gemini CLI (branded Antigravity) — launched in late May 2026 and gained significant initial attention but has not yet accumulated the sustained adoption metrics OpenCode has built over many months of iterative development. Aider, the previous community favorite, sits at approximately 46,000 stars.
+By comparison, the most visible open-source alternative — Google's Gemini CLI (branded Antigravity) — launched in late May 2026 and gained significant initial attention but has not yet accumulated the sustained adoption metrics OpenCode has built over many months of iterative development.
 
-The community adoption matters beyond raw numbers. With 900 contributors, OpenCode's feature development is genuinely distributed: LSP support, session sharing, the Zen curated model service, and parallel agent execution all emerged from community contributions alongside the core team's roadmap. That breadth of contribution creates a more diverse and tested feature set than any single company is likely to produce.
+The community adoption matters beyond raw numbers. With more than 1,000 contributors, OpenCode's development draws on a broad community alongside the core team. That breadth of contribution creates a more diverse and tested feature set than any single company is likely to produce.
 
 ## Parallel Agents and the Shift to Multi-Agent Workflows
 
@@ -58,7 +59,7 @@ OpenCode is free. This requires some unpacking, because "free" in the AI tools m
 
 In OpenCode's case, free means the agent software itself costs nothing and is open-source under the MIT license. Developers do pay for the underlying models they use — those costs flow directly to the model providers (Anthropic, Google, OpenAI, or others) rather than through OpenCode as an intermediary. For developers who already pay for access to Claude via an Anthropic API key, or who use Gemini through a Google Cloud account, or who self-host models via Ollama, OpenCode adds zero incremental cost.
 
-This contrasts with Cursor and Claude Code, both priced at $20 per month for their primary tiers, and with GitHub Copilot Individual at roughly the same level. For individual developers or small teams, the cost difference is modest. For engineering organizations deploying AI coding assistance at scale, the difference between paying a per-seat software license to an AI agent vendor and routing compute costs directly to model providers can be substantial.
+This contrasts with Cursor and Claude Code, both priced at $20 per month for their primary tiers, while GitHub Copilot Pro costs $10 per month. For individual developers or small teams, the cost difference is modest. For engineering organizations deploying AI coding assistance at scale, the difference between paying a per-seat software license to an AI agent vendor and routing compute costs directly to model providers can be substantial.
 
 OpenCode's "Zen" tier offers an optional $20/month subscription that provides access to a curated set of models that the team has benchmarked specifically for coding agent use cases, with reliability and latency guarantees. But it is optional — developers who manage their own API keys incur no cost for the tool itself.
 
@@ -74,6 +75,8 @@ The June 2026 AI coding agent market has more credible options than any previous
 
 OpenCode's move to the top of the rankings is not a verdict that it will remain there indefinitely. The AI coding tools market is updating faster than any single benchmark cycle can track, and Cursor, Claude Code, and OpenAI's Codex CLI are all actively developing parallel agent capabilities, LSP integrations, and multi-provider support.
 
-What the rankings signal is more durable: the assumption that open-source coding agents are necessarily inferior to proprietary tools is no longer defensible. OpenCode has 172,000 stars and 7.5 million monthly developers not because it is free but because it is genuinely good — and getting better at the pace that only community-driven open-source development can sustain.
+What the rankings signal is more durable: the assumption that open-source coding agents are necessarily inferior to proprietary tools is no longer defensible. OpenCode has over 220,000 stars and over 22 million monthly developers not because it is free but because it is genuinely good — and getting better at the pace that only community-driven open-source development can sustain.
 
 For developers choosing a primary coding agent today, the honest answer is that the right tool depends on workflow. If you want IDE integration and don't want to think about model routing, Cursor is still excellent. If you want Anthropic's best model with deep terminal integration, Claude Code is the obvious choice. If you want the flexibility to use any model, on any hardware, with no per-seat cost and LSP-level type awareness, OpenCode is now a first-class choice rather than a compromise.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

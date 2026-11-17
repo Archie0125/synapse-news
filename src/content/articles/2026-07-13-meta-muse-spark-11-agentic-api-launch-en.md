@@ -3,6 +3,7 @@ title: "Meta Launches Muse Spark 1.1 and Opens Its First Paid AI API"
 summary: "Meta released Muse Spark 1.1 on July 9, debuting the Meta Model API in public preview — the company's first move into paid AI services. The multimodal agentic model targets enterprise coding, tool use, and computer use at $1.25 per million input tokens, positioning Meta as a direct competitor to Anthropic and OpenAI in the developer API market. CEO Mark Zuckerberg broke a three-year X absence to announce it."
 category: "ai-ml"
 publishedAt: 2026-07-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 Meta has spent years building powerful AI models and releasing them for free. On July 9, 2026, that changed. The company launched Muse Spark 1.1 — an upgrade to its April 2026 debut model — alongside the Meta Model API in public preview, marking the company's entry into the paid AI services market for the first time. It is a watershed moment: the last of the major AI labs to give its models away for free has decided the freemium era is over.
 
-CEO Mark Zuckerberg punctuated the launch by posting on X for the first time in more than three years, describing Muse Spark 1.1 as "a strong agentic and coding model at a very low price" and adding that "more models are coming soon." The symbolism of the return to X — a platform Zuckerberg had publicly criticized and whose rival Meta had tried to build with Threads — was not lost on observers.
+CEO Mark Zuckerberg punctuated the launch by posting on X for the first time in three years, describing Muse Spark 1.1 as "a strong agentic and coding model at a very low price" and noting there was "more to come soon."" The symbolism of the return to X — a platform Zuckerberg had publicly criticized and whose rival Meta had tried to build with Threads — was not lost on observers.
 
 ## What Muse Spark 1.1 Does
 
@@ -66,8 +67,10 @@ The $20 in free credits is a classic developer acquisition move, modeled after w
 
 ## Looking Ahead
 
-Zuckerberg's closing line in his launch announcement — "more models are coming soon" — suggests that Muse Spark 1.1 is the opening move rather than the full hand. Meta has the computational resources to train and deploy models across multiple capability tiers, and the commercial API infrastructure is now in place to monetize them.
+Zuckerberg's note in his launch post that there was "more to come soon" suggests that Muse Spark 1.1 is the opening move rather than the full hand. Meta has the computational resources to train and deploy models across multiple capability tiers, and the commercial API infrastructure is now in place to monetize them.
 
 The more significant question is whether Meta's belated entry into paid AI services can capture meaningful developer mindshare in a market where Anthropic and OpenAI have 18 to 24 months of developer relationship head starts. Distribution advantages matter in API markets: once a developer has built integrations, prompts, and evaluation frameworks around a particular model provider, switching costs are real. Meta will need to win on quality, price, or reliability — ideally all three — to displace incumbents in production environments where developers have already made their bets.
 
 What is certain is that Meta's arrival changes the competitive dynamics of the AI API market. Three players with genuinely competitive frontier models and commercial pricing creates pricing pressure on Anthropic and OpenAI that a two-player market does not. For enterprise customers, that pressure is welcome.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

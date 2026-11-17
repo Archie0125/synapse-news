@@ -3,6 +3,7 @@ title: "OpenAI 發布 GPT-5.5：能自主規劃、寫程式、執行任務的新
 summary: "OpenAI 於 4 月 23 日發布迄今最強大的代理型模型 GPT-5.5，在 Terminal-Bench 2.0 測試中得分 82.7%，GDPval 職業能力測試達 84.9%。模型運行於 NVIDIA GB200 NVL72 架構，已為超過 1 萬名 NVIDIA 員工的 Codex 提供支援，API 定價為每百萬輸入／輸出 tokens 各 $5/$30 美元。"
 category: "ai-ml"
 publishedAt: 2026-04-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -65,7 +66,7 @@ OpenAI 將這種轉變定位為邁向「數位工作者」的關鍵一步：不�
 
 對 API 開發者而言，GPT-5.5 帶來明顯的價格調漲：**每百萬輸入 tokens 5 美元、輸出 tokens 30 美元**，是 GPT-5.4（$2.50/$15）的整整兩倍。重度代理使用場景的 Pro 方案更高達 $30/$180 每百萬 tokens。
 
-OpenAI 與第三方評測機構 Artificial Analysis 均指出，GPT-5.5 在同等代理任務上所需 tokens 數量比前代減少約 **40%**，這在很大程度上抵消了單價漲幅。實際工作負載的淨成本增加估計約為 **20%**——對於輸出品質能帶來對應回報的應用來說，仍在可接受範圍內。
+Artificial Analysis 指出，GPT-5.5 在執行其智慧指數（Intelligence Index）時，所用 tokens 數量比 GPT-5.4 少約 **40%**，這在很大程度上抵消了單價漲幅。執行 Artificial Analysis 智慧指數的淨成本比 GPT-5.4 高出約 **20%**。
 
 服務自 4 月 23 日起立即向 ChatGPT Plus、Pro、Business 及 Enterprise 訂閱者開放，API 存取同步開通。
 
@@ -76,3 +77,5 @@ OpenAI 與第三方評測機構 Artificial Analysis 均指出，GPT-5.5 在同�
 對於正在評估基礎模型選型的企業而言，這種波動既是機遇也是風險。GPT-5.5 在代理能力測試上的強勁表現，使其成為當前自主工作流自動化的首選——但頂尖模型之間的差距正在收窄，一個月後的格局或許又大不相同。
 
 可以確定的是，業界已不再爭論「AI 能否自主處理複雜任務」，而是在問：哪款模型最可靠、成本如何、有哪些治理機制可以依靠。GPT-5.5 在 2026 年代理 AI 浪潮中率先出招——但競爭對手正密切盯著它的每一步。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

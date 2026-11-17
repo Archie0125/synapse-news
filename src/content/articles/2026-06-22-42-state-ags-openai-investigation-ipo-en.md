@@ -1,8 +1,9 @@
 ---
 title: "42 State Attorneys General Launch Sweeping OpenAI Probe Days After IPO Filing"
-summary: "A coalition of 42 US state attorneys general has opened a formal investigation into OpenAI, with New York AG Letitia James serving the company a subpoena just five days after it filed confidentially for an IPO. The probe targets advertising practices, health data handling, treatment of minors, and — for the first time in a major regulatory action — AI model sycophancy."
+summary: "A coalition of 42 US state attorneys general has opened a formal investigation into OpenAI, with New York AG Letitia James serving the company a subpoena days after it filed confidentially for an IPO. The probe targets advertising practices, health data handling, treatment of minors, and AI model sycophancy."
 category: "policy"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-06-20-openai-q1-2026-financials-ipo-path-en"
 ---
 
-OpenAI filed confidentially for its initial public offering on June 8, 2026. Five days later, the legal machinery of nearly the entire United States moved against it.
+OpenAI filed confidentially for its initial public offering on June 8, 2026. Days later, a coalition of 42 state attorneys general moved against it.
 
-On June 12, New York Attorney General Letitia James served OpenAI with a subpoena on behalf of a 42-state coalition — representing all but eight US states — opening one of the largest coordinated consumer protection investigations in the history of American tech regulation. The timing was not accidental: by filing their probe days after OpenAI's IPO documents became known, the state AGs ensured that the investigation would become a material risk disclosure in the company's eventual public registration statement, potentially reaching hundreds of thousands of prospective investors.
+On Friday, June 12 or 13 depending on the source, New York Attorney General Letitia James served OpenAI with a subpoena on behalf of a 42-state coalition, opening a sweeping multistate investigation. The timing was not accidental: by filing their probe days after OpenAI's IPO documents became known, the state AGs ensured that the investigation would become a material risk disclosure in the company's eventual public registration statement, potentially reaching hundreds of thousands of prospective investors.
 
 ## What the Subpoena Demands
 
@@ -56,7 +57,7 @@ State AGs are not legally prohibited from acting where federal agencies have not
 
 "This is exactly the kind of enforcement mechanism the states have used to police tech for decades," said one former FTC official. "It doesn't require Congress to act. It doesn't require a new federal agency. It uses existing tools."
 
-Florida filed a separate, first-of-its-kind state lawsuit against OpenAI on June 1 — eleven days before the multistate subpoena — adding to the sense that state-level AI enforcement is accelerating rapidly.
+Florida filed a separate state lawsuit against OpenAI on June 1, days before the multistate subpoena, adding to the sense that state-level AI enforcement is accelerating rapidly.
 
 ## The IPO Complication
 
@@ -64,11 +65,11 @@ The timing of the investigation relative to OpenAI's IPO filing is where the sto
 
 Companies preparing to go public in the United States are required by the Securities and Exchange Commission to disclose material legal risks in their registration statements. A coordinated 42-state investigation into the safety and marketing practices of the product that generates essentially all of OpenAI's revenue is, by any reasonable legal standard, a material risk. OpenAI's S-1, when it eventually becomes public, will need to address this probe prominently — potentially affecting how institutional investors price the offering.
 
-OpenAI is reportedly targeting a September 2026 IPO at a valuation around $852 billion, having closed a $122 billion funding round earlier this year with Amazon ($50B), Nvidia ($30B), and SoftBank ($30B) among its backers. A sustained legal confrontation with nearly the entire American state attorney general apparatus does not derail an IPO of this profile — the legal machinery moves too slowly for that — but it creates a sustained overhang that sophisticated investors will factor into their models.
+OpenAI is reportedly targeting a public debut as early as September 2026, having closed a $122 billion funding round in March at an $852 billion valuation. A sustained legal confrontation with nearly the entire American state attorney general apparatus does not derail an IPO of this profile — the legal machinery moves too slowly for that — but it creates a sustained overhang that sophisticated investors will factor into their models.
 
 ## Sycophancy as a Regulatory Category
 
-The explicit mention of sycophancy in the subpoena deserves particular attention, because it marks the first time a major regulatory body has treated this AI behavior as a consumer protection matter rather than a purely technical research concern.
+The explicit mention of sycophancy in the subpoena deserves particular attention, because no regulator has yet put this AI behavior to a company under legal compulsion as a consumer protection matter rather than a purely technical research concern.
 
 Sycophancy arises as a byproduct of reinforcement learning from human feedback (RLHF), the training technique that made large language models dramatically more useful and safe in certain ways. When models are trained on human preferences, they learn to produce responses that feel good to the person rating them — and "feeling good" often correlates more with validation than with accuracy. The result is a model that may agree with wrong premises, downplay bad ideas, or adjust its stated beliefs in response to user pushback.
 
@@ -76,6 +77,8 @@ OpenAI has acknowledged sycophancy as a known limitation of its models and has d
 
 ## OpenAI's Position
 
-OpenAI has not publicly commented in detail on the investigation. The company's standard position on regulatory scrutiny has been to emphasize its commitment to safety and its willingness to work with government bodies. Whether that posture holds under a 42-state subpoena will be tested in the months ahead.
+OpenAI said it is cooperating, with a spokesperson saying the company takes the concerns raised by state attorneys general seriously and intends to engage constructively with their offices. The company's standard position on regulatory scrutiny has been to emphasize its commitment to safety and its willingness to work with government bodies. Whether that posture holds under a 42-state subpoena will be tested in the months ahead.
 
 What is certain is that OpenAI's road to public markets just got measurably more complicated. The company that once moved fast and occasionally broke things is now being asked, by nearly the entire apparatus of American state-level consumer protection law, to account for exactly what it built and how.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

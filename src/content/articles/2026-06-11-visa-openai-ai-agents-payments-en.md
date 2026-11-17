@@ -1,8 +1,9 @@
 ---
 title: "Visa and OpenAI Team Up to Let AI Agents Spend Your Money"
-summary: "Visa announced a landmark partnership with OpenAI on June 10, embedding its payment rails directly into ChatGPT and Codex so AI agents can autonomously execute purchases within user-defined spending limits. It is the first major card-network integration built explicitly for agentic commerce, marking a structural shift from AI as advisor to AI as buyer."
+summary: "Visa announced a partnership with OpenAI to integrate its payment tools into OpenAI's products so AI agents can make payments for users within user-defined permissions."
 category: "products"
 publishedAt: 2026-06-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -26,17 +27,17 @@ relatedSlugs:
   - "2026-06-11-metamask-agent-wallet-defi-ai-agents-en"
 ---
 
-The era of AI agents that browse the web and draft emails is giving way to one where they can reach for a credit card. On June 10, Visa and OpenAI jointly announced an integration that embeds Visa's global payment infrastructure directly into ChatGPT and OpenAI's Codex platform — letting AI agents complete purchases on a user's behalf without any manual confirmation required at checkout.
+The era of AI agents that browse the web and draft emails is giving way to one where they can reach for a credit card. Visa and OpenAI announced a partnership that will integrate Visa's payment tools into OpenAI's products, letting AI agents make payments on a user's behalf within user-defined permissions such as spending caps, merchant categories and required approvals.
 
-The deal was unveiled at the Visa Payments Forum in San Francisco, an annual gathering that typically previews where the $15-trillion card network sees consumer behavior heading. This year's headline announcement was unmistakably pointed at AI.
+The deal was announced at the Visa Payments Forum in San Francisco. This year's headline announcement was unmistakably pointed at AI.
 
 ## How It Works
 
-Under the partnership, users who connect a Visa card to their OpenAI account can configure an AI agent with a set of permission rules before deploying it: a maximum spending limit per transaction or per day, a whitelist of permitted merchant categories (groceries but not gambling, for example), and an approval threshold above which the agent must pause and check back with the human. Within those guardrails, the agent can complete the full purchase flow — selecting items, entering shipping details, and executing payment — using tokenized Visa credentials that never expose the underlying card number to the merchant.
+Under the partnership, payments will run within user-defined permissions such as spending caps, merchant categories and required approvals. Within those guardrails, the agent can complete the full purchase flow — selecting items, entering shipping details, and executing payment — using tokenized Visa credentials that never expose the underlying card number to the merchant.
 
-Transactions run through Visa's existing real-time fraud monitoring and dispute-resolution infrastructure, which Visa says processes more than 250 million transactions per hour globally. Crucially, chargebacks and zero-liability protections apply to agentic purchases just as they do to human ones.
+Transactions will use tokenized Visa credentials with real-time authorization and fraud monitoring. Visa will also handle chargebacks and refunds.
 
-For enterprise customers using Codex, the integration also covers procurement workflows: a Codex agent managing a software development pipeline can autonomously purchase API credits, cloud compute, or SaaS subscriptions within budget parameters set by a finance team. Visa is calling this the "agentic commerce" category, and the company has been developing the underlying specification — tokenized agent credentials with programmable spending rules — for roughly 18 months before choosing OpenAI as its launch partner.
+The two companies also said they will explore enterprise uses, including developer experiences powered by Codex, where agents could eventually buy inference, APIs or other developer services on their own, within limits a user sets.
 
 ## Why This Matters
 
@@ -48,7 +49,7 @@ Visa's bet is that it can adapt its existing trust infrastructure faster than fi
 
 ## A Race Among Card Networks
 
-The timing of the announcement at the Payments Forum was not accidental. Mastercard has been publicly exploring its own "agent-ready" credential framework since late 2025, and American Express has piloted an enterprise version of autonomous procurement with several Fortune 500 clients. By announcing a production-grade integration with the world's most widely used AI platform, Visa is claiming the category-defining position before its rivals can establish theirs.
+The timing of the announcement at the Payments Forum was not accidental. Mastercard has been publicly exploring its own "agent-ready" credential framework since late 2025, and American Express has piloted an enterprise version of autonomous procurement with several Fortune 500 clients.
 
 The OpenAI side of the equation is equally strategic. The company's push toward becoming a consumer super-app — through ChatGPT's expanding canvas, the Aria agent layer, and its growing library of operator integrations — requires completing the commerce loop. A ChatGPT agent that can research, plan, and book a vacation but can't actually pay for flights is only partway there. With Visa embedded, OpenAI closes that gap for the roughly 1 billion ChatGPT users who now interact with the platform monthly.
 
@@ -62,4 +63,6 @@ What both share is an answer to the same fundamental question: when an AI agent 
 
 For consumers, the immediate practical question is whether they trust the guardrails. Programmable spending limits and category restrictions are only as good as the accuracy of the merchant-category coding and the robustness of the agent's instruction-following. Both are imperfect today. Visa and OpenAI will be under intense scrutiny the first time a significant fraud case or unexpected large purchase involves an AI agent — and given the scale of both companies' user bases, that test is coming sooner rather than later.
 
-The partnership is expected to roll out to US users first in Q3 2026, with international expansion depending on local regulatory approvals for agentic payment authorization.
+Neither company offered a launch date or said exactly how the experience will appear to consumers.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

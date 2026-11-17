@@ -1,8 +1,9 @@
 ---
-title: "Waymo's Flood Fix Fails: Software Patch Breaks Down, Service Halted in Six Cities"
-summary: "Weeks after recalling its entire 3,791-vehicle fleet over a flooded-road software flaw, Waymo's OTA patch failed a second time in Atlanta on May 21. The company suspended robotaxi service across six cities and halted all freeway rides nationwide — with no permanent fix yet in sight."
+title: "Waymo's Flood Fix Fails: Software Patch Breaks Down, Service Halted in Multiple Cities"
+summary: "Weeks after recalling its entire 3,791-vehicle fleet over a flooded-road software flaw, a Waymo robotaxi got stuck in a flooded Atlanta street on May 21. The company suspended robotaxi service in several cities, and no permanent fix is yet in sight."
 category: "hardware"
 publishedAt: 2026-05-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -43,13 +44,13 @@ Less than two weeks after the OTA fix was pushed to every vehicle in the fleet, 
 
 On May 21, as severe thunderstorms dropped two to three and a half inches of rain across Atlanta in a matter of hours, two separate Waymo vehicles drove into flooded streets in the city. One of the cars — an unoccupied unit operating autonomously in Midtown Atlanta — became stuck in standing water and required human recovery after approximately one hour. Video of the stranded vehicle spread rapidly on social media.
 
-Waymo acknowledged the failure publicly: the patch it had deployed in response to the San Antonio incident had not prevented the Atlanta occurrence. The company suspended service in Atlanta, Dallas, Houston, San Antonio (which had already been paused since late April), and Austin. Nashville was subsequently added to the list, bringing the total to six cities with halted operations.
+Waymo said an unoccupied vehicle encountered a flooded road in Atlanta and stopped, and that it paused service in the city while it figures out a solution. The company suspended service in Atlanta, Dallas, Houston, San Antonio (which had already been paused since late April), and Austin. Nashville was subsequently added to the list, bringing the total to six cities with halted operations.
 
 The company disclosed in a statement that it had not yet developed a "final remedy" for the underlying software problem. That phrasing — borrowed from the regulatory vocabulary of vehicle recalls — carries significant weight. It means the most commercially successful autonomous vehicle operator in the United States is operating its urban fleet without a complete solution to a known safety defect.
 
 ## Two Problems, One Fleet
 
-The flooding incidents were not the only safety issue to surface on May 21. On the same day, Waymo announced a separate, unrelated suspension: it was temporarily halting all freeway rides across its operating markets — including San Francisco, Los Angeles, Phoenix, and Miami — while engineers worked to improve the system's behavior in highway construction zones.
+The flooding incidents were not the only safety issue to surface on May 21. According to one report, Waymo also suspended freeway rides in San Francisco, Los Angeles, Phoenix, and Miami after its vehicles were observed struggling in highway construction zones.
 
 The two announcements arriving simultaneously gave the impression of a fleet under pressure on multiple fronts. Waymo has spent the past three years projecting confidence about its expanding geographic footprint: San Francisco, Phoenix, Los Angeles, Miami, Nashville, Atlanta, and several Texas cities had all been brought into service. The dual suspension was a jarring reversal of that narrative.
 
@@ -57,7 +58,7 @@ The freeway situation reflects a different class of challenge. Construction zone
 
 ## Regulatory and Competitive Fallout
 
-NHTSA has been actively monitoring Waymo's recall status and has opened broader inquiries into its autonomous driving systems. The National Transportation Safety Board has also flagged earlier collision data involving Waymo vehicles for review. The simultaneous suspension in six cities increases the likelihood that federal scrutiny will intensify.
+NHTSA has been actively monitoring Waymo's recall status and has opened broader inquiries into its autonomous driving systems. The National Transportation Safety Board is also investigating Waymo's behavior around school buses and a January 23 incident in which a robotaxi struck a child in Santa Monica. The simultaneous suspensions in multiple cities increase the likelihood that federal scrutiny will intensify.
 
 For competitors, the timing is double-edged. Tesla CEO Elon Musk had been loudly positioning the Cybercab robotaxi as a superior alternative to what he characterized as Waymo's expensive, geofenced approach. But Tesla's Austin robotaxi pilot — operating 44 vehicles as of early May, against a target of 500 by year's end that has not been met — is in no position to absorb displaced Waymo riders. Zoox, Aurora, and other AV companies are watching closely: the operational failures expose a systemic challenge with edge-case weather handling that affects every current-generation ADS, not just Waymo's.
 
@@ -72,3 +73,5 @@ Waymo has not disclosed the timeline for a permanent fix or what engineering wor
 The question the industry will be watching: how long does a company keep shutting down entire markets every time it rains before the public, regulators, or both, decide that the technology is not yet ready for the density of deployment Waymo has pursued?
 
 The answer, increasingly, looks like it will come from Washington before it comes from Mountain View.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

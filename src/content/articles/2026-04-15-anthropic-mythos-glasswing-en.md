@@ -1,8 +1,9 @@
 ---
-title: "Anthropic's AI Finds Thousands of Zero-Days—Then Launches a $100M Defense Fund Instead of Releasing It"
-summary: "Anthropic's Claude Mythos Preview autonomously identified thousands of previously unknown vulnerabilities in every major OS and browser, including bugs hidden for 27 years. Deeming the model too dangerous to release publicly, Anthropic instead launched Project Glasswing: a $100 million defensive initiative with 11 tech titans to patch critical software before adversaries can exploit similar capabilities."
+title: "Anthropic's AI Finds Thousands of Zero-Days—Then Launches Up to $100M in Defensive Credits Instead of Releasing It"
+summary: "Anthropic's Claude Mythos Preview autonomously identified thousands of previously unknown vulnerabilities in every major OS and browser, including a bug hidden for 27 years. Anthropic does not plan to make the model generally available and instead launched Project Glasswing, with up to $100 million in usage credits and a group of major technology partners, to secure critical software before similar capabilities proliferate."
 category: "ai-ml"
 publishedAt: 2026-04-15T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,11 +29,11 @@ relatedSlugs:
   - "2026-04-15-openai-gpt54-cyber-model-en"
 ---
 
-On April 7, Anthropic made an announcement that sent shockwaves through the cybersecurity industry and the broader AI research community: its newest frontier model, Claude Mythos Preview, had quietly and autonomously found thousands of zero-day vulnerabilities—previously undiscovered flaws—embedded in the world's most widely used software. Every major operating system. Every major web browser. A sprawling ecosystem of critical open-source tools.
+On April 7, Anthropic announced that its new frontier model, Claude Mythos Preview, had found thousands of zero-day vulnerabilities—previously undiscovered flaws—in every major operating system and web browser, along with other important software. Every major operating system. Every major web browser. A sprawling ecosystem of critical open-source tools.
 
 And Anthropic had decided it would not release the model to the public.
 
-Instead, the company unveiled Project Glasswing: a $100 million defensive initiative pairing Mythos Preview with 11 of the world's largest technology companies to patch those vulnerabilities before adversaries with access to similar AI capabilities could weaponize them. The announcement was simultaneously the most impressive demonstration of AI's offensive potential and one of the most consequential decisions in frontier AI deployment to date.
+Instead, the company unveiled Project Glasswing: an initiative backed by up to $100 million in usage credits that brings together Anthropic and major partner organizations to use Mythos Preview for defensive security work, before such capabilities proliferate to actors who may not deploy them safely. The announcement was simultaneously the most impressive demonstration of AI's offensive potential and one of the most consequential decisions in frontier AI deployment to date.
 
 ## A Model That Outperforms Human Experts at Finding Exploits
 
@@ -41,7 +42,7 @@ Anthropic has been careful to call Mythos Preview a "general-purpose" frontier m
 According to Anthropic's own disclosures, over a testing period of several weeks, Claude Mythos Preview was deployed against real codebases and operating system images. Its findings were stunning in both volume and severity:
 
 - **Thousands of zero-day vulnerabilities** across every major operating system (including Windows, macOS, Linux distributions) and every major web browser (Chrome, Safari, Firefox, Edge)
-- **A 27-year-old bug in OpenBSD**, one of the most security-focused Unix-like operating systems, that had evaded detection by human researchers for nearly three decades
+- **A 27-year-old vulnerability in OpenBSD**, which has a reputation as one of the most security-hardened operating systems in the world, that let an attacker remotely crash any machine running it
 - **A 16-year-old vulnerability in FFmpeg**, the widely deployed open-source multimedia framework used by billions of devices and streaming platforms
 - Multiple critical vulnerabilities in other widely used infrastructure components
 
@@ -59,7 +60,7 @@ Anthropic's response is to control the supply chain of who interacts with the mo
 
 ## Project Glasswing: The $100M Response
 
-Project Glasswing brings together 11 major organizations, each contributing specific expertise and infrastructure:
+Project Glasswing's launch partners, alongside Anthropic, are the following organizations:
 
 - **Amazon Web Services** — cloud infrastructure and security toolchain integration
 - **Apple** — proprietary OS and browser security
@@ -73,7 +74,7 @@ Project Glasswing brings together 11 major organizations, each contributing spec
 - **NVIDIA** — AI computing infrastructure security
 - **Palo Alto Networks** — network security and threat intelligence
 
-Anthropic is committing up to **$100 million in Mythos Preview usage credits** for the initiative, plus **$4 million in direct donations** to open-source security organizations including the Open Source Security Foundation and critical-software maintainer grants. The goal is explicitly to use the model to identify and remediate vulnerabilities before actors with access to equivalent AI capabilities—whether state-sponsored or criminal—can find and weaponize the same flaws.
+Anthropic is committing up to **$100 million in Mythos Preview usage credits** across these efforts, plus **$4 million in direct donations** to open-source security organizations: $2.5 million to Alpha-Omega and OpenSSF through the Linux Foundation, and $1.5 million to the Apache Software Foundation. The goal is explicitly to use the model to identify and remediate vulnerabilities before actors with access to equivalent AI capabilities—whether state-sponsored or criminal—can find and weaponize the same flaws.
 
 Each partner organization has been granted controlled access to Mythos Preview through a custom security research interface designed to prevent the model from being used for anything other than vulnerability discovery and patch generation. Anthropic's red team monitors all usage logs and retains authority to revoke access.
 
@@ -87,8 +88,10 @@ The AI Safety Institute's involvement also reflects a broader shift in how gover
 
 ## What Comes Next
 
-Anthropic has not announced a timeline for a broader Mythos release, or whether the model will eventually become publicly available in some form. The company says Project Glasswing is intended to be ongoing rather than time-limited—the model will continue to be used to identify new vulnerabilities as they emerge, not merely to clear a pre-existing backlog.
+Anthropic says it does not plan to make Claude Mythos Preview generally available, though its eventual goal is to enable users to safely deploy Mythos-class models at scale, with new safeguards to launch first with an upcoming Claude Opus model. The company says it intends the work to grow in scope and continue for many months.
 
-The 11 partner organizations are expected to begin publishing patches derived from Mythos Preview findings in coordination with Anthropic over the coming weeks, following standard coordinated disclosure protocols. For each vulnerability addressed, Anthropic will also publish a technical summary to help the broader security community understand the class of flaw and apply analogous fixes elsewhere.
+The 11 partner organizations are expected to begin publishing patches derived from Mythos Preview findings in coordination with Anthropic over the coming weeks, following standard coordinated disclosure protocols. Anthropic says it will report publicly within 90 days on what it has learned, as well as the vulnerabilities fixed and improvements made that can be disclosed.
 
 For the rest of the technology industry, Project Glasswing raises an uncomfortable question: if a model available today can find thousands of undiscovered vulnerabilities in the world's most security-hardened software, how many of those same vulnerabilities are being actively discovered—right now—by adversaries with access to equivalent or similar models? The race to patch has never been more urgent.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

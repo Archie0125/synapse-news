@@ -1,8 +1,9 @@
 ---
 title: "Etched Raises $300M at $10.3B Valuation, Doubles Worth in Seven Months on GPU-Free Inference Bets"
-summary: "Etched, the AI inference chip startup building ASICs optimized exclusively for transformer models, has closed a $300 million Series C led by Sequoia Capital at a $10.3 billion valuation — doubling from its $5 billion round in December 2025. With $1 billion in chip orders and SK Hynix joining as a strategic investor, the company is mounting the most credible challenge yet to Nvidia's inference dominance."
+summary: "Etched, the AI inference chip startup, has closed a $300 million Series C led by Sequoia Capital at a $10.3 billion valuation, doubling from its $5 billion valuation in December, with $1 billion in orders booked and SK Hynix among the investors."
 category: "hardware"
 publishedAt: 2026-07-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-07-01-etched-5b-valuation-1b-sales-inference-chip-en"
 ---
 
-Seven months ago, Etched raised $500 million at a $5 billion valuation and most of the semiconductor industry wrote it off as an overfunded curiosity. On July 23, 2026, the AI inference chip startup raised $300 million more at a $10.3 billion valuation — doubling its worth in less than a year — and now carries $1 billion in committed chip orders. Sequoia Capital led the round, with Andreessen Horowitz, Jane Street, Diffusion, and memory giant SK Hynix all joining as new investors.
+Seven months ago, Etched raised $500 million at a $5 billion valuation and most of the semiconductor industry wrote it off as an overfunded curiosity. The AI inference chip startup has raised $300 million more at a $10.3 billion valuation, doubling its worth in about seven months, and it has booked $1 billion worth of orders. Sequoia Capital led the round, with Andreessen Horowitz, Jane Street, Diffusion Capital, and memory giant SK Hynix also participating, along with earlier investors.
 
-The round is, by several measures, an inflection point: TechCrunch noted it is the highest valuation ever achieved by a Sequoia-led Series C. More importantly, it validates a thesis that has attracted skepticism since Etched's founding in 2022 — that building a chip optimized entirely for transformer model inference, rather than general-purpose GPU computation, is a viable and profitable business strategy.
+The round is, by several measures, an inflection point: TechCrunch noted it is the highest valuation ever achieved by a Sequoia-led Series C. More importantly, it backs a thesis that has attracted skepticism since Etched's founding in 2022: that building chips specifically for transformer-based AI models, rather than general-purpose GPU computation, can work as a business.
 
 ## What Etched Actually Builds
 
@@ -41,7 +42,7 @@ But training a model is only half the equation. Once a model is trained, it must
 
 Etched's bet is that Nvidia's GPUs, designed to be flexible enough for both training and inference across a vast range of applications, are fundamentally overengineered for the inference use case. A GPU that can run matrix multiplications, ray tracing, scientific simulation, and any conceivable neural network architecture carries a price premium and a power budget that pure inference workloads don't need.
 
-Etched's flagship chip, called Sohu, is built to do exactly one thing: run transformer models at inference time. By eliminating the architectural flexibility required for training and non-transformer workloads, Etched claims Sohu can achieve dramatically higher tokens-per-second throughput and substantially lower cost per inference than comparable Nvidia hardware. The company has published benchmarks suggesting Sohu outperforms Nvidia H100 clusters on standard language model serving tasks by a factor of 10 to 20 times on throughput-per-dollar metrics.
+Etched sells full systems, not just chips, built around inference, the process that happens after a user submits a prompt. Etched says it designed two new components from scratch to speed up inference: a prefill chip that runs at a much lower voltage than other AI chips, and a new memory and interconnect technology it calls cluster-scale memory. The company has published benchmarks suggesting Sohu outperforms Nvidia H100 clusters on standard language model serving tasks by a factor of 10 to 20 times on throughput-per-dollar metrics.
 
 ## Why the Valuation Doubled
 
@@ -82,3 +83,5 @@ Etched is not alone in challenging Nvidia's inference dominance. Groq, which bui
 The fact that Sequoia, a16z, and SK Hynix are all willing to back Etched specifically, at this price, in the current market, suggests sophisticated investors believe there is room for more than one winner in the inference chip transition. The annual cost of running frontier AI models at global scale is now in the hundreds of billions of dollars — a market large enough to support multiple successful chip companies even if Nvidia retains majority share.
 
 For three Harvard dropouts who founded a chip company in 2022, landing $10.3 billion in market recognition and $1 billion in orders in under four years is either a proof-of-concept for the thesis that application-specific AI chips are the next wave of semiconductor value creation — or the most expensive bet in Silicon Valley's current cycle. Given the order backlog, the former looks increasingly likely.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "ElevenLabs Hits $500M ARR and $11B Valuation as BlackRock, Nvidia, and Hollywood Join Its $550M Series D"
-summary: "Voice AI startup ElevenLabs has crossed $500 million in annual recurring revenue while closing a $550M+ Series D round that now includes BlackRock, Nvidia, Salesforce Ventures, and celebrities Jamie Foxx, Eva Longoria, and Squid Game creator Hwang Dong-hyuk. The round values the company at $11 billion, cementing its position as the dominant infrastructure layer for AI-generated voice."
+title: "ElevenLabs Passes $500M ARR as BlackRock, Nvidia, and Hollywood Join Its Series D, Now Above $550M"
+summary: "Voice AI startup ElevenLabs has crossed $500 million in annual recurring revenue while adding BlackRock, Nvidia, Salesforce Ventures, and celebrities Jamie Foxx, Eva Longoria, and Squid Game creator Hwang Dong-hyuk to its Series D round, which has now raised more than $550 million. The round was announced in February at an $11 billion valuation."
 category: "startups"
 publishedAt: 2026-05-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,15 +30,15 @@ relatedSlugs:
   - "2026-05-11-spacex-cursor-60b-acquisition-en"
 ---
 
-ElevenLabs, the Polish-American startup that turned AI voice synthesis from a research curiosity into a global content infrastructure, has disclosed a remarkable set of milestones this week: $500 million in annual recurring revenue, a Series D that has swelled to over $550 million in total commitments, an $11 billion post-money valuation, and an investor list that now spans from BlackRock and Nvidia to Jamie Foxx, Eva Longoria, and the creator of Squid Game.
+ElevenLabs, the UK-headquartered startup founded by two Polish entrepreneurs, has disclosed a set of milestones this week: $500 million in annual recurring revenue, a Series D that has grown to more than $550 million raised, an $11 billion valuation, and an investor list that now spans from BlackRock and Nvidia to Jamie Foxx, Eva Longoria, and the creator of Squid Game.
 
 The headline numbers confirm what the company's growth trajectory has long suggested: ElevenLabs is no longer merely a voice generation API. It is becoming the audio layer for a significant portion of the global AI stack.
 
 ## From $350M to $500M ARR in One Quarter
 
-ElevenLabs' ARR crossed $500 million in early May, up from approximately $350 million at the end of 2025 — a 43% jump in roughly one quarter. That growth rate, sustained at nine-figure revenue scale, places ElevenLabs among the fastest-growing enterprise software companies in history.
+ElevenLabs said its ARR surpassed $500 million in the first quarter of 2026, up from $350 million at the end of 2025. That growth rate, sustained at nine-figure revenue scale, places ElevenLabs among the fastest-growing enterprise software companies in history.
 
-CEO and co-founder Mati Staniszewski confirmed the milestone, noting that the acceleration was driven by enterprise adoption of ElevenLabs' voice API across media, gaming, e-learning, and conversational AI applications. The company's technology powers voice interfaces for companies that range from major podcast networks to Fortune 500 customer service operations.
+CEO and co-founder Mati Staniszewski reported the milestone, and the company said the growth is driven by enterprises deploying voice agents across their businesses, from customer support and sales to hiring and marketing operations. The company's technology powers voice interfaces for companies that range from major podcast networks to Fortune 500 customer service operations.
 
 The $500M ARR figure is particularly striking in the context of a voice AI market that did not meaningfully exist three years ago. ElevenLabs commercialized in late 2022 and spent its first 18 months proving that AI-generated voices could be indistinguishable from human recordings at scale. The enterprise market, once skeptical, has since moved decisively: publishers, studios, and software developers now integrate ElevenLabs voices as routinely as they integrate payment processing APIs.
 
@@ -45,7 +46,7 @@ The $500M ARR figure is particularly striking in the context of a voice AI marke
 
 ElevenLabs initially announced a $500 million Series D in February 2026, led by Sequoia Capital. The round was notable at announcement: Andreessen Horowitz quadrupled its existing stake, ICONIQ Capital tripled down, and new institutional investors including Lightspeed Venture Partners joined alongside existing backers.
 
-What has emerged since is a substantially larger and more strategically layered round. Total commitments have exceeded $550 million after a second closing that added some of the most prominent names in institutional finance and corporate strategy.
+What has emerged since is a substantially larger and more strategically layered round. The company has now raised more than $550 million in the round, after completing a third close that added new institutional investors and corporate backers.
 
 **BlackRock** — the world's largest asset manager, with $11.6 trillion under management — took a position, signaling a rare direct bet by a traditional financial giant on a pre-IPO AI infrastructure company. The move aligns with BlackRock's broader push to position itself inside the AI value chain before public market valuations reflect the full scope of AI adoption.
 
@@ -84,3 +85,5 @@ ElevenLabs' trajectory offers a rare data point for the broader AI infrastructur
 At $500 million ARR, ElevenLabs is not in the same league as OpenAI ($24 billion) or Anthropic ($30 billion). But it is growing faster on a percentage basis than either, from a base that only a year ago was a fraction of its current scale. If the company maintains its Q1 2026 growth rate for the next 12 months, it would approach $1 billion ARR by early 2027 — a milestone that would make it one of the fastest infrastructure software companies ever to reach that mark.
 
 For an industry that has spent three years waiting for AI revenue to materialize beyond ChatGPT subscriptions and enterprise pilots, ElevenLabs is one of the clearest signs that the monetization moment has arrived.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

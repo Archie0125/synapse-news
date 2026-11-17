@@ -1,8 +1,9 @@
 ---
-title: "Amazon Acquires Globalstar for $11.57B to Add a Satellite Layer to AWS and Inherit Apple's Emergency SOS Business"
-summary: "Amazon announced on April 14 it would acquire Globalstar in an $11.57 billion cash-and-stock deal, folding the satellite operator into its Amazon Leo broadband initiative and locking in a long-term agreement with Apple to power Emergency SOS and direct-to-device features on future iPhones. The move positions Amazon as SpaceX Starlink's most credible orbital rival."
+title: "Amazon Acquires Globalstar for $11.57B to Expand Amazon Leo and Add Direct-to-Device Services"
+summary: "Amazon announced on Tuesday it would acquire Globalstar in a deal worth about $11.57 billion, folding the satellite operator into its Amazon Leo satellite network, and it signed a separate agreement with Apple for Amazon Leo to power satellite features on current and future iPhones and Apple Watches."
 category: "industry"
 publishedAt: 2026-04-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -42,17 +43,17 @@ The headline number is $11.57 billion. But the strategic value lies in three dis
 
 First, Globalstar's FCC spectrum licenses. The company holds mobile satellite services spectrum with global authorizations that allow direct-to-device connectivity — meaning satellites can communicate with ordinary smartphones without specialized hardware. Acquiring equivalent spectrum through independent regulatory filings would take years, with uncertain outcomes. Amazon is buying regulatory position, not just radio frequencies.
 
-Second, Globalstar's existing satellite operations and ground infrastructure. This gives Amazon Leo — previously known as Project Kuiper — immediate operational assets while its own 3,236-satellite Kuiper constellation continues its phased deployment.
+Second, Globalstar's existing satellite operations and ground infrastructure. This gives Amazon Leo — previously known as Project Kuiper — immediate operational assets while its own constellation continues its deployment.
 
-Third, and perhaps most consequentially for revenue: the Apple relationship. Since Apple launched Emergency SOS via satellite on the iPhone 14 in late 2022, Globalstar has served as the backbone of that feature, which has saved hundreds of documented lives in remote areas. Under the acquisition, Amazon announced a new long-term agreement with Apple to continue providing satellite connectivity for future iPhone and Apple Watch models — covering not just Emergency SOS but also Messages, Find My, and roadside assistance features. Apple becomes Amazon Leo's anchor customer before the first commercial subscriber signs up.
+Third, and perhaps most consequentially for revenue: the Apple relationship. Since Apple launched Emergency SOS via satellite on the iPhone 14 in late 2022, Globalstar has served as the backbone of that feature, which has saved hundreds of documented lives in remote areas. Alongside the acquisition, Amazon announced a separate agreement with Apple to provide satellite connectivity for current and future iPhone and Apple Watch features, including Emergency SOS, Messages, Find My, and Roadside Assistance via satellite. Apple becomes Amazon Leo's anchor customer before the first commercial subscriber signs up.
 
 ## The Starlink Rivalry, Made Explicit
 
 The competitive framing around this deal has been blunt. Analysts at 24/7 Wall Street called it "Amazon declaring war on Starlink." That framing is somewhat overstated — Amazon and SpaceX serve different primary markets — but it captures a real dynamic.
 
-SpaceX's Starlink currently operates more than 6,000 satellites providing broadband in over 100 countries. Its direct-to-cell service, launched in commercial beta in 2025, can send text messages and basic data to unmodified smartphones via cellular frequencies. Globalstar's spectrum licenses would give Amazon Leo a competing direct-to-device capability that covers many of the same markets.
+SpaceX's Starlink currently has more than 10,000 satellites in orbit and over 9 million users. Its direct-to-cell service, launched in commercial beta in 2025, can send text messages and basic data to unmodified smartphones via cellular frequencies. Globalstar's spectrum licenses would give Amazon Leo a competing direct-to-device capability that covers many of the same markets.
 
-The deal also comes as Amazon's Project Kuiper is finally gaining momentum. Amazon launched its first 27 production satellites in April 2024 and has an FCC commitment to deploy 1,618 satellites by 2026 and the full constellation by 2029. The Globalstar acquisition accelerates Amazon's ability to offer commercial broadband service before its own constellation is fully operational.
+The deal also comes as Amazon's Project Kuiper is finally gaining momentum. Amazon has sent up more than 240 satellites since last April, and it faces an FCC deadline to launch roughly 1,600 satellites by July 2026, for which it asked the agency in January for more time. The Globalstar acquisition accelerates Amazon's ability to offer commercial broadband service before its own constellation is fully operational.
 
 FCC Chairman Brendan Carr told CNBC the agency was "very open-minded" to the deal, noting it had the potential to establish Amazon as a genuine competitor to SpaceX in direct-to-cell services — a dynamic the FCC appears to view as pro-competitive rather than concerning.
 
@@ -68,7 +69,7 @@ More speculatively, some analysts see Amazon's orbital ambitions as a play for A
 
 Globalstar shareholders receive $90 per share, representing a substantial premium over the stock's pre-announcement trading price. The deal requires regulatory approval from the FCC and potentially other agencies, and Globalstar must also achieve certain milestones related to its HIBLEO-4 replacement satellite program before closing. Amazon expects to begin deploying its own direct-to-device satellite system under Amazon Leo branding in 2028.
 
-The day after announcement, analysts noted that the deal had effectively "paid for itself" in stock market capitalization terms — Globalstar's market cap surged by roughly the value of the acquisition premium within 24 hours of trading, suggesting the market believed Amazon's offer was fair and the strategic rationale was sound.
+Globalstar's shares surged more than 10% on the news, while Amazon's stock gained over 3%.
 
 ## Implications for the Connectivity Stack
 
@@ -77,3 +78,5 @@ For Apple users, the near-term implication is continuity: Emergency SOS, Message
 For the satellite industry, the acquisition signals that orbital connectivity is no longer a niche market or a government-contract business. It is becoming a core layer of the consumer and enterprise technology stack, with trillion-dollar cloud operators willing to pay eleven-figure sums for spectrum rights and satellite infrastructure. SpaceX, Telesat, OneWeb's successor, and SES are all watching closely.
 
 For Amazon, the deal completes a strategic picture that has been forming for years: cloud at the center, logistics and last-mile at the edge, and now space as the connective tissue between them. After years of chasing Starlink from behind, Amazon finally has the spectrum, the satellite infrastructure, and Apple's existing subscriber base to compete on its own terms.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

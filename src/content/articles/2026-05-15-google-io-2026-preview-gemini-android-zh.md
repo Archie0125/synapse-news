@@ -3,6 +3,7 @@ title: "Google I/O 2026 搶先看：Gemini 4、Android 17，以及全面 AI 化�
 summary: "Google 年度開發者大會將於 5 月 19 日在山景城 Shoreline 露天劇場盛大登場，預計發表 Gemini 4.0、Android 17、首款 XR 智慧眼鏡開發者預覽，以及橫跨所有裝置類型的 AI 優先運算願景。"
 category: "ai-ml"
 publishedAt: 2026-05-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -26,9 +27,9 @@ relatedSlugs:
   - "2026-05-14-openai-daybreak-cybersecurity-gpt55-zh"
 ---
 
-距離主題演講僅剩四天，Google 仍守口如瓶。但過去一個月陸續外洩的消息、法規申報文件與開發者簡報，已為外界拼湊出一幅相當清晰的藍圖——Google I/O 2026 將於 5 月 19 至 20 日在加州山景城 Shoreline 露天劇場舉行，而今年的版本極可能是近年來最重磅的一屆。
+主題演講將於下週登場，Google 已預先公開多項 Android 更新。此外，過去一個月陸續外洩的消息、法規申報文件與開發者簡報，已為外界拼湊出一幅相當清晰的藍圖——Google I/O 2026 將於 5 月 19 至 20 日在加州山景城 Shoreline 露天劇場舉行，而今年的版本極可能是近年來最重磅的一屆。
 
-這個時機點格外敏感。OpenAI 的 GPT-5.5 正在搶占媒體版面與開發者心智；Apple 正準備在下個月的 WWDC 發布 iOS 20，帶來 Apple Intelligence 的全面升級；微軟則悄悄重組了與 OpenAI 的合作關係，開放多雲部署。Google 的主題演講將於台灣時間 5 月 20 日凌晨 1 點正式開始，是它近幾年壓力最大的一場開發者大會。
+這個時機點格外敏感。OpenAI 的 GPT-5.5 正在搶占媒體版面與開發者心智；Apple 預計在短短幾週後的 WWDC 展示由 Gemini 驅動的 Apple Intelligence 重啟版本；微軟則悄悄重組了與 OpenAI 的合作關係，開放多雲部署。Google 的主題演講將於台灣時間 5 月 20 日凌晨 1 點正式開始，是它近幾年壓力最大的一場開發者大會。
 
 ## Gemini 4.0：大戲的核心
 
@@ -46,7 +47,7 @@ relatedSlugs:
 
 內部預覽展示的情境包括：同時彙整所有與出差行程相關的郵件、調出對應的行事曆條目，並主動標記航空公司的登機門變更通知——全部整合在一次連貫的互動中呈現。據報導，這套系統對涉及隱私的操作會使用精調後的端側模型，只有在需要複雜多步驟推理時才上雲。
 
-CNBC 本週報導指出，Google 正在與時間賽跑，趕在 Apple Intelligence 隨 iOS 20 問世之前完成部署。知情人士形容這場競賽對 Google 手機 AI 布局來說是「生死之戰」——Apple 緊密的軟硬體整合能在裝置端達成 Google 這種雲端優先的公司難以比擬的隱私保護能力。
+CNBC 報導指出，Google 正在與時間賽跑，趕在 Apple 於 WWDC 展示由 Gemini 驅動的 Apple Intelligence 重啟版本之前，讓 Gemini 成為 Android 的核心。知情人士形容這場競賽對 Google 手機 AI 布局來說是「生死之戰」——Apple 緊密的軟硬體整合能在裝置端達成 Google 這種雲端優先的公司難以比擬的隱私保護能力。
 
 ## Android 17：安全、衛星與 Find Hub
 
@@ -75,3 +76,5 @@ Google 帶著真實的競爭壓力走進這屆 I/O。OpenAI 的模型節奏大�
 I/O 主題演講不只是產品發表。對 Google 而言，這是一次重塑敘事的機會——從「追趕 AI 的搜尋公司」，轉型為「掌握全球最廣泛運算平台的 AI 公司」。坐擁 30 億 Android 用戶，Gemini 已深入搜尋、Gmail、Docs、Chrome 和作業系統各個層面，Google 在發行渠道上擁有 OpenAI 和 Anthropic 根本不具備的結構性優勢。
 
 5 月 19 日將揭曉，Google 的產品力是否撐得起這個優勢。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 3 處。*

@@ -1,8 +1,9 @@
 ---
-title: "QuantWare Raises $178M to Build World's Largest Quantum Processor Factory"
-summary: "Dutch quantum hardware startup QuantWare closed a $178 million Series B — the largest private round ever for a dedicated quantum processor company — to build KiloFab, a purpose-built factory targeting 10,000-qubit processors and a 20x jump in production capacity. Intel Capital joined as a lead new investor."
+title: "QuantWare Raises $178M to Build KiloFab, the World's Largest Dedicated Quantum Open Architecture Fab"
+summary: "Dutch quantum hardware company QuantWare closed a $178 million Series B — the largest private round raised by a dedicated quantum processor company to date — to build KiloFab, a fab that will increase production capacity by 20x, following the announcement of a 10,000-qubit processor architecture. Intel Capital, IQT and ETF Partners joined as new investors."
 category: "hardware"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-04-15-ionq-photonic-quantum-networking-darpa-en"
 ---
 
-Quantum computing just got its biggest private funding round yet. QuantWare, a Dutch startup that designs, fabricates, and integrates quantum processors at industrial scale, announced a $178 million (€152 million) Series B on May 5, setting a new benchmark as the largest private equity raise ever secured by a dedicated quantum processor company. The heavily oversubscribed round was led by new investors Intel Capital, IQT, and ETF Partners, alongside existing backers including FORWARD.one, Invest-NL Deep Tech Fund, InnovationQuarter Capital, Ground State Ventures, and Graduate Ventures.
+Quantum hardware just got its largest private round to date for a dedicated quantum processor company. QuantWare, a Dutch startup that designs, fabricates, and integrates quantum processors at industrial scale, announced a $178 million (€152 million) Series B on May 5, the largest private round raised by a dedicated quantum processor company to date. The heavily oversubscribed round drew new investors Intel Capital, IQT, and ETF Partners, alongside existing backers including FORWARD.one, Invest-NL Deep Tech Fund, InnovationQuarter Capital, Ground State Ventures, and Graduate Ventures.
 
 The capital will fund KiloFab — QuantWare's term for a purpose-built, large-scale quantum chip fabrication facility that the company says will increase its production capacity by 20 times. That is not an incremental expansion; it represents a fundamental shift in how quickly the industry can put working quantum processors in customer hands.
 
@@ -37,7 +38,7 @@ The funding announcement arrived alongside the unveiling of VIO-40K, a quantum p
 
 QuantWare's proprietary VIO (Versatile, Integrated, Open) architecture is modular by design, allowing quantum processors to be assembled from standardized building blocks rather than hand-crafted from scratch. This modular approach is central to the company's pitch: it enables industrial-scale production without the yield problems that plague bespoke fabrication.
 
-The company has already shipped processors to more than 50 customers across 20 countries, making it the highest-volume commercial quantum processor supplier in the world — though that distinction is notable partly because the competitive set remains small. Most of QuantWare's customers are quantum computing companies and research institutions building full-stack systems on top of QuantWare's hardware layer.
+The company has already shipped processors to more than 50 customers across 20 countries, making it the world's largest commercial QPU supplier by volume. Most of QuantWare's customers are quantum computing companies and research institutions building full-stack systems on top of QuantWare's hardware layer.
 
 ## Why Intel Capital Is Betting on Quantum Now
 
@@ -68,3 +69,5 @@ There is a geopolitical dimension to this funding round that deserves attention.
 As governments in the US, China, and Europe race to establish quantum computing leadership — with implications for cryptography, national security, and industrial competitiveness — having a European company capable of manufacturing 10,000-qubit processors at industrial scale matters strategically, not just economically. The KiloFab announcement effectively means Europe may have a quantum chip foundry before most national programs expected one.
 
 For an industry that has sometimes been criticized for overpromising and underdelivering, QuantWare's approach — building manufacturing capacity before the demand fully materializes — is a calculated risk. If the quantum timeline plays out as researchers currently project, KiloFab could be operational just as enterprise demand for quantum processing crosses from experimental to mission-critical. That is a narrow window to thread, but $178 million buys a lot of runway to try.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

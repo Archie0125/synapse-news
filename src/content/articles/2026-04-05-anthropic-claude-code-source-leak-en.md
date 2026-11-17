@@ -3,6 +3,7 @@ title: "Anthropic Accidentally Leaks 512,000 Lines of Claude Code Source via npm
 summary: "A Bun bundler bug exposed the complete source code of Claude Code v2.1.88 — 1,900 TypeScript files and 512,000 lines — on the npm registry for over three hours. A trojanized HTTP client bundled in the same window raised supply chain attack concerns before Anthropic pulled the package."
 category: "developer-tools"
 publishedAt: 2026-04-05T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -33,7 +34,7 @@ By the time Anthropic pulled the package at 03:29 UTC, the repository had been f
 
 ## The Bug That Broke the Build
 
-The root cause traces back to an acquisition Anthropic made in late 2024: Bun, the high-performance JavaScript bundler and runtime. After integrating Bun into the Claude Code build pipeline, a known Bun bug continued generating source maps even when the `development: false` flag was explicitly set in the build configuration. Source maps, which are normally used to aid debugging by mapping minified code back to its original form, are almost never intended for public distribution in production releases.
+The leak involved Bun, the JavaScript bundler and runtime that Anthropic acquired in late 2024 and that Claude Code later migrated to. After integrating Bun into the Claude Code build pipeline, a known Bun bug continued generating source maps even when the `development: false` flag was explicitly set in the build configuration. Source maps, which are normally used to aid debugging by mapping minified code back to its original form, are almost never intended for public distribution in production releases.
 
 In this case, the source maps contained direct URLs pointing to an unobfuscated zip archive of the entire TypeScript codebase on Anthropic's Cloudflare R2 bucket. Any developer who installed the package and knew where to look — or who simply ran the right tooling — could retrieve the complete source.
 
@@ -76,3 +77,5 @@ NodeSource's post-mortem analysis recommended several mitigations: lockfile enfo
 For the developer community, the incident raises a harder question: as AI coding assistants become more deeply integrated into build pipelines, CI/CD systems, and IDE workflows, the security surface they represent grows correspondingly. The Claude Code source leak was, in Anthropic's own framing, human error — not a targeted attack. The trojan injection that rode alongside it was not.
 
 The combination of both in a single three-hour window is a stress test result the industry will be digesting for some time.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

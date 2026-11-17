@@ -1,8 +1,9 @@
 ---
 title: "Stargate UAE: OpenAI's 1GW Abu Dhabi Megaproject Marks the Launch of 'AI Sovereignty' as a Global Product"
-summary: "OpenAI's first international Stargate deployment — a $30 billion, 1-gigawatt AI data center campus in Abu Dhabi developed with G42, Oracle, NVIDIA, and SoftBank — is set to bring its first 200MW online in Q3 2026, making the UAE the first country with nationwide ChatGPT access and launching OpenAI's 'for Countries' program to help governments build sovereign AI infrastructure."
+summary: "A 1-gigawatt AI data center campus in Abu Dhabi, developed by Khazna Data Centres with OpenAI, Oracle, NVIDIA, Cisco and SoftBank, is due to bring its first 200MW phase online in Q3 2026 within a 5GW UAE-US AI Campus."
 category: "industry"
 publishedAt: 2026-05-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,7 +33,7 @@ relatedSlugs:
   - "2026-05-21-nextera-dominion-67b-ai-power-en"
 ---
 
-When Sam Altman landed in Abu Dhabi last year to sign the paperwork on Stargate UAE, the deal was framed primarily as an infrastructure announcement: a 1-gigawatt AI campus, the largest outside the United States, being built in partnership with G42, the UAE-backed AI conglomerate with close ties to the Abu Dhabi royal family. The headline numbers — $30 billion, 10 square miles, 5,000 construction workers on site — were sufficiently staggering to dominate the news cycle.
+When Sam Altman landed in Abu Dhabi last year to sign the paperwork on Stargate UAE, the deal was framed primarily as an infrastructure announcement: a 1-gigawatt AI campus, the largest outside the United States, being built in partnership with G42, the UAE-backed AI conglomerate with close ties to the Abu Dhabi royal family. The headline numbers, including $30 billion, a campus of roughly 10 square miles and more than 5,000 workers on site, drew wide attention.
 
 What has become clearer in the months since, as Q3 2026 delivery of the first 200-megawatt phase approaches and as OpenAI has formalized its "for Countries" program into a structured global initiative, is that Stargate UAE is not primarily an infrastructure project. It is the prototype for a new geopolitical product: sovereign AI infrastructure as a service, delivered by an American AI lab in coordination with the U.S. government, and designed to reshape how nations relate to AI capability.
 
@@ -40,9 +41,9 @@ What has become clearer in the months since, as Q3 2026 delivery of the first 20
 
 The structure of Stargate UAE is deliberately designed to solve a problem that has become acute for Gulf governments: how do you secure access to frontier AI compute without ceding strategic control to a foreign company?
 
-The answer OpenAI and its partners landed on is a joint venture with a specific ownership split: G42 holds 60% of the venture, reflecting the UAE government's insistence that its sovereign AI infrastructure remain under national control. OpenAI receives 20%, with the remaining 20% distributed across Oracle and other partners. G42's controlling stake means that while OpenAI's technology and operational expertise power the campus, the legal and economic ownership rests in Emirati hands — a structure that has satisfied both the UAE's sovereignty requirements and the U.S. government's security conditions.
+The answer OpenAI and its partners landed on is a joint venture with a specific ownership split: G42 holds 60% of the venture, reflecting the UAE government's insistence that its sovereign AI infrastructure remain under national control. OpenAI receives 20%, with NVIDIA holding 12% and Oracle 8%. G42's controlling stake means that while OpenAI's technology and operational expertise power the campus, the legal and economic ownership rests in Emirati hands — a structure that has satisfied both the UAE's sovereignty requirements and the U.S. government's security conditions.
 
-The infrastructure itself is being built in the Masdar City technology zone in Abu Dhabi, a purpose-built sustainable technology district. The campus will span approximately 10 square miles when fully complete, eventually housing up to 5 gigawatts of AI compute capacity — enough to serve training and inference workloads for a substantial fraction of the AI applications expected to run across the Middle East, South Asia, and East Africa over the next decade.
+The infrastructure itself is being built in the Masdar City technology zone in Abu Dhabi, a purpose-built sustainable technology district.
 
 The first phase — 200 megawatts, powered by NVIDIA's GB300 Grace Blackwell Superchip systems — is targeted for completion in Q3 2026. G42 reports that construction is on track, with more than 5,000 workers on site and the structural work for the first data halls substantially complete.
 
@@ -64,7 +65,7 @@ The countries being courted for the next wave of partnerships are not publicly c
 
 ## NVIDIA's Role: Hardware Diplomacy
 
-NVIDIA's position in the Stargate UAE structure deserves particular attention. The deal calls for Khazna Data Centres, G42's infrastructure arm, to purchase up to 35,000 NVIDIA Blackwell GB300 systems as the first phase comes online — a procurement that represents one of the largest single-country NVIDIA deployments outside the United States.
+NVIDIA's position in the Stargate UAE structure deserves particular attention. The US has authorised the export to G42 of the equivalent of up to 35,000 of NVIDIA's Blackwell chips (GB300s), while Khazna Data Centres, a G42 company, is developing the project.
 
 This is hardware diplomacy in action. NVIDIA CEO Jensen Huang has been unambiguous about the strategic importance of ensuring that American chip technology powers the global AI infrastructure buildout, rather than Chinese alternatives. Every nation-scale deployment of Blackwell systems creates a long-term dependency on NVIDIA's ecosystem — its NVLink networking, its CUDA software stack, its future roadmap — that serves both NVIDIA's commercial interests and U.S. strategic interests in shaping global AI standards.
 
@@ -79,3 +80,5 @@ The "for Countries" model introduces a different geography: large-scale sovereig
 As the first 200MW phase approaches its Q3 2026 completion, OpenAI is already finalizing the site selection and joint venture structures for several subsequent "for Countries" deployments. The race is on to define who builds the sovereign AI infrastructure of the Global South — and whether that infrastructure runs on American or Chinese foundations.
 
 The stakes, as both Washington and Beijing understand, are considerably higher than any data center deal has historically implied.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

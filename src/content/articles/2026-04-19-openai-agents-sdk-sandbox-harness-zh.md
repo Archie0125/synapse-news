@@ -1,8 +1,9 @@
 ---
-title: "OpenAI 大幅升級 Agents SDK：內建沙盒執行環境與模型原生框架，直攻企業長任務部署痛點"
-summary: "OpenAI 於4月15日發布 Agents SDK 重大更新，新增模型原生框架（harness）與內建沙盒執行環境，整合 E2B、Modal、Vercel 等七家沙盒供應商。配合全新 Manifest 工作區抽象層，讓企業開發者無需再自行搭建大量底層基礎設施即可部署生產級 AI Agent。"
+title: \"OpenAI 更新 Agents SDK：內建沙盒執行環境與模型原生框架，直攻企業長任務部署痛點\"
+summary: "OpenAI 於4月15日發布 Agents SDK 更新，新增模型原生框架（harness）與內建沙盒執行環境，整合 E2B、Modal、Vercel 等沙盒供應商。配合全新 Manifest 工作區抽象層，讓開發者獲得一個執行層，無需再自行搭建。"
 category: "developer-tools"
 publishedAt: 2026-04-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-04-04-mcp-protocol-explosion-zh"
 ---
 
-OpenAI 在4月15日發布了 Agents SDK 的重大升級，補上了框架此前在生產部署中最明顯的兩個缺口：一個讓 AI Agent 能在電腦上跨檔案與工具運作的模型原生框架（model-native harness），以及讓這些操作能在隔離環境中安全執行的內建沙盒支援。這次更新以 Python 優先推出，TypeScript 版本規劃在後續版本跟進。
+OpenAI 本週發布了 Agents SDK 的更新，新增一個讓 AI Agent 能在電腦上跨檔案與工具運作的模型原生框架（model-native harness），以及讓這些操作能在隔離環境中安全執行的內建沙盒支援，讓開發者獲得一個執行層，無需再自行搭建。這次更新以 Python 優先推出，TypeScript 版本規劃在後續版本跟進。
 
 這次更新反映了 OpenAI 對企業 AI 開發瓶頸的精確診斷：阻礙生產部署的問題，不在模型能力，而在於連結模型智慧與真實世界任務執行的底層基礎設施。
 
@@ -96,3 +97,5 @@ OpenAI 的 SDK 更新並未試圖統一這個生態，但它提出了一個明�
 OpenAI 承諾在後續版本中將框架和沙盒能力引入 TypeScript，承認企業開發中有相當比例的工作發生在 TypeScript 環境。公司同時也在為兩種語言開發更多 Agent 能力，包括程式碼模式（code mode）和子 Agent（subagents）。
 
 更大的方向已然清晰：OpenAI 視 Agents SDK 為企業開發者與其模型進行任務執行互動的主要介面，並正在相應加大投入，讓這個介面足以與擁有更長發展時間的競爭方案一較高下。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

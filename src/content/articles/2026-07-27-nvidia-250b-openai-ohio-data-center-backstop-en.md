@@ -1,8 +1,9 @@
 ---
 title: "Nvidia Weighs $250 Billion Backstop for OpenAI's 10-Gigawatt Ohio Data Center"
-summary: "Nvidia is in advanced talks to guarantee roughly $250 billion in financing for OpenAI's planned 10-gigawatt data center campus in Ohio, with separate discussions covering up to $350 billion in chip purchases. The arrangement — the largest announced data-center financing in history — would lock in Nvidia's chip demand for years while giving OpenAI its first owned AI infrastructure."
+summary: "Nvidia is in talks to provide a roughly $250 billion financial backstop for OpenAI's planned 10-gigawatt data center campus in Ohio, with a separate financing arrangement of up to $350 billion under discussion to support OpenAI's chip purchases. The project, the largest data center project announced to date, has no finalized terms and could still fall through."
 category: "industry"
 publishedAt: 2026-07-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-07-27-microsoft-meta-q4-earnings-july29-ai-capex-reckoning-en"
 ---
 
-The Wall Street Journal reported Sunday evening that Nvidia is in advanced discussions to guarantee approximately $250 billion in debt financing for OpenAI's planned AI data center campus in Piketon, Ohio — a former uranium enrichment facility being repurposed by SoftBank's energy subsidiary, SB Energy. Separate talks are simultaneously underway covering up to $350 billion in Nvidia chip purchases that would populate the campus once it's built. If the full arrangement closes, it would represent the largest single data-center financing commitment in history by a margin so wide as to be almost incomprehensible.
+The Wall Street Journal reported that Nvidia is in discussions to provide a roughly $250 billion financial backstop, covering the lease and debt, for OpenAI's planned AI data center campus in Ohio — a site on a decommissioned uranium-enrichment facility about 50 miles south of Columbus that is being developed by SoftBank's energy subsidiary, SoftBank Energy. Nvidia is also discussing a separate financing arrangement to support OpenAI's purchase of AI chips for the project, which could be worth as much as $350 billion. Including the chips, the project could cost more than $500 billion, which would make it the largest data center project announced to date.
 
 Reuters said it could not independently verify the Wall Street Journal's reporting by deadline. No final agreement has been disclosed by either Nvidia or OpenAI. The news drove fresh discussion about the increasingly circular nature of AI infrastructure financing — but it also crystallized a strategic reality that both companies have been quietly building toward for over a year.
 
@@ -52,7 +53,7 @@ The separate chip financing discussions — potentially another $350 billion —
 
 For OpenAI, the strategic dimension is equally clear. The company has operated almost entirely on rented compute — primarily from Microsoft Azure under the terms of a multibillion-dollar partnership that predates the current AI boom. While that arrangement gave OpenAI access to scale it couldn't have built alone, it also created a structural dependency: Microsoft controls the infrastructure, sits on OpenAI's board as an observer, and negotiates the terms of OpenAI's most critical operational input.
 
-A 10-gigawatt proprietary campus would change that. OpenAI would, for the first time, own the servers its models train and run on, giving it the ability to optimize infrastructure decisions independently of a cloud partner's commercial interests. It would also give OpenAI the ability to offer different SLA structures to enterprise customers — guaranteed uptime, custom hardware configurations, latency profiles — that are harder to deliver as a tenant of someone else's facility.
+A 10-gigawatt campus would change that. The campus would be OpenAI's first major data center as a tenant, which would reduce its reliance on cloud providers such as Microsoft, Amazon and Oracle. It would also give OpenAI the ability to offer different SLA structures to enterprise customers — guaranteed uptime, custom hardware configurations, latency profiles — that are harder to deliver as a tenant of someone else's facility.
 
 The timing matters: OpenAI's partnership with Microsoft has been renegotiated multiple times since 2020, and the terms of future renewals are widely expected to be contested. A company that controls its own compute has a fundamentally different negotiating posture than one that doesn't.
 
@@ -71,3 +72,5 @@ The Piketon campus would not be operational for several years — utility-scale 
 Whether the deal closes at the reported scale, at a reduced scale, or with modified terms remains to be seen. But the direction is unmistakable: the AI infrastructure industry is entering a phase where the sums involved have moved from hyperscale (hundreds of millions to single-digit billions) to something that doesn't yet have a widely accepted name. Half a trillion dollars in a single facility represents a new category of capital commitment — one that only a handful of entities on earth can contemplate backing.
 
 Both Nvidia and OpenAI declined to comment on the WSJ report.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

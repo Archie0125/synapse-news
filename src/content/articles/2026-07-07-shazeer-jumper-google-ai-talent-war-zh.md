@@ -1,8 +1,9 @@
 ---
-title: "Google在24小時內痛失兩位AI巨擘：Shazeer投奔OpenAI、Jumper加入Anthropic"
-summary: "2026年6月18至19日，Google DeepMind在連續不到24小時內失去兩位核心研究人員：Transformer架構共同發明人Noam Shazeer宣布加入OpenAI，諾貝爾化學獎得主、AlphaFold首席架構師John Jumper宣布加入Anthropic。這對雙重離職，標誌著AI產業史上規模最大的一次基礎性人才重新分配。"
+title: "Google在數日內痛失兩位AI巨擘：Shazeer投奔OpenAI、Jumper加入Anthropic"
+summary: "同一週內，Google DeepMind接連失去兩位重要研究人員：Transformer架構論文共同作者Noam Shazeer宣布加入OpenAI，諾貝爾化學獎得主、曾領導AlphaFold團隊的John Jumper宣布加入Anthropic。"
 category: "industry"
 publishedAt: 2026-07-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -30,11 +31,11 @@ relatedSlugs:
   - "2026-07-06-anthropic-claude-science-drug-discovery-zh"
 ---
 
-在AI產業的歷史上，沒有任何一家機構比Google對現代AI的奠基性研究貢獻更大。然而，在2026年6月中旬短短24小時內，Google痛失了兩位對這個領域最具決定性影響力的科學家——而且是輸給了它最強勁的競爭對手。
+在AI產業的歷史上，沒有任何一家機構比Google對現代AI的奠基性研究貢獻更大。
 
 6月18日，**Noam Shazeer**——Transformer架構共同發明人、Google工程副總裁、Gemini模型系列聯合負責人——宣布離開Google，加入OpenAI。緊接著第二天，**John Jumper**——AlphaFold首席架構師、2024年諾貝爾化學獎得主、在DeepMind工作近九年的資深研究員——宣布離開加入Anthropic。
 
-這兩次離職公告在不到24小時內相繼發出，構成了AI產業史上任何單一機構遭受的最重大同步人才流失。
+這兩次離職公告在數日內相繼發出，對Google的基礎性AI人才陣容造成重大打擊。
 
 ## Noam Shazeer：架構的架構師
 
@@ -80,4 +81,6 @@ Google DeepMind並非一夜之間被削弱。Demis Hassabis仍領導著這家機
 
 但「Attention Is All You Need」八位原始作者全部離開Google，是一個在象徵意義上遠超個人變動的歷史分水嶺。它表明AI研究的重心——最具雄心的科學家選擇將職業生涯投注於何處——已發生轉移，而且可能是永久性的轉移，離開了那個比任何人都更多地創造了這個領域的機構。
 
-Google面對的問題，不是它能否繼續做出偉大的AI研究——它顯然能做到。問題是它能否重新具備吸引並留住那種能定義整個時代的人才——Shazeer和Jumper這樣的人——還是只能在執行層面競爭，而非引領基礎性發現。從2026年6月那個24小時窗口來看，這個問題目前還沒有令人安心的答案。
+Google面對的問題，不是它能否繼續做出偉大的AI研究——它顯然能做到。問題是它能否重新具備吸引並留住那種能定義整個時代的人才——Shazeer和Jumper這樣的人——還是只能在執行層面競爭，而非引領基礎性發現。從2026年6月這一週發生的事件來看，這個問題目前還沒有令人安心的答案。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 5 處。*

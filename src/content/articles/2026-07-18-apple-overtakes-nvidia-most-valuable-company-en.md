@@ -1,8 +1,9 @@
 ---
-title: "Apple Reclaims Crown as World's Most Valuable Company, Overtaking Nvidia at $4.9 Trillion"
-summary: "Apple surpassed Nvidia as the world's most valuable company on July 17, with its market capitalization reaching approximately $4.9 trillion. The shift comes as investors reward Apple's capital-light AI strategy amid CEO Tim Cook's transition to executive chairman and incoming CEO John Ternus's hardware-driven AI roadmap."
+title: "Apple Briefly Overtakes Nvidia as World's Most Valuable Company at About $4.88 Trillion"
+summary: "Apple briefly topped Nvidia as the world's most valuable company on Friday, with its market value near $4.88 trillion, before Nvidia closed slightly ahead. The move comes as investors reward Apple's light capital spending model and AI agenda."
 category: "industry"
 publishedAt: 2026-07-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-07-17-google-gemini-35-pro-launch-en"
 ---
 
-The throne at the top of global markets has changed hands again. On July 17, Apple Inc. briefly reclaimed the title of the world's most valuable company, with its market capitalization touching approximately $4.9 trillion in intraday trading — edging past Nvidia, which slid roughly 3.5% to around $4.86 trillion. The reversal is striking in symbolic terms: Nvidia itself only became the first company in history to surpass the $5 trillion threshold in October 2025, a milestone that crystallized just how much the AI chip boom had reshaped the hierarchy of corporate America.
+The throne at the top of global markets has changed hands again. On Friday, Apple Inc. briefly topped Nvidia as the world's most valuable company, with its market capitalization near $4.88 trillion in early trading, while Nvidia fell to roughly $4.84 trillion to $4.86 trillion after a decline of about 3% to 3.5%. The reversal is striking in symbolic terms: Nvidia itself only became the first company in history to surpass the $5 trillion threshold in October 2025, a milestone that crystallized just how much the AI chip boom had reshaped the hierarchy of corporate America.
 
 Now the market is hedging. Apple's 23% gain year-to-date reflects an investor rotation away from pure-play AI hardware exposure and toward companies that can generate AI value at lower capital intensity — exactly the profile Apple presents.
 
@@ -61,4 +62,6 @@ For enterprise technology strategists, the Apple-Nvidia swap at the top of globa
 
 Apple's specific model — native device intelligence, custom silicon, a closed ecosystem with strong monetization — is not easily replicable. But the underlying principle, that AI creates value at multiple layers of the stack and that the infrastructure layer's disproportionate dominance in valuations may be temporary, is broadly applicable.
 
-As Apple approaches the $5 trillion mark that Nvidia has already crossed and retreated from, the contest between the two will serve as a real-time referendum on where markets believe the AI era's lasting value ultimately accrues.
+With Apple near $4.88 trillion and Nvidia, which crossed $5 trillion in October, at a similar level, the contest between the two will show where markets believe the AI era's lasting value accrues.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

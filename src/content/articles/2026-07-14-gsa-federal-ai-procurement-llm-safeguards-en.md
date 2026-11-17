@@ -1,8 +1,9 @@
 ---
 title: "The Rule That Will Reshape Federal AI Buying: GSA's LLM Safeguard Clause Enters Final Comment Period"
-summary: "The U.S. General Services Administration held a public listening session today on a sweeping proposed rule — GSAR 552.239-7001 — that would govern how every federal agency procures AI systems involving large language models, imposing strict data ownership, 'eyes off' data handling, U.S. jurisdictional controls, and a new 'Unbiased AI Principles' framework with termination-for-cause liability on contractors."
+summary: "The U.S. General Services Administration has scheduled a public listening session for July 14, 2026, on a sweeping proposed rule — GSAR 552.239-7001 — that would govern contracts in which government data is processed by large language models, imposing strict data ownership, 'eyes off' data handling, U.S. jurisdictional controls, and a new 'Unbiased AI Principles' framework with termination-for-cause liability on contractors."
 category: "policy"
 publishedAt: 2026-07-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,7 +32,7 @@ relatedSlugs:
   - "2026-07-04-white-house-voluntary-ai-release-standards-en"
 ---
 
-At 11 a.m. ET today, the U.S. General Services Administration convened a public listening session at The George Washington University Law School in Washington to gather feedback on what may be the most consequential federal AI procurement rule ever drafted. The session — open to industry representatives, civil society groups, and technology contractors — focused on a proposed clause known as GSAR 552.239-7001, formally titled "Basic Safeguarding of Data Within Large Language Model Artificial Intelligence Systems." When finalized, it will govern how every federal agency contracts for AI systems that involve large language models.
+At 11 a.m. ET today, the U.S. General Services Administration convened a public listening session at The George Washington University Law School in Washington to gather feedback on what may be the most consequential federal AI procurement rule ever drafted. The session — open to industry representatives, civil society groups, and technology contractors — focused on a proposed clause known as GSAR 552.239-7001, formally titled "Basic Safeguarding of Data Within Large Language Model Artificial Intelligence Systems." When finalized, it will likely apply across GSA's governmentwide contracts, including the Federal Supply Schedules, Governmentwide Acquisition Contracts and OASIS+.
 
 Written comments are due August 3, 2026. Legal experts who have reviewed the draft clause say that when finalized, it will define federal AI procurement for the next decade.
 
@@ -39,19 +40,19 @@ Written comments are due August 3, 2026. Legal experts who have reviewed the dra
 
 The proposed clause is broad in scope and specific in technical requirements, and it will force significant changes across the federal contractor ecosystem.
 
-Its scope is defined by data: the clause applies to any federal contract in which government information will be processed by a large language model, regardless of whether that model is provided directly by the prime contractor or embedded several layers down in a subcontractor's technology stack. That scope triggers the rule's most important structural requirement — full supply chain flowdown. Every obligation created by GSAR 552.239-7001 must cascade through every developer, operator, integrator, and service provider in the delivery chain.
+Its scope is defined by data: the clause applies to contracts in which government data will be processed by a large language model, with exceptions for LLMs embedded in common commercial products and for LLM functionality that is incidental to the core requirement being procured. That scope triggers the rule's most important structural requirement — full supply chain flowdown. Under the rule, the prime contractor must flow down applicable paragraphs of the clause to subcontractors and service providers in the covered developer, operator, integrator, and service provider roles, or obtain attestations that the requirements have been implemented.
 
 The substantive requirements cluster around several core principles.
 
 **Government data ownership and "eyes off" handling** is the centerpiece. Under the rule, federal data processed by an LLM cannot be used by the contractor for any purpose beyond fulfilling the specific contract — no model training, no improvement, no benchmarking. This "eyes off" standard is significantly stricter than what most commercial AI contracts currently impose and would require major structural changes to how foundation model providers package their government offerings. Models that train on user inputs — even for performance improvement — would not be compliant without explicit structural separation between commercial and government data flows.
 
-**U.S. jurisdictional controls** require that LLM systems processing federal data operate under American legal authority and remain subject to GSA oversight. This provision functions as a practical barrier against routing government data through models hosted on infrastructure based in non-allied jurisdictions, or through models trained primarily on such infrastructure. The provision reflects persistent concerns within the intelligence community about data exposure via foreign AI cloud providers.
+**U.S. jurisdictional controls** require that LLMs used on covered contracts maximize use of systems developed, managed and operated by U.S.-incorporated entities subject to U.S. law and jurisdiction. This provision functions as a practical barrier against routing government data through models hosted on infrastructure based in non-allied jurisdictions, or through models trained primarily on such infrastructure. The provision reflects persistent concerns within the intelligence community about data exposure via foreign AI cloud providers.
 
 **Incident reporting requirements** are modeled on the existing federal cybersecurity incident disclosure framework, requiring contractors to notify GSA within defined windows when an LLM system behaves anomalously, generates unexpected outputs, or is subject to external interference or prompt injection attacks.
 
-**The "Unbiased AI Principles" framework** is the most novel element. It imposes affirmative obligations on contractors to prevent LLM systems from producing outputs that systematically favor or disfavor groups in ways inconsistent with federal equal opportunity standards. Crucially, violations of this requirement can trigger termination-for-cause provisions — a meaningful liability lever that goes well beyond the voluntary commitments that AI companies have made to date. No other federal AI procurement standard currently carries termination-for-cause exposure for discriminatory outputs.
+**The "Unbiased AI Principles" framework** is the most novel element. It requires LLM systems to be truthful, prioritize historical accuracy and scientific inquiry, and be neutral and nonpartisan, and bars contractors from intentionally introducing or embedding partisan or ideological judgments. Crucially, violations of this requirement can trigger termination-for-cause provisions — a meaningful liability lever that goes well beyond the voluntary commitments that AI companies have made to date. No other federal AI procurement standard currently carries termination-for-cause exposure for discriminatory outputs.
 
-The rule also explicitly permits open-source AI components under a risk-based security evaluation framework, replacing earlier draft language that had imposed blanket restrictions on open-source models due to difficulties in verifying their provenance and modification history. The revised approach requires open-source components to pass a security assessment rather than banning them categorically — a significant concession to industry pressure.
+The rule also replaces the earlier draft's flat ban on AI components developed or controlled by non-U.S. entities with a criteria-based framework that permits incidental foreign-developed components, including open-source components, provided they do not introduce security risks or foreign control. The revised approach requires open-source components to pass a security assessment rather than banning them categorically — a significant concession to industry pressure.
 
 **Industry Reception**
 
@@ -80,3 +81,5 @@ GSAR 552.239-7001 fits into a broader pattern of regulatory activity. The FTC is
 What distinguishes the GSA rule is its procurement mechanism. Unlike legislation, voluntary frameworks, or enforcement policy, a procurement clause is self-executing: once finalized, it immediately attaches to new federal contracts without requiring additional regulatory action. It is, arguably, the most direct lever the federal government has to shape the behavior of AI companies without passing a law.
 
 The public comment period closes August 3. The rule is expected to be finalized before the end of the federal fiscal year on September 30 — which would make it effective for government AI contracts beginning in fiscal year 2027.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

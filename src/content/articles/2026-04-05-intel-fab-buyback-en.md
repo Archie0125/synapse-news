@@ -3,6 +3,7 @@ title: "Intel Pays $14.2B to Reclaim Ireland's Fab 34 from Apollo — Stock Surg
 summary: "Intel is buying back Apollo Global Management's 49% stake in its Fab 34 facility in Leixlip, Ireland for $14.2 billion — a 27% premium over what Apollo paid in 2024. The deal signals renewed confidence in Intel's turnaround under CEO Lip-Bu Tan and strong demand for CPU and AI chip production."
 category: "hardware"
 publishedAt: 2026-04-05T09:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -36,7 +37,7 @@ Intel sold the 49% stake in Fab 34 to Apollo Global Management in 2024 for $11.2
 
 The logic was sound at the time: by monetizing a partial interest in the facility, Intel could raise capital without taking on additional debt or diluting shareholders, while retaining operational control of the factory. Apollo, for its part, got exposure to high-value semiconductor real estate with predictable long-term cash flows — the kind of infrastructure investment that private equity firms have been increasingly attracted to as the AI buildout has made chip-making capacity more strategically valuable.
 
-Fab 34 was the obvious candidate for this kind of transaction. The facility, located in Leixlip, County Kildare, is Intel's most advanced manufacturing site in Europe. It produces chips on Intel's Intel 4 and Intel 3 process nodes — including Core Ultra processors for laptops and Xeon 6 server chips that are central to Intel's data center business. As AI workloads have pushed demand for high-performance compute, the Xeon 6 line has become increasingly important to Intel's competitive position.
+Fab 34 was the obvious candidate for this kind of transaction. The facility, located in Leixlip, County Kildare, is Intel's most advanced manufacturing site in Europe. It produces chips on Intel's Intel 4 and Intel 3 process nodes — including Core Ultra processors for PCs and Xeon chips for servers. As AI workloads have pushed demand for high-performance compute, the Xeon 6 line has become increasingly important to Intel's competitive position.
 
 ## The Buyback and Its Financing
 
@@ -73,3 +74,5 @@ Full ownership of Fab 34 gives Intel more flexibility to prioritize production f
 For Apollo, the transaction is a clean exit with a 27% return on a two-year hold — not spectacular by private equity standards, but solid for an infrastructure asset with minimal operational risk. The firm was always positioned as a financial partner, not a long-term strategic stakeholder, and the exit completes that mission on favorable terms.
 
 Intel's bet is that the next chapter of its story — Intel 18A in production, Fab 34 fully owned, the turnaround narrative credibly established — is worth the $14.2 billion it has committed to write it.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

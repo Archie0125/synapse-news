@@ -3,6 +3,7 @@ title: "Anthropic's 'Claude Mythos' Leaked: The Most Powerful AI Model Yet — a
 summary: "A CMS misconfiguration exposed Anthropic's secret model codenamed 'Mythos', positioned above Opus in a new 'Capybara' tier. The company is now privately briefing US officials about its unprecedented cybersecurity risks while conducting limited early access testing."
 category: "ai-ml"
 publishedAt: 2026-04-05T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -25,15 +26,15 @@ relatedSlugs:
   - "2026-04-04-openai-gpt5-leak-en"
 ---
 
-A configuration error at Anthropic's content management system inadvertently revealed something the company had been keeping under wraps: a new AI model of unprecedented capability, codenamed "Mythos." The accidental exposure — which surfaced roughly 3,000 unpublished internal assets on March 26 — has triggered a rare sequence of events that shows just how seriously the AI frontier is taking the dual-edged nature of its most powerful systems.
+A configuration error at Anthropic's content management system inadvertently revealed something the company had been keeping under wraps: a new AI model of unprecedented capability, codenamed "Mythos." The accidental exposure, which left close to 3,000 previously unpublished assets linked to Anthropic's blog publicly accessible, led the company to confirm that it is developing and testing the new model.
 
 ## The Leak That Wasn't Supposed to Happen
 
-The CMS misconfiguration exposed internal documents, product roadmap materials, and benchmark data that Anthropic had not yet made public. Among those materials was evidence of a model operating in a product tier codenamed "Capybara" — positioned above the company's current flagship Claude Opus 4.6 in the product hierarchy.
+The CMS misconfiguration left a cache of unpublished material publicly accessible, including a draft blog post about the new model and a PDF about an invite-only CEO retreat. Among those materials was evidence of a model operating in a product tier codenamed "Capybara" — positioned above the company's current flagship Claude Opus 4.6 in the product hierarchy.
 
-Anthropic moved quickly to contain the exposure, but security researchers and journalists had already captured enough to piece together a picture of what Mythos is — and what it's capable of. Within days, Anthropic confirmed the model's existence to Fortune, describing it as "by far the most powerful AI model we have ever developed."
+Anthropic moved quickly to contain the exposure, but security researchers and journalists had already captured enough to piece together a picture of what Mythos is — and what it's capable of. After Fortune reported on the leak, Anthropic confirmed it is developing and testing the model, calling it "a step change" and "the most capable we've built to date." A leaked draft blog post had described it as "by far the most powerful AI model we've ever developed."
 
-That's a notable statement from a company whose Opus 4.6 already sits at or near the top of most independent AI benchmarks. But Mythos, according to internal documentation, doesn't just incrementally advance the state of the art — it represents what Anthropic internally calls "a step change in capabilities."
+That's a notable statement from a company whose Opus 4.6 already sits at or near the top of most independent AI benchmarks. But Mythos, according to Anthropic, doesn't just incrementally advance the state of the art: a spokesperson called it "a step change."
 
 ## Dramatically Superior Benchmarks
 
@@ -57,7 +58,7 @@ The briefings also carry a practical dimension: Anthropic is reportedly interest
 
 ## Cybersecurity Partners Get First Access
 
-Rather than a broad public launch, Anthropic is currently running Mythos through a limited early access program specifically scoped to cybersecurity partners. This group includes a small number of vetted organizations working on defensive AI applications — intrusion detection, vulnerability assessment, threat intelligence — where Mythos's capabilities can be applied in controlled, monitored environments.
+Rather than a broad public launch, Anthropic is currently working with a small group of early access customers to test Mythos, with a release plan the draft blog said would focus on cyber defenders. This group includes a small number of vetted organizations working on defensive AI applications — intrusion detection, vulnerability assessment, threat intelligence — where Mythos's capabilities can be applied in controlled, monitored environments.
 
 This approach mirrors how OpenAI handled its own most sensitive model releases, creating tiered access structures that allow the company to gather real-world capability data while limiting exposure of the most dangerous capabilities to vetted actors.
 
@@ -65,7 +66,7 @@ Notably, no general release date has been announced. This is itself unusual: Ant
 
 ## A New Pricing Tier and the Economics of Frontier AI
 
-When Mythos does launch publicly, it will introduce a fourth product tier above Opus — what the leaked materials call the "Capybara" tier. This is likely to be Anthropic's most expensive API offering by a significant margin, given the compute requirements and market positioning of a model this capable.
+According to the leaked draft blog post, Capybara is a new tier of model larger than Opus, and Capybara and Mythos appear to refer to the same underlying model. The draft blog described Capybara as more expensive than Opus.
 
 The business logic is clear: as the gap between frontier AI and the open-source alternatives continues to widen on the most demanding tasks, the willingness of enterprise customers to pay premium prices for genuine capability advantages grows as well. Mythos appears designed to be the offering that justifies a price point that no current AI product can claim.
 
@@ -82,3 +83,5 @@ An AI system that can autonomously chain cyberattack steps at scale doesn't just
 Anthropic's decision to brief government officials before launch is recognition of this reality. The question the broader industry is now asking is whether that recognition is enough — or whether Mythos represents the moment when AI capabilities require a fundamentally different governance framework than we currently have.
 
 For now, Anthropic is proceeding carefully. But the existence of Mythos — however accidentally revealed — means that a new threshold in AI capability has already been crossed, whether or not the model is yet in anyone's hands.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

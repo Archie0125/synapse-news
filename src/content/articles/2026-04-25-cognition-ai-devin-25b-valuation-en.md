@@ -3,6 +3,7 @@ title: "Cognition AI in Talks to Raise Hundreds of Millions at $25 Billion Valua
 summary: "Cognition AI, maker of autonomous software engineer Devin, is in early discussions to raise a new funding round that would more than double its $10.2 billion valuation from September 2025. The startup's combined ARR from Devin and its Windsurf acquisition has grown to roughly $150 million, powering a client roster that includes Goldman Sachs, Citi, and Palantir."
 category: "startups"
 publishedAt: 2026-04-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-04-20-app-store-vibe-coding-surge-en"
 ---
 
-Cognition AI, the startup behind Devin — the first widely deployed autonomous AI software engineer — is in early-stage discussions to raise a new funding round that would value the company at approximately $25 billion, according to people familiar with the matter. The target represents a more than 2.4x increase over the $10.2 billion valuation Cognition achieved in September 2025 when it closed a $400 million round led by Founders Fund, with participation from Lux Capital, 8VC, Elad Gil, Definition Capital, and Swish Ventures. The new round is expected to total hundreds of millions of dollars, though terms remain in flux and could change before any deal is finalized.
+Cognition AI, the startup behind Devin — the first widely deployed autonomous AI software engineer — is in early-stage discussions to raise a new funding round that would value the company at approximately $25 billion, according to people familiar with the matter. The target would more than double the $10.2 billion valuation Cognition achieved in its last round, a $400 million raise in September led by Founders Fund, with participation from Lux Capital, 8VC, Elad Gil, Definition Capital, and Swish Ventures. The new round is expected to total hundreds of millions of dollars, though terms remain in flux and could change before any deal is finalized.
 
 The valuation jump reflects both Cognition's extraordinary ARR growth and the extraordinary premium the market is placing on companies that have credibly solved the problem of autonomous software development at enterprise scale.
 
@@ -70,3 +71,5 @@ The market is not pricing these companies on current revenue; it is pricing them
 Whether that thesis proves correct is the central question of AI enterprise investing in 2026. The early evidence — from Cognition's ARR trajectory, Cursor's user growth, and the speed at which large enterprises are signing multi-million-dollar AI coding contracts — suggests the demand is real. The remaining uncertainty is around durability: will the advantage of early movers compound as their agents improve on customer-specific data, or will a better model from Anthropic, OpenAI, or an unannounced competitor commoditize the task-execution layer and leave the incumbents exposed?
 
 For now, investors appear willing to pay the premium that uncertainty commands.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

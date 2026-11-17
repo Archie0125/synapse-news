@@ -1,8 +1,9 @@
 ---
 title: "Apple Smashes March Quarter Record With $111B Revenue as Ternus Era Begins"
-summary: "Apple reported record second-quarter revenue of $111.2 billion, up 17% year-over-year, with iPhone 17 driving a 22% gain and Services hitting an all-time $31 billion. Tim Cook's penultimate earnings call doubled as the official passing of the torch: incoming CEO John Ternus joined the call for the first time, teasing an 'incredible roadmap' he calls the most exciting of his 25-year Apple career."
+summary: "Apple reported March quarter revenue of $111.2 billion, up 17% year over year, with iPhone revenue up 22% and Services revenue at $31 billion. Incoming CEO John Ternus joined the earnings call and said Apple has an 'incredible roadmap ahead' and that this is the most exciting time in his 25-year Apple career."
 category: "industry"
 publishedAt: 2026-05-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-04-11-apple-ios264-siri-gemini-rollout-en"
 ---
 
-Apple closed its fiscal second quarter with a performance that exceeded every analyst benchmark and set records across its two biggest revenue pillars — all while executing the most consequential leadership transition in its post-Jobs era.
+Apple closed its fiscal second quarter with results that beat analyst estimates on revenue and earnings and set records for iPhone and Services, all while executing a leadership transition as Tim Cook prepares to step down as CEO.
 
-Revenue for the three months ended March 28, 2026, reached **$111.2 billion**, a 17% increase from the $95.4 billion Apple reported in the same period a year earlier and well above Wall Street's consensus estimate of roughly $110 billion. Net income rose to **$29.6 billion**, or $2.01 per diluted share, up from $24.8 billion ($1.65 per diluted share) a year ago — against analyst expectations of approximately $1.95 per share.
+Revenue for the quarter reached **$111.2 billion**, a 17% increase from the $95.4 billion Apple reported in the same period a year earlier and above Wall Street's consensus estimate of $109.66 billion. Net income rose to **$29.6 billion**, or $2.01 per diluted share, up from $24.8 billion ($1.65 per diluted share) a year ago — against analyst expectations of approximately $1.95 per share.
 
 Gross margin expanded to **49.3%**, up from 47.1% in the year-ago quarter, reflecting a richer product mix and the pricing discipline Apple has maintained despite intensifying competition in China and a complex global tariff environment.
 
@@ -38,13 +39,13 @@ Gross margin expanded to **49.3%**, up from 47.1% in the year-ago quarter, refle
 
 iPhone revenue came in at **$57 billion, up 22% year over year** — the best iPhone performance Apple has ever reported in a March quarter. Executives attributed the result to the iPhone 17 family's exceptional demand cycle, powered by Apple Intelligence features that began rolling out in iOS 18 and expanded significantly with this spring's iOS 26 release.
 
-Apple gained market share in most major markets during the quarter. In China, despite ongoing geopolitical friction and local competition from Huawei and Xiaomi, iPhone held its ground, aided by Gemini-powered Siri features that went live in Mandarin. The company's installed base surpassed **2.5 billion active devices** globally — a number Tim Cook called "the strongest foundation in Apple's history."
+Apple gained market share in most major markets during the quarter. In China, despite ongoing geopolitical friction and local competition from Huawei and Xiaomi, iPhone held its ground, aided by Gemini-powered Siri features that went live in Mandarin. The company's installed base now stands at more than 2.5 billion active devices.
 
 ## Services: Another All-Time Record
 
 Services revenue hit **$31 billion**, an all-time record up approximately 16% from a year earlier. The category now runs at a $124 billion annualized rate, encompassing the App Store, Apple Music, Apple TV+, iCloud, AppleCare, Apple Pay, and the Apple Intelligence subscription tiers that began converting free AI users into paying premium customers earlier this year.
 
-Gross margin for Services came in above 75%, making it Apple's highest-margin segment and a key driver of the company's overall profitability expansion. Mac revenue contributed $8.4 billion to the mix, helped by continued demand for M4-series MacBooks.
+Mac revenue was $8.4 billion, up about 6% from a year earlier, driven by the strength of recent product launches.
 
 ## The Cook-to-Ternus Handoff
 
@@ -66,11 +67,11 @@ Apple's AI spending posture is also notable for what it isn't. Where Google, Mic
 
 ## Guidance and Capital Returns
 
-Apple provided third-quarter guidance calling for revenue growth of **14% to 17% year over year**, pointing to continued iPhone demand and accelerating Services growth even as the company faces potential tariff headwinds on hardware manufactured in Asia.
+Apple provided June-quarter guidance calling for revenue growth of **14% to 17% year over year**, with constrained supply, and said Services revenue should grow similarly to the March quarter.
 
-The board authorized an additional **$100 billion in share repurchases** — the largest single buyback authorization in Apple's history — and raised the quarterly dividend to **$0.27 per share**, up from $0.25. Together, the moves underscore management's confidence in sustained cash generation even as peers dramatically expand infrastructure spending.
+The board authorized an additional **$100 billion in share repurchases** and raised the quarterly dividend to **$0.27 per share**, up from $0.26.
 
-Apple shares rose approximately 2.5% in after-hours trading following the report, extending a recovery from earlier-year pressure tied to tariff concerns.
+Apple shares rose about 3% in extended trading following the report, according to CNBC, though MacRumors reported the stock down about 0.5% in after-hours trading shortly after the release.
 
 ## The Ternus Question
 
@@ -79,3 +80,5 @@ Cook's fifteen-year tenure has transformed Apple into the world's most valuable 
 The September event, when Apple typically unveils its next iPhone generation, now carries extraordinary symbolic weight: it will be Ternus's debut on the biggest stage in consumer technology, and probably Apple's clearest statement yet about what its AI-first future looks like.
 
 For now, the numbers say the company arrives at that moment from a position of exceptional strength.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

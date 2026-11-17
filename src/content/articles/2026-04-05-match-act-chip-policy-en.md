@@ -1,8 +1,9 @@
 ---
 title: "The MATCH Act: US Congress Moves to Force Allies to Cut Off Chip Tool Exports to China"
-summary: "Bipartisan legislation introduced April 2 would require US allies — including the Netherlands and Japan — to restrict deep ultraviolet lithography equipment exports to China, and threatens extraterritorial US jurisdiction if they don't comply. The bill specifically targets ASML and Tokyo Electron equipment still flowing to Huawei and SMIC."
+summary: "Bipartisan legislation introduced in the House on a Thursday would ban DUV and other chipmaking equipment exports to China, push US allies including the Netherlands and Japan to match the restrictions, and direct Commerce to impose controls unilaterally if they do not. The bill also names Huawei and SMIC among the Chinese chipmakers facing tighter restrictions."
 category: "policy"
 publishedAt: 2026-04-05T09:45:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -34,7 +35,7 @@ The Multilateral Alignment of Technology Controls on Hardware Act — the MATCH 
 
 To understand the MATCH Act, you need to understand deep ultraviolet lithography. When the US successfully pressured the Netherlands to restrict ASML — the world's sole manufacturer of extreme ultraviolet lithography (EUV) machines — from exporting to China, it was a significant blow to China's semiconductor ambitions. EUV is required to manufacture chips below roughly 7 nanometers at meaningful scale.
 
-But DUV machines, which use an older, less precise form of lithography, can still produce chips at 7nm and above. And ASML makes those too — as do Japanese equipment makers including Tokyo Electron and Nikon. Despite various restrictions applied since 2022, DUV equipment has continued flowing to China, allowing companies like Huawei and SMIC to push manufacturing capabilities further than the EUV restrictions alone would permit.
+But DUV machines, which are older, lower-grade tools, can still manufacture very advanced, though not the most advanced, chips. And ASML makes those too — as do Japanese equipment makers including Tokyo Electron and Nikon. Despite various restrictions applied since 2022, DUV equipment has continued flowing to China, allowing companies like Huawei and SMIC to push manufacturing capabilities further than the EUV restrictions alone would permit.
 
 SMIC, China's largest domestic chipmaker, has reportedly achieved limited production of chips using approaches that approximate 5-7nm density through aggressive multi-patterning techniques — using DUV machines to achieve results that would normally require EUV. This is technically difficult, yields are reportedly low, and the approach is economically inefficient compared to frontier EUV manufacturing. But it works well enough to matter for Huawei's HiSilicon chip designs and China's domestic AI accelerator programs.
 
@@ -44,9 +45,9 @@ The MATCH Act is designed to close this DUV loophole.
 
 The legislation, introduced in the House by Rep. Michael Baumgartner (R-WA) and cosponsored by Select Committee on China Chair John Moolenaar (R-MI), establishes a framework for allied coordination on semiconductor equipment export controls. A companion bill is expected in the Senate, sponsored by Pete Ricketts (R-NE) and Andy Kim (D-NJ).
 
-The bill's mechanism works in two stages. First, it requires the President to enter into negotiations with key allied governments — primarily the Netherlands, Japan, South Korea, and Taiwan — to establish mutual export control standards for semiconductor manufacturing equipment sold to China, with a focus on DUV lithography tools.
+The bill's mechanism works in two stages. First, the bill calls for diplomatic engagement to encourage allies such as the Netherlands and Japan to match US export controls on semiconductor manufacturing equipment.
 
-Second, and more controversially, the bill includes an extraterritoriality provision: if allies fail to align their controls within a defined timeframe (reported to be 18 months), the US can invoke jurisdiction over foreign-made equipment that incorporates US-origin technology — essentially applying US export law to ASML's DUV machines even though they are manufactured in the Netherlands, because they contain components and processes with US origin.
+Second, and more controversially, if allies cannot demonstrate progress within a 150-day deadline, the bill directs the Commerce Department to implement controls unilaterally, including through authorities such as the foreign direct product rule, which can apply US export rules to foreign-made items that incorporate US-made technology or software.
 
 This extraterritorial mechanism is the teeth of the bill. It's also its most diplomatically sensitive element.
 
@@ -62,7 +63,7 @@ European and Japanese government officials have privately pushed back against th
 
 ## The Huawei and SMIC Calculus
 
-The bill specifically names Huawei and SMIC as the targets its proponents are most concerned about. Both companies have demonstrated a persistent ability to find workarounds to existing export restrictions — Huawei's Kirin 9000S chip, manufactured by SMIC using DUV-based multi-patterning, became a symbol of the limits of unilateral controls when it appeared in the Mate 60 Pro in 2023 and subsequent devices.
+The bill names Huawei and SMIC, along with CXMT, Hua Hong and YMTC, as Chinese chipmakers whose facilities would face tighter restrictions. Both companies have demonstrated a persistent ability to find workarounds to existing export restrictions — Huawei's Kirin 9000S chip, manufactured by SMIC using DUV-based multi-patterning, became a symbol of the limits of unilateral controls when it appeared in the Mate 60 Pro in 2023 and subsequent devices.
 
 Since then, SMIC and Huawei have continued to push the boundary of what's achievable with DUV equipment, reportedly achieving lower yields but higher chip densities than independent analysts had expected. The MATCH Act reflects a congressional judgment that this progress, left unchecked, will erode the technology advantage that US chip restrictions are designed to preserve.
 
@@ -79,3 +80,5 @@ There is also a practical question: enforcement. The US has limited ability to d
 What the bill almost certainly will accomplish, even if the extraterritoriality provision is never invoked, is accelerating multilateral negotiations on DUV controls. The credible threat of US extraterritorial action gives European and Japanese governments the domestic political cover to move more aggressively on their own — allowing them to point to Washington's legislation as the forcing function rather than accepting the burden of constraining their own companies voluntarily.
 
 In that sense, the MATCH Act may be more valuable as diplomatic leverage than as legislation. Whether it becomes law, or serves primarily as a negotiating instrument, the message to Beijing is the same: the loopholes in the semiconductor export control regime are getting smaller.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

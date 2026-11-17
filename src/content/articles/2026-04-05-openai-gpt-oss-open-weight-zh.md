@@ -1,8 +1,9 @@
 ---
-title: "OpenAI 七年首度開源：gpt-oss 挑戰 Meta Llama 霸主地位"
-summary: "OpenAI 發布兩款開放權重模型 gpt-oss-20b 與 gpt-oss-120b，採用 Apache 2.0 授權，終結長達七年的開源缺席。這兩款模型針對 AI 代理工作流程最佳化，直接與 Meta Llama 系列在效能與授權彈性上一較高下。"
+title: "OpenAI 以 Apache 2.0 授權發布開放權重模型 gpt-oss"
+summary: "OpenAI 發布兩款開放權重模型 gpt-oss-20b 與 gpt-oss-120b，採用 Apache 2.0 授權。這兩款模型針對代理工作流程與推理任務。"
 category: "ai-ml"
 publishedAt: 2026-04-05T10:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -25,7 +26,7 @@ relatedSlugs:
   - "2026-04-05-noah-labs-fda-voice-heart-failure-zh"
 ---
 
-距離 2019 年發布 GPT-2 以來，OpenAI 沉寂了整整七年，終於再度投身開源社群。2026 年 4 月 4 日，該公司發布兩款完全開放權重的模型 `gpt-oss-20b` 與 `gpt-oss-120b`，採用 Apache 2.0 授權——這是軟體業最寬鬆的開源授權之一。對於一家以「Open」冠名、卻逐漸走向封閉 API 的公司而言，這次發布代表著一次戲劇性的路線轉彎。
+對於一家以「Open」冠名、卻逐漸走向封閉 API 的公司而言，這次發布代表著一次戲劇性的路線轉彎。
 
 ## 模型規格一覽
 
@@ -33,7 +34,7 @@ relatedSlugs:
 
 本次初版為純文字模型，不具備多模態能力。OpenAI 將這兩款模型定位為**代理工作流程**的專屬工具，涵蓋工具呼叫（網頁搜尋、Python 程式執行）、長鏈多輪推理及指令遵循。模型原生支援 OpenAI Responses API，讓開發者幾乎不需修改程式碼，就能在開放模型與 GPT-4o/o3 等閉源端點之間自由切換。
 
-模型同步上架 Hugging Face，並獲得 AWS、Azure、Together AI、Vercel、Cloudflare 及 Databricks 的部署整合支援。透過 Ollama 相容性，任何擁有現代筆電的開發者都能在本機直接執行 `gpt-oss-20b`，無需依賴雲端服務。
+模型同步上架 Hugging Face，並獲得 AWS、Azure、Together AI、Vercel、Cloudflare 及 Databricks 的部署整合支援。Ollama 也是支援的推論實作之一，20B 模型可在 16GB 記憶體內運行，適合消費級硬體。
 
 ## Apache 2.0：今年 AI 界最大膽的授權選擇
 
@@ -57,7 +58,7 @@ OpenAI 公布的評估結果顯示，`gpt-oss-120b` 在 MMLU、GPQA-Diamond 及 
 
 不過，這些模型與 OpenAI 自家前沿產品仍有落差。`gpt-oss-120b` 不及 GPT-4o，更遠遜於 o3。OpenAI 對此立場坦率：這不是頂尖系統的蒸餾版，而是為實際可用性與合理部署成本打造的開放模型。
 
-對台灣開發者而言，`gpt-oss-20b` 尤具吸引力——每次推論僅啟動 36 億個參數，可在單張 A100 GPU 上流暢運行，早期測試者回報其工具呼叫與結構化輸出的可靠性，明顯優於同等算力的過往開源模型。
+對台灣開發者而言，`gpt-oss-20b` 尤具吸引力——每次推論僅啟動 36 億個參數，可在 16GB 記憶體內運行，適合消費級硬體與裝置端應用。
 
 ## Llama 正面對決
 
@@ -70,3 +71,5 @@ Meta 在數週前才發布 Llama 4 Scout，在開源生態中樹立了新的效�
 OpenAI 表示多模態版本（支援圖像與音訊）已在開發路線圖上，但未給出時程。公司也暗示將推出結構化微調計畫，讓企業提交領域專屬資料以獲得客製化變體，且微調後的模型權重仍將維持 Apache 2.0 授權。
 
 目前看來，這次發布印證了業界日益成形的共識：AI 能力的前沿正逐漸與開放性的前沿分離，聰明的實驗室可以同時在兩個維度上競爭，而不必以一換一。OpenAI 能否維持這項承諾，還是終將在競爭壓力下再度走回封閉，是未來十二個月最值得觀察的問題。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 6 處。*

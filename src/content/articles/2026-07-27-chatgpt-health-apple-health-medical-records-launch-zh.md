@@ -1,8 +1,9 @@
 ---
-title: "OpenAI 推出 ChatGPT Health，3 億用戶可接入個人醫療紀錄"
+title: "OpenAI 推出 ChatGPT Health，美國用戶可連接個人醫療紀錄"
 summary: "OpenAI 正式在全美推出 ChatGPT Health 功能，用戶可將 Apple Health、醫院病歷、One Medical 及 Peloton、MyFitnessPal 等健身應用程式連接至 ChatGPT。每週已有逾 3 億人透過 ChatGPT 詢問健康問題，此次更新讓 AI 對話首次得以接觸用戶的真實醫療數據，同時引發 HIPAA 隱私保護適用範圍的法律爭議。"
 category: "products"
 publishedAt: 2026-07-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-07-26-anthropic-claude-opus-5-launch-zh"
 ---
 
-OpenAI 上週悄悄完成了消費者健康科技領域最具份量的產品動作之一：在全美正式推出 ChatGPT Health，讓所有 18 歲以上的已登入用戶能將真實病歷與 Apple Health 資料連接至 ChatGPT 對話。此功能橫跨 Free、Go、Plus、Pro 各個方案，透過網頁與 iOS 均可使用，而其影響早已超越單純的設定開關。
+OpenAI 本週在消費者健康科技領域有一項重要的產品動作：在全美推出 ChatGPT Health，讓已登入的美國成年用戶能將病歷與 Apple Health 資料連接至 ChatGPT 對話。此功能橫跨 Free、Go、Plus、Pro 各個方案，透過網頁與 iOS 均可使用，而其影響早已超越單純的設定開關。
 
 為什麼說這件事意義重大？數字說明一切。OpenAI 表示，每週已有逾 3 億人使用 ChatGPT 詢問健康相關問題。在此次功能推出前，這些對話全屬假設性質——ChatGPT 只能籠統討論症狀與藥物，無從得知眼前這個用戶的實際狀況。ChatGPT Health 從根本上改變了這一點。
 
@@ -40,7 +41,7 @@ OpenAI 上週悄悄完成了消費者健康科技領域最具份量的產品動�
 
 **健身與生活方式平台：** Apple Health（iPhone 用戶的主要健康資料彙整平台）、MyFitnessPal（飲食與熱量記錄）、Peloton（運動與心肺數據）、Instacart（食品雜貨採購紀錄）、AllTrails（戶外活動）、Weight Watchers（飲食管理）。
 
-一旦連接，ChatGPT 可取得藥物清單、檢驗報告、近期門診摘要、睡眠數據、活動量，以及各健康指標的長期變化。預想的使用情境包括：比對新舊檢驗結果的差異、摘要上次就診後的身體變化、或將睡眠與運動模式與自述症狀相互對照。
+一旦連接，ChatGPT 可取得藥物清單、檢驗報告、近期門診摘要、睡眠數據、活動量，以及各健康指標的長期變化。OpenAI 表示，ChatGPT 可協助比對新舊檢驗結果、摘要上次就診後的變化，或探討睡眠、活動量與運動如何與使用者的日常作息相關。
 
 ## 沒人大聲問的 HIPAA 問題
 
@@ -68,8 +69,10 @@ OpenAI 的策略——接入已散落在各系統中的資料，帶入 3 億人�
 
 ## 現在能用什麼、接下來會有什麼
 
-目前功能僅限美國，未公布國際上線時程。需要有效的 ChatGPT 帳號並完成年齡驗證（18 歲以上）。Apple Health 整合目前僅限 iOS，使用 Android 裝置或無 iPhone 的桌面用戶暫時無法使用。
+目前功能僅限美國，未公布國際上線時程。此功能提供給美國 18 歲以上、已登入的 ChatGPT 用戶使用。Apple Health 整合目前僅限 iOS，使用 Android 裝置或無 iPhone 的桌面用戶暫時無法使用。
 
 OpenAI 尚未公布目前支援的醫院名單，僅以「美國醫療院所」概括，預計隨後續 FHIR 整合協議陸續簽署而擴展。One Medical 與 Function Health 已於首發完整整合。
 
 至於是否會納入更多敏感類別——生殖健康追蹤、心理健康服務、藥物戒癮輔助工具——將是 OpenAI 如何在功能效益與最脆弱用戶隱私保護之間取得平衡的重要考驗。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

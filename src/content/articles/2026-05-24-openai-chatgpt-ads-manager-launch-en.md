@@ -1,8 +1,9 @@
 ---
-title: "OpenAI Opens ChatGPT Ads to Everyone: Self-Serve Platform Targets $2.5B in Ad Revenue This Year"
-summary: "OpenAI has launched a self-serve Ads Manager for ChatGPT, eliminating minimum spend requirements and opening its advertising platform to businesses of any size. The platform generated $100 million in annualized revenue within its first six weeks and is backed by agency giants Dentsu, Omnicom, Publicis, and WPP — signaling a fundamental shift in how OpenAI plans to monetize its 700 million users ahead of its anticipated IPO."
+title: "OpenAI Launches Self-Serve Ads Manager for ChatGPT as It Targets $2.5B in Ad Revenue This Year"
+summary: "OpenAI has launched a beta self-serve Ads Manager for ChatGPT in the U.S., with plans to open it to more businesses gradually. The ads pilot topped $100 million in annualized revenue in under two months and works with agencies including Dentsu, Omnicom, Publicis, and WPP."
 category: "industry"
 publishedAt: 2026-05-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -30,21 +31,21 @@ relatedSlugs:
   - "2026-05-23-openai-q1-2026-revenue-57b-codex-losses-en"
 ---
 
-OpenAI has officially entered the advertising business, and it's moving fast. The company launched a self-serve Ads Manager for ChatGPT in early May, eliminating the $50,000 minimum spend requirement that previously limited campaign access to enterprise advertisers and large agencies. Any business can now register, set a budget, upload ads, and launch a campaign that appears inside ChatGPT conversations — no agency relationship required.
+OpenAI has officially entered the advertising business, and it's moving fast. Businesses can now register as advertisers, add payment information, set budgets, upload ads, and launch campaigns through a portal, and OpenAI plans to open the Ads Manager to more businesses gradually.
 
 The move represents the most significant business model expansion in OpenAI's history. The company has built a subscription business worth billions in annual recurring revenue, but subscriptions alone will not fund the frontier AI research, compute infrastructure, and global expansion that OpenAI's ambitions require. Advertising — distributed across 700 million monthly active users who engage with ChatGPT for everything from research to creative work to daily task management — offers a revenue ceiling that subscription pricing simply cannot match.
 
-The early numbers validate the thesis. OpenAI's advertising pilot, which launched in February 2026 with a closed group of brand partners, generated $100 million in annualized revenue within its first six weeks. That pace of advertiser uptake is faster than virtually any other digital advertising platform launch in history, driven in part by what industry observers have called "FOMO-fueled spending" — brands that don't understand ChatGPT ads yet, but are terrified of being left behind.
+The early numbers validate the thesis. OpenAI's advertising pilot, which launched in February 2026, topped $100 million in annualized revenue less than two months after launch. That pace of advertiser uptake is faster than virtually any other digital advertising platform launch in history, driven in part by what industry observers have called "FOMO-fueled spending" — brands that don't understand ChatGPT ads yet, but are terrified of being left behind.
 
 ## How ChatGPT Ads Actually Work
 
-The core mechanic is a sponsored result experience embedded naturally within ChatGPT conversations. When a user asks a question that matches an advertiser's campaign criteria — searching for a product recommendation, researching a purchase, seeking a service provider — a clearly labeled sponsored response or placement appears alongside the AI's answer.
+The core mechanic is a sponsored result experience embedded naturally within ChatGPT conversations. When a user asks a question that matches an advertiser's campaign criteria, a clearly labeled sponsored ad appears at the bottom of the AI's answer.
 
-Critically, OpenAI has designed the system so that advertisers receive only aggregated performance data, not individual conversation content. User privacy protections prevent advertisers from seeing what was said in any specific conversation; they see only click-through rates, conversion events, and aggregate demographic signals. OpenAI has repeatedly framed this as its core differentiator from search advertising, where keyword targeting inevitably implies access to user intent data.
+Critically, OpenAI has designed the system so that advertisers receive only aggregated performance data, not individual conversation content. User privacy protections prevent advertisers from seeing conversations, chat history, names, email addresses, or IP addresses; they receive only aggregated performance data showing total views and clicks. OpenAI has repeatedly framed this as its core differentiator from search advertising, where keyword targeting inevitably implies access to user intent data.
 
-The platform launched with two bidding models: cost-per-click at a recommended starting bid of $3–$5 per click, and cost-per-thousand-impressions (CPM) initially set at $60. Within ten weeks of the initial pilot, CPM rates had eroded to approximately $25 as inventory supply grew faster than advertiser demand — a pattern familiar from every digital advertising market's early days.
+The pilot launched in February with a CPM model, with the CPM initially set at $60; cost-per-click bidding, with bids between $3 and $5 per click, came later. Within ten weeks of the initial pilot, CPM rates had eroded to as low as $25 in some cases.
 
-The self-serve Ads Manager launch in May replaced the CPM model's erosion problem with a more structured CPC-primary framework and introduced expanded measurement tools, allowing businesses to track performance in near-real time without requiring agency mediation.
+The self-serve Ads Manager launch in May introduced cost-per-click bidding and expanded measurement tools, allowing businesses to view performance through a portal.
 
 ## The Agency Ecosystem
 
@@ -54,7 +55,7 @@ These partnerships give agencies early access to beta features, volume discounts
 
 Technology platform integrations round out the ecosystem. Adobe, Criteo, Kargo, Pacvue, and StackAdapt have all integrated with the Ads Manager, allowing advertisers to manage ChatGPT campaigns alongside their existing digital advertising workflows rather than through a separate interface.
 
-Brands that participated in the initial closed pilot include Target, Albertsons, and Williams-Sonoma — a mix that skews toward retail and consumer goods, categories where purchase intent signals are particularly valuable and where ChatGPT's role as a product research tool is well established.
+Brands that have participated in the ads pilot include Target, Albertsons, and Williams-Sonoma.
 
 ## The Revenue Math
 
@@ -72,8 +73,10 @@ The arrival of ChatGPT Ads creates genuine uncertainty for Google and Meta in a 
 
 For advertisers, the smart play in the current moment is exploratory: test ChatGPT ads with a portion of existing digital budget, measure actual conversion performance against established channels, and adjust allocation based on results rather than hype. The platforms that offer the clearest performance measurement will accumulate budget faster; OpenAI's expansion of measurement tools in the self-serve launch appears designed with exactly this dynamic in mind.
 
-Expansion is already planned. OpenAI has announced it will extend the ChatGPT Ads pilot to the United Kingdom, Mexico, Brazil, Japan, and South Korea in the coming weeks — markets that collectively represent substantial additional user bases where advertisers have not yet had access to the platform.
+Expansion is already planned. Expansion is already planned. OpenAI has announced it will extend the ChatGPT Ads pilot to the United Kingdom, Mexico, Brazil, Japan, and South Korea.
 
-For OpenAI, the advertising business serves one more strategic function beyond revenue: it accelerates the path to IPO. OpenAI filed a confidential S-1 in late May and is reportedly targeting a September public offering. Demonstrating a credible, high-growth advertising revenue stream alongside its subscription business substantially improves the company's public market story. Investors understand advertising businesses. They understand scale and take rates and CPCs. Whether or not the $100 billion target is realistic, the shape of the business is legible in a way that "AI research lab monetization" is not.
+For OpenAI, the advertising business serves one more strategic function beyond revenue: it accelerates the path to IPO. OpenAI's internal targets reportedly include an IPO filing in the second half of this year. Demonstrating a credible, high-growth advertising revenue stream alongside its subscription business substantially improves the company's public market story. Investors understand advertising businesses. They understand scale and take rates and CPCs. Whether or not the $100 billion target is realistic, the shape of the business is legible in a way that "AI research lab monetization" is not.
 
 The age of AI-native advertising has arrived. OpenAI intends to own it.
+
+*Correction (November 15, 2026): 13 sentences were corrected or removed to match the sources listed on this page.*

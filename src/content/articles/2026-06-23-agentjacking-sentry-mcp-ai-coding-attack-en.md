@@ -1,8 +1,9 @@
 ---
 title: "Agentjacking: A Single Fake Bug Report Can Hijack Claude Code, Cursor, and Codex"
-summary: "Security researchers at Tenet Security have disclosed 'Agentjacking,' a new attack technique that exploits Sentry's Model Context Protocol integration to inject malicious instructions into AI coding agents. With an 85% success rate against Claude Code, Cursor, and Codex, the attack exposed 2,388 organizations—including a Fortune 100 tech firm—by disguising attacker code as legitimate error-resolution guidance. Sentry declined to fix the root cause, instead deploying a content filter."
+summary: "Security researchers at Tenet Security have disclosed 'Agentjacking,' a new attack technique that exploits Sentry's Model Context Protocol integration to inject malicious instructions into AI coding agents. With an 85% success rate across leading agents including Claude Code, Cursor, and Codex, the attack disguises attacker code as legitimate error-resolution guidance, and Tenet found 2,388 organizations with injectable DSNs. Sentry introduced a content filter for a specific payload string."
 category: "developer-tools"
 publishedAt: 2026-06-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,9 +34,9 @@ relatedSlugs:
   - "2026-06-12-opencode-displaces-cursor-ai-coding-agent-en"
 ---
 
-AI coding agents have spent the past two years being handed progressively more power: access to terminals, file systems, browser automation, and external APIs. Tenet Security's disclosure of a technique called Agentjacking, published this week, illustrates precisely why that expanding attack surface warrants urgency.
+AI coding agents have spent the past two years being handed progressively more power: access to terminals, file systems, browser automation, and external APIs. Tenet Security's disclosure of a technique called Agentjacking illustrates precisely why that expanding attack surface warrants urgency.
 
-The attack requires no breach, no authentication, and no malware. A single HTTP POST request—less effort than filing a real bug report—can cause Claude Code, Cursor, or OpenAI Codex to execute arbitrary attacker code on a developer's machine, with the developer's own privileges. Tenet's researchers identified 2,388 organizations with exploitable configurations and tested the technique against more than 100 companies, including at least one Fortune 100 technology firm. The success rate: 85%.
+The attack requires no breach, no authentication, and no malware. A single HTTP POST request—less effort than filing a real bug report—can cause Claude Code, Cursor, or OpenAI Codex to execute arbitrary attacker code on a developer's machine, with the developer's own privileges. Tenet's researchers identified 2,388 organizations with injectable Sentry DSNs and reported more than 100 confirmed cases of real-agent execution, including at a Fortune 500 cloud enterprise. The success rate: 85%.
 
 ## The Architecture of Trust—and Its Exploitation
 
@@ -76,7 +77,7 @@ This isn't a failure of any single product. It reflects a structural gap in how 
 
 Tenet estimated that at least 2,388 organizations currently have Sentry DSNs that could be used to inject malicious events. This figure was derived by scanning public web properties for exposed DSNs—a passive technique requiring no credentials or prior access to target systems.
 
-Of the organizations Tenet tested, AI assistants at more than 100 companies executed the researchers' test payload, confirming live exploitation potential. At least one Fortune 100 technology firm was among those confirmed vulnerable. The researchers coordinated responsible disclosure before publication, notifying Sentry and the affected AI tooling vendors.
+Tenet reports more than 100 confirmed cases of real-agent execution, across enterprises, hosting providers, scientific software firms, startups, and individual developers. The confirmed cases included a Fortune 500 cloud enterprise. The researchers coordinated responsible disclosure before publication, notifying Sentry and the affected AI tooling vendors.
 
 ## Sentry's Response: Content Filtering, Not Root Cause
 
@@ -105,3 +106,5 @@ Agentjacking is not an isolated vulnerability. It is an instance of a broader at
 The Sentry case is particularly instructive because the exploited channel is intentionally public by design. The DSN is meant to be visible; Sentry's entire architecture assumes the event ingestion endpoint is accessible to unauthenticated clients. When an AI agent treats that endpoint's output as trusted instructions, a design decision that was correct for error monitoring becomes a security liability for autonomous code execution.
 
 For AI tooling vendors, the lesson is that standard threat models for developer integrations do not translate cleanly to agentic contexts. Data retrieved from external services requires integrity verification mechanisms that the current MCP ecosystem does not mandate. Until those mechanisms exist, the Authorized Intent Chain represents a persistent risk surface that grows with every new MCP server added to a developer's agent configuration.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

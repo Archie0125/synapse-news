@@ -1,8 +1,9 @@
 ---
 title: "Nvidia's Vera Rubin Rack Hits $7.8 Million as Memory Costs Explode 435%"
-summary: "A Morgan Stanley analysis puts the cost of a single Nvidia Vera Rubin VR200 NVL72 rack at $7.8 million—nearly double the Blackwell generation's $3.5–4 million—driven by a 435% surge in HBM4 and LPDDR5X memory prices that now account for 25% of total system cost. With volume shipments starting Q3 2026 and some analysts predicting prices as high as $9.1 million per rack, the Vera Rubin generation marks a structural shift: GPU cost no longer dominates AI infrastructure pricing."
+summary: "A Morgan Stanley analysis puts the cost of a single Nvidia Vera Rubin VR200 NVL72 rack at $7.8 million, driven by a 435% surge in memory costs that now account for 26% of total system cost. With first shipments in Q3 2026, a volume ramp in Q4 and Bernstein estimating as much as $9.1 million per rack, memory is taking a growing share of AI rack pricing."
 category: "hardware"
 publishedAt: 2026-06-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -32,31 +33,31 @@ relatedSlugs:
   - "2026-06-14-nvidia-sk-hynix-ai-memory-partnership-en"
 ---
 
-The GPU is no longer the most important line item in an AI infrastructure purchase. A new Morgan Stanley research note on Nvidia's forthcoming Vera Rubin generation has landed a number that is reshaping how hyperscalers and infrastructure investors think about AI capex: a single **VR200 NVL72 rack costs an estimated $7,803,148**—nearly double the $3.5–4 million price tag of the Blackwell NVL72 generation it replaces. The primary culprit is memory. HBM4 and LPDDR5X prices have surged **435%** from Blackwell to Rubin, pushing the memory bill for a single rack past **$2 million**—roughly 26% of total system cost.
+The GPU is no longer the most important line item in an AI infrastructure purchase. A new Morgan Stanley research note on Nvidia's forthcoming Vera Rubin generation has landed a number that is drawing attention: a single **VR200 NVL72 rack costs an estimated $7,803,148**. The primary culprit is memory. Memory costs have surged **435%** from Grace Blackwell to Vera Rubin, pushing the combined HBM4 and LPDDR5X bill for a single rack past **$2 million**—roughly 26% of total system cost.
 
-The Vera Rubin generation, confirmed for initial shipments in Q3 2026 with volume ramp in Q4, marks the most significant structural shift in AI rack economics since Nvidia introduced the NVL72 form factor with Blackwell. The story of AI infrastructure pricing is no longer primarily about GPU silicon; it is about memory.
+The Vera Rubin generation is confirmed for initial shipments in Q3 2026, with volume ramp in Q4. The story of AI infrastructure pricing is no longer primarily about GPU silicon; it is about memory.
 
 ## The Cost Anatomy of a Vera Rubin Rack
 
 Understanding why the VR200 NVL72 rack costs what it costs requires looking at each component category separately:
 
-**GPUs.** Each Rubin GPU is expected to cost approximately $55,000 at hyperscaler volume, with the Vera CPU companion chip adding about $5,000 per unit. An NVL72 rack contains 72 GPUs, putting the raw silicon cost at roughly $4.3 million—still the largest single line item, but now representing a smaller share of total system cost than in previous generations.
+**GPUs.** Each Rubin GPU is expected to cost approximately $55,000, with each Vera CPU adding roughly $5,000. An NVL72 rack contains 72 GPUs, putting the GPU cost at almost $4 million—the single most expensive item in the rack, and a 57% increase over the roughly $2.5 million for the Blackwell B300 NVL72 rack's GPUs.
 
-**Memory.** This is where the story changes. The VR200 NVL72 carries **20.7 terabytes of HBM4** (High Bandwidth Memory 4) and **54 terabytes of LPDDR5X**, totaling approximately $2 million in memory cost alone. HBM4, the latest generation of stacked high-bandwidth memory co-designed by Nvidia and SK Hynix (their AI memory partnership announced earlier in June), prices at roughly $53 per gigabyte at current rates—nearly triple the cost of HBM3e used in Blackwell systems. This memory escalation reflects both the scarcity of advanced HBM4 production capacity and a deliberate architectural choice: Rubin systems require substantially more memory bandwidth to feed the increased parallelism of the Vera CPU–GPU integration.
+**Memory.** This is where the story changes. The VR200 NVL72 carries **20.7 terabytes of HBM4** (High Bandwidth Memory 4) and **54 terabytes of LPDDR5X**, totaling approximately $2 million in memory cost alone. HBM4, the latest generation of stacked high-bandwidth memory, is expected by Bernstein to reach $53 per gigabyte in 2027, well above the roughly $16.6 per gigabyte at which Bernstein says it lands at a similar figure to the $7.8 million estimate. This memory escalation reflects both the scarcity of advanced HBM4 production capacity and a deliberate architectural choice: Rubin systems require substantially more memory bandwidth to feed the increased parallelism of the Vera CPU–GPU integration.
 
 **Storage.** A new addition to the VR200 NVL72 bill of materials is approximately **$1 million in 3D NAND storage**—a figure that was effectively zero in the GB200 NVL72 generation. This reflects Nvidia's integration of local high-speed storage into the rack design for agentic workloads that require persistent context and fast retrieval of large model checkpoints.
 
-**Balance of system.** PCBs, power delivery, networking (ConnectX-9 NICs), cooling infrastructure, and chassis account for the remaining ~$450,000, with higher per-unit costs driven by denser power delivery requirements for the Vera CPU architecture.
+**Balance of system.** The remaining roughly $2 million covers NVLink switches, networking chips, cooling, power supply, PCBs, ABF substrates, MLCC and other components.
 
 ## The Market Implications
 
-The $7.8 million figure—which Bernstein analysts believe could reach **$9.1 million** by the time OEM markups and system integration fees are applied—has several immediate consequences for the AI infrastructure market:
+The $7.8 million figure—which Bernstein analysts believe could reach **$9.1 million** per rack if higher HBM4 memory prices are factored in—has several immediate consequences for the AI infrastructure market:
 
 **Hyperscaler capex will increase even if rack counts hold flat.** A hyperscaler that bought 1,000 NVL72 Blackwell racks at $3.5 million each—$3.5 billion total—faces an $7.8 billion bill for the same number of Vera Rubin racks. This helps explain why Microsoft, Google, Amazon, and Meta have been revising their 2026 capex guidance upward throughout Q1 and Q2, even as they have been careful to avoid specifying rack quantities.
 
 **Memory suppliers become indispensable infrastructure.** SK Hynix, Samsung, and Micron—the only manufacturers capable of producing HBM4 at volume—are now as critical to AI infrastructure buildout as TSMC. Nvidia's partnership with SK Hynix for AI memory, announced this month, is less a marketing arrangement and more a supply chain lifeline: Nvidia needs guaranteed HBM4 allocation to keep shipment commitments to hyperscalers.
 
-**The GPU as a fraction.** In the Blackwell era, GPUs accounted for roughly 60–65% of a rack's cost. In Vera Rubin, that share drops to approximately 55%. Memory's share rises from around 8% to 26%. Storage, effectively zero in Blackwell, becomes a meaningful 13%. This diversification of cost is structurally significant: it means the suppliers that benefit from the AI infrastructure boom are expanding beyond pure semiconductor design, into memory stacking, advanced packaging, and storage tiers.
+**The GPU as a fraction.** Memory's share rises from around 9% to 26%. This diversification of cost is structurally significant: it means the suppliers that benefit from the AI infrastructure boom are expanding beyond pure semiconductor design, into memory stacking, advanced packaging, and storage tiers.
 
 ## Why Vera Rubin Is More Expensive By Design
 
@@ -80,4 +81,6 @@ One of the more telling data points in the Vera Rubin story is what it implies f
 
 The AI infrastructure boom has, in this sense, triggered the most significant shift in the semiconductor value chain since the rise of mobile—moving billions of dollars of value from logic chips (where Nvidia captures enormous margin) toward memory (where HBM4 suppliers capture enormous margin). Both can be true simultaneously, which is why the AI infrastructure investment cycle is generating financial returns for an unusually broad coalition of hardware companies.
 
-Volume Vera Rubin shipments begin in Q4 2026. The rack price will be the number that shapes AI infrastructure economics for the next two years.
+Vera Rubin shipments begin in Q3 2026, with volume ramp in Q4. The rack price will be the number that shapes AI infrastructure economics for the next two years.
+
+*Correction (November 15, 2026): 14 sentences were corrected or removed to match the sources listed on this page.*

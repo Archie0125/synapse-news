@@ -1,8 +1,9 @@
 ---
 title: "Nadella on the Stand: Microsoft Feared Becoming 'the Next IBM' in Its OpenAI Bet"
-summary: "Microsoft CEO Satya Nadella testified Monday in the Musk v. Altman trial, revealing an internal email in which he warned that Microsoft could become 'the next IBM' while OpenAI became 'the next Microsoft.' The testimony exposed the strategic anxiety behind Microsoft's $13 billion investment in OpenAI, as well as Nadella's admission that partnering with OpenAI was a 'one-way door' that forced Microsoft to divert scarce computing resources from its own AI development."
+summary: "Microsoft CEO Satya Nadella testified Monday in the Musk v. Altman trial, where he was questioned about a 2022 email in which he wrote, \"I don't want to be IBM and OpenAI to be Microsoft.\" He also testified that Musk never raised concerns with him about Microsoft's more than $13 billion investment in OpenAI."
 category: "industry"
 publishedAt: 2026-05-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -36,7 +37,7 @@ Satya Nadella, who has stewarded Microsoft's transformation from a stagnating so
 
 ## The IBM Email
 
-The morning's most explosive moment came courtesy of Elon Musk's lead trial attorney, Steven Molo, who introduced an internal Microsoft email dated April 2022. In it, Nadella wrote a warning to his team as Microsoft was preparing to commit an additional $10 billion to OpenAI: he did not want Microsoft to become "the next IBM" while OpenAI became "the next Microsoft."
+Musk lawyer Steven Molo asked Nadella about an email Nadella sent in 2022 to Microsoft executives regarding terms that would be favorable when collaborating with OpenAI. In it, Nadella wrote, "I don't want to be IBM and OpenAI to be Microsoft."
 
 The IBM parallel was deliberately chosen and surgically precise. IBM dominated the computing industry of the 1970s, then famously allowed Microsoft to retain the rights to MS-DOS when licensing it for IBM's personal computers — a decision that handed Microsoft the platform leverage that made it the defining technology company of the following two decades. IBM built the hardware; Microsoft owned the software that ran on it. IBM became a vendor to its own strategic partner.
 
@@ -77,3 +78,5 @@ The stakes are not merely reputational. Musk's lawsuit seeks roughly $134 billio
 Nadella's testimony added texture to that defense without resolving its central tension. Microsoft invested in OpenAI because it believed the mission was real and the models would be transformative. It also invested because it feared what would happen to Microsoft if it did not. Those two motivations coexisted in April 2022, as they do now.
 
 Whether a jury finds that coexistence compatible with OpenAI's nonprofit obligations is the question the next two weeks will answer.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

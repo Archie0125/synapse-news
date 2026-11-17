@@ -1,8 +1,9 @@
 ---
 title: "DeepSeek Makes Its 75% Price Cut on V4-Pro Permanent, Ratcheting Up the Global AI Pricing War"
-summary: "DeepSeek has made the 75% promotional discount on its flagship V4-Pro model the permanent list price, dropping input costs to $0.435 per million tokens — roughly 100x cheaper than Claude Opus 4.7 on comparable tasks. The move arrives as four Chinese labs released competing open-weight coding models within a 12-day window, signaling a structural acceleration in the race to commoditize inference."
+summary: "DeepSeek has cut the price of its flagship V4-Pro model by 75%, with a post-discount cache-hit price starting at $0.003625 per million tokens and output at $0.87 per million tokens, according to InfoWorld's reporting of the company's announcement."
 category: "ai-ml"
 publishedAt: 2026-05-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 On May 22, 2026, DeepSeek announced that the 75% promotional discount on its DeepSeek-V4-Pro API — originally scheduled to expire on May 31 — would not roll back. What began as a developer acquisition play has become the company's permanent pricing strategy, and the implications for the global AI inference market are significant.
 
-The new permanent rates: **$0.435 per million input tokens**, **$0.87 per million output tokens**, and **$0.003625 per million cached tokens** — the last figure representing a tenth of previous cache pricing across DeepSeek's entire API suite. Compare those numbers to Claude Opus 4.7's $5/$25 per million input/output tokens, or GPT-5's mid-tier pricing, and the order-of-magnitude gap is not a rounding error. For cost-sensitive workloads running at scale — legal document review, code analysis pipelines, enterprise data extraction — developers are being offered frontier-class capability at prices that would have seemed satirical eighteen months ago.
+The new rates: **$0.87 per million output tokens** at the top end, and **$0.003625 per million tokens** at the low end for cache hits — after DeepSeek also cut cache-hit prices across its entire API suite to a tenth of previous levels. Compare those numbers to Claude Opus 4.7's $5/$25 per million input/output tokens, or GPT-5's mid-tier pricing, and the order-of-magnitude gap is not a rounding error. For cost-sensitive workloads running at scale — legal document review, code analysis pipelines, enterprise data extraction — developers are being offered frontier-class capability at prices that would have seemed satirical eighteen months ago.
 
 ## What V4-Pro Actually Is
 
@@ -45,9 +46,7 @@ That combination — near-frontier coding capability, 1M context, MoE inference 
 
 ## The 12-Day Chinese Model Surge
 
-DeepSeek's pricing announcement didn't land in isolation. In the twelve days straddling the May 22 announcement, four Chinese labs released competing open-weight frontier coding models: Z.ai's GLM-5.1, MiniMax's M2.7, Moonshot AI's Kimi K2.6, and DeepSeek V4 itself. All four hit roughly the same capability ceiling on agentic engineering benchmarks while offering inference costs meaningfully below Western frontier models.
-
-This coordinated — or rather convergent — release wave represents a structural shift in how Chinese AI labs are competing. Where the original DeepSeek-V3 release in January 2025 felt like a surprise attack, the current pattern looks more like a sustained industrial strategy: parallel teams racing to the capability frontier with efficiency optimization as a differentiator, compressing pricing to drive API adoption before revenue monetization of enterprise accounts.
+Where DeepSeek's R1 release in January 2025 felt like a surprise attack, the current pattern looks more like a sustained strategy of compressing pricing to drive API adoption.
 
 The model quality gap between the Chinese frontier and Western frontier has narrowed substantially. V4-Pro at 80.6% SWE-bench sits below Claude Opus 4.7 and GPT-5 on the same benchmark, but close enough that for the 90% of real-world coding tasks that don't require absolute state-of-the-art reasoning, the cost differential matters more than the benchmark differential.
 
@@ -74,3 +73,5 @@ No analysis of DeepSeek pricing can ignore the regulatory dimension. The NIST CA
 Some enterprises are already responding by running open-weight versions of DeepSeek models on their own infrastructure — either on-premise or in U.S.-based cloud — rather than using the hosted API. DeepSeek releases its models with weights publicly available, which means the pricing signal is about hosted API competition while the technology itself is accessible regardless of geopolitical developments.
 
 For the broader AI industry, the permanent 75% price cut is less a pricing event than a market structure event. It establishes a new floor that competitors cannot ignore, and it does so at a capability level that makes the floor credible for a substantial portion of real enterprise workloads. The pricing war Satya Nadella and Sam Altman both alluded to in various earnings calls over the past year is no longer a future scenario. It is the present reality.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

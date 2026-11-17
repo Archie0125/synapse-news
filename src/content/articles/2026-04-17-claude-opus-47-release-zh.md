@@ -1,8 +1,9 @@
 ---
 title: "Claude Opus 4.7 重奪 AI 榜首：視覺能力大躍進，代理任務顯著提升"
-summary: "Anthropic 於 4 月 16 日發布 Claude Opus 4.7，在幾乎所有主要基準測試上超越 GPT-5.4 與 Gemini 3.1 Pro。SWE-bench Verified 分數攀升至 87.6%，視覺準確率從 54.5% 飆升至 98.5%，全新「xhigh」算力層級讓模型能在數小時的自主工作流程中維持高強度推理，定價與前一代維持不變。"
+summary: "Anthropic 發布 Claude Opus 4.7，在 SWE-bench Pro 與 SWE-bench Verified（87.6%）上對 GPT-5.4 與 Gemini 3.1 Pro 取得領先成績，並推出全新「xhigh」算力層級，定價與前一代維持不變。"
 category: "ai-ml"
 publishedAt: 2026-04-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
 
 # Claude Opus 4.7 重奪 AI 榜首：視覺能力大躍進，代理任務顯著提升
 
-Anthropic 於週三發布 Claude Opus 4.7，締造了該公司自 Opus 4 首發以來單代最大幅度的能力躍升。新模型在程式開發、代理推理與視覺任務的排行榜上全面領先——在企業開發者最關注的幾乎所有指標上超越 OpenAI 的 GPT-5.4 與 Google 的 Gemini 3.1 Pro——且定價與前代完全相同。
+Anthropic 發布 Claude Opus 4.7，在 SWE-bench Pro 與 SWE-bench Verified（87.6%）上對 GPT-5.4 與 Gemini 3.1 Pro 取得領先成績，並推出全新「xhigh」算力層級。新模型在程式開發與代理推理基準測試上領先——在其中數項測試中領先 OpenAI 的 GPT-5.4 與 Google 的 Gemini 3.1 Pro——且定價與前代完全相同。
 
 發布時機頗具意義。Anthropic 十天前剛披露年化營收突破 300 億美元，而前沿 AI 榜首之爭從未如此激烈：GPT-5.4 於今年三月初亮相，Gemini 3.1 Pro 緊隨二月登場，Opus 4.7 現在重新奪回 Anthropic 今年稍早失去的領先優勢。
 
 ## 基準數字一覽
 
-成績難以輕描淡寫。在業界引用最廣的軟體工程評測 SWE-bench Verified 上，Opus 4.7 拿下 87.6% 的分數，Opus 4.6 則為 80.8%——單代提升近 7 個百分點。在 80% 至 90% 這個區間，每一個百分點的差距，代表的是模型能否應付幾乎所有真實工程票券的分野。
+成績難以輕描淡寫。在 SWE-bench 的精選子集 SWE-bench Verified 上，Opus 4.7 拿下 87.6% 的分數，Opus 4.6 則為 80.8%——單代提升近 7 個百分點。在 80% 至 90% 這個區間，每一個百分點的差距，代表的是模型能否應付幾乎所有真實工程票券的分野。
 
-訓練集汙染程度更低的 SWE-bench Pro 漲幅更為陡峭：從 53.4% 躍升至 64.3%。模擬真實 IDE 多步驟程式編輯的 CursorBench 則從 58% 跳至 70%。OpenAI 現行旗艦 GPT-5.4 Thinking 在上述兩項評測的得分分別為 58% 與 62%。
+訓練集汙染程度更低的 SWE-bench Pro 漲幅更為陡峭：從 53.4% 躍升至 64.3%。模擬真實 IDE 多步驟程式編輯的 CursorBench 則從 58% 跳至 70%。GPT-5.4 在 SWE-bench Pro 上得分為 57.7%，落後 Opus 4.7 的 64.3%。
 
 在財務分析任務上——Anthropic 企業營收的重要來源——Opus 4.7 拿到 78.4%，GPT-5.4 Thinking 為 69.1%，Gemini 3.1 Pro 為 72.2%。Cursor 在發布後數小時即推送部落格文章，強調程式開發能力的提升；GitHub 已排定下週發表基準測試回應。
 
@@ -54,7 +55,7 @@ Opus 4.7 最戲劇性的進步在於視覺理解——直到仔細檢視測試�
 
 ## 全新 xhigh 算力層級
 
-Anthropic 同時推出名為「xhigh」的新算力層，插入現有的 high 與 max 之間。Anthropic 建議大多數程式開發和代理使用場景從 high 或 xhigh 開始，Claude Code 現在對所有訂閱方案均預設使用 xhigh。
+Anthropic 同時推出名為「xhigh」的新算力層，插入現有的 high 與 max 之間。Anthropic 建議程式開發和代理使用場景從 high 或 xhigh 開始，Claude Code 現在對所有方案均預設使用 xhigh。
 
 這個新層級的設計邏輯反映了一個不那麼直觀的現象：在長時間代理對話中，當上下文密度極高、模型必須整合大量先前工具呼叫後才能行動時，有效推理深度往往會逐漸衰退，低於模型的理論上限。xhigh 設定的目的，正是讓模型在多小時的工作流程中持續維持高強度推理，而非隨對話延伸而退化。
 
@@ -81,3 +82,5 @@ Opus 4.7 定價與前代完全相同：透過 Anthropic API 每百萬輸入 toke
 更值得關注的是節奏本身：GPT-5.4 三月登場，Gemini 3.1 Pro 二月亮相，Opus 4.7 四月發布。曾經一年一度的前沿模型發布，現在以季度為週期，每代都帶來兩位數的基準提升。對正在評估要在哪個 AI 平台上深度押注的企業而言，這個速度讓長期平台鎖定成為一場危險的賭注——這也有助於解釋，為什麼 Anthropic、OpenAI 和 Google 都在競相加深工作流程整合和 API 黏著度，而不只是提升原始模型能力。
 
 Opus 4.7 是 Anthropic 迄今對「能否在商業規模化的同時維持技術領先」這個問題給出的最有力回答。年化營收 300 億美元且持續成長，這家公司現在有足夠的資源繼續作答。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 10 處。*

@@ -1,8 +1,9 @@
 ---
-title: "Google DeepMind's AlphaProof Nexus Solves 9 Decades-Old Erdős Problems for a Few Hundred Dollars Each"
+title: "Google DeepMind's AlphaProof Nexus Solves 9 Open Erdős Problems for a Few Hundred Dollars Each"
 summary: "Google DeepMind published a landmark arXiv paper on May 21 showing its AlphaProof Nexus agent autonomously proved 9 open Erdős problems and 44 OEIS conjectures using a combination of Gemini and Lean formal verification, at a cost of just a few hundred dollars per problem — reshaping what AI-assisted mathematical research looks like."
 category: "ai-ml"
 publishedAt: 2026-05-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-05-19-google-io-2026-keynote-gemini-project-astra-android-xr-en"
 ---
 
-When OpenAI announced last week that its AI had cracked a longstanding Erdős conjecture in discrete geometry, the mathematical community sat up. Within days, Google DeepMind answered with something significantly larger in scope: a new system called AlphaProof Nexus that has autonomously solved nine open problems from Paul Erdős's legendary list — two of which had been unsolved for 56 years — and proved 44 conjectures from the Online Encyclopedia of Integer Sequences (OEIS). The cost of this mathematical heavy lifting? A few hundred dollars per problem.
+Last week, OpenAI announced that its AI had disproved an 80-year-old Erdős conjecture. Just a day later, Google DeepMind answered with a new system called AlphaProof Nexus that has autonomously solved nine open problems from Paul Erdős's legendary list — two of which had been unsolved for 56 years — and proved 44 conjectures from the Online Encyclopedia of Integer Sequences (OEIS). The cost of this mathematical heavy lifting? A few hundred dollars per problem.
 
 The results, published in an arXiv preprint (2605.22763v1) on May 21, 2026, represent the most comprehensive demonstration yet of AI's capacity to contribute original work to frontier mathematics — not just verify human proofs, but discover them.
 
@@ -54,13 +55,13 @@ AlphaProof Nexus tackled 353 open problems from this list and solved 9 — rough
 
 A second problem, also 56 years old, involves extremal graph theory — asking about the maximum density of a graph that avoids a specific subgraph pattern. AlphaProof Nexus produced a proof that tightened known bounds.
 
-On the OEIS front, the system addressed 492 open conjectures — primarily about integer sequences that lack any known closed-form or structural explanation — and proved 44 of them. Several of these had been added to the OEIS database more than a decade ago with no progress until now.
+On the OEIS front, the system addressed 492 open conjectures and proved 44 of them. Several of these had been added to the OEIS database more than a decade ago with no progress until now.
 
 All proofs, in both machine-readable Lean format and human-readable prose, have been published in a public GitHub repository maintained by DeepMind.
 
 ## The Economics of Mathematical Discovery
 
-Perhaps the most startling aspect of the paper is not which problems were solved, but what it cost to solve them. DeepMind reports that inference costs for each problem ranged from roughly $100 to $500 — less than a graduate student's weekly stipend.
+Perhaps the most startling aspect of the paper is not which problems were solved, but what it cost to solve them. DeepMind reports that each problem cost a few hundred dollars to solve.
 
 This shifts a fundamental economic assumption about research mathematics. Historically, mathematical discovery has been constrained by human attention: the number of brilliant researchers, their finite working hours, and the slow accumulation of intuition over careers. AlphaProof Nexus suggests a near-term world in which an AI system can ingest an entire corpus of open problems, run for a few hours on commodity cloud infrastructure, and return a batch of formally verified proofs.
 
@@ -80,4 +81,6 @@ The immediate next steps, according to the paper, involve scaling to harder prob
 
 Longer term, the team is exploring integration with DeepMind's Co-Scientist system, a multi-agent research assistant announced in May 2026 that generates and debates scientific hypotheses across life sciences. A combined system capable of proposing novel mathematical structures *and* formally verifying theorems about them would represent a qualitative shift in the relationship between human and machine mathematical cognition.
 
-For now, the mathematical community is processing what it means that a system that cost roughly $500 to run has closed problems that sat open for more than half a century. As one DeepMind researcher put it: "We're not replacing mathematicians. We're giving them a very cheap, very tireless collaborator who never gives up on a subgoal."
+For now, the mathematical community is processing what it means that a system costing a few hundred dollars per problem has solved open Erdős problems, including two that had been unsolved for 56 years. As one DeepMind researcher put it: "We're not replacing mathematicians. We're giving them a very cheap, very tireless collaborator who never gives up on a subgoal."
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

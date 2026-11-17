@@ -1,8 +1,9 @@
 ---
-title: "ServiceNow Beats Q1 but Stock Drops 15%: Iran Conflict and Anti-SaaS Sentiment Cast a Shadow"
-summary: "ServiceNow reported Q1 2026 subscription revenue of $3.67 billion, up 22% year-over-year, and raised its full-year guidance — but shares fell roughly 15% as investors focused on Middle East deal delays caused by the Iran conflict and a broader market skepticism toward SaaS valuations. CEO Bill McDermott raised his AI product revenue forecast to $1.5 billion for 2026, 50% above prior projections."
+title: "ServiceNow Beats Q1 but Stock Drops 14%: Iran Conflict and Anti-SaaS Sentiment Cast a Shadow"
+summary: "ServiceNow reported Q1 2026 subscription revenue of $3.67 billion, up 19% year-over-year, and raised its full-year guidance — but shares fell as much as 14% as investors focused on Middle East deal delays caused by the Iran conflict and a broader market skepticism toward SaaS valuations. CEO Bill McDermott said AI product revenue could reach close to $1.5 billion for 2026, 50% above prior forecasts."
 category: "industry"
 publishedAt: 2026-04-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,11 +30,11 @@ relatedSlugs:
   - "2026-04-23-vast-data-1b-series-f-nvidia-en"
 ---
 
-By nearly every conventional measure, ServiceNow had a good first quarter. Revenue came in at $3.77 billion, ahead of analyst expectations of $3.74 billion. Subscription revenue grew 22% year-over-year to $3.67 billion. Customer renewal rates held at 97%. The company raised its full-year guidance. CEO Bill McDermott announced that AI product sales were running 50% ahead of his prior projections and now look likely to hit $1.5 billion for 2026 — a figure that would have seemed optimistic just six months ago.
+By nearly every conventional measure, ServiceNow had a good first quarter. Revenue came in at $3.77 billion, ahead of analyst expectations of $3.74 billion. Customer renewal rates held at 97%. The company raised its full-year guidance. CEO Bill McDermott announced that AI product sales were running 50% ahead of his prior projections and now look likely to hit $1.5 billion for 2026 — a figure that would have seemed optimistic just six months ago.
 
-Shares fell 15%.
+Shares fell as much as 14%.
 
-The disconnect between what the numbers said and what the market heard captures something important about the current moment in enterprise software: strong execution is necessary but no longer sufficient. Investors are scrutinizing every deal timeline, every geographic footnote, and every valuation assumption with a precision that has little tolerance for ambiguity — even when the underlying business is growing at 22% annually.
+The disconnect between what the numbers said and what the market heard captures something important about the current moment in enterprise software: strong execution is necessary but no longer sufficient. Investors are scrutinizing every deal timeline, every geographic footnote, and every valuation assumption with a precision that has little tolerance for ambiguity — even when total revenue is growing at 22% annually.
 
 ## What Drove the Decline
 
@@ -72,3 +73,5 @@ Despite the stock reaction, the full-year outlook ServiceNow presented is object
 The combination of 22% organic growth, 97% renewal rates, accelerating AI product adoption, and significant large-deal momentum does not describe a business in distress. What it describes is a business navigating a valuation environment where growth alone no longer commands premium multiples — a dynamic that McDermott and Mastantuono will need to manage as carefully as any product roadmap decision.
 
 The market's message to ServiceNow on April 22 was not that its business is broken. It was that the margin for error, on geopolitics, on valuation, and on the narrative around AI's effect on SaaS economics, is now substantially thinner than it was a year ago.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

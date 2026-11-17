@@ -3,6 +3,7 @@ title: "Meta's Muse Image AI Generator Sparks Privacy Firestorm Over Instagram P
 summary: "Meta's new Muse Image AI generator, launched July 7, allows users to generate AI images using any public Instagram account's photos without the account owner's knowledge or consent. The opt-out-by-default policy triggered immediate backlash from users and talent agencies, with CAA calling on Meta to reverse the approach and make opt-in the standard."
 category: "products"
 publishedAt: 2026-07-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,15 +40,15 @@ Meta did not send notification emails to enrolled users, did not display in-app 
 
 ## CAA Leads the Industry Pushback
 
-The Creative Artists Agency, which represents some of the world's most prominent actors, musicians, and athletes, escalated within 48 hours of launch. In a public statement, CAA called on Meta to immediately reverse its opt-out approach, demanding that the company "make protection the default on Muse Image, not the exception," and require users to affirmatively opt in if they wish to allow their public photos to be used as AI training or generation material.
+The Creative Artists Agency, whose clients include Tom Cruise, Brad Pitt, Zendaya and Meryl Streep, issued a statement late Wednesday, two days after the July 7 launch. In that statement, CAA called on Meta to "make protection the default on Muse Image, not the exception," and to enable individuals to opt in if they want to allow usage of their image or likeness for AI content creation.
 
 CAA's intervention is significant because it gives the controversy institutional weight beyond individual user complaints. The agency's clients include people whose image and likeness carry substantial commercial value, and whose professional contracts often include explicit controls over how their appearance can be reproduced. A system that allows any user to generate AI images of a celebrity using their public Instagram posts without any contract, compensation, or consent sits in direct conflict with those controls.
 
-Variety reported that CAA has already contacted Meta legal and policy teams directly, and is considering further action if the default is not reversed. Several other entertainment-industry agencies are said to be coordinating a joint response.
+CAA said it has raised its concerns with Meta on behalf of its clients, "voicing our disapproval and perspective on the need for a more responsible approach." Several other entertainment-industry agencies are said to be coordinating a joint response.
 
 ## Meta's Defense
 
-Meta's response has leaned on the existing legal and technical guardrails it says were built into the product from day one. A company spokesperson stated that Muse Image includes "strong controls and safety guardrails," pointing to content filters that prevent generation of "realistic deepfakes" and block explicit content involving real people.
+Meta's response has leaned on the existing legal and technical guardrails it says were built into the product from day one. A company spokesperson said Meta built Muse Image "with strong controls and safety guardrails from day one," adding that the company will take action against any content that violates its Community Standards.
 
 CEO Mark Zuckerberg, responding to criticism on his own Instagram feed, pushed back on what he described as a mischaracterization of how the feature works. He argued that Muse Image is designed for creative remixing of public content, not identity replication, and that the guardrails in place prevent the most harmful use cases.
 
@@ -68,3 +69,5 @@ For Meta, the Muse Image situation echoes controversies the company has navigate
 The Muse Image case follows the same pattern, and arrives at a particularly sensitive moment. Meta is simultaneously positioning itself as a responsible AI developer through its Superintelligence Labs branding, and as a consumer AI products leader through aggressive integration of AI features across its family of apps. The tension between those objectives — moving fast to deploy consumer AI features versus building trust through conservative default settings — is now playing out publicly in real time.
 
 Meta has not announced whether it will change its opt-out default. Given the CAA intervention and growing regulatory attention, industry observers expect some form of response within the coming days. The question is whether that response will be a genuine default reversal or a communications adjustment that leaves the underlying architecture intact.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

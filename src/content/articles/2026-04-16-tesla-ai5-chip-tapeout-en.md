@@ -1,8 +1,9 @@
 ---
-title: "Tesla Confirms AI5 Chip Tape-Out: 8× Compute Over AI4, Dual-Sourced at TSMC and Samsung in the US"
-summary: "Elon Musk announced on April 15 that Tesla's next-generation AI5 processor has completed tape-out, delivering up to 8× the compute, 9× the memory, and 5× the bandwidth of its predecessor. The chip — nearly two years behind the original schedule — will be fabricated at TSMC's Arizona plant and Samsung's Texas facility, with engineering samples expected by late 2026."
+title: "Tesla Confirms AI5 Chip Tape-Out: 8× Compute Over AI4, Nearly Two Years Behind Schedule"
+summary: "Elon Musk announced on April 15 that Tesla's next-generation AI5 processor has completed tape-out, with Musk previously saying it would deliver 8× the compute and 9× the memory of its predecessor. The chip is nearly two years behind the original schedule, and mass production is expected in 2027."
 category: "hardware"
 publishedAt: 2026-04-16T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
   - "2026-04-07-nvidia-vera-rubin-nvl72-production-en"
 ---
 
-Elon Musk confirmed on April 15, 2026, that Tesla's AI5 chip — the next-generation silicon platform intended to power the company's Full Self-Driving computers and Optimus humanoid robots — has successfully completed tape-out. The announcement marks the formal end of the design phase and the handoff of final chip specifications to foundry partners for physical fabrication, a milestone that sets the stage for production silicon to arrive later this year.
+Elon Musk confirmed on April 15, 2026, that Tesla's AI5 chip — the next-generation silicon platform intended to power the company's Full Self-Driving computers and Optimus humanoid robots — has successfully completed tape-out. The announcement marks the point at which the chip design is locked and handed to a foundry for fabrication, though mass production is not expected until 2027.
 
-The disclosure came nearly two years after Tesla originally promised AI5 would be in vehicles, but Musk framed the delay as a consequence of deliberate architectural ambition rather than execution failure. "Radical simplicity," was how he described the design philosophy, alongside a series of performance claims that, if they hold up in production, would represent one of the most significant leaps in automotive and robotics silicon in recent memory.
+The disclosure came nearly two years after Tesla originally promised AI5 would be in vehicles. "Radical simplicity," was how he described the design philosophy, alongside a series of performance claims that, if they hold up in production, would represent one of the most significant leaps in automotive and robotics silicon in recent memory.
 
 ## Specifications: A Generational Leap
 
-The headline numbers are striking. According to Musk, AI5 delivers approximately 8× the compute power, 9× the memory, and 5× the memory bandwidth of its predecessor, AI4 (also known as Hardware 4, or HW4). The chip is equipped with up to 192GB of LPDDR5X memory — a specification more commonly associated with AI server hardware than in-vehicle processors.
+The headline numbers are striking. According to earlier statements by Musk, AI5 delivers approximately 8× the compute and 9× the memory of its predecessor, AI4. The chip is equipped with up to 192GB of LPDDR5X memory — a specification more commonly associated with AI server hardware than in-vehicle processors.
 
-For context, a single AI5 chip benchmarks at roughly the inference performance of an NVIDIA H100 GPU for Tesla's specific workloads. A dual-chip configuration — as might be used in a fully equipped vehicle or a robotics control unit — approaches the performance tier of NVIDIA's Blackwell-class processors. The critical difference, Tesla claims, is cost and power: AI5 is said to run inference at approximately 10× lower cost per FLOP than NVIDIA's chips for the same workloads, a figure that, if accurate, would profoundly change Tesla's economics in both the robotaxi and robotics businesses.
+For context, a single AI5 chip is reported to deliver performance comparable to NVIDIA's Hopper architecture. A dual-chip configuration — as might be used in a fully equipped vehicle or a robotics control unit — approaches the performance tier of NVIDIA's Blackwell-class processors. The critical difference, Tesla claims, is cost and power: AI5 is said to run inference at approximately 10× lower cost per FLOP than NVIDIA's chips for the same workloads, a figure that, if accurate, would profoundly change Tesla's economics in both the robotaxi and robotics businesses.
 
 Earlier reporting by NotebookCheck cited internal Tesla benchmarks showing AI5's FSD computer running the same inference tasks at a fraction of the watt-hours required by equivalent NVIDIA silicon. The efficiency advantage stems from Tesla's ability to design a chip purpose-built for its own inference stack — unlike general-purpose accelerators that must serve a broad range of workloads, AI5 is architected specifically around the neural network architectures that Tesla has developed for occupancy prediction, path planning, and real-time sensor fusion.
 
@@ -56,11 +57,11 @@ AI5 is designed around two primary workloads. The first is the next-generation F
 
 The second, and arguably more strategically important, workload is Optimus. Tesla's humanoid robot program has become an increasingly central part of Musk's long-term value thesis for the company, and Optimus requires substantially more onboard compute than a vehicle does — particularly for real-time manipulation tasks, visual reasoning, and dynamic re-planning in unstructured environments. AI5's 192GB memory envelope and high-bandwidth architecture are specifically designed to support the kind of large vision-language-action models that make a general-purpose robot viable.
 
-Engineering samples of AI5 are expected by late 2026, with high-volume production targeted for mid-2027. The timeline implies that Optimus units shipping in volume later this decade will almost certainly run on AI5 or its successor, rather than the current AI4 hardware.
+High-volume production of AI5 is targeted for mid-2027. The timeline implies that Optimus units shipping in volume later this decade will almost certainly run on AI5 or its successor, rather than the current AI4 hardware.
 
-## Roadmap: AI6 by December, AI7 Already Planned
+## Roadmap: AI6 and Dojo 3 in Development
 
-Musk also outlined an aggressive chip cadence going forward. AI6 tape-out is targeted for December 2026 — meaning the design work overlaps substantially with AI5's production ramp — and AI7 is already in early planning stages. Tesla's stated ambition is a new chip generation reaching volume production roughly every 12 months, with a goal of 9-month design cycles.
+Musk also outlined an aggressive chip cadence going forward. Musk also said that AI6 and Dojo 3 are in the works, though AI6 has reportedly slipped by roughly six months because of Samsung 2nm yield issues, pushing mass production to Q4 2027 at the earliest. Tesla's stated ambition is a new chip generation reaching volume production roughly every 12 months, with a goal of 9-month design cycles.
 
 This cadence, if achievable, would represent a silicon development pace comparable to Apple's A-series and M-series chip programs, which have consistently delivered annual generational improvements. Apple's success at sustaining that pace has been built on deep vertical integration between silicon, software, and system design — precisely the playbook Tesla is attempting to replicate.
 
@@ -71,3 +72,5 @@ The AI5 tape-out signals something broader: purpose-built AI silicon is becoming
 The economics are compelling. NVIDIA's H100 GPUs cost roughly $30,000–40,000 each on the secondary market. AI5, produced at scale across two foundry partners, will cost Tesla a fraction of that — and because it is optimized specifically for Tesla's inference workloads, it will likely deliver better real-world performance-per-dollar for those specific tasks than any general-purpose accelerator.
 
 If AI5's power efficiency and cost claims hold up under third-party scrutiny, it will put pressure on every company deploying humanoid robots or autonomous vehicles to either invest in custom silicon or accept a fundamental cost disadvantage. The robot industry — and the broader physical AI sector — may be entering the same transition that cloud computing experienced a decade ago, when the hyperscalers began replacing merchant silicon with purpose-built chips and transformed their cost structures in the process.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

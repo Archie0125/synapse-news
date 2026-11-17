@@ -1,8 +1,9 @@
 ---
-title: "Big Tech's AI Safety Convergence: Industry Drafts Voluntary 'AI Constitution' as CAISI Seals Testing Deals"
-summary: "In overlapping moves that signal a new phase of AI governance, Google DeepMind, Microsoft, and xAI have signed formal pre-deployment security testing agreements with the Commerce Department's CAISI, while Apple, Google, and Microsoft are separately coordinating what the media has dubbed an 'AI Constitution' — a multi-layered voluntary safety framework the companies say is preferable to waiting for Congress to impose one."
+title: "Big Tech's AI Safety Convergence: Voluntary 'AI Constitution' Talks as CAISI Announces Testing Deals"
+summary: "In overlapping moves that signal a new phase of AI governance, Google DeepMind, Microsoft, and xAI have agreed to pre-deployment testing with the Commerce Department's CAISI, while Apple, Google, and Microsoft are reportedly taking part in what the media has dubbed an 'AI Constitution' — a multi-layered set of voluntary safety obligations the firms have judged better than whatever Congress may eventually impose."
 category: "policy"
 publishedAt: 2026-05-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -35,7 +36,7 @@ relatedSlugs:
 
 The past 72 hours have produced a cluster of AI governance announcements that, taken individually, might appear incremental. Taken together, they describe something more significant: a moment when the largest AI companies in the world appear to have concluded that leading on safety — rather than opposing it — is the more strategically sound position.
 
-On May 5, 2026, the Center for AI Standards and Innovation (CAISI), a division of the Commerce Department's National Institute of Standards and Technology, announced it had signed formal pre-deployment testing agreements with **Google DeepMind**, **Microsoft**, and **xAI**. A day later, reporting emerged that Apple, Google, and Microsoft are also coordinating on a broader, industry-wide voluntary safety framework that observers have labeled an **"AI Constitution"** — a multi-layered set of shared commitments the companies say is preferable to waiting for Congress to design legislation and impose it on them.
+On Tuesday, the Center for AI Standards and Innovation (CAISI), which sits under the Commerce Department, announced agreements with **Google DeepMind**, **Microsoft**, and **xAI** that allow the government to evaluate models before they are publicly available.
 
 Neither development was forced. Both were chosen. That choice is the story.
 
@@ -51,27 +52,27 @@ The agreements are voluntary, not legally mandated. But voluntariness here opera
 
 ## The "AI Constitution": Self-Regulation as Strategy
 
-Parallel to the CAISI agreements, reporting from multiple outlets describes Apple, Google, and Microsoft — joined by other major AI stakeholders — working on what is being called an "AI Constitution": a shared set of voluntary behavioral commitments across the industry.
+Parallel to the CAISI agreements, one report describes senior policy executives from Apple, Google, and Microsoft, occasionally joined by a representative from OpenAI or xAI, working on what the media calls an "AI Constitution": a multi-layered set of voluntary safety obligations rather than a single document.
 
-The term is admittedly hyperbolic, but the intent behind it is not frivolous. The companies are negotiating a common set of principles around AI system transparency, deployment safeguards, minimum safety testing standards, and responsible disclosure norms. The specific text remains in development, but the strategic logic is explicit and has been articulated by executives from multiple participating companies: **when the three largest vendors of AI infrastructure agree on a standard, that standard effectively becomes the industry floor**.
+The term is admittedly hyperbolic, but the intent behind it is not frivolous. The companies are negotiating a common set of principles around AI system transparency, deployment safeguards, minimum safety testing standards, and responsible disclosure norms. The strategic logic, as that report puts it: when the three biggest vendors of AI infrastructure agree on a standard, it effectively becomes an industry standard.
 
-The historical analog frequently invoked is the financial services industry's development of voluntary risk standards in the 1990s, and the telecom sector's self-regulatory moves before the Telecommunications Act of 1996. In both cases, incumbent players participated in standard-setting in part because they understood that influencing the shape of future regulation was more valuable than opposing regulation entirely — and that self-imposed standards they could comply with were preferable to externally imposed standards they might not.
+The historical analog is the banking sector, which developed voluntary standards before being compelled to adopt official regulations, a pattern the telecom companies followed. In both cases, incumbent players participated in standard-setting in part because they understood that influencing the shape of future regulation was more valuable than opposing regulation entirely — and that self-imposed standards they could comply with were preferable to externally imposed standards they might not.
 
-For Big Tech in 2026, the calculation is similar. The cost of a high-profile AI failure that results in a congressional hearing — reputational damage, stock decline, hostile legislation, foreign market restrictions — is now understood to exceed the cost of sustained safety investment. The "AI Constitution" is, in part, insurance.
+For Big Tech in 2026, the calculation is similar. The cost of public AI failures, particularly those that result in congressional hearings, has surpassed the cost of working together on baseline safety criteria for each of the firms, according to the report. The "AI Constitution" is, in part, insurance.
 
 ## Apple's Distinct Position
 
 Apple's involvement in the broader safety coordination is worth noting separately, because the company has not been part of the frontier AI race in the same way as Google, Microsoft, or even xAI. Apple Intelligence, the company's AI feature suite, is built primarily on smaller, specialized on-device models rather than massive cloud-hosted frontier systems.
 
-Tim Cook's team has consistently framed this architectural choice as a privacy advantage: because data never leaves the user's device, the privacy concerns associated with cloud AI don't apply. In the context of the "AI Constitution" negotiations, Apple is effectively arguing that its structural approach to AI — edge-first, privacy-by-design — constitutes a form of built-in safety that other companies are now trying to implement through governance frameworks.
+Tim Cook's team seems to have made the decision that privacy is the company's regulatory shield, and it is placing a lot of bets on it. In the context of the "AI Constitution" negotiations, Apple is effectively arguing that its structural approach to AI — edge-first, privacy-by-design — constitutes a form of built-in safety that other companies are now trying to implement through governance frameworks.
 
 That framing gives Apple an unusual position: participating in an industry safety conversation while implicitly positioning itself as already having done the hard architectural work that others are now scrambling to address through policy commitments.
 
 ## What Remains Absent
 
-The picture is not complete. Neither OpenAI nor Meta appear to be signatories to the current CAISI agreements or lead participants in the "AI Constitution" process, though OpenAI has separately made its models available for government access through other channels. The absence of these two major players from both frameworks — if it holds — would represent a meaningful gap in the industry's self-regulatory coverage.
+The picture is not complete. The picture is complicated by OpenAI and Meta. Both are listed among the lead companies in the "AI Constitution" effort, but neither was named in the new CAISI agreements; OpenAI and Anthropic had earlier CAISI agreements from 2024.
 
-Anthropic's position is equally complex. The company is already embedded in classified government networks through Palantir's Maven Smart System, and the Trump administration's earlier attempt to restrict Anthropic from government contracts was reversed under pressure. But Anthropic was notably absent from the initial list of Pentagon AI deals announced last week, and its relationship with the formal voluntary governance process remains unclear.
+Anthropic's position is equally complex. The company is already embedded in classified government networks through Palantir's Maven Smart System, and the Trump administration's earlier attempt to restrict Anthropic from government contracts was reversed under pressure. Anthropic was notably absent from the list of seven companies in the Pentagon's AI agreement for classified networks, announced before the CAISI news, and its relationship with the formal voluntary governance process remains unclear.
 
 Additionally, voluntary frameworks are, by definition, unenforceable. The "AI Constitution" has no penalties for breach, no independent auditing mechanism, and no defined process for handling companies that claim compliance without meeting the standard. These limitations are not fatal to the project, but they are important context for evaluating the significance of any commitments made.
 
@@ -79,6 +80,8 @@ Additionally, voluntary frameworks are, by definition, unenforceable. The "AI Co
 
 The convergence of the CAISI deals and the "AI Constitution" initiative represents a specific kind of moment in AI governance: the point at which the industry stops treating safety oversight primarily as a constraint to be minimized and starts treating it as a competitive landscape to be shaped.
 
-Whether that shift reflects genuine concern about AI safety, sophisticated regulatory capture, or an accurate calculation that the era of "move fast and figure it out later" carries more downside risk than benefit is a question that observers will debate. What is harder to debate is the direction of travel: in May 2026, the world's largest AI companies are choosing to give governments more access to their models before deployment, and choosing to negotiate common safety standards among themselves. A year ago, neither was true.
+Whether that shift reflects genuine concern about AI safety, sophisticated regulatory capture, or an accurate calculation that the era of "move fast and figure it out later" carries more downside risk than benefit is a question that observers will debate. What is harder to debate is the direction of travel: in May 2026, the world's largest AI companies are choosing to give governments more access to their models before deployment, and choosing to negotiate common safety standards among themselves.
 
 For policymakers, regulators, and the public, the practical import of these moves will only become clear over time — specifically, whether the voluntary commitments are followed in practice, and whether the CAISI evaluations produce any transparency about the risks that have been identified and how they've been addressed.
+
+*Correction (November 15, 2026): 13 sentences were corrected or removed to match the sources listed on this page.*

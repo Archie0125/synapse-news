@@ -1,8 +1,9 @@
 ---
 title: "Alphabet's 160% Rally in a Year: Why Owning the Whole AI Stack Changes Everything"
-summary: "Alphabet's stock has surged 160% in the past 12 months, briefly surpassing Nvidia to become the world's most valuable company after hitting an all-time high on May 8. Google Cloud revenue crossed $20 billion quarterly for the first time with 63% year-over-year growth, fueled by Anthropic's reported $200 billion five-year cloud commitment and a backlog that nearly doubled to $462 billion. Analysts credit Google's ownership of chips, models, infrastructure, and distribution as the decisive strategic advantage."
+summary: "Alphabet's stock has surged about 160% in the past 12 months, briefly passing Nvidia by market cap in after-hours trading this week. Google Cloud revenue reached $20.03 billion in the first quarter, up 63% year over year, and Anthropic reportedly committed to spend $200 billion on Google Cloud over five years, while the cloud backlog nearly doubled to $462 billion. Analysts credit Google's ownership of chips, models, infrastructure and distribution as a key advantage."
 category: "industry"
 publishedAt: 2026-05-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
 
 For years, the dominant narrative about Google and AI was one of squandered advantage. The company had invented the transformer architecture. It had the data, the compute, the talent, and the distribution. And yet it had been persistently cast as the company that was losing the AI race — slow to ship, culturally cautious, and perpetually one announcement cycle behind OpenAI.
 
-That narrative is now in full retreat. Alphabet's stock has gained approximately 160% over the past twelve months, hitting an all-time high on May 8, 2026, and briefly — in after-hours trading — surpassing Nvidia to claim the title of world's most valuable company. The market is pricing in something specific: that owning most of the AI stack is worth more than owning any single part of it.
+That narrative is now in full retreat. Alphabet's stock has gained approximately 160% over the past twelve months, and briefly — in after-hours trading — surpassed Nvidia by market cap. The market is pricing in something specific: that owning most of the AI stack is worth more than owning any single part of it.
 
 ## The Stack Thesis
 
@@ -41,17 +42,17 @@ Gene Munster, managing partner at Deepwater Asset Management and one of the more
 
 The "stack" framing matters because it identifies what separates Alphabet from companies that are AI-enabled versus AI-native at the infrastructure level.
 
-**Chips**: Google's Tensor Processing Units (TPUs) are now on their seventh generation, purpose-built for the matrix multiplication operations that dominate AI training and inference. Google doesn't sell TPU access at scale the way Nvidia sells GPU capacity — instead, TPUs give Google structural cost advantages on its own workloads that external cloud competitors cannot easily replicate.
+**Chips**: Google's Tensor Processing Units (TPUs) are now on their seventh generation, purpose-built for the matrix multiplication operations that dominate AI training and inference. Google's TPUs offer an alternative to Nvidia's chips, and Mizuho estimates roughly $61 billion of Google's cloud backlog through 2027 could come from TPU sales.
 
 **Models**: Gemini 4 is expected at I/O next week. Gemini 1.5 Pro already holds benchmark leadership positions in long-context reasoning. The model family spans ultra-efficient on-device versions to the flagship research-grade Ultra tier, covering the full deployment spectrum from mobile to data center.
 
-**Infrastructure**: Google has invested more aggressively in physical AI infrastructure than at any point in its history. The company is on track to spend approximately $75 billion in capital expenditure in 2026, the majority earmarked for data center expansion, networking, and custom silicon.
+**Infrastructure**: Google has invested more aggressively in physical AI infrastructure than at any point in its history. The company is projecting capital expenditures of up to $190 billion in 2026, more than double its capex for 2025.
 
 **Distribution**: This is the most underappreciated element of the thesis. Google reaches more than two billion active Android devices. Chrome commands approximately 65% of global browser market share. Search processes an estimated 8.5 billion queries per day. YouTube is the world's largest video platform. Each of these is a distribution channel through which Gemini capabilities can be delivered to users who never explicitly chose an AI product — they just kept using the Google products they already used.
 
 ## Cloud: The Number That Changed the Conversation
 
-The Q1 2026 earnings report that landed in late April was the catalyst that broke Alphabet's stock to all-time highs. Google Cloud revenue reached $20 billion in the quarter — crossing that threshold for the first time — representing 63% year-over-year growth. The cloud backlog nearly doubled to $462 billion.
+The Q1 2026 earnings report that landed in late April was the catalyst that broke Alphabet's stock to all-time highs. Google Cloud revenue reached $20.03 billion in the quarter, representing 63% year-over-year growth. The cloud backlog nearly doubled to $462 billion.
 
 JPMorgan called the quarter "standout" and named GOOGL its "top overall pick" in technology, citing accelerating growth and a backlog that suggested demand visibility stretching years into the future.
 
@@ -59,7 +60,7 @@ The single most significant number beneath that backlog is Anthropic. The AI com
 
 ## A Briefly World-Leading Valuation
 
-The moment Alphabet's market cap ticked above Nvidia's in after-hours trading on May 8 lasted only briefly — Nvidia closed the following session higher — but the symbolic significance was not lost. For most of the past 18 months, Nvidia has occupied the position of the AI infrastructure company that all others depend on. Alphabet's temporary surpassing of it was a market statement that the value of AI infrastructure extends beyond GPU supply.
+The moment Alphabet's market cap ticked above Nvidia's came in after-hours trading after markets closed on Tuesday and lasted only briefly — Nvidia closed the week at $5.2 trillion versus Alphabet's $4.8 trillion — but the symbolic significance was not lost. For most of the past 18 months, Nvidia has occupied the position of the AI infrastructure company that all others depend on.
 
 The question implicit in that valuation is whether the distribution advantage is real or theoretical. Google Search has not been displaced by ChatGPT or any other AI product; on the contrary, AI Overviews has increased query satisfaction metrics while maintaining advertising revenue. Android 17's Gemini integration, announced at the Android Show on Monday, embeds AI capabilities at the OS level across billions of devices — a distribution reach that no AI startup can approach.
 
@@ -80,3 +81,5 @@ A weak I/O — vague model announcements, no shipping hardware, developer featur
 A strong I/O — Gemini 4 with demonstrable capability leaps, shipping hardware at accessible price points, developer tools that attract the builder ecosystem — would cement the thesis that Google's AI transition is real and accelerating.
 
 The stack is in place. The question is execution.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

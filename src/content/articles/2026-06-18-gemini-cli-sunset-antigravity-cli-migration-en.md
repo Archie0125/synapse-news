@@ -3,6 +3,7 @@ title: "Google Kills Gemini CLI Today: Forced Migration to Antigravity CLI Spark
 summary: "As of June 18, 2026, Google has shut down Gemini CLI — the popular open-source AI coding tool with 100,000 GitHub stars — forcing developers to migrate to Antigravity CLI within 30 days of announcement. The new tool is closed-source, breaks existing automation, and its rushed launch has pushed many developers toward competing platforms."
 category: "developer-tools"
 publishedAt: 2026-06-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -53,7 +54,7 @@ What actually breaks in a forced migration from `gemini` to `agy` in 30 days?
 
 Everything that assumes the command name. Every shell alias, CI configuration, shebang line, and PATH reference needs updating. But that is the easy part. Authentication mechanisms differ between the two tools, requiring credential regeneration. Extensions — Gemini CLI's plugin system — have been renamed to "Antigravity plugins" with changes to the API. Teams that built custom extensions will need to port their integrations.
 
-The timeline problem is compounding. Most engineering teams run two-week sprints. A 30-day migration window means one sprint for planning and one for execution, with no buffer for testing, approvals, or inevitable bugs in the new configuration. Organizations with large CLI deployments — or those where Gemini CLI is embedded in production automation — are particularly exposed.
+The timeline problem is compounding. Enterprise DevOps teams commonly run on two-week sprint cycles. Organizations with large CLI deployments — or those where Gemini CLI is embedded in production automation — are particularly exposed.
 
 Google has acknowledged the disruption in its migration documentation, noting that it "won't be a perfect transition." This is accurate but insufficient.
 
@@ -80,3 +81,5 @@ The Go rewrite produces a faster binary with lower latency. For CI environments 
 But capability improvements do not resolve the process failure. Announcing a forced deprecation of an open-source, community-driven tool with 30 days' notice, shipping a closed-source replacement that lacks feature parity, and cutting off free and prosumer users first — these are the decisions developers will remember when evaluating Google's next developer tool launch.
 
 The signal reaching the market today is not about Antigravity CLI. It is about what it means to build on Google's developer infrastructure.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

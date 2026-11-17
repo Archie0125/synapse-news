@@ -1,8 +1,9 @@
 ---
 title: "Meta Commits 1 Gigawatt to Broadcom in Sweeping Custom AI Chip Deal"
-summary: "Meta Platforms announced a major expansion of its partnership with Broadcom on April 14, committing to deploy over one gigawatt of custom AI accelerators based on Broadcom's XPU platform through multiple MTIA chip generations. The multi-year deal extends through 2029 and signals Meta's serious intent to reduce its dependence on Nvidia as the AI infrastructure arms race intensifies."
+summary: "Meta Platforms announced an expanded partnership with Broadcom on Tuesday, committing to an initial deployment of more than one gigawatt of custom MTIA AI accelerators based on Broadcom's XPU platform. The deal extends the companies' existing design partnership through 2029."
 category: "hardware"
 publishedAt: 2026-04-15T09:20:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -59,7 +60,7 @@ The practical implications of this deal flow directly to Meta's product roadmap.
 
 Running these workloads on custom silicon rather than general-purpose GPUs offers meaningful advantages. Custom chips can be designed to optimize for the specific precision, memory bandwidth, and network interconnect characteristics of Meta's workloads, potentially delivering better performance per watt and better performance per dollar than Nvidia hardware for inference-heavy tasks. At Meta's scale — the company serves more than 3 billion daily active users across its family of apps — even small efficiency gains at the silicon level translate to hundreds of millions of dollars in annual operational savings.
 
-The 2029 timeline also aligns with Meta's broader AI infrastructure planning horizon. The company has committed to spending upward of $65 billion on capital expenditures in 2026 alone, with AI infrastructure as the primary allocation. The Broadcom deal effectively locks in a roadmap for how a significant portion of that capital will be deployed for the next several years.
+The 2029 timeline also aligns with Meta's broader AI infrastructure planning horizon.
 
 ## The Broader Custom Silicon Moment
 
@@ -68,3 +69,5 @@ Meta's announcement lands at a moment when the custom silicon wave is accelerati
 The common thread is that no single company wants to be entirely at the mercy of Nvidia's allocation decisions and pricing power. Custom silicon is the hedge, and Broadcom — with its deep expertise in custom chip design and its XPU platform — is emerging as the partner of choice for companies that need that capability but cannot build a full-stack chip design organization in-house.
 
 For Meta, the Broadcom deal is the clearest articulation yet of where it wants to sit in the AI infrastructure stack: not just as a consumer of compute, but as an architect of it.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

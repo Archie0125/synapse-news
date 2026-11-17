@@ -1,8 +1,9 @@
 ---
-title: "微軟 Build 2026：MAI 自研模型家族正式亮相，終結對 OpenAI 的依賴"
-summary: "微軟將於 6 月 2 日在舊金山舉行的 Build 2026 開發者大會上，正式發布自研 AI 模型家族 MAI，其中包括專為驅動 GitHub Copilot 打造的程式碼生成模型。這是微軟迄今最明確的訊號：該公司正在擺脫對 OpenAI 的依賴，全面掌控旗下核心產品底層的 AI 基礎能力。"
+title: "微軟 Build 2026：微軟的 MAI 模型與掌握更多 AI 自主權的布局"
+summary: "微軟 Build 2026 開發者大會將於 6 月 2 日在舊金山登場，據報導微軟正準備展示新的 AI 模型，其中包括一個以改進 GitHub Copilot 為目標的程式碼生成模型。"
 category: "developer-tools"
 publishedAt: 2026-06-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -28,9 +29,7 @@ relatedSlugs:
   - "2026-05-28-microsoft-cancels-claude-code-licenses-copilot-cli-zh"
 ---
 
-週二上午，Satya Nadella 將在舊金山 Fort Mason 中心登台，帶來一個矽谷早已預期、卻讓合作夥伴深感壓力的宣布。微軟 Build 2026 開發者大會 6 月 2 日正式開幕，核心議程是正式推出微軟自研 AI 模型家族——統一以 MAI 為前綴品牌。
-
-此次發布涵蓋一個以強化 GitHub Copilot 為目標的程式碼生成模型，以及 MAI-Transcribe-1（語音轉文字）、MAI-Voice-1（語音合成）和 MAI-Image-2（圖片生成），後兩者首次向商業開發者全面開放。微軟最重要的開發者產品，將首次在自家模型上運行，而非依賴 OpenAI。
+週二上午，Satya Nadella 將在舊金山 Fort Mason 中心登台，帶來一個矽谷早已預期、卻讓合作夥伴深感壓力的宣布。微軟 Build 2026 開發者大會 6 月 2 日開幕，據報導微軟正準備在會上展示新的 AI 模型。
 
 ## MAI 家族是什麼
 
@@ -50,7 +49,7 @@ Build 2026 公告的弦外之音清晰可見：微軟正在向開發者、企業
 
 ## Build 大會開發者將獲得什麼
 
-MAI 模型發布之外，Build 2026 預計還有大量以開發者為核心的 API 與工具更新。已確認的議程主題包括：GitHub Copilot 的自主多步驟工程任務流程（不只是行內自動補全，而是可以被委派執行整個功能開發任務的代理模式）；GitHub Actions、Azure DevOps 與 Azure AI Foundry 平台的深度整合；以及 Windows Local AI 的全新 API 套件。
+MAI 模型發布之外，Build 2026 預計還有大量以開發者為核心的 API 與工具更新。已確認的議程主題包括：GitHub Copilot 的代理式程式開發工作流程，並設有 VS Code 內多代理支援，以及 GitHub 與 Azure 更深度整合的相關場次。
 
 Windows Local AI 成為本屆大會的專題研討軌道，反映微軟積極推動 AI 推理在 Windows 11 消費端和商用裝置上本地運行的方向。面向法規遵循或有斷網需求的企業應用場景，這是一個關鍵能力。
 
@@ -68,6 +67,8 @@ Azure AI Foundry 則被定位為企業級的多模型、多代理工作流程編
 
 Nadella 始終以不對抗的措辭描述 MAI 戰略，一再強調這與 OpenAI 合作「互補而非競爭」。OpenAI 的模型——包括 GPT-5.5 和即將推出的 GPT-6 系列——仍會透過 Azure OpenAI Service 提供，微軟也仍是 OpenAI 最大的算力客戶。
 
-但訊號正在累積。取消 OpenAI 相關授權、發布 MAI 模型家族、大力發展自有推理能力——這是一家公司在斥資逾 130 億美元、歷經近五年深度合作後，終於得出結論：對單一外部 AI 供應商形成永久性依賴，對一個市值超過 3 兆美元的企業而言，並非可持續的長遠選項。
+但訊號正在累積。微軟的 MAI 模型家族與自有模型開發，是一家在 OpenAI 投入逾 130 億美元的公司，想要更掌控驅動其 AI 產品技術的舉措。
 
 Build 2026 的頭條是開發者工具，潛台詞卻是誰來掌控 AI 基礎設施的未來——而微軟正在押一個非常巨大的賭注：答案是它自己。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

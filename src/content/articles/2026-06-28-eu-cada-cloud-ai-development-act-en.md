@@ -1,8 +1,9 @@
 ---
-title: "The EU's CADA: Europe Declares Cloud Sovereignty War on AWS, Azure, and Google Cloud"
-summary: "The European Commission's proposed Cloud and AI Development Act introduces a four-tier sovereignty framework for public sector cloud procurement, threatening to restructure the dominance of US hyperscalers in the European market. The regulation signals the most aggressive EU intervention in cloud infrastructure since GDPR."
+title: "The EU's CADA: A Sovereignty Framework for Public Sector Cloud Procurement"
+summary: "The European Commission's proposed Cloud and AI Development Act introduces a four-level sovereignty framework for public sector cloud procurement. Rather than excluding non-EU providers, it shapes the market indirectly through procurement."
 category: "policy"
 publishedAt: 2026-06-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,8 +32,6 @@ relatedSlugs:
 
 On June 3, 2026, the European Commission published one of the most consequential technology regulations of the year: the proposed **Cloud and AI Development Act**, or CADA. Buried within its 40,000 words of legislative text is a direct challenge to three of the world's most powerful technology companies — Amazon Web Services, Microsoft Azure, and Google Cloud — and a blueprint for how Europe intends to reclaim sovereignty over its own digital infrastructure.
 
-The Commission framed the proposal as the centerpiece of its **Tech Sovereignty Package**, but the plain language of the regulation is less diplomatic: Europe's cloud market has been quietly colonized, and Brussels intends to change that.
-
 ## The Problem Brussels Is Trying to Solve
 
 The data cited in the CADA proposal tells a stark story. EU-based cloud providers' collective market share has fallen from approximately **29% in 2017 to around 15% by 2022**, a collapse that has happened quietly, transaction by transaction, as European enterprises and governments chose AWS, Azure, and Google Cloud over domestic alternatives. The trend has continued since; by 2026, the three US hyperscalers are estimated to control more than 70% of European cloud revenue.
@@ -45,11 +44,11 @@ CADA's stated goal is to **triple EU data center capacity within five to seven y
 
 The regulation's most technically detailed — and most commercially disruptive — element is a graduated framework of **Union assurance levels** that public sector bodies must apply when procuring cloud services.
 
-**Level 1 (Baseline)** requires cloud providers serving public bodies to establish infrastructure and customer data within EU borders. Non-EU controlled providers must additionally guarantee they cannot be compelled to disclose system vulnerabilities to foreign authorities — a direct response to CLOUD Act exposure.
+The lower levels focus on baseline requirements such as EU establishment, data localisation within the EU, and transparency regarding subcontracting and data flows. Non-EU controlled providers must additionally guarantee they cannot be compelled to disclose system vulnerabilities to foreign authorities — a direct response to CLOUD Act exposure.
 
 **Level 2 (Enhanced)** goes significantly further. All personnel, infrastructure, and assets involved in delivering the service must be EU-based. Providers must hold EU cloud certification and demonstrate technical measures preventing third-country access to customer data, including protection against sanctions-driven data disclosure.
 
-**Level 3 (Strict)** adds an ownership requirement. Control of the provider must be EU-based, with limited derogations for countries holding EU adequacy decisions that maintain reciprocally open markets to European providers. This level would be applied to providers deemed to "contribute to the preservation of public order" — a deliberately broad category.
+**Level 3 (Strict)** adds an ownership requirement. Level 3 requires that the provider not be controlled by a third country, with a derogation for "associated" third countries that is conditioned on, among other things, a GDPR adequacy decision. This level would be applied to providers deemed to "contribute to the preservation of public order" — a deliberately broad category.
 
 **Level 4 (Strictest)** demands EU ownership without any derogations, highest-level European cybersecurity certification, and demonstrated third-country independence over both software design and ongoing maintenance. At this level, the regulation effectively mandates European-built software stacks, not merely European data residency.
 
@@ -82,7 +81,7 @@ Alongside this, CADA creates a **strategic project designation** pathway for cri
 
 ## The Open Source Mandate
 
-A provision that has attracted less attention than the sovereignty framework but may prove equally consequential: CADA establishes an **"open source first" principle** for public sector technology adoption. Public bodies procuring cloud and AI services must demonstrate they have considered open source alternatives before choosing proprietary software. This principle, if enforced, would create systematic procurement pressure toward EU-developed open source tools — a tailwind for European AI companies building on open foundations like Mistral's models or EU-funded research infrastructure.
+Public bodies procuring cloud and AI services must demonstrate they have considered open source alternatives before choosing proprietary software. This principle, if enforced, would create systematic procurement pressure toward EU-developed open source tools — a tailwind for European AI companies building on open foundations like Mistral's models or EU-funded research infrastructure.
 
 ## What Happens Next
 
@@ -95,3 +94,5 @@ Within Europe, the debate will likely center on whether the regulation is calibr
 For enterprises operating across Europe, the practical advice is clear: the CADA's assurance level framework will shape public sector contract eligibility for a generation. Cloud strategy decisions made now will determine whether organizations are positioned as compliant suppliers or excluded parties when the regulation eventually takes effect.
 
 GDPR took years to fully enforce. Its legacy is permanent. CADA appears to be aiming for the same long arc.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

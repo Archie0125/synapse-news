@@ -1,8 +1,9 @@
 ---
-title: "China Trains Its First Frontier-Scale AI on Domestic Chips — Meituan's LongCat-2.0 Is the Proof"
-summary: "Meituan open-sourced LongCat-2.0, a 1.6-trillion-parameter model pre-trained end-to-end on a 50,000-card cluster of Chinese AI chips — the first time any lab has completed full frontier-scale training without Nvidia, Google TPUs, or AWS. The release rewrites assumptions about whether export controls can actually contain China's AI progress."
+title: "Meituan's LongCat-2.0 Is Said to Be Trained on Domestic Chinese Chips"
+summary: "Meituan open-sourced LongCat-2.0, a 1.6-trillion-parameter model that the company states was trained on a 50,000-card cluster of domestic Chinese AI chips. The chipmaker was not named, and the performance figures are self-reported."
 category: "ai-ml"
 publishedAt: 2026-07-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -33,21 +34,21 @@ relatedSlugs:
 
 The foundational premise of the United States' chip export-control strategy — that denying China access to leading-edge semiconductors would meaningfully slow its AI progress — cracked open on June 30, 2026, when Chinese food delivery giant Meituan open-sourced LongCat-2.0: a 1.6-trillion-parameter Mixture-of-Experts language model trained from scratch on 50,000 Chinese AI chips, with no Nvidia GPUs, no Google TPUs, and no AWS infrastructure in the loop.
 
-It is the first confirmed instance of a frontier-scale large language model completing full pre-training and inference on an entirely domestic Chinese chip stack. The symbolic weight alone is hard to overstate — but the technical details make it harder still to dismiss.
+Meituan states the model was trained on domestic Chinese AI chips, though it did not name the chipmaker or processor models used. The symbolic weight alone is hard to overstate — but the technical details make it harder still to dismiss.
 
 ## What Was Built, and How
 
-LongCat-2.0 uses a Mixture-of-Experts architecture that totals 1.6 trillion parameters but activates roughly 33 billion to 56 billion per token during inference, keeping the practical compute cost manageable. It supports a million-token context window and ships a companion model, LongCat-Flash-Thinking, which Meituan claims runs at 2.1x lower cost per token than Seed 2.0 Pro, the company's previous commercial offering.
+LongCat-2.0 uses a Mixture-of-Experts architecture that totals 1.6 trillion parameters but activates roughly 33 billion to 56 billion per token during inference, keeping the practical compute cost manageable. It supports a million-token context window. A variant, LongCat-Flash-Thinking, is 2.1 times cheaper per token than Seed 2.0 Pro, according to LLM-Stats.com, though it generally underperforms it on benchmarks such as AIME 2025, GPQA, and SWE-Bench Verified.
 
-The training cluster was built around what researchers believe are Huawei Ascend 910C processors — the most powerful chip Huawei can produce domestically without access to TSMC's leading-edge lithography. Indicators include Meituan's use of Huawei's Collective Communication Library for inter-node coordination, a component specifically engineered for Ascend superpod configurations. If confirmed, the training run would represent the largest documented deployment of Huawei's AI silicon for frontier model pre-training.
+Meituan did not name the chipmaker, but speculation, including discussions on Hacker News, points to Huawei Ascend 910C chips as the likely hardware. Meituan's use of Huawei's Collective Communication Library (HCCL) for training suggests Huawei's involvement.
 
 This distinction matters enormously. DeepSeek-V4-Pro, the model that stunned Western AI labs with its benchmark performance and training efficiency earlier this year, relied on Chinese chips only for inference — the cheaper, less technically demanding half of the AI hardware equation. Pre-training a frontier model requires sustained, perfectly coordinated communication across thousands of chips for weeks or months at a time. The tolerance for hardware failures, memory bottlenecks, and inter-chip latency is near zero. That Meituan completed a run of this scale without Nvidia is a different category of achievement.
 
 ## Benchmark Claims and What They Actually Mean
 
-Meituan's self-reported numbers are impressive: a 59.5 on SWE-bench Pro (versus GPT-5.5's benchmark figure of 58.6), 70.8 on Terminal-Bench 2.1, and 77.3 on SWE-bench Multilingual — a newly introduced evaluation for coding tasks across 12 programming languages. The company claims "overall performance comparable to Google's Gemini 3.1 Pro."
+Meituan's self-reported numbers are impressive: a 59.5 on SWE-bench Pro (versus GPT-5.5's benchmark figure of 58.6), 70.8 on Terminal-Bench 2.1, and 77.3 on SWE-bench Multilingual. The company claims "overall performance comparable to Google's Gemini 3.1 Pro."
 
-Two caveats apply heavily. First, these are self-reported figures. LongCat-2.0 has not yet been submitted to independent third-party evaluation on LMSYS Chatbot Arena or other neutral leaderboards. Meituan itself acknowledges the model "generally trails premium frontier systems like Anthropic's Claude Opus 4.8 across broad general-agent benchmarks." The model is clearly optimized for coding tasks, not general-purpose chat or complex reasoning, and its benchmark suite reflects that narrow excellence.
+Two caveats apply heavily. First, these are self-reported figures. LongCat-2.0's figures lack independent verification on third-party leaderboards. The model also generally trails premium frontier systems like Anthropic's Claude Opus 4.8 across broad general-agent benchmarks such as FORTE and BrowseComp." The model is clearly optimized for coding tasks, not general-purpose chat or complex reasoning, and its benchmark suite reflects that narrow excellence.
 
 Second, the more consequential claim is not about performance at all — it's about infrastructure. LongCat-2.0 could have scored 10 points lower on every benchmark and still represented a geopolitical breakthrough by demonstrating that China can complete frontier-scale training without American hardware.
 
@@ -74,3 +75,5 @@ The model weights are on Hugging Face. The story they tell is no longer hypothet
 ---
 
 *LongCat-2.0's weights are publicly available on Hugging Face. The model was released June 30, 2026.*
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

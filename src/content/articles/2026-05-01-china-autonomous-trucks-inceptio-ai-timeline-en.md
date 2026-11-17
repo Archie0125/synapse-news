@@ -1,8 +1,9 @@
 ---
 title: "China's Self-Driving Truck Leaders: AI Breakthroughs Won't Speed Up the Rollout — Here's Why"
-summary: "Despite rapid advances in large language models, China's autonomous trucking companies say the technology shaping their commercialisation timelines is fundamentally different: world models built on billions of kilometres of real-world driving data. Inceptio, which has logged 700 million commercial kilometres and leads global autonomous truck mileage, is still targeting mid-2028 for full L4 deployment — and that schedule hasn't moved despite the LLM boom."
+summary: "Despite rapid advances in large language models, China's autonomous trucking companies say the technology shaping their commercialisation timelines is fundamentally different: world models built on billions of kilometres of real-world driving data. Inceptio, which says its trucks have driven 700 million kilometres and which ARK Invest's report ranked first in commercial autonomous truck miles, says it is still sticking to its mid-2028 commercialization milestone, unaffected by the broad advances in AI."
 category: "industry"
 publishedAt: 2026-05-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -35,11 +36,11 @@ Chinese self-driving truck companies, who collectively operate the world's large
 
 ## The Data Reality
 
-Inceptio Technology, founded in 2018 and headquartered in Shanghai, is the dominant player in China's autonomous trucking sector. According to ARK Invest's Big Ideas 2026 report, Inceptio has accumulated more commercial autonomous truck miles than any competitor globally, including US rivals such as Aurora, Kodiak, and Waymo Via.
+Inceptio Technology, founded in 2018 and headquartered in Shanghai, is the dominant player in China's autonomous trucking sector.
 
 By late April 2026, Inceptio-powered trucks had logged approximately 700 million kilometres of commercial operations — roughly 434 million miles. The company is targeting 1 billion kilometres by year-end. But those milestones are intermediate markers. The number that matters for full L4 deployment, where a truck drives itself on public roads without any safety driver, is 5 billion kilometres.
 
-Inceptio expects to hit that threshold in the third or fourth quarter of 2028. That is when the company believes it will have enough real-world data to train the world models required for fully autonomous public-road operation. The commercialisation date — mid-2028 for initial L4 trucks, broader rollout following — has not changed despite every significant AI development of the past eighteen months.
+Inceptio expects to hit that threshold in the third or fourth quarter of 2028. That is when the company believes it will have enough real-world data to train the world models required for fully autonomous public-road operation.
 
 ## LLMs and World Models Are Different Things
 
@@ -76,3 +77,5 @@ The competitive implications extend beyond China. American autonomous trucking c
 The disconnect between LLM progress and autonomous vehicle progress is a useful corrective to the assumption that any AI advance translates directly into capability gains across all AI applications. Physical AI — robotics, autonomous vehicles, drone systems — is governed by its own data dynamics. The advances happening in language and reasoning models are impressive; they are simply not the advances that determine when autonomous trucks will run without safety drivers on Chinese highways.
 
 Inceptio's answer to that question remains the same as it was two years ago: late 2028, five billion kilometres from now.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

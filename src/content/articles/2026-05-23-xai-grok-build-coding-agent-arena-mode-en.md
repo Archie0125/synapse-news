@@ -1,8 +1,9 @@
 ---
 title: "xAI Launches Grok Build: Eight Parallel Agents, Arena Mode, and a Privacy-First Bet on Developer Loyalty"
-summary: "xAI released Grok Build 0.1 on May 14 in early access, entering the crowded AI coding-agent market with a terminal-based tool that runs up to eight parallel sub-agents and never sends your codebase to its servers. The launch puts Elon Musk's AI lab in direct competition with Anthropic's Claude Code, OpenAI Codex, and Cursor—though its benchmark scores and missing Arena Mode feature reveal a product still finding its footing."
+summary: "xAI released Grok Build in early beta on May 14, entering the crowded AI coding-agent market with a terminal-based tool that runs up to eight parallel sub-agents and never sends your codebase to its servers. The launch puts Elon Musk's AI lab in direct competition with Anthropic's Claude Code, though its benchmark scores and missing Arena Mode feature reveal a product still finding its footing."
 category: "developer-tools"
 publishedAt: 2026-05-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -69,4 +70,6 @@ For xAI to capture meaningful share, it will need more than a compelling archite
 
 None of those things are impossible. xAI has talent, compute, and a distribution channel in X that no other AI lab possesses. Grok Build 0.1 is, by design, an opening statement rather than a finished product. Whether the statement proves compelling enough to hold the early-access developer base while the team closes the gap on Arena Mode and benchmark performance is the question that the 0.2 release will have to answer.
 
-Pricing for the full Grok Build offering is $300 per month at the SuperGrok Heavy tier. API access to `grok-code-fast-1` is priced at $1 per million input tokens and $2 per million output tokens—competitive with mid-range alternatives in the space.
+Grok Build is exclusive to SuperGrok Heavy subscribers, at $299 to $300 per month depending on the source, with an introductory deal of $99 per month for the first six months. API access to `grok-code-fast-1` is priced at $0.20 per million input tokens and $1.50 per million output tokens.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

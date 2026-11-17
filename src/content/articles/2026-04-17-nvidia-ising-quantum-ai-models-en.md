@@ -1,8 +1,9 @@
 ---
 title: "NVIDIA Launches Ising: The World's First Open AI Models for Quantum Computing"
-summary: "NVIDIA has released Ising, a family of open-source AI models designed to accelerate the path to fault-tolerant quantum computers — delivering error correction that is 2.5x faster and 3x more accurate than leading open-source tools. The launch sent quantum computing stocks surging and marks a pivotal convergence between classical AI infrastructure and quantum hardware development."
+summary: "NVIDIA has released Ising, a family of open-source AI models designed to accelerate the path to useful quantum computers, with error correction decoding that is up to 2.5x faster and 3x more accurate than pyMatching, the current open-source industry standard."
 category: "hardware"
 publishedAt: 2026-04-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
 
 NVIDIA has spent the past two years quietly assembling a quantum AI research team. On April 14, 2026, that work went public.
 
-The company released **Ising** — the world's first family of open-source AI models built specifically to accelerate quantum computing research and deployment. Available now on Hugging Face and through the NVIDIA NGC catalog at no cost, the models target the two most operationally painful bottlenecks standing between today's quantum hardware and production-grade deployment: calibration and error correction.
+The company released **Ising** — the world's first family of open-source AI models built specifically to accelerate quantum computing research and deployment. Available now on GitHub, Hugging Face and build.nvidia.com, the models target two critical bottlenecks standing between today's quantum hardware and useful applications: calibration and error correction.
 
-The name is a deliberate nod to the Ising model, the foundational statistical mechanics framework that has served as a benchmark for quantum annealers and optimization problems for decades. For Jensen Huang, who fronted the announcement personally, it signals that quantum computing is no longer a speculative adjacency to NVIDIA's core GPU business — it is part of the platform roadmap.
+The name is a nod to the Ising model, a landmark mathematical model that dramatically simplified the understanding of complex physical systems. For Jensen Huang, who fronted the announcement personally, it signals that quantum computing is no longer a speculative adjacency to NVIDIA's core GPU business — it is part of the platform roadmap.
 
 ## Two Models, Two Bottlenecks Solved
 
@@ -43,7 +44,7 @@ Ising Calibration treats this problem as a multimodal perception task. The model
 
 **Ising Decoding** addresses the harder problem: real-time quantum error correction. Quantum computers make errors at rates that, without correction, would render any computation meaningless. Quantum error correction codes — particularly surface codes — work by entangling multiple physical qubits to encode a single logical qubit, then measuring syndrome bits to detect and correct errors before they propagate. The challenge is speed: the classical decoding hardware must interpret syndrome data and issue corrections faster than the rate at which new errors accumulate, a constraint that grows exponentially with qubit count.
 
-NVIDIA benchmarked Ising Decoding against pyMatching, the current open-source industry standard for surface code decoding, and found it runs **2.5x faster** while achieving **3x greater accuracy**. Two variants ship simultaneously: one optimized for raw throughput (targeting hardware pipelines where latency is critical) and one optimized for decoding fidelity (for research settings where minimizing logical error rates matters more than speed).
+NVIDIA benchmarked Ising Decoding against pyMatching, the current open-source industry standard, and found it runs up to **2.5x faster** while being up to **3x more accurate**. Two variants ship simultaneously: one optimized for raw throughput (targeting hardware pipelines where latency is critical) and one optimized for decoding fidelity (for research settings where minimizing logical error rates matters more than speed).
 
 The models are hardware-agnostic by design. They work across superconducting qubits, trapped ions, neutral atoms, and photonic platforms — meaning NVIDIA does not need to bet on a single winning hardware modality to benefit from the ecosystem's adoption.
 
@@ -51,13 +52,13 @@ The models are hardware-agnostic by design. They work across superconducting qub
 
 The launch comes with a credible and geographically diverse list of early adopters.
 
-**Atom Computing**, the neutral-atom quantum hardware startup, is using Ising Calibration in its automated drift-correction pipeline. **EeroQ**, which is building qubit systems using helium-3 surface electrons, is evaluating Ising Decoding for its error correction stack.
+**Atom Computing**, the neutral-atom quantum hardware startup, is using Ising Calibration in its automated drift-correction pipeline. **EeroQ** is among the organizations already using Ising Calibration.
 
-**Fermi National Accelerator Laboratory (Fermilab)** and **Harvard's quantum research group** are both running early research workloads on the models — a combination of national laboratory credibility and elite academic validation.
+**Fermi National Accelerator Laboratory (Fermilab)** and the **Harvard John A. Paulson School of Engineering and Applied Sciences** are both using Ising Calibration.
 
 **Academia Sinica** in Taiwan, one of Asia's most significant quantum research institutions, is also listed among adopters. The inclusion is notable given Taiwan's central role in NVIDIA's hardware supply chain and the Taiwanese government's growing investment in quantum computing capability.
 
-**Conductor Quantum**, a quantum compiler startup that recently emerged from stealth, announced it is integrating Ising Decoding directly into its control stack as a default error correction layer — a strong signal that the models are already production-grade enough for commercial tooling.
+**Conductor Quantum** is also among the organizations using Ising Calibration.
 
 ## IonQ Surges 20%; Quantum Sector Rallies
 
@@ -82,3 +83,5 @@ NVIDIA has indicated that Ising is the opening release in a broader quantum AI m
 The roadmap suggests NVIDIA intends to own the software layer of quantum computing the same way it came to own the software layer of GPU-accelerated machine learning through CUDA. That took fifteen years. The quantum version may be faster.
 
 The models are live. The race to useful quantum computing just added a new competitor — and it's the one that already makes the hardware the entire industry runs on.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

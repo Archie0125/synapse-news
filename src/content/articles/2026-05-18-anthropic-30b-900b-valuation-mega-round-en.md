@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Seeks $30 Billion at $900 Billion Valuation, Poised to Eclipse OpenAI"
-summary: "Anthropic is in talks to raise at least $30 billion at a pre-money valuation exceeding $900 billion — nearly tripling its February valuation and set to surpass OpenAI. The round would be co-led by Sequoia, Dragoneer, Greenoaks, and Altimeter, as Anthropic's ARR has rocketed from $9 billion to over $44 billion in just months."
+summary: "Anthropic is in talks to raise at least $30 billion at a valuation above $900 billion, nearly tripling its February valuation and, at that level, surpassing OpenAI's. Reports on its revenue differ, from $14 billion in annualized revenue to a run rate TechCrunch's sources put closer to $40 billion."
 category: "ai-ml"
 publishedAt: 2026-05-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -26,21 +27,21 @@ relatedSlugs:
   - "2026-05-15-anthropic-agent-sdk-billing-split-en"
 ---
 
-Anthropic is in advanced talks to raise at least $30 billion in fresh financing at a pre-money valuation exceeding $900 billion — a figure that would nearly triple the AI company's $380 billion valuation from just three months ago and position it to surpass OpenAI's current standing as the most valuable private AI company in the world.
+Anthropic is in early discussions to raise at least $30 billion in fresh financing at a valuation above $900 billion, a figure that would nearly triple the AI company's $380 billion valuation from three months ago and put it above OpenAI's $852 billion valuation.
 
-Bloomberg first reported the discussions on May 12, citing people familiar with the matter. Sequoia Capital, Dragoneer Investment Group, Greenoaks Capital, and Altimeter Capital are each expected to commit at least $2 billion, making this one of the most heavily subscribed private technology rounds in history. No formal term sheet has been signed as of this writing, but sources suggest the deal could close before the end of May.
+Bloomberg reported the discussions, citing people familiar with the matter. Sequoia Capital, Dragoneer Investment Group, Greenoaks Capital, and Altimeter Capital are each expected to commit at least $2 billion, making this one of the most heavily subscribed private technology rounds in history. No formal term sheet has been signed as of this writing, but sources suggest the deal could close before the end of May.
 
 ## A Valuation Trajectory Like No Other
 
 The speed of Anthropic's valuation growth is, by any historical measure, extraordinary. The company raised its Series G at a $380 billion post-money valuation in February 2026 — itself the second-largest venture funding deal ever at that time, totaling $30 billion. Now, less than 100 days later, investors are pricing the company at more than twice that figure on a pre-money basis.
 
-For comparison, OpenAI closed what was then the largest private funding round in history on March 31, 2026, pulling in $122 billion at an $852 billion valuation, with Amazon contributing $50 billion and both NVIDIA and SoftBank committing $30 billion each. If Anthropic's new round closes at $900 billion pre-money, the post-money valuation would cross the trillion-dollar threshold — a milestone only a handful of public companies have ever reached and no private AI company has yet claimed.
+For comparison, OpenAI closed what was then the largest private funding round in history on March 31, 2026, pulling in $122 billion at an $852 billion valuation, with Amazon contributing $50 billion and both NVIDIA and SoftBank committing $30 billion each. If Anthropic's new round closes at a $900 billion valuation, it would be within striking distance of $1 trillion.
 
 The implication is stark: Anthropic could close 2026 as the most valuable company that has never traded on a public exchange.
 
 ## Revenue That Justifies the Excitement
 
-The stratospheric valuation is anchored in revenue growth that few technology companies have achieved at this scale. Anthropic's annualized revenue sat at approximately $9 billion at the end of 2025. By April 2026, that figure had climbed past $30 billion. Q1 2026 ARR is now reported above $44 billion — a growth rate of roughly 80 times year-over-year.
+The stratospheric valuation is anchored in revenue growth that few technology companies have achieved at this scale. Anthropic's annualized revenue was about $10 billion last year, according to CNBC. By April 2026, that figure had climbed past $30 billion. Annualized revenue is now reported at $14 billion by CNBC, while TechCrunch's sources put the run rate closer to $40 billion.
 
 The company counts over 1,000 customers each spending at least $1 million annually, a metric that signals deep enterprise penetration rather than consumer novelty. Major clients include PwC — which has certified 30,000 US professionals on Claude and deployed Claude Code across its global workforce — along with Blackstone and Goldman Sachs. These are not experimental pilots. They represent AI embedded into core operational workflows at some of the world's largest professional services firms.
 
@@ -69,3 +70,5 @@ The round also arrives as the hyperscalers deepen their own AI bets. CoreWeave h
 What the $900 billion round definitively signals is that institutional capital — from sovereign wealth funds to crossover hedge funds — has accepted that the AI software layer will generate durable, enterprise-grade revenue at a scale that justifies category-defining valuations. The debate over whether AI companies deserve premium multiples has ended. The debate over which two or three will survive as independent companies has just begun.
 
 Anthropic has made a compelling case that it intends to be one of them.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

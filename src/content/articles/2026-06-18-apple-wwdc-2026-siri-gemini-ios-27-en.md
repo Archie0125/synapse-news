@@ -1,8 +1,9 @@
 ---
-title: "Apple Pays $1B a Year to Remake Siri with Google Gemini — WWDC 2026 Recap"
-summary: "At WWDC 2026, Apple unveiled a completely rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model in a deal reportedly worth $1 billion annually. iOS 27 and macOS 27 'Golden Gate' ship deep AI integration across every core app, marking Apple's boldest AI strategy pivot yet."
+title: "Apple Reportedly Pays $1B a Year for Google Gemini to Power Siri — WWDC 2026 Recap"
+summary: "At WWDC 2026, Apple unveiled a rebuilt Siri with Google Gemini under the hood, in a deal Bloomberg reportedly puts at about $1 billion a year. iOS 27 and macOS 27 'Golden Gate' bring new AI features to a range of apps, with public releases set for the fall."
 category: "ai-ml"
 publishedAt: 2026-06-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-06-18-openai-gpt56-imminent-june-launch-en"
 ---
 
-When Apple CEO Tim Cook took the stage at Apple Park on June 9, the opening act was not a new iPhone, a new chip, or a new product category. It was the most consequential software partnership in Apple's history: a reported $1 billion-per-year deal with Google to put a custom Gemini AI model at the core of Siri.
+When Apple held its WWDC 2026 keynote at Apple Park on June 8, the event led with fixes before features, and framed a better Siri as one item on a long list of improvements. Still, one of the biggest talking points was a reported $1 billion-per-year deal with Google to put a custom Gemini AI model behind the new Siri.
 
 For nearly two decades, Siri has been a reliable punchline — the assistant that searched the web when you wanted an answer, the voice in your pocket that failed to set a timer on the first try. WWDC 2026 was Apple's declaration that the joke is over.
 
@@ -89,3 +90,5 @@ Developer betas of iOS 27, iPadOS 27, macOS 27, watchOS 27, and visionOS 27 are 
 WWDC 2026 was conspicuously hardware-free — no new Mac, no updated iPad, no Vision Pro announcement. That silence is deliberate: Apple is saving its product stage for the fall, and likely for a fall in which the AI capabilities demonstrated this week will be a central part of every pitch.
 
 For the first time since Siri's 2011 debut, Apple's AI assistant is genuinely competitive. Whether the $1 billion-per-year bet on Google's infrastructure turns out to be a bridge to a stronger in-house position — or a permanent strategic dependency — is the question that will define Apple's AI decade.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

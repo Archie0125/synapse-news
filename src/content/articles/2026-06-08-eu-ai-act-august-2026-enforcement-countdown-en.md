@@ -1,8 +1,9 @@
 ---
 title: "55 Days to Go: What the EU AI Act's August 2 Enforcement Date Actually Means for Tech Companies"
-summary: "With August 2, 2026 approaching, the EU AI Act enters its most consequential enforcement phase yet—GPAI model obligations go into full force and transparency requirements become enforceable. But a last-minute 'Omnibus' deferral agreement has granted high-risk AI systems a 16-month reprieve, creating a split regulatory moment that will define how the world's most comprehensive AI law takes hold."
+summary: "With August 2, 2026 approaching, the EU AI Act reaches a key compliance date as Article 50 transparency requirements apply. But a provisional 'Omnibus' agreement would postpone high-risk AI obligations by over a year, creating a split regulatory moment for the EU's AI law."
 category: "policy"
 publishedAt: 2026-06-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -42,7 +43,7 @@ The first is **transparency requirements**. From August 2, systems that interact
 
 The second and more consequential track is **General Purpose AI (GPAI) model enforcement**. Obligations for GPAI providers have technically been in force since August 2025, but the Commission's enforcement powers—including the ability to impose fines—activate fully on August 2, 2026. Every provider of a GPAI model placed on the EU market must maintain detailed technical documentation covering model architecture and training procedures, publish training data summaries using the AI Office's approved template, comply with EU copyright law including opt-out mechanisms under the Copyright Directive, and provide documentation packages to downstream deployers.
 
-For frontier model providers—OpenAI, Google DeepMind, Anthropic, Meta, Mistral, and others—August 2 represents the moment when GPAI compliance moves from voluntary best effort to enforceable legal requirement. The maximum fine for violations is €35 million or 7% of global annual turnover, whichever is higher—a figure that exceeds GDPR's penalty ceiling.
+GPAI model obligations have applied since August 2025, so providers of such models are already subject to them. The maximum fine for violations is €35 million or 7% of global annual turnover, whichever is higher—a figure that exceeds GDPR's penalty ceiling.
 
 ## The Omnibus Deferral: A 16-Month Reprieve for High-Risk AI
 
@@ -77,3 +78,5 @@ The EU AI Act does not exist in isolation. The collapse of Colorado's SB 24-205�
 That divergence is consequential for global tech companies navigating a dual compliance burden. Europe's extraterritorial enforcement paired with a Biden-era AI safety framework replaced by the Trump administration's more permissive approach creates a situation where operating globally means compliance with the world's most demanding jurisdiction whether or not you are subject to any domestic U.S. equivalent. For companies of any scale serving European consumers, August 2 is not a foreign policy question. It is a compliance deadline.
 
 With 55 days remaining and two critical obligation categories activating, the window for preparation is measurable and short.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

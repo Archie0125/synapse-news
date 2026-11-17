@@ -1,8 +1,9 @@
 ---
 title: "Google DeepMind 解散諾貝爾獎得主團隊，AlphaFold 研究組走入歷史"
-summary: "Google DeepMind 已解散 AlphaFold 的專責研究團隊——這個蛋白質結構預測系統曾贏得 2024 年諾貝爾化學獎。諾貝爾獎得主 John Jumper 於 2026 年 6 月轉投 Anthropic，共同作者 Jonas Adler 與 Alexander Pritzel 也已離職。其餘研究員被調派至 Gemini、酶設計、核融合、基因組學及 Isomorphic Labs 等項目，標誌著 DeepMind 從獨立「重大挑戰」團隊模式，向以 Gemini 為核心的通用 AI 平台策略的根本轉型。"
+summary: "Google DeepMind 已解散 AlphaFold 的專責研究團隊——這個蛋白質結構預測系統曾贏得 2024 年諾貝爾化學獎。諾貝爾獎得主 John Jumper 於 2026 年 6 月轉投 Anthropic，共同作者 Jonas Adler 與 Alexander Pritzel 也已離職。其餘研究員被調派至 Gemini、酶設計、核融合、基因組學及 Isomorphic Labs 等項目，反映出 Google 正將更多資源投入 Gemini。"
 category: "ai-ml"
 publishedAt: 2026-08-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-07-17-google-gemini-35-pro-launch-en"
 ---
 
-2020 年，AlphaFold 解開了生物學最難的懸案之一——僅憑氨基酸序列，預測蛋白質的三維空間結構——並在一夜之間改變了生化研究的軌跡。2024 年，這項成果為 Google DeepMind 的 Demis Hassabis 與核心成員 John Jumper 贏得諾貝爾化學獎，首次將這個獎項頒給一個 AI 系統的科學貢獻。到了 2026 年 7 月，打造這一切的團隊已遭解散。
+2020 年，AlphaFold 被公認解決了已有 50 年歷史的「蛋白質摺疊問題」：由氨基酸序列預測蛋白質的三維空間結構。2024 年，這項成果為 Google DeepMind 的 Demis Hassabis 與核心成員 John Jumper 贏得諾貝爾化學獎，首次將這個獎項頒給一個 AI 系統的科學貢獻。到了 2026 年 7 月，打造這一切的團隊已遭解散。
 
 英國《金融時報》於 2026 年 7 月 29 至 30 日刊出的報導確認，DeepMind 已解散 AlphaFold 的專責研究小組。這次重組過去一年來悄然進行，幾乎沒有公開聲響，但最知名成員的離職，使這次轉變無從忽視。
 
@@ -39,17 +40,17 @@ relatedSlugs:
 
 Jumper 加入 Anthropic，是過去十八個月中 AI 史上最具份量的人才遷徙潮中的最新一頁。Anthropic 已持續吸引一批來自 DeepMind 的資深研究員：諾貝爾獎級別的人才、頂尖機器人工程師，以及在可解釋性與對齊研究領域的關鍵人物。這一規律的一致性，已超越偶然——它反映出一種刻意的招聘策略，以及一種研究員認為足以讓他們離開這個培育自己的諾貝爾獎實驗室的工作環境。
 
-Google DeepMind 拒絕就具體離職事宜置評。在向《金融時報》發表的聲明中，公司將此次重組定性為自然演進，指出 AlphaFold 的科學使命已大體完成。
+DeepMind 向《金融時報》證實，已將部分員工內部調往以 Gemini 為重點的項目。DeepMind 發言人在聲明中表示，公司為 AlphaFold 的科學傳承感到自豪，其背後的許多研究員仍持續推動 Google、Google DeepMind 及 Isomorphic Labs 的各項進展。
 
 ## 其餘成員的去向
 
-留下的研究員被分配至 DeepMind 現有的各個項目。他們的去向，訴說著 DeepMind 當前的策略重心：Gemini（基礎模型項目）、酶設計、核融合（Genie 項目）、基因組學，以及 Isomorphic Labs——這家 Alphabet 衍生公司專注於 AI 加速藥物研發，其根基正是 AlphaFold 的蛋白質預測能力。
+留下的研究員被分配至 DeepMind 現有的各個項目。他們的去向顯示 DeepMind 當前的策略重心：Gemini、酶設計、核融合、基因組學和藥物研發等科學項目，以及 Isomorphic Labs——這家 Alphabet 的藥物研發公司，是 DeepMind 的衍生公司。
 
-AlphaFold 資料庫仍完全正常運行。截至解散時，資料庫收錄逾 2 億個預測蛋白質結構，涵蓋已知蛋白質組中幾乎所有蛋白質，可供全球學術研究人員免費查閱。伺服器持續接受查詢。就最實際的意義而言，AlphaFold 的科學成果已永久部署——改變的，是 DeepMind 不再有專責擴展它的團隊。
+AlphaFold 資料庫仍完全正常運行。AlphaFold 蛋白質結構資料庫讓研究人員可免費取用逾 2 億個蛋白質結構預測。伺服器持續接受查詢。就最實際的意義而言，AlphaFold 的科學成果已永久部署——改變的，是 DeepMind 不再有專責擴展它的團隊。
 
 ## DeepMind 的 Gemini 戰略豪賭
 
-此次解散反映了 DeepMind 過去兩年來日益清晰的組織哲學：從各自負責單一科學「重大挑戰」的孤立團隊（AlphaFold、AlphaStar、WaveNet），轉向以 Gemini 作為通用科學智能平台的模式——專業領域知識被融入其中，而非隔離在各自的小組。
+此次解散反映出 Google 正將更多資源投入 Gemini；DeepMind 的 Pushmeet Kohli 表示，過去九年專注於重大挑戰的策略「已經演進」。
 
 這個邏輯有其合理性。AlphaFold 的核心洞見——蛋白質結構預測可以通過訓練於序列資料的大型 Transformer 來解決——現在看來，是一個更普遍原則的特例：足夠大型且強大的基礎模型，能夠在以往需要專用架構的許多科學問題上取得突破。如果 Gemini（或針對生物資料微調的衍生模型）能夠複製並擴展 AlphaFold 的能力，同時在酶工程、基因組學和藥物分子生成方面也有所作為，那麼一個獨立的 AlphaFold 小組就是對人才的低效率使用。
 
@@ -64,3 +65,5 @@ Anthropic 的員工名單上，如今已有多位前 DeepMind 資深研究員、
 對依賴 AlphaFold 的廣大科學界而言，眼前的實際衝擊有限：資料庫正常運作，API 正常運作，歐洲生物信息學研究所（EBI）維護著相關基礎設施。但失去了一個專注於擴展和改進這個系統的團隊，意味著未來蛋白質 AI 的進展，最可能來自學術機構、Isomorphic Labs 或新興商業參與者——而非那個以發明這個領域而獲頒諾貝爾獎的組織。
 
 這個結果本身，就是 AI 研究如何重組的一個縮影：曾經定義前沿的工具成為基礎設施，打造它們的研究員繼續前行，尋找下一個未解問題——無論是在同一個組織內，還是別處。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

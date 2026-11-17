@@ -1,8 +1,9 @@
 ---
-title: "2026 Is the Year AI Became the Hacker's Best Weapon — Mandiant's Annual Report Lays Out the Damage"
-summary: "Google's Mandiant has released its M-Trends 2026 report, drawing on 450,000 hours of incident response work to document a threat landscape reshaped by AI. Attack handoff times have collapsed from eight hours in 2022 to just 22 seconds; 28.3% of CVEs are now exploited within 24 hours of disclosure; and AI-powered malware families are querying LLMs mid-execution to evade detection."
+title: "Mandiant's M-Trends 2026 Report Shows Attackers Moving Faster, Though AI Is Not Yet Driving Breaches"
+summary: "Google's Mandiant has released its M-Trends 2026 report, drawing on more than 500,000 hours of incident investigations. The median time between initial access and hand-off to a secondary group fell from more than eight hours in 2022 to 22 seconds in 2025, and malware families such as PROMPTFLUX query LLMs mid-execution to evade detection."
 category: "ai-ml"
 publishedAt: 2026-05-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-05-05-whitehouse-ai-model-prerelease-review-en"
 ---
 
-There has never been a shortage of annual cybersecurity threat reports, but Google's Mandiant M-Trends series occupies a particular position: it is built entirely from real incident response data, not vendor surveys or threat modeling exercises. The M-Trends 2026 edition, drawing on more than 450,000 hours of Mandiant investigations worldwide, documents a threat landscape in which AI has moved from a theoretical force multiplier to a measurable operational reality for attackers — and not yet for defenders to the same degree.
+There has never been a shortage of annual cybersecurity threat reports, but Google's Mandiant M-Trends series occupies a particular position: it is built entirely from real incident response data, not vendor surveys or threat modeling exercises. The M-Trends 2026 edition, drawing on more than 500,000 hours of Mandiant investigations worldwide, documents a threat landscape in which attackers are beginning to use AI, although Mandiant does not consider 2025 the year breaches were the direct result of AI.
 
-The headline number that has circulated most widely since the report's release is 22 seconds — the current median time between initial network access being established and that access being handed off to a second-stage threat actor. In 2022, the equivalent figure was more than eight hours. In 2023, it had fallen to under two hours. The collapse is not gradual; it is exponential, driven by the industrialization of attack infrastructure and, increasingly, by AI tools that automate the steps between initial foothold and lateral movement.
+The headline number that has circulated most widely since the report's release is 22 seconds — the current median time between initial network access being established and that access being handed off to a second-stage threat actor. In 2022, the equivalent figure was more than eight hours. In 2023, it had fallen to under two hours. The decline has been steady since 2023, and Mandiant researchers believe it reflects closer collaboration between initial access partners and secondary groups, including automated processes in which initial access partners deliver malware directly on behalf of secondary groups.
 
 ## The Patch Gap Has Become Untenable
 
@@ -49,7 +50,7 @@ Mandiant's research teams documented two malware families in particular. PROMPTF
 
 The use of external API calls to LLMs during malware execution represents an architectural shift: instead of encoding attack logic statically in the binary, threat actors are outsourcing reasoning to foundation models in real time. This makes malware substantially harder to detect with signature-based methods, since the "intelligence" is not present in the sample itself.
 
-A third indicator in the report, QUIETVAULT, is a credential stealer that specifically checks infected machines for locally installed AI command-line tools — targeting the API keys and session tokens that developers commonly store in plaintext configuration files for Claude, GPT, and open-source model interfaces. The exploitation of AI developer toolchains as an attack surface is a direct consequence of the AI developer ecosystem expanding faster than security hygiene practices.
+A third indicator in the report, QUIETVAULT, is a credential stealer seen in a supply chain compromise that checks infected machines for locally installed AI command-line tools and, if found, executes prompts to locate configuration files and harvest developer tokens. The exploitation of AI developer toolchains as an attack surface is a direct consequence of the AI developer ecosystem expanding faster than security hygiene practices.
 
 ## Nation-State and Criminal Actors Converge on AI Tooling
 
@@ -61,15 +62,15 @@ Financially motivated threat actors — ransomware groups, initial access broker
 
 ## The Defender Asymmetry Problem
 
-The most uncomfortable finding in M-Trends 2026 is the asymmetry: AI has improved attacker capabilities more dramatically than defender capabilities, at least as measured by actual incident outcome data. Mandiant's overall breach dwell time — the median duration between initial compromise and detection — has improved modestly over the past two years, from 16 days in 2023 to 11 days in 2025. But the attack-side improvements are larger in magnitude: faster handoffs, faster exploitation, and now AI-enhanced evasion.
+The report's overall assessment is that AI use in attacks remains incremental: 2025 was not the year where breaches were the direct result of AI, and most successful intrusions still stem from human and systemic failures. Mandiant's global median dwell time — the median duration between initial compromise and detection — rose to 14 days in 2025 from 11 days in 2024, driven largely by long-term espionage intrusions and North Korean IT worker operations. Meanwhile, attackers have sped up handoffs and exploitation.
 
-The gap exists for structural reasons. Attackers are unconstrained optimizers — they can adopt any AI tool that improves their success rate without worrying about vendor relationships, procurement cycles, or regulatory approval for AI use in security systems. Defenders operate under institutional constraints: AI-based security products require vendor evaluation, legal review, and IT deployment cycles measured in months. By the time a defensive AI capability is widely deployed, the offensive community has iterated past it.
+Attackers are unconstrained optimizers — they can adopt any AI tool that improves their success rate without worrying about vendor relationships, procurement cycles, or regulatory approval for AI use in security systems. Defenders operate under institutional constraints: AI-based security products require vendor evaluation, legal review, and IT deployment cycles measured in months. By the time a defensive AI capability is widely deployed, the offensive community has iterated past it.
 
-This is not a counsel of despair. Mandiant's report also documents organizations where AI-assisted detection and response has materially shortened the window between initial compromise and containment — some measured in hours rather than the 11-day median. But those organizations cluster in sectors with the resources and security maturity to move fast: financial services, defense contractors, and major cloud providers. The median enterprise is still fighting the last war.
+This is not a counsel of despair. But those organizations cluster in sectors with the resources and security maturity to move fast: financial services, defense contractors, and major cloud providers. The median enterprise is still fighting the last war.
 
 ## What Security Teams Should Do Now
 
-The prescriptive section of M-Trends 2026 focuses on three operational priorities derived from the year's breach data.
+The recommendations section of M-Trends 2026 offers five areas of guidance for defenders, including treating low-impact alerts as critical, isolating control planes, continuous identity verification, behavioral detection and longer log retention.
 
 First, privileged access management cannot wait. The majority of cases where an initial foothold became a catastrophic breach involved attackers obtaining privileged credentials within the first 24 hours. Zero-trust architecture and privileged access workstations for administrative functions are no longer aspirational; they are the structural difference between a contained incident and a ransomware deployment.
 
@@ -78,3 +79,5 @@ Second, detection must move to the access layer, not just the endpoint. Signatur
 Third, AI developer assets need to be treated as crown jewels. The QUIETVAULT finding reflects a broader attack surface that security teams have been slow to classify: every developer with LLM API keys in their home directory, every CI/CD pipeline with model API credentials, is a potential entry point for attackers seeking to abuse AI compute resources or pivot into adjacent systems. The AI security hygiene gap is 2026's version of the cloud credential hygiene gap that produced the major cloud breaches of 2019 to 2022.
 
 The adversaries, as M-Trends 2026 makes clear, have already done this analysis.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

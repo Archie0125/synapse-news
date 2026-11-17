@@ -1,8 +1,9 @@
 ---
-title: "OpenAI Trial Week 3: Shivon Zilis Reveals Musk Wanted Tesla to Absorb OpenAI"
-summary: "Former OpenAI board member Shivon Zilis — who also has four children with Elon Musk — testified this week that Musk attempted to negotiate a Tesla takeover of OpenAI in 2017–2018, offering Sam Altman a Tesla board seat as an inducement. The testimony adds to a growing picture of Musk's ambitions to control the AI company he co-founded."
+title: "OpenAI Trial: Shivon Zilis Says Musk Wanted OpenAI to Join Tesla"
+summary: "Former OpenAI board member Shivon Zilis, who also has four children with Elon Musk, testified this week that Musk wanted OpenAI to join Tesla and offered Sam Altman a Tesla board seat during negotiations over the company's structure."
 category: "policy"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,15 +28,15 @@ relatedSlugs:
   - "2026-05-05-openai-trial-week2-brockman-testimony-en"
 ---
 
-The courtroom drama surrounding Elon Musk's $130 billion lawsuit against OpenAI reached its most personal moment yet this week when Shivon Zilis took the stand in Oakland federal court. Zilis occupies a uniquely complicated position in this case: she is a former OpenAI board member who served from 2020 to 2023, and she is also the mother of four of Musk's children — a personal entanglement that made her one of the trial's most closely watched witnesses.
+The courtroom drama surrounding Elon Musk's lawsuit against OpenAI reached a personal moment this week when Shivon Zilis took the stand in Oakland federal court. Zilis occupies a uniquely complicated position in this case: she is a former OpenAI board member who served from 2020 to 2023, and she is also the mother of four of Musk's children — a personal entanglement that made her one of the trial's most closely watched witnesses.
 
-Her two days of testimony on May 6 and 7 shed new light on the chaotic internal negotiations at OpenAI's founding, Musk's broader ambitions for the organization, and the tangled personal relationships at the center of this billion-dollar legal fight.
+Her testimony on Wednesday shed new light on the internal negotiations at OpenAI over its corporate structure, Musk's ambitions for the organization, and the tangled personal relationships at the center of this legal fight.
 
 ## The Tesla Gambit
 
-The most significant revelation from Zilis's testimony: during negotiations around OpenAI's corporate structure in 2017 and 2018, Musk proposed that OpenAI should effectively merge with or be absorbed into Tesla. As an inducement to Sam Altman, Musk offered him a seat on Tesla's board of directors.
+A key point in Zilis's testimony: during negotiations around OpenAI's corporate structure, Musk wanted OpenAI to join Tesla. At one point during those negotiations, Musk offered Sam Altman a seat on Tesla's board of directors.
 
-The offer was rejected. But its very existence reframes the central narrative of the trial. Musk's legal team has argued that he donated hundreds of millions to OpenAI based on a promise that it would remain a nonprofit dedicated to humanity's benefit — and that its eventual conversion to a for-profit structure constituted a betrayal of that promise. The Tesla board seat offer suggests an alternative reading: that Musk wanted OpenAI not simply to remain a nonprofit, but to become an asset under his personal control, potentially integrated into the empire he was building across Tesla, SpaceX, and beyond.
+By February 2018, it had become clear that OpenAI would not join Tesla. But its very existence reframes the central narrative of the trial. Musk sued alleging that OpenAI, Altman and Brockman went back on their promises to keep the company a nonprofit and to follow its charitable mission. The Tesla board seat offer suggests an alternative reading: that Musk wanted OpenAI not simply to remain a nonprofit, but to become an asset under his personal control, potentially integrated into the empire he was building across Tesla, SpaceX, and beyond.
 
 "There were lots and lots of arguments about all of the different possible structures put in place at that time," Zilis testified, describing conversations among OpenAI's leadership as exhausting and contentious. The group discussed corporate structure "ad nauseam," she said, making clear that the nonprofit question was not settled doctrine but a subject of ongoing, heated debate even in the early years.
 
@@ -49,22 +50,22 @@ Simultaneously sitting on OpenAI's board and trying to hire away its key researc
 
 Zilis's testimony about her personal relationship with Musk was brief but revealing. She confirmed that she signed a non-disclosure agreement with Musk regarding his initial "donation" — a characterization of the sperm donation arrangement — and that the agreement included provisions for "complete confidentiality," partly to protect the children from security risks.
 
-That NDA was not directly relevant to the OpenAI litigation, but its existence highlighted the degree to which Zilis's role as a witness is complicated by her personal ties to the plaintiff. Defense attorneys for OpenAI pressed her on her divided loyalties throughout cross-examination; Musk's attorneys presented her as an insider who could corroborate his account of OpenAI's founding promises.
+That NDA was not directly relevant to the OpenAI litigation, but its existence highlighted the degree to which Zilis's role as a witness is complicated by her personal ties to the plaintiff. Lawyers for both Musk and OpenAI questioned her, and Musk's attorney asked whether it was her job to funnel information to Musk, which she denied.
 
-In the end, her testimony served neither side cleanly. She confirmed that corporate structure was debated extensively — useful for Musk's case. She also confirmed that Musk sought to poach talent while on the board, and that he sought to bring OpenAI under Tesla's umbrella — useful for OpenAI's defense.
+In the end, her testimony served neither side cleanly. She confirmed that corporate structure was debated extensively — useful for Musk's case. Messages shown in court indicated that Musk sought to move people from OpenAI to Tesla while on the board, and she conceded that Musk approached Karpathy first.
 
-## Brockman's $30 Billion Stake
+## Brockman's Testimony
 
-Before Zilis took the stand, OpenAI president Greg Brockman completed two days of testimony. Brockman, who cofounded OpenAI with Musk and Altman, disclosed during cross-examination that his personal stake in the company is worth approximately $30 billion based on OpenAI's current $852 billion valuation. Musk's attorneys used this disclosure to suggest Brockman had a significant financial conflict of interest in the decisions that led to OpenAI's for-profit conversion.
+Before Zilis took the stand, OpenAI president Greg Brockman testified on Tuesday. Brockman, who cofounded OpenAI with Musk and Altman, testified that Zilis told him in 2021 she was pregnant with twins and that she said it was via IVF and entirely platonic with Musk.
 
-Brockman's testimony focused on how OpenAI was formed, the nature of his relationship with Musk during the founding period, and the internal logic behind the company's evolution from nonprofit to capped-profit to public benefit corporation. He maintained that the structural changes were necessary for OpenAI to compete effectively in an increasingly capital-intensive AI race — a point Musk's team disputes as justification for abandoning the founding mission.
+He also testified that many board members wanted to remove Zilis from the board because of her relationship with Musk, but that the board voted to let her stay.
 
 ## Where the Trial Stands
 
-After two and a half weeks of testimony, the trial has produced an unusually rich documentary record of OpenAI's early history — a period that has been mythologized but rarely examined under oath. The nine-person jury has heard from Musk himself (three days on the stand), Brockman, Zilis, and a series of supporting witnesses on both sides.
+After the second week of testimony, the trial has produced a documentary record of OpenAI's early history. The jury has heard from Musk himself (three days on the stand), Brockman, Zilis, and other witnesses.
 
 Prediction markets have shifted against Musk since the trial began. As of midweek, traders priced his odds of prevailing at approximately 40%, down from higher levels before testimony began. The documentary evidence — including the Tesla takeover proposal and the talent poaching messages — appears to have raised questions about whether Musk's stated motivation (protecting OpenAI's nonprofit mission) accurately describes his actual intentions during the period in question.
 
-The judge has indicated she expects to issue her ruling by mid-May, after the advisory jury delivers its findings. The stakes extend well beyond the $130 billion in damages Musk is seeking: a ruling in his favor could force OpenAI to unwind its for-profit conversion, dramatically disrupting the company's plans for an IPO at a valuation that briefly touched $1 trillion earlier this year.
-
 What has become clear through the testimony is that OpenAI's early years were not the unified mission-driven endeavor that founding mythology suggested. They were contentious, improvisational, and shaped as much by competing personal ambitions as by any shared vision for the future of AI. That complexity cuts against clean narratives on both sides — and may ultimately determine which account the judge finds more credible.
+
+*Correction (November 15, 2026): 20 sentences were corrected or removed to match the sources listed on this page.*

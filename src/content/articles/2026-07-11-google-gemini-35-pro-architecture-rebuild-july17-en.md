@@ -3,6 +3,7 @@ title: "Google Scraps Gemini 3.5 Pro Architecture Entirely, Targets July 17 With
 summary: "Google DeepMind has abandoned the existing Gemini 2.5 Pro architecture mid-development and launched an entirely new pre-training run for Gemini 3.5 Pro, targeting a July 17 launch. The scrapped architecture hit performance ceilings in multi-step mathematical reasoning and SVG scene generation, prompting an unprecedented engineering pivot that DeepMind is betting will produce a model competitive with GPT-5.6 Sol and Anthropic's Fable 5."
 category: "ai-ml"
 publishedAt: 2026-07-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,7 +32,7 @@ The story of Google's Gemini 3.5 Pro has taken a more dramatic turn than origina
 
 ## What Actually Happened to the Original Architecture
 
-According to reporting from multiple sources close to the project, DeepMind engineers reached a conclusion that the Gemini 3.5 model trained on the 2.5 Pro base architecture had hit performance ceilings that could not be resolved through fine-tuning or post-training interventions. Two capability areas were identified as the critical failure modes:
+According to reporting from multiple sources close to the project, DeepMind engineers reached a conclusion that the Gemini 3.5 model trained on the 2.5 Pro base architecture had hit performance ceilings that could not be resolved through fine-tuning or post-training interventions. Three capability gaps were identified as the critical failure modes, with the first two detailed below:
 
 **Multi-step mathematical reasoning**: The model consistently underperformed on complex chained mathematical derivations — the kind of extended, multi-stage proofs that are a primary use case for frontier models in academic, engineering, and scientific contexts. Internal benchmarks reportedly showed degradation in long-horizon reasoning chains, with the model losing track of intermediate steps in ways that could not be patched post-training.
 
@@ -57,14 +58,16 @@ The rebuilt Gemini 3.5 Pro targets several capability areas that the scrapped ve
 
 ## The Talent Context
 
-The architecture decision does not exist in isolation. DeepMind has lost several senior researchers in rapid succession in recent weeks, including two figures instrumental to Gemini's multimodal architecture and one senior researcher who had worked on the reasoning scaling pipeline. These departures, reported earlier this week, have raised questions about whether DeepMind's internal talent base remains intact enough to execute at frontier pace.
+The architecture decision does not exist in isolation. DeepMind has lost several senior researchers in rapid succession in recent weeks, including two figures instrumental to Gemini's multimodal architecture and one senior researcher who had worked on the reasoning scaling pipeline. These departures, which came in the second half of June, have raised questions about whether DeepMind's internal talent base remains intact enough to execute at frontier pace.
 
 The architecture scrapping and the talent losses together create a perception problem for Google, even if neither is definitively causal. From the outside, the picture of a company that delayed its flagship model, then scrapped its architecture, while losing key researchers, reads as evidence of internal turbulence — regardless of whether the full restart is, in fact, the strategically correct move.
 
 ## What July 17 Actually Means
 
-The July 17 target date is three days away from DeepSeek's V4 API migration deadline on July 24 — creating a narrow window in which developers weighing Chinese model alternatives will also be evaluating whether a rebuilt Gemini 3.5 Pro changes their calculations. That juxtaposition is unlikely to be accidental in DeepMind's release planning.
+The July 17 target date is seven days before DeepSeek's V4 API migration deadline on July 24, creating a narrow window in which developers weighing Chinese model alternatives will also be evaluating whether a rebuilt Gemini 3.5 Pro changes their calculations. That juxtaposition is unlikely to be accidental in DeepMind's release planning.
 
 If the rebuilt Gemini 3.5 Pro delivers on its specifications — particularly the 2M context window and the improved math reasoning — it would meaningfully close the gap between Google and the current leaders on the tasks that enterprise buyers care most about. The question is whether a model that went through an unprecedented architecture restart in the past two weeks is ready for the kind of scrutiny that a flagship release from a major lab invites.
 
 July 17 will tell us whether the decision to restart was brilliant urgency or manufactured confidence.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

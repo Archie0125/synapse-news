@@ -1,8 +1,9 @@
 ---
-title: "'Chat Is Dead': OpenAI Launches ChatGPT Superapp, Betting Agents Will Replace Conversations"
-summary: "OpenAI is rolling out its biggest ChatGPT redesign in history, codenamed 'Aria,' transforming the chatbot into a full superapp with integrated AI agents, Codex coding tools, image generation, and agentic commerce powered by MCP and Stripe. The launch, timed ahead of OpenAI's IPO, marks a decisive pivot from conversational AI toward autonomous software that acts on users' behalf."
+title: "'Chat Is Dead': OpenAI Plans ChatGPT Superapp Overhaul Built Around Agents and Coding Tools"
+summary: "OpenAI is preparing its biggest ChatGPT redesign since launch, reportedly codenamed 'Aria,' turning the chatbot into a superapp with AI agents, Codex coding tools and image generation. The overhaul is reportedly aimed at business customers and at getting closer to profitability before an IPO."
 category: "products"
 publishedAt: 2026-06-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -27,31 +28,31 @@ relatedSlugs:
   - "2026-06-04-mcp-protocol-explosion-en"
 ---
 
-When a senior OpenAI employee declared "Chat is dead" in an internal meeting last month, it wasn't hyperbole. It was a product roadmap. Today, OpenAI is delivering on that vision with the general availability of its most sweeping ChatGPT overhaul since the product launched in November 2022 — a transformation from conversational chatbot into what the company is calling a "superapp."
+A senior OpenAI employee told the Financial Times that "Chat is dead," and it wasn't hyperbole. It was a product roadmap. It was a product roadmap. OpenAI is preparing the largest overhaul of ChatGPT since launch, a transformation from conversational chatbot into what is being called a "superapp."
 
 ## The Death of the Chatbot Era
 
-The redesign, internally codenamed **Aria**, replaces ChatGPT's familiar chat-first interface with an agent-orchestration layer that sits above it. Instead of answering questions, the new ChatGPT is built around doing things: writing and executing code, managing files, booking appointments, shopping, and running automated workflows that span multiple services.
+The redesign, reportedly codenamed **Aria** internally, would turn ChatGPT from a question-and-answer tool into a superapp that takes actions. Instead of only answering questions, the new ChatGPT is built around doing things: taking actions, running code, generating images and reaching into outside services such as Booking.com and Canva.
 
-Thibault Sottiaux, who leads OpenAI's core product team, described the vision plainly: "A product where you have your own personal agent that is capable of helping you across everything in your life, be it personally or at work." That's no longer a vision statement — starting today, it's the default experience for ChatGPT's more than 500 million registered users.
+Thibault Sottiaux, who leads OpenAI's core product team, described the vision plainly: "A product where you have your own personal agent that is capable of helping you across everything in your life, be it personally or at work." That is the direction of the overhaul, which is reported to reach all of ChatGPT's roughly 900 million weekly users, with June 9 reported as a target date.
 
-The timing is deliberate. With OpenAI's S-1 filed and an IPO expected later this year, the company faces intense pressure to demonstrate it can convert its enormous user base into recurring, high-margin revenue. The superapp is the answer to that pressure.
+The timing is deliberate. With an IPO planned, the company faces pressure to get closer to profitability and to turn its enormous user base into products people will pay for. The superapp is the answer to that pressure.
 
 ## What's Actually New
 
 The Aria redesign integrates several previously standalone products directly into the ChatGPT interface:
 
-**Codex, now center-stage.** OpenAI's AI coding agent, which launched as a separate tool, is now embedded directly into the main ChatGPT interface. Codex has surpassed 5 million weekly active users and recorded 6x growth since its deployment to the desktop app — making it the fastest-growing product in OpenAI's lineup. Rather than requiring a separate tool, users can now invoke coding assistance from anywhere within ChatGPT, with Codex spinning up sandboxed environments to write, test, and debug code on command.
+**Codex, now center-stage.** OpenAI's AI coding agent, which launched as a separate tool, is now embedded directly into the main ChatGPT interface. Codex's weekly users have grown sixfold to more than five million since February.
 
-**AI agents as first-class citizens.** The new interface treats agents — software that takes multi-step actions rather than just generating text — as the primary interaction paradigm. Users can assign tasks like "research competitors and draft a report" or "monitor my inbox and summarize flagged emails daily," with the system executing autonomously in the background and reporting back.
+**AI agents.** The superapp embeds AI agents, which take actions on users' behalf, alongside Codex, image generation and third-party apps.
 
-**Agentic commerce via MCP and Stripe.** This may be OpenAI's most commercially significant move. ChatGPT now supports the Model Context Protocol (MCP), allowing third-party apps to plug directly into the agent layer. Checkout is handled through a native Stripe integration, meaning ChatGPT agents can search for products, compare prices, and complete purchases without ever leaving the interface. For OpenAI, which takes a cut of transactions, this is a direct play at the commerce layer of the internet.
+**Agentic commerce via MCP and Stripe.** OpenAI has built a commerce stack on these standards, though one report says the in-chat checkout feature has been shelved. ChatGPT now supports the Model Context Protocol (MCP), allowing third-party apps to plug directly into the agent layer. Reporting describes Instant Checkout, built on the Agentic Commerce Protocol OpenAI co-developed with Stripe, which lets U.S. users buy inside a conversation using a Stripe-issued Shared Payment Token. OpenAI says merchants pay a small fee, while the service is free for users.
 
-**Unified image generation.** DALL-E and image editing capabilities are woven throughout the interface rather than siloed in a separate feature, enabling seamless creation within conversations and workflows.
+**Image generation.** The superapp also includes image generation.
 
 ## Abandoning the "Side Quests"
 
-To build Aria, OpenAI made a deliberate choice to deprioritize standalone products that had diluted the company's focus. The Sora video generator — which received enormous press attention at launch — is being pushed to the back of the roadmap. Several standalone tools launched in 2025 are being absorbed into the superapp or discontinued.
+To build Aria, OpenAI made a deliberate choice to deprioritize standalone products that had diluted the company's focus. The Sora video generator — which received enormous press attention at launch — has reportedly been shut down, with executives abandoning "side quests" like it.
 
 The pivot reflects a broader lesson from the industry: users don't want a portfolio of AI tools. They want one surface that handles everything. OpenAI is betting it can be that surface — and that every interaction, whether a coding task or a shopping trip, represents a monetization opportunity.
 
@@ -59,17 +60,13 @@ The pivot reflects a broader lesson from the industry: users don't want a portfo
 
 The superapp push puts OpenAI in direct competition with several different categories simultaneously:
 
-Against **Google**, ChatGPT now competes for search intent and shopping queries — territory Google has defended for two decades. Google's own push into agentic AI through Antigravity 2.0 and AI Mode in Search makes this collision inevitable.
-
 Against **Anthropic**, the enterprise coding market is the central battleground. Claude's strong developer reputation and Claude Code's growing adoption mean OpenAI can't take that segment for granted, even with Codex's impressive growth numbers.
 
 Against **Apple** and existing super apps, OpenAI is essentially pitching itself as the operating layer for digital life — a bold claim that requires flawless execution across an enormous range of use cases.
 
 ## Revenue Arithmetic
 
-The financials behind the superapp bet are compelling. OpenAI's ChatGPT Plus subscription costs $20/month, but premium tiers with agent compute, priority access to new capabilities, and transaction fees on agentic commerce could push revenue per user significantly higher. Analysts covering the IPO have noted that converting even 10% of ChatGPT's free user base to paid tiers at $50-100/month would generate tens of billions in annual recurring revenue.
-
-With Codex already demonstrating that developers will pay premium prices for high-quality AI assistance, the superapp strategy extends that willingness-to-pay across a much larger audience.
+The financials behind the superapp bet are compelling.
 
 ## What It Means
 
@@ -78,3 +75,5 @@ The ChatGPT superapp launch is more than a product update — it's a declaration
 Whether OpenAI can execute across that enormous ambition — or whether the superapp becomes a sprawling product that tries to do too much and does none of it well — will be the defining product question of the next year. But for the first time since ChatGPT launched, OpenAI is telling a story that goes beyond "really good text generation." It's betting the company on agents.
 
 And according to at least one senior employee, it's betting that the era of chat is already over.
+
+*Correction (November 15, 2026): 23 sentences were corrected or removed to match the sources listed on this page.*

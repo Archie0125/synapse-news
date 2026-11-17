@@ -3,6 +3,7 @@ title: "Norm AI Hits $1.2B Unicorn Status With $120M Series C to Automate Legal 
 summary: "Legal AI startup Norm AI raised $120 million in a Series C round led by Khosla Ventures, reaching a $1.2 billion valuation and joining a small but growing cohort of legal technology unicorns. The company is building an AI-native law firm — combining proprietary AI agents with human attorney supervision — and its platform is already trusted by clients representing over $30 trillion in assets under management."
 category: "startups"
 publishedAt: 2026-07-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -38,7 +39,7 @@ Norm AI's core product is not a legal research tool or a contract review assista
 
 The company's flagship offering is a compliance automation platform that converts regulatory text — the dense, cross-referential language of financial regulation, securities law, and healthcare compliance — into executable agent logic. When a regulation changes, the system updates the agents that enforce compliance with that regulation, rather than requiring humans to manually review every downstream process affected by the change. The practical effect, for large financial institutions and regulated enterprises, is a dramatic reduction in the human hours required to maintain compliance as regulatory environments evolve.
 
-Beyond its SaaS platform, Norm has built something more unusual: Norm Law, an AI-native law firm that uses the company's own agents to perform legal work, with human attorneys supervising the outputs and retaining final responsibility for legal advice. Norm Law operates on outcome-based pricing — clients pay for results, not hours — which is a fundamental departure from the billable-hour model that has governed legal services for over a century.
+Beyond its SaaS platform, Norm has built something more unusual: Norm Law, an AI-native law firm that uses the company's own agents to perform legal work, with human attorneys supervising the outputs and retaining final responsibility for legal advice. Norm Law operates on outcome-based pricing rather than hourly billing, in contrast to the billable-hour model of traditional law firms.
 
 ## The Funding Round
 
@@ -71,3 +72,5 @@ The Series C will fund three areas, according to Norm's announcement: accelerate
 The supervisory agent roadmap is particularly notable because it addresses the most serious obstacle to broader enterprise adoption of autonomous legal AI: the liability question. Who is responsible when an AI agent makes a compliance error? Norm's answer is structured supervision — human attorneys who maintain legal responsibility, backed by AI-powered audit trails and oversight systems that make errors detectable and correctable before they become consequential.
 
 At a $1.2 billion valuation with $30 trillion in AUM coverage, Norm is no longer a legal tech experiment. It is a serious enterprise infrastructure company operating in one of the largest and most disruption-resistant industries in the world. The question that will define the next few years is whether the regulatory and liability frameworks governing legal practice evolve fast enough to allow what Norm is building to reach its full potential — or whether the legal profession's institutional defenses slow the deployment in ways that competitive markets alone cannot overcome.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "OpenAI and Dell Partner to Bring Codex AI Agents to On-Premises Enterpri
 summary: "OpenAI and Dell Technologies have announced a partnership to deploy Codex — OpenAI's fastest-growing enterprise product with over 4 million weekly developers — into hybrid and on-premises environments via Dell's AI Data Platform and AI Factory infrastructure. The deal marks OpenAI's first explicit push beyond cloud into the regulated industries that cannot send sensitive data to public infrastructure."
 category: "developer-tools"
 publishedAt: 2026-05-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,13 +28,13 @@ relatedSlugs:
   - "2026-05-13-red-hat-summit-agentic-ai-developer-tools-en"
 ---
 
-OpenAI is no longer just a cloud product. On May 18, 2026, the company announced a deep partnership with Dell Technologies to extend Codex — its AI coding and workflow automation agent — into hybrid and fully on-premises enterprise environments. For OpenAI, which has historically operated as a cloud-first, API-delivered service, the Dell deal represents a strategic pivot toward the enormous segment of enterprise customers that have never been able to use its products at all.
+OpenAI is no longer just a cloud product. OpenAI and Dell Technologies have announced a partnership to extend Codex, OpenAI's AI coding and workflow agent, into hybrid and on-premises enterprise environments. For OpenAI, which has historically operated as a cloud-first, API-delivered service, the Dell deal represents a strategic pivot toward the enormous segment of enterprise customers that have never been able to use its products at all.
 
 ## The Partnership in Detail
 
 Under the agreement, Codex will integrate with two core Dell infrastructure products. The first is the **Dell AI Data Platform**, which large enterprises use to store, organize, and govern data on-premises. By connecting Codex to this layer, enterprises can run Codex-powered agents against internal codebases, databases, and documents without that data ever leaving their own infrastructure.
 
-The second integration is with the **Dell AI Factory**, Dell's on-premises AI workload infrastructure. This connection will allow Codex, ChatGPT Enterprise, and other OpenAI API-based solutions to use Dell AI Factory to prepare data, manage systems of record, run automated tests, and deploy AI applications — all within a customer's own data center.
+The second integration is with the **Dell AI Factory**, Dell's on-premises AI workload infrastructure. The companies are also exploring ways for Codex, ChatGPT Enterprise, and other API-based solutions to interface with Dell AI Factory, with the integrations expected to support data preparation, systems-of-record management, testing, and deployment of AI applications within hybrid and on-premises Dell infrastructure environments.
 
 The partnership also enables Codex to work within organizations' existing Dell-based developer environments, connecting to the tools and systems where enterprise engineering teams already operate: source control, ticketing systems, CI/CD pipelines, and internal knowledge bases.
 
@@ -71,7 +72,7 @@ OpenAI's move through Dell is later than some competitors. IBM, Red Hat, and sev
 
 ## What to Watch
 
-The partnership announcement disclosed integration intentions but not a specific product availability date. The joint exploration of Codex connecting with Dell AI Factory is described as ongoing rather than complete. Enterprises considering the integration will be watching for:
+The partnership announcement disclosed integration intentions but not a specific product availability date. The joint exploration of how Codex and other OpenAI products could connect with Dell AI Factory is described as ongoing rather than complete. Enterprises considering the integration will be watching for:
 
 - A concrete timeline for certified, production-ready Codex-on-Dell deployments
 - Pricing and licensing terms for on-premises Codex use (which will differ significantly from cloud API pricing)
@@ -79,3 +80,5 @@ The partnership announcement disclosed integration intentions but not a specific
 - Whether the integration extends to other OpenAI products beyond Codex
 
 For now, the partnership signals that OpenAI has recognized the limits of cloud-only distribution and is prepared to meet enterprise customers where their data actually lives.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Qualcomm in Advanced Talks to Acquire Jim Keller's Tenstorrent for Up to
 summary: "Qualcomm is in advanced negotiations to buy Tenstorrent, the RISC-V AI chip startup led by legendary chip architect Jim Keller, at a valuation of $8-10 billion — roughly three times what the company was worth a year ago. The deal would give Qualcomm a credible path into the AI accelerator market and a major challenge to Nvidia's dominance."
 category: "hardware"
 publishedAt: 2026-07-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -43,7 +44,7 @@ This is strategically important in a way that is easy to understate. The dominan
 
 Tenstorrent's bet — partly validated by its growing customer pipeline — is that a purpose-built, open compiler infrastructure can break that lock-in by giving developers a path to run existing code on non-Nvidia hardware with manageable migration effort. The thesis is architecturally sound. Whether the execution has reached the quality and completeness threshold that enterprise customers require at scale is a harder question, and one that a Qualcomm acquisition would resolve partly through resources and partly through the credibility transfer of being part of a $150+ billion company.
 
-Keller himself is one of the most decorated processor architects in the industry's history. He designed the AMD K8 architecture that allowed AMD to challenge Intel's dominance in the mid-2000s, contributed to Apple Silicon's trajectory at Apple, and led core CPU development at Intel before founding Tenstorrent. His involvement is not merely symbolic: the architectural intuitions of a designer of his caliber are embedded in the hardware decisions that will determine whether Tenstorrent's chips can actually deliver the performance-per-dollar efficiency that hyperscalers require.
+Keller himself is one of the most decorated processor architects in the industry's history. He architected AMD's K8, led Apple's A4 and A5 processors, and briefly worked at Intel before joining Tenstorrent, where he became CTO in 2020 and chief executive in 2025. His involvement is not merely symbolic: the architectural intuitions of a designer of his caliber are embedded in the hardware decisions that will determine whether Tenstorrent's chips can actually deliver the performance-per-dollar efficiency that hyperscalers require.
 
 ## Qualcomm's Strategic Problem
 
@@ -66,3 +67,5 @@ A Qualcomm-Tenstorrent deal, if completed, would reshape the AI chip competitive
 For Nvidia, the response is likely a combination of continued architectural investment to widen the CUDA moat and more aggressive pricing on inference-optimized hardware. For cloud providers and enterprises who have been quietly building contingency plans for a post-Nvidia-monopoly compute future, a better-funded Tenstorrent would be a welcome development regardless of who writes the check.
 
 The deal is not closed. But the negotiations are far enough along that the AI hardware market is already pricing in the probability that Jim Keller's next major architectural bet will have the backing of one of the world's largest chip companies behind it.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

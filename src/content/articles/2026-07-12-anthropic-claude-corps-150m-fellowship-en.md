@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Commits $150M to Claude Corps, Placing 1,000 AI Fellows at U.S. Nonprofits"
-summary: "Anthropic has launched Claude Corps, a national fellowship placing early-career professionals at nonprofits for 12 months at $85,000 per year, funded by an initial $150 million commitment. The first cohort of 100 fellows begins in October 2026, with applications closing July 17. The program aims to extend AI's benefits to civil society organizations that lack the resources to hire AI specialists."
+summary: "Anthropic has launched Claude Corps, a national fellowship placing early-career professionals at nonprofits for 12 months at $85,000 per year, funded by an initial $150 million commitment. The first cohort of 100 fellows begins in October 2026, with applications closing July 17. The program aims to extend AI's benefits to communities across America."
 category: "ai-ml"
 publishedAt: 2026-07-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
 
 When Anthropic published its Constitutional AI paper in 2022, it articulated a concern that has threaded through its public communications ever since: that the benefits of powerful AI systems would accrue disproportionately to well-resourced organizations, widening existing gaps rather than closing them. Claude Corps, announced in June and entering its final application window this week, is the company's most substantial attempt to act on that concern.
 
-Anthropic is committing an initial $150 million to place 1,000 early-career professionals at U.S. nonprofits over the program's first several years. Fellows will receive a full-time salary of $85,000, benefits, Claude API and tooling access, and relocation support if they are placed more than 100 miles from their current location. In exchange, they spend 12 months working full-time, in-person, at a host nonprofit organization, applying AI tools — primarily Claude — to advance the organization's mission.
+Anthropic is committing an initial $150 million to train 1,000 early-career fellows and match them with nonprofits across the U.S. Fellows will receive a full-time salary of $85,000, benefits, an expansive Claude token budget, and relocation support as needed. In exchange, they spend 12 months working full-time, in-person, at a host nonprofit organization, applying AI tools — primarily Claude — to advance the organization's mission.
 
 ## The Structure Behind the Program
 
@@ -38,15 +39,15 @@ This structure matters for several reasons. Making CodePath the employer of reco
 
 ## Who Can Apply
 
-Anthropic has deliberately set a low barrier to entry. Any person 18 or older with fewer than two years of full-time work experience is eligible, regardless of educational background. The application process does not require a computer science degree, prior coding experience, or existing familiarity with Claude. Anthropic describes the core requirement as "passion for extending the benefits of AI to communities across America."
+Anthropic has deliberately set a low barrier to entry. Any person 18 or older with fewer than two years of full-time work experience is eligible, regardless of educational background. Applicants need not have a particular educational background, but they must be authorized to work in the US, comfortable working with Claude, and willing to relocate if necessary. Anthropic describes the program as aimed at people early in their careers who are "passionate about extending the benefits of AI to communities across America."
 
-The first cohort of 100 fellows begins in October 2026. Applications for this cohort close July 17. Two additional cohorts begin in January 2027 and August 2027, with rolling applications open for both. The total program targets 1,000 fellows across the full lifecycle.
+The first cohort of 100 fellows begins in October 2026. Applications for this cohort close July 17. Two additional cohorts begin in March 2027 and August 2027, with rolling applications open for both. The total program targets 1,000 fellows across the full lifecycle.
 
 ## What Host Organizations Get
 
 Nonprofit host organizations receive a full-time staff member for a year, fully funded by Anthropic through the CodePath employer-of-record arrangement — meaning the nonprofit does not pay the fellow's salary. They also receive access to Claude at no cost during the fellowship year and technical support from Anthropic on how to integrate AI tools into the organization's workflows.
 
-The types of organizations Anthropic is targeting span a wide range: social services providers, environmental advocacy organizations, healthcare nonprofits, educational institutions, housing assistance programs, and civic engagement groups. The common thread is mission-driven work that would benefit from AI-assisted analysis, content creation, data processing, or constituent communication — but that lacks the budget to hire a specialist with AI expertise.
+Announced host organizations span a wide range, including a food bank, a marine conservation group, a veteran health nonprofit, a policy think tank, and a local YMCA. The common thread is mission-driven work that would benefit from AI-assisted analysis, content creation, data processing, or constituent communication — but that lacks the budget to hire a specialist with AI expertise.
 
 ## Why This Matters in 2026
 
@@ -66,8 +67,10 @@ There is also a workforce development angle. The AI industry faces a structural 
 
 ## Applications Close July 17
 
-For early-career professionals interested in applying, the window for the first cohort closes in five days. Anthropic has published detailed information about the fellowship, the host organization application process, and the CodePath training program at anthropic.com/claude-corps.
+For early-career professionals interested in applying, the window for the first cohort closes in five days. Anthropic has published information about the fellowship and the host organization application process on the Claude Corps website.
 
 The structural bet at the heart of Claude Corps is that the best way to build an AI-enabled civil society is not to wait for nonprofit organizations to develop AI capacity on their own — a process that, at current rates, would take a decade — but to accelerate it by injecting trained, supported, funded practitioners directly into the work. Whether that bet pays off depends on how well fellows can translate general AI literacy into specific organizational impact. The measurement framework Social Finance is building is presumably designed to answer that question.
 
 For now, Claude Corps is the largest single AI workforce investment in the U.S. nonprofit sector on record.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

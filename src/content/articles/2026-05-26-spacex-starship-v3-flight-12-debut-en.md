@@ -3,6 +3,7 @@ title: "SpaceX's Starship V3 Completes Historic Debut Flight, Deploys Heat Shiel
 summary: "SpaceX launched the first Starship V3 on May 22 from its new Pad 2 at Starbase, reaching space and completing a controlled splashdown in the Indian Ocean despite losing one engine and its Super Heavy booster. The mission deployed 22 mock Starlink satellites — including two 'Dodger Dog' camera spacecraft designed to automate heat shield inspection — marking a pivotal step toward rapid reusability at commercial scale."
 category: "hardware"
 publishedAt: 2026-05-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -39,9 +40,9 @@ Pad 2 itself is a story. SpaceX constructed the second launch complex at Starbas
 
 ## What Went Right, and What Didn't
 
-Liftoff was clean. Booster 19 lit all 33 Raptor 3 engines simultaneously — a milestone in itself, as engine-out events during max-Q have plagued earlier flights — and pushed the stack through max dynamic pressure without incident. Stage separation occurred on schedule, and Ship 39 lit its six vacuum-optimized Raptor 3 engines for the push toward space.
+Liftoff was clean. Liftoff went ahead from the new pad, but the Super Heavy booster lost an engine early during ascent. Stage separation occurred on schedule, and Ship 39 lit its six vacuum-optimized Raptor 3 engines for the push toward space.
 
-Then the booster hit trouble. During its boostback burn — the engine firing that reverses its trajectory and sends it back toward the landing site — multiple Raptor 3 engines failed in rapid succession. Booster 19, the first Super Heavy to V3 specification, came apart over the Gulf of Mexico. SpaceX had planned a water landing for the first V3 booster rather than attempting a tower catch; losing it to a structural failure rather than a controlled splashdown was not the intended outcome, but engineers had budgeted for scenarios like this. The V3 program's priority is validating the upper stage and payload systems first.
+Then the booster hit trouble. During its boostback burn — the engine firing that reverses its trajectory and sends it back toward the landing site — multiple Raptor 3 engines failed in rapid succession. SpaceX had planned a soft splashdown for the first V3 booster rather than attempting a tower catch, so losing the booster was expected to be acceptable within the test parameters. The V3 program's priority is validating the upper stage and payload systems first.
 
 Ship 39 had its own mid-flight challenge. One of its six vacuum Raptor engines shut down early. The remaining five compensated by burning longer than planned, keeping the vehicle on an acceptable suborbital arc — a demonstration of the fault-tolerance SpaceX has baked into Starship's flight computer. Ship completed a banking maneuver designed to simulate a future return-to-catch approach before beginning its reentry sequence.
 
@@ -51,7 +52,7 @@ The heat shield — a perennial weak point for previous Starship flights — hel
 
 Perhaps the most strategically important payload on Flight 12 wasn't the 20 Starlink-sized simulator satellites. It was the two specially modified spacecraft SpaceX nicknamed "Dodger Dogs" — a nod to the famous hotdogs sold at Dodger Stadium in Los Angeles.
 
-Each Dodger Dog carries a suite of cameras and imagery transmission hardware. Once deployed from Ship 39's payload bay, the satellites maneuvered to fly alongside and beneath the vehicle during reentry, capturing high-resolution video of every square meter of the heat shield as it glowed at temperatures exceeding 2,000 degrees Celsius. That footage is now being processed by SpaceX engineers and, eventually, by machine learning models trained to flag tiles that need replacement before the next flight.
+Each Dodger Dog carries a suite of cameras and imagery transmission hardware. Once deployed, the satellites scanned Starship's heat shield from orbit and transmitted imagery back to operators. That footage is now being processed by SpaceX engineers and, eventually, by machine learning models trained to flag tiles that need replacement before the next flight.
 
 The significance of this system cannot be overstated. One of the most stubborn bottlenecks in Starship's path to rapid reusability has been inspection turnaround. After each flight, SpaceX technicians must manually walk the entire 44-meter heat shield surface, identifying damaged or dislodged tiles by eye. With Dodger Dog data feeding an automated system, that process could eventually be compressed from days to hours — or, in an idealized future, completed before Ship even lands.
 
@@ -72,3 +73,5 @@ The broader commercial launch ecosystem has been modeling its schedules around a
 For NASA, which has contracted SpaceX to use a Starship variant as the Human Landing System for the Artemis lunar program, each successful test flight is a step closer to astronauts descending onto the lunar surface aboard a vehicle that flew on May 22 in a form nearly identical to what they will one day ride. The stakes of getting heat shield inspection right are not merely commercial.
 
 Musk's "epic" may have been premature. But in the cadence of SpaceX's flight-test program, a booster lost and a heat shield validated is exactly the kind of half-win the company is designed to learn from fastest.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

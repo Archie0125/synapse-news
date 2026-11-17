@@ -1,8 +1,9 @@
 ---
 title: "Google's TurboQuant Compresses LLM Memory 6x With No Accuracy Loss — If the Results Hold"
-summary: "Google Research unveiled TurboQuant, a training-free algorithm that compresses LLM KV cache from 16-bit to ~3 bits, claiming 6x memory reduction and 8x attention speedup with no accuracy loss. It faces peer review at ICLR 2026 in April."
+summary: "Google Research unveiled TurboQuant, a training-free algorithm that quantizes the LLM KV cache to 3 bits, claiming at least 6x memory reduction and up to 8x faster attention-logit computation with no accuracy loss. It is due to be presented at ICLR 2026."
 category: "ai-ml"
 publishedAt: 2026-04-05T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-04-05-nvidia-marvell-nvlink-fusion-en"
 ---
 
-There is a moment every few years when an AI efficiency paper lands that, if its claims survive peer review, changes the economics of the entire field. Google's TurboQuant, announced on March 25 and now heading to formal peer scrutiny at ICLR 2026, may be one of those moments. The claim: compress the memory footprint of large language model inference by 6x, speed up the attention computation by 8x, and do it with no measurable accuracy degradation — and without retraining the model.
+There is a moment every few years when an AI efficiency paper lands that, if its claims survive peer review, changes the economics of the entire field. Google's TurboQuant, announced on March 24 and now heading to formal peer scrutiny at ICLR 2026, may be one of those moments. The claim: compress the memory footprint of large language model inference by 6x, speed up the attention computation by 8x, and do it with no measurable accuracy degradation — and without retraining the model.
 
 If that holds up at scale, the implications for every GPU operator on the planet are significant.
 
@@ -45,13 +46,13 @@ Reducing KV cache size without introducing errors is therefore not an academic e
 
 ## How TurboQuant Works
 
-TurboQuant applies two techniques in sequence. The first is **PolarQuant**, which addresses the statistical challenge that KV cache values are not uniformly distributed. Standard quantization fails at low bit-widths because outlier values are disproportionately important for attention quality. PolarQuant identifies a small set of "polar" vectors that capture most of the variance in the key and value representations, and encodes the residual after projection at very low bit-width (around 2–3 bits).
+TurboQuant applies two techniques in sequence. The first is **PolarQuant**, which addresses the memory overhead of traditional quantization methods by converting vectors into polar coordinates, a radius and an angle. Standard quantization fails at low bit-widths because outlier values are disproportionately important for attention quality. Because the pattern of the angles is known and highly concentrated, PolarQuant maps data onto a fixed, predictable grid and no longer needs the expensive data normalization step, which eliminates that memory overhead.
 
-The second stage applies a **Quantized Johnson-Lindenstrauss (QJL) projection** — a randomized dimensionality reduction that further compresses the residual representation while preserving the inner-product relationships that attention scoring requires.
+The second technique is **Quantized Johnson-Lindenstrauss (QJL)**, which shrinks high-dimensional data while preserving distances between data points, reducing each resulting vector number to a single sign bit with zero memory overhead.
 
-The combined effect, across benchmarks on NVIDIA H100 GPUs: KV cache memory compressed from 16-bit floating point down to approximately 3–3.5 bits per value; a 6x reduction in total KV cache memory footprint; claimed 8x speedup in the attention computation step itself.
+The combined effect, per Google's tests: the KV cache quantized to just 3 bits; a reduction in KV memory size of at least 6x; and, for 4-bit TurboQuant, up to 8x faster attention-logit computation than 32-bit unquantized keys on H100 GPUs.
 
-Crucially, TurboQuant is **training-free and data-oblivious**: it requires no access to training data, no additional fine-tuning passes, and can be applied post-hoc to any pre-trained transformer model. Google demonstrated results on Llama 3, Mistral, and internal model architectures.
+Crucially, TurboQuant is **training-free and data-oblivious**: it requires no access to training data, no additional fine-tuning passes, and can be applied post-hoc to any pre-trained transformer model. Google evaluated the results on open-source LLMs, Gemma and Mistral.
 
 ## The Skeptical Reading
 
@@ -65,7 +66,7 @@ Third, **the practical memory savings depend heavily on workload**. In a high-th
 
 ## What Happens at ICLR
 
-The formal peer review presentation at ICLR 2026 in Rio de Janeiro (late April) will subject TurboQuant to adversarial scrutiny from the quantization and efficiency research community. A few specific questions the community will probe:
+The presentation at ICLR 2026 will subject TurboQuant to scrutiny from the quantization and efficiency research community. A few specific questions the community will probe:
 
 - How does compression quality degrade as context length increases beyond the tested range?
 - What is the failure mode when the randomized JL projection encounters adversarially structured inputs?
@@ -80,3 +81,5 @@ The business context for TurboQuant is straightforward. The AI inference market 
 Google operates Gemini inference at unprecedented scale. Even a 20% real-world improvement in KV cache efficiency — a conservative expectation if TurboQuant's claims survive scrutiny — would translate to billions of dollars in avoided infrastructure spend at Hyperscaler volume.
 
 The ICLR result will tell us whether TurboQuant is a genuine breakthrough or an impressively-packaged incremental advance. Either way, the publication of the technique raises the baseline for what the research community considers achievable in training-free KV cache compression — and that baseline shift has value regardless of TurboQuant's ultimate fate.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

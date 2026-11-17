@@ -3,6 +3,7 @@ title: "China's 12-Day Coding Model Blitz: How Four AI Labs Reshaped Open Source
 summary: "Between April 7 and 24, four Chinese AI labs — Z.ai, MiniMax, Moonshot AI, and DeepSeek — released open-weight coding models in just 12 days. The assault established Kimi K2.6 as the first open-weight model to beat GPT-5.4 on SWE-Bench Pro, while the entire cohort delivers at 15–30x lower cost than American rivals, raising urgent questions about export controls and the geopolitics of open-source AI."
 category: "ai-ml"
 publishedAt: 2026-05-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,9 +34,9 @@ In a window spanning just 12 days between April 7 and April 24, 2026, four Chine
 
 **Kimi K2.6** (released April 20) made perhaps the most dramatic debut of the four. It became the first open-weight model in history to surpass GPT-5.4 (xhigh) on SWE-Bench Pro — the benchmark now widely considered the most rigorous test of real-world software engineering capability, evaluating models on their ability to resolve actual GitHub issues in large production codebases. Kimi K2.6 scored 58.6 on SWE-Bench Pro, edging past GPT-5.4 at 57.7 and ahead of Claude Opus 4.6 (max) at 53.4. At $0.16 per million input tokens, it costs a small fraction of its closed-model competitors.
 
-**DeepSeek V4** — the successor to the model that triggered a market selloff in January 2025 when it first demonstrated parity with GPT-4 — arrived in a standard version and a Pro variant. The Pro version scored 87 on BenchLM's composite leaderboard, the highest recorded for any Chinese model to date. DeepSeek maintained its signature aggressive pricing at $0.07 per million tokens on cache hits, a cost level that has become a de facto pricing floor for the industry.
+DeepSeek maintained its signature aggressive pricing at $0.07 per million tokens on cache hits, a cost level that has become a de facto pricing floor for the industry.
 
-**GLM-5.1** from Z.ai (which spun out from Tsinghua University's Institute for AI Industry Research) scored 83 on the BenchLM composite, with particular strength in multi-step code reasoning tasks. Independent evaluators noted that GLM-5.1 showed more consistent performance across diverse programming languages than prior versions, with especially strong results in C++ and Rust systems programming tasks.
+**GLM-5.1** from Z.ai placed third among Chinese-lab models in BenchLM's BenchAlign v5 snapshot on July 14, at 67.76. Independent evaluators noted that GLM-5.1 showed more consistent performance across diverse programming languages than prior versions, with especially strong results in C++ and Rust systems programming tasks.
 
 **MiniMax M2.7** rounded out the quartet with benchmark results placing it at the top of the multilingual coding category. MiniMax has historically focused on building models that perform well in non-English developer environments, and M2.7 reflected that priority: its code generation capability in Japanese, Korean, and European language contexts outperforms all non-Chinese open-weight alternatives on cross-lingual coding benchmarks.
 
@@ -74,3 +75,5 @@ All four labs have signaled upcoming releases. Moonshot's K2.7, an enhanced GLM-
 If the pattern of the last 12 months holds — each Chinese release pushing further toward, and now past, the Western frontier on specific benchmarks — the next 12 months are likely to see Chinese open-weight models establish clear leadership in coding-specific domains. That would fundamentally change the enterprise AI procurement landscape, where engineering teams increasingly have the option of deploying models that outperform proprietary alternatives at a fraction of the cost.
 
 For developers, the practical implication is already here: the era of defaulting to OpenAI or Anthropic APIs for every coding workload is ending. The price-performance case for Chinese open-weight models has crossed a threshold, and the April 2026 blitz made that crossing impossible to ignore.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

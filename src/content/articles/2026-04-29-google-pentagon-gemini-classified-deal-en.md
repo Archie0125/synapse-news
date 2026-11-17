@@ -1,8 +1,9 @@
 ---
 title: "Google Signs Classified Pentagon AI Deal After Anthropic's Refusal, Sparking Employee Revolt"
-summary: "Google has granted the U.S. Department of Defense access to its Gemini AI for classified networks under an 'any lawful purpose' clause — the same terms Anthropic refused, leading to the DoD designating the startup a 'supply chain risk.' Over 600 Google employees have signed an open letter urging CEO Sundar Pichai to reverse course."
+summary: "Google has granted the U.S. Department of Defense access to its AI for classified networks, essentially allowing all lawful uses — the same terms Anthropic refused, leading the DoD to designate the startup a 'supply chain risk.' More than 700 Google employees have signed a letter to CEO Sundar Pichai urging the company to reject classified workloads."
 category: "policy"
 publishedAt: 2026-04-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,13 +31,13 @@ relatedSlugs:
   - "2026-04-15-anthropic-mythos-glasswing-en"
 ---
 
-Google has signed a classified agreement with the United States Department of Defense granting the Pentagon access to its Gemini AI models for use on air-gapped, classified networks under a sweeping "any lawful government purpose" clause — the exact terms that Anthropic refused to accept months ago, triggering a remarkable chain of events that has now cleaved the AI industry into two camps: those willing to hand Washington the keys, and those who are not.
+Google has granted the United States Department of Defense access to its AI for classified networks, essentially allowing all lawful uses — the same terms that Anthropic refused to grant, according to multiple news reports.
 
 ## The Deal and What It Permits
 
 The agreement allows the Pentagon to deploy Google's Gemini models across classified infrastructure for, as the contract language states, "any lawful government purpose." In practice, this means the DoD can run Gemini on air-gapped networks without Google having visibility into how queries are formed, what outputs are generated, or what operational decisions are made using those outputs.
 
-The deal does include a safeguards clause: "The parties agree that the AI System is not intended for, and should not be used for, domestic mass surveillance or autonomous weapons (including target selection) without appropriate human oversight and control." But critics — including many of Google's own engineers — note that on a classified, air-gapped network, there is no technical mechanism for Google to enforce that language. The company can write it into a contract, but it cannot audit compliance.
+The deal does include some language saying Google does not intend for its AI to be used for domestic mass surveillance or autonomous weapons, but it is unclear whether such provisions are legally binding or enforceable." But critics — including many of Google's own engineers — note that on a classified, air-gapped network, there is no technical mechanism for Google to enforce that language. The company can write it into a contract, but it cannot audit compliance.
 
 Google's move places it alongside OpenAI and Elon Musk's xAI as classified AI suppliers to the U.S. military — a trio now firmly on one side of what is becoming the defining ethical fault line in the industry.
 
@@ -52,7 +53,7 @@ The Department of Defense responded by designating Anthropic a **"supply-chain r
 
 Inside Google, the deal has provoked the most visible internal rebellion since the company's controversial Project Maven AI drone work in 2018 — which resulted in a mass employee walkout and eventually Google's withdrawal from that contract.
 
-More than 600 Google employees — a disproportionate number from the company's DeepMind AI research division — signed an open letter addressed to CEO Sundar Pichai urging him to reject classified military AI work. The letter described potential uses as "inhumane" and called on leadership to follow Anthropic's example, demanding that any military use of Google AI be subject to public, auditable safeguards.
+More than 700 Google employees signed a letter sent to CEO Sundar Pichai calling for the company to reject classified workloads. The letter said employees do not want the technology to be "used in inhumane or extremely harmful ways."
 
 Pichai announced the deal anyway.
 
@@ -80,4 +81,6 @@ The Anthropic lawsuit is likely to set important precedents about government pro
 
 For Google, the near-term calculus appears to be paying off: the company enters earnings season on April 29 with a significant classified government AI portfolio alongside its commercial Gemini deployments. But the longer-term reputational and talent costs — particularly as it competes with Anthropic and others for the top AI researchers who are increasingly outspoken about where their work goes — remain to be seen.
 
-The 600 employees who signed the letter are still at their desks. For now.
+For now.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

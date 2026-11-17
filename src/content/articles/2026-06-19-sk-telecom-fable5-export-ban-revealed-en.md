@@ -1,8 +1,9 @@
 ---
 title: "Inside the Fable 5 Ban: SK Telecom, a Jailbreak, and a Refused Ultimatum"
-summary: "New reporting reveals that SK Telecom's suspected China ties triggered White House scrutiny of Anthropic's Project Glasswing, while Amazon CEO Andy Jassy separately flagged a Fable 5 jailbreak to the Trump administration on June 12. Anthropic CEO Dario Amodei was offered a chance to fix the vulnerability or withdraw the model — he refused both — and the export ban followed."
+summary: "New reporting indicates that a Korean telecom company suspected of China ties drew White House scrutiny over Anthropic's Mythos access, while Amazon CEO Andy Jassy separately raised a Fable 5 jailbreak concern with the Trump administration on Thursday. According to Sacks, Anthropic CEO Dario Amodei was asked to fix the issue or withdraw the model and refused, and the export ban followed."
 category: "policy"
 publishedAt: 2026-06-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,13 +33,13 @@ relatedSlugs:
 
 The week-long shutdown of Anthropic's most capable AI models didn't begin with a policy decision or a legislative hearing. It began, according to new reporting, with two separate warnings reaching the White House in close succession — one about who had access to the models, and one about what those models could be made to do.
 
-Taken together, they produced the most significant government intervention in AI model deployment since the Trump administration began asserting control over frontier AI access: the June 12 export control directive that suspended all foreign national access to Fable 5 and Mythos 5, and which remains in effect as of June 19.
+Taken together, they preceded a significant government intervention in AI model deployment: the Commerce Department's export controls, imposed by Friday evening, that barred Anthropic from distributing Fable 5 and Mythos 5 to foreign nationals, leading Anthropic to disable both models for all users.
 
 ## How SK Telecom Became the Catalyst
 
 The first thread leads to South Korea. Anthropic launched Project Glasswing in April 2026 as a cybersecurity access program, initially with roughly 50 US-based partner organizations receiving controlled access to Mythos 5, Anthropic's most capable and least restricted model. By early June, Glasswing had expanded to approximately 150 organizations globally, including participants from South Korea — Samsung Electronics, SK Hynix, and SK Telecom, among others.
 
-SK Telecom, South Korea's largest mobile carrier and a $100 million investor in Anthropic's earlier fundraising round, was among the Korean companies admitted to Glasswing. When White House officials reviewed the expanded participant list, they identified a Korean telecommunications company "suspected of having ties to China." While SK Telecom has not been officially named and the company has declined to comment on the reports, it is the only Korean carrier in the Glasswing program and is widely identified in reporting as the entity in question.
+SK Telecom, South Korea's largest mobile carrier and a $100 million investor in Anthropic's earlier fundraising round, was among the Korean companies admitted to Glasswing. When White House officials reviewed the expanded participant list, they identified a Korean telecommunications company "suspected of having ties to China." The Washington Post report did not name the company, and Korean telecom operators denied any involvement. SK Telecom, which declined to comment on the speculation, is the only Korean carrier known to have received access to Mythos.
 
 The concern was not that SK Telecom had done anything improper with its access. The concern was that a carrier with alleged China links — even informal, historical ones — had been granted access to a model with unrestricted cybersecurity capabilities. Glasswing was designed to give trusted organizations early access to Anthropic's most powerful AI precisely because of its cyber use cases. Giving that access to an entity with suspected China exposure was, from a national security standpoint, exactly the kind of error the export control regime is designed to prevent.
 
@@ -46,7 +47,7 @@ Anthropic had submitted an initial list of 111 approved organizations to the adm
 
 ## Amazon's Warning
 
-The second thread arrives separately, but at nearly the same moment. Amazon CEO Andy Jassy, whose company is Anthropic's largest cloud provider and a major investor, raised concerns directly with senior Trump administration officials on June 12, 2026 — the same day the Commerce Department letter arrived.
+The second thread arrives separately, but at nearly the same moment. Amazon CEO Andy Jassy raised concerns about the model with senior Trump administration officials on Thursday, according to media reports, the day before the Commerce Department acted.
 
 Amazon researchers had discovered that "a series of prompts" could cause Mythos-class models to "provide information about cyberattacks that was supposed to be restricted." In other words: a jailbreak. The specific prompt sequence could bypass the guardrails separating Fable 5's consumer capabilities from Mythos 5's unrestricted cyber-assistance functionality.
 
@@ -54,11 +55,11 @@ David Sacks, Co-Chair of the President's Council of Advisers on Science and Tech
 
 ## The Refused Ultimatum
 
-Before issuing the export control directive, the administration presented Anthropic with two options: fix the jailbreak, or voluntarily withdraw Fable 5 from foreign national access. According to Sacks, CEO Dario Amodei refused both.
+Before issuing the export control directive, the administration asked Anthropic to fix the jailbreak or withdraw the model, according to Sacks. According to Sacks, CEO Dario Amodei refused both.
 
 Anthropic's position, articulated in subsequent days, was that the jailbreak was "narrow rather than a full jailbreak" — in Amodei's framing, a targeted bypass rather than a general capability unlock. The company argued that the risk was being overstated and that the prompt sequence in question did not represent a categorical security failure.
 
-Sacks was publicly unsympathetic. Writing on X after the directive was issued, he said the administration was "frankly bewildered that Anthropic hasn't wanted to comply with safety requests that it previously said were its highest priority." He noted the directive was "issued reluctantly" and that restoration was contingent solely on Anthropic patching the vulnerability.
+Sacks was publicly unsympathetic. Writing on X after the directive was issued, he said the administration was "frankly bewildered that Anthropic hasn't wanted to comply with safety requests that it previously said were its highest priority." He said the administration issued the export control reluctantly and hopes Anthropic will remediate the issue so that Fable can return to general release as soon as possible.
 
 The White House has since told WIRED that Anthropic must eliminate "all jailbreaks" from Fable 5 before the models can be relaunched for foreign access — a demand that security researchers have been quick to characterize as technically impossible to guarantee.
 
@@ -83,3 +84,5 @@ The export ban remains in effect for foreign nationals as of June 19, with no of
 The resolution path appears to require Anthropic to demonstrate meaningful remediation of the jailbreak vulnerability — however "meaningful" is ultimately defined — to the administration's satisfaction. Given that Amodei's initial refusal was public and Sacks's criticism equally public, any resolution will need to be framed in a way that allows both sides to claim they achieved their stated goals.
 
 The broader lesson may be the most uncomfortable one: when AI models are integrated into national security programs and given access to unrestricted cyber capabilities, the political and regulatory constraints that govern their deployment become indistinguishable from the technical constraints. Anthropic built a model capable enough that its access list became a matter of state concern. That capability, it turns out, has costs.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

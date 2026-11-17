@@ -3,6 +3,7 @@ title: "Apple Delays Smart Glasses to WWDC 2027 as Privacy Concerns Derail N50 L
 summary: "Apple has pushed its first smart glasses — codenamed N50 — from a 2026 reveal to WWDC 2027, with engineers citing deep privacy concerns over always-available cameras in public spaces. The delay puts Apple a year behind Meta's Ray-Ban glasses and forces the company to rethink how wearable cameras can exist in a world that increasingly distrusts them."
 category: "products"
 publishedAt: 2026-07-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -43,7 +44,7 @@ Apple engineers, according to sources within the Vision hardware group, view the
 
 ## Three Paths, No Easy Answers
 
-The internal debate at Apple has reportedly crystallized around three approaches to the camera question, each with significant trade-offs.
+Apple has reportedly weighed two approaches to the camera question, according to Gurman, each with significant trade-offs.
 
 The first option is to ship no camera at all. A prototype was reportedly built and tested. This approach fully eliminates the privacy problem and sidesteps regulatory risk in jurisdictions contemplating restrictions on facial recognition and public recording. The trade-off is severe: without a camera, the glasses cannot do much of what makes the category interesting — identifying objects, reading text, recognizing faces, or enabling the AI visual assistant features that are central to the product's value proposition.
 
@@ -82,3 +83,5 @@ For Apple, the N50 is not just a product — it is a proof of concept that priva
 The delay, while a commercial setback, may reflect exactly the kind of deliberateness that Apple's brand requires. Building the right privacy architecture is slower than shipping something adequate. Whether the market will wait — and whether the architecture Apple ships will actually satisfy critics — remains to be seen.
 
 The WWDC 2027 presentation, wherever it falls in the keynote, will carry more weight than a normal product announcement. It will be Apple's answer to the question that has dogged the category since the first cameras arrived in eyewear: can you watch the world without the world reasonably fearing you're watching them?
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

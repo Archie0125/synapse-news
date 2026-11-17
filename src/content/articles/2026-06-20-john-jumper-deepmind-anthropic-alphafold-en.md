@@ -1,8 +1,9 @@
 ---
-title: "Nobel Laureate John Jumper Leaves DeepMind for Anthropic in AI's Biggest Talent Move of 2026"
-summary: "AlphaFold co-creator and 2024 Nobel Chemistry laureate John Jumper has departed Google DeepMind after nearly nine years to join Anthropic, marking the most consequential AI talent transfer of the decade and deepening questions about Google's ability to retain frontier researchers."
+title: "Nobel Laureate John Jumper Leaves DeepMind for Anthropic in Latest High-Profile Departure"
+summary: "AlphaFold co-creator and 2024 Nobel Chemistry laureate John Jumper has departed Google DeepMind after nearly nine years to join Anthropic, the latest high-profile exit from Google's AI research division."
 category: "ai-ml"
 publishedAt: 2026-06-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-06-17-g7-ai-ceos-summit-altman-amodei-hassabis-france-en"
 ---
 
-When John Jumper won the 2024 Nobel Prize in Chemistry alongside DeepMind CEO Demis Hassabis, it felt like the ultimate validation of Google's bet on AI for science. Eighteen months later, Jumper is walking out the door — and heading straight to Anthropic.
+When John Jumper won the 2024 Nobel Prize in Chemistry alongside DeepMind CEO Demis Hassabis, it felt like the ultimate validation of Google's bet on AI for science. Less than two years later, Jumper is walking out the door — and heading straight to Anthropic.
 
 Jumper announced his departure on June 19, 2026, ending a nearly nine-year tenure at Google DeepMind where he rose to Vice President and Engineering Fellow. His destination is Anthropic, the safety-focused AI company now valued at $965 billion, making this not just a job change but a statement about where the frontier of AI research is heading.
 
@@ -38,13 +39,13 @@ To understand why this move reverberates across the entire AI industry, it helps
 
 Proteins are the molecular machines of life — enzymes, antibodies, receptors, structural scaffolding. Their shape determines their function, and for decades, figuring out that shape required expensive, time-consuming laboratory experiments. AlphaFold solved this computationally, with accuracy matching experimental methods, and then DeepMind made it free to the world.
 
-The impact was immediate and staggering. AlphaFold has now mapped more than 200 million protein structures, covering virtually every protein known to science. More than 2 million researchers across 190 countries use the database. Drug discovery timelines that once spanned a decade have compressed to years. Researchers working on malaria vaccines, antibiotic resistance, and rare genetic diseases all point to AlphaFold as a foundational tool. The Nobel committee called it "one of the greatest discoveries in the history of biology."
+The impact was immediate and staggering. AlphaFold has now predicted more than 200 million protein structures. More than 2 million researchers across 190 countries use the database. Drug discovery timelines that once spanned a decade have compressed to years. Researchers working on malaria vaccines, antibiotic resistance, and rare genetic diseases all point to AlphaFold as a foundational tool. The Nobel committee called it "one of the greatest discoveries in the history of biology."
 
 That is who just walked into Anthropic's offices.
 
 ## A Pattern Google Can't Ignore
 
-Jumper's departure is not an isolated event. In the weeks prior, Noam Shazeer — who helped design the Transformer architecture and later co-led development of Google's Gemini models — left for OpenAI. David Silver, the reinforcement-learning pioneer who built AlphaGo, had already departed to start his own company. A steady stream of senior Google Brain and DeepMind researchers have exited over the past two years.
+Jumper's departure is not an isolated event. In the weeks prior, Noam Shazeer — who helped design the Transformer architecture and later co-led development of Google's Gemini models — left for OpenAI. David Silver, a lead researcher behind AlphaGo and AlphaZero, had already departed to start his own company focused on world models and reinforcement learning. A steady stream of senior Google Brain and DeepMind researchers have exited over the past two years.
 
 The pattern is difficult for Google to dismiss as coincidence. DeepMind CEO Demis Hassabis, himself a Nobel co-laureate alongside Jumper, posted a gracious farewell: "What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine." But the elegiac tone only underscored the magnitude of the loss.
 
@@ -71,3 +72,5 @@ For Google, the answer is uncomfortable. The company invested years of resources
 For Anthropic, the picture looks very different. A company founded on the premise that safety and capability should advance together — a premise that was once treated as quixotic by some in the industry — has now attracted a Nobel laureate who built the decade's most consequential scientific AI tool. The philosophical alignment between AlphaFold's approach to grounded, verifiable scientific reasoning and Anthropic's core research agenda is clear.
 
 Hassabis and Jumper built something that changed biology. What Jumper builds next — and for whom — may have similarly long-reaching consequences.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

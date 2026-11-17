@@ -1,8 +1,9 @@
 ---
-title: "EU AI Act's August 2 High-Risk Deadline Looms as Trilogue Talks Stall"
-summary: "The European Union's most consequential AI compliance deadline — August 2, 2026 — is less than 90 days away, and negotiations over a proposed delay have hit a wall. A second trilogue session on April 28 ended without agreement, and most enterprises surveyed lack even a basic inventory of the AI systems they'd need to certify."
+title: "EU AI Act's High-Risk Deadlines Shift to December 2027 and August 2028 Under the Digital Omnibus on AI"
+summary: "The Digital Omnibus on AI, Regulation (EU) 2026/1744, in force since July 27, 2026, postponed the Act's high-risk obligations to December 2, 2027 for Annex III systems and August 2, 2028 for Annex I systems. Analysis of enterprise readiness finds that over half of organizations lack a systematic inventory of their AI systems."
 category: "policy"
 publishedAt: 2026-05-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-04-27-whitehouse-ai-framework-federal-state-battle-en"
 ---
 
-In the global race to regulate artificial intelligence, Europe is approaching a moment of reckoning. The EU AI Act's high-risk obligations — widely considered the most comprehensive AI compliance requirements ever enacted — become enforceable on August 2, 2026. That's fewer than 90 days away. And most organizations required to comply are not ready.
+In the global race to regulate artificial intelligence, Europe is approaching a moment of reckoning. The EU AI Act's high-risk obligations — widely considered the most comprehensive AI compliance requirements ever enacted — now apply from December 2, 2027 for Annex III systems and August 2, 2028 for Annex I systems. Other provisions that were not postponed, such as Article 50 transparency, still apply from August 2, 2026. And most organizations required to comply are not ready.
 
 ## What the August 2 Deadline Requires
 
@@ -44,19 +45,19 @@ High-risk AI, as defined by the Act, includes systems used in:
 - **Law enforcement and justice** — AI used in evidence evaluation, risk profiling, or sentencing recommendations
 - **Migration, asylum, and border control** — identity verification and background check systems
 
-Operators of these systems face a substantial compliance burden. They must maintain AI inventories, conduct documented risk assessments, implement human oversight mechanisms, keep audit logs, and be able to demonstrate conformity with Act requirements to national supervisory authorities. Crucially, AI systems must achieve regulatory conformity — through internal assessment or, in some high-risk categories, third-party audit — before August 2 or face potential fines of up to 3% of global annual turnover.
+Operators of these systems face a substantial compliance burden. They must maintain AI inventories, conduct documented risk assessments, implement human oversight mechanisms, keep audit logs, and be able to demonstrate conformity with Act requirements to national supervisory authorities. Non-compliance with high-risk obligations can bring fines of up to €15 million or 3% of total worldwide annual turnover.
 
 ## Stalled Negotiations Over the Omnibus Delay
 
 The problem is that the European Union is simultaneously negotiating a proposal to delay these very deadlines — and those negotiations are failing to produce agreement.
 
-The "Digital AI Omnibus" is a package of amendments proposed by the European Commission that would push the high-risk compliance deadline from August 2, 2026 to December 2, 2027 — an 18-month reprieve. The proposal is bundled with other simplification measures, including relaxed rules on using personal data for AI training and streamlined cybersecurity reporting requirements.
+The Digital Omnibus on AI, Regulation (EU) 2026/1744, postponed the Annex III high-risk obligations from August 2, 2026 to December 2, 2027 and the Annex I obligations to August 2, 2028. The proposal is bundled with other simplification measures, including relaxed rules on using personal data for AI training and streamlined cybersecurity reporting requirements.
 
 A second political trilogue — the negotiating mechanism between the European Parliament, the Council of the EU, and the European Commission — took place on April 28, 2026. It ended without agreement. A third session has been scheduled for May 13.
 
 The sticking point is political. Several member states and Parliament representatives have pushed back on what they see as industry-friendly backsliding: the Act was hard-won, they argue, and delaying its core protections immediately after they take effect undermines both enforcement credibility and public trust in European AI governance. On the other side, business associations and tech companies have lobbied aggressively, arguing that the compliance infrastructure — registries, third-party audit pipelines, conformity assessment frameworks — simply does not exist at scale yet.
 
-The math is brutal: if the Omnibus is not formally adopted before August 2, the original Act provisions apply as written — no extensions, no grace periods. Given the May 13 trilogue and the timeline required for formal legislative procedures, the window for adoption before the deadline is very narrow.
+Under Article 111, systems placed on the market before the new application dates do not need to comply unless they are significantly modified. Given the May 13 trilogue and the timeline required for formal legislative procedures, the window for adoption before the deadline is very narrow.
 
 ## Industry Readiness: A Crisis Looming in Silence
 
@@ -83,3 +84,5 @@ The EU AI Act's implementation matters beyond Europe's borders. Companies headqu
 This extraterritorial reach has already influenced behavior. Major AI vendors have begun publishing EU AI Act conformity statements for their enterprise products, positioning compliance as a competitive differentiator. For foundation model providers specifically, the Act imposes additional transparency and systemic risk requirements under a separate Article 53 framework that took effect earlier.
 
 The coming 90 days will determine whether the EU AI Act achieves the world's most rigorous AI governance milestone on schedule — or whether the Omnibus negotiations buy the industry one more year. Either way, the August 2 clock is ticking.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Qualcomm in Advanced Talks to Acquire Tenstorrent for Up to $10 Billion 
 summary: "Qualcomm is in advanced acquisition talks with AI chip startup Tenstorrent, valuing Jim Keller's company at $8 to $10 billion—a 3x jump from its valuation just one year ago. The deal would give Qualcomm a full AI silicon stack alongside its recent Modular compiler acquisition, mounting the most credible open-architecture challenge to NVIDIA's dominance yet."
 category: "hardware"
 publishedAt: 2026-06-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
 
 The AI chip industry may be on the verge of its biggest acquisition in years. Qualcomm is in advanced negotiations to acquire Tenstorrent, the RISC-V-based AI accelerator startup led by semiconductor legend Jim Keller, for between $8 billion and $10 billion — a valuation that has tripled in roughly twelve months.
 
-The deal, first reported by Reuters on June 15, 2026, and independently confirmed by multiple publications, would represent one of the largest AI hardware acquisitions in history. If it closes, it would also mark Qualcomm's most aggressive move yet in its campaign to challenge NVIDIA's commanding grip on the AI infrastructure market.
+If it closes, it would also mark Qualcomm's most aggressive move yet in its campaign to challenge NVIDIA's commanding grip on the AI infrastructure market.
 
 ## Who Is Tenstorrent?
 
 Founded in 2016, Tenstorrent has been building AI accelerator hardware based on RISC-V, the open-source instruction set architecture that has become a rallying point for companies seeking an alternative to Arm-licensed and x86 designs. The company operates in a market where NVIDIA and AMD compete on proprietary silicon ecosystems, and Tenstorrent has carved a distinct position by betting that the open architecture model — widely successful in software through Linux and open-source frameworks — can work in hardware too.
 
-The man behind that bet is Jim Keller, one of the most storied chip architects in Silicon Valley history. Keller designed AMD's K8 processor, the chip that introduced 64-bit computing to x86 and nearly bankrupted Intel in the mid-2000s. He architected Apple's A4 and A5 processors, launching the era of in-house ARM chips that made iPhone the world's most profitable product line. He designed AMD's Zen architecture, which resurrected the company from near-irrelevance to genuine competitiveness with Intel. He built Tesla's Full Self-Driving chip. And he served as Intel's SVP of Silicon Engineering before departing in 2020 to join Tenstorrent as CEO.
+The man behind that bet is Jim Keller, one of the most storied chip architects in Silicon Valley history. Keller designed AMD's K8 processor, the chip that introduced 64-bit computing to x86 and nearly bankrupted Intel in the mid-2000s. He architected Apple's A4 and A5 processors, launching the era of in-house ARM chips that made iPhone the world's most profitable product line. He designed AMD's Zen architecture, which resurrected the company from near-irrelevance to genuine competitiveness with Intel. He built Tesla's Full Self-Driving chip. He joined Intel in 2018 and departed in 2020, and has led Tenstorrent since late 2020, becoming CEO in January 2023.
 
-Tenstorrent's flagship product, the **Galaxy Blackhole** platform — launched earlier in 2026 — packs 32 AI accelerators into a single 6U data center enclosure. Each accelerator contains 768 RISC-V cores, yielding massive parallelism for both inference and mid-scale training workloads. The platform is designed to give enterprises an alternative to NVIDIA's H-series GPUs without paying NVIDIA's premium or accepting its proprietary software lock-in.
+Tenstorrent's flagship product, the **Galaxy Blackhole** platform — launched earlier in 2026 — packs 32 AI accelerators into a single 6U data center enclosure. Each Blackhole chip packs 120 Tensix cores, each built around five RISC-V cores, alongside 16 larger RISC-V processor cores. The platform is designed to give enterprises an alternative to NVIDIA's H-series GPUs without paying NVIDIA's premium or accepting its proprietary software lock-in.
 
 ## A Valuation That Tripled in Twelve Months
 
@@ -70,7 +71,7 @@ But Intel's financial position is considerably more constrained than Qualcomm's 
 
 ## What Happens to Jim Keller?
 
-Perhaps the most intriguing open question is what a Qualcomm acquisition would mean for Keller himself. His tenure at companies tends to follow a recognizable pattern: design the architecture, oversee the key milestones, and eventually move on. He stayed at Apple through the A5. He left AMD after Zen shipped. He departed Intel within two years.
+Perhaps the most intriguing open question is what a Qualcomm acquisition would mean for Keller himself. His tenure at companies tends to follow a recognizable pattern: design the architecture, oversee the key milestones, and eventually move on. He stayed at Apple through the A5. He departed Intel within two years.
 
 Keller hasn't commented publicly on the acquisition talks. Deal structures for founder-led technology companies often include retention agreements that commit key technical leadership for two to four years post-acquisition. Whether those golden handcuffs would hold someone with Keller's track record and optionality is a separate question.
 
@@ -80,8 +81,10 @@ If he stays, Qualcomm gets one of the most productive chip architects alive at t
 
 Neither Qualcomm nor Tenstorrent has confirmed the deal, and acquisition talks at this stage frequently fall through. But the semiconductor industry is watching closely, because the implications of a completed deal would be significant.
 
-NVIDIA's dominance in AI compute rests on three mutually reinforcing factors: hardware performance, software ecosystem (CUDA), and supply chain relationships built over two decades. Individually, none of these advantages is permanent. Collectively, they've proven nearly impossible to attack.
+NVIDIA's dominance in AI infrastructure rests on two mutually reinforcing supports: GPU hardware and the CUDA software ecosystem. Individually, none of these advantages is permanent. Collectively, they've proven nearly impossible to attack.
 
-A Qualcomm that owns both the best open-architecture AI chip company (Tenstorrent) and the best cross-platform AI compiler stack (Modular) would be taking aim at all three simultaneously: competing on hardware performance, offering a software-defined alternative to CUDA lock-in, and leveraging Qualcomm's existing relationships with hyperscalers, OEMs, and telecommunications customers to build a distribution channel NVIDIA doesn't naturally own.
+A Qualcomm that owns both the best open-architecture AI chip company (Tenstorrent) and the best cross-platform AI compiler stack (Modular) would be taking aim at both supports simultaneously: competing on hardware performance and offering a software-defined alternative to CUDA lock-in.
 
 That's a credible strategy. Whether it's a winning one depends on execution — and on how much of Jim Keller's talent travels with the deal.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

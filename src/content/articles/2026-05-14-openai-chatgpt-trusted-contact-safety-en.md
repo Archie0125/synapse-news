@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Adds 'Trusted Contact' to ChatGPT: A Human Safety Net for AI Mental Health Crises"
-summary: "OpenAI has rolled out Trusted Contact globally, allowing adult ChatGPT users to designate a person who can be notified within an hour if automated systems and human reviewers detect serious suicide-related safety concerns in their conversations. The feature comes as OpenAI faces mounting litigation from families of users who died by suicide after interactions with ChatGPT."
+summary: "OpenAI has introduced Trusted Contact, which lets adult ChatGPT users designate a person who can be alerted if automated systems and human reviewers detect a serious safety risk related to self-harm in their conversations. The feature comes as OpenAI faces a wave of lawsuits from families of users who died by suicide after interactions with ChatGPT."
 category: "ai-ml"
 publishedAt: 2026-05-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -37,7 +38,7 @@ The feature is called Trusted Contact. It became available on May 7 to ChatGPT u
 
 Trusted Contact is opt-in and requires a two-step setup. A user designates a trusted person — a family member, friend, therapist, or anyone else they choose — who then receives an invitation to confirm their role. The trusted contact does not gain access to the user's conversations; they simply agree to be available as a point of human connection if a safety threshold is crossed.
 
-When a conversation is flagged by automated monitoring, a team of trained human reviewers evaluates the content. If those reviewers determine there is a genuine safety concern, they send a notification to the designated contact via email or text message. OpenAI says it targets resolving these safety notifications in under one hour. The notification is deliberately vague — it communicates that a concern has been identified but does not include the content of the conversation, screenshots, or any specific details.
+When a conversation is flagged by automated monitoring, a team of trained human reviewers evaluates the content. If OpenAI's internal team decides the situation represents a serious safety risk, ChatGPT sends the designated contact an alert via email, text message, or in-app notification. OpenAI says it targets resolving these safety notifications in under one hour. The notification is deliberately vague — it communicates that a concern has been identified but does not include the content of the conversation, screenshots, or any specific details.
 
 The design reflects a deliberate privacy trade-off. ChatGPT conversations are treated as confidential by default; revealing their contents to a third party, even a trusted one, would conflict with the expectation of privacy that makes people willing to discuss sensitive topics with the AI in the first place. The notification is instead a nudge — an invitation for the trusted contact to reach out to the person on their own terms, in their own words, through channels that exist independently of the AI platform.
 
@@ -72,3 +73,5 @@ The feature is also only available in the personal ChatGPT tiers; it is not pres
 These limitations are not necessarily design failures — they reflect genuine trade-offs between safety, privacy, and usability. But they underscore that Trusted Contact is a first step rather than a solution. The harder problems — how to intervene earlier, how to connect users to professional support in real time, how to calibrate AI responses to emotional distress — remain largely unsolved, by OpenAI and by the industry as a whole.
 
 What Trusted Contact does accomplish is put a human in the loop at a moment when that is most needed. For an industry that has spent years debating whether "human oversight" is a meaningful concept or a marketing phrase, this is, at least, a concrete instantiation.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

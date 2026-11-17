@@ -3,6 +3,7 @@ title: "ChatGPT's Monopoly Is Melting: 22 Points of Market Share Lost in 14 Mont
 summary: "A new Momentic report tracking web traffic across the seven largest AI chatbots shows ChatGPT's worldwide share has fallen from 76.5% in February 2025 to 54.7% in April 2026. Google Gemini now holds 27.4% after growing 104% in six months. Claude is up 306% in a single quarter, despite a significantly smaller absolute base. The era of ChatGPT's near-total dominance is over."
 category: "ai-ml"
 publishedAt: 2026-06-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -67,10 +68,12 @@ Grok, xAI's assistant embedded in X (formerly Twitter), shows engagement metrics
 
 ## The Competitive Landscape at Midyear
 
-The structure of the AI chatbot market at mid-2026 looks less like a monopoly and more like an early-stage multi-player market settling into tiers. ChatGPT is the clear volume leader, with consumer awareness and app-store dominance no competitor comes close to matching. Gemini is the distribution play, winning by embedding into existing Google surfaces rather than persuading users to adopt a new product. Claude is the quality leader among knowledge workers, with the deepest engagement metrics despite the smallest traffic base. Grok is the X-native play, with real uncertainty about its broader relevance.
+The structure of the AI chatbot market at mid-2026 looks less like a monopoly and more like an early-stage multi-player market settling into tiers. ChatGPT is the clear volume leader, with consumer awareness and app-store dominance no competitor comes close to matching. Gemini is the distribution play, winning by embedding into existing Google surfaces rather than persuading users to adopt a new product. Claude is the challenger growing fastest, with a 12.5% share in the U.S. and 8.2% of worldwide web visits, third place overall. Grok is the X-native play, with real uncertainty about its broader relevance.
 
 What the market does not yet have is a single point where the competitive dynamics resolve. ChatGPT's lead is large enough that OpenAI has enormous room to respond, and the company has been releasing new capabilities at an aggressive pace — from GPT-5.5 to the Codex enterprise platform to the ongoing expansion of ChatGPT's memory and personalization systems. Google has nearly unlimited distribution leverage to push Gemini deeper. Anthropic's Claude is gaining ground in enterprise accounts and developer ecosystems where it increasingly competes as a premium alternative.
 
 The more relevant question is not whether ChatGPT maintains 54.7% share or falls to 45% over the next twelve months. It is whether the market evolves toward a model where different AI systems serve different use cases — just as the internet eventually produced specialized tools for search, social, commerce, and communication, each with its own dominant player. That stratification is already visible in the engagement data, and it is where the most interesting competitive battles of the next two years will be fought.
 
 For now, the report's central finding stands: the AI market that one company once owned is now genuinely contested, and the speed of that change — most of it occurring in a fourteen-month window — is itself the most important data point for anyone building, investing, or competing in the space.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

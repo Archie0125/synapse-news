@@ -1,8 +1,9 @@
 ---
 title: "Goldman Sachs: AI Is Eliminating 11,000 US Jobs a Month — and Gen Z Is Paying the Price"
-summary: "Goldman Sachs' June 2026 AI Adoption Tracker finds artificial intelligence is responsible for the net displacement of approximately 11,000 US jobs per month — down from 16,000 in April, but with a critical caveat: the offsetting construction boom is built on temporary jobs. Generation Z is bearing the brunt."
+summary: "Goldman Sachs' latest AI Adoption Tracker finds artificial intelligence is responsible for the net displacement of approximately 11,000 US jobs per month, down from 16,000 two months earlier, but with a critical caveat: the offsetting construction boom is built on temporary jobs. Generation Z is bearing the brunt."
 category: "industry"
 publishedAt: 2026-06-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-06-21-black-duck-ai-coding-97-percent-governance-en"
 ---
 
-Goldman Sachs released its latest AI Adoption Tracker this week, and the headline figure lands with more nuance than it might first appear: artificial intelligence is now responsible for the net displacement of approximately **11,000 US jobs per month**, down from the firm's April estimate of 16,000. On the surface, this looks like progress. Look closer, and the story is considerably more complicated.
+Goldman Sachs released its latest AI Adoption Tracker on Friday, and the headline figure lands with more nuance than it might first appear: artificial intelligence is now responsible for the net displacement of approximately **11,000 US jobs per month**, down from the firm's estimate of 16,000 two months earlier. On the surface, this looks like progress. Look closer, and the story is considerably more complicated.
 
 ## The Headline Number
 
@@ -40,7 +41,7 @@ The math looks nearly neutral at the aggregate level: 11,000 displaced, 9,000 cr
 
 The jobs being created and the jobs being destroyed are not the same jobs.
 
-Data center construction is, by definition, temporary. Once a facility is built and operational, it does not require the same density of labor to maintain it. The American Edge Project, a technology advocacy organization, warns that the industry currently projects approximately **4.7 million temporary construction jobs** associated with the current data center build-out cycle. But once those facilities are complete, they're expected to generate only about **697,000 permanent operations roles** — just under 15 cents on the dollar.
+Data center construction is, by definition, temporary. Once a facility is built and operational, it does not require the same density of labor to maintain it. The American Edge Project estimates the data center boom will generate roughly **4.7 million temporary construction jobs**. But the American Edge Project estimates only around **697,000 permanent operations positions** will follow.
 
 In other words, the data center construction boom is providing a short-term labor market cushion that will itself disappear as the build-out matures. Goldman's June report does not assign a timeline to this transition, but engineers and construction economists familiar with the pace of hyperscale deployment suggest the construction employment peak is likely **18 to 30 months away** from the current activity level — potentially 2027 to 2028.
 
@@ -52,13 +53,13 @@ The aggregate obscures a sharper demographic reality that the Goldman report doc
 
 **Generation Z** — workers under 30 — is facing the worst of the disruption, for a structurally inescapable reason. Entry-level roles across every knowledge-work sector have historically existed precisely because they involve the routine, high-volume, lower-complexity tasks that senior workers don't have time to handle personally: data entry, legal document review, initial customer service escalations, billing queries, first-pass graphic design, basic code writing and testing.
 
-These are also, not coincidentally, the exact tasks that current AI systems — particularly large language models with code and vision capabilities — can perform at roughly human competency levels at a fraction of the cost. Goldman's tracker shows "a slight positive correlation between AI adoption rates and unemployment among workers under 30, measured across industries" — meaning that in sectors where companies are deploying AI fastest, youth unemployment is rising fastest.
+These are also, not coincidentally, the exact tasks that current AI systems — particularly large language models with code and vision capabilities — can perform at roughly human competency levels at a fraction of the cost. Goldman's tracker shows "a slight positive correlation between AI adoption rates and unemployment among workers under 30, measured across industries" — though it is not yet a clean structural break, young tech workers' unemployment has recently moved back in line with the broader tech workforce, and Goldman says it will continue to monitor the signal closely.
 
 The numbers become even more striking when you look at explicit attribution. Corporate layoffs attributed directly to AI automation reached a record **21,900 in April 2026**, the highest monthly total since Goldman began tracking in 2023. The three-year total is approximately **136,000 AI-attributed job losses** — a figure that understates true displacement because it only counts layoffs where companies explicitly cited AI as the cause, a disclosure most prefer to avoid.
 
 ## The Productivity Paradox
 
-The Goldman report does not omit the other side of the ledger. Generative AI is delivering a **23% average productivity uplift** across knowledge work, according to academic studies cited in the tracker. More output per worker, per hour, is genuinely valuable — both for employers and, in aggregate, for the economy.
+The Goldman report does not omit the other side of the ledger. Academic studies compiled by Goldman show generative AI delivers a **23% average productivity uplift**. More output per worker, per hour, is genuinely valuable — both for employers and, in aggregate, for the economy.
 
 The catch, documented here and in research from MIT and Berkeley's Center for Labor Economics, is that the productivity benefits are not distributed evenly across the workforce hierarchy. Senior workers — those with experience, contextual judgment, and established client relationships — are using AI as a lever that amplifies their individual output. Entry-level workers are not being empowered by the same tools; they're being replaced by them.
 
@@ -95,3 +96,5 @@ In Washington, the debate has fractured along familiar lines. The administration
 For the 11,000 Americans losing their net jobs to AI this month, the macro debate is largely academic. The Goldman report is the most granular measurement available of a transition that, for individual workers, is arriving not as a slow trend but as a termination notice.
 
 The race between job destruction and creation remains tight. But for Generation Z entering the labor market in 2026, "tight" is cold comfort.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "The Capability Illusion: Human Scientists Still Outperform AI Agents by 
 summary: "A landmark Nature study published this month found that the best AI agents perform at only half the level of PhD-expert humans on complex, open-ended scientific tasks — even as researchers worldwide have embraced AI tools at an unprecedented pace. The findings challenge the narrative that AI agents are ready to run scientific research independently, and raise urgent questions about where the technology actually stands."
 category: "ai-ml"
 publishedAt: 2026-04-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -47,7 +48,7 @@ This does not mean AI agents are useless in scientific contexts. On well-defined
 
 ## The Adoption Paradox
 
-What makes the Nature findings particularly striking is their juxtaposition against the adoption data. According to the Stanford AI Index 2026, the share of scientific papers reporting the use of AI tools in their research has roughly doubled in two years, with particularly explosive growth in biology, chemistry, and clinical medicine. AI-assisted literature synthesis, hypothesis screening, and data analysis have become standard parts of the research workflow at major universities and pharmaceutical companies.
+What makes the Nature findings particularly striking is their juxtaposition against the adoption data. According to the Stanford AI Index 2026, the number of publications on AI use for drug discovery has more than doubled over the past two years, and publications on multimodal biomedical AI are 2.7 times as numerous as two years ago. AI-assisted literature synthesis, hypothesis screening, and data analysis have become standard parts of the research workflow at major universities and pharmaceutical companies.
 
 The adoption curve, in other words, has outrun the capability curve. Researchers are integrating AI tools into their workflows at a pace that assumes greater reliability and judgment than the tools currently possess. This creates a category of risk that the authors describe as "capability illusion" — the tendency to attribute understanding and judgment to systems that are, in practice, pattern-matching at very high speed across very large training corpora, without the underlying comprehension that makes human expert judgment reliable.
 
@@ -59,7 +60,7 @@ The study is careful not to be alarmist. The authors note that AI tools, used ap
 
 The Nature findings align with a growing body of benchmarking research that paints a more nuanced picture of frontier AI capability than either the hype or the backlash suggests.
 
-Current models — GPT-5.4, Claude Opus 4.7, Gemini 3.1 Pro — have achieved striking results on structured reasoning benchmarks. They can solve competition-level mathematics, write production-quality code, explain complex scientific concepts across virtually every domain, and synthesize large bodies of text with impressive accuracy. On narrow, well-defined tasks, they have crossed the performance threshold of human experts in specific areas.
+Current models — GPT-5.4, Claude Opus 4.6, Gemini 3.1 Pro — have achieved striking results on structured reasoning benchmarks. They can solve competition-level mathematics, write production-quality code, explain complex scientific concepts across virtually every domain, and synthesize large bodies of text with impressive accuracy. On narrow, well-defined tasks, they have crossed the performance threshold of human experts in specific areas.
 
 What they have not demonstrated is the kind of flexible, open-ended, goal-directed reasoning that characterizes expert human judgment in genuinely novel situations. Current AI systems excel when the problem structure is familiar, even if the surface content is novel. They struggle when the problem structure itself is unclear — when a researcher needs to decide not just how to approach a problem, but whether the problem as framed is even the right one to be asking.
 
@@ -80,3 +81,5 @@ The Nature study lands at a particularly pointed moment, given the simultaneous 
 That gap is not necessarily permanent. The researchers acknowledge that AI agent performance has improved measurably across successive model generations, and that architectural advances — longer context windows, better tool use, improved planning — have closed specific performance deficits in targeted areas. The 50-percent figure is a snapshot of where the technology stands in April 2026, not a prediction about where it will be in 2027 or 2028.
 
 But the study counsels humility. The narrative that AI agents are ready to run the lab — while commercially compelling and strategically galvanizing — is not yet grounded in what the best available evidence actually shows. Science advances by looking squarely at inconvenient data. On the question of AI agent capability, the inconvenient data is now in.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Claude Storms Wall Street: Anthropic Launches 10 Finance AI Agents, Full Microsoft 365 Integration"
-summary: "Anthropic unveiled ten pre-built AI agent templates for financial services workflows — from pitchbook building to KYC screening — alongside full Microsoft 365 integration across Excel, PowerPoint, Word, and Outlook, and a partnership embedding Moody's entire platform into Claude for analysis of 600 million companies."
+summary: "Anthropic unveiled ten pre-built AI agent templates for financial services workflows — from pitchbook building to KYC screening — alongside Claude add-ins across Excel, PowerPoint, Word, and Outlook, and a Moody's app giving access to credit ratings and data on more than 600 million companies."
 category: "products"
 publishedAt: 2026-05-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,7 +33,7 @@ relatedSlugs:
   - "2026-05-07-sierra-ai-950m-enterprise-agents-en"
 ---
 
-Anthropic is making its most aggressive move into financial services yet. At an invite-only briefing in New York, the company unveiled ten pre-built AI agent templates purpose-built for the most time-consuming workflows in banking and finance, a full integration with Microsoft 365 that enables Claude to work seamlessly across Excel, PowerPoint, Word, and Outlook simultaneously, and a landmark data partnership with Moody's that embeds credit and risk intelligence for more than 600 million companies directly inside Claude.
+Anthropic is making its most aggressive move into financial services yet. At an invite-only briefing in New York, the company unveiled ten pre-built AI agent templates for the most time-consuming workflows in financial services, Claude add-ins for Microsoft 365 that carry context across Excel, PowerPoint, Word, and Outlook, and a Moody's app that brings credit ratings and data on more than 600 million companies into Claude.
 
 The announcements — coinciding with the debut of Claude Opus 4.7, the company's most capable model for financial work — mark a decisive turn in Anthropic's commercial strategy. Rather than selling API access and letting customers build from scratch, Anthropic is now shipping ready-to-deploy infrastructure for specific, well-defined enterprise workflows, aiming to become the operating layer for Wall Street.
 
@@ -40,37 +41,37 @@ The announcements — coinciding with the debut of Claude Opus 4.7, the company'
 
 The core of the announcement is a library of ten agent templates, each designed to automate a specific high-labor financial workflow. Five are aimed at research and client coverage teams:
 
-- **Pitch Builder**: Drafts pitchbooks and presentations using live market data and client relationship context
-- **Meeting Preparer**: Synthesizes news, filings, and CRM history to generate pre-meeting briefings for client calls
-- **Earnings Reviewer**: Analyzes quarterly earnings releases, extracts key metrics, and flags deviations from analyst consensus
-- **Model Builder**: Assists with financial modeling in Excel, including formula construction, scenario analysis, and sensitivity tables
-- **Market Researcher**: Aggregates and summarizes sector trends, competitor intelligence, and macro data for investment theses
+- **Pitch Builder**: Creates target lists, runs comparables, and drafts pitchbooks for client meetings
+- **Meeting Preparer**: Assembles client and counterparty briefs ahead of calls
+- **Earnings Reviewer**: Reads transcripts and filings, updates models, and flags thesis-relevant changes
+- **Model Builder**: Creates and maintains financial models from filings, data feeds, and analyst inputs
+- **Market Researcher**: Tracks sector and issuer developments, synthesizes news, filings, and broker research, and flags items for credit and risk review
 
 Five additional agents are aimed at finance and operations teams:
 
-- **Valuation Reviewer**: Cross-checks valuation assumptions against comparable transactions and market benchmarks
-- **General Ledger Reconciler**: Identifies discrepancies across accounting entries and flags items requiring human review
-- **Month-End Closer**: Coordinates the month-end close sequence, tracking outstanding items and generating status reports
-- **Statement Auditor**: Reviews financial statements for internal consistency, GAAP compliance, and anomalies
-- **KYC Screener**: Processes know-your-customer documentation, flags risk indicators, and generates compliance summaries
+- **Valuation Reviewer**: Checks valuations against comparables, methodology, and the firm's review standards
+- **General Ledger Reconciler**: Reconciles general ledger accounts and runs net asset value calculations against the books of record
+- **Month-End Closer**: Runs the close checklist, prepares journal entries, and produces close reports
+- **Statement Auditor**: Reviews financial statements for consistency, completeness, and audit-readiness
+- **KYC Screener**: Assembles entity files, reviews source documents, and packages escalations for compliance review
 
-Each agent ships as a reference architecture — not just a prompt, but a complete package of the skills, connectors, memory systems, and subagents needed to run that workflow end-to-end. The intent is to allow financial institutions to deploy working agents in days rather than the months typically required to build custom AI workflows from scratch.
+Each agent ships as a reference architecture — a package of the skills, connectors, and subagents needed to run that workflow. The intent is to allow financial institutions to deploy working agents in days rather than the months typically required to build custom AI workflows from scratch.
 
 ## Microsoft 365: One Agent Across Four Apps
 
-The Microsoft 365 integration represents a qualitative shift in how enterprise AI assistants work. Until now, most AI tools have operated as single-application point solutions — a writing assistant in Word, a formula helper in Excel, a draft generator in Outlook. Claude's new M365 integration makes it a single persistent agent that carries full context across all four applications simultaneously.
+The Microsoft 365 integration represents a qualitative shift in how enterprise AI assistants work. Until now, most AI tools have operated as single-application point solutions — a writing assistant in Word, a formula helper in Excel, a draft generator in Outlook. Claude's new M365 integration lets it carry context across Excel, PowerPoint, Word, and Outlook.
 
-A banker structuring a leveraged buyout can now ask Claude to pull a financial model from Excel, incorporate updated assumptions into a PowerPoint deck, summarize the deal rationale for a Word memo, and draft a client email in Outlook — all as one continuous conversation, with Claude maintaining context across every step. The Excel, PowerPoint, and Word add-ins launched in general availability at the event; the Outlook integration launched in beta.
+An analyst who starts a model in Excel does not need to re-explain it when the work moves to PowerPoint, because context carries automatically between applications. The Excel, PowerPoint, and Word add-ins are generally available; Claude for Outlook is coming soon, though Fortune reported it launched in beta.
 
 The technical architecture underpinning this is significant. Rather than four separate AI integrations that happen to carry the Microsoft brand, Claude acts as a unified reasoning layer that treats the Microsoft 365 ecosystem as a set of tools it can call. This mirrors the agentic architecture Anthropic has been developing through Claude Code and its broader agent SDK, now applied to enterprise productivity software.
 
 ## Moody's: 600 Million Companies Inside Claude
 
-The Moody's partnership is the most strategically significant of the three major announcements. Moody's will embed its full analytics platform — including credit ratings, financial data, and risk assessments for more than 600 million companies globally — as a native application inside Claude.
+Moody's has launched an MCP app that brings its proprietary credit ratings and data on more than 600 million public and private companies into Claude.
 
 For a credit analyst at a bank or asset manager, this means that asking Claude to assess the creditworthiness of a mid-market borrower, compare it to rated peers, and identify covenant risks now returns answers grounded in Moody's proprietary data, without the analyst ever needing to leave the Claude interface to query a separate terminal or platform.
 
-The Moody's deal is part of a broader data partnership strategy. Anthropic has been building a marketplace of enterprise data integrations — structured so that partners' proprietary data enriches Claude's responses without being exposed to model training or other users. The Moody's integration is the largest and most data-rich of these partnerships to date, spanning the full scope of a major credit intelligence platform.
+The Moody's deal is part of a broader data partnership strategy. Anthropic has been building a marketplace of enterprise data integrations — structured so that partners' proprietary data enriches Claude's responses without being exposed to model training or other users.
 
 ## The Two-Track Go-to-Market
 
@@ -89,3 +90,5 @@ The Anthropic approach differs in emphasis: where OpenAI has focused on making i
 The timing — announced less than a week after Anthropic disclosed it had overtaken OpenAI as the largest revenue-generating AI company — signals that the company is moving to extend its commercial momentum from developer infrastructure into the highest-value enterprise verticals. If AI coding tools represented the first wave of Anthropic's enterprise expansion, financial services AI may represent the second.
 
 For the financial industry, the practical implication is accelerating disruption. Tasks that have historically required an analyst — gathering data from multiple platforms, synthesizing it into a coherent view, drafting client-facing documents — can now be executed by an agent in minutes. The question is not whether AI will reshape finance, but how fast, and which layer of the new stack will capture the most value.
+
+*Correction (November 15, 2026): 19 sentences were corrected or removed to match the sources listed on this page.*

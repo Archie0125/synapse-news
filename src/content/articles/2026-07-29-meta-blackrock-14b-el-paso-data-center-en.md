@@ -1,8 +1,9 @@
 ---
 title: "Meta and BlackRock Form $14B Joint Venture for 1-Gigawatt Texas AI Data Center"
-summary: "Meta and BlackRock announced a $14 billion joint venture to develop a 1-gigawatt AI data center campus in El Paso, Texas. BlackRock takes an 80% ownership stake while Meta retains 20% and leases back the entire facility, allowing Meta to accelerate AI infrastructure build-out while offloading real estate risk to institutional capital."
+summary: "Meta and BlackRock announced a $14 billion joint venture to develop a 1-gigawatt AI data center campus in El Paso, Texas. BlackRock-managed funds take an 80% ownership stake while Meta retains 20% and will lease capacity from the venture."
 category: "ai-ml"
 publishedAt: 2026-07-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -27,11 +28,11 @@ relatedSlugs:
   - "2026-07-27-alphabet-negative-free-cash-flow-ai-capex-inflection-en"
 ---
 
-Meta Platforms and BlackRock announced Monday a joint venture to build and operate a 1-gigawatt AI data center campus in El Paso, Texas, at a total development cost of approximately $14 billion. The deal, structured as a sale-leaseback with institutional financing, represents a new template for how hyperscalers can fund the extraordinary capital requirements of AI infrastructure without completely draining their balance sheets — and it arrives just hours before Meta reports what analysts expect to be a landmark quarter for AI-driven advertising.
+Meta Platforms and BlackRock announced Tuesday a joint venture to develop and operate a 1-gigawatt AI data center campus in El Paso, Texas, at a total development cost of about $14 billion. The deal represents a new template for how hyperscalers can fund the extraordinary capital requirements of AI infrastructure without directly funding and owning the campus themselves, and it arrives a day before Meta is scheduled to report second-quarter results.
 
 ## The Financial Architecture
 
-The deal's structure is more intricate than a simple partnership announcement. Meta will contribute the land and its in-progress construction assets, valued at approximately $2.3 billion, while BlackRock funds managed through its Global Infrastructure Partners arm and HPS Investment Partners will make a cash contribution of roughly $4.9 billion. An additional $12.5 billion in debt will be raised against the project, bringing total capitalization to the headline $14 billion figure.
+The deal's structure is more intricate than a simple partnership announcement. Meta will contribute the land and its in-progress construction assets, valued at approximately $2.3 billion, while BlackRock funds managed through its Global Infrastructure Partners arm and HPS Investment Partners will make a cash contribution of roughly $4.9 billion. A portion of BlackRock's investment will be financed through $12.5 billion in debt, and Meta will also receive a $1 billion distribution to align ownership.
 
 BlackRock takes an 80% ownership stake in the joint venture; Meta retains 20%. But Meta will lease back the entire campus under a long-term agreement: a four-year initial term with four extension options, creating a potential 20-year total arrangement. The lease includes aggregate residual value guarantees of approximately $13 billion, declining over the lease term — a structure that effectively gives the lender confidence that the asset will retain value even in a scenario where Meta's compute needs shift.
 
@@ -39,9 +40,9 @@ Meta CEO Mark Zuckerberg framed the deal in the company's preferred idiom of AI 
 
 ## The El Paso Campus
 
-The campus is already under construction, with more than 2,300 workers currently on site. At peak construction, the project is expected to employ more than 4,000 workers. Once operational — targeted for 2028 — the facility will support approximately 300 permanent jobs and will provide 1 gigawatt of computing capacity, making it one of the largest single-site AI compute facilities in the world when it comes online.
+The campus is already under construction, with more than 2,300 workers currently on site. At peak construction, the project is expected to employ more than 4,000 workers. Operations are expected to commence in 2028, and the campus is designed to provide 1 gigawatt of compute capacity.
 
-Meta has committed more than $10 billion to the El Paso project in total, including its land contribution and ongoing construction costs. The company has also announced $500,000 in community grants to El Paso public schools, a standard but modest gesture for a project of this scale.
+Meta earlier said it was building an over $10 billion data center project in El Paso. The company has also announced $500,000 in community grants to El Paso public schools, a standard but modest gesture for a project of this scale.
 
 ## Why Sell-Leaseback?
 
@@ -64,3 +65,5 @@ The announcement is likely to be studied carefully by Microsoft, Amazon Web Serv
 The timing of the announcement — the day before Meta's Q2 2026 earnings report — was almost certainly deliberate. Ahead of a report where investors will scrutinize capex guidance more than nearly any other line item, Meta wanted to demonstrate that it has a credible mechanism for managing the capital burden of its AI ambitions without sacrificing operating leverage. Whether that framing succeeds will be visible in the stock price by Wednesday morning.
 
 Analysts entering the print expect Meta to report approximately $60.2 billion in Q2 revenue, up about 27% year-over-year, with an EPS of approximately $7.18. The advertising engine continues to perform — Meta's Family of Apps ad business generated $55 billion in Q1 revenue, up 33% year-over-year. The question, as always, is whether that machine can keep running faster than the cost structure expands.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

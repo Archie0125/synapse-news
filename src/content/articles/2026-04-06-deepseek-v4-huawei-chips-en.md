@@ -1,8 +1,9 @@
 ---
 title: "DeepSeek V4: A Trillion-Parameter Model on Huawei Chips That Changes the Export Control Calculus"
-summary: "DeepSeek V4 — a 1-trillion-parameter multimodal model built to run entirely on Huawei's Ascend 950PR chips — is launching this month, confirming that China has achieved frontier AI capability on domestic semiconductor hardware. At $0.50 per million tokens and an estimated $5.2M training cost, it directly challenges the premise that US export controls can constrain Chinese AI development."
+summary: "DeepSeek V4, a roughly 1-trillion-parameter multimodal model reportedly optimized for Huawei and Cambricon chips, was expected to launch in April, according to reports. Projected input pricing of roughly $0.10–$0.30 per million tokens would sharply undercut Western rivals."
 category: "ai-ml"
 publishedAt: 2026-04-06T09:20:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,18 +40,18 @@ The strategic implications extend well beyond AI. If China can build frontier AI
 
 ## The Technical Specifications
 
-DeepSeek V4 is a Mixture-of-Experts (MoE) architecture with 1 trillion total parameters. Like its predecessor V3, V4 uses sparse activation: only approximately 37 billion parameters activate per inference token. This design keeps latency and compute cost manageable despite the enormous total parameter count — the gap between "what the model knows" (total parameters) and "what it accesses per generation step" (active parameters) is the core efficiency innovation that MoE enables.
+DeepSeek V4 is a Mixture-of-Experts (MoE) architecture with 1 trillion total parameters. V4 uses sparse activation: pre-launch reports described only about 32 billion of its 1 trillion parameters as active per token. This design keeps latency and compute cost manageable despite the enormous total parameter count — the gap between "what the model knows" (total parameters) and "what it accesses per generation step" (active parameters) is the core efficiency innovation that MoE enables.
 
 Key specifications:
 - **Total parameters**: 1 trillion
-- **Active parameters per inference**: ~37 billion
+- **Active parameters per inference**: ~32 billion (pre-launch reports)
 - **Context window**: 1 million tokens
-- **Modalities**: Native multimodal input (text, image, code)
-- **Pricing**: ~$0.50 per million input tokens (at API launch)
+- **Modalities**: Reported as natively multimodal (text, image and video generation)
+- **Pricing**: projected ~$0.10–$0.30 per million input tokens
 
 The context window is particularly significant. At 1 million tokens, V4 can ingest entire codebases, long regulatory documents, or multi-hour transcripts in a single prompt. This is competitive with Google's Gemini 3.1 Flash and exceeds most other models at launch.
 
-The pricing is the number that has caught the most attention in developer communities. GPT-4o charges $2.50 per million input tokens. Claude Opus 4.6 charges approximately $15 per million. DeepSeek V4 at $0.50 per million tokens is 80% cheaper than GPT-4o and 97% cheaper than Opus — if benchmark performance justifies the switch, the economics of AI-powered products change dramatically.
+The pricing is the number that has caught the most attention in developer communities. GPT-4o charges $2.50 per million input tokens. Claude Opus 4.6 charges $5.00 per million input tokens. At a projected $0.10–$0.30 per million input tokens, DeepSeek V4 would be far cheaper than GPT-5.2 ($1.75) and Claude Opus 4.6 ($5.00) — if benchmark performance justifies the switch, the economics of AI-powered products change dramatically.
 
 ## Running on Huawei: What That Actually Means
 
@@ -74,7 +75,7 @@ Congressional hawks argue this is wrong: even if China is catching up on softwar
 
 DeepSeek's previous releases — V3 and the R1 reasoning series — were released under permissive licenses that allowed commercial use. V4 is expected to follow suit, though the exact license terms have not been confirmed ahead of the full release.
 
-If V4 ships as open weights, the implications for the global developer ecosystem are substantial. A trillion-parameter multimodal model at $0.50/M tokens, available to run locally for organizations with access to Huawei hardware or via API for everyone else, represents a genuine frontier capability at commodity pricing. Startups building AI-powered products will have access to a model that, if benchmarks hold up, competes with the best US closed-source models at a fraction of the cost.
+If V4 ships as open weights, the implications for the global developer ecosystem are substantial. A trillion-parameter multimodal model at a projected $0.10–$0.30 per million input tokens, if released as open weights, would represent a genuine frontier capability at commodity pricing. Startups building AI-powered products will have access to a model that, if benchmarks hold up, competes with the best US closed-source models at a fraction of the cost.
 
 The developer reception to V4-Lite — the smaller variant already on API nodes — has been positive, with early users particularly noting improved context recall at long-range distances within the 1M token window and better performance on multilingual tasks compared to V3. Full benchmarks will follow the complete release, but the early signal is that DeepSeek's efficiency gains have not come at a quality cost.
 
@@ -83,3 +84,5 @@ The developer reception to V4-Lite — the smaller variant already on API nodes 
 DeepSeek V4's full release in late April will be followed by the inevitable benchmark race: internal testing against GPT-5.4, Claude Opus 4.6, Gemini 3.1 Pro, and the newly released Gemma 4 31B. The model's performance on GPQA Diamond, MMLU, HumanEval, and long-context retrieval benchmarks will determine whether V4 is a genuine frontier contender or an impressive engineering demonstration with capability gaps in specific domains.
 
 Regardless of where the benchmarks land, DeepSeek V4 has already accomplished its most important goal: proving that trillion-parameter frontier AI on domestic Chinese semiconductor hardware is achievable. For US policymakers, the question is no longer whether China can build frontier AI despite export controls. It can. The question is what comes next.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

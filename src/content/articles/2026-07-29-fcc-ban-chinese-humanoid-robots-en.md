@@ -3,6 +3,7 @@ title: "US Bans New Chinese Humanoid Robot Imports, Citing Backdoors and Nationa
 summary: "The FCC on Tuesday banned imports of new Chinese-made humanoid and quadruped robots, citing confirmed cybersecurity backdoors in Unitree hardware and national security risks. China controls 85% of the global humanoid market, making the sweeping move a major escalation in the US-China technology war."
 category: "policy"
 publishedAt: 2026-07-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -51,7 +52,7 @@ The ban applies only to "new versions" of imported products — robots and inver
 
 The restrictions create immediate complications for US companies that have built development pipelines on Chinese robotics hardware. Nvidia's humanoid robot reference design uses Unitree's chassis as its foundation, a detail that illustrates how deeply Chinese hardware has penetrated US research and prototyping workflows. Developers who have been using Unitree quadrupeds or humanoids as platforms for training AI locomotion models will need to find alternative hardware for next-generation work.
 
-The ban also threatens nascent technology collaboration between US and Chinese robotics firms, several of which had begun exploring component-level partnerships. Those discussions are now frozen.
+The ban also threatens nascent technology collaboration between US and Chinese robotics firms, several of which had begun exploring component-level partnerships.
 
 ## Geopolitical Timing
 
@@ -66,3 +67,5 @@ The FCC's robot ban fits a recognizable pattern: a US government agency identifi
 The same playbook was applied to Huawei in telecommunications, DJI in consumer drones, and a succession of Chinese chipmakers in advanced semiconductors. Each ban was initially framed as narrowly scoped and purely security-motivated; each expanded over time as the underlying strategic logic — limiting Chinese presence in critical technology infrastructure — proved more durable than the specific security justification that launched it.
 
 For the robotics industry, the question is whether the ban accelerates domestic US investment in humanoid development or simply raises costs and slows adoption as American companies lose access to affordable hardware for prototyping and research. The answer will depend significantly on how quickly Figure AI, Tesla, and a cohort of well-funded US robotics startups can close the production gap with their Chinese counterparts — a gap that, as of today, remains large.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "Illinois Becomes First US State to Mandate Annual Safety Audits of Frontier AI"
-summary: "Illinois lawmakers passed SB 315, the Artificial Intelligence Safety Measures Act, with unanimous votes in both chambers, requiring frontier AI developers with over $500 million in annual revenue to undergo annual third-party safety audits, publish catastrophic risk frameworks, and report critical incidents within 72 hours. Governor Pritzker has signaled he will sign it."
+title: "Illinois Lawmakers Pass Bill Requiring Annual Third-Party Safety Audits of Frontier AI"
+summary: "Illinois lawmakers passed SB 315, the Artificial Intelligence Safety Measures Act, which would require frontier AI developers to undergo annual independent third-party safety audits and to publish and annually update catastrophic risk plans. Governor Pritzker has said he will sign it."
 category: "policy"
 publishedAt: 2026-06-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
   - "2026-06-08-eu-ai-act-august-2026-enforcement-countdown-en"
 ---
 
-Illinois lawmakers have passed the most demanding AI safety law in the United States, unanimously approving legislation that would force the world's most powerful AI companies to open their safety protocols to independent annual audits. The Artificial Intelligence Safety Measures Act—Senate Bill 315—cleared the Illinois House 110-0 on May 27, 2026, after the Senate had passed it 52-5 earlier in the session. Governor J.B. Pritzker has publicly stated his intention to sign the bill.
+Illinois lawmakers have passed legislation that would require leading AI companies to undergo independent annual audits on safety issues, a first for any AI legislation in the U.S. if it is signed into law. The Artificial Intelligence Safety Measures Act—Senate Bill 315—cleared the Illinois House 110-0 on May 27, 2026, after the Senate had passed it earlier. Governor J.B. Pritzker has publicly stated his intention to sign the bill.
 
-If enacted, SB 315 will take effect on January 1, 2027, with audit and transparency reporting requirements activating on January 1, 2028—giving covered companies roughly 18 months to build compliance programs. The law would directly affect OpenAI, Anthropic, Google, Meta, and a handful of other frontier AI developers.
+If signed, the bill would take effect Jan. 1. The law would directly affect OpenAI, Anthropic, Google, Meta, and a handful of other frontier AI developers.
 
 ## A First for AI Regulation
 
-Every major AI safety law passed at the state level so far has been built around disclosure: require companies to document their models' risks, make those documents public, and trust the industry to police itself. Illinois SB 315 breaks that pattern. It mandates annual, independent, third-party audits of covered companies' safety protocols—the first legally binding audit requirement for frontier AI anywhere in the United States.
+California and New York already require frontier AI companies to create and publish plans to address catastrophic risks from their models. Illinois SB 315 breaks that pattern. It mandates annual, independent, third-party audits of covered companies' safety protocols—the first legally binding audit requirement for frontier AI anywhere in the United States.
 
-"Artificial intelligence can be a powerful tool for good, but currently guardrails are minimal," said Sen. Mary Edly-Allen, the bill's lead sponsor in the Illinois Senate. "We are not regulating AI itself. We are requiring that the companies building the most powerful AI systems prove that they are managing the risks they create."
+"Artificial intelligence can be a powerful tool for good, but currently there are minimal guardrails in place," said Sen. Mary Edly-Allen, the bill's lead sponsor in the Illinois Senate. "We are not regulating AI itself. We are requiring that the companies building the most powerful AI systems prove that they are managing the risks they create."
 
 The audit requirement is deliberately specific. Covered developers must grant auditors meaningful access to internal safety documentation, risk assessments, incident records, and the results of any internal red-teaming exercises. Auditors must publish their findings publicly, and companies cannot select auditors with financial relationships that could compromise independence.
 
@@ -50,7 +51,7 @@ The full set of obligations for covered companies includes:
 
 **Safety planning and disclosure.** Companies must create, publish, and annually update comprehensive plans describing how they identify and manage catastrophic risks from their models. These plans must address scenarios including large-scale disinformation, critical infrastructure disruption, and biological or chemical weapon development assistance.
 
-**Pre-deployment transparency.** Before releasing a new frontier model or a substantially modified version of an existing one, companies must publish a transparency report detailing the safety evaluations performed and the residual risks identified.
+**Pre-deployment transparency.** Before deploying a new frontier model or a substantially modified one, companies must publish a transparency report, along with summaries of catastrophic-risk assessments.
 
 **Third-party audits.** The annual audit cycle covers the safety planning documents, the pre-deployment reviews, and any changes made in response to audit findings from the prior year. Audit reports are public.
 
@@ -60,7 +61,7 @@ The full set of obligations for covered companies includes:
 
 ## A State Law With National Reach
 
-Illinois joins California and New York as the third state to establish obligations for frontier model developers, but SB 315 is the most stringent of the three. California's SB 1047 (enacted in October 2024 after a prolonged battle with the Governor's office) requires safety plans and incident reporting but stopped short of mandatory external audits. New York's recently passed transparency legislation focuses on disclosure rather than audit. Illinois is going further.
+Illinois would join California and New York as the third state to set standards for frontier model developers, while adding new measures such as mandatory third-party audits. New York's recently passed transparency legislation focuses on disclosure rather than audit. Illinois is going further.
 
 The law's practical reach extends well beyond Illinois borders. No frontier AI developer maintains separate US deployments for each state—ChatGPT serves Illinois users from the same infrastructure it serves California users. If Pritzker signs SB 315, covered companies will almost certainly comply nationally rather than maintain Illinois-specific audit programs in parallel with different standards elsewhere.
 
@@ -70,14 +71,16 @@ That national spillover dynamic is part of the law's strategic logic, according 
 
 The sweeping bipartisan margins—110-0 in the House, 52-5 in the Senate—are notable. Earlier AI regulation battles in California, Colorado, and Texas produced contentious floor votes and aggressive industry lobbying campaigns. Illinois's relative consensus reflects a shift in the political environment: after a year of high-profile AI incidents including misinformation campaigns in three national elections, hospital diagnostic errors, and a widely publicized financial fraud enabled by a deepfake voice call, the default political assumption has moved from "regulate carefully" toward "regulate now."
 
-Major AI companies have not publicly opposed the bill, though industry associations including the Chamber of Progress and TechNet submitted written testimony calling for a federal preemption carve-out and expressing concern about the audit access provisions' scope. OpenAI and Anthropic both declined to comment on the record before passage.
+OpenAI and Anthropic have publicly supported the bill, while a trade organization representing other AI companies has opposed it. OpenAI and Anthropic both issued statements welcoming the bill's passage.
 
 Smaller AI developers outside the $500 million revenue threshold have largely cheered the bill's scoping. Several venture-backed companies issued statements calling SB 315 "good for competition" on the grounds that mandatory safety audits create a compliance burden that larger incumbents are better positioned to absorb—a dynamic critics describe as regulatory capture by another name.
 
 ## The Federal Vacuum and the State Race
 
-SB 315 moves into a federal environment where AI oversight remains fragmented. The Trump administration's AI Executive Order, signed in June 2026, replaced the Biden-era mandatory safety reporting framework with a voluntary program. The Great American AI Act, currently working through Congress, would preempt state AI laws—a provision that has united Silicon Valley lobbyists and civil-rights organizations in opposition for opposite reasons.
+SB 315 moves into a federal environment where AI oversight remains fragmented. The bill passed days after President Donald Trump decided at the last minute not to sign a planned executive order that would have established a voluntary safety testing framework for leading AI companies. The Great American AI Act, currently working through Congress, would preempt state AI laws—a provision that has united Silicon Valley lobbyists and civil-rights organizations in opposition for opposite reasons.
 
-Until federal preemption is resolved, states are functioning as the de facto AI regulators. California has 30 additional AI bills in secondary chamber review. Colorado, which became the first state to enact comprehensive frontier AI legislation in 2024, is already debating amendments to tighten its requirements in response to SB 315's precedent. The EU AI Act's mandatory audit requirements for high-risk systems officially enter enforcement in August 2026—a timeline that has pressured US companies to build audit-readiness functions for global compliance regardless of what Illinois does.
+Until federal preemption is resolved, states are functioning as the de facto AI regulators. California has 30 additional AI bills in secondary chamber review. The EU AI Act's mandatory audit requirements for high-risk systems officially enter enforcement in August 2026—a timeline that has pressured US companies to build audit-readiness functions for global compliance regardless of what Illinois does.
 
 For frontier AI developers, the message from the state-level regulatory environment is increasingly clear: the era of self-attestation is ending. Annual third-party audits are coming—the only remaining question is whether they arrive through a patchwork of 50 different state regimes or a single federal standard.
+
+*Correction (November 15, 2026): 14 sentences were corrected or removed to match the sources listed on this page.*

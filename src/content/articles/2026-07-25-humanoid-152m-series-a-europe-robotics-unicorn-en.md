@@ -1,8 +1,9 @@
 ---
-title: "Humanoid Raises $152M at $1.35B Valuation, Becomes Europe's First Pure-Play Humanoid Robotics Unicorn"
-summary: "UK-based Humanoid has closed a $152 million Series A round at a $1.35 billion post-money valuation, making it Europe's first pure-play humanoid robotics unicorn. Led by Prime Movers Lab with strategic backing from Schaeffler and Bosch, the company is deploying its wheeled bimanual robots in manufacturing environments and plans to launch Beta-spec machines in Q4 2026."
+title: "Humanoid Raises $152M at $1.35B Valuation, Calls Itself Europe's First Pure-Play Humanoid Robotics Unicorn"
+summary: "UK-based Humanoid has closed a $152 million Series A round at a $1.35 billion post-money valuation, which the company describes as making it Europe's first pure-play humanoid robotics unicorn. Led by Prime Movers Lab with participation from Schaeffler and Bosch, the company is deploying at several early access customers and plans to roll out Beta version robots in Q4 2026."
 category: "hardware"
 publishedAt: 2026-07-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-07-24-japan-noetra-2b-physical-ai-robotics-en"
 ---
 
-The humanoid robotics race now has a European contender. Humanoid, a London-based startup founded to build industrial robots that work alongside humans in manufacturing environments, has raised $152 million in a Series A round at a $1.35 billion post-money valuation. The announcement, made July 21, makes the company Europe's first pure-play humanoid robotics unicorn — a distinction that reflects both the company's own trajectory and the continent's accelerating ambitions in physical AI.
+The humanoid robotics race now has a European contender. Humanoid, a London-based startup founded to build industrial robots that work alongside humans in manufacturing environments, has raised $152 million in a Series A round at a $1.35 billion post-money valuation. The company says the round makes it Europe's first pure-play humanoid robotics unicorn — a distinction that reflects both its own trajectory and the continent's accelerating ambitions in physical AI.
 
 Prime Movers Lab led the round, with Schaeffler, Bosch, Fubon Financial Holding Venture Capital, and Paris-based Aglaé Ventures participating as co-investors. The funding brings Humanoid's total capital raised to $270 million. The company plans to deploy the proceeds toward its technology roadmap, manufacturing partnerships, and commercial expansion across European and North American factory floors.
 
@@ -82,3 +83,5 @@ Beyond Beta, the company's longer-term roadmap includes fully bipedal variants �
 For now, Humanoid's $1.35 billion valuation is a bet on two things simultaneously: the technical feasibility of deploying wheeled bimanual manipulators at scale in European manufacturing, and the willingness of industrial customers like Schaeffler and Bosch to commit to robotic deployments at a speed and scale that previous generations of automation technology could not achieve.
 
 The Schaeffler agreement suggests at least one major manufacturer has decided the bet is worth making. The $152 million in fresh capital gives Humanoid the resources to prove them right.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

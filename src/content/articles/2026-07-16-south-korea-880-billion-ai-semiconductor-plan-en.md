@@ -1,8 +1,9 @@
 ---
-title: "South Korea's $880 Billion Bet: President Lee's AI and Semiconductor Masterplan"
-summary: "President Lee Jae-myung unveiled South Korea's most ambitious industrial strategy in a generation — a 1,350 trillion won ($880 billion) investment campaign spanning chip fabrication, AI data centers, and physical AI systems. Samsung and SK Hynix will each build two new fabs; Naver and partners are targeting 8.4 gigawatts of data center capacity by 2029. The plan frames speed as existential for a nation caught between US and Chinese technological supremacy."
+title: "South Korea's Trillion-Dollar Bet: President Lee's AI and Semiconductor Masterplan"
+summary: "President Lee Jae-myung unveiled a sweeping South Korean industrial strategy centred on semiconductors, physical AI and data centres, with investments of hundreds of billions of dollars over several years. Samsung and SK Hynix will each build two new chip fabrication sites, while SK Group, GS Group and Naver back 550 trillion won in AI data centre investment. Lee framed the plan as a way to secure the core elements of AI faster than any other country."
 category: "policy"
 publishedAt: 2026-07-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -27,17 +28,17 @@ relatedSlugs:
   - "2026-07-14-tsmc-q2-2026-record-revenue-ai-chips-en"
 ---
 
-South Korea is placing the largest industrial wager in its postwar history. President Lee Jae-myung stood before a gathering of the country's top corporate leaders last month and announced a 1,350 trillion won commitment — roughly $880 billion at current exchange rates — to dominate two interlocking sectors that his administration believes will define the next era of global technological power: semiconductor manufacturing and artificial intelligence infrastructure.
+South Korea is placing the largest industrial wager in its postwar history. President Lee Jae-myung, flanked by the heads of Samsung Electronics and SK Hynix, announced a sweeping industrial strategy in a televised address, pledging investments of hundreds of billions of dollars over several years in semiconductors, physical AI and data centres.
 
 "We're entering an era where the page turns in the blink of an eye," Lee said, invoking a phrase that will likely echo through Korean policy corridors for years. "Speed is the only way to survive."
 
 ## The Three Mega Projects
 
-The plan's architecture rests on what Lee calls the "triple axis" — semiconductors, physical AI, and data centers — bundled into three flagship projects his administration is marketing as national missions rather than ordinary industrial subsidies.
+The plan's architecture rests on what Lee calls the "triple axis" — semiconductors, physical AI, and data centers — which the government has described as "three mega projects."
 
-The first axis is chip fabrication. Samsung Electronics and SK Hynix, the two companies that between them supply the majority of the world's high-bandwidth memory and a significant share of its logic chips, have committed 800 trillion won ($518 billion) alongside their supplier ecosystems to construct four new fabrication facilities: two each, located in South Korea's southwestern manufacturing corridor. The sites are designed to serve not just the existing memory business but the surging demand for AI-optimized silicon — HBM4, next-generation DRAM, and advanced packaging technology required by Nvidia's Blackwell successors and whatever follows.
+The first axis is chip fabrication. Samsung Electronics and SK Hynix, the world's two largest memory chipmakers, will invest 800 trillion won ($518 billion) with their suppliers to build two new chip fabrication sites each in South Korea's southwest. The sites are designed to serve not just the existing memory business but the surging demand for AI-optimized silicon — HBM4, next-generation DRAM, and advanced packaging technology required by Nvidia's Blackwell successors and whatever follows.
 
-The second axis is data center capacity. Companies led by internet giant Naver have pledged an additional 550 trillion won to build AI data center infrastructure targeting 8.4 gigawatts of aggregate capacity by 2029. That figure, if achieved, would make South Korea's AI compute footprint among the five largest in the world, rivaling the buildouts currently underway in the United States, Saudi Arabia, and the United Arab Emirates.
+The second axis is data center capacity. The government also unveiled plans for AI data centres in the region, backed by 550 trillion won in investment from SK Group, GS Group and Naver. That figure, if achieved, would make South Korea's AI compute footprint among the five largest in the world, rivaling the buildouts currently underway in the United States, Saudi Arabia, and the United Arab Emirates.
 
 The third axis — physical AI — encompasses robotics and AI-integrated manufacturing systems, a domain where Korea's existing industrial base in electronics assembly and automotive production gives it an unusual structural advantage.
 
@@ -70,3 +71,5 @@ There is a scenario in which this works perfectly: AI infrastructure demand cont
 There is another scenario in which the data center buildout overspends during an AI infrastructure glut, the chip fabs face utilization pressure from a demand correction, and the concentration in the southwest corridor creates fragility rather than strength. Lee's legacy, he clearly understands, hinges on which of those scenarios emerges.
 
 What is undeniable is the ambition. For a nation of 52 million people with no hydrocarbon wealth and a neighbor that periodically tests ballistic missiles across its borders, betting $880 billion on being indispensable to the global AI economy is either visionary statecraft or extraordinary hubris. Probably some of both.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

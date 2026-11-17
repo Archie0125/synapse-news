@@ -1,8 +1,9 @@
 ---
 title: "Google收下6000個社群貢獻後關閉Gemini CLI——開發者怒了"
-summary: "Google將於6月18日終止免費用戶對開源Gemini CLI的存取，以閉源的Antigravity CLI取而代之。社群開發者在這個Apache 2.0儲存庫貢獻了超過6000個合併PR後，卻被迫遷移至無法自行審計原始碼的工具，批評者稱此為AI開源史上最赤裸的「誘餌換包」操作。"
+summary: "Google於5月19日宣布，Gemini CLI將於6月18日停止服務免費用戶、Google AI Pro與Ultra訂閱者，以及個人版Gemini Code Assist用戶，其替代品Antigravity CLI為閉源。外部貢獻者在近一年內，已向這個Apache 2.0儲存庫合併超過6000個PR。"
 category: "developer-tools"
 publishedAt: 2026-06-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -38,7 +39,7 @@ GitHub公告貼文最突出的回應，是31個踩的表情。開發者@anthuanv
 
 Gemini CLI約在一年前以Google對命令列AI代理趨勢的回應姿態問世。它採用Apache 2.0授權，在GitHub上公開，被定位為在終端機建立多步驟工作流程的一流開發者工具。它能瀏覽網頁、執行程式碼、管理檔案，並與Gemini API互動——更重要的是，任何人都可以擴展、分叉和修改它。
 
-社群反應熱烈。儲存庫積累了數千顆星，更值得關注的是：貢獻者開始以穩定的步調提交PR——改善代理框架、新增工具整合、修補邊緣案例，並將專案能力拓展至Google內部團隊未及優先處理的方向。到Google宣布關閉時，已有超過6000個PR被合併，代表著相當可觀的無償工程貢獻。
+社群反應熱烈。儲存庫在GitHub上累積了超過10.4萬顆星。到Google宣布關閉時，外部貢獻者已有超過6000個PR被合併。
 
 ## 「誘餌換包」的機制
 
@@ -46,13 +47,13 @@ Gemini CLI約在一年前以Google對命令列AI代理趨勢的回應姿態問�
 
 機制上頗為微妙。Gemini CLI儲存庫的Apache 2.0授權並沒有被撤銷，Google表示儲存庫將繼續公開存取。被撤銷的，是讓工具得以運作的基礎設施存取權：身份驗證後端、API配額系統，以及Gemini CLI執行指令時所呼叫的服務端點。
 
-如記者Christine Hall所寫，Google「實際上只移除了開源的部分」——程式碼依然可見，但工具對免費用戶已無法使用。持有Google AI Standard或Enterprise授權的企業用戶，仍可透過付費API金鑰繼續存取Gemini CLI，這意味著開源儲存庫作為付費客戶的遺留相容性包裝繼續存在，而非一個活躍的社群專案。
+如記者Christine Hall所寫，Google「實際上只移除了開源的部分」——程式碼依然可見，但工具對免費用戶已無法使用。持有付費Gemini Code Assist Standard或Enterprise授權的企業用戶，仍可繼續使用Gemini CLI，並取得模型更新與安全性修補，免費用戶則無法使用。
 
-替代品Antigravity CLI沒有公開原始碼，其GitHub儲存庫只含文件和設定檔，沒有實作。工具以`agy`而非`gemini`指令執行，這個變更使所有基於Gemini CLI指令建構的Shell腳本和CI管線，在沒有相容性墊片的情況下直接失效。
+替代品Antigravity CLI沒有公開原始碼，其GitHub儲存庫只含文件和設定檔，沒有實作。工具以`agy`而非`gemini`指令執行，這個變更意味著所有基於Gemini CLI指令建構的Shell腳本和CI管線，都必須更改二進位檔名稱並重寫設定。
 
 ## Antigravity 究竟提供什麼
 
-對Google的立場持平而論：Antigravity CLI確實是一個不同的工具，而非Gemini CLI的改名重包裝。它專為多代理工作流程打造，圍繞Google的Antigravity平台設計——後者是Google「代理優先開發」技術棧的統一品牌。二進位檔不依賴任何執行期環境，這是相對於Gemini CLI Python環境需求的真實優勢。
+對Google的立場持平而論：Antigravity CLI確實是一個不同的工具，而非Gemini CLI的改名重包裝。它專為多代理工作流程打造，圍繞Google的Antigravity平台設計——後者是Google「代理優先開發」技術棧的統一品牌。
 
 然而，Antigravity CLI在推出時尚未達到與Gemini CLI的完整功能對等。Google在遷移指南中承認，代理技能（agent skills）、掛鉤（hooks）和子代理（subagent）支援目前僅部分涵蓋。對於在Gemini CLI開源可擴展性上建立了複雜工作流程的那部分開發者，遷移意味著真實的能力損失，而非單純的二進位替換。
 
@@ -62,7 +63,7 @@ Gemini CLI約在一年前以Google對命令列AI代理趨勢的回應姿態問�
 
 這場爭議提升了Linux Foundation一個相對低調倡議的能見度：模型開放性工具（Model Openness Tool），可透過isitopen.ai存取。這個工具針對17個維度對AI相關軟體專案進行評分——從訓練資料透明度到推論基礎設施，再到建構工具的開放性——專門設計用於揭露「開源」宣稱與實際運作開放性之間的落差。
 
-Gemini CLI在程式碼授權項目得分良好，但在基礎設施依賴度上得分偏低，而後者正是這次關閉之所以可能發生的根本原因。Linux Foundation的框架，將Gemini CLI的遭遇定性為一個典型案例：為什麼將某個東西標記為開源，並不保證社群能獲得開源用戶歷來所期待的那種存取。
+Gemini CLI的Apache 2.0授權在程式碼可得性上應可獲得高分，但它對Google後端基礎設施的依賴，可能會拉低整體評分，而這正是這次關閉之所以可能發生的根本原因。Linux Foundation的框架，將Gemini CLI的遭遇定性為一個典型案例：為什麼將某個東西標記為開源，並不保證社群能獲得開源用戶歷來所期待的那種存取。
 
 這個工具在開發者評估其他AI CLI工具時獲得了更多關注，包括Anthropic、OpenAI和較小AI公司發行的工具。在一個每家廠商都透過標榜開源資歷爭奪開發者心占率的領域，Gemini CLI事件讓開發者對這些宣稱的持久性產生了明顯更高的懷疑。
 
@@ -78,10 +79,12 @@ Google在當前週期中AI開發者工具的歷史，充斥著加速與碎片化
 
 遷移至Antigravity CLI，接受現有功能缺口，押注Google在這些缺口阻礙工作流程之前補全。`agy`二進位現已可用，支援基本的多代理使用場景。
 
-轉移至競爭工具。Anthropic的Claude Code、GitHub Copilot CLI以及數個開源替代方案，都在Gemini CLI公告後獲得了用戶增長。Claude Code在終端機原生代理功能上具備可比擬的能力，且採用有償但透明的定價模型。
+轉移至競爭工具。開發者正在評估Anthropic的Claude Code、GitHub Copilot CLI，以及數個以本地託管模型為基礎的開源替代方案。
 
 利用Apache 2.0授權自行fork並維護Gemini CLI。程式碼依然可取得，技術能力足夠的團隊可以維護自有分叉和自訂後端設定，但這需要大多數團隊無力為一個開發工具投入的工程資源。
 
 對更廣泛的AI開發者社群而言，Gemini CLI事件是一個提醒：對依賴基礎設施的工具，開源標籤需要仔細審視。真正的問題不在於程式碼是否可見——而在於後端是否可存取，以及在誰的條件下存取。
 
-Google尚未就社群的強烈反彈發表超出原始遷移公告的公開回應，6月18日的日期維持不變。
+Google尚未在GitHub討論串中回覆開發者的提問，6月18日的日期維持不變。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 9 處。*

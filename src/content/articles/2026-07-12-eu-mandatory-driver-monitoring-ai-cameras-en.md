@@ -3,6 +3,7 @@ title: "Every New Car in Europe Now Has an AI Camera Watching the Driver — Pri
 summary: "As of July 7, 2026, every new passenger car and van registered in the EU must include an AI-powered driver distraction warning system with an inward-facing cabin camera. The General Safety Regulation's second phase marks the broadest mandatory deployment of behavioral AI in consumer hardware to date, and has ignited a sharp debate over safety trade-offs versus continuous in-cabin surveillance."
 category: "policy"
 publishedAt: 2026-07-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,7 +32,7 @@ Starting July 7, 2026, every new passenger car and van sold in the European Unio
 
 The requirement is part of the second phase of the EU's General Safety Regulation (GSR), which has been rolling out in stages since 2022. Phase one, implemented in 2024, mandated intelligent speed assistance systems — technology that uses GPS and road-sign recognition to warn drivers when they exceed posted limits. Phase two goes considerably further: it requires advanced emergency braking capable of detecting cyclists and pedestrians, expanded safety glass for pedestrian protection, new testing standards for worn tyres, and the driver distraction warning system that has attracted the most public attention.
 
-The European Commission estimates the full package of Phase two requirements will save approximately 25,000 lives by 2038.
+Lawmakers reckon the driver monitoring system could save 25,000 lives by 2038.
 
 ## How the System Works
 
@@ -47,7 +48,7 @@ The system is required to be "always-on" when the vehicle is in motion above the
 
 The safety argument for driver monitoring is well-supported by accident data. Driver inattention and distraction are consistently identified as contributing factors in a substantial proportion of serious road accidents across the EU. In-cabin camera systems have been available in vehicles ranging from Tesla to Volvo to various Subaru models for years, typically framed as a safety feature for semi-autonomous driving modes. What is new is the mandate that every vehicle, at every price point, must include the technology.
 
-The European Commission frames the requirement as a logical extension of the EU's broader Vision Zero road safety agenda, which aims to eliminate traffic fatalities and serious injuries by 2050. Phase one of the GSR mandated intelligent speed assistance; Phase two adds driver monitoring; future phases are expected to address vehicle-to-infrastructure communication and other collision avoidance systems.
+The European Commission frames the requirement as part of the EU's long-term Vision Zero goal of moving as close as possible to zero fatalities in road transport by 2050. Phase one of the GSR mandated intelligent speed assistance; Phase two adds driver monitoring; future phases are expected to address vehicle-to-infrastructure communication and other collision avoidance systems.
 
 Road safety researchers largely support the mandate. Studies of voluntary driver monitoring systems in trucks and commercial vehicles — where they have been in use longer — show meaningful reductions in distraction-related incidents. The extension to passenger cars, where the technology is more novel, is expected to require a period of driver adaptation before behavioral effects are measurable.
 
@@ -80,3 +81,5 @@ What the EU's implementation will provide, over the next two to three years, is 
 Mandatory driver monitoring sits at the intersection of several of the most contested questions in contemporary technology policy: behavioral surveillance in private spaces, the trade-off between population-level safety benefits and individual privacy, the governance of AI systems embedded in physical products, and the appropriate role of regulation in accelerating safety technology adoption.
 
 The EU's answer is unambiguous: when the safety case is strong enough and the technology mature enough, the default should be deployment, with privacy protections built into the technical standard rather than left to voluntary choice. Whether that trade-off is the right one will be debated for years. Starting July 7, it is also the law.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

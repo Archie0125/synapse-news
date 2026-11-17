@@ -1,8 +1,9 @@
 ---
 title: "Jeff Bezos's Project Prometheus Nears $10B Raise at $38B Valuation for Physical AI"
-summary: "Jeff Bezos and co-CEO Vikram Bajaj's AI startup Project Prometheus is closing a $10 billion funding round backed by JPMorgan and BlackRock, valuing the physical AI lab at $38 billion just five months after its launch. The company is building AI systems that learn by interacting with the physical world, targeting aerospace, manufacturing, and drug discovery."
+summary: "Jeff Bezos's AI startup Project Prometheus, led by chief executive Vikram Bajaj, is close to finalising a $10 billion funding round that would value the physical AI lab at $38 billion. The company is building AI systems that learn by interacting with the physical world, targeting aerospace, manufacturing, and drug discovery."
 category: "ai-ml"
 publishedAt: 2026-04-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -26,17 +27,17 @@ relatedSlugs:
   - "2026-04-07-anthropic-30b-arr-surpasses-openai-en"
 ---
 
-Five months after its quiet launch, Jeff Bezos's AI venture is making its most audacious move yet. Project Prometheus, the San Francisco-based startup co-founded and co-led by Bezos himself, is closing in on a $10 billion funding round at a $38 billion valuation — a staggering leap that would make it one of the most valuable AI companies in the world before shipping a single commercial product.
+Five months after its launch, Jeff Bezos's AI venture is reportedly close to a major funding round. Project Prometheus, the startup Bezos is helping to fund and raise money for, is close to finalising a $10 billion funding round at a $38 billion valuation, a staggering leap that would make it one of the most richly valued early-stage AI startups in the world.
 
-According to a report first published by the Financial Times and confirmed by multiple sources, JPMorgan and BlackRock are anchoring the round, joined by a constellation of institutional investors drawn to a bet that the next frontier of AI is not language or images, but the physical world.
+According to a report by the Financial Times, JPMorgan and BlackRock have been attracted as investors in the new round, which has not yet been finalised.
 
 ## Bezos Back in the Operator's Seat
 
-Project Prometheus, launched in November 2025, is notable not only for its scope but for what it represents personally for Bezos. It marks the first time the Amazon founder has taken an active operational role at a technology company since stepping down as Amazon's CEO in 2021. After years of backing ventures from a distance — funding Blue Origin, backing Anthropic, and investing in dozens of climate and robotics startups — Bezos is once again in the building.
+Project Prometheus, launched in November 2025, is notable not only for its scope but for what it represents personally for Bezos. It marks the first time Bezos has held an operational role in a technology company since leaving Amazon in 2021. After years of backing ventures from a distance — funding Blue Origin, backing Anthropic, and investing in dozens of climate and robotics startups — Bezos is once again in the building.
 
-His co-CEO is Vikram Bajaj, a former Google X scientist with a PhD in physical chemistry from MIT. Bajaj's track record at Alphabet is extraordinary: he led early work on both Wing (the drone delivery program) and Waymo (the autonomous vehicle unit), before co-founding Verily, Alphabet's life sciences arm, and Xaira Therapeutics, an AI drug discovery company. Together, Bezos and Bajaj form an unusually credentialed founding team that has had little difficulty attracting talent.
+The company is led by chief executive Vikram Bajaj, a former Google X scientist and co-founder of Foresite Labs. Bajaj's track record at Alphabet is extraordinary: he led early work on both Wing (the drone delivery program) and Waymo (the autonomous vehicle unit), before co-founding Verily, Alphabet's life sciences arm, and Xaira Therapeutics, an AI drug discovery company. Together, Bezos and Bajaj form an unusually credentialed founding team that has had little difficulty attracting talent.
 
-In just five months, Prometheus has grown to over 120 employees, recruited from leading AI labs including OpenAI, xAI, Meta AI, and Google DeepMind. The company launched with $6.2 billion in its initial capitalization — itself a historic seed-stage investment — and is now nearly doubling that with the new round.
+Prometheus has grown to over 120 employees, drawn from leading AI companies including OpenAI, xAI, Meta, and DeepMind. The company launched with $6.2 billion in its initial capitalization — itself a historic seed-stage investment — and is now nearly doubling that with the new round.
 
 ## What Is "Physical AI"?
 
@@ -50,7 +51,7 @@ Prometheus is building AI that can absorb this knowledge and accelerate it by or
 
 ## Target Industries and Go-to-Market Strategy
 
-The company has identified four primary verticals where physical AI can deliver transformative ROI: aerospace, automotive and advanced manufacturing, drug discovery, and logistics automation. These are not coincidentally the four industries most defined by expensive, slow, hard-to-scale physical experimentation.
+The company's stated targets include engineering, manufacturing, aerospace, robotics, drug discovery, and logistics automation. These are not coincidentally the four industries most defined by expensive, slow, hard-to-scale physical experimentation.
 
 In aerospace, the company is targeting everything from airframe design validation to engine materials analysis — processes that currently require multi-year testing programs. In pharma, it sees an opportunity to replace early-stage wet-lab experiments with AI-simulated results accurate enough to guide clinical development decisions. In manufacturing, it aims to automate the kind of engineering judgment that currently requires a senior machinist with decades of experience.
 
@@ -58,7 +59,7 @@ The go-to-market strategy is partially revealed by a secondary initiative Promet
 
 ## Valuation in Context
 
-At $38 billion, Prometheus's valuation demands scrutiny. The company has no revenue, no commercial product, and has been operating for less than six months. Even by the exuberant standards of 2026's AI funding landscape — where Anthropic is approaching a $200 billion valuation and OpenAI is preparing an IPO at over $1 trillion — the Prometheus number is striking.
+At $38 billion, Prometheus's valuation demands scrutiny. The company has not publicly demonstrated products or commercial deployments, and has been operating for less than six months. Even by the exuberant standards of 2026's AI funding landscape — where Anthropic is approaching a $200 billion valuation and OpenAI is preparing an IPO at over $1 trillion — the Prometheus number is striking.
 
 Investors appear to be pricing in three things: the Bezos brand and his operational involvement, Bajaj's unique combination of scientific depth and operational track record, and the sheer scale of the industrial markets they are targeting. Global aerospace manufacturing alone represents a $350 billion annual industry. Advanced drug discovery, from early research to clinical trials, represents hundreds of billions more.
 
@@ -70,4 +71,4 @@ Bezos's entry into the AI race as an operator rather than an investor changes th
 
 The $10 billion round, if it closes as reported, will not merely validate Prometheus as a company. It will mark the arrival of physical AI as an investable category in its own right, distinct from the language model wars that have dominated the past three years. For industries that still depend fundamentally on human expertise interacting with the real world, that distinction could be the most consequential development in enterprise AI since the transformer architecture itself.
 
-The round is expected to close before the end of Q2 2026.
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

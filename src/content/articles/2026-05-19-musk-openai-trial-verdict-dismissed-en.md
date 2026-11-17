@@ -1,8 +1,9 @@
 ---
 title: "Jury Dismisses Musk's $134B OpenAI Lawsuit in Under Two Hours"
-summary: "A California advisory jury unanimously rejected Elon Musk's sweeping lawsuit against OpenAI and Sam Altman on statute-of-limitations grounds, ending the highest-profile AI legal battle in history. Musk has vowed to appeal, but the ruling delivers a major legal and reputational vindication for OpenAI ahead of its rumored IPO."
+summary: "A California advisory jury unanimously rejected Elon Musk's lawsuit against OpenAI and Sam Altman, finding his claims were filed too late under the statute of limitations."
 category: "policy"
 publishedAt: 2026-05-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-05-08-openai-trial-week3-zilis-tesla-takeover-bid-en"
 ---
 
-The most consequential courtroom battle in artificial intelligence history ended Monday with a whimper, not a bang. A nine-member advisory jury in Oakland, California deliberated for less than two hours before unanimously ruling that Elon Musk had waited too long to file his lawsuit against OpenAI and its CEO Sam Altman. Judge Yvonne Gonzalez Rogers accepted the jury's recommendation and dismissed the case in its entirety.
+The most consequential courtroom battle in artificial intelligence history ended Monday with a whimper, not a bang. A nine-member advisory jury in Oakland, California deliberated for less than two hours before unanimously ruling that Elon Musk had waited too long to file his lawsuit against OpenAI and its CEO Sam Altman. Judge Yvonne Gonzalez Rogers, who was not bound by the advisory jury's determination, accepted the verdict.
 
 Musk had sought up to $134 billion in damages and demanded Altman's removal from the company he helped co-found in 2015. Instead, he left court empty-handed — and with a vow to appeal that few legal experts believe will reverse the outcome.
 
@@ -76,4 +77,6 @@ The verdict effectively ends Musk's primary legal offensive against OpenAI, at l
 
 For Altman, who endured weeks of sometimes hostile cross-examination and saw internal communications from OpenAI's most turbulent period aired publicly, the acquittal arrives as the company stands at an inflection point. An IPO would cement OpenAI's transformation from research lab to public corporation — exactly the trajectory Musk spent two years in court trying to stop.
 
-The jury took less than two hours to decide that was legal. History will take considerably longer to judge whether it was wise.
+The jury took less than two hours to decide that Musk's claims came too late. History will take considerably longer to judge whether it was wise.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Nvidia Unveils N1X: First Blackwell Laptop Chip Signals New Era for Wind
 summary: "Jensen Huang took the stage at GTC Taipei on June 1 to officially unveil the Nvidia N1 and N1X, the company's first-ever laptop processors. Built with MediaTek on TSMC 3nm and pairing 20 Arm CPU cores with a 6,144-CUDA-core Blackwell GPU, the chips target a 150-million-unit-per-year market long dominated by Intel, AMD, and Qualcomm."
 category: "hardware"
 publishedAt: 2026-06-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -37,7 +38,7 @@ The GTC Taipei keynote marked the official debut of the Nvidia N1 and N1X — th
 
 The flagship N1X is a beast by laptop SoC standards. At its core sits a 20-core CPU complex, split between 10 high-performance Arm Cortex-X925 cores and 10 efficient Cortex-A725 cores — a configuration that mirrors what Qualcomm uses in its Snapdragon X Elite, but with a critical differentiator underneath: the GPU.
 
-Where Qualcomm relies on its in-house Adreno graphics, the N1X pairs those CPU cores with a full Blackwell-architecture GPU carrying 6,144 CUDA cores across 48 shader multiprocessors. That is not a mobile-grade graphics block — it is, in performance terms, equivalent to a desktop RTX 5070. The chip ships with a unified LPDDR5X memory subsystem supporting up to 128GB, and fits within a 45–80W power envelope depending on OEM configuration.
+Where Qualcomm relies on its in-house Adreno graphics, the N1X pairs those CPU cores with a full Blackwell-architecture GPU carrying 6,144 CUDA cores across 48 shader multiprocessors. That is not a mobile-grade graphics block: the shader count matches the desktop RTX 5070, though the GPU shares its memory pool with the CPU. The chip ships with a unified LPDDR5X memory subsystem supporting up to 128GB, and fits within a 45–80W power envelope depending on OEM configuration.
 
 The standard N1 variant targets thinner, more power-conscious designs, with configurations ranging from 10 to 12 CPU cores and a smaller GPU cluster. Both chips are built on TSMC's N3 process, the same node used in Apple's latest M-series and Snapdragon X processors.
 
@@ -53,7 +54,7 @@ The strategic timing is deliberate. Intel's Lunar Lake and Arrow Lake laptop lin
 
 ## OEM Partners Ready on Day One
 
-Unlike some chip unveilings where hardware is months from store shelves, Nvidia's announcement comes with a full partner ecosystem already assembled. Dell, Lenovo, Asus, and MSI have all confirmed N1X-based designs, with Asus committing to use the chip in multiple ZenBook and ProArt lines.
+Unlike some chip unveilings where hardware is months from store shelves, Nvidia's announcement comes with a full partner ecosystem already assembled. Dell and Lenovo are confirmed OEM partners based on pre-announcement leaks, with Asus and MSI also reportedly preparing N1X-based designs; Asus has teased a ProArt laptop.
 
 Dell's XPS series — long considered a gold standard for Windows laptop design — will be among the first to adopt N1X. Lenovo is positioning ThinkBook and Yoga models for the chip, while MSI is targeting creator and gaming-adjacent use cases where the Blackwell GPU provides a tangible advantage for local AI inference.
 
@@ -65,7 +66,7 @@ The GPU inside the N1X is more than a performance differentiator — it is funda
 
 At 45W sustained power, Nvidia claims the N1X can run a 70-billion-parameter quantized model at practical speeds — roughly 15–20 tokens per second — on device. At the 80W ceiling, larger context windows and faster throughput become possible. For privacy-conscious users, regulated industries, or anyone in regions with unreliable connectivity, this changes the economics of AI-augmented software fundamentally.
 
-Microsoft was a co-announcer on stage, with Windows chief Panos Panay describing the N1X as a platform that "makes every Windows app AI-native." Arm Holdings CEO Rene Haas appeared via video to describe the chip as validation of the consortium's long bet on Arm-based computing.
+Microsoft and Arm joined Nvidia in teasing the launch ahead of the keynote, posting the same "A new era of PC" message." Arm Holdings CEO Rene Haas appeared via video to describe the chip as validation of the consortium's long bet on Arm-based computing.
 
 ## Competitive Implications
 
@@ -80,3 +81,5 @@ For Intel, the timing is uncomfortable. Meteor Lake and Arrow Lake have failed t
 The full Computex week begins June 2, where Nvidia will be showing the N1X in live demonstrations across partner booths. Huang's keynote also previewed Vera Rubin, the next-generation data center GPU platform, and touched on Nvidia's physical AI roadmap — but the N1X was clearly the consumer headline.
 
 The laptop chip market will not be reshaped overnight. Qualcomm's OEM relationships and Windows integration work run deep. Intel's manufacturing deals and roadmap give it runway. But for the first time since Arm entered the Windows laptop market in earnest, there is a GPU-first competitor willing to go toe-to-toe on the specifications that creative professionals and developers care about most. That, in itself, is a seismic shift.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Goldman Sachs Maps $7.6 Trillion AI Infrastructure Bet Through 2031 — 
 summary: "A new Goldman Sachs report forecasts $7.6 trillion in cumulative AI infrastructure capital expenditure from 2026 to 2031, with annual spending escalating from $765 billion to $1.6 trillion. Nvidia is projected to capture three-quarters of the $5.1 trillion compute layer while power infrastructure emerges as the single greatest operational bottleneck."
 category: "industry"
 publishedAt: 2026-06-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -41,11 +42,11 @@ The baseline unit of analysis in the report is the Rubin VR200 GPU, priced at $8
 
 **Data Centers: $2.1 trillion.** The physical infrastructure housing AI compute is undergoing what Goldman calls a fundamental architectural reinvention. Standard cloud infrastructure requires 5–15 kilowatts per rack. Current Blackwell-era AI facilities run at 130–200 kilowatts per rack. Next-generation AI factories — built to house 2027–2028 generation chips — will exceed 500 kilowatts per rack, requiring liquid cooling infrastructure that simply doesn't exist at scale today.
 
-Construction costs reflect this shift. Traditional hyperscale data centers cost approximately $10 million per megawatt to build. AI-optimized facilities are now running $15–20 million per megawatt — a 50–100% cost premium before the power contracts are signed. Vertiv, which manufactures liquid cooling systems and power distribution equipment, emerges as a critical downstream beneficiary: the liquid cooling market is projected to grow from $5.5 billion to $15.75 billion by 2030.
+Construction costs reflect this shift. Traditional hyperscale data centers cost approximately $10 million per megawatt to build. Next-generation AI data centers are being planned at $15–20 million per megawatt, a sharp increase driven by cooling and power infrastructure requirements. Vertiv, which manufactures liquid cooling systems and power distribution equipment, emerges as a critical downstream beneficiary: the liquid cooling market is projected to grow from $5.5 billion to $15.75 billion by 2030.
 
 **Power: $358 billion.** The smallest category by dollar value is, paradoxically, the most operationally constrained. "Our single biggest constraint is power," Amazon CEO Andy Jassy stated publicly earlier this year — a sentiment that Satya Nadella and Sundar Pichai have echoed in their own earnings calls and investor days.
 
-Grid connection timelines for large-scale data centers now extend three to five years in most Western markets, with permitting, interconnect queues, and utility upgrade cycles all contributing to the delay. This is driving hyperscalers toward unconventional power sources: Vistra secured a 20-year agreement with Meta covering 2,600+ megawatts of nuclear capacity, with a separate deal with AWS; Microsoft committed to Three Mile Island's restart; Google struck deals with geothermal and advanced nuclear providers. Goldman upgraded Vistra and several other power names following these announcements.
+Grid connection timelines for large data centers extend into years, making early contracting essential for deployment. This is driving hyperscalers toward unconventional power sources: Vistra secured a 20-year agreement with Meta covering 2,600+ megawatts of nuclear capacity, with a separate deal with AWS; Microsoft committed to Three Mile Island's restart; Google struck deals with geothermal and advanced nuclear providers. Goldman Sachs and Jefferies both upgraded Vistra following the Meta announcement, according to Milk Road AI's breakdown of the report.
 
 ## The Critical Variable: Chip Depreciation
 
@@ -70,3 +71,5 @@ The $7.6 trillion number is not a guarantee. It is a scenario that becomes true 
 Given that Goldman's prior 2024 AI capex forecast was substantially revised upward in 2025, which was again revised upward to produce this 2026 report, the most likely thing the next version will show is a number larger than $7.6 trillion.
 
 The build-out has its own momentum now. The question is who captures the margin.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

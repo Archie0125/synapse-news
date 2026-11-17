@@ -1,8 +1,9 @@
 ---
-title: "Tencent Launches Hy3 Preview: A 295B-Parameter MoE Model Built in Under 90 Days"
-summary: "Tencent's Hunyuan team has released Hy3 Preview, a 295-billion-parameter mixture-of-experts model trained from scratch in under three months. The open-source model achieves 74.4% on SWE-bench Verified, offers a 256K token context window, and claims a 40% inference efficiency improvement — signaling a serious recalibration of Tencent's AI ambitions under new leadership."
+title: "Tencent Launches Hy3 Preview: A 295B-Parameter Open-Source MoE Model"
+summary: "Tencent has released Hy3 Preview, an open-source mixture-of-experts model with 295 billion parameters and a 256K token context window. Tencent says it improves inference efficiency by 40%, and the launch is the company's first major technological update since overhauling its AI leadership."
 category: "ai-ml"
 publishedAt: 2026-04-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,25 +32,25 @@ relatedSlugs:
   - "2026-04-12-zai-glm51-open-source-swe-bench-en"
 ---
 
-Tencent has released Hy3 Preview, the first major AI model to emerge from the company's overhauled Hunyuan team following a sweeping leadership change earlier this year. The model — a mixture-of-experts architecture with 295 billion total parameters and 21 billion active parameters per forward pass — was trained from a cold start in late January and shipped on April 23, a development cycle of under 90 days that is itself a statement about where the Chinese tech industry has arrived on AI model development velocity.
+Tencent has released Hy3 Preview, the first major AI model to emerge from the company's overhauled Hunyuan team following a sweeping leadership change earlier this year. The model, a mixture-of-experts architecture with 295 billion total parameters and 21 billion active parameters, shipped on April 23 as the first model trained on infrastructure Tencent restructured in February 2026.
 
 The release is significant on multiple dimensions: technical, competitive, and symbolic. For Tencent specifically, it represents the first credible evidence that the company's AI reorganization has moved from announcement to output. For the broader open-source ecosystem, it introduces a capable Chinese-origin model that challenges the narrative that only Western labs or DeepSeek can produce frontier-quality open weights.
 
 ## Technical Specifications
 
-Hy3 Preview is built on a sparse MoE architecture in which only 21 billion of its 295 billion parameters are activated during inference on any given token. This design dramatically reduces the computational cost per forward pass relative to a dense model of equivalent parameter count, which is how Tencent achieves what it claims is a 40% improvement in inference efficiency compared to its predecessor Hunyuan models.
+Hy3 Preview is built on a sparse MoE architecture in which only 21 billion of its 295 billion parameters are activated during inference on any given token. This design reduces the computational cost per forward pass relative to a dense model of equivalent parameter count, and Tencent says the model has improved inference efficiency by 40%.
 
 The model supports a 256,000-token context window — equivalent to roughly 200,000 words, or a long novel — which places it among the handful of frontier models capable of processing entire codebases, lengthy legal documents, or extended research corpora as a single prompt. This capability is increasingly important for enterprise customers building multi-step agentic workflows that require models to maintain state across long interaction sequences.
 
-On SWE-bench Verified, the standard benchmark for evaluating a model's ability to resolve real-world software engineering issues from GitHub, Hy3 Preview scores 74.4%. For reference, Claude Opus 4.6 sits at 80.8% on the same benchmark, while GPT-5.5 has reported figures in a comparable range. Hy3 Preview's score places it firmly within striking distance of the Western frontier, a remarkable outcome for a model completed in under three months.
+Tencent cites SWE-Bench Verified among the more than 50 evaluation sets used to assess Hy3 Preview.
 
-The Tencent team describes the architecture as "fast-and-slow-thinking fused" — meaning it integrates both rapid, pattern-matching inference (similar to chain-of-thought shortcuts) and slower, deliberate reasoning into a unified model, rather than requiring the user or application layer to switch between modes.
+Tencent describes the model as a "fast-and-slow-thinking fused" MoE language model, and one source reports that it offers three inference modes that prioritize either latency or depth.
 
 ## New Leadership, New Direction
 
-The speed and quality of Hy3 Preview's development are inseparable from the leadership restructuring that preceded it. Tencent's previous AI efforts were spread across multiple competing internal teams, resulting in duplicated effort and slower iteration cycles. In early 2026, the company consolidated AI research under a new lead who previously worked at OpenAI — a hire that followed a broader pattern of Chinese tech companies recruiting Western AI talent as export controls tightened access to frontier model weights.
+The company's AI leadership changed when Yao Shunyu was appointed chief AI scientist, and Hy3 Preview is its first major update since then.
 
-The new leadership brought with it a different philosophy: prioritize deployment integration over benchmark-chasing, and measure model quality through product usage rather than leaderboard position. Hy3 Preview launched not as a research artifact but as a production model immediately integrated into more than ten Tencent products, including Yuanbao (the company's consumer AI assistant), WeChat, and QQ.
+The new leadership brought with it a different philosophy: prioritize deployment integration over benchmark-chasing, and measure model quality through product usage rather than leaderboard position. Hy3 Preview launched not as a research artifact but as a model already integrated into Tencent products, including Yuanbao (the company's consumer AI chatbot), CodeBuddy, WorkBuddy, ima, Tencent Docs and Peacekeeper Elite.
 
 This product-first approach is evident in how Tencent is pricing and positioning the model. Through its TokenHub API platform, Hy3 Preview is available at RMB 1.2 per million input tokens and RMB 4 per million output tokens — pricing that undercuts most Western alternatives and signals that Tencent intends to compete on value as well as capability.
 
@@ -63,7 +64,7 @@ The timing is also notable. Tencent chose to release during a week dominated by 
 
 ## Integration Into Tencent's Product Ecosystem
 
-Perhaps more interesting than the benchmark results is the speed of product integration. Hy3 Preview is already powering Yuanbao, Tencent's consumer AI assistant that competes with Baidu's Ernie Bot and Alibaba's Tongyi Qianwen in the Chinese market. Given WeChat's scale — the platform has more than 1.3 billion monthly active users — even a marginal improvement in AI-powered features driven by a more capable underlying model represents a meaningful user experience change at population scale.
+Perhaps more interesting than the benchmark results is the speed of product integration. Hy3 Preview is already powering Yuanbao, Tencent's consumer AI chatbot, which switches its primary underlying model from DeepSeek to the new model and trails rivals such as Doubao and Qianwen in monthly active users. Given WeChat's scale — the platform has more than 1.3 billion monthly active users — even a marginal improvement in AI-powered features driven by a more capable underlying model represents a meaningful user experience change at population scale.
 
 The integration into WeChat and QQ also positions Hy3 Preview as a social-context AI model, trained and deployed in an environment where conversational nuance, tone matching, and cultural fluency matter more than raw coding performance. Tencent's SWE-bench results are competitive, but the more defensible differentiation may ultimately be how well the model handles the Chinese language contexts, humor registers, and conversational patterns that dominate its home platforms.
 
@@ -72,3 +73,5 @@ The integration into WeChat and QQ also positions Hy3 Preview as a social-contex
 Hy3 Preview's release continues a trend that has defined early 2026: the gap between open-weight and proprietary frontier models is narrowing faster than most observers predicted. A model scoring 74.4% on SWE-bench, available for free download with commercial-use rights and priced competitively via API, meaningfully expands the options available to enterprises and developers who cannot or choose not to depend on OpenAI or Anthropic.
 
 For developers building AI-native applications in markets where data sovereignty matters — Southeast Asia, the Middle East, parts of Europe — a Chinese-origin open model from a company with Tencent's infrastructure scale is a credible option in a way that models from the prior generation were not. Whether Hy3 Preview builds the international developer community that DeepSeek has cultivated remains to be seen, but the foundation is now clearly present.
+
+*Correction (November 15, 2026): 13 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "OpenAI Enters Hardware With Codex Micro Macro Pad, Launching July 15 Wit
 summary: "OpenAI will unveil the Codex Micro on July 15 — a co-designed programmable macro pad with keyboard maker Work Louder that gives developers dedicated tactile controls for its Codex AI coding agent. The product marks OpenAI's first hardware release and arrives separately from its Jony Ive device project."
 category: "developer-tools"
 publishedAt: 2026-07-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
 
 OpenAI, a company that has spent its entire existence as a software-only enterprise, is making its first move into physical hardware — and it is starting not with the sleek consumer device it is developing with designer Jony Ive, but with a programmable macro pad for developers who use its Codex coding agent every day.
 
-The Codex Micro, co-developed with keyboard maker Work Louder, will be unveiled on July 15. OpenAI teased the collaboration on June 29 through its developer account on X with a single image and the caption: "Your favorite Codex shortcuts are getting an upgrade." OpenAI spokesperson Dominik Kundel described it at the AI Engineer World's Fair as "a keyboard designed to supercharge people's Codex usage."
+The Codex Micro, co-developed with keyboard maker Work Louder, will be unveiled on July 15. OpenAI teased the collaboration through its developer account with a teaser video and the caption: "Your favorite Codex shortcuts are getting an upgrade."" OpenAI spokesperson Dominik Kundel described it at the AI Engineer World's Fair as "a keyboard designed to supercharge people's Codex usage."
 
 ## What the Device Is
 
@@ -62,6 +63,8 @@ The Codex Micro arrives in a developer tools market experiencing significant tur
 
 Against this backdrop, branded hardware serves purposes beyond ergonomics. It creates a physical touchpoint — literally — in developers' workspaces that competitor software cannot replicate. A Codex Micro sitting next to a keyboard is a daily reminder of OpenAI's product in a way that a browser tab or IDE extension is not. It also signals commitment to the Codex product line at a moment when developers are evaluating which AI coding tools to invest in learning deeply.
 
-The July 15 announcement date is strategically timed. It falls two weeks after this article's publish date, giving OpenAI's developer community time to build anticipation without revealing enough to allow competitors to prepare a rapid response.
+The July 15 announcement date is strategically timed.
 
 Whether the Codex Micro becomes a commercially meaningful product or a memorable brand moment, it marks OpenAI's first step beyond pure software — and in a market where physical presence increasingly matters, that step is worth watching.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

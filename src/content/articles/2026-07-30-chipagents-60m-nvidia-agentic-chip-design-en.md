@@ -1,8 +1,9 @@
 ---
 title: "ChipAgents Raises $60M and Deepens Nvidia Tie-Up to Automate Semiconductor Design"
-summary: "ChipAgents, a Santa Clara startup that deploys AI agents to automate the most time-intensive phases of chip design, has raised $60 million in Series A2 funding led by B Capital, bringing its total Series A haul to $134 million. The round accompanies an expanded partnership with Nvidia to develop a specialized AI model for semiconductor design, as ChipAgents reports 6x annualized revenue growth and deployments at more than 120 chip companies."
+summary: "ChipAgents, a Santa Clara startup that deploys AI agents to automate chip design, has raised $60 million in an expanded Series A led by B Capital, bringing its total Series A haul to $131 million. The round comes as ChipAgents expands its collaboration with Nvidia to develop a specialized AI model for chip design."
 category: "hardware"
 publishedAt: 2026-07-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,9 +32,9 @@ relatedSlugs:
   - "2026-07-08-nvidia-sk-hynix-hbm4-vera-rubin-partnership-en"
 ---
 
-Building a modern semiconductor is one of the most labor-intensive engineering challenges that exists. A single advanced chip can require billions of transistors arranged with nanometer precision, designed by teams of hundreds of engineers over two to four years, verified against millions of test cases before a single wafer is ever cut. The verification phase alone—checking that the chip actually does what the specification says it should do—can consume more than 70% of total design time and budget.
+Building a modern semiconductor is one of the most labor-intensive engineering challenges that exists. A single advanced chip can require billions of transistors arranged with nanometer precision, designed by teams of hundreds of engineers over two to four years, verified against millions of test cases before a single wafer is ever cut. The verification phase alone—checking that the chip actually does what the specification says it should do—can consume more than 70% of a design project's time.
 
-ChipAgents thinks AI agents can change that equation. On July 29, the Santa Clara-based startup announced $60 million in new Series A2 funding, bringing its total Series A financing to $134 million. The round was led by B Capital and included existing investors Bessemer Venture Partners, Micron, MediaTek, and Ericsson. Simultaneously, ChipAgents expanded its technical partnership with Nvidia to develop a specialized AI model focused on semiconductor design—a collaboration that places Nvidia's model capabilities in service of the very industry that makes Nvidia's chips possible.
+ChipAgents thinks AI agents can change that equation. On July 29, the Santa Clara-based startup announced a $60 million expansion of its Series A, bringing its total Series A financing to $131 million. The round was led by B Capital and included existing investors Bessemer Venture Partners, Micron, MediaTek, and Ericsson. Simultaneously, ChipAgents expanded its technical partnership with Nvidia to develop a specialized AI model focused on semiconductor design—a collaboration that places Nvidia's model capabilities in service of the very industry that makes Nvidia's chips possible.
 
 ## What ChipAgents Actually Does
 
@@ -41,15 +42,15 @@ Electronic design automation (EDA) is the software category that governs chip de
 
 ChipAgents enters this space with a different architectural bet: rather than augmenting existing EDA tools with AI features, it builds autonomous AI agents that operate those tools on engineers' behalf. The agents can read a chip specification, generate test cases, execute them in simulation, analyze failures, and iterate—all with minimal human direction.
 
-CEO William Wang describes the core promise as eliminating the busywork that currently occupies the majority of a verification engineer's day: "A big part of what we do is actually making sure there are no bugs," Wang said in an interview. "But today, the way that happens is humans writing thousands of test cases, running simulations, reading logs. That can change."
+CEO William Wang said ChipAgents sees its largest speedup in verification: "A big part of that is actually making sure there are no bugs," Wang said in an interview. "But today, the way that happens is humans writing thousands of test cases, running simulations, reading logs. That can change."
 
 The technology targets chip verification specifically—the phase where engineers confirm that the logical design of a chip behaves correctly before it goes to manufacturing. A bug discovered at this stage can be fixed in software. The same bug discovered after fabrication can render an entire wafer run worthless, at a cost that can reach tens of millions of dollars.
 
 ## The Funding Trajectory
 
-ChipAgents was founded in 2024 as a spinout from Alpha Design AI in San Jose. Its funding history reflects a rapid escalation of investor confidence: it closed a $21 million Series A in October 2025, added $50 million in February 2026, and now brings the total to $134 million in less than a year of Series A activity. B Capital's decision to lead the latest round, alongside chipmaker-investors Micron and MediaTek, signals that the customers are also believers.
+B Capital's decision to lead the latest round, alongside chipmaker-investors Micron and MediaTek, signals that the customers are also believers.
 
-The company now has approximately 64 employees and deployments at more than 120 semiconductor companies. Its annualized recurring revenue grew 6x in the first half of 2026—a growth rate that, if sustained, would put ChipAgents among the fastest-growing enterprise software companies in the sector. The company has not disclosed absolute revenue figures.
+The company now has approximately 64 employees. Its annualized recurring revenue grew 6x in the first half of 2026—a growth rate that, if sustained, would put ChipAgents among the fastest-growing enterprise software companies in the sector. The company has not disclosed absolute revenue figures.
 
 ## The Nvidia Partnership: A Specialized Model for Chips
 
@@ -78,3 +79,5 @@ Convincing a verification team to delegate meaningful portions of their workflow
 The Nvidia partnership may help here. A model trained on Nvidia's internal design artifacts and validated against Nvidia's own silicon outcomes would carry credibility that no general-purpose model can claim. If ChipAgents can point to Nvidia designs that went to fabrication successfully after agent-assisted verification, that is a reference that the rest of the industry will take seriously.
 
 The race to automate chip design is early. ChipAgents has positioned itself at the most impactful phase of that workflow, raised the capital to compete at scale, and secured the most credible possible partner to anchor its model development. The next two years will determine whether the industry is ready to trust an agent to find bugs before the wafer is poured.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

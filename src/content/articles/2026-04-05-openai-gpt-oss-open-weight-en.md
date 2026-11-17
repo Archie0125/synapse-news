@@ -1,8 +1,9 @@
 ---
-title: "OpenAI Releases First Open-Weight Models in Seven Years, Challenging Meta's Llama Dominance"
-summary: "OpenAI has released two open-weight models — gpt-oss-20b and gpt-oss-120b — under the Apache 2.0 license, ending a seven-year absence from open-source AI. The models target agentic workflows and directly compete with Meta's Llama series on both performance and permissive licensing."
+title: "OpenAI Releases Open-Weight gpt-oss Models Under Apache 2.0"
+summary: "OpenAI has released two open-weight models — gpt-oss-20b and gpt-oss-120b — under the Apache 2.0 license. The models target agentic workflows and reasoning tasks."
 category: "ai-ml"
 publishedAt: 2026-04-05T10:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -25,7 +26,7 @@ relatedSlugs:
   - "2026-04-05-noah-labs-fda-voice-heart-failure-en"
 ---
 
-Seven years after releasing GPT-2 in 2019, OpenAI has broken its silence on open-weight AI models. On April 4, 2026, the company published two fully open models — `gpt-oss-20b` and `gpt-oss-120b` — under the Apache 2.0 license, one of the most permissive in software. The release marks a dramatic philosophical reversal for the organization that literally coined the term "open AI" before slowly retreating behind closed APIs and a for-profit restructuring.
+The release marks a dramatic philosophical reversal for the organization that literally coined the term "open AI" before slowly retreating behind closed APIs and a for-profit restructuring.
 
 ## The Models, By the Numbers
 
@@ -33,7 +34,7 @@ Seven years after releasing GPT-2 in 2019, OpenAI has broken its silence on open
 
 Both models are text-only in this initial release, with no multimodal capabilities. OpenAI positioned them as purpose-built for **agentic workflows**: tool use (web search, Python code execution), long multi-turn reasoning chains, and instruction following. They are natively compatible with OpenAI's Responses API — meaning developers can switch between the open-weight models and proprietary GPT-4o/o3 endpoints with minimal code changes.
 
-The release landed simultaneously on Hugging Face and with deployment support baked in from AWS, Azure, Together AI, Vercel, Cloudflare, and Databricks. Ollama compatibility means any developer with a modern laptop can run `gpt-oss-20b` locally without a cloud dependency.
+The release landed simultaneously on Hugging Face and with deployment support baked in from AWS, Azure, Together AI, Vercel, Cloudflare, and Databricks. Ollama is among the supported inference implementations, and the 20B model runs within 16GB of memory, making it suitable for consumer hardware.
 
 ## Apache 2.0: The Boldest Licensing Move in AI This Year
 
@@ -57,7 +58,7 @@ OpenAI released evaluation results showing `gpt-oss-120b` outperforming Llama 3.
 
 That said, the models land below the company's own frontier products. `gpt-oss-120b` is not a match for GPT-4o, let alone o3. OpenAI was explicit about this positioning: these are not distillations of their state-of-the-art systems, but purpose-built open models intended to be genuinely useful and deployable at reasonable cost.
 
-At 3.6B active parameters per token, `gpt-oss-20b` runs efficiently on a single A100 GPU, and early testers report it handles tool-calling and structured output tasks with notably better reliability than prior open models in its compute class.
+With 3.6B active parameters per token, `gpt-oss-20b` runs within 16GB of memory, making it suitable for consumer hardware and on-device applications.
 
 ## The Llama Question
 
@@ -70,3 +71,5 @@ The competitive dynamics are moving fast. Both labs have significant reasons to 
 OpenAI indicated that multimodal versions — supporting images and audio — are on the roadmap but gave no timeline. The company also hinted at a structured fine-tuning program that would let enterprises submit domain-specific data to receive customized variants, with the resulting models remaining under Apache 2.0 for the fine-tuned weights.
 
 For now, the release validates a view that has been gaining traction across the industry: the frontier of AI capability is gradually separating from the frontier of AI openness, and smart labs can compete on both axes simultaneously without one cannibalizing the other. Whether OpenAI can sustain this commitment — or whether competitive pressure will eventually push it back toward closed weights — is the question worth watching over the next 12 months.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

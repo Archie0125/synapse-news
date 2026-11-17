@@ -1,8 +1,9 @@
 ---
 title: "AI Chip Stocks Shed $1.3 Trillion in Worst Semiconductor Selloff of 2026"
-summary: "A two-day selloff starting June 26 wiped over $1.3 trillion from semiconductor stocks globally, with the Philadelphia Semiconductor Index falling nearly 8% and NVIDIA dropping to 26% below its May high. GPU rental prices have already fallen 31% in three weeks, raising questions about whether AI infrastructure demand has peaked — or whether this is simply an overdue valuation correction."
+summary: "Semiconductor stocks shed more than $1.3 trillion in market value in a June selloff, with the Philadelphia Semiconductor Index falling 7.9% in a single day on June 5-6. The rental price of NVIDIA's B200 GPU fell about 31% in three weeks, from $6.11 an hour on May 30 to $4.22 by June 21."
 category: "industry"
 publishedAt: 2026-06-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,17 +29,17 @@ relatedSlugs:
   - "2026-06-04-big-tech-725b-ai-capex-race-en"
 ---
 
-The most significant correction in the AI investment cycle arrived without warning on June 26, 2026. Over two brutal trading sessions, semiconductor stocks shed more than **$1.3 trillion in market capitalization** globally — the largest two-day wipeout in the sector's history. The Nasdaq Composite fell more than 4% in a single session. The Philadelphia Semiconductor Index, the benchmark for chip stocks, dropped **7.9%**. Chip stocks as a group lost **8.1%** in a single day.
+The most significant correction of 2026 in the AI investment cycle arrived in June. The Nasdaq Composite fell more than 4% in a single session. The Philadelphia Semiconductor Index, the benchmark for chip stocks, dropped **7.9%**. Chip stocks as a group lost **8.1%** in a single day.
 
 For a sector that had spent the first five months of the year pricing in a future in which AI demand grows without limit, the numbers were a reckoning.
 
 ## The Damage, Company by Company
 
-NVIDIA, the defining stock of the AI infrastructure era, traded around **$200 per share** during the worst of the selling — placing it approximately **26% below its 52-week high** of $236.26, reached in mid-May. The stock has now declined roughly **18% year-to-date** in 2026, an unusual sustained underperformance for a company whose revenue is still growing at double-digit annual rates.
+NVIDIA, the defining stock of the AI infrastructure era, traded around **$200 per share** during the worst of the selling — placing it approximately **26% below its 52-week high** of $236.26, reached in mid-May. The stock closed at $192.53 on June 26, about **18% below** its May 14 record close of $235.47, a notable stretch of underperformance for a company whose revenue grew 85% year over year in its latest quarter.
 
 AMD fell **6%** on the worst day before recovering most of those losses within subsequent sessions. Micron, which had been scheduled to report earnings on June 24, dropped more than **8%** in pre-earnings trading — a particularly painful setup for a company that had guided strongly and was widely expected to report record quarterly revenue.
 
-The damage extended well beyond US borders. **Samsung Electronics and SK Hynix** — the South Korean HBM duopoly whose memory chips power every major AI accelerator — each fell more than **12%** in Seoul, dragging South Korea's Kospi index down **10%** over the two-day period. Japan's Nikkei fell **3.55%**. European chipmakers, including ASML and Infineon, lost between **5% and 8%**.
+The damage extended well beyond US borders. **Samsung Electronics and SK Hynix** each fell more than **12%** in Seoul in the early June rout, as South Korea's Kospi index plunged **10%** and triggered a 20-minute circuit breaker halt. Japan's Nikkei fell **3.55%**. European chipmakers, including ASML and Infineon, lost between **5% and 8%**.
 
 The global nature of the selloff was notable. Previous AI stock corrections had tended to be US-centric. This one propagated across every geography where semiconductor manufacturing or AI infrastructure investment is a meaningful part of the economy.
 
@@ -46,7 +47,7 @@ The global nature of the selloff was notable. Previous AI stock corrections had 
 
 Market participants and sell-side analysts have offered several explanations, and the evidence suggests all of them are at least partially correct.
 
-**The jobs report surprise** was the proximate trigger. May employment data released on June 26 showed **172,000 new jobs** added — more than double the consensus forecast of 85,000. On a normal day, a strong jobs number is bullish news. In the current macroeconomic environment, where the Federal Reserve has been carefully telegraphing a gradual rate reduction path, a significantly above-consensus employment print shifts rate expectations in a hawkish direction. Higher-for-longer rates are particularly damaging to high-multiple technology stocks, and AI infrastructure names have been trading at valuation multiples that leave no room for error.
+**The jobs report surprise** was the proximate trigger. The May employment report showed **172,000 new jobs** added — roughly double the forecast of 85,000. On a normal day, a strong jobs number is bullish news. In the current macroeconomic environment, where the Federal Reserve has been carefully telegraphing a gradual rate reduction path, a significantly above-consensus employment print shifts rate expectations in a hawkish direction. Higher-for-longer rates are particularly damaging to high-multiple technology stocks, and AI infrastructure names have been trading at valuation multiples that leave no room for error.
 
 **Stretched valuations after nine consecutive weeks of S&P 500 gains** provided the fuel for the correction. Before the selloff, multiple chip stocks were trading at forward price-to-earnings ratios that implied growth assumptions that even the most optimistic bull cases struggled to justify. Professional traders and institutional holders with paper gains had multiple weeks of momentum reversals in the back of their minds; the jobs report provided the excuse to book those gains.
 
@@ -72,9 +73,9 @@ Beyond the immediate market damage, the selloff has several practical consequenc
 
 **Secondary chip stocks suffered disproportionately.** Stocks like Arm, Marvell, and Sandisk, which had benefited from the general AI-infrastructure enthusiasm, fell harder than the market leaders — Arm lost nearly 4%, Sandisk dropped 10%. These companies have less pricing power and weaker earnings visibility than NVIDIA and AMD, making them more vulnerable when sentiment turns.
 
-**South Korea's economic exposure is now visible.** The Korean Kospi's 10% two-day drop is a reminder of how concentrated that economy's equity market has become in AI semiconductor exposure. Samsung Electronics and SK Hynix together account for a significant fraction of the Kospi's total market capitalization. When AI chip sentiment turns, South Korea's entire stock market moves with it — a vulnerability that the June 28 announcement of Samsung's $648 billion domestic investment commitment is partly designed to hedge against over the long term.
+Samsung Electronics and SK Hynix together account for a significant fraction of the Kospi's total market capitalization. When AI chip sentiment turns, South Korea's entire stock market moves with it — a vulnerability that the June 28 announcement of Samsung's $648 billion domestic investment commitment is partly designed to hedge against over the long term.
 
-**NVIDIA's cheapness is relative, not absolute.** At $200, NVIDIA is trading at roughly 25-30x forward earnings — down from the 35-40x range it commanded at its May peak, but still substantially above the long-run average for semiconductor companies. The question analysts are now asking is whether that multiple is justified by the growth trajectory, or whether the spot GPU price data suggests the growth rate is about to decelerate.
+The question analysts are now asking is whether that multiple is justified by the growth trajectory, or whether the spot GPU price data suggests the growth rate is about to decelerate.
 
 ## What Comes Next
 
@@ -85,3 +86,5 @@ The next phase will be an earnings phase. The companies that can demonstrate —
 For NVIDIA, the June selloff may ultimately prove to be a healthy reset. Or it may prove to be the first movement of a longer correction. Which answer is correct depends almost entirely on whether the B200 spot rental price is a temporary dip or the beginning of a structural repricing of AI compute.
 
 That question will be answered over the next two to three quarters — and the entire semiconductor market will be watching.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

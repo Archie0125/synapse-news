@@ -1,8 +1,9 @@
 ---
-title: "Qualcomm's Surprise Data Center Bet: Custom Chip for Mystery Hyperscaler Sends Stock Up 15%"
-summary: "Qualcomm's Q2 FY2026 earnings revealed an unexpected pivot: the company has secured a custom silicon deal with a major unnamed hyperscaler, with first shipments expected in December 2026. The disclosure, paired with record automotive revenue and a $20 billion buyback authorization, sent shares surging 15% despite overall revenue declining year-over-year — and positions Qualcomm as a new challenger in the custom chip market long dominated by Broadcom and Marvell."
+title: "Qualcomm's Data Center Bet: Custom Chip Engagement With a Mystery Hyperscaler"
+summary: "Qualcomm's Q2 FY2026 earnings highlighted a custom silicon engagement with a leading unnamed hyperscaler, with initial shipments expected in the December quarter. The disclosure, paired with record automotive revenue and a $20 billion buyback authorization, came as the company reported revenue of $10.6 billion."
 category: "hardware"
 publishedAt: 2026-05-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,11 +29,11 @@ relatedSlugs:
   - "2026-05-01-openai-ai-smartphone-qualcomm-mediatek-en"
 ---
 
-Wall Street had written Qualcomm a fairly predictable script heading into its second fiscal quarter of 2026. The smartphone market was cooling, tariff uncertainty was weighing on near-term guidance, and analysts were looking to see whether automotive — Qualcomm's fastest-growing segment — could provide enough of a cushion to offset weakness elsewhere. What they got instead was a bombshell buried in the earnings presentation: Qualcomm is entering the custom data center chip market, and it already has a major hyperscaler customer lined up.
+Wall Street had written Qualcomm a fairly predictable script heading into its second fiscal quarter of 2026. The smartphone market was cooling, tariff uncertainty was weighing on near-term guidance, and analysts were looking to see whether automotive — Qualcomm's fastest-growing segment — could provide enough of a cushion to offset weakness elsewhere. What they got instead was a major data center update: Qualcomm said it has a custom silicon engagement with a leading hyperscaler on track for initial shipments later this year.
 
 ## The Numbers, Then the Surprise
 
-Qualcomm reported Q2 FY2026 revenue of $10.60 billion, slightly beating the consensus estimate of $10.56 billion but down 2.2% year-over-year. On the surface, this is a modest earnings beat with a familiar headline — handset revenue declined 13% year-over-year as smartphone manufacturers worked through elevated inventory, while IoT revenue grew a respectable 9% to $1.73 billion.
+Qualcomm reported Q2 FY2026 revenue of $10.60 billion, slightly beating the consensus estimate of $10.56 billion but down 2.2% year-over-year. On the surface, this is a familiar headline: revenue of $10.6 billion met expectations, handset revenue declined 13% year-over-year amid demand pressure and memory-related constraints, while IoT revenue grew 9% to $1.73 billion.
 
 Then came the data center disclosure. In prepared remarks, CEO Cristiano Amon confirmed that Qualcomm has "a leading hyperscaler custom silicon engagement on track for initial shipments" in the December quarter of calendar 2026. The company further described the engagement as "multi-generational" — meaning this is not a one-off contract but an intended long-term relationship where Qualcomm would design successive chip generations for this unnamed customer.
 
@@ -44,7 +45,7 @@ Qualcomm has been public about its data center chip ambitions for several quarte
 
 The CPU work draws on Qualcomm's Nuvia architecture, acquired in 2021, which has already demonstrated competitive performance in Snapdragon X Elite laptop chips. The inference accelerators build on years of on-device AI optimization work done for smartphones — Qualcomm has been running efficient AI inference on mobile NPUs since the mid-2010s, and the engineering discipline translates to the data center context with some modifications.
 
-The custom ASIC capability — the piece most directly relevant to the hyperscaler deal — was substantially strengthened by Qualcomm's 2024 acquisition of Alphawave IP Group, a semiconductor IP firm specializing in high-speed connectivity and custom chip design. Custom ASICs for hyperscalers are typically designed around that customer's specific workloads, memory architectures, and interconnect preferences, and they require deep expertise in co-designing silicon and software simultaneously. Alphawave added both the technical capability and the talent to do this at scale.
+Qualcomm said it now has substantial intellectual property to support its data center chip efforts following its acquisition of Alphawave IP Group last year. Custom ASICs for hyperscalers are typically designed around that customer's specific workloads, memory architectures, and interconnect preferences, and they require deep expertise in co-designing silicon and software simultaneously. Alphawave added both the technical capability and the talent to do this at scale.
 
 ## The Market Qualcomm Is Entering
 
@@ -73,3 +74,5 @@ But the direction of travel is clear. As AI workloads mature and hyperscalers de
 For the current quarter (Q3 FY2026), Qualcomm guided QCT revenue of $7.9 billion to $8.5 billion and QTL revenue of $1.2 billion to $1.4 billion. The guidance range is notably wide, reflecting ongoing uncertainty around smartphone demand and tariff impacts on consumer electronics. But none of the near-term caution changed the market's reaction to the longer-term data center narrative.
 
 For a company that has spent several years trying to convince investors it can grow beyond smartphone chips, finally having a named (if unnamed) hyperscaler customer with a confirmed delivery timeline is the proof point that changes the story.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

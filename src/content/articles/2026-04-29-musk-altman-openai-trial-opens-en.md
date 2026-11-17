@@ -1,8 +1,9 @@
 ---
-title: "Inside the OpenAI Trial: Musk Takes the Stand as $134 Billion Reckoning Begins"
-summary: "The landmark civil trial between Elon Musk and OpenAI CEO Sam Altman opened April 28 in Oakland with Musk testifying he co-founded OpenAI specifically to create a nonprofit counterweight to Google. Musk is seeking $134 billion in alleged wrongful gains and Altman's removal; OpenAI argues Musk simply lost a power struggle and founded rival xAI out of spite."
+title: "Inside the OpenAI Trial: Musk Takes the Stand as the Case Against Altman Begins"
+summary: "The landmark civil trial between Elon Musk and OpenAI CEO Sam Altman is under way in Oakland, with Musk testifying he started OpenAI as a counterweight to Google. Musk previously sought up to $134 billion in damages but now asks that \"all ill-gotten gains\" go to the OpenAI charity; OpenAI's lawyers argue Musk lost a power struggle and is nursing \"sour grapes.\""
 category: "policy"
 publishedAt: 2026-04-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -42,7 +43,7 @@ Steve Molo, lead attorney for Musk, opened the trial with a blunt frame: "Ladies
 
 The claim encapsulates Musk's entire legal theory. When he co-founded OpenAI in 2015 alongside Sam Altman, Greg Brockman, Ilya Sutskever, and others, Musk argues, all parties agreed to a specific structure: a nonprofit organization, open-sourced to the public, designed to develop AI for the benefit of humanity rather than for private profit. The founding charter, introduced as evidence by Musk's attorneys, declares that OpenAI "is not organized for the private gain of any person" and would seek to create "open source technology for the public benefit."
 
-What followed, Musk contends, was a decade-long betrayal of that charter. OpenAI evolved from a scrappy nonprofit into a hybrid entity with a capped-profit arm, then into what he characterizes as a de facto for-profit company now valued above $300 billion and plotting an IPO that could make its executives extraordinarily wealthy. Musk is seeking up to $134 billion in alleged wrongful gains, the ouster of CEO Altman and President Greg Brockman, and a court order compelling OpenAI to return to its nonprofit mission.
+What followed, Musk contends, was a decade-long betrayal of that charter. Musk alleges OpenAI went back on its promise to remain a nonprofit after it established a for-profit subsidiary; Fortune reports that ChatGPT's 2022 launch turned the company into a roughly $730 billion business. Musk previously sought up to $134 billion in damages personally, but is now asking for "all ill-gotten gains" to go to the OpenAI charity.
 
 ## The Google Origin Story
 
@@ -83,3 +84,5 @@ The trial is expected to run several weeks. Other witnesses expected to testify 
 Regardless of outcome, the Musk v. Altman trial is functioning as an involuntary deposition of the entire AI frontier era. Internal emails, board communications, and founding documents are entering the public record that would otherwise remain confidential. The competing accounts of OpenAI's history — who founded it, on what terms, and who betrayed whom — are being litigated in a proceeding that anyone can attend.
 
 For an industry that has operated with extraordinary opacity about its governance, financing, and internal deliberations, the Oakland courthouse is providing an unusually detailed look at how the world's most powerful AI laboratory actually came to be — and who believes they were wronged in its making.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

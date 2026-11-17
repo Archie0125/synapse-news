@@ -3,6 +3,7 @@ title: "How Sora Died: OpenAI's $15M-a-Day Video Failure and the $1B Disney Deal
 summary: "OpenAI's Sora video generation app was discontinued in April 2026 after burning $15 million per day in compute costs while retaining fewer than 8% of users after 30 days. The shutdown triggered the collapse of Disney's planned $1 billion equity stake in OpenAI, exposing the brutal economics of consumer AI video at scale and signaling a hard pivot toward enterprise."
 category: "products"
 publishedAt: 2026-06-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -32,9 +33,7 @@ relatedSlugs:
 
 When Sora launched in December 2024, the internet lost its collective mind. OpenAI's text-to-video model could conjure hyperrealistic footage — crashing ocean waves, bustling Tokyo street scenes, photorealistic humans walking and talking — from a handful of typed words. Industry analysts called it transformative. Hollywood studios braced for disruption. And Disney, one of the most valuable creative IP empires on Earth, quietly began negotiations for a $1 billion equity stake in OpenAI, predicated on the promise of exclusive access to tools like Sora for its film and television pipelines.
 
-Seventeen months later, Sora is dead — and Disney's billion dollars never arrived.
-
-On March 27, 2026, OpenAI announced it would shut down the consumer Sora app effective April 26, with the developer API to follow on September 24. The decision arrived via a single support page update. There was no public blog post. No CEO statement. No roadmap for what would replace it. It was one of the quietest — and most consequential — product retreats in Silicon Valley history.
+In March 2026, OpenAI announced it would shut down the Sora app, saying it would share timelines for the app and API at a later date. The decision arrived via a single support page update. There was no public blog post. No CEO statement. No roadmap for what would replace it. It was one of the quietest — and most consequential — product retreats in Silicon Valley history.
 
 ## The Math Was Never There
 
@@ -50,7 +49,7 @@ The collateral damage extended far beyond OpenAI's income statement. In December
 
 When OpenAI informed Disney of the Sora shutdown — reportedly less than one hour before the public announcement — the reaction inside the company was explosive. Disney's leadership team, which had been building internal workflows around Sora for months, learned about the product's death from a routine notification rather than a phone call. The breach of professional courtesy between partners negotiating a billion-dollar deal was described by people familiar with the situation as "extraordinary" and "inexcusable."
 
-Disney moved immediately to halt finalization of the investment. The deal had been publicly announced but never fully closed — no money had actually changed hands — leaving the company's legal team with sufficient grounds to walk away. By April 2026, the partnership was formally terminated.
+Disney moved immediately to halt finalization of the investment. The deal had been publicly announced but never fully closed — no money had actually changed hands — leaving the company's legal team with sufficient grounds to walk away. Disney subsequently ended its partnership with OpenAI.
 
 "This wasn't just about Sora," a Disney executive familiar with the negotiations told Deadline. "It was about whether OpenAI is a company that's ready to be a long-term strategic partner. What happened made it clear they're not there yet."
 
@@ -77,3 +76,5 @@ For OpenAI, the harder question hanging over Sora's failure is about its consume
 The honest answer, based on OpenAI's behavior in early 2026, is that the company's leadership is not particularly interested in making the consumer case. Sam Altman has spoken consistently about OpenAI's mission as the development of safe AGI — not building apps that people use every day. That clarity of purpose is arguably admirable. But it also means that the $15 million per day Sora consumed, the $1 billion in Disney equity that evaporated alongside it, and the reputational cost of a very public product failure represent some of the most expensive lessons in product-market fit the technology industry has ever paid.
 
 The question OpenAI's IPO investors will ultimately have to answer for themselves is whether those lessons were tuition — or a preview.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

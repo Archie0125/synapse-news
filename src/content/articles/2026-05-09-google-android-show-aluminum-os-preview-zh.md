@@ -1,8 +1,9 @@
 ---
-title: "Google 2026 年發布一分為二：5 月 12 日獨立 Android Show 搶先揭露 Android 17 與 Aluminum OS"
-summary: "Google 在 Google I/O 2026（5 月 19 日）開幕前一週，單獨舉辦「Android Show: I/O Edition」活動，專門預告 Android 17、Wear OS 7，以及傳詞已久的統一平台 Aluminum OS——一個將 Android 與 ChromeOS 合而為一的全新桜面作業系統。這個分場安排，顯示 Google 的 Android 策略已重要到不愿與雲端和 AI 開發者公告共享同一場主題演講。"
+title: "Google 2026 年發布一分為二：5 月 12 日獨立 Android Show，I/O 前一週登場"
+summary: "Google 在 Google I/O 2026 開幕前一週的 5 月 12 日，單獨舉辦「The Android Show | I/O Edition」。Google 表示預期今年會是 Android 迄今最重要的一年之一，面向消費者的公告預計在該場活動發布，開發者更新則留待 I/O。"
 category: "products"
 publishedAt: 2026-05-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-04-22-google-chrome-gemini-apac-skills-zh"
 ---
 
-Google 以一個不寻常的結構選擇迎接 2026 年開發者季：將最重要的消費者公告從 Google I/O 完全分離出去。 5 月 12 日——也就是 I/O 開幕（5 月 19 日）整整一週前——公司將舉辦「Android Show: I/O Edition」，一場專屬的串流直播活動，聚焦 Android 17、Wear OS 7，以及 Google 悉悉打造多年、最具份量的平台計畫：Aluminum OS。
+Google 以一個不寻常的結構選擇迎接 2026 年開發者季：將最重要的消費者公告從 Google I/O 完全分離出去。 5 月 12 日——也就是 I/O 開幕（5 月 19 日）一週前——公司將舉辦「The Android Show | I/O Edition」，這是一場太平洋時間上午 10 點的串流直播活動，預計發布面向消費者的 Android 公告。
 
-選擇給 Android 一個獨立舞台，反映出 Google 內部的一個判斷：Android 平台已經重要到、消費者導向到，不應再與雲端、Gemini 和基礎架構公告擠在同一場開發者主題演講中爭諪注意力。這也讓 Android 17 和 Aluminum OS 有完整一週的時間獨佔版面，再由 I/O 更廣泛的 AI 與開發者內容接棒登場。
+Google 表示預期今年會是 Android 迄今最重要的一年之一。面向消費者的公告預計在 Android Show 登場，開發者更新則留待 I/O。
 
 ## Android 17：更快、更聰明、更 Gemini
 
@@ -47,17 +48,17 @@ Wear OS 7 方面，預期公告聚焦在健康追蹤功能改進，以及與 And
 
 ## Aluminum OS：Android 進軍桜面
 
-5 月 12 日更大的主角是 Aluminum OS——而且是真正意義上的大事。
+Aluminium 是 Google 以 Android 為基礎的作業系統專案代號，同樣值得關注，不過目前沒有消息來源指出它會在 5 月 12 日亮相。
 
 多年來，Google 一直維持著兩個並行的運算平台：行動端的 Android，以及筆電和桜面的 ChromeOS。ChromeOS 在教育和低預算企業市場找到了穩固的利基，但從未真正突破成為消費者市場的主力平台。Android 雖是全球使用人數最多的行動作業系統，卻只以尷尬的姿態試水大螢幕運算。兩個平台以一種「受管控的張力」共存，各自的團隊為不同螢幕重複開發相似的應用。
 
-Aluminum OS 終結了這個局面。這個作為 ChromeOS 下一代而內部開發的平台，以 Android 程式碼庫為基礎，從第一天起就原生文摞完整的桜面能力。它能完整執行 Play Store 上超過 300 萬款應用程式，配備適當的鍵盤、滑鼠和視窗管理——不是把手機應用硬塞進桜面外殼的妃協體驗，而是應用程式本身能感知所處環境並做出相應行為。
+Aluminium 的目標是未來逐步改變這種局面。Google 的一則職缺描述 Aluminium 是一款以 AI 為核心打造、以 Android 為基礎的新作業系統。
 
-Aluminum 這個名字在 Google 過去一年發布的職缺清單中得到確認，描述了一個從「AL Entry」（預算教育裝置，也就是現有 ChromeOS 的強項）到「AL Mass Premium」和「AL Premium」（設計用來直接與 Windows 機器和 MacBook 競爭的高階筆電與桜面機）的完整硬體產品線。
+這個名稱出現在 Google 的一則職缺中，其中提到名為「AL Entry」、「AL Mass Premium」和「AL Premium」的裝置等級。
 
 Gemini 嵌入作業系統核心，透過本地 NPU 處理一系列系統層級的任動。這種「本地優先」的 AI 處理對於在受監管市場中的隱私合規，以及在離線或低連線環境下的效能都至關重要——也是早期 Android 版本依賴雲端 AI 整合所沒有的關鍵差畏點。
 
-根據內部文件確認的過渡計畫，ChomeOS 和 Aluminum OS 將在過渡期間共存，企業客戶預計按分階時間表遷移。Aluminum OS 的完整公開發布可能要到 2027 或 2028 年，但 5 月 12 日預期將帶來對這個計畫的首次正式公開確認，以及開發者預覽邀請。
+根據該職缺內容，將有一段過渡期，ChromeOS 與 Aluminium 預計在過渡期間共存，職缺中也提到一項讓 Google 從 ChromeOS 轉移到 Aluminium 並確保業務連續性的策略。目前沒有具體時程，但有報導指出可能在 2026 年前後推出。
 
 ## 為什麼這個活動結構很重要
 
@@ -65,6 +66,8 @@ Google 在 2026 年建立專屬 Android 活動的決定，延續了公司過去�
 
 分場同時服務另一個目的：它給了 Google 一個媒體曝光時刻，在那個時刻，比較的參照對象是 Apple 和 Microsoft，而非 Google 自己的雲端和開發者工具。在 I/O 前一週，帶著 Android 17 和 Aluminum OS 還新鮮的新語周期，公司可以直接與競爭對手划出對比線——將 Aluminum OS 對標 macOS 和 Windows，將 Android 17 對標 iOS 27（Apple 預計在 6 月 2 日 WWDC 上預覽）。
 
-Android Show 將於 5 月 12 日台灣時間凌晨 1 點（太平洋時間上午 10 點）在 YouTube 直播。Google I/O 選於 5 月 19 日同時段登場。在這兩場活動之間，Google 將完成近年來最具份量的平台公告。
+Android Show 將於 5 月 12 日台灣時間凌晨 1 點（太平洋時間上午 10 點）在 YouTube 直播。Google I/O 接著在 5 月 19 日和 20 日舉行，5 月 19 日的開幕主題演講於美東時間下午 1 點（太平洋時間上午 10 點）開始。在這兩場活動之間，Google 將完成近年來最具份量的平台公告。
 
-對於開發者，眼下的優先事項是 Android 17 SDK 和 Aluminum OS 開發者預覽版——兩者預計在 5 月 19 日前開放。作業系統層級的 Gemini 深度 AI 整合尤其展平堂，它開啟了過去 Android 版本無法實現的全新應用類別，跨應用上下文功能也可能偵對一波针對「持久 AI 模型」最佳化的全新應用設計思路。
+作業系統層級的 Gemini 深度 AI 整合尤其展平堂，它開啟了過去 Android 版本無法實現的全新應用類別，跨應用上下文功能也可能偵對一波针對「持久 AI 模型」最佳化的全新應用設計思路。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 15 處。*

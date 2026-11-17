@@ -1,8 +1,9 @@
 ---
-title: "Samsung Pledges $648 Billion to Transform South Korea Into an AI Superpower"
-summary: "Samsung Group announced a 1,000 trillion won ($648 billion) decade-long investment in South Korea on June 28, covering AI data centers, semiconductor factories, next-gen batteries, and advanced substrates across five regions. It is the largest corporate investment commitment in Korean history and positions Samsung at the center of the global AI infrastructure race."
+title: "Samsung Reportedly Plans Up to $648 Billion Investment Across South Korea"
+summary: "Samsung Group is expected to announce a domestic investment plan of up to 1,000 trillion won ($648 billion) over a decade, reportedly covering semiconductors, AI data centers, batteries and displays across several regions. Reports say it would be unprecedented for a single corporate group in Korea."
 category: "hardware"
 publishedAt: 2026-06-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -26,21 +27,21 @@ relatedSlugs:
   - "2026-06-04-big-tech-725b-ai-capex-race-en"
 ---
 
-On June 28, 2026, Samsung Group chairman Lee Jae-yong stood before South Korean President Lee Jae-myung at a government briefing in Seoul and announced the single largest corporate investment commitment in the country's history: **1,000 trillion won**, roughly $648 billion, to be deployed across South Korea over the next decade.
+Samsung Group chairman Lee Jae-yong is expected to attend a national briefing presided over by South Korean President Lee Jae-myung, where Samsung is reported to be preparing to announce an investment plan that some forecast could reach **1,000 trillion won**, roughly $648 billion, over the next decade.
 
-The number is almost too large to contextualize. It is greater than the combined GDP of about 140 countries. It dwarfs the total US semiconductor CHIPS Act funding by nearly a factor of ten. And it will be directed almost entirely at the infrastructure and component layers that the global AI industry cannot exist without — chip factories, AI data centers, next-generation batteries, and the specialized substrates that sit between silicon and system.
+The number is almost too large to contextualize. It is greater than the combined GDP of about 140 countries. It dwarfs the total US semiconductor CHIPS Act funding by nearly a factor of ten. It is reported to cover semiconductors, AI data centers, batteries and displays, along with other affiliates' production expansions.
 
 ## The Plan, Broken Down
 
-Samsung's 1,000 trillion won commitment is not a single allocation but a coordinated pledge across multiple Samsung Group entities, each targeting a different layer of the technology stack.
+Samsung's reported 1,000 trillion won figure is a forecast total that adds up the plans of multiple Samsung Group entities, each targeting a different area.
 
-**Samsung Electronics** is the largest contributor, with its semiconductor division committing to a nationwide expansion of chip production facilities. Approximately **60 trillion won** will flow to the company's established Yongin complex, already one of the largest semiconductor manufacturing hubs in the world. But the expansion is explicitly structured to distribute economic activity beyond the capital region. New facilities will be built in Chungcheong, Yeongnam, and Incheon — a geographic spread that reflects both President Lee Jae-myung's regional development priorities and the practical need for redundant manufacturing capacity in an era of geopolitical supply chain risk.
+**Samsung Electronics** is the largest contributor, with its semiconductor division committing to a nationwide expansion of chip production facilities. Approximately **60 trillion won** will flow to the company's established Yongin complex, already one of the largest semiconductor manufacturing hubs in the world. But the expansion is explicitly structured to distribute economic activity beyond the capital region. Samsung is reported to be planning investments in the Honam, Chungcheong, Yeongnam and Incheon regions, a geographic spread that fits President Lee Jae-myung's regional development vision.
 
-**Samsung Display** has pledged **100 trillion won** over the decade. This commitment arrives as display technology becomes increasingly entangled with AI hardware — from the high-refresh-rate panels in AI-accelerated edge devices to the specialized screens used in AI workstations and server room monitoring infrastructure.
+**Samsung Display** is reported to be planning large-scale investments worth 50 trillion to 100 trillion won over the next 10 years. This commitment arrives as display technology becomes increasingly entangled with AI hardware — from the high-refresh-rate panels in AI-accelerated edge devices to the specialized screens used in AI workstations and server room monitoring infrastructure.
 
-**Samsung SDI**, the group's battery arm, is expanding its Cheonan manufacturing plant for next-generation battery production. The investment addresses a growing constraint in the AI hardware ecosystem: the energy storage systems that power both edge AI devices and the uninterruptible power supplies that data centers require.
+**Samsung SDI**, the group's battery arm, is expected to expand small battery and automotive battery production capacity at its Cheonan site. The investment addresses a growing constraint in the AI hardware ecosystem: the energy storage systems that power both edge AI devices and the uninterruptible power supplies that data centers require.
 
-**Samsung Electro-Mechanics** will boost production of high-value substrates at its Sejong facility. This is a less-discussed but strategically critical investment. Advanced package substrates — the interconnect layers that physically link chips to circuit boards — have become a major bottleneck in AI accelerator production. NVIDIA's B200 GPUs, which power the current generation of large-scale training clusters, require substrate technology that only a handful of manufacturers worldwide can produce at scale. Samsung's Sejong expansion directly targets that constraint.
+**Samsung Electro-Mechanics** is reported to be planning a new AI substrate production plant at its Sejong site. This is a less-discussed but strategically critical investment. Advanced package substrates — the interconnect layers that physically link chips to circuit boards — have become a major bottleneck in AI accelerator production. NVIDIA's B200 GPUs, which power the current generation of large-scale training clusters, require substrate technology that only a handful of manufacturers worldwide can produce at scale. Samsung's Sejong expansion directly targets that constraint.
 
 ## More Than 350 Trillion Won for AI Infrastructure
 
@@ -74,10 +75,12 @@ In exchange, Samsung gains something valuable: streamlined permitting, preferred
 
 ## What It Means for the Global AI Race
 
-Samsung's 1,000 trillion won plan is the largest national-level AI infrastructure commitment by a single private company announced to date, and it arrives at a moment when the AI investment landscape is already historically unprecedented.
+Reports say Samsung's plan would be an unprecedented nationwide investment for a single corporate group among domestic companies, and it arrives as AI investment is surging.
 
 The world's hyperscalers collectively plan to spend over $700 billion on AI infrastructure in 2026 alone. The US CHIPS Act, the EU's Chips Act, Japan's semiconductor subsidies, and China's $295 billion AI infrastructure build-out are all accelerating in parallel. Samsung's Korean commitment adds another national-scale pillar to what is becoming a genuinely global mobilization of capital around AI infrastructure.
 
 Whether the investment generates the economic returns Samsung is projecting depends on factors that no one can model accurately: the trajectory of AI capability development, the evolution of hardware architectures, and whether the geopolitical environment stabilizes enough to allow cross-border technology supply chains to function efficiently.
 
 What is certain is that South Korea is betting its industrial future on the AI hardware stack — and that Samsung is the mechanism through which that bet is being made.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

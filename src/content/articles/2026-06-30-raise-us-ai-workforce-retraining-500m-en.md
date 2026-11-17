@@ -1,8 +1,9 @@
 ---
 title: "Amazon, Anthropic, Microsoft and OpenAI Back $500M RAISE US Coalition to Retrain Workers Displaced by AI"
-summary: "With AI responsible for 88,000 U.S. job cuts in 2026 alone—more than all prior years combined—a nonpartisan nonprofit called RAISE US has launched with over $500 million in commitments from the country's biggest tech companies and a mandate to retrain workers for an AI-transformed economy. Former Commerce Secretary Gina Raimondo will serve as CEO."
+summary: "With AI cited for 87,714 announced U.S. job cuts through May 2026, a nonpartisan nonprofit called RAISE US has launched with more than $500 million secured and a mandate to retrain workers for an AI-transformed economy. Former Commerce Secretary Gina Raimondo will serve as CEO."
 category: "policy"
 publishedAt: 2026-06-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-06-29-us-export-control-claude-fable5-foreign-ban-en"
 ---
 
-The numbers land with a kind of blunt inevitability. In 2026, artificial intelligence has been cited as the cause of **87,714 U.S. job cuts**—more than in every prior year of AI-driven displacement combined. The IMF has issued fresh warnings about an entry-level job shock that will hit recent graduates and career-changers disproportionately hard. And in the background, a survey commissioned by Anthropic found that 35% of American workers now expect AI to handle the majority of their current tasks within twelve months.
+The numbers land with a kind of blunt inevitability. In 2026, artificial intelligence has been cited as the reason for **87,714 announced U.S. job cuts** through May, already surpassing the 54,836 attributed to AI for all of 2025. The IMF has issued fresh warnings about an entry-level job shock that will hit recent graduates and career-changers disproportionately hard. And in the background, Anthropic's Economic Index survey of about 9,700 active Claude users found that just over 35% of respondents expect AI to handle most or nearly all of their job tasks within twelve months.
 
-Into this landscape, on June 25, a group of the very companies building those AI systems announced they would fund a coordinated national response. **RAISE US**—Rebuilding America's Infrastructure, Skills, and Economy—launched with more than $500 million in committed funding and a stated goal of reaching $1 billion. The founding funders include Amazon, Anthropic, Microsoft, the OpenAI Foundation, Bank of America, and IBM.
+Into this landscape, on June 25, a group of the very companies building those AI systems announced they would fund a coordinated national response. **RAISE US**—Rebuilding America's Infrastructure, Skills, and Economy—launched with more than $500 million in committed funding and a stated goal of reaching $1 billion. The anchor partners include Amazon, Anthropic, Microsoft, the OpenAI Foundation and Bank of America, and other employers involved include IBM.
 
 ## Leadership Designed for Credibility
 
@@ -40,7 +41,7 @@ The choice of Gina Raimondo as CEO is deliberate and calculated. As the 40th U.S
 
 Co-founding the organization alongside her is Eric Holcomb, the former Republican Governor of Indiana, whose inclusion signals the bipartisan political positioning RAISE US is explicitly seeking. "The workforce transformation we're facing is not a partisan problem," Raimondo said at the launch. "It's an American problem, and it requires American institutions—business, government, labor, and education—working together."
 
-The advisory board reinforces that positioning. Former Republican House Speaker Paul Ryan sits alongside AFL-CIO President Liz Shuler, the nation's top union leader. Billionaire investment manager Stephen Schwarzman of Blackstone is paired with MIT labor economist David Autor, whose widely-cited research on job polarization from technological change has defined the academic understanding of automation's workforce effects. Economists Erik Brynjolfsson of Stanford and Raj Chetty of Harvard complete the advisory lineup.
+The advisory board reinforces that positioning. Former Republican House Speaker Paul Ryan sits alongside AFL-CIO President Liz Shuler, the nation's top union leader. Billionaire investment manager Stephen Schwarzman of Blackstone is paired with MIT labor economist David Autor, whose widely-cited research on job polarization from technological change has defined the academic understanding of automation's workforce effects. Economists Erik Brynjolfsson of Stanford and Raj Chetty of Opportunity Insights are also on the advisory board.
 
 ## What RAISE US Will Actually Do
 
@@ -48,7 +49,7 @@ The organization's operating model deliberately avoids the federal government ch
 
 Four states have signed on as initial pilot partners: **Arkansas, Connecticut, Maryland, and Utah**. Each represents a different economic profile: a rural manufacturing state, a coastal financial services hub, a mid-Atlantic government contractor corridor, and a Mountain West tech corridor. The idea is to test retraining models that can later be adapted to the vastly different labor market conditions across the country.
 
-Critically, RAISE US has embedded a non-standard success metric into its mandate. Programs will be measured not by enrollment numbers—the traditional output metric that allows job retraining initiatives to claim success while participants fail to find employment—but by whether participants **land and keep jobs** in less automation-exposed roles. That outcome-based accountability is explicitly designed to address the documented failure of prior federal retraining efforts.
+Critically, RAISE US has embedded a non-standard success metric into its mandate. That outcome-based accountability is explicitly designed to address the documented failure of prior federal retraining efforts.
 
 A 2026 study that tracked 23 million participants in federal retraining programs found limited success in actually placing workers into roles with lower automation risk. The researchers concluded that most programs prioritized speed and scale over matching participants with genuinely durable job categories.
 
@@ -62,8 +63,10 @@ Raimondo has addressed this directly in interviews. "The technology is advancing
 
 ## Against the Clock
 
-The urgency is real. Anthropic's own survey data puts 35% of workers expecting near-complete AI task takeover within a year. The IMF's spring 2026 outlook specifically flagged entry-level positions in law, accounting, and knowledge work as facing immediate, structural risk rather than the gradual displacement economists historically modeled for physical automation.
+The urgency is real. Anthropic's own survey of active Claude users found just over 35% of respondents expecting AI to take over most or nearly all of their tasks within a year. The IMF's spring 2026 outlook specifically flagged entry-level positions in law, accounting, and knowledge work as facing immediate, structural risk rather than the gradual displacement economists historically modeled for physical automation.
 
 The $500 million RAISE US has secured—and the $1 billion it is pursuing—sounds substantial until set against the scale of the challenge. Meaningful retraining for a displaced worker typically costs $15,000 to $40,000 in direct program expenses when accounting for instruction, credentialing, income support during transition, and job placement services. At $500 million, the initiative can fund perhaps 15,000 to 30,000 full retraining pathways. The U.S. Bureau of Labor Statistics estimated in May that 2.4 million Americans are currently in roles at high displacement risk over the next 24 months.
 
 That math gap will not escape legislators, union leaders, or the workers the initiative is meant to serve. Whether RAISE US represents the beginning of an adequate national response or a well-funded acknowledgment that the problem is larger than any private coalition can solve may take years to answer. But June 25, 2026 marks the moment the AI industry formally accepted, in writing and in dollars, that its products have a workforce cost that cannot be left entirely to others to manage.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

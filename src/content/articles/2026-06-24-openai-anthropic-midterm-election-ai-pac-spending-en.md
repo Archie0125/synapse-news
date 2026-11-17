@@ -1,8 +1,9 @@
 ---
-title: "OpenAI and Anthropic Pour $185 Million Into 2026 Midterms, Backing Rival AI Regulation Super PACs"
-summary: "OpenAI-aligned 'Leading the Future' and Anthropic-backed 'Public First' have turned the 2026 congressional midterms into a high-stakes proxy war over AI regulation, collectively funneling more than $185 million into races to shape the future of federal oversight—while writing the rulebook they claim to accept."
+title: "OpenAI- and Anthropic-Linked Super PACs Battle Over AI Regulation in 2026 Midterms"
+summary: "OpenAI-aligned 'Leading the Future' and Anthropic-backed 'Public First' have turned the 2026 congressional midterms into a high-stakes proxy war over AI regulation, as major AI players have steered more than $185 million into midterm campaigns, according to the Washington Post."
 category: "policy"
 publishedAt: 2026-06-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -27,19 +28,19 @@ relatedSlugs:
   - "2026-06-19-colorado-ai-act-sb189-repeal-replace-policy-en"
 ---
 
-The 2026 midterm elections have become the most expensive congressional cycle in history, and artificial intelligence companies are a principal reason why. Two rival super PAC networks—one orbiting OpenAI, the other Anthropic—have poured more than **$185 million** into congressional races, transforming a set of nominally local contests into a national referendum on who gets to write the rules governing advanced AI. The spectacle is unusual even by Silicon Valley standards: two of the most prominent AI safety-focused companies in the world are now locked in a political spending war over what AI safety regulation should actually look like.
+The 2026 midterm elections have become the most expensive congressional cycle in history, and artificial intelligence companies are a principal reason why. Two rival super PAC networks—one orbiting OpenAI, the other Anthropic—are spending heavily in congressional races, transforming a set of nominally local contests into a national referendum on who gets to write the rules governing advanced AI. The spectacle is unusual even by Silicon Valley standards: two of the most prominent AI safety-focused companies in the world are now locked in a political spending war over what AI safety regulation should actually look like.
 
 ## Two Camps, One Enormous Pot of Money
 
-The OpenAI-aligned super PAC, **Leading the Future**, was bankrolled by Andreessen Horowitz and OpenAI co-founder Greg Brockman and has raised more than $75 million. It has already deployed over $20 million across races in Texas, Georgia, Illinois, and Montana, with a stated mission to "oppose policies that stifle innovation, enable China to gain global AI superiority, or make it harder to bring AI's benefits into the world." The group advocates for light-touch federal standards that would preempt the patchwork of state-level AI laws emerging across the country.
+The OpenAI-aligned super PAC, **Leading the Future**, was bankrolled by Andreessen Horowitz and OpenAI co-founder Greg Brockman and has raised more than $75 million. It has already deployed over $20 million across races in Texas, Georgia, Illinois, and Montana, with a stated mission to "oppose policies that stifle innovation, enable China to gain global AI superiority, or make it harder to bring AI's benefits into the world." The group pushes light-touch federal standards.
 
 On the other side stands **Public First**, backed by a $20 million pledge from Anthropic and affiliated with related PACs including Jobs and Democracy and Defending Our Values. According to OpenSecrets, those organizations have spent $16.6 million so far on congressional races in North Carolina, Texas, and Utah. Public First's argument is the inverse of its rival: it opposes federal preemption of state AI laws unless and until Washington produces rules with sufficient safety guardrails.
 
-Beyond those two networks, the broader AI and tech industry has collectively directed $83 million to federal campaigns in 2025 alone and spent $50.9 million on direct lobbying—with OpenAI, Meta, Alphabet, and Nvidia accounting for the lion's share of that figure.
+Beyond those two networks, FEC filings and OpenSecrets data show AI-sector entities gave $83 million to federal campaigns in 2025 alone, while OpenAI, Meta, Alphabet, and Nvidia logged $50.9 million in direct lobbying, according to Issue One.
 
 ## The $15 Million Race That Explains Everything
 
-The proxy battle crystallized most visibly in New York City's 12th Congressional District, where a single congressional primary has attracted an astonishing $15 million in outside AI-industry spending, making it one of the most expensive House primaries in American history.
+The proxy battle crystallized most visibly in New York City's 12th Congressional District, where a single congressional primary has attracted more than $20 million from AI-industry groups, according to CNBC.
 
 At the center of the race is **Alex Bores**, a Manhattan assemblyman who co-sponsored the New York RAISE Act, which would have required AI companies to disclose safety incidents, maintain risk inventories, and implement whistleblower protections. Leading the Future and its allies trained fire on Bores; Public First and affiliated groups rushed to defend him.
 
@@ -49,11 +50,11 @@ Tech critic Molly White observed that the spending is "less about any single can
 
 ## The Ideological Rift
 
-The spending war reveals a genuine philosophical fault line between OpenAI and Anthropic that goes beyond competitive posturing. OpenAI has publicly argued that a fragmented state-by-state regulatory landscape is unworkable—that companies cannot practically comply with 50 different AI safety regimes while also moving fast enough to stay ahead of China. It points to the Great American AI Act, currently advancing in the Senate, as the kind of unified federal framework that should supersede state efforts.
+The spending war pits OpenAI and Anthropic against each other, though it may be less an ideological split than corporate positioning, as both ultimately want AI deployed on their terms. OpenAI has publicly argued that a fragmented state-by-state regulatory landscape is unworkable—that companies cannot practically comply with 50 different AI safety regimes while also moving fast enough to stay ahead of China. It points to the Great American AI Act, currently advancing in the Senate, as the kind of unified federal framework that should supersede state efforts.
 
 Anthropic's position is more nuanced. The company has historically supported strong safety regulation and has been a leading advocate for mandatory pre-deployment evaluations of frontier models. But Anthropic believes federal preemption should not arrive before adequate federal standards are in place—and that states serve as an important laboratory for policy experimentation in the interim. In practice, this means Anthropic opposes a federal law that blocks states from acting before Washington has agreed on meaningful safeguards.
 
-The irony is not lost on observers: a company whose founding mission centered on AI safety is now spending tens of millions to defeat the federal legislation championed by companies that also claim to take safety seriously. The disagreement is real, but the spending has a secondary effect of normalizing the idea that AI companies should be active participants in shaping their own regulatory environment.
+The disagreement is real, but the spending has a secondary effect of normalizing the idea that AI companies should be active participants in shaping their own regulatory environment.
 
 ## What's Actually Being Decided
 
@@ -73,6 +74,8 @@ The outcome of the midterms will determine which of these proposals advance and 
 
 The scale of AI political spending in 2026 marks a qualitative shift from the industry's prior posture. As recently as 2024, AI companies participated in Washington primarily through traditional lobbying. The pivot to eight-figure super PAC spending—directly targeting candidates based on their regulatory positions—reflects both the enormous financial stakes of regulatory outcomes and the speed with which the industry has adopted the political playbook of predecessors like financial services and pharmaceuticals.
 
-What makes this moment unusual is that OpenAI and Anthropic have both, at different times, publicly called for robust AI regulation. Both signed voluntary commitments at the White House in 2023. Both have published extensive safety frameworks. Yet here they are, on opposite sides of a $185 million fight over what "safety regulation" should actually require—a fight that will shape the legal environment for AI development for the next decade.
+What makes this moment unusual is that OpenAI and Anthropic have both, at different times, publicly called for robust AI regulation. Both signed voluntary commitments at the White House in 2023. Both have published extensive safety frameworks. Yet here they are, with affiliated super PACs on opposite sides of a fight over what "safety regulation" should actually require—a fight reform advocates warn could lock in AI policy for a decade.
 
 Whether that money produces better AI policy, or simply more compliant politicians, remains the central question of the 2026 AI regulatory moment.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "OpenAI Codex Sites: Any Employee Can Now Ship a Live Web App From a Prompt"
-summary: "OpenAI launched Codex Sites on June 2, letting any user describe an app in plain language and have Codex build, deploy, and host it at a shareable URL — no developer required. Combined with new role-specific plugin bundles for Sales, Marketing, Finance, and HR, the update signals OpenAI's push to make Codex the operating system for enterprise knowledge work, not just a tool for engineers."
+title: "OpenAI Codex Sites: Business and Enterprise Teams Can Now Ship a Live Web App From a Prompt"
+summary: "OpenAI launched Codex Sites in preview on June 2, letting users on ChatGPT Business and Enterprise describe an app in plain language and have Codex build, deploy, and host it at a shareable URL. It arrived alongside six new role-specific plugins, a sign of OpenAI's push to bring Codex to knowledge workers, not just engineers."
 category: "developer-tools"
 publishedAt: 2026-06-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -35,7 +36,7 @@ Codex Sites — launched in preview at the "Intelligence at Work" event — lets
 
 Alongside Sites, OpenAI launched six new role-specific plugin bundles — for Sales, Marketing, Finance, HR, Product, and Operations — designed to give knowledge workers contextual AI capabilities tuned to their actual jobs, with Legal, Corporate Finance, and Private Equity bundles in development.
 
-Together, the announcements mark a significant pivot: Codex is no longer primarily a tool for writing source code. It is becoming an enterprise operating layer.
+Together, the announcements mark a pivot: Codex is moving beyond being a tool only for writing source code and toward knowledge workers, though developers remain its largest user segment. It is becoming an enterprise operating layer.
 
 ## What Codex Sites Actually Does
 
@@ -76,3 +77,5 @@ Codex Sites lands in a crowded field. Microsoft's Copilot Studio has been lettin
 What OpenAI has that most competitors lack is distribution. ChatGPT's 800-million-plus weekly user base means that Codex Sites does not need to acquire new users from scratch. It needs to convert an existing, engaged population from chatting to building. The Sites launch is essentially a bet that a meaningful fraction of ChatGPT Business and Enterprise users will discover, on their own, that they can ship internal tools they previously could not — and that discovery will deepen retention and expand seats far more efficiently than any sales motion.
 
 If that conversion happens at scale, the line between "AI assistant" and "app platform" will have effectively dissolved inside the ChatGPT interface — and the enterprise software market will look different as a result.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

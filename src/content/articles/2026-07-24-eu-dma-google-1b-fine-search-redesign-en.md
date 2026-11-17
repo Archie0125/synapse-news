@@ -1,8 +1,9 @@
 ---
-title: "EU Fines Google €890 Million Under DMA, Orders Search Overhaul in 60 Days"
-summary: "The European Commission issued its first-ever financial penalties under the Digital Markets Act on July 24, fining Google €890 million ($1 billion) across two separate violations — self-preferencing in Search and anti-steering restrictions in the Play Store. Google now faces a 60-day deadline to redesign how its search results display rivals or risk escalating daily fines."
+title: "EU Fines Google €890 Million Under DMA, Orders Search and Play Store Changes in 60 Days"
+summary: "The European Commission on July 23 fined Google €890 million ($1 billion) across two separate violations — self-preferencing in Search and anti-steering restrictions in the Play Store. Google now faces a 60-day deadline to comply or risk periodic penalty payments."
 category: "policy"
 publishedAt: 2026-07-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
   - "2026-07-24-alphabet-q2-2026-earnings-cloud-gemini4-en"
 ---
 
-The European Commission on July 24 levied the first financial penalties ever issued under the Digital Markets Act, slapping Google with two fines totaling €890 million ($1 billion) — one for systematically favoring its own services in Search results, and a second for blocking app developers from steering users toward purchases outside the Play Store. The ruling, the culmination of an investigation that has been building since the DMA took effect in 2023, gives Google 60 days to overhaul how it presents search results before periodic daily penalties kick in.
+The European Commission on July 23 fined Google a total of €890 million ($1 billion) under the Digital Markets Act in two decisions — one for favoring its own services in Search results, and a second for blocking app developers from steering users toward purchases outside the Play Store. The ruling gives Google 60 days to bring both its search results and its Play Store practices into compliance before periodic daily penalties could apply.
 
 ## The Two Fines
 
@@ -53,22 +54,24 @@ For the Play Store violation, Google must allow app developers to freely communi
 
 If Google fails to comply within 60 days, the Commission can impose periodic daily penalties — typically calculated as a percentage of global daily revenue. At Google's current revenue run rate, even a modest daily percentage fine would quickly exceed the €890 million penalty already imposed.
 
-Google indicated it plans to implement changes to how it presents shopping ads, its own services, and content-related offerings. The company notably avoided the word "comply" in its public statement, describing its intentions as "constructive engagement" with the Commission — language that suggests the exact scope of required changes remains under negotiation.
+Google indicated it plans to implement changes to how it presents shopping ads, its own services, and content-related offerings. Google said it is reviewing the decision and evaluating whether to appeal, while the Commission said Google had proposed and begun testing changes to how it presents its own services in search.
 
 ## The Broader DMA Enforcement Picture
 
 The Google fines arrive at a pivotal moment in the DMA's enforcement history. The law, which formally designated the largest tech platforms as "gatekeepers" subject to binding competition obligations, has been in force since March 2024. But critics — including many of the rival companies that lobbied for the legislation — argued that the Commission had been slow to use its financial sanction powers.
 
-Today's action ends that wait. It also arrives less than two weeks after a separate DMA decision in which the Commission ordered Google to open 11 Android features to competing AI assistants and share anonymized search data with rivals — structural remedies without a financial penalty component. Together, the two rulings represent the most consequential regulatory intervention in Google's European operations since the EU's 2018 Android antitrust fine.
+Today's action is the Commission's largest DMA fine to date, following the April 2025 fines on Apple and Meta. It also arrives less than two weeks after a separate DMA decision in which the Commission ordered Google to open 11 Android features to competing AI assistants and share anonymized search data with rivals — structural remedies without a financial penalty component. Together, the two rulings represent the most consequential regulatory intervention in Google's European operations since the EU's 2018 Android antitrust fine.
 
 Unlike the older antitrust cases, the DMA operates on a different legal theory: it does not require the Commission to prove harm to competition in a specific market. Instead, it imposes ex-ante behavioral obligations on gatekeepers — requirements that must be met regardless of whether a particular act demonstrably harmed rivals. This framework makes enforcement faster and, in theory, more predictable than traditional antitrust proceedings.
 
 ## What It Means for Google
 
-For Alphabet, the €890 million fine is not financially material. Google generates roughly €400 million in daily global revenue — meaning today's fine represents slightly more than two days of earnings. The reputational and operational consequences, however, are considerably larger.
+For Alphabet, the €890 million fine is not financially material. The reputational and operational consequences, however, are considerably larger.
 
 The 60-day compliance deadline creates genuine engineering and business urgency. Google's search product, at the scale at which it operates, is not easily redesigned. Changes to how rich results are displayed affect billions of daily queries, alter the traffic economics for thousands of advertisers and content publishers, and risk cascading side effects across Google's interconnected ad ecosystem. Doing this in 60 days under regulatory scrutiny — while Alphabet is simultaneously managing record capex commitments, Gemini 4 pretraining, and investor pressure on margins — is a substantial operational challenge.
 
-There is also the precedent-setting dimension. This is the DMA's financial enforcement premiere. The Commission has pending DMA proceedings against Apple (regarding the App Store and browser defaults), Meta (regarding data interoperability), and Amazon (regarding marketplace practices). The message embedded in the Google decision is that investigations will eventually produce financial penalties — and that the Commission is prepared to attach operational compliance deadlines rather than simply collecting fines and moving on.
+There is also the precedent-setting dimension. This is Google's first fine under the DMA. The Commission has pending DMA proceedings against Apple (regarding the App Store and browser defaults), Meta (regarding data interoperability), and Amazon (regarding marketplace practices). The message embedded in the Google decision is that investigations will eventually produce financial penalties — and that the Commission is prepared to attach operational compliance deadlines rather than simply collecting fines and moving on.
 
 For the tech industry broadly, the DMA has now demonstrated that it has teeth. How sharp those teeth prove to be will depend on whether Google's 60-day compliance effort satisfies the Commission — and what happens in the coming months to the other pending proceedings.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

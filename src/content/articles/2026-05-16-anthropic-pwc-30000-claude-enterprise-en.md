@@ -1,8 +1,9 @@
 ---
 title: "Anthropic and PwC to Train 30,000 Professionals on Claude in Sweeping Enterprise AI Expansion"
-summary: "PwC and Anthropic announced a major expansion of their alliance that will train and certify 30,000 PwC professionals on Claude, deploy Claude Code and Cowork across the firm's global practice, and launch a dedicated Finance Business Group. Clients are already reporting 70% delivery improvements — and insurance underwriting cycles compressed from ten weeks to ten days."
+summary: "PwC and Anthropic announced a major expansion of their alliance that will train and certify 30,000 PwC professionals on Claude, roll out Claude Code and Cowork starting with U.S. teams and expanding toward a global workforce, and launch a new finance business group. Clients are reporting delivery improvements of up to 70% — and insurance underwriting cycles compressed from ten weeks to ten days."
 category: "ai-ml"
 publishedAt: 2026-05-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-05-14-anthropic-claude-small-business-launch-en"
 ---
 
-When PricewaterhouseCoopers decided to go all-in on Claude, it did not do so quietly. The Big Four firm and Anthropic announced Thursday a sweeping expansion of their strategic alliance that will see 30,000 PwC professionals trained and certified on Claude, a joint Center of Excellence established, and an entirely new business group launched to transform finance functions at client organizations around the world. The announcement represents the most significant enterprise AI deployment commitment Anthropic has disclosed to date, and may signal a turning point in the contest between AI labs to dominate the professional services layer of corporate America.
+When PricewaterhouseCoopers decided to go all-in on Claude, it did not do so quietly. PwC and Anthropic announced Thursday an expansion of their strategic alliance that will see 30,000 PwC US professionals trained and certified on Claude, a joint Center of Excellence established, and a new finance business group launched to transform client finance organizations. The announcement represents the most significant enterprise AI deployment commitment Anthropic has disclosed to date, and may signal a turning point in the contest between AI labs to dominate the professional services layer of corporate America.
 
 ## Beyond a Pilot: An Operating Model Shift
 
@@ -48,7 +49,7 @@ The 30,000-person training target is significant in context. PwC employs roughly
 
 ## A New Business Group for Finance
 
-One of the most concrete structural announcements in Thursday's release was the launch of a dedicated Finance Business Group within PwC, focused exclusively on using Claude to transform client finance organizations. The practice pairs PwC's domain expertise in treasury, controllership, FP&A, and audit with Anthropic's full product stack — Claude for analysis and synthesis, Claude Cowork for multi-agent automation of financial workflows, and Claude Code for building custom finance automation tools.
+One of the most concrete structural announcements in Thursday's release was the launch of a new finance business group within PwC, called the Office of the CFO, focused on transforming client finance organizations with Claude. The practice pairs PwC's domain expertise in treasury, controllership, FP&A, and audit with Anthropic's full product stack — Claude for analysis and synthesis, Claude Cowork for multi-agent automation of financial workflows, and Claude Code for building custom finance automation tools.
 
 Finance functions are an attractive early target for enterprise AI for a predictable reason: they are data-intensive, rule-governed, and have historically been under-automated relative to their potential. CFOs who have spent years trying to reduce close cycles, accelerate reconciliation, and improve forecast accuracy are increasingly willing to adopt agentic AI that can automate the rote work their teams have long complained about.
 
@@ -69,3 +70,5 @@ The broader implication of the PwC-Anthropic partnership is a structural shift i
 PwC's 30,000 Claude-certified professionals will eventually work inside thousands of client organizations. Every implementation they deploy becomes a reference case, every workflow they build becomes a template, and every 70% improvement they demonstrate becomes a sales story Anthropic can use in the next conversation. Professional services firms, in this model, are not just customers — they are the distribution channel.
 
 If the model works at PwC, expect similar announcements from Deloitte, EY, KPMG, Accenture, and McKinsey in rapid succession. The race to define the enterprise AI operating model — and to own the consulting layer that deploys it — is now fully underway.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

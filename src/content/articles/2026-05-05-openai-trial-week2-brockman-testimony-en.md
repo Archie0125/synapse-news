@@ -1,8 +1,9 @@
 ---
-title: "OpenAI Trial Week 2: Brockman Takes the Stand, Reveals IPO Plans and $30B Stake"
-summary: "OpenAI President Greg Brockman testified Monday as the Musk v. Altman trial entered its second week, publicly confirming OpenAI's IPO plans for the first time and disclosing a personal stake worth nearly $30 billion. A bombshell filing also revealed Musk privately sought a settlement just days before filing into court."
+title: "OpenAI Trial Week 2: Brockman Takes the Stand and Acknowledges a $30B Stake"
+summary: "OpenAI President Greg Brockman testified Monday as the Musk v. Altman trial entered its second week, acknowledging under questioning a personal stake in OpenAI now valued at $30 billion. A filing also revealed Musk texted Brockman about a settlement two days before the trial began."
 category: "policy"
 publishedAt: 2026-05-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,11 +34,9 @@ relatedSlugs:
 
 The Oakland federal courthouse became the center of Silicon Valley's attention again this week as the landmark lawsuit between Elon Musk and OpenAI entered its second week of testimony. With Musk's own incendiary time on the stand behind him, the spotlight shifted to Greg Brockman — OpenAI's co-founder and President — whose Monday testimony produced two revelations that immediately reverberated far beyond the courtroom.
 
-## Brockman Confirms the IPO, Discloses a $30 Billion Stake
+## Brockman Acknowledges a $30 Billion Stake
 
-In perhaps the most closely watched moment of the trial's second week, Brockman publicly confirmed for the first time that OpenAI is actively exploring an initial public offering. The disclosure is significant: while IPO speculation has swirled for months, OpenAI has carefully avoided official confirmation, making Brockman's courtroom admission a definitive acknowledgment that the path to public markets is real and in progress.
-
-Equally striking was Brockman's disclosure of his personal holdings. He testified that he owns nearly $30 billion worth of OpenAI shares — a stake that, if accurate, would rank him somewhere in the 80s or 90s on Forbes's global billionaires list. The figure underscores the enormous wealth concentration at the top of a company that was originally conceived as a nonprofit dedicated to the broad benefit of humanity. For Musk's legal team, the number functions as evidence: it illustrates exactly what Musk claims was at stake when insiders allegedly steered a charitable institution into a vehicle for private enrichment.
+Brockman also acknowledged his personal holdings. Under questioning from Musk's attorney Steven Molo, he acknowledged that he holds a stake in OpenAI now valued at $30 billion, without having invested anything himself. The figure underscores the enormous wealth concentration at the top of a company that was originally conceived as a nonprofit dedicated to the broad benefit of humanity. For Musk's legal team, the number functions as evidence: it illustrates exactly what Musk claims was at stake when insiders allegedly steered a charitable institution into a vehicle for private enrichment.
 
 ## The Settlement That Wasn't — and the Threat That Followed
 
@@ -67,8 +66,10 @@ Altman's appearance will likely dominate coverage in ways that even Musk's comba
 
 The Musk v. Altman case is unique even by the standards of Silicon Valley's famously high-stakes litigation. At its heart, it asks a question that no court has ever been asked to answer at this scale: when a group of people build a transformative technology under a charitable mission and then change course, what are the legal consequences?
 
-OpenAI's $852 billion valuation from its last funding round, and the now-confirmed IPO trajectory, mean the stakes are financial as much as philosophical. If Musk prevails and structural remedies are imposed — potentially including a requirement that proceeds benefit the charitable mission — the consequences for OpenAI's capitalization plans could be severe.
+OpenAI's valuation of more than $850 billion, and its reported preparations for an IPO, mean the stakes are financial as much as philosophical. If Musk prevails and structural remedies are imposed — potentially including a requirement that proceeds benefit the charitable mission — the consequences for OpenAI's capitalization plans could be severe.
 
 More broadly, the trial is producing a public record about the private conversations, commitments, and tensions inside one of the world's most consequential technology organizations. Every text message, board memo, and founding document entered into evidence becomes a piece of AI history — one that will inform how future AI labs structure themselves, and how their founders think about the promises they make at the outset.
 
 Brockman's testimony is scheduled to continue Tuesday morning. Attention will then shift to other OpenAI executives before Altman takes the stand in the final week of the liability phase.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

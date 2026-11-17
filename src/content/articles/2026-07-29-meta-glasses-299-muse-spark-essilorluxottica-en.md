@@ -3,6 +3,7 @@ title: "Meta Launches $299 AI Glasses Under Its Own Brand — Drops Ray-Ban, Gai
 summary: "Meta launched its first self-branded AI glasses on June 23, 2026, starting at $299 with EssilorLuxottica and featuring the new Muse Spark on-device AI model with 20-language live translation. The launch marks Meta's first smart glasses product without Ray-Ban branding, priced $80 below the Ray-Ban Meta Gen 2 and positioned ahead of Apple's now-delayed AR debut."
 category: "products"
 publishedAt: 2026-07-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -37,7 +38,7 @@ The launch is more significant than a product refresh. It represents Meta's firs
 
 The Meta Adventurer and Meta Fury carry identical hardware specifications to the Ray-Ban Meta Gen 2 that launched last year: a 12-megapixel camera capable of 3K video capture, a five-microphone array for noise-resistant voice activation, and a battery rated at eight hours of continuous use. The included charging case provides an additional 40 hours of capacity. The specs are essentially unchanged from the Ray-Ban generation — the differentiation is in the brand, the price, and the AI software.
 
-The Adventurer takes a slimmer everyday silhouette that leans toward professional use. The Fury goes with a larger, more rectangular frame that skews athletic. A third option — Meta Glasses by Kylie, designed in collaboration with Kylie Jenner — offers a slim oval style at $399. Meta describes a total of 26 styles across the lineup, spanning different frame shapes, colors, and lens options including prescription.
+The Adventurer takes a slimmer everyday silhouette that leans toward professional use. The Fury shares the Adventurer's rectangular, Wayfarer-like silhouette but is thicker. A third option — Meta Glasses by Kylie, designed in collaboration with Kylie Jenner — offers a slim oval style at $399. Between the Adventurer and Fury alone, Meta offers 26 color and lens combinations, including transition, polarized and clear lens options, and the glasses support prescription lenses.
 
 What is genuinely new is the AI running on the device. Meta Glasses ship with Muse Spark, a proprietary Meta AI model built specifically for wearable inference — optimized to run efficiently within the thermal and battery constraints of a glasses form factor rather than streaming requests to a server on every interaction. Muse Spark is the same model that received an update on the Ray-Ban Meta Display glasses in late July, but its debut on the self-branded Meta Glasses line represents the first time Meta has shipped its own AI model as a primary feature rather than a branded experience built on top of general-purpose AI.
 
@@ -72,3 +73,5 @@ Snap's simultaneous launch of AR Specs at $2,195 illustrates the two markets tha
 The $299 tier is the market that matters for adoption scale. At that price, the purchase decision is comparable to a pair of AirPods Pro rather than a consumer electronics investment requiring justification. If Meta can sell millions of units at $299 — and its 76% market share and existing Ray-Ban Meta install base suggest it can — the compounding effect on AI glasses as a platform will be significant: more users generate more data to improve Muse Spark, more users justify more developer investment in glasses-native applications, and more users create social normalization that reduces the friction for subsequent buyers.
 
 That feedback loop is exactly what Meta needs to maintain its lead in wearable AI as hardware incumbents like Apple, hardware challengers like Samsung, and software incumbents like Google all attempt to establish their own positions in the category before consumer habits solidify.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

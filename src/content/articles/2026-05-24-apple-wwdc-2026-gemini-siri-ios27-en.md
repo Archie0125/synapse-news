@@ -3,6 +3,7 @@ title: "Apple WWDC 2026 Preview: Gemini-Powered Siri and iOS 27 Arrive June 8"
 summary: "Apple's Worldwide Developers Conference kicks off June 8, and this year's keynote is shaping up to be the company's most consequential AI moment since the original iPhone introduction. A rebuilt Siri powered by Google's Gemini models, a third-party AI extension system, real-time web search, and iOS 27 across every Apple platform are all expected — as Apple bets its AI future on an unlikely partner."
 category: "products"
 publishedAt: 2026-05-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -68,7 +69,7 @@ The full platform update — iOS 27, iPadOS 27, macOS 27 (which has generated sp
 
 ## The Hardware Question
 
-WWDC is traditionally a software-focused event, but speculation persists about hardware announcements. The most credible rumor involves an updated Mac lineup refreshed with Apple's next-generation chip, though Apple has not confirmed any hardware plans.
+WWDC is traditionally a software-focused event, and this year is expected to follow that pattern. No major hardware announcements have been rumored for the keynote, though a new "homeOS" platform for a tabletop or wall-mounted smart home hub is overdue, and its launch timing remains unclear.
 
 More interesting is the ongoing evolution of Apple's augmented reality ambitions. With Google having shipped its Android XR glasses via Samsung at the beginning of the year and generating significant developer momentum, Apple faces pressure to show some tangible progress on wearable AR — even if a full consumer product is still years away.
 
@@ -81,3 +82,5 @@ The Gemini partnership, if it performs as described, would give hundreds of mill
 Whether that bet is right may be the defining question of Apple's next decade.
 
 The keynote begins June 8 at 10 a.m. PT, streaming live on apple.com.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "DeepSeek Nears $45 Billion Valuation as China's State Chip Fund Leads Its First-Ever Investment Round"
-summary: "China's state-backed National Integrated Circuit Industry Investment Fund — known as the 'Big Fund' — is in talks to lead a $3–4 billion fundraising round for AI startup DeepSeek at a $45 billion valuation, according to reporting by the Financial Times. The deal would mark DeepSeek's first-ever external investment after operating entirely on capital from its founder's quantitative hedge fund since July 2023."
+summary: "China's state-backed China Integrated Circuit Industry Investment Fund — known as the 'Big Fund' — is in talks to lead a fundraising round for AI startup DeepSeek at a valuation of about $45 billion, according to the Financial Times. The deal would mark DeepSeek's first external funding round after it was funded from its founder's quantitative hedge fund."
 category: "startups"
 publishedAt: 2026-05-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,17 +29,17 @@ relatedSlugs:
   - "2026-05-04-kimi-k26-open-source-coding-benchmark-en"
 ---
 
-In January 2026, when DeepSeek's R1 model stunned Western AI developers by matching frontier performance at a fraction of the cost, the company's unusual financial structure was part of the mystique. Unlike every major Western AI lab — which had raised billions from venture capitalists, Big Tech, and sovereign wealth funds — DeepSeek had been funded entirely from the balance sheet of High-Flyer Capital Management, the quantitative hedge fund co-founded by its 40-year-old creator, Liang Wenfeng.
+In January 2025, when DeepSeek's R1 model stunned Western AI developers by matching frontier performance at a fraction of the cost, the company's unusual financial structure was part of the mystique. Unlike every major Western AI lab — which had raised billions from venture capitalists, Big Tech, and sovereign wealth funds — DeepSeek had been funded entirely from the balance sheet of High-Flyer Capital Management, the quantitative hedge fund co-founded by its 40-year-old creator, Liang Wenfeng.
 
-That era of radical self-reliance is now ending. According to reporting by the Financial Times, confirmed by Bloomberg and multiple other outlets, China's state-backed **National Integrated Circuit Industry Investment Fund** — colloquially known as the "Big Fund" — is in advanced talks to lead DeepSeek's first-ever external financing round at a valuation of approximately **$45 billion**. Cloud giants Tencent and Alibaba are reportedly in parallel discussions to participate as co-investors.
+That era of radical self-reliance is now ending. According to reporting by the Financial Times, also reported by Bloomberg, China's state-backed **China Integrated Circuit Industry Investment Fund** — colloquially known as the "Big Fund" — is in talks to lead DeepSeek's first external financing round at a valuation of approximately **$45 billion**. Cloud giants Tencent and Alibaba are reportedly in parallel discussions to participate as co-investors.
 
 ## A Valuation That Moved Fast
 
-The speed of the valuation shift is itself newsworthy. In mid-April 2026, discussions had reportedly centered on a much more modest $300 million raise at a $10 billion valuation. Within three weeks, the figure had ballooned to a $3–4 billion raise at $45 billion — a 4.5x jump in the headline valuation in less than a month, reflecting both the intensity of investor demand and China's strategic urgency around securing influence over its most prominent AI lab.
+The speed of the valuation shift is itself newsworthy. In mid-April 2026, discussions had reportedly centered on a much more modest $300 million raise at a $10 billion valuation. Within about three weeks, the reported valuation had risen to $45 billion, more than four times the original mark, reflecting both the intensity of investor demand and China's strategic interest in its most prominent AI lab.
 
-The $45 billion figure would make DeepSeek one of the most valuable AI companies in the world, placing it in the same bracket as some of the largest private technology companies globally. Neither DeepSeek nor the Big Fund has publicly confirmed the talks, and the terms remain subject to change, but the FT's reporting is based on multiple sources familiar with the discussions.
+The $45 billion figure would make DeepSeek one of the most valuable AI companies in the world, placing it in the same bracket as some of the largest private technology companies globally. Neither DeepSeek nor the Big Fund has publicly commented on the talks, and the round has not closed.
 
-The proceeds — estimated at $3 billion to $4 billion — are intended primarily to expand DeepSeek's computing infrastructure and increase compensation for its engineering and research staff. That second priority reflects a growing reality in China's AI ecosystem: talent retention is intensifying as both domestic companies and, to a lesser extent, international labs compete for the same narrow pool of researchers capable of working at the frontier.
+The proceeds — estimated at $3 billion to $4 billion — are intended primarily to expand DeepSeek's computing infrastructure and increase compensation for its engineering and research staff. That second priority reflects a growing reality in China's AI ecosystem: domestic rivals have poached DeepSeek researchers, and talent retention is a pressure point.
 
 ## Who Is the Big Fund?
 
@@ -52,7 +53,7 @@ By putting the Big Fund in front of DeepSeek's cap table, Beijing is doing more 
 
 Liang Wenfeng founded DeepSeek in July 2023, spinning it out of High-Flyer, the quant fund he co-founded in 2015 that became one of China's most successful algorithmic trading shops. The move was described at the time as a bet that mathematical rigor and computational efficiency — core competencies in quantitative finance — could be transferred to frontier AI development.
 
-That bet has paid off spectacularly. DeepSeek's V3 model, released in December 2025, reportedly cost approximately $5.6 million to train, a figure that sent shockwaves through an industry where comparable runs were assumed to cost hundreds of millions. The January 2026 release of R1 — a reasoning model benchmarking alongside the best Western counterparts — triggered a selloff in US AI infrastructure stocks and prompted urgent reassessments across Silicon Valley of the economics of model development.
+That bet has paid off spectacularly. DeepSeek's R1 model, launched in January 2025, was reportedly trained for about $6 million, an order of magnitude less than its US peers. The January 2025 release of R1 — a reasoning model — triggered a sharp reaction in US technology stocks.
 
 The efficiency advantage appears to stem from a combination of factors: novel architecture choices, aggressive use of techniques like mixture-of-experts and distillation, and a culture that prioritizes engineering efficiency as a first principle rather than a cost-saving measure. Whether those advantages will persist as both Western and Chinese labs absorb and replicate DeepSeek's published techniques remains the central open question in the global AI race.
 
@@ -71,3 +72,5 @@ The fundraising, if completed at the reported terms, will significantly expand D
 The participation of Tencent and Alibaba as co-investors would also embed DeepSeek deeper into China's domestic technology ecosystem, potentially accelerating distribution through their cloud platforms and consumer applications. That distribution advantage could matter enormously as AI model competition shifts from benchmark performance to real-world deployment.
 
 For Western AI companies watching these developments, the message is unambiguous: the assumption that China's AI sector would remain perpetually behind due to chip access restrictions has not survived contact with reality. DeepSeek's technical achievements have already demonstrated that efficiency can substitute for raw compute up to a point — and now it appears poised to acquire substantially more of that too.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

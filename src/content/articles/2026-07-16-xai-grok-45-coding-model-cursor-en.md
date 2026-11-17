@@ -1,8 +1,9 @@
 ---
 title: "xAI Launches Grok 4.5: A Cursor-Trained Coding Model Aiming to Undercut the Frontier"
-summary: "xAI released Grok 4.5 on July 8 as its fastest and most cost-efficient model yet, co-trained with Cursor and built around a 500,000-token context window. At $2 per million input tokens, it places in the same tier as GPT-5.6 Terra while claiming performance closer to Claude Opus 4.8."
+summary: "xAI launched Grok 4.5 as its strongest model ever, co-trained with Cursor and built around a 500,000-token context window. At $2 per million input tokens and $6 per million output tokens, it is priced well below Opus 4.7, to which Elon Musk compared it."
 category: "developer-tools"
 publishedAt: 2026-07-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -37,9 +38,9 @@ Grok 4.5 is a text-and-image input, text-output model built around four headline
 
 **Context window: 500,000 tokens.** This is among the largest commercially available context windows at launch, comfortably exceeding GPT-5.6 Sol's window and roughly matching Gemini Omni Ultra's extended-context configuration. For coding tasks specifically, a 500K context means Grok 4.5 can ingest an entire mid-sized repository — including test suites, configuration files, and build scripts — in a single pass, without the chunking and retrieval gymnastics that limit smaller-context models.
 
-**Speed: 80 tokens per second.** xAI describes this as "fast-model speeds," and at 80 TPS it is meaningfully faster than GPU-served alternatives at the same parameter count. The company attributes the throughput to custom inference kernel work done in parallel with Cursor's engineering team.
+**Speed: 80 tokens per second.** xAI describes this as "fast-model speeds." The company attributes the throughput to custom inference kernel work done in parallel with Cursor's engineering team.
 
-**Pricing: $2 / $6 per million tokens.** Input at $2 per million and output at $6 per million positions Grok 4.5 in direct competition with GPT-5.6 Terra and Gemini Omni Flash Pro. Elon Musk described the model as "roughly comparable to Opus 4.7, but much faster and more token-efficient" — a claim that, if it holds under independent benchmarking, would represent an extraordinary value proposition: near-frontier intelligence at mid-tier prices.
+**Pricing: $2 / $6 per million tokens.** Input at $2 per million and output at $6 per million positions Grok 4.5 in direct competition with GPT-5.6 Terra and Gemini Omni Flash Pro. Elon Musk described the model as "roughly comparable to Opus 4.7, but much faster" — a claim that, if it holds under independent benchmarking, would represent a strong value proposition.
 
 **Function calling and structured outputs.** Grok 4.5 supports all the programmatic interfaces modern agent frameworks depend on — function calling, structured JSON outputs, web search, X (Twitter) search, and code execution. The X search integration is genuinely differentiated: developers building applications that need real-time public discourse context can query X's firehose natively through the model, without a separate API integration.
 
@@ -59,13 +60,13 @@ The benchmark that will attract the most scrutiny is SWE-bench Verified, the cod
 
 ## Availability Constraints
 
-Grok 4.5 is available today in Grok Build (xAI's agent API platform), in Cursor on all plans, and through the xAI API console. However, it is **not yet available in the European Union**, where xAI is still navigating regulatory compliance requirements under the EU AI Act's transparency and data governance provisions. EU availability is expected in mid-July — a window that is already here, suggesting xAI is close to clearing those requirements.
+However, it is **not yet available in the European Union**. EU availability is expected in mid-July — a window that is already here, suggesting xAI is close to clearing those requirements.
 
 The EU gap is a persistent friction point for xAI's enterprise ambitions. European enterprises represent a significant portion of global AI API spend, and every week of EU absence is a week of market share accumulation for compliant alternatives.
 
 ## Competitive Framing
 
-The timing of Grok 4.5's release — one day before OpenAI's GPT-5.6 GA — was deliberate. xAI wanted its own narrative cycle before OpenAI's press wave arrived. The strategy partially worked: Grok 4.5 generated a concentrated burst of developer community discussion before being somewhat eclipsed by the GPT-5.6 coverage. But the model's staying power will be determined less by its launch week and more by whether the Cursor integration drives durable daily-active-user metrics that xAI can point to in future funding conversations.
+Grok 4.5 arrived in the same week as OpenAI's planned GPT-5.6 release. But the model's staying power will be determined less by its launch week and more by whether the Cursor integration drives durable daily-active-user metrics that xAI can point to in future funding conversations.
 
 At the same time, xAI's position in the emerging AI-native developer tooling market is genuinely interesting. Anthropic has its own strong developer relationships through Claude's API and its integration into Claude.ai's artifact system. OpenAI owns GitHub Copilot through Microsoft. Google has Gemini deeply embedded in Android Studio and Firebase. xAI has Cursor — and through Cursor, a rapidly growing population of developers who encounter Grok 4.5 as their default AI collaborator, not a conscious product choice.
 
@@ -74,3 +75,5 @@ At the same time, xAI's position in the emerging AI-native developer tooling mar
 For teams evaluating Grok 4.5 as a primary model, the key unknowns are: SWE-bench Verified performance, latency consistency under production load (80 TPS is a headline figure; real-world p95 latency matters more), and the stability of the X search integration for applications that depend on real-time data. The 500K context is immediately useful for large repository analysis; whether it degrades gracefully at the upper end of the window will need independent testing.
 
 For the broader AI landscape, Grok 4.5 signals that the coding model segment — once a relatively undifferentiated category dominated by GitHub Copilot and a few API players — is becoming a genuine arena of competitive intensity, with model architecture, training partnerships, and distribution channel all mattering in ways they didn't 18 months ago.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

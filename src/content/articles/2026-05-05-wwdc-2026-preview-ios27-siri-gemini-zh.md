@@ -1,8 +1,9 @@
 ---
 title: "WWDC 2026 前瞻：iOS 27 搭載 Gemini 驅動的 Siri 2.0 與第三方 AI 擴充功能"
-summary: "Apple 全球開發者大會將於 6 月 8 至 12 日在山景城登場，堪稱近年來最重要的軟體發表會。iOS 27 預計推出由 Google Gemini 驅動的全新 Siri、獨立 Siri 應用程式，以及允許使用者將 AI 查詢導向 Claude、Grok 等第三方聊天機器人的「Extensions」系統。"
+summary: "Apple 全球開發者大會將於 6 月 8 至 12 日舉行，以線上為主，並邀請部分與會者前往加州庫比蒂諾的 Apple Park。iOS 27 預計推出重新設計的 Siri，包括預裝的獨立 Siri 應用程式，據報導 Apple 計畫在大會上發表 Siri 的重大改版。"
 category: "products"
 publishedAt: 2026-05-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-04-14-apple-smart-glasses-prototypes-zh"
 ---
 
-Apple 第 37 屆全球開發者大會（WWDC）將於 2026 年 6 月 8 日在加州山景城的 Shoreline Amphitheatre 正式揭幕。每一屆 WWDC 都備受矚目，但今年的發表會來得格外關鍵：一個花了將近兩年時間力推謹慎、以裝置端為主的 AI 策略的 Apple，即將展示 Siri 史上最大膽的一次蛻變。iOS 27，可能是 Apple 有史以來最重 AI 的軟體更新。
+Apple 第 37 屆全球開發者大會（WWDC）將於 2026 年 6 月 8 日正式揭幕，採混合形式，以線上為主，並邀請部分與會者前往加州庫比蒂諾的 Apple Park。每一屆 WWDC 都備受矚目，但今年的發表會來得格外關鍵：一個花了將近兩年時間力推謹慎、以裝置端為主的 AI 策略的 Apple，即將展示 Siri 史上最大膽的一次蛻變。iOS 27，可能是 Apple 有史以來最重 AI 的軟體更新。
 
 ## Siri 2.0：從語音指令到完整聊天機器人
 
@@ -78,3 +79,5 @@ WWDC 2026，是 Apple 的回應。透過將 Gemini 的底層能力包裝在 Appl
 這套策略能否奏效，取決於 iOS 27 的 Siri 在日常使用中的實際表現。AI 助理發表會的歷史上，充斥著令人印象深刻的 Demo，卻在真實用戶手中大打折扣的案例。6 月 8 日，我們將知道 Apple 的 Gemini 驅動大改造究竟是真正的突破，還是又一次延後兌現的承諾。
 
 開發者主題演講將於太平洋時間 6 月 8 日上午 10 點正式展開，大會活動與工作坊將持續至 6 月 12 日，全程提供與 Apple 工程師面對面交流的機會。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 3 處。*

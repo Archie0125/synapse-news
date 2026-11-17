@@ -1,8 +1,9 @@
 ---
 title: "Microsoft Breaks Free: Three In-House MAI Models Signal End of OpenAI Dependency"
-summary: "Microsoft has launched three foundational AI models built entirely in-house — MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 — marking the most concrete evidence yet that the company intends to compete directly with OpenAI. The move follows a renegotiated partnership that freed Microsoft to build frontier models while retaining access to OpenAI's output through 2032."
+summary: "Microsoft has launched three in-house foundational AI models — MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 — a sign that the company intends to compete with OpenAI. The move follows a renegotiated partnership that freed Microsoft to build competing models while retaining licensing rights to OpenAI's output through 2032."
 category: "ai-ml"
 publishedAt: 2026-04-06T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -31,9 +32,9 @@ relatedSlugs:
 
 For years, Microsoft's AI strategy had a single, defining constraint: its partnership with OpenAI. A contractual clause in the original agreement effectively prevented Microsoft from independently pursuing general-purpose AI development — a clause that made sense in 2019 when OpenAI was an academic nonprofit, but grew increasingly uncomfortable as Microsoft poured tens of billions into the relationship while AI became the most strategically important technology in a generation.
 
-That changed in September 2025. A renegotiated memorandum of understanding gave Microsoft three things: retained licensing rights to everything OpenAI builds through 2032, $250 billion in new Azure cloud business commitments from OpenAI, and — crucially — the freedom to build competing frontier models. The ink was barely dry before Microsoft's internal AI research team, rebranded as Microsoft AI (MAI), began moving from research into production.
+That changed in September 2025. A renegotiated memorandum of understanding gave Microsoft three things: retained licensing rights to everything OpenAI builds through 2032, $250 billion in new Azure cloud business commitments, and — crucially — the freedom to build competing models. The ink was barely dry before Microsoft's internal AI research team, rebranded as Microsoft AI (MAI), began moving from research into production.
 
-The results arrived April 3, 2026 with the release of three models onto the Azure Foundry platform.
+The results arrived with Microsoft's announcement on a Thursday that three models were being released on Microsoft Foundry, though MAI-Image-2 had first been released in March.
 
 ## What Microsoft Actually Built
 
@@ -67,6 +68,8 @@ Industry analysts are watching two signals. First, whether MAI-Transcribe-1 and 
 
 For now, Microsoft is threading a careful needle: signaling independence without triggering the commercial disruption that a full public break with OpenAI would cause. The partnership still generates enormous mutual value. OpenAI needs Azure's infrastructure. Microsoft needs OpenAI's model quality to sell enterprise Copilot licenses.
 
-But the message sent by three in-house models shipped in a single week is unmistakable: if the partnership ever falls apart, Microsoft will not be left without options. That's a fundamentally different negotiating position than the company held six months ago — and it will shape every conversation between the two companies for years to come.
+That's a fundamentally different negotiating position than the company held six months ago — and it will shape every conversation between the two companies for years to come.
 
 The AI industry's most consequential partnership is still intact. It's just no longer a dependency.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

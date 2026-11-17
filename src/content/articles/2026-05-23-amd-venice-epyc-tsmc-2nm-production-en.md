@@ -3,6 +3,7 @@ title: "AMD's 256-Core EPYC Venice Enters Production on TSMC 2nm — A Semicondu
 summary: "AMD has begun production ramping its 6th Gen EPYC processor, codenamed Venice, on TSMC's N2 process technology — making it the first high-performance computing chip in the industry to reach production at the 2nm node. The 256-core chip claims a 70% performance leap over its predecessor and marks a pivotal transition from FinFET to gate-all-around nanosheet transistors, the most significant architectural change in chip fabrication in over a decade."
 category: "hardware"
 publishedAt: 2026-05-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -65,13 +66,13 @@ AMD has positioned Venice in the context of its broader AI infrastructure roadma
 
 Venice's production announcement also has implications for the broader supply picture around TSMC's most advanced nodes. N2 capacity is finite and highly contested — Nvidia, Apple, Qualcomm, and now AMD are all competing for slots at a fabrication facility that took years and billions of dollars to stand up.
 
-AMD has confirmed that Venice production will initially concentrate at TSMC's Taiwan fabs, with future plans to produce the chip at TSMC's Arizona campus as well. Volume 2nm production at TSMC's Arizona facility is not expected before 2028, meaning the near-term supply of Venice processors will be constrained by Taiwan's N2 capacity.
+AMD said Venice is ramping production in Taiwan on TSMC's 2nm process, with future plans to ramp production at TSMC's Arizona facility as well. Volume 2nm production at TSMC's Arizona facility is not expected before 2028, meaning the near-term supply of Venice processors will be constrained by Taiwan's N2 capacity.
 
 This creates a strategic dynamic where AMD's ability to fulfill large data center orders for Venice will depend on its allocation of N2 wafer starts — an allocation that will be negotiated against competing demands from Nvidia (whose next-generation Blackwell Ultra chips are also targeting advanced nodes) and Apple (which uses N3 and will eventually transition iPhone application processors to N2).
 
 ## Verano and the Roadmap
 
-AMD simultaneously disclosed a follow-on processor called Verano, also based on the N2 node, which is designed to optimize for performance-per-dollar-per-watt rather than peak core count. Verano's target is cloud and AI computing workloads that benefit from the efficiency improvements of N2 transistors but don't require 256-core configurations — a larger addressable market than the flagship Venice parts.
+AMD also said it plans to extend TSMC 2nm process technology with Verano, a 6th Gen EPYC processor optimized for performance-per-dollar-per-watt leadership. Verano is designed to support cloud and AI computing workloads, and is expected to build on the EPYC platform with advanced memory innovations, including LPDDR.
 
 The disclosure of Verano at the same time as Venice's production announcement suggests AMD has more confidence in TSMC's N2 yield trajectory than the early-stage production ramp would imply. Committing publicly to a second N2 product implies the company believes the process will be sufficiently mature to support volume production of both designs within a reasonable window.
 
@@ -81,4 +82,6 @@ The significance of Venice extends beyond AMD's competitive position relative to
 
 The physics of GAA transistors, once confined to research papers and early fabrication experiments, have now been proven at production scale on one of the most complex chip designs commercially manufactured. That validation matters for every chip designer that is now planning products on N2 and subsequent nodes.
 
-For the data centers powering the AI era, Venice's arrival means more performance per rack unit, more operations per watt, and lower infrastructure cost per inference. Those efficiencies will compound across billions of server-hours. The transistor geometry of 2nm silicon, once a theoretical target, is now shipping in volume.
+For the data centers powering the AI era, Venice's arrival means more performance per rack unit, more operations per watt, and lower infrastructure cost per inference. Those efficiencies will compound across billions of server-hours. The transistor geometry of 2nm silicon, once a theoretical target, is now in production ramp.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Salesforce's Headless 360: The Entire Enterprise Stack Is Now Infrastructure for AI Agents"
-summary: "At TrailblazerDX 2026, Salesforce announced Headless 360—its most sweeping architectural overhaul in 27 years. Every capability in the platform is now exposed as an API, MCP tool, or CLI command that AI agents can invoke without opening a browser. With 60+ new MCP tools compatible with Claude Code, Cursor, Codex, and Windsurf, and a free developer edition bundling Claude Sonnet, Salesforce is betting the enterprise runs on agents, not GUIs."
+summary: "At TrailblazerDX 2026, Salesforce announced Headless 360, which makes everything on Salesforce an API, MCP tool, or CLI command that AI agents can use without opening a browser. With 60+ new MCP tools compatible with Claude Code, Cursor, Codex, and Windsurf, and a free Developer Edition including Claude Sonnet, Salesforce is betting the enterprise runs on agents, not GUIs."
 category: "developer-tools"
 publishedAt: 2026-04-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,7 +33,7 @@ relatedSlugs:
   - "2026-04-10-mastra-22m-series-a-typescript-agents-en"
 ---
 
-When Salesforce unveiled Headless 360 at TrailblazerDX 2026 in San Francisco last week, the company's product leadership did not describe it as a feature release or even a platform upgrade. They called it the most ambitious architectural transformation in Salesforce's 27-year history—a statement that, given the company's track record of dramatic keynote language, deserves scrutiny. But the substance behind Headless 360 is real, and it represents a genuine inflection in how enterprise software companies are thinking about their future.
+When Salesforce unveiled Headless 360 at TrailblazerDX 2026 in San Francisco last week, the company's product leadership did not describe it as a feature release or even a platform upgrade. When Salesforce unveiled Headless 360 at TrailblazerDX 2026 in San Francisco last week, one trade outlet called it the most significant architectural pivot in the platform's 25-year history—a statement that, given the industry's track record of dramatic keynote language, deserves scrutiny. But the substance behind Headless 360 is real, and it represents a genuine inflection in how enterprise software companies are thinking about their future.
 
 The core idea is straightforward: everything in Salesforce is now accessible as an API, a Model Context Protocol (MCP) tool, or a command-line interface (CLI) command. Sales pipelines, customer support queues, marketing automation workflows, Einstein Analytics dashboards, Apex code execution, Flow automations—all of it can now be invoked, read, and modified by AI agents operating autonomously, without a human ever clicking through the Salesforce interface.
 
@@ -52,11 +53,11 @@ Agentforce Vibes, Salesforce's vibe-coding environment introduced last year, rec
 
 The updated Vibes environment is browser-based and cloud-hosted, built on VS Code architecture, and embedded directly into the Salesforce platform. It includes an AI "development partner" that maintains awareness of your specific Salesforce org's schema, installed packages, custom objects, and business logic—context that external coding agents can only approximate unless given explicit access.
 
-For Developer Edition orgs—the free Salesforce environments used by developers, ISVs, and platform learners—Agentforce Vibes 2.0 with Claude Sonnet 4.5 as the default coding model is now available at no cost. Salesforce-hosted MCP Servers are also included in Developer Edition at no charge, making the complete agentic development stack accessible without a production license.
+For Developer Edition orgs—the free Salesforce environments used by developers, ISVs, and platform learners—Agentforce Vibes 2.0 with Claude Sonnet 4.5 as the default coding model is now available at no cost. Salesforce-hosted MCP Servers are also included in Developer Edition at no cost.
 
 ## AgentExchange: The App Store for Enterprise AI Agents
 
-The third pillar of TDX 2026 is AgentExchange, Salesforce's marketplace for distributing and discovering AI agents. AgentExchange follows the pattern of the Salesforce AppExchange—which has hosted third-party Salesforce apps since 2005 and is one of the most successful enterprise software marketplaces in existence—but is designed from the ground up for the agentic era.
+Alongside the TDX 2026 announcements sits AgentExchange, which was launched the day before and consolidates AppExchange, Slack Marketplace, and the Agentforce ecosystem into a single storefront. AgentExchange follows the pattern of the Salesforce AppExchange but is designed for the agentic era.
 
 On AgentExchange, Salesforce partners and independent developers can publish agents with specific capabilities: an accounts receivable agent that monitors invoice aging and initiates collection workflows, a sales coaching agent that analyzes call transcripts and provides rep-level feedback, a compliance monitoring agent that audits customer data access against regulatory requirements. Organizations can install these agents directly into their Salesforce environment via the MCP layer, composing multi-agent workflows from marketplace components without writing custom integration code.
 
@@ -84,4 +85,6 @@ For Salesforce developers, Headless 360 suggests a near-term shift in how comple
 
 For enterprise architects evaluating agentic AI strategies, Headless 360 changes the Salesforce integration calculus. If Salesforce is the source of truth for customer data and sales processes, and AI agents can now operate that data natively via MCP, the integration layer simplifies considerably. Agents don't need elaborate Salesforce connector libraries; they use the same MCP tools interface used by human-facing coding agents.
 
-The 27-year claim is marketing. But the architectural shift is real, and its implications for how enterprise software gets built—and how it runs—are only beginning to unfold.
+The "most significant pivot" framing may be keynote rhetoric. But the architectural shift is real, and its implications for how enterprise software gets built—and how it runs—are only beginning to unfold. But the architectural shift is real, and its implications for how enterprise software gets built—and how it runs—are only beginning to unfold.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

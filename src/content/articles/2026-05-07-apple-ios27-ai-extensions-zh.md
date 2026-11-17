@@ -3,6 +3,7 @@ title: "蘋果 iOS 27 開放 AI 選擇權：用戶可自選 Gemini、Claude 等�
 summary: "蘋果計劃在 iOS 27 中推出「Extensions」框架，允許用戶在 Siri、Writing Tools 及 Image Playground 中自由切換 Google Gemini、Anthropic Claude 等第三方 AI 模型。這是蘋果在 AI 開放策略上的最大轉向，也預示著一場在全球最大消費裝置平台上的 AI 生態戰爭。"
 category: "products"
 publishedAt: 2026-05-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
 
 ## Extensions 框架如何運作
 
-Extensions 的核心是在 Apple Intelligence 內建立一個 AI 路由層。只要用戶從 App Store 安裝了 Gemini 或 Claude 等應用程式，這些 App 就會自動出現在 Siri、Writing Tools 和 Image Playground 的可選引擎清單中。撰寫郵件時，用戶可以選擇讓 Anthropic Claude 處理潤稿工作，而非蘋果內建模型；使用 Image Playground 時，也可以改用 Gemini 的圖像生成能力。
+Extensions 的核心是在 Apple Intelligence 內建立一個 AI 路由層。用戶將可從 App Store 中已加入 Extensions 支援的應用程式所提供的 AI 模型中挑選，這些模型接著就能為 Siri、Writing Tools 和 Image Playground 的功能提供支援。撰寫郵件時，用戶可以選擇讓 Anthropic Claude 處理潤稿工作，而非蘋果內建模型；使用 Image Playground 時，也可以改用 Gemini 的圖像生成能力。
 
 更值得注意的是語音個人化設計。系統將為蘋果自身回應和第三方模型的回應分別配置不同的 Siri 聲音，讓用戶能從音頻上辨別目前是哪個 AI 在說話。這是應對多模型裝置「身份辨識」問題的巧妙 UX 解法。
 
@@ -49,7 +50,7 @@ Siri 本身並不會被取代，蘋果似乎仍有意讓它扮演預設的「指
 
 ## 平台生態的賭注
 
-對 Google 和 Anthropic 而言，Extensions 框架是一個千載難逢的發行管道。進入全球逾二十億台蘋果裝置的 AI 預設層，其戰略價值遠超任何獨立 App 的上架。兩家公司與蘋果早有淵源：Gemini 已為 iOS 26.4 的 Siri 後端提供支援，Claude 也透過類 ChatGPT 擴充套件在現有版本中可用。此次在 OS 層級正式化整合，將大幅鞏固雙方的合作關係。
+對 Google 和 Anthropic 而言，Extensions 框架是一個千載難逢的發行管道。進入全球逾二十億台蘋果裝置的 AI 預設層，其戰略價值遠超任何獨立 App 的上架。兩家公司與蘋果早有淵源：蘋果已與 Google 達成協議，採用 Gemini 為原生 Siri 與 Apple Intelligence 功能提供支援；據報導，Google 與 Anthropic 的模型目前也正在測試中。此次在 OS 層級正式化整合，將大幅鞏固雙方的合作關係。
 
 彭博報導中沒有提到 OpenAI，但這或許反映的是談判時程問題，而非永久排除。自 2024 年 WWDC 宣布 ChatGPT 整合以來，OpenAI 與蘋果的關係就時有摩擦，加上 OpenAI 近期積極布局自有 AI 手機硬體，競爭關係更加緊張。
 
@@ -70,3 +71,5 @@ Siri 本身並不會被取代，蘋果似乎仍有意讓它扮演預設的「指
 開發者社群的反應至關重要。若蘋果將 Extensions 限制在少數特定夥伴，或將設定入口藏得過深，實際影響將相當有限。但若框架真正開放且顯眼，iOS 有望成為全球每家主要 AI 實驗室的首選部署平台，進而重塑整個 AI 模型產業的商業邏輯。
 
 無論如何，蘋果獨自主導 AI 生態的時代，已然結束。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

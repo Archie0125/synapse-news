@@ -1,8 +1,9 @@
 ---
-title: "10,000 Qubits Could Break Internet Encryption: How Quantum Computing Upended the Timeline for Cryptographic Collapse"
-summary: "A March 2026 paper from Oratomic, Caltech, and UC Berkeley shook the cryptography world by showing that Shor's algorithm could crack RSA-2048 and elliptic-curve encryption with as few as 10,000 neutral-atom qubits — a tenfold improvement over previous estimates. Nature called it 'a real shock.' With Q-Day now a plausible 2030 milestone, organizations face a narrowing window to migrate to post-quantum cryptography before years of intercepted data become readable."
+title: "10,000 Qubits Might Break Internet Encryption: How Quantum Computing Shortened the Timeline for Cryptographic Collapse"
+summary: "A March 2026 paper from Oratomic and Caltech showed that Shor's algorithm could be run at cryptographically relevant scale with as few as 10,000 reconfigurable atomic qubits, far below earlier estimates of millions. With resource estimates falling, organizations face a narrowing window to migrate to post-quantum cryptography."
 category: "hardware"
 publishedAt: 2026-05-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-05-25-github-nx-console-teampcp-supply-chain-attack-en"
 ---
 
-On March 31, 2026, researchers from Oratomic, Caltech, and UC Berkeley published a paper that landed in the cryptography community like a depth charge. Its title — "Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits" — understated the magnitude of what it implied. In two pages of clear language followed by dense technical appendices, the team showed that the mathematical wall between today's quantum computers and the encryption protecting the internet was far thinner than almost anyone had assumed.
+On March 30, 2026, researchers from Oratomic and Caltech submitted a paper to arXiv that landed in the cryptography community like a depth charge. Its title — "Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits" — understated the magnitude of what it implied. In two pages of clear language followed by dense technical appendices, the team showed that the mathematical wall between today's quantum computers and the encryption protecting the internet was far thinner than almost anyone had assumed.
 
 Nature covered it the following week under a headline that captured the expert reaction precisely: "It's a real shock."
 
@@ -38,7 +39,7 @@ To understand why this matters, some background. RSA and elliptic-curve cryptogr
 
 The catch, until this year, was that Shor's algorithm at cryptographically relevant scales was believed to require millions of physical qubits — far beyond what any existing or near-term quantum machine could provide. The largest publicly disclosed quantum processors as of early 2026 have between 1,000 and 4,000 physical qubits, with significant error rates that make long computations unreliable. Millions of qubits felt safely remote.
 
-The Oratomic paper demolished that comfort zone. Using neutral-atom qubits — a technology in which individual atoms are suspended by laser light and moved around to create connections between any pair — the team showed that architectural efficiency gains could compress the qubit requirement dramatically. For ECC-256, the elliptic-curve variant that protects most cryptocurrency wallets and many government systems, space-efficient architectures require roughly 9,700 to 11,000 physical qubits. For RSA-2048, 11,000 to 13,300 physical qubits suffice under the space-efficient model, or approximately 102,000 under a more parallelized, time-efficient approach.
+The Oratomic paper demolished that comfort zone. Using neutral-atom qubits — a technology in which individual atoms are suspended by laser light and moved around to create connections between any pair — the team showed that architectural efficiency gains could compress the qubit requirement dramatically. For ECC-256, the elliptic-curve variant that protects most cryptocurrency wallets and many government systems, space-efficient architectures require roughly 9,700 to 11,000 physical qubits. For RSA-2048, the researchers estimate about 100,000 qubits and roughly 10 days to break it.
 
 Tenfold improvement over previous estimates. For the same day that the paper appeared, a separate white paper from a Google Quantum AI team reached similar conclusions through a different analytical path, independently corroborating the Oratomic results. When two groups arrive at the same uncomfortable finding from different directions, the signal is not noise.
 
@@ -68,11 +69,11 @@ The cryptographic community has not been idle. The National Institute of Standar
 
 The challenge is migration, not invention. Replacing cryptographic primitives across a large organization's infrastructure is an operation that typically takes years of planning, testing, and rollout. Every library, protocol, hardware security module, and certificate that uses RSA or ECC must be inventoried, replaced, and validated. For enterprises running legacy systems on mainframes or embedded in industrial control equipment, the complexity is compounded by hardware that may not support software updates at all.
 
-The US government's migration deadline — set by CISA in guidance that accompanied NIST's final standards — calls for federal agencies to complete the transition to post-quantum cryptography by 2030. For systems that handle classified information, the deadline is earlier. The Oratomic paper's compression of the qubit timeline has added urgency to what was already an aggressive schedule.
+NIST's transition guidance points toward vulnerable public-key schemes being deprecated after 2030 and broadly disallowed after 2035 in many cases. For systems that handle classified information, the deadline is earlier. The Oratomic paper's compression of the qubit timeline has added urgency to what was already an aggressive schedule.
 
 ## The Hardware Reality Check
 
-One piece of context that should not be lost: the Oratomic paper describes what a quantum computer could do if it achieves 10,000 high-quality, error-corrected logical qubits. The word "logical" is load-bearing. Physical qubits are noisy; logical qubits are the error-corrected version, typically requiring anywhere from dozens to hundreds of physical qubits each to implement reliably, depending on the error rate and correction scheme.
+One piece of context that should not be lost: the Oratomic paper describes what a quantum computer could do with about 10,000 reconfigurable atomic qubits, a machine that does not yet exist. The word "logical" is load-bearing. Physical qubits are noisy; logical qubits are the error-corrected version, typically requiring anywhere from dozens to hundreds of physical qubits each to implement reliably, depending on the error rate and correction scheme.
 
 Current neutral-atom machines from companies including Atom Computing, QuEra, and Oratomic's own hardware division have demonstrated high-fidelity two-qubit gates, but operating 10,000 physical qubits with the error rates required for sustained Shor's algorithm execution remains a significant engineering challenge. The Oratomic paper is a resource analysis — it tells us what goal the hardware must hit, not that the goal has been hit.
 
@@ -82,6 +83,8 @@ What makes the paper alarming is the trajectory. Neutral-atom systems have impro
 
 For enterprise security teams and government officials, the Oratomic paper should reframe the post-quantum cryptography migration from a long-range planning exercise into an active project with a hard deadline. The question is not whether quantum computers will eventually become capable of breaking RSA and ECC. The question is whether they will do so before the world has replaced those algorithms.
 
-The gap between today's largest quantum computers and the 10,000-logical-qubit threshold is real, but it is no longer the comfortable buffer that previous estimates implied. Organizations that treat 2030 as a distant horizon rather than an imminent deadline are making a risk calculation that the Oratomic and Google papers have fundamentally changed.
+The gap between today's quantum computers and the roughly 10,000-qubit threshold is real, but it is no longer the comfortable buffer that previous estimates implied. Organizations that treat 2030 as a distant horizon rather than an imminent deadline are making a risk calculation that the Oratomic and Google papers have fundamentally changed.
 
 As one cryptographer quoted in the Nature piece put it, the question is now "not if, but when." And when matters a great deal when the data being protected was encrypted years ago, is already in someone else's database, and will remain sensitive for decades to come.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

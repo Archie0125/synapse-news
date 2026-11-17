@@ -1,8 +1,9 @@
 ---
-title: "美國政府強制 Anthropic 下線：Claude Fable 5 出口管制風波始末"
-summary: "2026年6月12日，美國政府援引國家安全出口管制條例，強制 Anthropic 在全球範圍內關閉 Claude Fable 5 與 Mythos 5。事件導火線是一名研究員公開的越獄技術，此舉震撼整個 AI 產業，企業用戶措手不及，也為 AI 模型部署的國安風險敲響了警鐘。"
+title: "美國政府命令 Anthropic 暫停 Fable 5 與 Mythos 5：出口管制風波始末"
+summary: "2026年6月12日，美國政府援引國家安全出口管制條例，強制 Anthropic 對所有客戶關閉 Claude Fable 5 與 Mythos 5。起因是 Anthropic 所稱的潛在局部越獄漏洞。Anthropic 不認同該發現足以成為召回模型的理由，並表示其他所有模型不受影響。"
 category: "policy"
 publishedAt: 2026-06-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -83,3 +84,5 @@ Fable 5 原本應標誌著 Anthropic 在對抗 OpenAI 與 Google 競爭中最自
 ---
 
 *截至2026年6月16日，Fable 5 與 Mythos 5 仍處於下線狀態。Anthropic 其他所有模型維持正常運作。*
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

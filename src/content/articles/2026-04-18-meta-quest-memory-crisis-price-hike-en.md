@@ -3,6 +3,7 @@ title: "Meta Hikes Quest 3 and 3S Prices as AI-Driven Memory Chip Shortage Hits 
 summary: "Meta Platforms announced price increases of $50–$100 on its Quest 3 and Quest 3S VR headsets, effective April 19, blaming a global DRAM shortage driven by AI infrastructure demand. The price hike is partly self-inflicted: Meta's own $115–135 billion AI capital expenditure plan for 2026 is one of the largest single contributors to the memory market tightness now forcing its consumer hardware division to raise prices."
 category: "hardware"
 publishedAt: 2026-04-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -54,7 +55,7 @@ PC Gamer put it bluntly: "Meta is raising prices on the Quest 3 and Quest 3S due
 
 Meta's 2026 AI capital expenditure budget is **$115–135 billion**, nearly double the prior year and one of the largest single technology infrastructure investments in corporate history. That budget is being deployed across data centers that require vast quantities of the same memory chips used in consumer VR headsets. Meta is, in effect, competing with its own hardware division for a constrained global supply of DRAM.
 
-This is not a unique position for the company. Apple has reportedly been working aggressively with suppliers to lock in memory pricing through long-term supply agreements, insulating its iPhone and Mac businesses from spot market volatility. Meta, it appears, did not have equivalent hedging in place for its consumer VR division, or the hedging it did have has been exhausted by demand that exceeded forecasts.
+This is not a unique position for the company. Apple and Google, by contrast, have so far held prices steady on products that include notable amounts of RAM.
 
 ## VR at a Difficult Moment
 
@@ -70,15 +71,17 @@ Meta is not the only hardware company absorbing memory price shocks. The same dy
 
 - **Smartphones:** Mid-range and budget phones are seeing margin compression as manufacturers absorb costs or pass them through
 - **Laptops and AI PCs:** Memory represents a significant portion of AI PC bill-of-materials; several manufacturers have raised prices or reduced default RAM configurations
-- **Gaming consoles:** Sony and Nintendo have not announced price changes but are facing the same supply dynamics
+- **Gaming consoles:** Sony has raised the price of PS5 consoles twice, and Microsoft has done the same for its Xbox consoles
 - **Industrial and automotive:** Higher-margin categories where memory cost increases are more easily absorbed but still impactful
 
 The interconnection between AI infrastructure spending and consumer device pricing has rarely been so visible. When frontier AI companies collectively spend hundreds of billions on compute, they create demand shocks that propagate through the supply chain in ways that raise the price of an unrelated consumer product on the other side of the market.
 
 ## What's Next for Quest
 
-Meta has given no indication of when Quest 4 might arrive. The Quest 3 launched in late 2023, making it nearly three years old as of this writing — a long product cycle in the consumer electronics market. Rumors of a successor have circulated for months, but Meta's public focus has been on AI-powered features and mixed-reality applications rather than hardware refreshes.
+The Quest 3 launched in late 2023, making it nearly three years old as of this writing — a long product cycle in the consumer electronics market. Rumors of a successor have circulated for months, but Meta's public focus has been on AI-powered features and mixed-reality applications rather than hardware refreshes.
 
 For consumers weighing a purchase, the calculus is now more complicated. The Quest 3 at $599 is still arguably the best value in standalone VR. But $100 more buys a lot of hesitation, particularly when a newer model may be on the horizon. The Quest 3S at $350 remains competitive as an entry-level option, but the $50 increase stings in a category where every dollar of price point matters for mainstream adoption.
 
 Meta has not announced any bundled promotions or financing options to offset the price increases. For a division that has yet to turn a profit despite half a decade of investment, the combination of rising input costs and weakening consumer appetite represents exactly the kind of compounding pressure that makes the road to VR mainstream adoption feel longer than ever.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

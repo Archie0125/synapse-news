@@ -1,8 +1,9 @@
 ---
 title: "Cursor's Origin: The Git Platform Built for Dozens of AI Agents Running in Parallel"
-summary: "Cursor launched Origin on June 17 — a full Git hosting platform designed to rival GitHub and built from the ground up for AI-agent parallelism. Capable of handling 22 commits per second per repository and 300,000 clones per hour, with AI-powered merge conflict resolution, Origin represents the missing infrastructure layer in the SpaceX/xAI/Cursor developer stack and the opening shot in a platform war against Microsoft's GitHub."
+summary: "Cursor announced Origin in mid-June — a Git hosting platform designed to rival GitHub and built for AI-agent parallelism. Shown handling about 22 commits per second on a single repository and roughly 300,000 clones per hour, with AI-powered merge conflict resolution, Origin is expected to launch in fall 2026."
 category: "developer-tools"
 publishedAt: 2026-06-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,9 +33,9 @@ relatedSlugs:
   - "2026-04-04-cursor-devin-war-en"
 ---
 
-Cursor started as a VS Code fork with smarter autocomplete. In 2025 it acquired Graphite, a code review startup. On June 17, 2026 — four days after SpaceX signed a $60 billion agreement to buy the company — Cursor launched Origin: a full Git hosting platform and a direct competitor to GitHub.
+Cursor started as a VS Code fork with smarter autocomplete. In 2025 it acquired Graphite, a code review startup. In mid-June 2026, just days after SpaceX signed a $60 billion agreement to buy the company, Cursor announced Origin: a Git hosting platform and a direct competitor to GitHub, with a waitlist open and a launch expected this fall.
 
-The arc of that journey is now complete. Editor. Review. Hosting. The SpaceX/xAI/Cursor entity has assembled a full-stack developer environment that doesn't need Microsoft for anything in the core development workflow.
+The arc of that journey looks set to be completed. Editor. Review. Hosting. With Origin, Cursor is aiming to cover the whole workflow, from writing code to hosting it, and to reduce reliance on Microsoft.
 
 ## Why Now, and Why GitHub
 
@@ -49,7 +50,6 @@ GitHub can technically handle individual git operations at high frequency. What 
 Cursor demonstrated Origin's throughput figures on stage at launch:
 
 - **~22 commits per second** within a single repository
-- **~300,000 clones per hour** across the platform
 - **Tens of thousands of pushes per hour**
 
 These aren't abstract scale claims. They're the operational profile of a repository being actively worked by a large fleet of AI coding agents — the same agents that Cursor's own editor orchestrates, that Codex runs as autonomous cloud tasks, and that the joint Cursor-xAI coding model (currently in training) is designed to power.
@@ -66,9 +66,9 @@ The underlying model powering this is described as jointly developed by Cursor a
 
 ## Standard Git, Low Switching Costs
 
-Origin supports standard Git protocols. Existing GitHub repositories can be mirrored or migrated without changes to developer git workflows. Cursor says GitHub Actions workflows are compatible with minor adaptation; GitHub-specific API integrations (Issues, Projects, Packages) aren't natively compatible, and Cursor is building Origin-native equivalents.
+Cursor says GitHub Actions workflows are compatible with minor adaptation; GitHub-specific API integrations (Issues, Projects, Packages) aren't natively compatible, and Cursor is building Origin-native equivalents.
 
-The migration path is deliberately frictionless. You can add an Origin remote and start pushing today. You don't need to move your CI/CD pipeline, your issue tracker, or your team's pull request workflow on day one. This is the same land-and-expand playbook that GitHub used to displace SourceForge and Bitbucket: make the core hosting simple to adopt, then gradually absorb the surrounding tooling.
+You don't need to move your CI/CD pipeline, your issue tracker, or your team's pull request workflow on day one. This is the same land-and-expand playbook that GitHub used to displace SourceForge and Bitbucket: make the core hosting simple to adopt, then gradually absorb the surrounding tooling.
 
 The strategy assumes that developers who use Cursor as their primary IDE will find it natural to also use Origin for hosting — closing the loop between where they write code and where they store it, without leaving the Cursor ecosystem.
 
@@ -102,3 +102,5 @@ An x account observation from launch week summarized the timeline cleanly:
 That arc didn't happen by accident. It reflects a deliberate strategy to control every layer of the development workflow — from the moment a developer types a line of code to the moment it's stored, reviewed, and deployed. Whether the end state serves developers or primarily serves SpaceX's platform ambitions is the question that will take years to answer.
 
 What's clear today is that GitHub has its first serious institutional challenger in over a decade, and it's coming from inside the AI coding ecosystem that GitHub itself enabled.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

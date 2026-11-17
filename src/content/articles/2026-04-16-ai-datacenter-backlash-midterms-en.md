@@ -1,8 +1,9 @@
 ---
 title: "Trump and Tech Giants Sign Pledge to Defuse AI Data Center Voter Fury Ahead of Midterms"
-summary: "With electricity bills rising and community opposition spreading across 24 states, President Trump and major tech CEOs have signed a commitment to make AI companies pay for their own power — a political pivot forced by voter anger that has already delivered midterm-election losses to incumbents in New Jersey, Virginia, and Georgia."
+summary: "With electricity bills rising and community opposition spreading, several major data center developers signed a White House pledge to cover the full cost of the new generation they need."
 category: "policy"
 publishedAt: 2026-04-16T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,9 +31,7 @@ relatedSlugs:
   - "2026-04-16-stanford-ai-index-2026-en"
 ---
 
-In a sign of how dramatically the political calculus around AI infrastructure has shifted, President Donald Trump and seven of the nation's largest technology companies signed a joint pledge on Wednesday committing AI firms to purchase or generate their own electricity — rather than drawing from the same utility grids that power American homes. The signatories included AWS CEO Matt Garman, Google President Ruth Porat, Meta President Dina Powell, Microsoft President Brad Smith, OpenAI COO Brad Lightcap, Oracle CEO Clay Magouyrk, and xAI's Gwynne Shotwell.
-
-The pledge, reported by Bloomberg on April 16, marks a striking reversal for an administration that spent its first year treating AI data center construction as an economic triumph to be celebrated, not a public-utility crisis to be managed.
+In a sign of how the political calculus around AI infrastructure has shifted, several major data center developers signed the Ratepayer Protection Pledge with the White House on March 4, 2026, committing to cover the full cost of the new electric generation they need. The signatories included AWS CEO Matt Garman, Google President Ruth Porat, Meta President Dina Powell, Microsoft President Brad Smith, OpenAI COO Brad Lightcap, Oracle CEO Clay Magouyrk, and xAI's Gwynne Shotwell.
 
 ## The Electricity Bill That Changed Everything
 
@@ -50,19 +49,19 @@ The geography of resistance is broad. Activist groups have organized across at l
 
 In Pennsylvania, a community of 7,000 people called Archbald has faced proposals for half a dozen data centers simultaneously. Residents there report alarm about environmental impacts, utility bills, and what they describe as the erasure of their town's character. "We didn't vote for this," one resident told CBS News.
 
-The irony is not lost on observers: some communities are now using AI-powered organizing tools — automated phone trees, petition drafting assistants, social media targeting — to coordinate resistance against AI data centers.
+The irony is not lost on observers: some residents are using generative AI tools, such as ChatGPT to write records requests and AI to transcribe meeting minutes and research legal questions, to fight data centers.
 
-## Maine Goes First, Congress Stirs
+## Maine Moves First, Congress Stirs
 
-Maine became the first state to adopt a statewide moratorium on large data center projects in early April, with the pause scheduled to remain in effect until October 2027. The moratorium creates a regulatory gap during which Maine will assess the cumulative environmental and infrastructure impact of data center development.
+Maine's legislature has passed a statewide moratorium on large data center projects that would pause them until October 2027, and the bill was awaiting Governor Janet Mills' approval. The moratorium creates a regulatory gap during which Maine will assess the cumulative environmental and infrastructure impact of data center development.
 
-At the federal level, Senators Bernie Sanders and Representative Alexandria Ocasio-Cortez co-sponsored the AI Data Center Moratorium Act in late March 2026, which would temporarily pause construction of new large-scale AI data center facilities nationwide pending a comprehensive energy and environmental impact review. The bill is unlikely to pass the Republican-controlled Congress, but it serves as a political marker and has given momentum to state-level efforts.
+At the federal level, Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced the AI Data Center Moratorium Act in late March 2026, which would temporarily pause new AI data centers, giving lawmakers and communities time to consider infrastructure, environmental and utility impacts. The bill is unlikely to pass the Republican-controlled Congress, but it serves as a political marker and has given momentum to state-level efforts.
 
 Republican-governed states are navigating a more uncomfortable contradiction: many are eager to attract the investment and tax revenue that data centers bring, yet their constituents are among those most affected by rising utility costs.
 
 ## What the Tech Pledge Actually Commits To
 
-The language of the Wednesday pledge is aspirational rather than legally binding. Signatories commit to pursuing power purchase agreements for dedicated generation capacity — solar, wind, nuclear, or natural gas — sufficient to cover their expected data center load over a defined time horizon. The White House has described the commitment as "historic."
+The pledge has no legal enforcement method. Signatories commit to pursuing power purchase agreements for dedicated generation capacity — solar, wind, nuclear, or natural gas — sufficient to cover their expected data center load over a defined time horizon. The White House has described the commitment as "historic."
 
 Critics note that the timeline for bringing new dedicated generation online runs to years, not months, and that grid impacts from existing data center loads will continue to affect utility bills throughout that period. The pledge also contains no mechanism for compensating communities already experiencing rate increases from past data center construction. Environmental groups have pointed out that "purchasing" power from new fossil fuel generation that gets added to the grid is, from a grid-impact perspective, functionally equivalent to drawing directly from the existing grid — and that nuclear and utility-scale solar projects face multi-year permitting challenges of their own.
 
@@ -75,3 +74,5 @@ Behind the politics lies a structural challenge that no pledge resolves. The Uni
 ASML, the Dutch semiconductor lithography company that supplies critical equipment for advanced chip manufacturing, raised its 2026 revenue outlook this week on the strength of accelerating AI data center investment — a signal that the underlying demand is not abating regardless of the political pressure. The data centers will be built. The question is who pays for the grid capacity to power them, and what political price elected officials extract in the process.
 
 That calculation now sits at the center of the 2026 midterm landscape in a way that seemed improbable when the AI infrastructure boom was announced with so much fanfare fourteen months ago. The most surprising thing about the backlash may not be its intensity, but how long it took Washington to take it seriously.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

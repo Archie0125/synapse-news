@@ -3,6 +3,7 @@ title: "Theker Raises $85M in Europe's Largest-Ever Robotics Series A to Build R
 summary: "Barcelona-based AI robotics startup Theker has closed an $85 million Series A — the largest of its kind in European robotics history — led by CRV with backing from Samsung and LVMH's investment vehicle Aglaé Ventures. The company builds reconfigurable factory robots whose hands and arms can be physically swapped to handle wildly different tasks, targeting the chaotic real-world manufacturing conditions that rigid automation has always failed to address."
 category: "hardware"
 publishedAt: 2026-06-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -56,7 +57,7 @@ The composition of Theker's investor syndicate is as revealing as the round size
 
 LVMH's involvement through Aglaé Ventures reflects a different strategic logic. The luxury group manages production of extraordinarily diverse high-end goods — from handbags to cognac bottles to cosmetics — where batch sizes are small, quality requirements are exacting, and the cost of damaging product is high. Rigid automation has historically been a poor fit for this kind of production. Theker's reconfigurable model addresses that gap directly.
 
-Perhaps most significant is the continued backing of Inditex. Zara's parent company processes over 450 million garments annually across dozens of markets, with fashion cycles that have compressed from two seasons per year to near-continuous design refreshes. The company's logistics and fulfillment operations are among the most demanding in global retail, and Inditex's early bet on Theker as both investor and customer gives the startup a reference account that few European robotics companies have matched.
+Perhaps most significant is the continued backing of Inditex. Zara's parent company processes over 450 million garments annually across dozens of markets, with fashion cycles that have compressed from two seasons per year to near-continuous design refreshes. The company's logistics and fulfillment operations are among the most demanding in global retail, and Inditex, which signed on as an early backer, has Theker robots running inside its live production facilities.
 
 ## Europe's Robotics Gap — and Why Barcelona
 
@@ -72,10 +73,12 @@ One of Theker's most explicit strategic choices is what it doesn't do: pilot pro
 
 The company operates a showroom facility in Barcelona where potential customers can run their specific production tasks on Theker hardware before signing contracts. This shortens the evaluation cycle significantly compared to the typical robotics procurement process, where site visits, integration studies, and safety certifications can stretch for more than a year.
 
-The Series A funding will be used to accelerate deployments with tier-one industrial operators, expand Theker's AI and robotics stack, and grow headcount across software, electronics, mechanical engineering, and deployment teams. The company is planning expansion across Europe, the United States, and Asia in the next 18 months.
+The Series A funding will be used to accelerate deployments with tier-one industrial operators, expand Theker's AI and robotics stack, and grow headcount across software, electronics, mechanical engineering, and deployment teams. The company plans to open more showrooms as it expands across Europe, the United States, and Asia.
 
 ## The Broader Inflection
 
 Theker's raise arrives at a moment of unusual intensity in physical AI investment. Industrial automation spending globally is accelerating as manufacturers in developed economies contend with persistent labor shortages, supply chain localization pressures, and margin compression that makes human labor increasingly uneconomical for repetitive tasks.
 
 The question the company must answer over the next few years is whether reconfigurable hardware at scale can match the throughput and reliability of dedicated fixed automation. If Theker can demonstrate 95%+ uptime and competitive cycle times across diverse task types, it will have cracked a manufacturing problem that has resisted automated solutions for decades — and earned every dollar of its record-breaking round.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

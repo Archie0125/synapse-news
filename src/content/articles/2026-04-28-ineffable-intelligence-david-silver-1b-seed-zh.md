@@ -1,8 +1,9 @@
 ---
 title: "前DeepMind研究員David Silver募得11億美元，要打造不靠人類數據就能自學的AI"
-summary: "AlphaGo與AlphaZero的核心架構師David Silver正式宣布創立Ineffable Intelligence，這家倫敦AI實驗室以51億美元估值完成了歐洲史上最大種子輪融資，金額高達11億美元。公司的目標直指「超級學習者」——一套完全透過自身經驗習得知識的AI系統，不仰賴任何人類生成的訓練資料，最終目標是「與超級智能建立第一次接觸」。"
+summary: "DeepMind強化學習團隊前負責人David Silver宣布創立Ineffable Intelligence，這家倫敦AI實驗室以51億美元估值完成了歐洲史上最大種子輪融資，金額高達11億美元。公司的目標直指「超級學習者」——一套從自身經驗中發現所有知識、而非依賴人類數據的AI系統，最終目標是「與超級智能建立第一次接觸」。"
 category: "ai-ml"
 publishedAt: 2026-04-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -29,15 +30,15 @@ relatedSlugs:
 
 今年AI領域最重磅的一筆賭注，或許不是從舊金山下的，而是來自倫敦。
 
-4月27日，星期一，Google DeepMind強化學習部門前負責人David Silver——正是他設計出擊敗圍棋世界冠軍的AlphaGo、無師自通學會西洋棋的AlphaZero——走出隱身狀態，宣布創立新公司**Ineffable Intelligence**，並帶著11億美元（約新台幣357億元）的種子輪資金公開亮相。
+星期一，DeepMind前研究員、曾領導其強化學習團隊的David Silver宣布創立新公司**Ineffable Intelligence**，並帶著11億美元的種子輪資金公開亮相。
 
-這輪融資由Sequoia Capital與Lightspeed Venture Partners共同領投，參投方包括輝達（Nvidia）、Google、Index Ventures、DST Global、BOND、EQT，以及英國政府旗下的主權AI基金（Sovereign AI Fund）。公司估值達51億美元，正式成為一家在發布任何產品之前便已多次超越獨角獸門檻的AI實驗室。
+這輪融資由Sequoia Capital與Lightspeed Venture Partners共同領投，參投方包括輝達（Nvidia）、Google、Index Ventures和DST Global，以及英國的Sovereign AI Fund。公司估值達51億美元，成為所謂的「五角獸」（估值逾50億美元），而公司成立僅數月。
 
-這也是歐洲科技業史上金額最大的種子輪融資，紀錄甫創立便遙遙領先其他競爭者。
+據該公司表示，這是歐洲史上最大的種子輪融資。
 
 ## 「經驗時代」的超級學習者
 
-Silver在DeepMind深耕逾十年。在他主導下，DeepMind的系統學會了比任何人類更出色地玩Atari遊戲，以令圍棋九段大師瞠目結舌的方式征服圍棋，最終更透過AlphaFold解開了困擾生物學數十年的蛋白質結構預測難題。
+Silver在DeepMind任職逾十年，直到不久前仍領導強化學習團隊。在DeepMind期間，Silver參與開發了純粹透過經驗學習、擊敗職業棋士的西洋棋與圍棋程式，包括AlphaZero，同時也是包括AlphaGo在內的Alpha系列背後的主要研究者之一。
 
 這些成就的共同底色是一個字：**經驗**（experience）。不是模仿人類，不是爬梳網路文字，不是人工標注——而是讓系統在環境中不斷互動、試錯，自行摸索什麼可行、什麼不可行。這套學習範式的理論基礎正是強化學習（Reinforcement Learning，RL），而Silver相信，這個領域的潛力才剛剛開始被挖掘。
 
@@ -55,13 +56,13 @@ Ineffable的誕生，恰好對應了三項讓Silver的長期信念終於變得�
 
 **第三，模仿範式的極限之爭。** 多年來，LLM批評者一直指出：訓練系統預測「下一個token」只能逼近人類智能，永遠無法超越訓練數據所設定的上限。強化學習在理論上不存在這個天花板——AlphaGo超越了人類有史以來最強的圍棋選手，恰恰因為它從來不是在模仿任何人。
 
-選擇倫敦，是深思熟慮的結果。Silver與共同創辦人——DeepMind系的Wojciech Czarnecki、Lasse Espeholt和Junhyuk Oh——都在英國，希望就地建立公司。英國政府為留住前沿AI人才不再出走加州，透過英國商業銀行旗下的主權AI基金直接注資參與了這輪融資。
+選擇倫敦，是深思熟慮的結果。Silver與共同創辦人——DeepMind系的Wojciech Czarnecki、Lasse Espeholt和Junhyuk Oh——都在英國，希望就地建立公司。Sovereign AI是英國近期成立的AI主權創投基金。
 
 ## 投資人的邏輯
 
-Sequoia在公司尚無任何公開模型、無任何基準測試成績、無任何收入的情況下，便以51億美元估值共同領投，這筆賭注更多是押在David Silver這個人身上，而非某一具體技術規格。
+Sequoia以51億美元估值共同領投這輪融資，而這家公司成立僅數月。
 
-Sequoia合夥人在罕見的公開聲明中，稱Ineffable為「經驗時代的超級學習者」，並將Silver整個職業生涯定性為對同一個核心原則的持續驗證：「自我博弈與從經驗中學習，比模仿更具可擴展性。」AlphaGo、AlphaZero、AlphaFold並非三個孤立的成就，而是Silver幾十年如一日沿著同一條研究軌跡走下去的里程碑。
+該文回顧了Silver從AlphaGo、AlphaGo Zero、AlphaZero、AlphaStar到AlphaProof的職涯，稱這是他畢生投入打造的一脈傳承。
 
 輝達的參投格外值得關注。作為同時投資OpenAI、Anthropic、Mistral和十幾家前沿AI實驗室的晶片巨頭，輝達極少在這麼早期的階段下注。這一動作既傳遞商業訊號——Silver的RL系統將需要海量GPU算力——也體現了輝達在AI版圖快速重塑時期，確保與每一個潛在突破性玩家保持關係的戰略布局。
 
@@ -77,4 +78,6 @@ Silver對此問題的答案——「超級學習者」架構——尚未有公�
 
 可以確定的是，AI產業的重心正在移動。一年前，主流範式是「規模」：更大的語言模型、更多的token、更大的算力集群。而今，由11億美元機構資本和一位業界最具聲望的研究者背書的一派力量，開始押注：下一個突破不會來自「模仿的規模化」，而會來自「經驗的自主積累」。
 
-Silver將Ineffable定義為「我一生的工作」，並說這個世界需要一個「讓強化學習範式的全部雄心得以自由伸展的地方」。這個地方，就是本週在倫敦誕生的這家億級估值AI實驗室。
+Silver曾稱Ineffable是他畢生的事業。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 17 處。*

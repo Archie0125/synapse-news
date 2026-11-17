@@ -3,6 +3,7 @@ title: "South Korea Mobilizes $880 Billion in Its Biggest-Ever Bet on AI and Sem
 summary: "South Korean President Lee Jae-myung unveiled a ₩1,350 trillion ($880 billion) 10-year investment plan on June 29 covering semiconductor fabs, AI data centers, and robotics — with Samsung and SK Hynix each building two new foundries and the plan facing serious power and water constraints."
 category: "policy"
 publishedAt: 2026-07-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -36,9 +37,9 @@ The scale is staggering. For context, South Korea's entire GDP in 2025 was rough
 
 ## What the $880 Billion Actually Buys
 
-The plan's largest component, approximately ₩800 trillion ($518 billion), goes toward building four new semiconductor fabrication plants. Samsung and SK Hynix will each operate two, all four sited in southwest South Korea — a clustering designed to build a domestic supply chain ecosystem rather than scattering production across regions.
+Samsung Electronics and SK Hynix will invest approximately ₩800 trillion ($518 billion) with suppliers to build new chip fabrication sites, according to Industry Minister Kim Jung-kwan. Samsung and SK Hynix will build two new chip fabrication sites each, all in South Korea's southwest, which Lee said is partly meant to use the region's rich, untapped power resources.
 
-The remainder of the package covers AI data center expansion and robotics manufacturing infrastructure. South Korean officials have characterized this as extending the country's dominance in memory chips into the compute infrastructure that AI demands: the same companies that make the high-bandwidth memory (HBM) enabling today's AI accelerators will now also power the data centers running AI workloads.
+The package also covers a chip-packaging cluster, AI data centers and robotics. South Korean officials have characterized this as extending the country's dominance in memory chips into the compute infrastructure that AI demands: the same companies that make the high-bandwidth memory (HBM) enabling today's AI accelerators will now also power the data centers running AI workloads.
 
 Samsung alone has committed more than $70 billion in capital expenditure for 2026, the largest single-year figure in the company's history, to advance production and research across its semiconductor divisions. SK Hynix, which has emerged as the world's leading HBM supplier to Nvidia, is investing heavily in its Icheon campus to ramp HBM4 capacity ahead of Nvidia's Vera Rubin GPU generation.
 
@@ -48,15 +49,15 @@ Timing is everything. South Korea's announcement came as Nvidia's next-generatio
 
 The competitive pressure is acute on both flanks. In the United States, the CHIPS and Science Act has channeled over $50 billion into reviving domestic semiconductor manufacturing, with TSMC's Arizona fabs now in volume production and Intel's new fabs coming online later in 2026. In China, state-backed chip programs have produced domestically manufactured AI accelerators that appear — at least in some configurations — capable of training frontier models without Nvidia hardware, as Zhipu AI's GLM-5.2 demonstrated this June.
 
-"The next AI race will not be won in software alone," said Lee Jae-myung at the announcement ceremony. "Whoever controls the hardware stack will shape what AI can do and who can access it."
+"We must secure the core elements of AI faster than any other country," Lee said in a televised address.
 
 ## The Power and Water Problem
 
-Not everyone in Seoul is celebrating. Engineers and infrastructure analysts have quickly flagged a significant constraint that the political spectacle did not address: each planned semiconductor megacluster requires approximately a quarter of Seoul's total current power demand. Building four simultaneously — even phased over a decade — will strain South Korea's electrical grid in ways that no policy announcement can resolve through rhetoric alone.
+Not everyone in Seoul is celebrating. A National Assembly Research Service report has flagged a significant constraint: the Yongin semiconductor complex, the Samsung and SK Hynix megacluster in Gyeonggi Province, is estimated to require 15 to 16 GW at full operation, close to 25% of total Seoul-metropolitan power demand.
 
 South Korea currently generates about 50% of its electricity from natural gas and coal, with nuclear contributing around 30% and renewables the rest. Semiconductor fabs require ultra-stable, uninterrupted power — the kind of consistency that coal and gas plants can provide but that wind and solar cannot without expensive storage infrastructure.
 
-Water is an equally thorny issue. Advanced chip manufacturing consumes extraordinary volumes of ultra-pure water. The southwest South Korean sites identified for the four new fabs draw from river systems that also serve large agricultural regions. Analysts at Tom's Hardware have noted that the environmental permitting challenges alone could push the first new fab online several years beyond the plan's stated targets.
+Water is an equally thorny issue. Advanced chip manufacturing consumes extraordinary volumes of ultra-pure water. The southwest South Korean sites identified for the four new fabs draw from river systems that also serve large agricultural regions. Tom's Hardware reported that local water disputes have already stalled pipeline permits, and that water may prove harder to secure than power for the new southwestern cluster near Gwangju.
 
 ## South Korea's Strategic Calculation
 
@@ -72,6 +73,8 @@ For the hyperscalers — Amazon, Google, Microsoft, and Meta — who are collect
 
 For Taiwan Semiconductor Manufacturing Company (TSMC), the plan is more nuanced. South Korea is not trying to replicate TSMC's leading-edge logic capabilities; Samsung's foundry business has struggled to close the gap with TSMC at the 2nm and below nodes. The focus here is squarely on memory — HBM, DRAM, and NAND — where Samsung and SK Hynix dominate markets that TSMC does not serve.
 
-For the broader AI economy, the more important question is timeline. If the four new fabs come online on schedule — which infrastructure analysts say is optimistic given permitting and power challenges — they would begin volume production between 2029 and 2032. That is the window when frontier AI model training is expected to require HBM quantities far beyond current industry capacity.
+For the broader AI economy, the more important question is timeline. For the broader AI economy, the more important question is timeline. Bank of America has noted that the industrial cluster won't produce meaningful output until 2033 at the earliest. That is the window when frontier AI model training is expected to require HBM quantities far beyond current industry capacity.
 
 South Korea is, in effect, placing a multi-decade bet that AI's demand for memory will keep compounding — and that the company best positioned to supply that memory will help write the rules of the AI era.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

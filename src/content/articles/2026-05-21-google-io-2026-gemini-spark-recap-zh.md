@@ -3,6 +3,7 @@ title: "Google I/O 2026：Gemini Spark 永不停機的 AI 代理、Omni 世界�
 summary: "Google I/O 2026 大會推出了 Gemini 3.5 Flash（速度快 4 倍、成本更低）、全天候背景代理 Gemini Spark、多模態世界模型 Gemini Omni，以及月費 100 美元的 AI Ultra 方案。這場發表會傳遞了一個清晰訊號：Google 要同時贏得最便宜和最強大這兩場仗。"
 category: "ai-ml"
 publishedAt: 2026-05-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: false
@@ -33,7 +34,7 @@ relatedSlugs:
 
 ## Gemini 3.5 Flash：旗艦效能、Flash 定價
 
-本場最核心的模型發表是 Gemini 3.5 Flash。Google 主張這款「輕量」模型在程式碼編寫與代理任務基準測試上，實際超越了上一代旗艦 Gemini 3.1 Pro，同時運行速度快約 4 倍。
+本場最核心的模型發表是 Gemini 3.5 Flash。據 Google 表示，Gemini 3.5 Flash 在高難度的程式碼編寫與代理任務基準測試上表現超越 Gemini 3.1 Pro，且 Google 稱其運行速度比同級前沿模型快約 4 倍。
 
 定價方面：每百萬輸入 token 1.50 美元、每百萬輸出 token 9.00 美元，快取輸入為每百萬 0.15 美元。這約是 Gemini 3 Flash 定價的 3 倍，但 Google 認為，由於模型本身需要更少 token 完成複雜任務，整體使用成本依然具有競爭力。
 
@@ -59,9 +60,9 @@ Google 同時發表了 Gemini Omni，將其定位為「世界模型」，而不�
 
 ## AI Ultra 月費 100 美元：瞄準頂級用戶
 
-訂閱架構也全面翻新。Google 推出月費 100 美元的 AI Ultra，以更清晰的兩層結構取代舊有的 AI One 和 AI Premium 方案。AI Ultra 包含比 20 美元 AI Pro 方案高出 5 倍的使用限額、20TB 的 Google One 雲端儲存空間、YouTube Premium 會員，以及 Gemini Spark 的 Beta 使用權。
+Google 也新增了一個訂閱方案。Google 推出全新的 100 美元 AI Ultra 方案，鎖定開發者、技術主管、知識工作者與進階創作者。該方案在 Gemini 應用程式與 Antigravity 中的使用限額比 AI Pro 方案高出 5 倍，並提供 20TB 雲端儲存空間。
 
-這讓 Google 與 OpenAI 月費 200 美元的 ChatGPT Pro 直接交鋒——Google 的定價是後者的一半。這也隱含著一個訊號：Google 有能力以規模優勢補貼高端 AI 服務，而這正是同時擁有全球最大雲端和搜尋業務的結構性紅利。
+這讓 Google 與 OpenAI 月費 200 美元的 ChatGPT Pro 直接交鋒——Google 的定價是後者的一半。
 
 ## Managed Agents API：給開發者的基礎設施層
 
@@ -78,3 +79,5 @@ Google、OpenAI、Anthropic 的高層都愈來愈直接地說：前沿競賽已�
 真正的考驗現在才開始。Gemini Spark 會不會在無人監督的情況下確實完成任務？Gemini Omni 的影片品質能否媲美 Sora、Runway 和 Kling？Gemini 3.5 Flash 會不會成為開發者構建下一代 AI 應用時的預設選擇？
 
 Google 已備齊所有棋子。整盤棋局的勝負，取決於執行力——而這，正是 Google 在消費者 AI 領域長期以來的最大罩門。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 5 處。*

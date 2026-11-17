@@ -1,8 +1,9 @@
 ---
 title: "Baseten Raises $1.5B at $13B Valuation as AI Inference Becomes Its Own Infrastructure War"
-summary: "Baseten closed a $1.5 billion Series F led by Altimeter Capital, vaulting its valuation from $5 billion to $13 billion in under five months. The San Francisco startup now processes over one billion AI inference calls daily across 87 global clusters, with revenue growing 20x year-over-year as enterprises shift 30–50% of model spend toward custom post-trained models."
+summary: "Baseten is reportedly finalizing a $1.5 billion round at a valuation of up to $13 billion, up from $5 billion five months ago."
 category: "startups"
 publishedAt: 2026-07-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -25,9 +26,9 @@ relatedSlugs:
   - "2026-07-03-together-ai-800m-series-c-open-source-cloud-en"
 ---
 
-Baseten has closed a $1.5 billion Series F financing that values the San Francisco AI inference company at $13 billion — a 160 percent leap from the $5 billion valuation attached to its $300 million Series E just five months ago. The round was led by Altimeter Capital, Conviction, and Spark Capital, with Sands Capital and Wellington Management serving as co-leads, and a roster of institutional investors including IVP, Greylock, 01A, Blackbird, Durable Capital Partners, Verified Capital, Battery Ventures, and D. E. Shaw Ventures also participating. Baseten's total capital raised now exceeds $2 billion.
+Baseten is close to finalizing a $1.5 billion funding round that values the AI inference company at up to $13 billion, according to the Wall Street Journal, a 160 percent jump from the $5 billion valuation attached to its $300 million Series E five months ago. The round is a split-priced deal, with some investors reportedly coming in at $13 billion and others at $11 billion, and it is said to be co-led by Spark Capital, Sands Capital, Altimeter Capital, and Wellington Management. E. Shaw Ventures also participating.
 
-The numbers behind the raise are striking. The company processes more than one billion AI inference calls per day, runs 87 clusters across 18 cloud providers worldwide, and has grown revenue approximately 20x year-over-year. Its annualized revenue run rate climbed from roughly $200 million in December 2025 to approximately $600 million by March 2026 — a pace that, if sustained, would put Baseten in the company of venture-backed software businesses that almost never exist outside of spreadsheets.
+The numbers behind the raise are striking. The company sources computing from more than 20 cloud providers, according to the Wall Street Journal. Its annualized revenue run rate climbed from roughly $200 million in December 2025 to approximately $600 million by March 2026 — a pace that, if sustained, would put Baseten in the company of venture-backed software businesses that almost never exist outside of spreadsheets.
 
 ## Why Inference Has Become Its Own Infrastructure Layer
 
@@ -60,3 +61,5 @@ Baseten does not operate in a vacuum. The inference infrastructure market includ
 What differentiates Baseten's positioning is its emphasis on the systems software layer above raw compute. The company does not primarily sell GPU-hours; it sells the operational infrastructure that makes GPU-hours usable in production. That distinction matters increasingly as the market matures. In the early years of cloud computing, buying compute was the purchase. As cloud matured, the value migrated toward managed services, databases, queues, and observability tools — the software that made compute reliable and operable at scale. The inference infrastructure market appears to be following a similar arc, compressing what once took years in cloud into a much shorter window.
 
 At $13 billion and $600 million annualized run rate, Baseten is being valued at roughly 22 times revenue — a premium multiple that implies investors expect the company to either sustain its extraordinary growth rate or expand into adjacent markets as the inference infrastructure layer consolidates. Both scenarios require execution that the company has so far demonstrated it can deliver.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "White House Races to Finalize Voluntary AI Release Standards With OpenAI, Google, and Anthropic"
-summary: "The Trump administration is in advanced talks with the three dominant frontier AI labs to establish voluntary pre-release testing standards for frontier models, with an announcement expected as soon as next week. The framework would require up to 30 days of government security review before new models ship, marking the most significant U.S. AI governance intervention since the Biden-era voluntary commitments."
+summary: "The Trump administration is in advanced talks with AI companies to establish voluntary standards for the release of new frontier models, with an announcement possible as soon as next week."
 category: "policy"
 publishedAt: 2026-07-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,15 +32,15 @@ relatedSlugs:
   - "2026-06-30-colorado-ai-act-amended-delayed-2027-en"
 ---
 
-The Trump administration is in the final stretch of negotiations with the three companies that dominate frontier AI development — OpenAI, Google, and Anthropic — to establish a voluntary framework for pre-release testing of advanced AI models, according to reporting by the Financial Times and Bloomberg. An announcement is expected as early as the week of July 7, making it potentially the most consequential U.S. AI governance move since the Biden administration's voluntary commitments from leading labs in July 2023.
+The Trump administration is in advanced talks with OpenAI, Google, and Anthropic to establish voluntary standards for the release of advanced AI models, according to reporting by the Financial Times. An announcement is possible as soon as next week.
 
-The proposed framework, emerging from a June executive order on AI oversight, would give the federal government up to 30 days to review the national security implications of a new frontier model before it is publicly released. Participation by AI developers is described as voluntary — a legally significant distinction in a political environment where mandatory AI regulation remains contentious — but people familiar with the talks say the framework carries significant informal weight: companies that opt out risk losing access to government cloud contracts, federal AI procurement, and the favorable regulatory treatment that has so far shielded the industry from heavier intervention.
+The proposed framework follows a June executive order that directs agencies to design a voluntary framework under which developers could give the federal government access to covered frontier models for up to 30 days before releasing them to other trusted partners. Participation by AI developers is described as voluntary — a legally significant distinction in a political environment where mandatory AI regulation remains contentious — but people familiar with the talks say the framework carries significant informal weight: companies that opt out risk losing access to government cloud contracts, federal AI procurement, and the favorable regulatory treatment that has so far shielded the industry from heavier intervention.
 
 ## What the Framework Would Require
 
-Under the proposed standards, an AI company planning to release a model that meets a to-be-defined threshold of capability — likely based on a combination of compute used in training, benchmark performance, and assessed capability in sensitive domains including biology, chemistry, and cyberattack generation — would notify the government within a specified window before public launch.
+Under the proposed standards, benchmarks would set the capability threshold at which a model counts as a frontier model requiring review; the threshold has not been officially defined, though a cybersecurity benchmark is reported to be the operative variable.
 
-During the 30-day review period, technical teams from relevant agencies would assess the model for national security risks. The framework stops short of requiring mandatory modification or blocking of releases — the government's role is described as advisory and flagging, not gatekeeping. But the process creates a formal channel for government security review that has not previously existed in the United States, and sets a precedent that industry lawyers and civil liberties advocates are already scrutinizing carefully.
+During the 30-day review period, technical teams from relevant agencies would assess the model for national security risks. The June executive order states that nothing in its section on secure frontier model deployment authorizes a mandatory governmental licensing, preclearance, or permitting requirement for the release of new AI models. But the process creates a formal channel for government security review that has not previously existed in the United States, and sets a precedent that industry lawyers and civil liberties advocates are already scrutinizing carefully.
 
 The precise threshold at which a model triggers the voluntary review process has been a central sticking point in negotiations. AI companies have pushed for higher thresholds — definitions that would apply only to truly frontier systems and not routinely to incremental updates — while government officials, informed by threat assessments about the pace of capability development, have advocated for lower bars that would capture more releases. As of this writing, that specific number has not been publicly disclosed.
 
@@ -55,7 +56,7 @@ It is also a geopolitical calculation. China's state-directed AI development doe
 
 Each of the three companies at the table brings a different posture to the negotiations.
 
-OpenAI has the most complex position. The company recently offered the U.S. government a 5 percent equity stake in the company as part of its IPO strategy — a move widely interpreted as an attempt to align government interests with the company's financial trajectory. OpenAI has also been the most aggressive in seeking government contracts, including the Department of Defense's AI infrastructure initiatives, and has the most to gain from a framework that codifies its role as a trusted government partner.
+OpenAI has the most complex position. The company has reportedly proposed giving the U.S. government a 5 percent equity stake in the company, and suggested that other U.S. AI companies do the same. OpenAI has also been the most aggressive in seeking government contracts, including the Department of Defense's AI infrastructure initiatives, and has the most to gain from a framework that codifies its role as a trusted government partner.
 
 Google's position is shaped by its enterprise business. Alphabet has tens of billions in annual revenue tied to government cloud contracts, and a framework that gave Google preferential treatment in national security AI deployment would be worth far more than the reputational cost of accepting voluntary pre-release review. Google also carries internal complications: the company's AI safety team has traditionally advocated for stronger governance, while its product teams have focused on rapid deployment to compete with OpenAI.
 
@@ -75,4 +76,6 @@ Civil liberties organizations have raised a third set of concerns. The mechanism
 
 The White House voluntary framework represents a specific American answer to the AI governance question that every major democracy is wrestling with: how do you build oversight mechanisms for technology that is advancing faster than regulatory processes can follow, in a market where the leading companies are American private enterprises, in a geopolitical context where being second is strategically unacceptable?
 
-The answer the administration has arrived at is, essentially, "incorporate the leading companies into the process." Whether that produces genuine safety outcomes, or primarily produces a governance apparatus that legitimizes rapid deployment while providing cover against more aggressive regulation, remains to be seen. What is clear is that the framework's announcement, expected this week, will mark a new chapter in the relationship between the U.S. government and the AI industry — one that both sides have calculated is in their interest to write together.
+The answer the administration has arrived at is, essentially, "incorporate the leading companies into the process." Whether that produces genuine safety outcomes, or primarily produces a governance apparatus that legitimizes rapid deployment while providing cover against more aggressive regulation, remains to be seen. What is clear is that the framework's announcement, possible as soon as next week, would mark a new chapter in the relationship between the U.S. government and the AI industry.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

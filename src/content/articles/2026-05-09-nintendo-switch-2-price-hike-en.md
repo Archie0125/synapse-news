@@ -1,8 +1,9 @@
 ---
-title: "Nintendo Raises Switch 2 Price by $50 Globally, Blaming Tariffs and Trade War"
-summary: "Nintendo has announced a global price increase for the Switch 2, raising the US price from $449.99 to $499.99 effective September 1, 2026. The company cited 'changes in market conditions' — a phrase widely understood to encompass Trump-era tariffs, trade war pressures, and rising memory costs — in what marks the console's first price hike since its 2025 launch."
+title: "Nintendo Raises Switch 2 Prices in the US, Canada, Europe and Japan"
+summary: "Nintendo has announced price increases for the Switch 2, raising the US price from $449.99 to $499.99 effective September 1, 2026. The company cited \"changes in market conditions\" in what marks the console's first price hike since its 2025 launch."
 category: "hardware"
 publishedAt: 2026-05-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 Nintendo delivered unwelcome news to gamers on May 8, announcing that the Switch 2 will become $50 more expensive in the United States starting September 1, 2026. The console, which launched in 2025 at $449.99, will carry a new suggested retail price of $499.99 in the US market — an 11% increase that makes it the most expensive Nintendo home console ever sold at launch configuration.
 
-The price adjustment is global. European pricing on the My Nintendo Store rises from €469.99 to €499.99. Canadian pricing moves from C$629.99 to C$679.99. Japan, where Nintendo's pricing revisions take effect earlier on May 25, will see the standard Switch 2 rise from ¥49,980 to ¥59,980 — a 20% increase that reflects the additional weight of a weakening yen against Nintendo's dollar-denominated component costs.
+The price increases extend beyond the US, and Nintendo says revisions will also be implemented in other regions. European pricing on the My Nintendo Store rises from €469.99 to €499.99. Canadian pricing moves from C$629.99 to C$679.99.
 
 In a terse press release, Nintendo cited "changes in market conditions" as the rationale, without specifying which conditions. No one in the gaming industry needed the explanation spelled out.
 
@@ -41,13 +42,13 @@ The backdrop to Nintendo's announcement is the broader cascade of tariff increas
 
 Nintendo manufactures the Switch 2 primarily in Vietnam, which was partly insulated from the heaviest rounds of China-specific tariffs. But Vietnam itself has faced scrutiny as a potential tariff target, and the global disruption of semiconductor and memory supply chains has elevated component costs regardless of final assembly location. NAND flash prices, which had been recovering from a prolonged downturn in 2023, have remained elevated through 2025 and 2026 as AI-driven demand for storage competes with consumer electronics for the same production capacity.
 
-The timing of Nintendo's announcement lands alongside a wave of similar price adjustments across the gaming hardware landscape. Sony and Microsoft have each made pricing adjustments to their PlayStation 5 and Xbox Series X/S lines in various regional markets over the past 12 months, consistently citing input cost pressures as the driver. What distinguishes Nintendo's move is its breadth — a simultaneous global price increase across multiple currencies rather than market-by-market adjustments — and the magnitude of the Japanese yen adjustment, which suggests Nintendo is absorbing significant currency risk in the interim.
+The timing of Nintendo's announcement lands alongside a wave of similar price adjustments across the gaming hardware landscape. Sony and Microsoft have also raised prices recently, with Sony raising PlayStation 5 prices by more than $100 and Microsoft raising prices for the Xbox Series X and Game Pass. What distinguishes Nintendo's move is its breadth, with price revisions planned across the US, Canada, Europe and Japan, and in other regions.
 
 ## Consumer Impact and the Pre-Hike Window
 
 For consumers who do not yet own a Switch 2, Nintendo's announcement has a practical implication: purchasing before September 1, 2026 secures the original $449.99 price in the United States. The company was transparent about the timeline in its press release, giving buyers a window to act. Retail inventories of Switch 2 hardware, which had stabilized after launch period constraints in 2025, may tighten as consumers rush to beat the deadline.
 
-Nintendo Online membership pricing is also increasing. Annual individual memberships will rise from $19.99 to $24.99, and family memberships will increase proportionally. The online service price hike is smaller in percentage terms than the hardware increase but affects a broader base of existing Switch 2 owners who are already subscribers.
+Nintendo Online membership pricing is also increasing. Nintendo Switch Online prices are also rising in Japan, where the 12-month individual membership goes from ¥2,400 to ¥3,000 and the family membership from ¥4,500 to ¥5,800. The online service price hike is smaller in percentage terms than the hardware increase but affects a broader base of existing Switch 2 owners who are already subscribers.
 
 The stock market reaction was swift. Nintendo's shares fell to a 52-week low following the announcement, as investors weighed the risk that a $499 price point could dampen attach rates for new software and accessories, slow the trajectory of Switch 2 hardware sales into the holiday season, and potentially cede ground to competing entertainment platforms among price-sensitive consumers.
 
@@ -60,3 +61,5 @@ The broader dynamic is one that analysts have been warning about for two years: 
 Nintendo's language — "changes in market conditions" — is deliberately bland. But it encodes a recognition that the company does not expect these conditions to reverse quickly. If Nintendo believed the tariff environment was a temporary disruption that would resolve within months, the rational choice would be to absorb the cost temporarily rather than trigger the PR headache of a public price increase. The decision to raise prices globally, and to do so explicitly in advance with a clear implementation date, signals that Nintendo's supply chain teams see the current cost environment as structural, not cyclical.
 
 For gamers, the practical upshot is simple: the window to buy at the original price is open until September 1. Whether that urgency motivates purchases is a question of individual economics. For the industry, the more significant development is what Nintendo's move signals about the cost envelope that gaming hardware will operate within for the foreseeable future — and what that means for the next console generation, still years away, that will have to be designed and priced in this same environment.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

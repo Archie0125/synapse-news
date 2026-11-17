@@ -3,6 +3,7 @@ title: "OpenAI 攜手 Dell 將 Codex AI 代理延伸到企業內部署環境"
 summary: "OpenAI 與 Dell Technologies 宣佈合作，將 Codex——這個每週擁有逾 400 萬名開發者使用的 OpenAI 旗艦企業產品——部署至 Dell 的 AI 資料平台與 AI 工廠混合及地端基礎架構中。這是 OpenAI 首度明確跨越雲端邊界，攻入金融、醫療、政府等無法將敏感資料外送的受管制產業。"
 category: "developer-tools"
 publishedAt: 2026-05-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -27,13 +28,13 @@ relatedSlugs:
   - "2026-05-13-red-hat-summit-agentic-ai-developer-tools-zh"
 ---
 
-OpenAI 不再只是一個雲端產品。2026 年 5 月 18 日，這家公司宣佈與 Dell Technologies 達成深度合作，將其 AI 程式碼與工作流程自動化代理 Codex，延伸至混合與完全地端（on-premises）的企業環境。對於向來以雲端優先、API 交付模式運作的 OpenAI 而言，Dell 合作案代表著一個重大策略轉向——直指那個龐大的、從未能使用其產品的企業客戶群體。
+OpenAI 不再只是一個雲端產品。OpenAI 與 Dell Technologies 宣佈合作，將 OpenAI 的 AI 程式碼與工作流程代理 Codex，延伸至混合與地端（on-premises）的企業環境。對於向來以雲端優先、API 交付模式運作的 OpenAI 而言，Dell 合作案代表著一個重大策略轉向——直指那個龐大的、從未能使用其產品的企業客戶群體。
 
 ## 合作的具體內容
 
 根據合作協議，Codex 將與 Dell 兩項核心基礎架構產品整合。第一個是 **Dell AI 資料平台（Dell AI Data Platform）**，大型企業用於在地端儲存、組織與管理資料治理。透過連接這個層級，企業能讓 Codex 代理針對內部程式碼庫、資料庫和文件執行任務，而資料完全不需要離開自己的基礎架構。
 
-第二個整合對象是 **Dell AI 工廠（Dell AI Factory）**——Dell 的地端 AI 工作負載基礎架構。這個連結將允許 Codex、ChatGPT Enterprise 以及其他 OpenAI API 解決方案，利用 Dell AI Factory 準備資料、管理系統紀錄、執行自動化測試，以及部署 AI 應用程式——全程在客戶自己的資料中心內完成。
+第二個整合對象是 **Dell AI 工廠（Dell AI Factory）**——Dell 的地端 AI 工作負載基礎架構。雙方也正在探索讓 Codex、ChatGPT Enterprise 以及其他 API 解決方案與 Dell AI Factory 對接的方式，預期這些整合將支援資料準備、系統紀錄管理、測試，以及在混合與地端 Dell 基礎架構環境中部署 AI 應用程式。
 
 此外，合作也讓 Codex 能在企業現有的 Dell 開發者環境中運作，接入工程團隊已習慣使用的工具：版本控制、工單系統、CI/CD 流水線，以及內部知識庫。
 
@@ -71,7 +72,7 @@ OpenAI 透過 Dell 的這步棋來得比部分競爭者晚。IBM、Red Hat 以�
 
 ## 後續觀察重點
 
-這次合作發佈揭示了整合意向，但尚未提供具體產品上市時間表。Codex 連接 Dell AI 工廠的聯合探索被描述為仍在進行中，而非已完成。正在評估這項整合的企業，將持續關注：
+這次合作發佈揭示了整合意向，但尚未提供具體產品上市時間表。關於 Codex 及其他 OpenAI 產品如何連接 Dell AI 工廠的聯合探索，被描述為仍在進行中，而非已完成。正在評估這項整合的企業，將持續關注：
 
 - 經認證、生產就緒的 Codex on Dell 部署時間表
 - 地端 Codex 使用的定價與授權條款（將與雲端 API 定價有很大差異）
@@ -79,3 +80,5 @@ OpenAI 透過 Dell 的這步棋來得比部分競爭者晚。IBM、Red Hat 以�
 - 整合是否擴展至 Codex 以外的其他 OpenAI 產品
 
 就目前而言，這項合作傳達了一個清晰訊號：OpenAI 已認識到純雲端發行的侷限，準備好在企業資料真正所在的地方，與客戶相遇。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 3 處。*

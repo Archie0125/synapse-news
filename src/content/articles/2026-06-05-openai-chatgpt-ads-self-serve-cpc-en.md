@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Opens ChatGPT Ads to Self-Serve with CPC Bidding and Conversion Optimization"
-summary: "OpenAI expanded its ChatGPT advertising platform to self-serve access, adding cost-per-click bidding and rolling out conversion-optimized campaigns on June 5. The move removes the previous $50,000 entry threshold, signals a path to OpenAI's $2.5 billion advertising revenue target for 2026, and introduces a direct competitive pressure on Google and Meta's ad dominance."
+summary: "OpenAI opened its ChatGPT advertising platform to self-serve access on May 5, adding cost-per-click bidding and dropping the minimum spend requirement, with conversion-optimized campaigns set to begin rolling out on June 5."
 category: "products"
 publishedAt: 2026-06-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,19 +31,19 @@ relatedSlugs:
   - "2026-06-04-openai-codex-sites-role-plugins-enterprise-en"
 ---
 
-When Google launched AdWords in 2000, it made a bet that felt counterintuitive at the time: that placing ads inside a search engine would feel helpful rather than intrusive, because users who are searching are actively looking for something. OpenAI is making the same bet about conversational AI — and on June 5, it took a significant step toward proving it can build a commercial engine as powerful as the one it's threatening to disrupt.
+When Google launched AdWords in 2000, it made a bet that felt counterintuitive at the time: that placing ads inside a search engine would feel helpful rather than intrusive, because users who are searching are actively looking for something. OpenAI is making the same bet about conversational AI — and with conversion-optimized campaigns set to begin rolling out on June 5, it is taking another step toward building a performance advertising business.
 
-The company rolled out conversion-optimized campaigns across its Ads Manager platform, extended self-serve access to U.S. advertisers without a minimum spend threshold, and added cost-per-click bidding alongside the existing cost-per-impression model. The changes together represent a maturation of OpenAI's advertising business from brand experiment to full-stack performance marketing platform.
+On May 5, the company opened a beta self-serve Ads Manager to U.S. advertisers without a minimum spend threshold and added cost-per-click bidding alongside the existing CPM model; conversion-optimized campaigns begin rolling out to eligible advertisers on June 5. The changes together represent a maturation of OpenAI's advertising business from brand experiment to full-stack performance marketing platform.
 
-## What Actually Changed on June 5
+## What Changed Between May 5 and June 5
 
-Three concrete updates went live:
+The announcements cover several updates:
 
-**Conversion-optimized campaigns.** This is the most significant change for performance marketers. Until now, ChatGPT ad campaigns were optimized for awareness (impressions) and traffic (clicks). Conversion optimization shifts the objective to downstream actions — purchases, form fills, app installs, lead submissions — the metrics that performance marketing budgets actually care about. Without this capability, ChatGPT was useful for brand awareness spending but largely unusable for direct response advertisers, who control the majority of digital ad dollars.
+**Conversion-optimized campaigns.** This is the most significant change for performance marketers. Until now, ChatGPT ad campaigns were optimized for awareness (impressions) and traffic (clicks). Conversion optimization shifts the objective to downstream actions such as purchases or lead submissions, the metrics that performance marketing budgets actually care about. Without this capability, ChatGPT was useful for brand awareness spending but largely unusable for direct response advertisers, who control the majority of digital ad dollars.
 
-**Cost-per-click bidding.** Advertisers can now choose between paying per impression (CPM) or per click (CPC). CPC aligns ad spend more directly with measurable engagement and lowers the barrier for smaller advertisers who need to manage budgets against performance rather than reach.
+**Cost-per-click bidding.** Since May 5, advertisers can choose between paying per impression (CPM) or per click (CPC). CPC aligns ad spend more directly with measurable engagement and lowers the barrier for smaller advertisers who need to manage budgets against performance rather than reach.
 
-**Removal of the minimum spend threshold.** During the pilot phase, advertisers were required to commit at least $50,000 to test campaigns. That floor is gone. Any business can now register in the Ads Manager, add payment details, set a budget, upload creative, and launch — the same frictionless self-serve model that made Google AdWords and Facebook Ads Manager accessible to small businesses in the 2000s and 2010s.
+**Removal of the minimum spend threshold.** During the pilot phase, advertisers faced a minimum spend that started at $200,000 to $250,000 and had fallen to $50,000 by April. That floor was dropped entirely on May 5. Any business can now register in the Ads Manager, add payment details, set a budget, upload creative, and launch — the same frictionless self-serve model that made Google AdWords and Facebook Ads Manager accessible to small businesses in the 2000s and 2010s.
 
 ## The Infrastructure Behind It
 
@@ -58,7 +59,7 @@ The phrasing "answer independence" is doing real work here. It addresses the con
 
 OpenAI is targeting $2.5 billion in advertising revenue in 2026 and has reportedly set a longer-horizon goal of $100 billion annually by 2030. Those figures, if accurate, would make ChatGPT one of the largest advertising platforms in the world within four years — comparable in scale to Meta's 2019 ad revenue.
 
-The addressable opportunity is substantial. ChatGPT reportedly handles over 500 million weekly active users as of mid-2026, a user base that skews toward higher-income, technology-adjacent demographics that advertisers pay premiums to reach. More importantly, ChatGPT users engage during active decision-making: researching purchases, comparing options, solving problems. That behavioral context is structurally more valuable for advertising than passive content consumption on social media.
+The addressable opportunity is substantial. More importantly, ChatGPT users engage during active decision-making: researching purchases, comparing options, solving problems. That behavioral context is structurally more valuable for advertising than passive content consumption on social media.
 
 The agency ecosystem is already onboard. Dentsu, Omnicom, Publicis, and WPP are signed as agency partners, giving OpenAI reach into the major holding companies that control a substantial fraction of global enterprise ad spending. Technology partners including Adobe, Criteo, Kargo, Pacvue, and StackAdapt expand the programmatic infrastructure that large-scale advertisers require.
 
@@ -72,16 +73,18 @@ Meta's moat is different: social graph data and remarketing precision across Fac
 
 ## The Small Business Inflection Point
 
-The removal of the $50,000 minimum is potentially the most consequential change for the medium-term trajectory of ChatGPT advertising. Large brand advertisers and agency-managed campaigns could participate with high minimums. But the self-serve, low-barrier model that scaled Google and Facebook was fundamentally driven by the long tail: millions of small and medium-sized businesses spending $500 to $5,000 per month.
+Large brand advertisers and agency-managed campaigns could participate with high minimums. But the self-serve, low-barrier model that scaled Google and Facebook was fundamentally driven by the long tail: millions of small and medium-sized businesses spending $500 to $5,000 per month.
 
-Those advertisers now have direct access to ChatGPT's audience. The interface is familiar enough — budget setting, creative upload, bidding strategy — that any marketer comfortable with Google Ads or Meta Business Manager can onboard without training. The creative format is the variable: ads in conversational AI must fit into a dialogue context, which requires different copy approaches than search ads or social banners.
+The interface is familiar enough — budget setting, creative upload, bidding strategy — that any marketer comfortable with Google Ads or Meta Business Manager can onboard without training. The creative format is the variable: ads in conversational AI must fit into a dialogue context, which requires different copy approaches than search ads or social banners.
 
 ## The Unknowns
 
-Several important questions remain unanswered. OpenAI has not publicly disclosed the click-through rates, cost-per-click benchmarks, or conversion rates that early pilot advertisers have achieved. Without those figures, it's impossible to assess whether ChatGPT ads generate comparable ROAS (return on ad spend) to established platforms.
+Several important questions remain unanswered. Without those figures, it's impossible to assess whether ChatGPT ads generate comparable ROAS (return on ad spend) to established platforms.
 
-The geographic rollout is currently U.S.-only, with expansion to the U.K., Brazil, and Japan reportedly in planning. International markets will require both regulatory compliance with local advertising standards and localized measurement infrastructure.
+International markets will require both regulatory compliance with local advertising standards and localized measurement infrastructure.
 
 And the fundamental model tension — between a product that users trust for objective answers and a platform that earns revenue from advertisers who want to influence those users — has not been definitively resolved. It is the central challenge OpenAI will have to navigate for as long as it runs both businesses under the same brand.
 
 Whether it succeeds will define one of the most consequential business stories of the next five years.
+
+*Correction (November 15, 2026): 14 sentences were corrected or removed to match the sources listed on this page.*

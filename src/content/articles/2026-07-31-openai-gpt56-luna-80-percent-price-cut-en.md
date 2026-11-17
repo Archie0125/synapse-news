@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Cuts GPT-5.6 Luna Prices by 80% as Chinese AI Erodes US Pricing Power"
-summary: "OpenAI slashed the price of GPT-5.6 Luna by 80%—from $1/$6 to $0.20/$1.20 per million tokens—and cut Terra by 20%, just three weeks after the GPT-5.6 family launched. The aggressive repricing directly responds to pressure from DeepSeek V4 and Moonshot AI's Kimi K3, which together have undercut US frontier AI pricing across long-context and cost-sensitive enterprise workloads."
+summary: "OpenAI slashed the price of GPT-5.6 Luna by 80%, from $1/$6 to $0.20/$1.20 per million tokens, and cut Terra by 20%, about three weeks after the GPT-5.6 family launched. The repricing comes as OpenAI faces pressure from cost-conscious customers and from competitors including Chinese models such as DeepSeek V4 Pro and Moonshot AI's Kimi K3."
 category: "ai-ml"
 publishedAt: 2026-07-31
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
   - "2026-07-07-chinese-ai-models-openrouter-60-percent-dominance-en"
 ---
 
-OpenAI executed one of its most dramatic API pricing moves in company history on Wednesday, slashing the cost of GPT-5.6 Luna by 80% and cutting GPT-5.6 Terra by 20%—just 22 days after the GPT-5.6 family made its debut on July 9, 2026. The speed of the repricing is itself the signal: it confirms that competitive pressure from Chinese AI providers has reached the point where even the most capable frontier lab in the West cannot hold its launch pricing for a full month.
+OpenAI slashed the cost of GPT-5.6 Luna by 80% and cut GPT-5.6 Terra by 20% on Thursday, July 30, about three weeks after the GPT-5.6 family made its debut on July 9, 2026. The speed of the repricing suggests that competitive pressure, including from Chinese AI providers, is weighing on OpenAI's launch pricing.
 
 The new prices:
 - **GPT-5.6 Luna**: $0.20 input / $1.20 output per million tokens (down from $1.00/$6.00—an 80% cut)
@@ -44,7 +45,7 @@ The price cut did not occur in a vacuum. Two Chinese AI models—DeepSeek V4 and
 
 DeepSeek V4, which reached general availability at the end of July with benchmark performance competitive with GPT-5.6 Terra on several software engineering and coding tasks, is priced at $0.435 input / $0.87 output per million tokens—with an ongoing 75% promotional discount that brings those prices even lower. For long-context workloads specifically, DeepSeek V4 has represented a cost-per-capability ratio that US models simply could not match at their pre-cut prices.
 
-Moonshot AI's Kimi K3, released in late June with open weights and demonstrating performance that many benchmarks placed at or near GPT-5.5 levels, is priced at $3.00 input / $15.00 output per million tokens. Moonshot AI is simultaneously preparing for a Hong Kong IPO at a projected $50 billion valuation—a combination of technical credibility and capital markets ambition that signals Chinese AI's arrival as a peer competitor, not a laggard trying to catch up.
+Moonshot AI's Kimi K3, an open-weight model released earlier in July that outperforms some American offerings on certain industry benchmarks, is priced at $3.00 input / $15.00 output per million tokens. Moonshot AI is simultaneously preparing for a Hong Kong IPO at a projected $50 billion valuation—a combination of technical credibility and capital markets ambition that signals Chinese AI's arrival as a peer competitor, not a laggard trying to catch up.
 
 Together, these two models had set a new floor for what enterprise customers expect to pay for high-capability AI inference. OpenAI was losing the cost-sensitive middle of the market to Chinese alternatives, even among customers who would prefer to use US-origin models for regulatory or data residency reasons.
 
@@ -81,3 +82,5 @@ The 80% Luna cut is unlikely to be the last major repricing event in the GPT-5.6
 And Anthropic's Claude Opus 5, launched in late July, is adding further competition to the high-capability tier where Sol currently operates without repricing pressure—a dynamic that could eventually force Sol pricing lower as well.
 
 The frontier AI pricing war, three years in the making since the GPT-4 launch, has now definitively arrived.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

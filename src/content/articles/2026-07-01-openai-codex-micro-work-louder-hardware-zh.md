@@ -3,6 +3,7 @@ title: "OpenAI 踏入硬體領域：Codex Micro 巨集鍵盤 7 月 15 日與 Wor
 summary: "OpenAI 將於 7 月 15 日發表 Codex Micro，這款與鍵盤廠商 Work Louder 共同開發的可程式巨集鍵盤，讓開發者擁有操控 Codex AI 程式設計代理的專屬實體按鍵。這是 OpenAI 首款硬體產品，與其和 Jony Ive 合作的消費裝置計畫完全分開。"
 category: "developer-tools"
 publishedAt: 2026-07-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
 
 OpenAI 成立以來始終是一家純軟體公司，但這個局面即將改變。它即將推出的第一款實體硬體，不是傳聞中那款由設計師 Jony Ive 打造的消費裝置，而是一款給每天使用 Codex 程式設計代理的開發者準備的可程式巨集鍵盤。
 
-Codex Micro 由 OpenAI 與鍵盤廠商 Work Louder 聯名開發，將於 7 月 15 日正式發表。OpenAI 開發者帳號於 6 月 29 日在 X 上以一張照片為本作預告，附上的說明只有一句話：「你最愛的 Codex 捷徑即將升級。」OpenAI 發言人 Dominik Kundel 在 AI Engineer World's Fair 上將其描述為「一款專為強化 Codex 使用體驗設計的鍵盤」。
+Codex Micro 由 OpenAI 與鍵盤廠商 Work Louder 聯名開發，將於 7 月 15 日正式發表。OpenAI 透過其開發者帳號以一段預告影片為這項合作暖身，附上的說明只有一句話：「你最愛的 Codex 捷徑即將升級。」OpenAI 發言人 Dominik Kundel 在 AI Engineer World's Fair 上將其描述為「一款專為強化 Codex 使用體驗設計的鍵盤」。
 
 ## 這個裝置長什麼樣
 
@@ -62,6 +63,6 @@ Codex Micro 的推出，發生在 AI 程式設計工具市場正經歷劇烈震�
 
 在這個背景下，品牌硬體的作用不只是人體工學。它在開發者的工作桌面上創造了一個競爭對手純靠軟體無法複製的實體存在感。一台擺在鍵盤旁的 Codex Micro，對 OpenAI 產品存在感的提示，遠比一個瀏覽器分頁或 IDE 外掛來得直接有力。它也在開發者正在評估深度投入哪款 AI 程式設計工具的時間點，傳遞了 OpenAI 對 Codex 產品線的長期承諾訊號。
 
-7 月 15 日的發表日期選得頗有策略意味——距今兩週，足夠讓開發者社群累積期待，又不至於暴露太多細節讓競爭對手有時間準備因應。
-
 Codex Micro 無論最終成為真正叫好叫座的開發工具，還是一個令人印象深刻的品牌時刻，都代表著 OpenAI 第一次踏出純軟體的邊界。在硬體存在感越來越重要的市場裡，這一步值得持續關注。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

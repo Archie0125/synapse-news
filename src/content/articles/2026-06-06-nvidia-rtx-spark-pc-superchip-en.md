@@ -1,8 +1,9 @@
 ---
 title: "Nvidia's RTX Spark Superchip Rewrites the PC Playbook"
-summary: "At Computex 2026, Jensen Huang unveiled the RTX Spark — an ARM-based superchip combining a 20-core Grace CPU with a Blackwell GPU and 128GB unified memory. The move pits Nvidia directly against Intel, AMD, and Qualcomm in the consumer PC market while turning Windows laptops into local AI powerhouses."
+summary: "At Computex, Jensen Huang unveiled the RTX Spark, a PC chip built with MediaTek that pairs a Blackwell GPU with a MediaTek CPU. The move sent shares of Intel, AMD and Qualcomm lower as Nvidia pushes into the PC market."
 category: "hardware"
 publishedAt: 2026-06-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,13 +27,13 @@ relatedSlugs:
   - "2026-06-04-big-tech-725b-ai-capex-race-en"
 ---
 
-Nvidia has never made a PC processor. That changed on June 1, 2026.
+That changed on Monday, when Nvidia announced its entry into the PC market.
 
-During his keynote at Taipei's Computex trade show, CEO Jensen Huang unveiled the **RTX Spark Superchip** — a new family of system-on-chips designed for Windows laptops and compact desktops. The announcement is more than a product launch. It signals Nvidia's intent to own the full AI compute stack from data center to pocket, and it threatens to redraw the competitive map for Intel, AMD, and Qualcomm in one stroke.
+During his keynote at Taiwan's Computex conference, CEO Jensen Huang unveiled the **RTX Spark**, a system-on-chip for PCs developed jointly with MediaTek. The announcement is more than a product launch. It signals Nvidia's intent to own the full AI compute stack from data center to pocket, and it threatens to redraw the competitive map for Intel, AMD, and Qualcomm in one stroke.
 
 ## What RTX Spark Actually Is
 
-The RTX Spark is not an incremental GPU upgrade stuffed into a thin chassis. It is a new class of processor that pairs Nvidia's **Grace CPU** (20 Arm cores) with a **Blackwell-generation GPU** featuring 6,144 CUDA cores and fifth-generation Tensor Cores with FP4 precision support. The two dies are connected through Nvidia's **NVLink-C2C chip-to-chip interconnect**, enabling them to share a single pool of **128 GB of LPDDR5X memory** with up to **300 GB/s of memory bandwidth**.
+The RTX Spark is not an incremental GPU upgrade stuffed into a thin chassis. It pairs Nvidia's cutting-edge **Blackwell GPU** with a **MediaTek CPU** on the same system-on-chip. The two dies are connected through Nvidia's **NVLink-C2C chip-to-chip interconnect**, enabling them to share a single pool of **128 GB of LPDDR5X memory** with up to **300 GB/s of memory bandwidth**.
 
 That memory figure is striking. Apple's M4 Max tops out at 128 GB. Qualcomm's Snapdragon X Elite — the current king of Windows on Arm — reaches 64 GB. By matching Apple's ceiling and doubling Qualcomm's, Nvidia is positioning RTX Spark as the only platform where truly large local AI models can live and breathe on a consumer laptop.
 
@@ -58,13 +59,13 @@ For enterprise customers wary of data sovereignty and compliance risks from clou
 
 ## Availability and Partner Lineup
 
-RTX Spark systems are scheduled to **arrive in the fall of 2026** through a broad OEM roster: **Dell, HP, Lenovo, ASUS, MSI**, and **Microsoft's Surface** line. Microsoft's inclusion is significant — it suggests the Surface Pro 12 or Surface Laptop 7 refresh may abandon Intel entirely in favor of Spark, continuing the industry-wide shift away from x86 in portable computing.
+RTX Spark is set to debut **later this year** on new Windows PCs from **Microsoft, Dell, HP, ASUS, Lenovo** and **MSI**.
 
 Nvidia also outlined a **three-generation roadmap** for the platform. The next iteration, codenamed **Vera Rubin**, will use LPDDR6 memory for even higher bandwidth. A third generation called **Rosa Feynman** was listed on the roadmap but left with unspecified memory technology, suggesting it remains in early planning.
 
 ## A Direct Challenge to Intel, AMD, and Qualcomm
 
-The RTX Spark's unveiling sent an unambiguous signal to the existing PC processor ecosystem. Shares of **Advanced Micro Devices, Intel, and Qualcomm** dropped in trading following the announcement. The concern is structural: Nvidia is not entering the PC market to chase gaming enthusiasts — it is targeting the high-margin, enterprise-focused AI PC segment where all three incumbents expected to dominate.
+The RTX Spark's unveiling sent an unambiguous signal to the existing PC processor ecosystem. Shares of **Advanced Micro Devices, Intel, and Qualcomm** dropped in trading following the announcement. The concern is structural: Nvidia's plan to build SoCs for PCs threatens a market that has historically been controlled by the duopoly of Intel and AMD.
 
 Intel has staked its client roadmap on its Lunar Lake and Panther Lake platforms with Neural Processing Units for AI inference. AMD has emphasized its Strix Halo APU as the high-performance portable AI chip. Qualcomm has positioned the Snapdragon X series as the definitive Windows on Arm experience. RTX Spark competes aggressively with all three by combining the one ingredient they all lack: a world-class discrete-grade GPU integrated at the die level with unified, high-bandwidth memory.
 
@@ -81,3 +82,5 @@ The Computex keynote was deliberately light on pricing, which will ultimately de
 For now, the announcement establishes something more important than a product line: it establishes Nvidia's intent. The company that defined modern AI in the data center is coming for the rest of the stack, and the PC industry will spend the next 18 months reconfiguring around that reality.
 
 WWDC 2026 begins on June 8, where Apple will almost certainly respond with new Apple Intelligence announcements. The AI PC wars are escalating — and for the first time in decades, the most anticipated laptop chip of the year isn't from Intel, AMD, or Qualcomm.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

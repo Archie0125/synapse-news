@@ -3,6 +3,7 @@ title: "Foxconn Logs All-Time High Q1 Revenue as AI Server Boom Drives 29.7% Gro
 summary: "Foxconn posted T$2.13 trillion in Q1 2026 revenue — a company record — powered by surging AI server demand and a jaw-dropping 45.6% spike in March alone. The results underscore how the global AI infrastructure buildout is reshaping the contract manufacturing giant into an indispensable pillar of the AI economy."
 category: "industry"
 publishedAt: 2026-04-07T09:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ The headline number, however, barely captures the momentum embedded in the final
 
 Foxconn's breakout performance was driven almost entirely by its cloud and networking segment, which encompasses AI servers, data center infrastructure, and custom compute hardware. As Nvidia's largest manufacturing partner for GPU-accelerated servers, Foxconn has been the primary beneficiary of the relentless demand for AI training and inference infrastructure — demand that shows no sign of plateauing.
 
-Chairman Young Liu, speaking at a press briefing following the revenue announcement, projected "high double-digit" growth for the AI server business across the full year 2026 — a level of public confidence the company rarely deploys. He described AI server manufacturing as the category with the highest internal conviction of any segment the company operates in.
+Chairman Young Liu said Foxconn expects its AI server rack shipments to grow at a "high double-digit" pace in the first quarter and potentially double for the full year 2026. He described AI server manufacturing as the category with the highest internal conviction of any segment the company operates in.
 
 That conviction has backing in steel and concrete. Foxconn's Ohio manufacturing plant — a facility that has weathered years of political scrutiny and construction delays — is now producing AI server racks for SoftBank's **Project Stargate**, the $500 billion U.S. AI infrastructure initiative announced in late 2025. The plant is targeting approximately 2,000 server racks per week in 2026, a cadence that would represent one of the largest single-site manufacturing operations in the company's history.
 
@@ -62,3 +63,5 @@ The Stargate project, in which Foxconn plays a central manufacturing role, repre
 For the contract manufacturing industry more broadly, Foxconn's results serve as validation that AI is not a transient product category but a durable, structurally transformative driver — one that demands the kind of scale, logistics expertise, and supply chain depth that only a handful of global players can reliably provide. Foxconn's competitors and suppliers will spend the coming weeks scrutinizing the Q1 numbers for clues about how much runway remains in the current cycle.
 
 Based on the March trajectory, the answer appears to be: quite a lot.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

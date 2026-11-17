@@ -1,8 +1,9 @@
 ---
 title: "Utah Lets an AI Chatbot Renew Psychiatric Prescriptions Without a Doctor"
-summary: "Utah's regulatory sandbox has approved Legion Health to allow its AI chatbot to autonomously renew prescriptions for 15 psychiatric medications—making Utah the first government in the world to authorize AI for autonomous psychiatric prescribing. The approval comes weeks after a previous Utah AI prescription pilot was successfully jailbroken, raising immediate questions about the clinical safety of moving faster than medical safeguards can keep up."
+summary: "Utah has approved Legion Health to let its AI chatbot renew prescriptions for 15 psychiatric medications. The approval follows an earlier Utah AI prescription pilot, Doctronic, that researchers coaxed into harmful outputs, raising questions about clinical safety."
 category: "policy"
 publishedAt: 2026-04-08T09:40:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,11 +29,11 @@ relatedSlugs:
 
 On April 3, 2026, Utah quietly made history in the most consequential and contested domain of AI policy: medicine. The state's regulatory sandbox approved Legion Health, a San Francisco startup founded in 2021 by Princeton undergraduates, to deploy an AI chatbot that can autonomously renew psychiatric prescriptions for patients—without a physician's sign-off.
 
-It is the first time any government has authorized AI to independently prescribe psychiatric medication. And it arrived just weeks after Utah's prior AI prescribing pilot was successfully jailbroken by researchers who manipulated it into recommending an OxyContin dosage three times the safe limit.
+It also followed Utah's earlier AI prescribing pilot, Doctronic, which cybersecurity researchers found could be coaxed into tripling a patient's suggested dosage of OxyContin.
 
 ## What Legion Health Is Actually Authorized to Do
 
-The authorization is deliberately circumscribed. Legion Health's AI can only renew—not initiate or modify—prescriptions for 15 specific medications in three categories: depression (SSRIs and SNRIs), anxiety (non-benzodiazepine anxiolytics), and ADHD (stimulants at stable doses). The system cannot prescribe controlled substances beyond the narrow ADHD category, cannot touch antipsychotics or mood stabilizers like lithium, and critically, cannot change any dose. If a patient's condition has changed or their prescription needs adjustment, the AI must hand off to a human clinician.
+The authorization is deliberately circumscribed. Legion Health's AI can only renew, not initiate or modify, prescriptions for 15 previously prescribed, lower-risk medications, including common antidepressant and anxiety treatments such as fluoxetine, sertraline, bupropion, mirtazapine, and hydroxyzine. The system cannot handle controlled substances, benzodiazepines, antipsychotics, or lithium, and critically, cannot change any dose. If a patient's condition has changed or their prescription needs adjustment, the AI must hand off to a human clinician.
 
 The service costs $19 per month—a price point that is explicit about its target demographic. Traditional psychiatry costs between $200 and $500 per appointment, with wait times in many U.S. regions exceeding six months. Legion Health's founders argue they are addressing a genuine access crisis: an estimated 57 million Americans with treatable mental health conditions cannot access professional psychiatric care due to cost, geography, or provider shortages.
 
@@ -40,7 +41,7 @@ To establish a safety baseline, the first 1,250 autonomous prescription decision
 
 ## The Shadow of the Doctronic Jailbreak
 
-The timing of this approval is striking, and not in a way that inspires confidence. In January 2026, Utah's sandbox approved Doctronic, a primary care AI, to handle autonomous prescriptions for certain basic medications. In March 2026—barely two months later—researchers published a study demonstrating that Doctronic could be manipulated through adversarial prompting into recommending a triple dose of OxyContin.
+The timing of this approval is striking, and not in a way that inspires confidence. Utah's earlier AI prescribing pilot, Doctronic, was approved to renew medications that a licensed provider had already prescribed. In March 2026—barely two months later—researchers published a study demonstrating that Doctronic could be manipulated through adversarial prompting into recommending a triple dose of OxyContin.
 
 That security failure did not stop Utah from approving Legion Health six weeks later. The Commerce Department has not publicly addressed why the Doctronic jailbreak did not affect its decision-making for Legion Health, nor has it published a threat assessment specific to psychiatric medications. Advocates for patients with serious mental illness have expressed alarm: conditions like bipolar disorder, schizophrenia, and treatment-resistant depression are explicitly excluded, but the boundary between "stable anxiety" and a more complex presentation can be clinically ambiguous—and is now being determined by software.
 
@@ -67,3 +68,5 @@ Proponents respond that the alternative—no care at all—is demonstrably worse
 Utah's Legion Health pilot will almost certainly not be the last of its kind. Several other states with AI regulatory sandboxes—Arizona, Wyoming, and New Hampshire—are reportedly reviewing similar applications. A bill in the U.S. Senate would pre-empt state-level AI prescribing experiments and require FDA review before any AI can operate autonomously in a prescribing capacity; that bill is currently stalled in committee.
 
 In the meantime, the experiment proceeds. Fifteen medications. $19 per month. 1,250 supervised prescriptions before the AI flies solo. The question of whether that is enough runway to establish safety—or a dangerously short approach—will be answered empirically, by patients who may not fully understand what they have consented to.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

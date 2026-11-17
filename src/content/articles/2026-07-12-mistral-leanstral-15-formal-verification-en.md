@@ -1,8 +1,9 @@
 ---
-title: "Mistral's Leanstral 1.5 Brings Formal Verification to Every Developer — and Found 5 Real Bugs"
-summary: "Mistral has open-sourced Leanstral 1.5, a 119-billion-parameter model under Apache 2.0 that generates machine-checkable mathematical proofs for software using Lean 4. Released at roughly $4 per problem versus $300 for proprietary rivals, it found five previously unknown bugs when tested against 57 open-source repositories."
+title: "Mistral's Leanstral 1.5 Brings Formal Verification Within Reach — and Found 5 Previously Unreported Bugs"
+summary: "Mistral has open-sourced Leanstral 1.5, a model under Apache 2.0 for proof engineering in Lean 4. On PutnamBench it costs roughly $4 per problem, against an estimated $300 or more for Seed-Prover 1.5, and it found five previously unreported bugs when tested against 57 open-source repositories."
 category: "developer-tools"
 publishedAt: 2026-07-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-07-12-openai-gpt56-sol-cycle-double-cover-proof-en"
 ---
 
-For most software developers, formal verification has always been something that happens in the aerospace industry, in safety-critical automotive systems, or in the research papers of academics who have never shipped a product on a deadline. Mistral wants to change that. On July 4, 2026, the French AI company released Leanstral 1.5 under the Apache 2.0 license — an open-weights model purpose-built for generating and checking mathematical proofs using Lean 4, the proof assistant developed at Microsoft Research.
+For most software developers, formal verification has always been something that happens in the aerospace industry, in safety-critical automotive systems, or in the research papers of academics who have never shipped a product on a deadline. Mistral wants to change that. Mistral AI released Leanstral 1.5 under the Apache 2.0 license — an open-weights model purpose-built for proof engineering in Lean 4.
 
 The headline claim is striking: when tested against 57 open-source software repositories, Leanstral found five previously unknown bugs, including one that caused crashes in debug mode and silent data corruption in release builds. Those are exactly the kinds of errors that escape conventional testing.
 
@@ -40,19 +41,19 @@ Leanstral changes the equation by automating the proof-generation step.
 
 ## Model Architecture and Performance
 
-Leanstral 1.5 is a mixture-of-experts model with 119 billion total parameters and 6.5 billion active parameters per token — a design that enables high capability at relatively low inference cost. The context window is 256,000 tokens, large enough to reason over substantial codebases. It is available on Hugging Face and through Mistral's Labs API for free during beta.
+Leanstral 1.5 is a mixture-of-experts model with 119 billion total parameters and 6.5 billion active parameters per token — a design that enables high capability at relatively low inference cost. The context window is 256,000 tokens, large enough to reason over substantial codebases. The weights are available on Hugging Face, and a free API endpoint named leanstral-1-5 is live.
 
 The benchmarks are impressive across the board. On miniF2F — a standard test of formal mathematical reasoning — Leanstral saturates the benchmark, achieving 100%. On PutnamBench, a collection of problems from the William Lowell Putnam Mathematical Competition widely used to evaluate theorem-proving systems, Leanstral solved 587 out of 672 problems. No prior open model came close.
 
-The cost advantage over proprietary alternatives is equally notable. On PutnamBench, Leanstral runs at approximately $4 per problem; comparable performance from Seed-Prover 1.5 costs over $300, and Aleph Prover runs between $54 and $68. For developers who want to experiment with formal verification without a dedicated research budget, this changes what is practical.
+The cost advantage over proprietary alternatives is equally notable. For developers who want to experiment with formal verification without a dedicated research budget, this changes what is practical.
 
 ## Five Real Bugs in 57 Repositories
 
 The most compelling evidence for Leanstral's practical utility comes not from benchmarks but from its performance on real code. Mistral tested the model against 57 open-source repositories, using a pipeline that translated Rust code into Lean 4 using the Aeneas translation tool, generated correctness properties, and attempted proofs of those properties.
 
-The system found five previously unreported bugs. The most significant was an integer overflow in the zigzag decoding function within the `varinteger` library — a Rust crate for reading and writing variable-length integers. The overflow caused crashes in debug mode (where Rust's bounds checking catches arithmetic errors) and silent data corruption in release builds (where it does not). The `varinteger` library had passed its full test suite without triggering the issue.
+The system found five previously unreported bugs. The most significant was an integer overflow in the zigzag decoding function within the `varinteger` library — a Rust crate for reading and writing variable-length integers. On input Std.U64.MAX, the expression (value + 1) overflowed, causing crashes in debug mode and silent corruption in release mode. The `varinteger` library had passed its full test suite without triggering the issue.
 
-This is the type of bug that formal verification uniquely catches. The overflow only manifests for specific edge-case input values that a random or coverage-based test suite is unlikely to generate. Proving that the function is correct for *all* inputs would have revealed the gap — and Leanstral's proof attempt failed, which itself constitutes detection.
+This is the type of edge case that testing and fuzzing would typically miss. The overflow only manifests for specific edge-case input values that a random or coverage-based test suite is unlikely to generate. Proving that the function is correct for *all* inputs would have revealed the gap — and Leanstral's proof attempt failed, which itself constitutes detection.
 
 ## The Lean 4 Ecosystem
 
@@ -66,11 +67,11 @@ Formal verification has historically followed the Pareto principle in the wrong 
 
 These are precisely the code areas where the gap between test coverage and actual correctness matters most, and where bugs tend to have the highest impact. An integer overflow in a variable-length integer codec is exactly the kind of thing that turns into a CVE two years after it ships.
 
-For open-source maintainers, Leanstral offers a practical argument for adding formal verification to the CI pipeline: a free API during beta, Apache-licensed weights, and a demonstrated ability to find bugs that pass conventional testing. The barrier is no longer cost or access — it is learning enough Lean 4 to write the specifications that the model will attempt to prove.
+For open-source maintainers, Leanstral offers a practical argument for exploring formal verification: a free API, Apache-licensed weights, and a demonstrated ability to find bugs that some traditional methods overlook. The barrier is no longer cost or access — it is learning enough Lean 4 to write the specifications that the model will attempt to prove.
 
 That last step remains non-trivial. Leanstral automates proof generation, but someone still needs to write a specification that accurately captures what the code should do. If the specification is wrong or incomplete, the proof is correct for the wrong property. This is the fundamental challenge of formal verification that no model can fully automate: the intelligence needed to define "correct" in the first place.
 
-Still, for the category of bugs Leanstral caught — arithmetic overflow, boundary conditions, off-by-one errors — the specifications are often straightforward enough that the automation is genuinely useful. Five bugs in 57 repositories, found at $4 a run, is a result that should interest any team maintaining performance-critical or security-sensitive code.
+Still, for the category of bugs Leanstral caught — arithmetic overflow, boundary conditions, off-by-one errors — the specifications are often straightforward enough that the automation is genuinely useful. Five previously unreported bugs found across 57 repositories is a result that should interest any team maintaining performance-critical or security-sensitive code.
 
 ## Open Source as Strategy
 
@@ -79,3 +80,5 @@ The Apache 2.0 license is worth dwelling on. Mistral has made a consistent bet o
 For formal verification in regulated industries — finance, healthcare, aerospace — the ability to run verification workloads on-premises rather than through a third-party API may be the deciding factor. Leanstral's open license makes that possible in a way that its competitors' models do not.
 
 The model's release arrives in the same week as OpenAI's GPT-5.6 Sol claimed a formal proof of the Cycle Double Cover Conjecture. That the two most significant formal reasoning announcements in recent memory arrived within days of each other is either coincidence or a signal about where the frontier is moving. Either way, formal verification — once the province of specialists — is increasingly within reach of anyone with a terminal.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

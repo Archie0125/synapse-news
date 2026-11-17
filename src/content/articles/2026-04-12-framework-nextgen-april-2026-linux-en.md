@@ -3,6 +3,7 @@ title: "Framework Teases 'Next Gen' Hardware on April 21, CEO Warns AI Could Kil
 summary: "Framework Computer has announced a live hardware launch event for April 21, hinting at major modular laptop and desktop upgrades alongside a significant Linux-focused announcement. CEO Nirav Patel has published a stark warning: the AI boom's winner-takes-all dynamic over chips and storage could drive consumers toward cloud-leased, locked-down devices — and Framework is positioning its Next Gen lineup as a defense of user ownership."
 category: "hardware"
 publishedAt: 2026-04-12T09:20:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -38,7 +39,7 @@ Patel's blog post does not bury the lead. "There is a very real scenario in whic
 
 The mechanism he describes is not far-fetched. AI training and inference have created chip shortages that have already made certain GPU and even DRAM tiers nearly impossible to source at consumer-compatible prices. If that dynamic extends to general compute, the economics of building high-quality, user-repairable personal computers become untenable. The alternative — cloud-leased, subscription-based devices with locked-down operating systems and persistent remote access — would represent the final enclosure of personal computing.
 
-Patel is framing Framework's Next Gen event as a deliberate stance against that trajectory. "We are going to keep building computers that you can own at the deepest level," he wrote. "Not just the hardware, but the software, the data, and the right to fix and modify what you paid for."
+Framework is framing its Next Gen event as a stance against that trajectory. In its blog post, the company wrote that it will "be here to build the hardware that enables" ownership, meaning "computers that you can own at the deepest level and do what you want with." "Not just the hardware, but the software, the data, and the right to fix and modify what you paid for."
 
 The statement lands differently in 2026 than it would have three years ago. Apple's move to tie Siri to Google Gemini running on Private Cloud Compute — announced just last week — has renewed debates about what "your" device actually processes locally and what it sends to the cloud. Framework is threading a needle: building ambitious AI-capable hardware while insisting that computation should happen on a device the user actually controls.
 
@@ -67,3 +68,5 @@ The April 21 event is being watched for hardware, but the subtext is philosophic
 Whether that segment is large enough to sustain a hardware company long-term, and whether it will grow or shrink as AI becomes more embedded in everyday computing, is the central question Framework's existence poses. The Next Gen launch is the next chapter of that experiment.
 
 The live stream goes live at frame.work/nextgen on April 21.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

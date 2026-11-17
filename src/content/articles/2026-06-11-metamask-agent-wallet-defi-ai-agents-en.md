@@ -1,8 +1,9 @@
 ---
 title: "MetaMask Gives AI Agents a DeFi Wallet — With a Leash"
-summary: "MetaMask has launched Agent Wallet, a self-custodial crypto wallet designed for autonomous AI agents to execute trades across DeFi protocols on 10 blockchain networks. The system introduces Guard Mode and Beast Mode to let users define exactly how much autonomy their agents have, with mandatory security checks on every transaction."
+summary: "MetaMask has launched Agent Wallet in early access, a self-custodial crypto wallet designed for autonomous AI agents to execute trades across DeFi protocols. The system introduces Guard Mode and Beast Mode to let users set how much autonomy their agents have, with mandatory security checks on every transaction."
 category: "products"
 publishedAt: 2026-06-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,17 +40,17 @@ On June 8, 2026, MetaMask shipped that infrastructure. Agent Wallet is a self-cu
 
 The product has two operational modes that sit at different points on the autonomy-safety tradeoff curve.
 
-**Guard Mode** is the default. In Guard Mode, every agent transaction must pass within user-defined parameters: daily spending limits, a whitelist of approved protocols, and hard stops on transaction types the user hasn't explicitly permitted. Any transaction that falls outside these parameters — or that MetaMask's security scanning flags as potentially malicious — requires human approval via two-factor authentication before it can execute. Guard Mode is designed for users who want agents to handle routine DeFi operations but want to stay in the loop on anything unusual.
+**Guard Mode** is the default. In Guard Mode, agents operate under daily spend limits and allowlisted protocols, with human approval via two-factor authentication required on anything outside the policy each user sets. Any transaction that falls outside these parameters — or that MetaMask's security scanning flags as potentially malicious — requires human approval via two-factor authentication before it can execute. Guard Mode is designed for users who want agents to handle routine DeFi operations but want to stay in the loop on anything unusual.
 
 **Beast Mode** reduces the interruption frequency. In Beast Mode, the wallet applies Blockaid's automated threat scanning and MEV (maximal extractable value) protection to every transaction, but only triggers human 2FA intervention when the system detects a specifically malicious transaction. The name is deliberately aggressive, positioned for sophisticated traders and developers who have high confidence in their agents and want them to operate at speed.
 
-Across both modes, MetaMask's Transaction Protection program covers up to $10,000 per transaction for transactions the system deems safe. The protocol-level security architecture — transaction simulation before signing, MEV protection, threat scanning via Blockaid — runs on all trades regardless of which mode is active.
+MetaMask says transactions deemed safe by its Transaction Protection are covered up to $10,000, subject to terms and conditions. The protocol-level security architecture — transaction simulation before signing, MEV protection, threat scanning via Blockaid — runs on all trades regardless of which mode is active.
 
 ## Supported Networks and DeFi Primitives
 
-Agent Wallet currently supports 10 blockchain networks: Ethereum, Linea, Arbitrum, Avalanche, Optimism, Base, Polygon, BSC, Sei, and Hyperliquid. The breadth of the initial network list is notable — it spans the major Ethereum Layer 2s (Arbitrum, Optimism, Base, Linea, Polygon), Ethereum mainnet, two non-Ethereum chains with significant DeFi activity (Avalanche, BSC), and Hyperliquid, the dominant on-chain perpetuals venue.
+Agent Wallet currently supports nine blockchain networks at launch: Ethereum, Linea, Arbitrum, Avalanche, Optimism, Base, Polygon, BSC and Sei. The breadth of the initial network list is notable — it spans the major Ethereum Layer 2s (Arbitrum, Optimism, Base, Linea, Polygon), Ethereum mainnet, two non-Ethereum chains with significant DeFi activity (Avalanche, BSC), and Hyperliquid, the dominant on-chain perpetuals venue.
 
-The DeFi primitives accessible to agents cover the core functions of on-chain trading: spot swaps, perpetual futures, prediction markets (including Polymarket), and liquidity provisioning. This means an agent with Agent Wallet access can build and manage complex DeFi positions that previously required either a human trader's constant attention or custom smart contract infrastructure.
+This means an agent with Agent Wallet access can build and manage complex DeFi positions that previously required either a human trader's constant attention or custom smart contract infrastructure.
 
 The wallet is framework-agnostic. Agents built with OpenAI's API, Anthropic's Claude, Nous Research models, or any other framework can integrate Agent Wallet through a standard CLI interface currently in early access.
 
@@ -59,7 +60,7 @@ MetaMask's product timing is tied to a market trajectory that is hard to ignore.
 
 The DeFi dimension of this market is particularly acute. Decentralized finance protocols have collectively locked tens of billions in value, with trading volumes often exceeding $50 billion per day across major venues. The current user base for these protocols skews heavily toward technically sophisticated individuals who can manage wallet security, understand protocol risks, and monitor positions actively. AI agents, deployed as DeFi trading systems, could substantially expand that addressable user base by abstracting the technical complexity of DeFi into goal-oriented interfaces.
 
-For MetaMask, which has over 30 million monthly active users as of early 2026, Agent Wallet represents a strategic bet on a platform shift. The company has historically derived revenue from swap fees on user transactions. If AI agents become significant DeFi market participants — executing high-frequency strategies, managing yield positions, running arbitrage — MetaMask's infrastructure layer sits directly in the transaction flow.
+For MetaMask, which serves tens of millions of users across more than 190 countries, Agent Wallet represents a strategic bet on a platform shift. The company has historically derived revenue from swap fees on user transactions. If AI agents become significant DeFi market participants — executing high-frequency strategies, managing yield positions, running arbitrage — MetaMask's infrastructure layer sits directly in the transaction flow.
 
 ## Security as the Competitive Moat
 
@@ -78,3 +79,5 @@ The CLI-first approach signals that the initial audience is developers and agent
 The launch is also a signal about where the broader AI agent ecosystem is heading. For the past two years, the dominant narrative around AI agents has focused on information work — writing, coding, research, customer service. MetaMask's product is a reminder that agents are increasingly being trusted with consequential economic decisions, and that the infrastructure for that trust needs to be built with the same rigor that financial services infrastructure demands.
 
 For AI builders deploying agents in any context that involves real assets — whether crypto, financial markets, or commercial transactions — the design choices in Agent Wallet's security model are worth studying carefully. The "leash" MetaMask has built may turn out to be the most important feature of the product.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

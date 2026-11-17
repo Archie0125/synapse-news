@@ -1,8 +1,9 @@
 ---
-title: "Big Tech Is Spending $725 Billion on AI in 2026 — A 77% Jump That Dwarfs Any Prior Infrastructure Boom"
-summary: "Google, Microsoft, Meta, and Amazon collectively plan to spend $725 billion on capital expenditures in 2026 — a 77% surge from 2025 — driven by GPU shortages, skyrocketing memory chip costs, and an AI infrastructure race with no clear end in sight. Revenue is growing fast, but not fast enough to match the spend."
+title: "Big Tech Is on Track to Spend About $725 Billion on AI Capex in 2026"
+summary: "Google, Microsoft, Meta, and Amazon are on track to spend about $725 billion on capital expenditures in 2026, driven in part by higher component prices and an AI infrastructure race with no clear end in sight."
 category: "industry"
 publishedAt: 2026-06-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-06-03-nvidia-rtx-spark-superchip-computex-en"
 ---
 
-The AI infrastructure arms race has reached a number that defies easy comparison to any prior technology build-out in history. Google, Microsoft, Meta, and Amazon are collectively on track to spend approximately **$725 billion** on capital expenditures in 2026 — up 77% from the already-record $410 billion spent in 2025. To put that in perspective: the entire US interstate highway system, built over four decades, cost roughly $530 billion in today's dollars. Big Tech is planning to spend more on AI infrastructure in a single year.
+The AI infrastructure arms race has reached a number that defies easy comparison to any prior technology build-out in history. Google, Microsoft, Meta, and Amazon are collectively on track to spend approximately **$725 billion** on capital expenditures in 2026, according to estimates following their latest earnings reports. To put that in perspective: the entire US interstate highway system, built over four decades, cost roughly $530 billion in today's dollars. Big Tech is planning to spend more on AI infrastructure in a single year.
 
 ## Who Is Spending What
 
@@ -37,7 +38,7 @@ The AI infrastructure arms race has reached a number that defies easy comparison
 
 **Alphabet** has guided to full-year capex in the range of $180 billion to $190 billion, reflecting Google Cloud's explosive 63% year-over-year revenue growth and a backlog that has nearly doubled quarter-over-quarter to $460 billion. That backlog figure is arguably the most significant validation that enterprise AI demand is real and durable.
 
-**Meta** raised its capex forecast to between $125 billion and $145 billion, hiking both ends of guidance by $10 billion, driven by the same memory and GPU cost inflation affecting its peers. Meta's investment is more concentrated in training infrastructure for its open-weight Llama model family and its proprietary AI recommendation and ad systems than in external cloud services.
+**Meta** raised its capex forecast to between $125 billion and $145 billion, hiking both ends of guidance by $10 billion, which the company attributed to expectations for higher component pricing and, to a lesser extent, additional data center costs. Meta's investment is more concentrated in training infrastructure for its open-weight Llama model family and its proprietary AI recommendation and ad systems than in external cloud services.
 
 ## Why Costs Are Exploding
 
@@ -55,7 +56,7 @@ Several structural factors are pushing AI infrastructure costs beyond what even 
 
 The spending surge is not happening in a vacuum. Enterprise AI demand is translating into meaningful revenue at the hyperscalers, and the growth rates are impressive by any standard.
 
-Microsoft's AI business is on an annual revenue run rate of $37 billion, representing 123% year-over-year growth. Google Cloud saw revenue surge more than 60% year-over-year to $20 billion, with the cloud backlog at $460 billion. Meta's ad business continues to generate the cash flows that fund its AI buildout, with AI-optimized ad targeting driving per-user revenue improvement.
+Microsoft's AI business is on an annual revenue run rate of $37 billion, representing 123% year-over-year growth. Alphabet's cloud business grew 82% year-over-year, according to one report. Meta's ad business continues to generate the cash flows that fund its AI buildout, with AI-optimized ad targeting driving per-user revenue improvement.
 
 But Jefferies analyst Brent Thill — who coined the phrase "the AI economy is healthy" in a widely circulated note — is essentially making a faith-based argument: that the infrastructure being built today will be the foundation for AI revenue streams in 2027, 2028, and beyond that don't yet exist in their full form. His dismissal of spending skepticism as "garbage" reflects the conviction of the bull case, but the revenue-to-capex gap is real and widening.
 
@@ -76,3 +77,5 @@ The bear case, articulated with more frequency in private than in print, centers
 The $725 billion number will be one of the defining economic stories of 2026 — either as the largest successful infrastructure bet in corporate history, or as the opening chapter of a cautionary tale about technology investment cycles.
 
 Either way, the AI economy has already passed the point of no return. The question now is whether the applications catch up to the infrastructure.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

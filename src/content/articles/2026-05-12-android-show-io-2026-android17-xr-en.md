@@ -1,8 +1,9 @@
 ---
 title: "Google's Android Show: Android 17, XR Glasses, and Aluminium OS Formally Unveiled"
-summary: "Google used its standalone Android Show: I/O Edition event on May 12 to formally reveal Android 17's biggest features — including universal app bubbles, agentic Gemini integration, and a native app-lock system — alongside the first detailed look at Android XR smart glasses under Project Aura and a preview of Aluminium OS, the company's long-rumored Android-based PC operating system."
+summary: "Google is hosting its standalone Android Show: I/O Edition on Tuesday, May 12, a week before I/O, with Android 17, which is expected to include universal app bubbles, built-in app locking and agentic Gemini integration, and Android XR glasses among the topics to watch."
 category: "products"
 publishedAt: 2026-05-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-05-11-apple-wwdc-2026-ios27-siri-gemini-en"
 ---
 
-Google gave Android its own stage Monday, and used it fully. The Android Show: I/O Edition — a purpose-built pre-conference showcase designed to let Android announcements breathe without getting subsumed by the wave of AI announcements expected at the main Google I/O event next week — delivered three distinct stories: Android 17, Project Aura XR glasses, and Aluminium OS.
+Google gave Android its own stage Tuesday, and used it fully. The Android Show: I/O Edition — a purpose-built pre-conference showcase designed to let Android announcements breathe without getting subsumed by the wave of AI announcements expected at the main Google I/O event next week — delivered three distinct stories: Android 17, Project Aura XR glasses, and Aluminium OS.
 
 Together, they sketch the most ambitious Android platform expansion in years, one that reaches from the phone in your pocket to the glasses on your face to the laptop replacing your Windows machine. Gemini runs through all of it.
 
@@ -66,7 +67,7 @@ Project Aura is the high-end tier of the Android XR glasses lineup. The hardware
 
 Google is also working with hardware partners including Samsung and eyewear manufacturers to produce frames in conventional styles. A lower-cost tier without the full spatial computing overlay is also in development, targeting everyday wearers who want Gemini voice assistance without the premium price point.
 
-No pricing or availability was announced for Project Aura hardware; the focus Monday was software capabilities and design direction. Hardware announcements are expected at I/O next week.
+Hardware announcements are expected at I/O next week.
 
 ## Aluminium OS: Android Comes to the PC
 
@@ -80,8 +81,10 @@ The announcement positions Google to challenge Microsoft more directly in the su
 
 ## What Comes Next Week
 
-Monday's event was explicitly a preview, not a complete reveal. The main Google I/O keynote on May 19 is where hardware announcements, Gemini 4 details, and the full developer platform story will land. Android 17's developer documentation is expected to go live alongside the keynote.
+Tuesday's event was a preview, not a complete reveal. The main Google I/O keynote on May 19 is where hardware announcements, Gemini 4 details, and the full developer platform story will land. Android 17's developer documentation is expected to go live alongside the keynote.
 
 The deliberate staging — Android in its own show, AI and hardware at I/O proper — reflects a lesson Google drew from previous years in which Android updates were buried under model announcement cycles. By giving Android its own spotlight a week early, Google ensures the platform story lands with clarity before the broader AI narrative takes over.
 
 That platform story is coherent and ambitious: a Gemini-native OS running across phones, glasses, and PCs, with each form factor reinforcing the others. Whether the execution matches the announcement, and whether Project Aura hardware is ready to ship at a price consumers will accept, are the open questions that next week's I/O will need to answer.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

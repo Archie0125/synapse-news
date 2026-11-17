@@ -1,8 +1,9 @@
 ---
 title: "微軟取消大多數內部 Claude Code 授權，強制工程師改用 Copilot CLI"
-summary: "微軟正在旗下 Experiences & Devices 部門（負責 Windows、Teams、Office 和 Surface）取消大多數 Claude Code 授權，截止日期為 2026 年 6 月 30 日。儘管工程師更喜歡 Claude Code，微軟仍強制自家團隊改用 GitHub Copilot CLI，理由是成本控制與工具鏈整合。"
+summary: "據報導，微軟正在旗下 Experiences & Devices 部門（負責 Windows、Microsoft 365、Outlook、Teams 和 Surface 的團隊）取消 Claude Code 存取權限，截止日期為 6 月底。據報導，儘管工程師更喜歡 Claude Code，微軟仍將員工導向 GitHub Copilot CLI。"
 category: "developer-tools"
 publishedAt: 2026-05-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -25,21 +26,21 @@ relatedSlugs:
   - "2026-05-27-servicenow-build-agent-all-ai-coding-ides-zh"
 ---
 
-微軟本月做了一個既具策略意義、又充滿諷刺意味、同時揭示企業 AI 成本現實的決定：它正在取消 Experiences & Devices 部門大多數工程師的 Claude Code 授權，要求他們改用 GitHub Copilot CLI，截止日期為 2026 年 6 月 30 日。
+微軟做了一個既具策略意義、又充滿諷刺意味、同時揭示企業 AI 成本現實的決定：據報導，它正在取消內部大多數 Claude Code 授權，並引導工程師改用 GitHub Copilot CLI。
 
 Experiences & Devices 部門負責微軟一些最重要的產品——Windows、Microsoft 365、Outlook、Teams 和 Surface。這些不是邊緣團隊，而是微軟工程版圖的核心。在過去六個月裡，這個部門的許多工程師悄悄地選擇了 Anthropic 的工具，而非自家老闆的產品。
 
 ## 六個月的「禁忌之愛」
 
-2025 年 12 月，Claude Code 在 Experiences & Devices 部門內部率先推出，初期以受控方式開放給開發者、專案經理和部分設計師。普及速度驚人——幾週之內，工程師們便在內部頻道口耳相傳、自發擴散。
+微軟自 12 月起開放員工使用 Claude Code，對象包括開發者、專案經理和設計師，讓他們直接在工作流程中試用這項工具。普及速度驚人——幾週之內，工程師們便在內部頻道口耳相傳、自發擴散。
 
 到了 2026 年春天，Claude Code 的使用已如此廣泛，以至於公司內部消息人士描述，AI 相關費用出現了意料之外的急劇攀升。這正是當你建出一個人們真正想用的東西時，所會遇到的問題。多年來努力說服市場「GitHub Copilot 是世界級 AI 程式工具」的微軟，尷尬地發現自己的工程師用實際行動投票，選擇了競爭對手。
 
-官方在內部溝通中的說法是「工具鏈統一」——聽起來合理的營運目標。但多份報告指出，成本削減才是更直接的驅動因素。以企業 AI 定價計算，數千名工程師頻繁執行重量級的代理編程任務，每月可迅速產生數百萬美元的算力費用。
+微軟並未公開說明決定背後的原因，但報導指出這牽涉財務考量，包括 6 月 30 日的會計年度結束，同時也希望與 GitHub 一起形塑 Copilot CLI。
 
 ## 功能落差是核心問題
 
-讓這件事真正複雜的是：據內部消息，微軟工程師明確偏好 Claude Code 而非 GitHub Copilot CLI，兩者之間的功能落差在開發者圈早已公開討論數月。
+讓這件事真正複雜的是：據內部消息，微軟工程師據報導偏好 Claude Code 勝過 GitHub Copilot CLI，有報導將近幾個月來的這種偏好歸因於兩者之間的功能落差。
 
 Claude Code 基於 Anthropic 的前沿 Claude 模型，提供精密的跨檔案推理、代理任務執行，以及許多開發者認為生產力顯著更高的終端機原生工作流程。GitHub Copilot CLI 雖然能力不俗，且與微軟生態系深度整合，但在長週期代理任務的處理上歷來遜於 Claude Code。
 
@@ -49,7 +50,7 @@ Claude Code 基於 Anthropic 的前沿 Claude 模型，提供精密的跨檔案�
 
 這件事暴露了微軟在 AI 產業中的真實處境與內在矛盾。微軟是 OpenAI 最大的外部投資者，累計承諾超過 130 億美元；近期又在洽談與 Anthropic 的 Maia AI 晶片合作；過去兩年也持續將 AI 整合到 Word、Azure、Xbox 等每一個產品介面。
 
-然而，微軟等於公開承認：在自家工程師的評判下，目前市面上最好的 AI 程式工具是競爭對手做的，而且讓工程師使用它的成本太高了。
+然而，微軟卻正把工程師從許多人據報導偏好的競爭對手工具上移開，改用自家的工具。
 
 換個角度看，這恰恰是理性企業 AI 採購的樣貌。平台紀律至關重要。切換成本持續積累。GitHub Copilot 與微軟整個開發者技術棧——Azure DevOps、GitHub Actions、VS Code、Azure Repos——高度整合，這種整合對大多數企業工程流程確實有其價值，或許足以彌補能力上的落差。
 
@@ -74,3 +75,5 @@ Claude Code 基於 Anthropic 的前沿 Claude 模型，提供精密的跨檔案�
 接下來值得觀察的是：這是否會形成更廣泛的趨勢——其他大型企業是否也會得出結論，認為大規模 AI 編程工具使用的成本效益，更傾向於整合自建或強整合供應商的工具，無論工程師的個人偏好如何。
 
 微軟已經為自己回答了這個問題，至少目前如此：當帳單來了，平台紀律勝出。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

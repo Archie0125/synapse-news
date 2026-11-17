@@ -1,8 +1,9 @@
 ---
 title: "WWDC 2026 Preview: iOS 27 Brings Gemini-Powered Siri, Third-Party AI Extensions"
-summary: "Apple's Worldwide Developers Conference runs June 8–12 in Mountain View, and it could be the company's most consequential software event in years. iOS 27 is expected to debut a redesigned Siri backed by Google's Gemini, a dedicated Siri app, and a new 'Extensions' system that lets users route AI queries to Claude, Grok, and other third-party chatbots."
+summary: "Apple's Worldwide Developers Conference runs June 8–12, primarily online with an in-person element at Apple Park in Cupertino. iOS 27 is expected to debut a redesigned Siri, including a dedicated preinstalled Siri app, with Apple reportedly planning to unveil big Siri changes at the event."
 category: "products"
 publishedAt: 2026-05-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
   - "2026-04-14-apple-smart-glasses-prototypes-en"
 ---
 
-Apple's 37th annual Worldwide Developers Conference opens on June 8, 2026, at the Shoreline Amphitheatre in Mountain View, California. Every WWDC carries weight, but this year's edition arrives at an inflection point: the company that spent the better part of two years defending a cautious, on-device-first approach to AI now has one of the boldest Siri transformations in the assistant's history ready to show developers. iOS 27 is shaping up to be the most AI-intensive release Apple has ever shipped.
+Apple's 37th annual Worldwide Developers Conference opens on June 8, 2026, as a hybrid event held primarily online, with select attendees invited to Apple Park in Cupertino, California. Every WWDC carries weight, but this year's edition arrives at an inflection point: the company that spent the better part of two years defending a cautious, on-device-first approach to AI now has one of the boldest Siri transformations in the assistant's history ready to show developers. iOS 27 is shaping up to be the most AI-intensive release Apple has ever shipped.
 
 ## Siri 2.0: From Voice Command to Full Chatbot
 
@@ -80,3 +81,5 @@ WWDC 2026 is Apple's answer. By packaging Gemini's raw capability in Apple's pri
 Whether that strategy succeeds will depend on how well iOS 27's Siri actually performs in daily use. The history of AI assistant announcements is littered with impressive demos that fell short of expectations in the hands of real users. June 8 will tell us whether Apple's Gemini-powered transformation is the real thing — or another promise deferred.
 
 The developer keynote begins at 10:00 a.m. PT on June 8. Sessions run through June 12, with developer labs and workshops offering direct access to Apple engineers throughout the week.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

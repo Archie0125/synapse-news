@@ -3,6 +3,7 @@ title: "One Robot Per Hour: Figure AI's BotQ Signals Humanoid Manufacturing Has 
 summary: "Figure AI's BotQ facility in California has ramped production of its Figure 03 humanoid robot from one unit per day to one per hour — a 24-fold increase in under four months — targeting 12,000 units annually. The milestone, combined with Boston Dynamics Atlas deployments at Hyundai and NVIDIA's Unitree partnership for research labs, marks the moment humanoid robotics transitions from demo to manufacturing reality."
 category: "hardware"
 publishedAt: 2026-06-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
 
 The humanoid robot industry has spent years promising factory-floor deployments, automotive assembly lines, and warehouse automation. In the spring of 2026, at least one company has stopped promising and started shipping — at a pace that would have seemed implausible eighteen months ago.
 
-Figure AI's BotQ facility in San Jose, California has ramped production of its Figure 03 humanoid robot from one unit per day to one per hour. The 24-fold output increase was achieved in under four months, making BotQ the most productive humanoid robot factory in the world. The company is targeting 12,000 units annually, with production velocity still increasing.
+Figure AI's BotQ facility in San Jose, California has ramped production of its Figure 03 humanoid robot from one unit per day to one per hour. The 24-fold output increase was achieved in under four months, making BotQ the most productive humanoid robot factory in the world. Figure's 2025 plan for BotQ targeted 12,000 units annually, with plans to scale production further.
 
 ## Inside BotQ
 
@@ -41,7 +42,7 @@ BotQ — shorthand for "Bot Quality" — is Figure's purpose-built manufacturing
 
 The ramp was not smooth. Early in 2026, BotQ was producing roughly two to three units per week, with high reject rates at final inspection related to actuator calibration drift and harness routing failures. Figure addressed the calibration issue by integrating an automated in-line calibration step that runs each joint through a full range-of-motion test before the robot leaves the assembly cell. Harness routing was standardized through a combination of jigs and torque-spec software that eliminated technician variability.
 
-By March, daily output had reached three units. By May, the company crossed ten units per day. The current rate of one per hour — approximately 720 units per month — is the result of a manufacturing learning curve that compressed what other industries took years to achieve into months.
+The current rate of one per hour — approximately 720 units per month — is the result of a manufacturing learning curve that compressed what other industries took years to achieve into months.
 
 ## The Figure 03 Platform
 
@@ -74,3 +75,5 @@ The question the industry hasn't fully answered is what happens when humanoid ro
 Figure has argued its data flywheel gives it an advantage on that second question. Boston Dynamics argues its decades of locomotion research provide a mechanical robustness baseline that newer entrants can't replicate quickly. NVIDIA is positioning itself as the neutral infrastructure provider — the GPU company of physical AI — that wins regardless of which humanoid OS wins.
 
 For the first time, the argument is not theoretical. At one robot per hour, humanoid manufacturing has arrived. The race to determine which company's robots will outnumber humans on factory floors is now primarily a software contest dressed in hardware clothing.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

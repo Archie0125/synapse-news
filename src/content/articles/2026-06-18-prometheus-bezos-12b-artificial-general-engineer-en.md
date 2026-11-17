@@ -1,8 +1,9 @@
 ---
 title: "Jeff Bezos' Prometheus Raises $12B to Build an 'Artificial General Engineer' for the Physical World"
-summary: "Prometheus, the industrial AI startup co-led by Jeff Bezos, has closed a $12 billion Series B at a $41 billion valuation, making it one of the most valuable AI companies ever funded. The company is developing what it calls an 'artificial general engineer' — AI capable of designing and manufacturing complex physical systems from jet engines to pharmaceutical compounds."
+summary: "Prometheus, the physical AI startup co-founded by Jeff Bezos, has raised $12 billion at a $41 billion valuation, making it one of the most richly valued AI startups ever funded. The company is developing what it calls an 'artificial general engineer' — software capable of automating the design and manufacturing of complex physical systems from jet engines to drug compounds."
 category: "startups"
 publishedAt: 2026-06-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
 
 When Jeff Bezos left Amazon's CEO seat in 2021, he said he planned to use his time on "new products and early initiatives." Five years later, that initiative has a name, a $41 billion valuation, and a mission statement that would have been science fiction a decade ago: build an **artificial general engineer**.
 
-Prometheus, the industrial AI startup where Bezos serves as co-CEO, closed a $12 billion Series B financing round on June 11, 2026, according to people familiar with the deal. The raise comes less than a year after the company's launch, when it debuted with $6.2 billion in initial backing — itself a record for a company at that stage. Combined, Prometheus has now raised more than $18 billion before generating a single line of publicly disclosed revenue.
+Prometheus, the physical AI startup that Bezos co-founded and leads, announced that it raised $12 billion at a $41 billion valuation. It is the company's second fundraise, following its launch late last year with an initial raise of $6.2 billion. Combined, that is $12 billion in this round on top of the $6.2 billion initial raise.
 
 ## What Prometheus Actually Does
 
-Bezos was unusually candid about the company's ambitions at a public event following the close. "Prometheus is the bulk of my time," he said — a statement that speaks volumes from someone who also chairs Blue Origin, holds a $100 billion-plus investment portfolio, and purchased a major media property.
+Bezos spoke about the company's ambitions in interviews around the announcement. "Prometheus is the bulk of my time," he said — a statement that speaks volumes from someone who also chairs Blue Origin, holds a $100 billion-plus investment portfolio, and purchased a major media property.
 
 The company is developing AI software designed to automate the design and manufacturing of complex physical systems. "Artificial general engineer" is the term Prometheus uses internally — not to be confused with artificial general intelligence, but rather the physical-world equivalent: software capable of doing what an elite team of mechanical, chemical, and materials engineers does, across domains ranging from jet engines to pharmaceutical compound synthesis.
 
-Bezos's co-CEO, **Vik Bajaj**, brings a complementary background. A Stanford School of Medicine professor, Bajaj previously co-founded Verily — Alphabet's life sciences research division — where he worked on combining biological data and machine learning for healthcare applications. The pairing of physical-world manufacturing (Bezos's Amazon supply chain expertise) with life sciences AI (Bajaj's domain) is not accidental.
+Bezos's co-founder, **Vik Bajaj**, brings a complementary background. Bajaj previously co-founded Verily, Google's life sciences unit, and is described by Semafor as a former Google X executive. The pairing of physical-world manufacturing (Bezos's Amazon supply chain expertise) with life sciences AI (Bajaj's domain) is not accidental.
 
 The company currently employs approximately 150 people across offices in San Francisco, London, and Zurich. For a company at $41 billion valuation, the headcount is strikingly lean — a deliberate signal that Prometheus is betting heavily on AI doing the heavy lifting, rather than building a traditional engineering workforce.
 
@@ -72,4 +73,6 @@ It also explains the valuation. Physical AI represents a greenfield opportunity 
 
 Prometheus belongs to this third category — alongside other well-funded vertical players in healthcare AI, legal AI, and financial AI — but with a higher degree of technical ambition than most. The term "artificial general engineer" signals that Prometheus is not building a CAD assistant or a materials database. It is building something intended to replace — or radically augment — the entire engineering design and manufacturing workflow.
 
-Whether that ambition translates into a viable product on any near-term timeline remains to be demonstrated. With $18 billion raised, 150 employees, and a co-CEO who describes it as consuming most of his waking hours, Prometheus has the resources and the mandate to try. In an industry that has stopped being surprised by billion-dollar bets, a $41 billion industrial AI company built in under a year is still remarkable.
+Whether that ambition translates into a viable product on any near-term timeline remains to be demonstrated. With $18 billion raised, 150 employees, and a co-CEO who describes it as consuming most of his waking hours, Prometheus has the resources and the mandate to try. In an industry that has stopped being surprised by billion-dollar bets, a $41 billion physical AI startup that launched late last year is still remarkable.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

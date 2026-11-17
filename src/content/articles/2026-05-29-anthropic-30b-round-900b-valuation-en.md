@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Closes $30 Billion Funding Round at $900 Billion Valuation, Overtaking OpenAI"
-summary: "Anthropic has finalized a $30 billion-plus funding round at a pre-money valuation above $900 billion, making it the world's most valuable AI startup and surpassing OpenAI's $852 billion mark. Led by Sequoia, Dragoneer, Altimeter, and Greenoaks, the round reflects explosive revenue growth to an expected $10.9 billion in Q2 2026 — more than double the prior quarter."
+title: "Anthropic Set to Close $30 Billion Funding Round at $900 Billion-Plus Valuation, Surpassing OpenAI"
+summary: "Anthropic is expected to close a funding round of more than $30 billion at a valuation above $900 billion, which would make it the world's most valuable AI startup and surpass OpenAI's $852 billion mark. Sequoia, Dragoneer, Altimeter and Greenoaks are set to co-lead, and the round follows expected Q2 2026 revenue of $10.9 billion, more than double the prior quarter."
 category: "startups"
 publishedAt: 2026-05-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,19 +29,19 @@ relatedSlugs:
   - "2026-05-27-anthropic-2026-agentic-coding-trends-report-en"
 ---
 
-At some point in the week ending May 29, 2026, Anthropic quietly completed the largest private AI financing round ever assembled — and, in doing so, became the most valuable private AI company on earth. The $30 billion-plus round closed at a pre-money valuation exceeding $900 billion, pushing Anthropic past rival OpenAI, which was last valued at $852 billion in March. It is the capstone on a revenue trajectory that has been, by any historical measure, extraordinary.
+Anthropic is expected to close its latest funding round as soon as next week, according to a Bloomberg report, a deal that would make it the most valuable private AI company in the world. The round, which could exceed $30 billion, would value Anthropic above $900 billion, past rival OpenAI, which was last valued at $852 billion in March. It is the capstone on a revenue trajectory that has been, by any historical measure, extraordinary.
 
 ## The Capital Stack
 
-Four firms co-led the round with approximately $2 billion each: Sequoia Capital, Dragoneer Investment Group, Altimeter Capital, and Greenoaks Capital Partners. Existing investors Peter Thiel's Founders Fund and General Catalyst also participated. The co-lead structure — four firms at equal commitment rather than a single lead — reflects both the scale of the round and the competitive dynamics of growth equity right now, where top-tier crossover funds have been scrambling for allocation in frontier AI companies.
+Four firms are set to co-lead the round, each planning to invest approximately $2 billion: Sequoia Capital, Dragoneer Investment Group, Altimeter Capital, and Greenoaks Capital Partners. Existing investors including Peter Thiel's Founders Fund and General Catalyst are also expected to participate. The co-lead structure — four firms at equal commitment rather than a single lead — reflects both the scale of the round and the competitive dynamics of growth equity right now, where top-tier crossover funds have been scrambling for allocation in frontier AI companies.
 
 The structure also carries a message about Anthropic's leverage. The company reportedly received significantly more interest than the $30 billion it sought, enabling it to set terms rather than negotiate them. People familiar with the round say Anthropic did not entertain a lead investor in the traditional sense, instead keeping the co-lead format to avoid concentrating any single firm's governance influence.
 
 ## Revenue: A Number That Stops Conversations
 
-The financial case for a $900 billion valuation is built on a revenue trajectory that has few precedents in enterprise software, let alone AI. At the end of 2025, Anthropic's annualized revenue was approximately $9 billion. By the close of Q1 2026 it had surpassed $30 billion annualized. For Q2 2026, Anthropic has told investors it expects to report $10.9 billion in revenue — more than doubling the prior quarter. If that lands, the annualized run rate at the end of Q2 will be roughly $44 billion.
+The financial case for a $900 billion valuation is built on a revenue trajectory that has few precedents in enterprise software, let alone AI. At the end of 2025, Anthropic's annualized revenue was approximately $9 billion. By early April 2026 it had crossed $30 billion annualized. For Q2 2026, Anthropic has told investors it expects to report $10.9 billion in revenue — more than doubling the prior quarter. If that lands, the annualized run rate at the end of Q2 will be roughly $44 billion.
 
-The projection investors are most focused on, however, is further forward. Anthropic has told prospective investors that its annualized revenue run rate will exceed $50 billion before July 2026. That would represent roughly a 450 percent increase in less than 18 months from a business that was sub-$10 billion annualized as recently as late 2025. Anthropic's growth rate, if sustained even briefly, would rank among the fastest enterprise revenue ramps in the history of technology.
+The projection investors are most focused on, however, is further forward. Anthropic has told prospective investors that its annualized revenue run rate will exceed $50 billion before July 2026. That would be substantial growth from a $4 billion run rate in July last year and a business that was around $9 billion annualized at the end of 2025. Anthropic's growth rate, if sustained even briefly, would rank among the fastest enterprise revenue ramps in the history of technology.
 
 ## The Business Behind the Numbers
 
@@ -54,9 +55,9 @@ The third is **developer platform lock-in**. Anthropic's expanding ecosystem of 
 
 ## Why $900 Billion — and Is It Justified?
 
-The headline number will attract skepticism, and it should be interrogated honestly. A $900 billion pre-money valuation on $44 billion of annualized revenue implies a roughly 20x forward revenue multiple, which is elevated even by high-growth SaaS standards. The conventional counterargument is that Anthropic is not a SaaS company in the traditional sense: it is building a general-purpose intelligence layer with the potential to restructure multiple industries simultaneously, and the total addressable market is not a segment of software spend but a meaningful fraction of global economic activity.
+The headline number will attract skepticism, and it should be interrogated honestly. The conventional counterargument is that Anthropic is not a SaaS company in the traditional sense: it is building a general-purpose intelligence layer with the potential to restructure multiple industries simultaneously, and the total addressable market is not a segment of software spend but a meaningful fraction of global economic activity.
 
-The more immediate risk is margin. Anthropic's compute costs are staggering — running frontier models at the scale of current usage requires sustained infrastructure spend that has not historically correlated linearly with revenue for AI labs in the way it might for a conventional software business. Anthropic has disclosed that it is in early-stage discussions with Microsoft about running Claude inference workloads on Microsoft's custom Maia 200 AI chips via Azure, which would improve inference cost efficiency if successful. The company also secured a $40 billion data-center deal through SpaceX's Colossus facility — a relationship that reflects the infrastructure requirements at scale.
+The more immediate risk is margin. Anthropic's compute costs are staggering — running frontier models at the scale of current usage requires sustained infrastructure spend that has not historically correlated linearly with revenue for AI labs in the way it might for a conventional software business. Anthropic has disclosed that it is in early-stage discussions with Microsoft about running Claude inference workloads on Microsoft's custom Maia 200 AI chips via Azure, which would improve inference cost efficiency if successful. The company has also arranged a nearly $45 billion deal with Elon Musk's SpaceX to expand computing capacity, a relationship that reflects the infrastructure requirements at scale.
 
 ## The Positioning Game: Anthropic vs. OpenAI
 
@@ -75,3 +76,5 @@ The round also provides Anthropic with the balance sheet to absorb compute cost 
 At $900 billion, Anthropic is valued at more than most Fortune 50 companies. The question now is whether the revenue trajectory that justified that number continues — or whether, as has happened repeatedly in AI's short history, the growth curve inflects in ways that the best models couldn't predict.
 
 For the moment, Anthropic's investors are betting heavily that this time, the curve does not bend down.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

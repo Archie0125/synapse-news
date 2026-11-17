@@ -1,8 +1,9 @@
 ---
-title: "NVIDIA and SK Hynix Lock In Multiyear HBM4 Partnership for Vera Rubin AI Factories"
-summary: "NVIDIA and SK Hynix announced a multiyear co-development agreement on June 7-8 spanning HBM4 memory, Vera Rubin supercomputers, Vera CPUs, and Jetson Thor robotics platforms — a deal that brings the memory supplier into silicon definition discussions before chips are taped out, a first for the industry."
+title: "NVIDIA and SK Hynix Lock In Multiyear Memory Partnership for Vera Rubin AI Factories"
+summary: "NVIDIA and SK Hynix announced a multiyear technology partnership on June 7 to co-develop next-generation memory spanning Vera Rubin supercomputers, Vera CPUs, RTX Spark PCs and Jetson Thor robotics platforms, and to apply AI to chip design and manufacturing."
 category: "hardware"
 publishedAt: 2026-07-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -38,14 +39,14 @@ The conventional model for chip and memory development has always been sequentia
 
 Under the partnership, SK Hynix engineers will collaborate with NVIDIA's chip architects **during the silicon definition phase** — before tape-out, before specifications are finalized, before silicon is even committed. The goal is to eliminate "last-mile inefficiencies" that arise when memory designers and processor designers work in isolation, each optimizing for their own component without full visibility into how the other half of the equation behaves.
 
-This early co-design approach is not unprecedented — Apple has done something similar with its DRAM suppliers for years — but it is a first for hyperscale AI accelerators at this level of integration. The implication is that future Vera Rubin successor architectures may be as much the product of joint NVIDIA-SK Hynix engineering as they are of NVIDIA's in-house GPU teams.
+The implication is that future Vera Rubin successor architectures may be as much the product of joint NVIDIA-SK Hynix engineering as they are of NVIDIA's in-house GPU teams.
 
 ## What the Partnership Covers
 
 The agreement extends across NVIDIA's full hardware roadmap:
 
-- **Vera Rubin NVL72 supercomputers**: The immediate focus, with SK Hynix as a confirmed HBM4 supplier alongside Samsung and Micron. Each VR200 NVL72 rack costs hyperscale cloud providers approximately $7.8 million. Memory alone accounts for roughly 25% of that figure — around $2 million per rack — making memory the single largest cost component aside from the compute dies themselves.
-- **Vera CPUs**: Jensen Huang confirmed that Vera CPUs — NVIDIA's first in-house general-purpose processor, designed to replace x86 CPUs in AI servers — will use SK Hynix memory, extending the partnership beyond the GPU stack.
+- **Vera Rubin AI supercomputers**: SK Hynix is a confirmed HBM4 supplier for Vera Rubin, alongside Samsung and Micron. Each VR200 NVL72 rack costs hyperscale cloud providers approximately $7.8 million. Memory alone accounts for roughly 25% of that figure — around $2 million per rack — making memory the single largest cost component aside from the compute dies themselves.
+- **Vera CPUs**: Jensen Huang said, as reported by Bloomberg, that NVIDIA's next-generation Vera CPU will use SK Hynix memory, extending the partnership beyond the GPU stack.
 - **RTX Spark PCs**: The next generation of NVIDIA's consumer and workstation AI PCs, bringing the co-development relationship into products that will reach individual developers and researchers.
 - **Jetson Thor robotics platforms**: NVIDIA's robotics compute module, used in humanoid robots and autonomous systems, will also draw on SK Hynix memory under the agreement.
 
@@ -61,7 +62,7 @@ For the hyperscalers ordering Vera Rubin systems, HBM4 supply is the primary con
 
 ## AI Applied to Chipmaking Itself
 
-One underreported dimension of the partnership is its software component. The two companies will apply NVIDIA's AI tools — specifically CUDA-X libraries and NVIDIA PhysicsNeMo — to semiconductor chip design and manufacturing processes at SK Hynix's facilities. This includes accelerating semiconductor simulations, Technology Computer-Aided Design (TCAD) workflows, and internal engineering codes that model how materials and devices behave at nanoscale.
+One underreported dimension of the partnership is its software component. The two companies will apply NVIDIA's AI tools — specifically CUDA-X libraries and NVIDIA PhysicsNeMo — to semiconductor chip design and manufacturing processes at SK Hynix's facilities. This includes accelerating semiconductor simulations, Technology Computer-Aided Design (TCAD) workflows, and in-house engineering codes.
 
 This is part of a broader trend NVIDIA has been pushing under its "AI for Every Industry" strategy: using its AI infrastructure to accelerate the industries that produce AI infrastructure. TSMC has deployed NVIDIA systems internally for similar purposes. The implication is that future generations of HBM chips may be designed, simulated, and refined using AI tools running on the very same architecture the chips will eventually power — a recursive loop that could meaningfully compress development timelines.
 
@@ -73,7 +74,7 @@ For **Samsung**, which competes directly with SK Hynix in HBM and which is also 
 
 For **Micron**, the third HBM4 supplier, the message is similar. Micron has been working aggressively to catch SK Hynix in HBM market share, with its HBM3E achieving competitive performance in testing. But market share in components is different from co-design participation in architecture.
 
-For **AMD**, which competes with NVIDIA in the AI accelerator market, the announcement highlights a growing asymmetry: NVIDIA's relationships with its supply chain are not just commercial, they are technical. AMD has its own memory partnerships, but the public signal from NVIDIA and SK Hynix — a joint announcement from both CEOs, an NVIDIA Newsroom feature — is a deliberate demonstration of depth.
+For **AMD**, which competes with NVIDIA in the AI accelerator market, the announcement highlights a growing asymmetry: NVIDIA's relationships with its supply chain are not just commercial, they are technical. The public signal from NVIDIA and SK Hynix — a joint announcement with quotes from NVIDIA's Jensen Huang and SK Group Chairman Chey Tae-won — is a deliberate demonstration of depth.
 
 For **hyperscalers** building AI infrastructure, the partnership is reassuring: NVIDIA and its primary HBM supplier are aligned on a multiyear roadmap, reducing the risk of the supply disruptions that plagued H100 builds in 2023 and H200 builds in 2024.
 
@@ -84,3 +85,5 @@ The Vera Rubin NVL72 rack price — approximately $7.8 million per unit at hyper
 SK Hynix's position as NVIDIA's co-design partner, rather than simply a qualified component vendor, gives it structural advantages in the pricing and allocation of that market. The multiyear agreement locks that relationship in over the period when HBM4 demand will be at its peak — and begins co-development of the HBM5 generation that will define AI hardware economics in the late 2020s.
 
 That is what makes the June partnership more significant than it appeared on announcement day: it is not just a supply deal, it is an architectural alliance.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "Amazon Q2 2026: AWS Closes In on $40B as AI Demand Supercharges Cloud"
-summary: "Amazon reports Q2 2026 earnings after the bell on July 30 with AWS expected to reach $40.6 billion in quarterly revenue—a 31.6% year-over-year surge driven by insatiable AI infrastructure demand. Cloud commitments ballooned from $244B to $364B in a single quarter, signaling that enterprise AI adoption has shifted from experiment to multi-year infrastructure bet."
+title: "Amazon Q2 2026: AWS Expected to Reach About $40B as AI Demand Drives Cloud"
+summary: "Amazon is scheduled to report Q2 2026 earnings after the market closes on Thursday, with AWS expected to generate $40.5 billion in quarterly revenue, a 31% year-over-year increase. The revenue backlog tied to its remaining performance obligations reached $364 billion in the previous quarter."
 category: "industry"
 publishedAt: 2026-07-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,13 +32,13 @@ relatedSlugs:
   - "2026-07-20-amazon-trainium-20b-arr-custom-silicon-en"
 ---
 
-Amazon heads into its Q2 2026 earnings call—scheduled for 5 p.m. Pacific on July 30—with a single number dominating investor conversations: $40 billion. That is the approximate quarterly revenue Wall Street expects from Amazon Web Services, a figure that, if achieved, would represent 31.6% year-over-year growth and mark a milestone in the history of enterprise software. No cloud division has ever generated $40 billion in revenue in a single quarter.
+Amazon heads into its Q2 2026 earnings call—scheduled for 5 p.m. Pacific on July 30—with a single number dominating investor conversations: $40 billion. That is the approximate quarterly revenue Wall Street expects from Amazon Web Services, a figure that, if achieved, would represent 31% year-over-year growth.
 
 The backdrop is a global enterprise AI adoption wave that appears to have crossed a critical threshold. Workloads that were experimental twelve months ago are now in production. Contracts that were pilots have become multi-year commitments. And Amazon is harvesting that shift at scale.
 
 ## The AWS Growth Engine
 
-AWS generated $37.6 billion in revenue in Q1 2026, up 28% year-over-year—its fastest growth in 15 quarters. The acceleration into Q2, if consensus estimates prove correct, would push that pace to approximately 32%.
+AWS generated $37.6 billion in revenue in Q1 2026, up 28% year-over-year—its fastest growth in 15 quarters.
 
 The most remarkable signal, however, was not the quarterly revenue number. It was the contracted backlog. In the span of a single quarter—from Q4 2025 to Q1 2026—Amazon's cloud commitment backlog grew from $244 billion to $364 billion. A $120 billion increase in signed contracts in three months suggests that enterprise customers are not just experimenting with AWS; they are locking in multi-year relationships premised on AI infrastructure they plan to consume at scale over the next five to seven years.
 
@@ -57,9 +58,9 @@ Three converging forces are propelling AWS growth at a pace that would have seem
 
 The context matters. Microsoft reported Azure grew 43% year-over-year in its Q4 fiscal 2026 results, released the previous evening, with AI workloads contributing 22 percentage points of that growth. Google's Alphabet, reporting earlier in the week, posted Google Cloud growth of approximately 37%.
 
-If AWS delivers its expected 32%, it will lag both Azure and Google Cloud in growth rate—but from a substantially larger base. AWS still commands roughly 32% of the global cloud infrastructure market, compared to Microsoft's 23% and Google's 13%. Growing 32% on $37.6 billion is a different engineering problem than growing 43% on a smaller base. The dollar value of the growth is what matters to infrastructure providers: more data centers, more chips, more power.
+AWS still commands roughly 32% of the global cloud infrastructure market, compared to Microsoft's 23% and Google's 13%. Growing 31% on a base of $30.8 billion is a different engineering problem than growing on a smaller base. The dollar value of the growth is what matters to infrastructure providers: more data centers, more chips, more power.
 
-Amazon's total Q2 revenue is expected at approximately $196.7 billion, driven not only by AWS but by a North America retail segment benefiting from Prime membership expansion and a fast-growing advertising business that generated $16.8 billion in Q1 2026.
+Amazon's total Q2 revenue is expected at approximately $196.9 billion, driven not only by AWS but by e-commerce and a fast-growing advertising business expected to reach $19.3 billion.
 
 ## The Capital Expenditure Question
 
@@ -78,3 +79,5 @@ The strategic question for Amazon specifically is whether AWS can maintain its m
 AWS's advantages are scale, breadth, and the most mature enterprise relationships of any cloud provider. The Bedrock model marketplace—offering access to Claude, Llama, and other frontier models on a pay-per-token basis—has become the default path for large organizations that want model flexibility without vendor lock-in.
 
 Whether that proposition remains the most compelling in the market will be one of the defining competitive questions of the next two years. Tonight's Q2 earnings will not answer it definitively—but the $40 billion number, if it lands, will confirm that AWS is very much in the race.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

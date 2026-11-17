@@ -1,8 +1,9 @@
 ---
 title: "NVIDIA and SK Hynix Forge Multi-Year AI Memory Partnership for Next-Gen AI Factories"
-summary: "NVIDIA and SK Hynix announced a sweeping multi-year technology partnership to co-develop next-generation memory for AI factories, spanning Vera Rubin supercomputers, RTX Spark PCs, and Jetson Thor robotics platforms. The deal deepens vertical integration in the AI supply chain and signals that memory — long a commodity — is now a strategic battleground."
+summary: "NVIDIA and SK Hynix announced a multi-year technology partnership to co-develop next-generation memory for AI factories, spanning Vera Rubin supercomputers, RTX Spark PCs, and Jetson Thor robotics platforms."
 category: "hardware"
 publishedAt: 2026-06-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -28,15 +29,15 @@ relatedSlugs:
   - "2026-06-12-oracle-fy2026-q4-ai-capex-shock-en"
 ---
 
-When Jensen Huang talks about AI factories as "the engines of the next industrial revolution," he is talking about infrastructure at a scale that strains every link in the supply chain — and none more than memory. On June 7, NVIDIA and South Korea's SK Hynix formalized what both companies described as a multi-year technology partnership to co-develop next-generation memory for AI factories. The announcement redraws the line between chip supplier and strategic partner, and signals that the memory bottleneck in AI compute is no longer an afterthought.
+When Jensen Huang talks about AI factories as "the engines of the next industrial revolution," he is talking about infrastructure at a scale that strains every link in the supply chain — and none more than memory. NVIDIA and South Korea's SK Hynix announced a multi-year technology partnership to co-develop next-generation memory for AI factories. The announcement redraws the line between chip supplier and strategic partner, and signals that the memory bottleneck in AI compute is no longer an afterthought.
 
 ## What the Partnership Actually Covers
 
-The agreement goes well beyond a standard volume purchase deal. According to both companies' official releases, the collaboration has three distinct pillars.
+The agreement goes well beyond a standard volume purchase deal. According to both companies' official releases, the collaboration covers memory co-development, semiconductor design and simulation, and fab digital twins.
 
-The first is **memory co-development**: SK Hynix will design and supply advanced memory for NVIDIA's full product stack — Vera Rubin AI supercomputers, Vera CPUs, RTX Spark-powered AI PCs, and Jetson Thor robotic computing platforms. This covers everything from datacenter GPU clusters down to edge devices and humanoid robotics, a vertical span that few partnerships match.
+The first is **memory co-development**: SK Hynix will co-develop memory for NVIDIA Vera Rubin AI supercomputers, Vera CPUs, RTX Spark-powered PCs, and Jetson Thor robotic computing platforms. This covers everything from datacenter GPU clusters down to edge devices and humanoid robotics, a vertical span that few partnerships match.
 
-The second pillar is **semiconductor design acceleration**. NVIDIA and SK Hynix will use NVIDIA's own tools — the CUDA-X libraries and the PhysicsNeMo physics simulation framework — to speed up technology computer-aided design (TCAD) workflows, computational lithography, and custom in-house simulation codes. In plain terms: SK Hynix will apply NVIDIA's AI to make better NVIDIA memory, faster.
+The second pillar is **semiconductor design acceleration**. SK Hynix is using NVIDIA's CUDA-X libraries and the PhysicsNeMo framework to speed up technology computer-aided design (TCAD) workflows, computational lithography, and its in-house simulation codes. In plain terms: SK Hynix will apply NVIDIA's AI to make better NVIDIA memory, faster.
 
 The third is **autonomous fab operations**. SK Hynix will build factory digital twins using NVIDIA Omniverse and OpenUSD, and integrate NVIDIA cuOpt to run fully autonomous fab optimization. The stated goal is to progressively replace human scheduling loops in semiconductor fabrication with AI-driven orchestration — a vision that echoes NVIDIA's broader pitch for physical AI.
 
@@ -60,7 +61,7 @@ Developing memory at that specification requires deep collaboration between chip
 
 Perhaps the most ambitious element of the deal is the shared vision for AI-driven semiconductor manufacturing. Chip fabrication is one of the most complex industrial processes on Earth, involving hundreds of process steps and tolerances measured in single-digit nanometers. Today, expert engineers make millions of scheduling and process control decisions per day; mistakes are expensive and sometimes irreversible.
 
-Both companies believe AI can take over substantial portions of that decision-making. SK Hynix's factory digital twins — virtual replicas of physical fabs — will let NVIDIA's Omniverse platform simulate process changes before committing to them on the actual line. NVIDIA cuOpt, an optimization engine originally built for logistics, will handle real-time fab scheduling. The endgame is a fab that adjusts its own processes continuously, catching defect patterns faster than human operators can and reoptimizing throughput without human intervention.
+Both companies believe AI can take over substantial portions of that decision-making. SK Hynix is developing factory digital twins — virtual replicas of physical fabs — and teams can use NVIDIA Omniverse libraries and OpenUSD pipelines to build 3D factory scenes for visualizing, simulating and optimizing manufacturing environments. The digital twins can also support operational optimization, including the movement of autonomous mobile robots, using NVIDIA's open source cuOpt decision optimization engine. The endgame is a fab that adjusts its own processes continuously, catching defect patterns faster than human operators can and reoptimizing throughput without human intervention.
 
 Whether that vision is achievable at the complexity of leading-edge DRAM fabrication remains to be proven. But the direction is clear: NVIDIA is not just building chips for AI factories; it is proposing to build AI-run factories for its chips.
 
@@ -77,3 +78,5 @@ Both companies declined to disclose financial terms, and NVIDIA's investor relat
 The first commercial products under the partnership — HBM4 memory for Vera Rubin systems — are expected to enter production in 2027. Industry watchers will be looking for signs of the autonomous fab technology arriving even sooner, given both companies' aggressive public timelines for AI-driven manufacturing.
 
 For investors, the partnership confirms SK Hynix's position as the preferred NVIDIA memory supplier ahead of the next major architecture cycle — a position that carries both premium pricing power and concentration risk if NVIDIA's own roadmap slips.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

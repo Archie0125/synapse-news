@@ -3,6 +3,7 @@ title: "Congress Unveils Great American AI Act: America's First Federal AI Gover
 summary: "Representatives Jay Obernolte and Lori Trahan released a 269-page bipartisan discussion draft proposing mandatory safety audits for frontier AI developers, a three-year state law preemption, and a new licensing regime for independent verification organizations — setting up the most consequential AI policy fight in Washington's history."
 category: "policy"
 publishedAt: 2026-06-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -36,7 +37,7 @@ The timing is not accidental. The country is caught in a crossfire of competing 
 
 The draft is organized into four titles. Title I — Frontier AI Governance — is the most consequential, and it breaks into three operational sections.
 
-**Section 111** requires large frontier AI developers to publish a "frontier AI framework," a public-facing document explaining how they identify, assess, and mitigate catastrophic risks from their models. Developers must also file transparency reports on an ongoing basis and submit critical safety incident reports to a designated federal authority within 72 hours of a significant incident — a provision modeled loosely on SEC breach disclosure requirements.
+**Section 111** requires large frontier AI developers to publish a "frontier AI framework," a public-facing document explaining how they identify, assess, and mitigate catastrophic risks from their models. Developers must also report critical safety incidents to the Center for AI Standards and Innovation within 15 days of discovery, and imminent catastrophic risks within 24 hours.
 
 **Section 112** creates a licensing system for Independent Verification Organizations (IVOs) — third-party auditors certified by the federal government to conduct semi-annual assessments of frontier AI developers. IVOs evaluate governance policies, real-time risk monitoring systems, and catastrophic risk mitigation measures. This is the bill's most novel mechanism: rather than having government agencies audit AI labs directly (politically contentious and technically demanding), it delegates that function to licensed private organizations operating under federal oversight.
 
@@ -50,7 +51,7 @@ The bill applies to "large frontier developers," defined as companies with annua
 
 ## The State Preemption Fight
 
-The most politically charged provision is the three-year preemption of state laws specifically regulating how frontier AI models are developed. States retain the right to regulate AI *use* within their borders — employment discrimination, consumer fraud, healthcare applications — but lose the power to impose their own development mandates on the training and deployment pipeline.
+The most politically charged provision is the three-year preemption of state laws specifically regulating how frontier AI models are developed. States retain the right to regulate the use and deployment of AI models, as well as laws of general applicability, but lose the power to impose their own mandates specifically regulating model development.
 
 The architects of the bill argue that a single federal standard, however imperfect, is preferable to 50 different state regimes imposing conflicting red lines on a technology that operates across jurisdictional boundaries. "Policy for a technology this transformative can only be built to last if it's written by both parties," Obernolte and Trahan wrote in a joint Bloomberg Law op-ed.
 
@@ -62,7 +63,7 @@ The preemption also collides directly with the political calculus of the White H
 
 Congress has attempted AI legislation before. The AI in Government Act (2020), the Algorithmic Accountability Act (multiple iterations), and various transparency bills have been introduced and quietly died in committee. What makes the GAAIA different is the specificity of its mechanisms. The IVO licensing system, the incident reporting timelines, the whistleblower protections, the workforce disclosure triggers — these are the details that turn aspirational language into enforceable rules.
 
-The bill incorporates language from 12 existing bipartisan measures, a deliberate strategy to build a broader coalition. Six additional members — Reps. Scott Franklin (R-FL), Suhas Subramanyam (D-VA), Erin Houchin (R-IN), and Scott Peters (D-CA) — signed on at launch.
+The bill incorporates language from 12 existing bipartisan measures, a deliberate strategy to build a broader coalition. Four additional members — Reps. Scott Franklin (R-FL), Suhas Subramanyam (D-VA), Erin Houchin (R-IN), and Scott Peters (D-CA) — signed on at launch.
 
 The discussion draft phase is also significant. Rather than introducing a bill and daring Congress to oppose it, Obernolte and Trahan explicitly invited public comment, framing the 269 pages as a starting point for negotiation. That approach buys political space but also opens the door to industry lobbying that could dilute the strongest provisions.
 
@@ -74,4 +75,6 @@ Goldman Sachs projects $7.6 trillion in cumulative AI infrastructure investment 
 
 Whether Congress can move quickly enough to make that framework real before the technology makes it obsolete is the central question. AI capabilities are advancing on a horizon that doubles every four months, according to Anthropic's own published data. Three years of Title I provisions will expire before the next generation of frontier models fully matures.
 
-The discussion period closes in July. Formal introduction is expected in the fall. Whether it passes the Senate — and survives the constitutional challenges to its preemption provisions — is a different story entirely.
+The sponsors have set no firm deadline for the discussion period. Whether it passes the Senate — and survives the constitutional challenges to its preemption provisions — is a different story entirely.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

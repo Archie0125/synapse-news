@@ -1,8 +1,9 @@
 ---
 title: "Ex-DeepMind Researcher David Silver Raises $1.1B to Build AI That Learns Without Human Data"
-summary: "David Silver, the architect of AlphaGo and AlphaZero, has emerged from stealth with Ineffable Intelligence, a London-based AI lab backed by $1.1 billion in seed funding at a $5.1 billion valuation. The company's audacious goal: build a 'superlearner' that acquires all knowledge purely through experience, bypassing human-generated training data entirely — and ultimately make first contact with superintelligence."
+summary: "David Silver, the former lead of DeepMind's reinforcement learning team, has launched Ineffable Intelligence, a London-based AI lab backed by $1.1 billion in seed funding at a $5.1 billion valuation. The company's goal: build a 'superlearner' that discovers all knowledge from its own experience rather than human data — and ultimately make first contact with superintelligence."
 category: "ai-ml"
 publishedAt: 2026-04-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -27,13 +28,13 @@ relatedSlugs:
   - "2026-04-25-deepseek-v4-flagship-model-release-en"
 ---
 
-The most consequential bet in artificial intelligence this year may have just been placed not in San Francisco, but in London. On Monday, April 27, David Silver — the Google DeepMind researcher who designed the systems that conquered Go, chess, and nearly every game humans have ever invented — stepped out of the shadows with a new company called Ineffable Intelligence, armed with $1.1 billion in seed funding and a mission that would strike most AI researchers as simultaneously obvious and extraordinarily ambitious: build an AI that learns everything it knows from its own experience, with no human data required.
+The most consequential bet in artificial intelligence this year may have just been placed not in San Francisco, but in London. On Monday, David Silver — the former DeepMind researcher who led its reinforcement learning team — announced a new company called Ineffable Intelligence, armed with $1.1 billion in seed funding and an ambitious mission: build an AI that learns everything it knows from its own experience, with no human data required.
 
-The round, led by Sequoia Capital and Lightspeed Venture Partners with participation from Nvidia, Google, Index Ventures, DST Global, BOND, EQT, and the UK government's Sovereign AI fund, is the largest seed financing ever raised by a European technology startup — by a wide margin. The company's post-money valuation of $5.1 billion means it enters the world as a unicorn many times over before shipping a single product.
+The round, co-led by Sequoia Capital and Lightspeed Venture Partners with participation from Nvidia, Google, Index Ventures, DST Global and the UK's Sovereign AI Fund, is the largest seed round ever in Europe, according to the company. The $5.1 billion valuation means the company enters the world as a so-called pentacorn, valued at more than $5 billion, only months after it was founded.
 
 ## The "Era of Experience"
 
-Silver spent more than a decade at DeepMind as the lead architect of its reinforcement learning (RL) research program. Under his direction, DeepMind's systems learned to play Atari games better than any human, mastered the ancient strategy game of Go in a way that shocked grandmasters worldwide, and eventually solved protein-folding — one of biology's most stubborn open problems — through its AlphaFold program.
+Silver spent more than a decade at DeepMind, where he was until recently leading the reinforcement learning (RL) team. At DeepMind, Silver was involved in developing programs that beat professional players at chess and Go by learning purely from experience, including AlphaZero, and he was a lead researcher behind the Alpha series, including AlphaGo.
 
 The common thread, Silver has long argued, is experience. Not imitation of humans, not mining the internet for text, not supervised labels curated by annotators — but raw interaction with an environment, learning through trial and error what works and what doesn't. Reinforcement learning is the theoretical backbone of this approach, and Silver believes the field has only scratched the surface of what it can achieve.
 
@@ -51,13 +52,13 @@ The second is the synthetic data wall. Several major AI labs, including OpenAI a
 
 The third is a renewed debate about the limits of imitation. Critics of the current LLM paradigm have argued for years that systems trained to predict the next token can only ever approximate human intelligence — they cannot exceed the ceiling set by the data they were trained on. Reinforcement learning, at least in principle, has no such ceiling: AlphaGo surpassed every human Go player ever recorded, precisely because it wasn't imitating them.
 
-London was a considered choice, not a default. Silver and his co-founders — DeepMind alumni Wojciech Czarnecki, Lasse Espeholt, and Junhyuk Oh — were based in the UK and wanted to remain there. The UK government, eager to establish itself as a leading destination for frontier AI research after years of watching talent drain to California, stepped in with backing through its newly established Sovereign AI fund. That fund, managed through the British Business Bank, is designed specifically to anchor high-potential AI labs in the country.
+London was a considered choice, not a default. Silver and his co-founders — DeepMind alumni Wojciech Czarnecki, Lasse Espeholt, and Junhyuk Oh — were based in the UK and wanted to remain there. The UK government, eager to establish itself as a leading destination for frontier AI research after years of watching talent drain to California, stepped in with backing through its newly established Sovereign AI fund. Sovereign AI is the UK's recently launched sovereign venture fund for AI.
 
 ## The Investors' Bet
 
-Sequoia's decision to co-lead the round at a $5.1 billion valuation for a company with no published models, no benchmarks, and no revenue reflects the VC giant's assessment of Silver himself as much as any specific technology thesis.
+Sequoia co-led the round at a $5.1 billion valuation for a company founded only months ago.
 
-In a rare public statement, Sequoia partners described Ineffable as "a superlearner for the era of experience" and framed Silver's career as the execution of a single principle — that self-play and learning from experience scale further than imitation. The partnership noted that AlphaGo, AlphaZero, and AlphaFold were not separate achievements but steps along a single research trajectory that Silver has been following for his entire career.
+The post traced Silver's career through AlphaGo, AlphaGo Zero, AlphaZero, AlphaStar and AlphaProof, calling it a lineage he has spent his career building.
 
 Nvidia's participation is particularly notable. The chipmaker, which is simultaneously an investor in OpenAI, Anthropic, Mistral, and a dozen other frontier labs, rarely places bets this early. Its involvement signals both commercial interest — Silver's RL systems will presumably require enormous quantities of GPU compute — and a strategic desire to maintain relationships with any organization that might produce the next transformative AI capability.
 
@@ -75,4 +76,6 @@ What is clear is that the AI industry's center of gravity has shifted. A year ag
 
 ---
 
-*Silver described Ineffable as "my life's work" and said the world needs "a place where the full ambition of the reinforcement learning paradigm can flourish." That place, as of this week, is a newly minted, billion-dollar AI lab in London.*
+*Silver has called Ineffable his life's work. That place, as of this week, is a newly minted, billion-dollar AI lab in London.*"
+
+*Correction (November 15, 2026): 12 sentences were corrected or removed to match the sources listed on this page.*

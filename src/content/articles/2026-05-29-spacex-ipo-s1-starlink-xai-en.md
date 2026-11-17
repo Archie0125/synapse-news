@@ -1,8 +1,9 @@
 ---
-title: "SpaceX Files for the Largest IPO in History, Revealing Starlink's Dominance and a $6 Billion xAI Bet"
-summary: "SpaceX's May 20 S-1 filing with the SEC peels back the curtain on a $18.7 billion revenue business built almost entirely on Starlink's satellite internet profits, while a $6.4 billion operating loss in its xAI segment reveals Elon Musk's massive — and so far unprofitable — bet on artificial intelligence. The roadshow starts June 5, targeting a $1.75 trillion IPO valuation and a $75-80 billion capital raise."
+title: "SpaceX Files for a Likely Record IPO After Merging With xAI"
+summary: "SpaceX's filing with the SEC lays out the finances of a company headed for a likely record IPO on the Nasdaq. CNBC reported the company is aiming to kick off its roadshow on June 8."
 category: "industry"
 publishedAt: 2026-05-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,11 +31,11 @@ relatedSlugs:
 
 When SpaceX filed its S-1 prospectus with the Securities and Exchange Commission on May 20, 2026, it did something no one had seen in a generation: it turned the most valuable private company in the world into an open book. The document running to hundreds of pages of financial tables, risk factors, and business descriptions is the first comprehensive look investors have had at the economics of the Musk empire — and the picture it reveals is more complicated than either the bulls or the bears had fully anticipated.
 
-The headline numbers first: SpaceX plans to list under the ticker **SPCX** on the Nasdaq, targeting a valuation of **$1.75 trillion** and raising between **$75 and $80 billion** in fresh capital. The roadshow begins June 5, with pricing targeted for the June 18-30 window. Morgan Stanley serves as left-lead underwriter, with Goldman Sachs, JPMorgan Chase, Bank of America, and Citigroup co-leading. If the deal prices at the targeted valuation, it would be the largest IPO in the history of global capital markets — larger than Saudi Aramco's $25 billion record set in 2019.
+The headline facts first: SpaceX plans to list under the ticker **SPCX** on the Nasdaq. The company is aiming to kick off its roadshow on June 8. Goldman Sachs is lead left on the prospectus, followed by Morgan Stanley, Bank of America, Citigroup and JPMorgan Chase.
 
 ## Three Companies in One Filing
 
-The most important thing to understand about the SpaceX S-1 is that it is not just one company. In February 2026, SpaceX completed its acquisition of xAI — Elon Musk's artificial intelligence startup, which controls both the Grok model family and the X social media platform. The S-1 consolidates all three business lines: Starlink satellite connectivity, the rocket/aerospace segment, and the xAI/X segment. Reading the financials without holding that structure clearly in mind leads to fundamental misinterpretations of the company's profitability.
+The most important thing to understand about the SpaceX S-1 is that it is not just one company. In February, SpaceX merged with xAI, Elon Musk's artificial intelligence startup, which had previously acquired the X social media platform. The S-1 consolidates all three business lines: Starlink satellite connectivity, the rocket/aerospace segment, and the xAI/X segment. Reading the financials without holding that structure clearly in mind leads to fundamental misinterpretations of the company's profitability.
 
 **The Connectivity Segment (Starlink)** is the business that makes SpaceX worth taking seriously as a public company. In 2025, Starlink generated **$11.39 billion in revenue** — 61% of SpaceX's total — and posted an operating **profit of $4.42 billion**, an 86% increase in adjusted EBITDA from 2024. In Q1 2026, Starlink reached $3.26 billion in quarterly revenue (69% of total consolidated revenue), as subscribers more than doubled year-over-year from 5.0 million in Q1 2025 to **10.3 million subscribers** across 164 countries as of March 31, 2026. The network now operates approximately 10,000 satellites in low Earth orbit.
 
@@ -71,3 +72,5 @@ Consolidated SpaceX generated $18.7 billion in total revenue in 2025 but reporte
 The Q1 2026 quarterly revenue of $4.7 billion against an operating loss of $1.9 billion suggests that trajectory is not yet inflecting positively. Bulls will note that the xAI R&D spend should taper as models reach deployment readiness; bears will note that AI R&D costs have a way of expanding to match ambition rather than contracting to match revenue.
 
 At a $1.75 trillion target valuation, SpaceX is being priced as though Starlink's subscriber count will quadruple, the xAI losses will eventually resolve into profitability, and orbital compute will become a real business. None of those outcomes is implausible. All of them require time and things to go right. The June pricing will reveal whether enough institutional capital agrees.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

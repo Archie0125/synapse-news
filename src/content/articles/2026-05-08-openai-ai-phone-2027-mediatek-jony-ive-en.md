@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Fast-Tracks AI Agent Smartphone to 2027, Targets 30 Million Units with Custom MediaTek Chip"
-summary: "Supply chain analyst Ming-Chi Kuo reports that OpenAI has accelerated mass production of its first AI agent smartphone to the first half of 2027, with a custom MediaTek Dimensity 9600 chip built on TSMC's N2P node as the processing core. Separately, Jony Ive's first OpenAI-backed device is confirmed to be a screenless smart speaker with a camera targeting an early-2027 launch — and combined 2027–2028 shipments for the phone could reach 30 million units as OpenAI bets its hardware ambitions will anchor its planned IPO narrative."
+summary: "Industry analyst Ming-Chi Kuo says OpenAI is fast-tracking mass production of its first AI agent phone to as early as the first half of 2027, with a customized MediaTek Dimensity 9600 chip built on TSMC's N2P node. Kuo says combined 2027–2028 shipments could reach around 30 million units if development stays on track."
 category: "products"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-05-07-apple-ios27-ai-extensions-en"
 ---
 
-OpenAI wants to own the device you use to talk to AI. According to a detailed supply chain report from analyst Ming-Chi Kuo published in early May 2026, the company has accelerated its plans for an AI agent smartphone, pulling forward mass production to the first half of 2027 — potentially setting up a launch that could arrive just months before the company's anticipated public offering. The report offers the most specific picture yet of the hardware strategy behind OpenAI's long-gestating consumer device ambitions: a custom silicon roadmap, a 30-million-unit shipment target, and a design philosophy that puts AI agents at the center of the user experience rather than traditional applications.
+OpenAI wants to own the device you use to talk to AI. According to a supply chain report from analyst Ming-Chi Kuo, OpenAI appears to be fast-tracking its AI agent smartphone, with mass production targeted as early as the first half of 2027. The report offers the most specific picture yet of the hardware strategy behind OpenAI's long-gestating consumer device ambitions: a custom silicon roadmap, a 30-million-unit shipment target, and a design philosophy that puts AI agents at the center of the user experience rather than traditional applications.
 
 ## Custom Silicon: The Dimensity 9600 on N2P
 
@@ -43,15 +44,15 @@ Kuo projects that combined 2027–2028 shipments for the OpenAI smartphone could
 
 The scale ambition reflects OpenAI's conviction that the AI smartphone category — devices designed from the ground up around AI agents rather than apps — will generate a demand curve distinct from the existing premium handset market. Consumers who would not upgrade a perfectly functional iPhone may upgrade for a device that fundamentally changes how they interact with AI systems.
 
-Several drivers make 2027 timing strategic. OpenAI has targeted a late-2026 public offering, and a visible, high-profile hardware product in active production would anchor the company's consumer story ahead of that IPO. The device would also arrive as Apple Intelligence matures on iPhone, Google deepens Gemini integration across Android, and Samsung continues to build Galaxy AI — creating a crowded but validating competitive context.
+Several drivers make 2027 timing strategic. OpenAI's planned public offering is cited as a potential driver, since a compelling hardware product could strengthen its story to investors. The device would also arrive as Apple Intelligence matures on iPhone, Google deepens Gemini integration across Android, and Samsung continues to build Galaxy AI — creating a crowded but validating competitive context.
 
 ## Jony Ive's Vision: The Screenless Device
 
-Parallel to the smartphone, the device ecosystem that Jony Ive is designing for OpenAI has come into clearer focus. Ive's first product — revealed in February 2026 and further confirmed in recent reports — is a screenless smart speaker with a camera, targeting a launch in early 2027.
+Parallel to the smartphone, the device ecosystem that Jony Ive is designing for OpenAI has come into clearer focus. Ive's first product was last reported to be a smart speaker with a camera, set to come out in early 2027.
 
-The no-screen design reflects a core philosophical position that Ive and OpenAI CEO Sam Altman have articulated in various contexts: that the smartphone's screen-centric design has become pathological, and that the next computing paradigm should help users engage with the world rather than stare at a rectangle. The Ive device is intended to sit in ambient spaces — living rooms, offices, kitchens — offering voice and vision-based AI interaction without the attention-capturing surface of a display.
+The no-screen design reflects a position that Ive and OpenAI CEO Sam Altman have voiced: that phones have screens, and they want to wean people off those. The Ive device is intended to sit in ambient spaces — living rooms, offices, kitchens — offering voice and vision-based AI interaction without the attention-capturing surface of a display.
 
-This positions it as a companion product rather than a competitor to the smartphone. The two devices together outline a hardware ecosystem strategy: an AI-native smartphone for mobile contexts, and an ambient AI listener-observer for home and work environments. Additional products reportedly in development include smart glasses and earbuds, suggesting OpenAI is assembling what could become a full "AI wearable and ambient device" portfolio.
+This positions it as a companion product rather than a competitor to the smartphone. The two devices together outline a hardware ecosystem strategy: an AI-native smartphone for mobile contexts, and an ambient AI listener-observer for home and work environments. Other OpenAI products reportedly in development include smart glasses, a smart lamp, and potentially earbuds, though the roadmap for those is further out.
 
 ## Competing With Every Major Platform
 
@@ -74,3 +75,5 @@ The deeper implication is structural: as AI companies move from pure software pl
 OpenAI has not officially confirmed a smartphone product. The Kuo report is supply chain intelligence, not a company announcement, and production timelines for consumer electronics frequently shift. But the specificity of the details — a named chip, a production node, a shipment target, a manufacturing timeline — suggests active product development rather than early-stage exploration.
 
 The most immediate milestone to watch is the chip tape-out at TSMC, expected in the second half of 2026. A successful tape-out would lock in the hardware specifications and set a reliable clock for a 2027 launch. Until then, the OpenAI smartphone remains the most consequential unconfirmed product in consumer technology.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

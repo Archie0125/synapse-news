@@ -3,6 +3,7 @@ title: "China Processes 140 Trillion AI Tokens Daily as New 'Token Economy' Resh
 summary: "China's National Data Administration has coined a new word for 'token' in Chinese — ciyuan — as the country processes 140 trillion tokens per day, up from 100 billion just two years ago. Blazing Hong Kong IPOs from AI labs MiniMax and Zhipu AI, a surging AI agent economy, and Pony AI's global robotaxi expansion signal that China's AI boom has entered an aggressive commercial phase that is increasingly visible beyond its borders."
 category: "industry"
 publishedAt: 2026-04-14T09:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -52,7 +53,7 @@ The commercial intensity of China's AI boom has found its most visible expressio
 
 **Zhipu AI** listed a day before MiniMax in January, raising capital in one of the most anticipated Chinese AI IPOs in years. Zhipu's business is concentrated among Chinese state-owned enterprises and major financial institutions, where its GLM model family has strong adoption. Zhipu reported 724 million yuan ($104.8 million) in 2025 revenue, up 132% year-on-year — but also disclosed total losses of 4.7 billion yuan ($680 million), driven by R&D expenditures that climbed 45% in the same period. Shares debuted with a modest 13% gain but have since surged more than 570% from the IPO price.
 
-**MiniMax** was the more spectacular story. The company raised 4.8 billion Hong Kong dollars ($620 million) in its January 9 listing and doubled on debut, outshining its rival by every market metric. MiniMax reported $79 million in 2025 revenue — a 159% year-on-year increase — with 70% of revenue coming from international markets, particularly Singapore and the United States. Like Zhipu, MiniMax is burning cash aggressively, posting an adjusted net loss of $250 million. But for investors, the trajectory of the revenue curve has mattered more than the losses. Shares have risen more than 470% since the IPO, at one point briefly eclipsing Baidu's market capitalization.
+**MiniMax** was the more spectacular story. The company raised 4.8 billion Hong Kong dollars ($620 million) in its January 9 listing and doubled on debut, outshining its rival by every market metric. MiniMax reported $79 million in 2025 revenue — a 159% year-on-year increase — with 70% of revenue coming from overseas markets. Like Zhipu, MiniMax is burning cash aggressively, posting an adjusted net loss of $250 million. But for investors, the trajectory of the revenue curve has mattered more than the losses. Shares have risen more than 470% since the IPO, at one point briefly eclipsing Baidu's market capitalization.
 
 Both companies launched updated models just before their IPO hearings — a sequencing that speaks to the pace at which Chinese AI labs are iterating their foundation models even as they navigate capital markets.
 
@@ -73,3 +74,5 @@ This has practical implications. China's model of AI development — domesticall
 For now, the raw scale figures favor the United States at the frontier model level: OpenAI, Anthropic, and Google collectively run inference infrastructure that likely exceeds China's in raw throughput. But China's 140-trillion-token-per-day figure — driven by a vast, AI-hungry domestic market of 1.4 billion people and increasingly aggressive export strategies from companies like MiniMax and Pony — means the gap is narrowing faster than most Western analysts expected.
 
 The token is the new barrel of oil. China has decided it intends to be an OPEC-level player.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "NVIDIA 的 Nemotron 3 Embed 登頂檢索基準排行榜"
-summary: "NVIDIA 於 7 月 17 日發布了 Nemotron 3 Embed，這是一個包含三個開放且可商用的嵌入模型家族，旗艦 8B 版本以 78.5% 的得分登頂 RTEB 檢索排行榜。這些模型專為大規模 RAG 流程和代理記憶系統而設計，填補了封閉前沿模型與較小開放替代方案之間的空白。"
+summary: "NVIDIA 於 7 月 16 日發布了 Nemotron 3 Embed，這是一個包含三個開放且可商用的嵌入模型家族，由 8B 版本領軍，以 78.5% 的得分在 RTEB 排行榜排名第一。這些模型專為大規模 RAG、代理檢索、程式碼檢索和代理記憶而設計。"
 category: "developer-tools"
 publishedAt: 2026-07-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-07-17-prismml-bonsai-27b-iphone-on-device-zh"
 ---
 
-長期以來，建構有效的檢索增強生成（RAG）系統有一個不為人知的秘密：語言模型獲得了大部分關注，但決定檢索什麼的嵌入模型同樣舉足輕重。一個平庸的嵌入模型產出平庸的檢索結果，再多的提示工程也無法彌補塞滿錯誤文件的上下文視窗。NVIDIA 於 7 月 17 日發布的 Nemotron 3 Embed 正是針對這個瓶頸的直接回應——推出的模型組合在發布當日即登上了檢索基準排行榜首位。
+長期以來，建構有效的檢索增強生成（RAG）系統有一個不為人知的秘密：語言模型獲得了大部分關注，但決定檢索什麼的嵌入模型同樣舉足輕重。一個平庸的嵌入模型產出平庸的檢索結果，再多的提示工程也無法彌補塞滿錯誤文件的上下文視窗。NVIDIA 於 7 月 16 日發布的 Nemotron 3 Embed 正是針對這個瓶頸的直接回應——這組模型由一個在 RTEB 排行榜上排名第一的 8B 模型領軍。
 
-Nemotron 3 Embed 家族包含三個模型：一個為檢索準確度設計的旗艦 8B 參數版本、一個 BF16 精度的 1B 參數版本供一般部署，以及一個 NVFP4 精度的 1B 參數版本，專為 NVIDIA Blackwell GPU 架構優化。三者均開放且可商用，可從 Hugging Face 下載，也可通過 NVIDIA Build 作為 API 端點使用。8B 模型在發布當日以 78.5% 的得分登頂 RTEB（檢索文字嵌入基準）排行榜，並在第二個綜合多語言基準 MMTEB Retrieval 上取得 75.5% 的分數。
+Nemotron 3 Embed 家族包含三個模型：一個為檢索準確度設計的旗艦 8B 參數版本、一個 BF16 精度的 1B 參數版本供一般部署，以及一個 NVFP4 精度的 1B 參數版本，專為 NVIDIA Blackwell GPU 架構優化。三者均開放且可商用，可從 Hugging Face 下載，也可通過 NVIDIA Build 作為 API 端點使用。8B 模型以 78.5% 的得分登頂 RTEB 排行榜，並在 MMTEB Retrieval 上取得 75.5% 的分數。
 
 ## 優質嵌入模型的關鍵
 
@@ -39,7 +40,7 @@ Nemotron 3 Embed 家族包含三個模型：一個為檢索準確度設計的旗
 
 Nemotron 3 Embed 發布前，現有格局呈現出清晰的層級結構。頂端是 OpenAI 的 text-embedding-3-large 和 Cohere Embed v4 等大型專有模型，需要 API 呼叫且按 token 計費。中間是 BGE-M3、E5-Mistral-7B 等可自行部署的開放模型，但在最難的檢索任務上落後於專有選項。小模型端則有 all-MiniLM-L6-v2 等速度快但在垂直領域查詢上明顯較弱的選項。
 
-Nemotron 3 Embed 的架構跨越了上述兩個層級。8B 模型在準確度排名上與專有模型競爭，同時保持可自行部署且免費商用。1B 版本為需要高吞吐量但不想負擔 8B 推理伺服器算力成本的團隊，在效率曲線上提供了一個可用的平衡點。三者共享核心架構決策：雙向注意力遮罩（而非生成式模型典型的因果遮罩）、對 token 層級表示進行平均池化以產生最終嵌入，以及 32,768 個 token 的最大序列長度——長到足以在不進行分塊的情況下嵌入大多數文件。
+Nemotron 3 Embed 的架構跨越了上述兩個層級。8B 模型在準確度排名上與專有模型競爭，同時保持可自行部署且免費商用。1B 版本為需要高吞吐量但不想負擔 8B 推理伺服器算力成本的團隊，在效率曲線上提供了一個可用的平衡點。三者均標示支援 32k 上下文視窗，並以平均池化產生最終嵌入；8B 模型則將因果解碼器轉換為雙向編碼器，以進行全序列檢索。
 
 ## 代理檢索使用情境
 
@@ -51,7 +52,7 @@ NVIDIA 選擇在 MMTEB Retrieval 上對 Nemotron 3 Embed 進行基準測試，�
 
 ## 部署選項
 
-對於構建 RAG 或代理系統的團隊，Nemotron 3 Embed 提供了三種部署路徑。模型作為標準 Transformer checkpoint 可從 Hugging Face 直接獲取，與 Sentence Transformers 庫以及任何能運行 HuggingFace 模型的推理框架相容。NVIDIA Build 為希望跳過推理基礎設施管理的團隊提供託管 API 端點。第三方推理服務商 FriendliAI 則提供在 NVIDIA Blackwell GPU 上的優化部署，1B NVFP4 版本在最新硬體上的吞吐量遠超舊版 GPU。
+對於構建 RAG 或代理系統的團隊，Nemotron 3 Embed 可通過 Hugging Face、NVIDIA NIM 以及 AI 雲端與推理合作夥伴取得。Hugging Face 提供模型權重、模型卡，以及適用於 SentenceTransformers、Transformers 和 vLLM 的範例程式碼。NVIDIA Build 為希望跳過推理基礎設施管理的團隊提供託管 API 端點。第三方推理服務商 FriendliAI 則提供在 NVIDIA Blackwell GPU 上的優化部署，1B NVFP4 版本在最新硬體上的吞吐量遠超舊版 GPU。
 
 NVFP4 版本值得特別關注。NVIDIA 的 Blackwell GPU 系列去年開始作為 Vera Rubin 基礎設施路線圖的一部分進入生產，其中包含對 FP4 矩陣乘法的硬體支援，可大幅加速以該格式編譯的模型推理。Nemotron-3-Embed-1B-NVFP4 直接利用了這一能力，NVIDIA 稱之為在 Blackwell 基礎設施上運行的團隊的最低延遲路徑——但這需要特定硬體，與舊一代 GPU 不相容。
 
@@ -66,3 +67,5 @@ NVIDIA 的核心業務是 GPU 硬體，其軟體工作——CUDA、cuDNN、Trito
 第三，它確立了 NeMo 作為可信開源 AI 開發框架的地位，與 Meta 的 PyTorch 生態系統競爭。NVIDIA 一直在 Nemotron 旗幟下穩定發布強大的開放模型——5 月發布了面向邊緣推理的 Nemotron 3 Nano，現在又發布了面向檢索的 Nemotron 3 Embed——以此在以 CUDA 為原生基礎的開發棧周圍建立開發者思維份額。
 
 對於正在為新專案選擇嵌入模型的開發者而言，Nemotron 3 Embed 改變了決策邏輯。8B 版本提供了此前只能通過專有 API 獲得的準確度，而自行部署的費用為零。1B BF16 版本為高吞吐量應用提供了實際可行的性能點。1B NVFP4 版本則指向了在最新 NVIDIA 硬體上性能優化的未來方向。在 RAG 架構中，檢索質量是輸出質量的天花板，嵌入模型層級的這一改變絕非可以輕描淡寫的細節。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 6 處。*

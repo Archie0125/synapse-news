@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Launches Claude Security in Public Beta, Partnered with CrowdStrike and Five Cybersecurity Giants"
-summary: "Anthropic has opened Claude Security to public beta for enterprise customers — an AI-powered tool that reasons over entire codebases to find vulnerabilities and auto-generate patches. Backed by six major security platform partners including CrowdStrike and Palo Alto Networks, the launch signals Anthropic's entry into a market where AI-generated code is now creating an unprecedented wave of exploitable flaws."
+title: "Anthropic Launches Claude Security in Public Beta as CrowdStrike and Others Integrate Opus 4.7"
+summary: "Anthropic has opened Claude Security to public beta for Claude Enterprise customers — an AI-powered tool that reasons over entire codebases to find vulnerabilities and generate patches. Partners including CrowdStrike and Palo Alto Networks are integrating Opus 4.7 into their security platforms."
 category: "products"
 publishedAt: 2026-05-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -32,7 +33,7 @@ For months, security researchers have been sounding the same alarm: AI coding as
 
 ## From Research Preview to Enterprise Product
 
-Claude Security isn't entirely new. Anthropic first released the capability in February 2026 under the name Claude Code Security, initially as a limited research preview accessible to a narrow group of enterprise developers. The public beta represents a meaningful expansion: any organization on a Claude Enterprise plan can now apply for access, and Anthropic says it will roll the product out broadly over the coming weeks.
+Claude Security isn't entirely new. Anthropic first released the capability in February under the name Claude Code Security, as a research preview. The public beta represents a meaningful expansion: any organization on a Claude Enterprise plan can now apply for access, and Anthropic says it will roll the product out broadly over the coming weeks.
 
 The core pitch is straightforward. Claude Security is designed to find what traditional static analysis tools miss. Where conventional scanners pattern-match against known vulnerability signatures — looking for SQL injection templates, buffer overflow patterns, or known CVEs — Claude Security reasons over the full codebase the way a senior security engineer would. It traces data flows across file boundaries, examines how components interact at runtime, and synthesizes a holistic picture of how an attacker might chain together otherwise low-severity issues into a critical exploit path.
 
@@ -40,9 +41,9 @@ Before any finding reaches an analyst's dashboard, the model assigns a confidenc
 
 ## Six Partners at Launch — Including CrowdStrike's New Coalition
 
-The partner announcement is arguably the most strategically significant aspect of the launch. Anthropic has signed integrations with CrowdStrike, Microsoft Security, Palo Alto Networks, SentinelOne, TrendAI, and Wiz. Each is embedding Claude Opus 4.7 — Anthropic's flagship model — directly into their existing security platforms.
+The partner announcement is arguably the most strategically significant aspect of the launch. CrowdStrike, Microsoft Security, Palo Alto Networks, SentinelOne, TrendAI, and Wiz are integrating Opus 4.7's capabilities into their security platforms. Each is integrating Claude Opus 4.7 into the security platforms enterprises already run on.
 
-The CrowdStrike relationship goes beyond a standard integration. Alongside the Claude Security announcement, CrowdStrike unveiled Project QuiltWorks, an industry-wide coalition it is convening to tackle what the company calls the "AI vulnerability surge." The coalition draws on frontier models from both Anthropic and OpenAI, and its stated mission is to build shared tooling and practices for continuously discovering and remediating the vulnerabilities that AI-generated code is now producing at scale.
+The CrowdStrike relationship goes beyond a standard integration. CrowdStrike, which announced its own Opus 4.7 integration the same day, has recently unveiled Project QuiltWorks, an industry coalition to promote AI readiness and secure AI adoption."
 
 The framing matters. CrowdStrike is not merely adding a new feature to Falcon — it is positioning itself at the center of a new sub-industry, one that exists entirely because AI coding tools have changed the economics of software production. CrowdStrike CEO George Kurtz called AI-generated code "the single largest expansion of the enterprise attack surface in a decade," a direct acknowledgment that the very tools enterprises are adopting to write software faster are simultaneously creating security debt faster than traditional methods can retire it.
 
@@ -73,3 +74,5 @@ With Anthropic's annualized revenue approaching $19 billion as of late April 202
 The deeper question is whether AI-powered security tools will keep pace with AI-powered threats. CrowdStrike's Project QuiltWorks implicitly acknowledges that this is now an arms race: the same models that help developers write code faster also help attackers find and exploit the vulnerabilities that code contains. Claude Security, at its core, is Anthropic's bid to be on the right side of that race.
 
 For enterprises currently grappling with the security implications of their own AI-assisted development workflows, the public beta landing at this moment is something between a relief and a recognition of just how quickly the ground has shifted.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

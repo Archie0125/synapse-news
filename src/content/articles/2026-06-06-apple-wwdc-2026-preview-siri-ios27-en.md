@@ -1,8 +1,9 @@
 ---
 title: "Apple WWDC 2026 Preview: Siri Gets a Brain Transplant, iOS 27 Arrives Monday"
-summary: "Apple's 37th annual developers conference opens June 8 with the biggest Siri overhaul in the assistant's 15-year history: a standalone app, persistent chat history, on-screen awareness, and a hybrid AI stack powered by Apple's own models alongside Google Gemini. iOS 27, macOS 27, and five other OS updates round out a software-heavy keynote."
+summary: "Apple's developers conference opens June 8 with a major Siri overhaul expected to include a standalone app, on-screen awareness, and personal context, with Google's Gemini models underpinning the next generation of Apple Foundation Models. iOS 27, iPadOS 27, and macOS 27 are expected alongside it."
 category: "products"
 publishedAt: 2026-06-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -38,7 +39,7 @@ The headline change is structural. For the first time since its 2011 debut, Siri
 
 This architectural shift addresses the most persistent complaint about Siri: it forgets everything the moment a session ends. The new Siri can accept follow-up questions that reference previous turns, search past interactions, and build responses that synthesize information across multiple exchanges rather than treating each query as isolated.
 
-The capabilities Apple promised in 2024 — **personal context** (understanding your relationships, calendar history, and recent device activity), **on-screen awareness** (seeing and acting on what's displayed without the user describing it), and **cross-app actions** (executing multi-step tasks across different applications) — are all expected to ship at WWDC. According to Bloomberg's reporting, these features are finally ready thanks to Apple's expanded partnership with **Google**, which brings Gemini models into Apple's **Private Cloud Compute** infrastructure, running on Nvidia hardware inside Apple's own data centers.
+The capabilities Apple promised in 2024 — **personal context** (access to emails, messages, files, and photos), **on-screen awareness** (seeing and acting on what's displayed), and **cross-app actions** (completing tasks in and across apps) — are expected to be previewed at WWDC, though it is not yet clear whether all of them will be available in the beta or at iOS 27's launch. According to Bloomberg's reporting, these features are finally ready thanks to Apple's expanded partnership with **Google**, which brings Gemini models into Apple's **Private Cloud Compute** infrastructure, running on Nvidia hardware inside Apple's own data centers.
 
 For queries beyond what Apple's on-device models can handle, users will reportedly be offered a choice of third-party AI engines: **Google Gemini**, **OpenAI's ChatGPT**, or **Anthropic's Claude** — making iOS 27 the first Apple OS to offer users genuine AI model selection rather than a single locked-in provider.
 
@@ -83,3 +84,5 @@ The June 8 keynote will be judged against a simple standard: does the new Siri a
 Developer betas go live the same day as the keynote. Public betas follow in July. The full consumer release arrives in September alongside new iPhone hardware.
 
 For the nearly 1.5 billion active iOS devices in the world, Monday's keynote is the most direct answer yet to a question that has been building for two years: is Apple actually in the AI era, or just adjacent to it?
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

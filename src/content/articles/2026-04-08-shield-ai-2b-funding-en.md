@@ -1,8 +1,9 @@
 ---
-title: "Defense AI Startup Shield AI Raises $2B at $12.7B Valuation, Acquires Flight Simulator Firm"
-summary: "Shield AI closed a $2.25B capital package — a $1.5B Series G led by Advent International and JPMorgan Chase plus $500M in Blackstone preferred equity — valuing the autonomous warfare AI company at $12.7B, up 140% from its prior round. The company projects $540M+ in 2026 revenue and is acquiring Aechelon Technology to expand its autonomous combat training stack."
+title: "Defense AI Startup Shield AI Raises $1.5B at $12.7B Valuation, Is Acquiring Aechelon"
+summary: "Shield AI raised a $1.5B Series G led by Advent and a JPMorganChase investment group at a $12.7B valuation, alongside $500M in Blackstone preferred equity. The company projects more than 80% revenue growth, or at least $540M, in 2026 and is acquiring Aechelon."
 category: "startups"
 publishedAt: 2026-04-08T09:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,9 +27,9 @@ relatedSlugs:
   - "2026-04-08-california-ai-procurement-order-en"
 ---
 
-Shield AI has closed what may be the largest private capital raise in the history of defense technology, assembling a $2.25 billion package that values the autonomous warfare AI company at $12.7 billion — a 140% premium to its prior valuation. The round signals that the defense AI sector has graduated from niche government contractor territory into genuine venture-scale, hyper-growth asset class status.
+The round signals that the defense AI sector has graduated from niche government contractor territory into genuine venture-scale, hyper-growth asset class status.
 
-The capital structure is notable for its complexity. The primary tranche is a $1.5 billion Series G led by Advent International, with JPMorgan Chase co-leading alongside a cohort of existing and new institutional investors. A separate $500 million preferred equity investment from Blackstone, which includes a $250 million delayed draw facility Shield AI can access as it wins new contracts, forms the second tranche. The tiered structure reflects the company's increasingly predictable government revenue base — Blackstone's delayed draw mechanism essentially functions as a committed credit line against contracted future revenue.
+The capital structure is notable for its complexity. The primary tranche is a $1.5 billion Series G led by Advent and a JPMorganChase investment group, with other investors including Snowpoint Ventures, InnovationX, Riot Ventures, Disruptive, and Apandion. A separate $500 million preferred equity investment from Blackstone forms the second tranche, and Shield AI also lined up a $250 million loan that it can draw on later.
 
 ## What Shield AI Actually Does
 
@@ -40,15 +41,15 @@ Beyond dogfighting, Hivemind powers a family of unmanned aircraft systems that S
 
 ## The Air Force Deal That Changed the Math
 
-The 140% valuation step-up from Shield AI's previous round traces directly to a US Air Force contract awarded in early 2026. Sources familiar with the deal describe it as a multi-year, multi-platform agreement under the Collaborative Combat Aircraft (CCA) program — the Air Force's initiative to develop autonomous wingman drones that fly alongside crewed fighters.
+Shield AI's Hivemind autonomy software was selected in February as a provider for the Air Force's Collaborative Combat Aircraft (CCA) drone prototype program.
 
-The CCA program represents potentially tens of billions of dollars in procurement over the decade. Shield AI was selected as a primary contractor alongside Boeing's Phantom Works division, bypassing several larger defense primes. Industry observers attribute the win to Shield AI's demonstrated operational record with Hivemind and the company's ability to iterate software capabilities faster than traditional defense contractors.
+The CCA program represents potentially tens of billions of dollars in procurement over the decade. Hivemind was selected to work with competitor Anduril on its Fury autonomous fighter jet, which suggests the Air Force does not want to be locked into a single vendor. Industry observers attribute the win to Shield AI's demonstrated operational record with Hivemind and the company's ability to iterate software capabilities faster than traditional defense contractors.
 
 "Legacy defense programs measure software updates in years. Shield AI ships Hivemind capability updates in weeks," one defense technology analyst told investors in a note following the round. "That velocity is genuinely difficult for Lockheed or Raytheon to replicate."
 
 ## $540M Revenue and the Path to Profitability
 
-Shield AI is projecting more than $540 million in revenue for fiscal year 2026, representing approximately 80% year-over-year growth. The company has publicly stated an intention to pursue an IPO in 2027, contingent on market conditions.
+Shield AI is projecting more than 80% revenue growth in 2026, which would equate to at least $540 million in revenue. The company has publicly stated an intention to pursue an IPO in 2027, contingent on market conditions.
 
 The revenue mix is shifting toward higher-margin software licensing. Hivemind was initially sold primarily as a hardware-bundled capability — you bought the drone and Hivemind came with it. The company is now transitioning toward a model where Hivemind is licensed as standalone software to governments and defense primes integrating it into their own platforms. This transition mirrors the software playbook of commercial AI companies and, if successful, should significantly expand operating margins.
 
@@ -71,3 +72,5 @@ The appetite reflects both a genuine technology opportunity and a geopolitical m
 For venture investors, defense tech now offers something that has historically been rare: predictable, multi-year, non-cyclical government revenue with built-in switching costs. Once the US Air Force standardizes on Hivemind for autonomous wingman operations, replacing it mid-program is a lengthy, expensive process — creating the kind of durable competitive position that VCs traditionally struggle to find in pure software companies.
 
 The $12.7 billion valuation puts Shield AI roughly on par with mid-tier defense primes and significantly above where pure-play defense AI companies have historically traded. Whether the public markets will sustain that valuation at IPO will be the next critical test — and the answer will tell the entire defense tech ecosystem whether the venture bets being placed today were priced correctly.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

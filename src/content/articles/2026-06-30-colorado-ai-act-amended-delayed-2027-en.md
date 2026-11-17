@@ -1,8 +1,9 @@
 ---
-title: "Colorado Guts Its Landmark AI Law on the Day It Was Supposed to Take Effect"
+title: "Colorado Guts Its Landmark AI Law and Delays It to 2027, Just Before the Original Effective Date"
 summary: "Colorado Governor Polis signed SB 189 in May 2026, stripping the state's pioneering AI consumer protection law of its core risk-management obligations and pushing the effective date from June 30, 2026, to January 1, 2027. The gutted version eliminates impact assessments, algorithmic discrimination duties, and AG reporting requirements, replacing them with basic transparency disclosures — a significant retreat that draws criticism from civil rights advocates."
 category: "policy"
 publishedAt: 2026-06-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -30,7 +31,7 @@ relatedSlugs:
 
 Today, June 30, 2026, was supposed to be a landmark day in American AI governance. It was the original effective date of Colorado's Senate Bill 205 — the country's first comprehensive AI consumer protection statute, signed into law in 2024 and designed to establish a risk-based framework governing the use of AI in decisions affecting employment, housing, healthcare, education, and financial services.
 
-Instead, the law that takes effect today is a substantially different document. In May 2026, Governor Jared Polis signed Senate Bill 189, which gutted the original SB 205's most consequential provisions and delayed implementation by another six months, to January 1, 2027. The episode offers a cautionary tale about the gap between passing an AI governance law and actually implementing one.
+Instead, the law that will eventually take effect is a substantially different document. In May 2026, Governor Jared Polis signed Senate Bill 189, which scaled back the original SB 205's most consequential provisions and delayed the effective date from June 30, 2026, to January 1, 2027. The episode offers a cautionary tale about the gap between passing an AI governance law and actually implementing one.
 
 ## What the Original Law Required
 
@@ -56,8 +57,6 @@ The revised law signed by Governor Polis eliminates the most substantive complia
 
 **Gone:** Impact assessment mandates — one of the most analytically demanding requirements in the original law, which would have forced companies to systematically evaluate whether their AI systems produced discriminatory outcomes before deployment.
 
-**Gone:** Reporting obligations to the Colorado Attorney General, eliminating the state's visibility into how high-risk AI is actually being used within its borders.
-
 ## What Was Kept
 
 The replacement law is narrower and focused almost entirely on transparency rather than substantive obligation:
@@ -80,6 +79,8 @@ Colorado's experience illustrates a pattern that has emerged across state-level 
 
 The contrast with European regulatory trajectory is stark. The EU AI Act — which took effect in stages beginning in 2024 — maintains its original risk-based framework and binding obligations, enforced by national AI authorities with meaningful sanctioning power. Colorado, starting from a similar conceptual foundation, arrived at something closer to a voluntary disclosure regime six months after its law's originally scheduled effective date.
 
-The January 1, 2027 implementation of the amended law will still represent something: every company deploying automated decision-making technology that affects Colorado consumers will be required to provide basic documentation of how their systems work and what training data was used. But it is a far cry from what SB 205 envisioned in 2024 — and a significant data point for the 20-plus states watching Colorado's experience as they draft their own AI legislation.
+The January 1, 2027 implementation of the amended law will still represent something: developers of certain automated decision-making technology will be required to give deployers information about intended uses, potentially harmful uses, and categories of training data. But it is a far cry from what SB 205 envisioned in 2024 — and a significant data point for the 20-plus states watching Colorado's experience as they draft their own AI legislation.
 
 Whether Colorado's retreat makes AI governance nationally easier — by demonstrating the political and practical limits of ambitious state-level frameworks — or harder — by signaling to industry that sustained lobbying reliably weakens AI laws before they take effect — may be the most consequential question its amended law leaves unanswered.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

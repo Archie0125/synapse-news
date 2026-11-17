@@ -1,8 +1,9 @@
 ---
 title: "Wispr AI Closes In on $2B Valuation as Voice Dictation Evolves Into a Voice OS"
-summary: "Wispr AI, maker of the popular Wispr Flow voice dictation app, is in talks to raise approximately $260 million in a Menlo Ventures-led round that would more than double its valuation to $2 billion. With 2.5 million downloads and adoption at Nvidia and Amazon, the startup is repositioning from dictation tool to ambient voice operating system."
+summary: "Wispr AI, maker of the Wispr Flow voice dictation app, is in talks to raise approximately $260 million in a Menlo Ventures-led round that could more than double its valuation to nearly $2 billion. Employees at companies including Nvidia and Amazon reportedly use the software."
 category: "startups"
 publishedAt: 2026-05-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,9 +27,9 @@ relatedSlugs:
   - "2026-05-09-openai-gpt-realtime-2-voice-api-en"
 ---
 
-In November, Wispr AI was worth $700 million. Six months later, the startup is negotiating a funding round that would peg its value at $2 billion — and the company has barely started on what it considers its real ambition.
+In November, Wispr AI was worth $700 million. In November, Wispr AI was worth $700 million. Six months later, the startup is in talks on a funding round that would value it at close to $2 billion.
 
-Bloomberg reported this week that Wispr AI, the company behind the Wispr Flow voice dictation application, is in advanced talks to raise approximately $260 million in a new round led by Menlo Ventures. The deal, which has not yet been finalized, would represent a nearly 3x increase in valuation in less than a year, and would bring the startup's total external funding to over $340 million. Previous investors including Notable Capital and Flight Fund are expected to participate.
+Bloomberg reported this week that Wispr AI, the company behind the Wispr Flow voice dictation application, is in talks to raise approximately $260 million in a new round led by Menlo Ventures. The deal, which has not yet been finalized, could more than double the startup's valuation from the $700 million it was reportedly valued at in November, and would come on top of the roughly $81 million Wispr has raised to date. Previous investors including Notable Capital and Flight Fund are among its backers. Previous investors including Notable Capital and Flight Fund are expected to participate.
 
 The raise arrives at a moment when voice AI is undergoing its own quiet inflection point — moving from a niche productivity hack favored by doctors and lawyers into a broadly adopted interface layer that a new cohort of knowledge workers appears genuinely willing to pay for.
 
@@ -46,7 +47,7 @@ Enterprise adoption has been the engine of growth. Employees at Nvidia, Amazon, 
 
 By early 2026, Wispr Flow had accumulated approximately 2.5 million global downloads since its launch in late 2025, with enterprise adoption expanding at a rate the company describes as significantly faster than consumer growth. The app has achieved what investors typically look for before leading a growth round: demonstrated retention rather than mere download velocity.
 
-The $260 million in new funding, at a roughly $2 billion post-money valuation, would represent a significant deployment of capital into what remains a relatively early-stage company. Menlo Ventures, whose portfolio includes other enterprise-focused AI infrastructure companies, appears to be making a bet that voice input is on the verge of becoming a default enterprise interface layer rather than remaining a specialized tool.
+The $260 million in new funding, at a valuation of close to $2 billion, would represent a significant deployment of capital into what remains a relatively early-stage company. Menlo Ventures, whose portfolio includes other enterprise-focused AI infrastructure companies, appears to be making a bet that voice input is on the verge of becoming a default enterprise interface layer rather than remaining a specialized tool.
 
 The deal terms are still being negotiated, and Bloomberg noted that funding arrangements can change before closing. But the direction of travel is clear: investors are treating voice-first AI interfaces as a separate category from both traditional voice assistants (Siri, Alexa) and large language model interfaces (ChatGPT, Claude), with Wispr positioned as infrastructure for that middle layer.
 
@@ -71,3 +72,5 @@ For enterprise users who spend hours daily interacting with AI coding assistants
 Fundraises at this scale, at this stage, typically signal that the company has achieved something investors consider difficult to replicate: a distribution channel, a proprietary dataset, a switching cost, or a brand association that makes late-stage competition expensive. For Wispr, the most likely candidate is the combination of behavioral data — the accumulated writing style models for millions of users — and the enterprise distribution relationships it has built into productivity workflows.
 
 Whether Menlo Ventures and the other participants have correctly priced that moat is a question the next eighteen months will answer. What is clear is that voice AI startups with real enterprise traction are commanding valuations that would have been considered implausible two years ago — and Wispr, with its blend of consumer scale and enterprise depth, is making a compelling case for why it deserves to be at the top of that bracket.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "OpenAI Acquires Ona to Power Long-Running Codex Agents in the Cloud"
 summary: "OpenAI has agreed to acquire Ona, the cloud development platform formerly known as Gitpod, to enable its Codex coding agent to run persistent multi-day tasks in secure cloud sandboxes. The deal is OpenAI's sixth acquisition of 2026 and a direct challenge to Anthropic's growing enterprise developer dominance."
 category: "developer-tools"
 publishedAt: 2026-06-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -45,9 +46,9 @@ Ona's core technology provisions secure, cloud-based sandboxes that remain live 
 
 OpenAI confirmed that Ona "will improve Codex's ability to perform long-running tasks that take hours or days" and will give users cleaner interfaces for reviewing agent output and providing feedback mid-task.
 
-The security architecture is equally significant. Ona's sandboxes verify applications through cryptographic hashing rather than relying on filenames, meaning a renamed or relocated malicious binary cannot bypass controls. Sensitive credentials are vaulted separately from the execution environment, and outbound connections to potentially harmful servers are blocked at the infrastructure level. These aren't incidental features: enterprise security teams evaluating AI coding tools have consistently flagged credential leakage and supply chain contamination as their top two concerns when deploying agents at scale.
+The security architecture is equally significant. Ona's sandboxes verify applications through cryptographic hashing rather than relying on filenames, meaning a renamed or relocated malicious binary cannot bypass controls. Ona's platform can prevent agents from accessing parts of the file system that contain sensitive credentials such as encryption keys, and it blocks outbound connections to potentially malicious servers. These aren't incidental features: enterprise security teams evaluating AI coding tools have consistently flagged credential leakage and supply chain contamination as their top two concerns when deploying agents at scale.
 
-The acquisition fits a recognizable pattern. In March 2026, OpenAI purchased Promptfoo Inc., which added automated red-teaming and vulnerability scanning to Codex's Frontier security platform. Ona extends the same hardening logic to the execution environment itself—giving enterprise clients not just a smart coding agent, but the secure, observable infrastructure required to actually deploy it across production workflows.
+The acquisition fits a recognizable pattern. In March 2026, OpenAI purchased Promptfoo Inc. to enhance the cybersecurity features of its OpenAI Frontier platform, which enables companies to build custom AI agents. Ona extends the same hardening logic to the execution environment itself—giving enterprise clients not just a smart coding agent, but the secure, observable infrastructure required to actually deploy it across production workflows.
 
 ## A Direct Counterweight to Claude Code
 
@@ -70,3 +71,5 @@ OpenAI's 2026 acquisition spree—spanning security hardening, execution infrast
 The AI coding-assistant market is entering a consolidation phase. The first generation offered suggestions inside existing IDEs. The second generation—Cursor, Devin, Claude Code—handled longer autonomous tasks. The emerging third generation, typified by what OpenAI is building with Codex plus Ona, places persistent, cloud-resident agents at the center of the software development lifecycle, checking back with humans at natural breakpoints rather than at every line of code.
 
 With Codex at five million weekly users and growing, and the enterprise software development market estimated above $650 billion globally, Ona gives OpenAI a durable infrastructure position at precisely the moment that enterprises are deciding which AI coding platform becomes their default. The deal is subject to regulatory review; no closing date has been announced.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

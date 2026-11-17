@@ -1,8 +1,9 @@
 ---
 title: "Apple Extends Private Cloud Compute to Google Cloud on Nvidia Blackwell — And the Privacy Math Is Complicated"
-summary: "Apple has expanded its Private Cloud Compute infrastructure to Google Cloud, running on Nvidia Blackwell GPUs with confidential computing support. The move enables more demanding Apple Intelligence workloads but raises pointed questions about whether Apple's privacy promises survive an architecture that spans three of the tech industry's largest rivals."
+summary: "Apple has expanded its Private Cloud Compute infrastructure to Nvidia GPUs with confidential computing running in Google's cloud. The move supports server-side inference for Apple's new cloud models while Apple says it maintains its privacy guarantees."
 category: "ai-ml"
 publishedAt: 2026-07-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -57,9 +58,9 @@ Apple says the Google Cloud deployment maintains the same five PCC requirements 
 
 ## The January Alliance That Reframed Everything
 
-The PCC expansion to Google Cloud did not happen in isolation. In January 2026, Apple and Google announced a **multi-year AI collaboration** under which the next generation of Apple Foundation Models — the AI systems underlying Apple Intelligence — would be co-developed using Google's Gemini model technology and cloud infrastructure.
+The PCC expansion to Google Cloud did not happen in isolation. In January, Apple and Google announced a partnership for Apple Intelligence. Federighi said Google's technology was used to help build Apple's own models, which are not the same Gemini available to the public.
 
-That announcement was itself significant, but the full technical picture only became clear at WWDC: Apple is effectively outsourcing the inference infrastructure for its most demanding AI tasks to Google, while using Nvidia's Blackwell hardware as the privacy boundary between the two companies' systems.
+That announcement was itself significant, but more detail emerged at WWDC: Apple is extending Private Cloud Compute to Nvidia GPUs in Google's cloud, though Federighi said it is not using Google's off-the-shelf cloud infrastructure.
 
 The Apple-Google relationship in AI is striking given the two companies' historical rivalry. Apple has long positioned itself as the privacy alternative to Google's data-centric business model. The Gemini collaboration — and now the PCC-on-Google-Cloud deployment — does not erase that positioning, but it does complicate the clean narrative Apple has cultivated.
 
@@ -83,7 +84,7 @@ The practical driver behind the expansion is capacity. Apple Intelligence has se
 
 Apple Silicon servers are expensive to manufacture and deploy. Nvidia Blackwell GPUs, despite their own supply constraints, are available in volumes that Apple's own chip production cannot match on the timeline required.
 
-The three-year collaboration with Google reflects Apple's longer-term strategy: use Google's cloud infrastructure and Gemini model expertise for the upper tier of Apple Intelligence workloads, while maintaining the on-device processing model for sensitive and latency-critical tasks.
+The collaboration with Google reflects Apple's strategy of using Google's technology to help build its own models, while running some Apple Intelligence features on Nvidia GPUs in Google's cloud.
 
 ## The Competitive Irony
 
@@ -100,3 +101,5 @@ For Apple Intelligence users, the practical implications depend on which tasks t
 Apple says users can verify which processing tier is being used via a "privacy transparency" indicator in Apple Intelligence settings — a feature carried over from the original PCC design. The company has also published the software images running on Google Cloud PCC servers to its public transparency log, allowing independent security researchers to verify that the deployed software matches Apple's specifications.
 
 Whether that level of transparency is sufficient to maintain user trust in an architecture that, for the first time, places Apple's AI workloads on another company's physical infrastructure — is a question that privacy debates in the months ahead will inevitably revisit.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

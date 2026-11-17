@@ -1,8 +1,9 @@
 ---
-title: "US and China Eye Historic AI Governance Talks at Upcoming Trump-Xi Summit in Beijing"
-summary: "The United States and China are preparing to add formal AI dialogue to the agenda of a mid-May summit in Beijing between President Donald Trump and President Xi Jinping — a potential breakthrough in managing the world's most consequential technological rivalry. Discussions are expected to center on preventing AI from triggering autonomous weapons escalation, curbing nonstate actor misuse of open-source models, and establishing guardrails for AI involvement in nuclear command decisions."
+title: "US and China Reportedly Explore AI Talks Ahead of Trump-Xi Summit in Beijing"
+summary: "The United States and China are reportedly exploring the possibility of launching formal discussions on artificial intelligence, which could become a major topic at the upcoming Beijing summit between President Donald Trump and President Xi Jinping. Concerns reportedly include autonomous military weapons, unpredictable AI behavior and AI-enabled cyberattacks."
 category: "policy"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -40,7 +41,7 @@ The focus on specific, bounded risks reflects the pragmatic approach both govern
 
 ## Treasury Secretary Bessent Leads the US Side
 
-On the American side, Treasury Secretary Scott Bessent is reportedly leading the AI track within the summit preparation, according to people familiar with the matter. The assignment of Treasury — rather than the State Department or the Office of Science and Technology Policy — to the AI diplomacy portfolio is notable. It suggests the administration views AI primarily through an economic competitiveness lens: the risk to be managed is not just military escalation but the economic and strategic consequences of an uncontrolled AI race that neither power has the capacity to win alone.
+On the American side, Treasury Secretary Scott Bessent is reportedly expected to lead the US delegation in the proposed AI negotiations. The assignment of Treasury — rather than the State Department or the Office of Science and Technology Policy — to the AI diplomacy portfolio is notable. It suggests the administration views AI primarily through an economic competitiveness lens: the risk to be managed is not just military escalation but the economic and strategic consequences of an uncontrolled AI race that neither power has the capacity to win alone.
 
 China has not yet publicly designated its counterpart. That gap in public signaling may be a negotiating dynamic — keeping flexibility over whether to engage at the technical level, the economic level, or the foreign-policy level, depending on how the American side frames the conversation.
 
@@ -79,3 +80,5 @@ Such a channel would not slow AI development in either country, and it would not
 For Taiwan, the prospect of US-China AI talks carries particular weight. Taiwan sits at the intersection of the two countries' AI rivalry — as the primary manufacturer of the advanced semiconductors that power AI systems in both nations — and as the most likely flashpoint for any military confrontation triggered by escalating AI-enabled military capability.
 
 Any formal US-China AI dialogue that includes protocols around Taiwan Strait scenarios would directly affect Taiwan's security environment. Taiwanese officials and analysts will be watching the Beijing summit closely, seeking signals about whether the Trump administration's engagement with China on AI risks is being conducted in ways that strengthen or weaken deterrence around the island. The outcome of the proposed AI track may prove as consequential for Taiwan's near-term security as any of the other agenda items the two presidents will discuss.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

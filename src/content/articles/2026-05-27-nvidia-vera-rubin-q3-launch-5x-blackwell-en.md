@@ -3,6 +3,7 @@ title: "NVIDIA Vera Rubin Confirmed for Q3 Launch: 5× Blackwell Performance at 
 summary: "NVIDIA confirmed during its record-breaking Q1 FY2027 earnings call that the Vera Rubin platform will ship in Q3 2026 with a full volume ramp by Q4. The seven-chip architecture promises 50 petaFLOPs of NVFP4 inference per GPU and 3.6 exaFLOPs of rack-scale throughput — potentially the most consequential AI hardware generation since the Transformer took hold."
 category: "hardware"
 publishedAt: 2026-05-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -50,11 +51,11 @@ Compared with the Blackwell NVL72, NVIDIA projects 5× better inference performa
 
 ## Supply Reality Check
 
-Enthusiasm about Vera Rubin's specs warrants tempering with production math. NVIDIA guided Q2 FY2027 revenue to approximately $91 billion — still largely Blackwell-driven. The company characteristically allocates 60 to 70 percent of new GPU production to hyperscalers during the first year, leaving enterprises, governments, and cloud startups competing for the remainder.
+Enthusiasm about Vera Rubin's specs warrants tempering with production math. NVIDIA guided Q2 FY2027 revenue to approximately $91 billion, plus or minus 2%. The company characteristically allocates 60 to 70 percent of new GPU production to hyperscalers during the first year, leaving enterprises, governments, and cloud startups competing for the remainder.
 
 Analyst estimates put total 2026 Vera Rubin GPU output at somewhere between 200,000 and 300,000 units — a fraction of the installed Blackwell base. First customer deployments are expected across AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure, and CoreWeave, in that order of likely allocation priority.
 
-That supply constraint is, paradoxically, part of why NVIDIA guided the combined Blackwell-plus-Rubin platform to $1 trillion in cumulative revenue through 2027. Blackwell continues to sell as fast as it can be manufactured; Rubin adds a premium tier rather than replacing its predecessor. The $80 billion stock buyback and 25-fold dividend increase announced alongside earnings reflect management confidence that the demand runway extends well beyond any near-term supply ceiling.
+NVIDIA has also pointed to $1 trillion in platform revenue visibility covering Blackwell and Rubin, a figure discussed at GTC in March 2026. Blackwell continues to sell as fast as it can be manufactured; Rubin adds a premium tier rather than replacing its predecessor. The $80 billion stock buyback and 25-fold dividend increase announced alongside earnings reflect management confidence that the demand runway extends well beyond any near-term supply ceiling.
 
 ## The Groq 3 LPX Factor
 
@@ -75,3 +76,5 @@ The architecture decisions embedded in Vera Rubin reflect a clear read of where 
 The broader implication is that the economics of inference are about to shift again. Every year since the 2022 ChatGPT moment, the cost of a million tokens has fallen by roughly 80 percent — not because OpenAI or Anthropic became more efficient, but because the hardware they run on got dramatically faster at fixed power envelopes. Vera Rubin's 10× cost-per-token improvement over Blackwell, if it materializes, would accelerate that trend and expand the range of tasks where deploying AI agents is economically rational.
 
 For the enterprises, developers, and researchers waiting on the other side of NVIDIA's allocation queue, Q3 2026 cannot arrive quickly enough.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

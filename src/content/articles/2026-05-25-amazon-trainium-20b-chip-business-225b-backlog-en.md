@@ -1,8 +1,9 @@
 ---
 title: "Amazon's Custom Chip Business Hits $20B Run Rate With $225B Backlog — Nvidia's Toughest Challenger Yet"
-summary: "Amazon's Q1 2026 earnings revealed its Trainium custom silicon business has surpassed a $20 billion annual revenue run rate, growing at triple-digit percentages year-over-year, with $225 billion in committed backlog from customers including OpenAI and Anthropic. CEO Andy Jassy called it one of the top three data center chip businesses in the world — and said the real value is twice that if sold externally."
+summary: "Amazon's Q1 2026 earnings revealed its custom chips business has an annual revenue run rate of over $20 billion, growing at triple-digit percentages year-over-year, with over $225 billion in revenue commitments for Trainium. CEO Andy Jassy said that as best as Amazon can tell, its custom silicon business is one of the top three data center chip businesses in the world, and that the run rate would be $50 billion if it were a standalone business selling chips produced this year."
 category: "hardware"
 publishedAt: 2026-05-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -36,9 +37,9 @@ Amazon's first-quarter 2026 earnings call, held April 29, contained a data point
 
 ## The Numbers Behind the Headline
 
-CEO Andy Jassy was characteristically methodical in walking through what these numbers mean. The $20 billion run rate covers external chip revenue — sales to customers other than Amazon's own internal workloads. But Jassy offered a more expansive framing: if Amazon's chip business were counted the way traditional semiconductor companies count revenue — including the chips it manufactures for its own AWS infrastructure — the annual run rate would be approximately $50 billion.
+CEO Andy Jassy was characteristically methodical in walking through what these numbers mean. Jassy said the chips business's annual revenue run rate is now over $20 billion, but that this "somewhat masks the size." Jassy said that if the chips business were a standalone business and sold chips produced this year to AWS and other third parties, as other leading chip companies do, its annual revenue run rate would be $50 billion.
 
-"We are now one of the top three datacenter chip businesses in the world," Jassy said. "That's not a statement we make lightly."
+"As best as we can tell, our custom silicon business is now one of the top three data center chip businesses in the world," Jassy said. "That's not a statement we make lightly."
 
 That assertion is credible by most measures. Nvidia's data center segment generated roughly $110 billion in its most recent fiscal year, firmly in first place. AMD's data center chip revenue was approximately $12 billion annually as of early 2026, before its landmark $100 billion deal with Meta was announced in February. Amazon, at a $20 billion external run rate with a $225 billion backlog, now sits firmly in conversation with AMD for second place — and has a structural advantage: it is simultaneously the customer, the cloud provider, and the chip vendor, an integration that no pure-play semiconductor company can replicate.
 
@@ -77,3 +78,5 @@ What Amazon has built goes beyond a chip business. Trainium is the anchor of a c
 With $225 billion in backlog and Trainium4 already substantially reserved, Amazon has demonstrated that custom silicon can escape the gravitational pull of Nvidia's ecosystem — provided the price performance advantage is large enough and the software tooling matures sufficiently. Both conditions now appear to be met.
 
 The semiconductor industry's trillion-dollar question is no longer whether Amazon's chip business is real. It is how much of Nvidia's future growth it will absorb.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

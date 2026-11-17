@@ -1,8 +1,9 @@
 ---
 title: "Google Took 6,000 Community Contributions, Then Closed Gemini CLI — Developers Are Furious"
-summary: "Google is killing free access to its open-source Gemini CLI on June 18, replacing it with a closed-source tool called Antigravity CLI. The backlash is intense: community developers contributed over 6,000 merged pull requests to the Apache 2.0 repository over nearly a year before Google restricted it to enterprise-only users, a move critics are calling the most blatant AI open-source bait-and-switch to date."
+summary: "Google announced on May 19 that Gemini CLI will stop serving free users, Google AI Pro and Ultra subscribers, and individual Gemini Code Assist users on June 18, and that its replacement, Antigravity CLI, is closed source. External contributors had merged more than 6,000 pull requests into the Apache 2.0 repository over nearly a year."
 category: "developer-tools"
 publishedAt: 2026-06-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -40,7 +41,7 @@ The GitHub announcement post received 31 thumbs-down reactions as its most promi
 
 Gemini CLI launched roughly a year ago as Google's answer to the command-line AI agent trend. It was open-source under the Apache 2.0 license, available on GitHub, and positioned as a first-class developer tool for building multi-step workflows in the terminal. It could browse the web, execute code, manage files, and interact with the Gemini API — and importantly, it could be extended, forked, and modified by anyone.
 
-The community responded enthusiastically. The repository accumulated thousands of stars, and more significantly, contributors began opening pull requests at a sustained pace — improving the agent framework, adding new tool integrations, fixing edge cases, and extending the project's capability in directions Google's internal team had not prioritized. By the time Google announced the shutdown, more than 6,000 pull requests had been merged, representing a substantial amount of unpaid engineering work.
+The community responded enthusiastically. The repository accumulated more than 104,000 GitHub stars. By the time Google announced the shutdown, more than 6,000 pull requests from external contributors had been merged. By the time Google announced the shutdown, more than 6,000 pull requests had been merged, representing a substantial amount of unpaid engineering work.
 
 ## The Bait-and-Switch Mechanics
 
@@ -48,13 +49,13 @@ Developer @lingyaochu identified the pattern precisely in the GitHub issue threa
 
 The mechanism is technically subtle. The Apache 2.0 license on the Gemini CLI repository is not being revoked. Google has stated the repository will remain publicly accessible. What is being revoked is access to the infrastructure that makes the tool functional: the authentication backend, the API quota system, and the service endpoints that Gemini CLI calls when a developer runs a command.
 
-As journalist Christine Hall wrote, Google "effectively removes only the open source part" — the code remains visible but the tool no longer works for free users. Enterprise customers with Google AI Standard or Enterprise licenses retain continued access to Gemini CLI via paid API keys, which means the open-source repository survives as a legacy compatibility shim for paying customers, not as a living project.
+As journalist Christine Hall wrote, Google "effectively removes only the open source part" — the code remains visible but the tool no longer works for free users. Enterprise customers with paid Gemini Code Assist Standard or Enterprise licenses keep access to Gemini CLI, along with model updates and security patches, while free users do not.
 
-Antigravity CLI, the replacement, is a single native binary without publicly available source code. Its GitHub repository contains documentation and configuration files but no implementation. The tool is invoked with `agy` rather than `gemini`, a change that breaks existing shell scripts and CI pipelines built on Gemini CLI commands without a compatibility shim.
+Antigravity CLI, the replacement, is a single native binary without publicly available source code. Its GitHub repository contains documentation and configuration files but no implementation. The tool is invoked with `agy` rather than `gemini`, a change that means binary-name changes and configuration rewrites for existing shell scripts and CI pipelines built on Gemini CLI commands.
 
 ## What Antigravity Actually Offers
 
-To be fair to Google's position: Antigravity CLI is a genuinely different tool, not just Gemini CLI rebranded. It is purpose-built for multi-agent workflows, designed around Google's Antigravity platform — an umbrella for what Google is now calling its "agent-first development" stack. The binary ships with no runtime dependencies, which is a legitimate advantage over Gemini CLI's Python environment requirements.
+To be fair to Google's position: Antigravity CLI is a genuinely different tool, not just Gemini CLI rebranded. It is purpose-built for multi-agent workflows, designed around Google's Antigravity platform — an umbrella for what Google is now calling its "agent-first development" stack.
 
 At launch, however, Antigravity CLI does not have full feature parity with Gemini CLI. Google acknowledged in its migration guide that agent skills, hooks, and subagent support are launching with partial coverage. For the subset of developers who had built sophisticated Gemini CLI workflows relying on the full extensibility of the open-source tool, the migration involves real capability loss, not just a binary swap.
 
@@ -64,7 +65,7 @@ The migration deadline of June 18 also gives affected developers less than a mon
 
 The controversy has elevated a relatively obscure initiative from the Linux Foundation: the Model Openness Tool, accessible at isitopen.ai. The tool scores AI-related software projects across 17 components — from training data transparency to inference infrastructure to the openness of build tooling — and is explicitly designed to surface the gap between "open-source" claims and operational reality.
 
-Gemini CLI scored well on code licensing but poorly on infrastructure dependency, which is exactly the failure mode that made the shutdown possible. The Linux Foundation's framing positions Gemini CLI's situation as a case study in why labeling something open-source does not guarantee the community access that open-source users have historically expected.
+Gemini CLI's Apache 2.0 license would score high on code availability, but its dependence on Google's backend infrastructure would likely pull the overall system lower, which is exactly the failure mode that made the shutdown possible. The Linux Foundation's framing positions Gemini CLI's situation as a case study in why labeling something open-source does not guarantee the community access that open-source users have historically expected.
 
 The Model Openness Tool has gained renewed attention from developers evaluating other AI CLI tools, including those distributed by Anthropic, OpenAI, and smaller AI companies. In a space where every vendor is competing for developer mindshare by touting open-source credentials, the Gemini CLI episode has made developers measurably more skeptical about the durability of those claims.
 
@@ -80,10 +81,12 @@ For developers affected by the June 18 deadline, the practical options are:
 
 Migrate to Antigravity CLI and accept the current feature gaps, betting that Google ships full parity before those gaps block their workflows. The `agy` binary is available now and supports basic multi-agent use cases.
 
-Move to a competing tool. Claude Code (Anthropic), the GitHub Copilot CLI, and several open-source alternatives have all gained users in the wake of the Gemini CLI announcement. Claude Code in particular has comparable terminal-native agentic functionality and a paid-but-transparent pricing model.
+Move to a competing tool. Developers are evaluating Claude Code (Anthropic), the GitHub Copilot CLI, and several open-source alternatives built on locally hosted models. Claude Code in particular has comparable terminal-native agentic functionality and a paid-but-transparent pricing model.
 
 Fork and self-host Gemini CLI using the Apache 2.0 license. The code remains accessible, and technically sophisticated teams can maintain their own fork with custom backend configuration, though this requires engineering investment that most teams cannot justify for a development tool.
 
 For the broader AI developer community, the Gemini CLI situation is a reminder that open-source labels on infrastructure-dependent tools require scrutiny. The real question is not whether the code is visible — it is whether the backend is accessible, and on whose terms.
 
-Google has not commented publicly on the community backlash beyond its original migration announcement. The June 18 date stands.
+Google has not replied to developers' questions in the GitHub discussion thread. The June 18 date stands.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

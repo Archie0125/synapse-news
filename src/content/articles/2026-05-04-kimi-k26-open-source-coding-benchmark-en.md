@@ -3,6 +3,7 @@ title: "Kimi K2.6: China's Open-Weight Giant Tops SWE-Bench, Beats GPT-5.4 and C
 summary: "Moonshot AI's Kimi K2.6, a 1-trillion-parameter open-weight model released April 20, has become the first open-weight model to surpass GPT-5.4 on the SWE-Bench Pro coding benchmark—scoring 58.6% against GPT-5.4's 57.7% and Claude Opus 4.6's 53.4%. With support for 300 simultaneous sub-agents and a Modified MIT license, the model signals that China's open-source AI labs are now benchmarking against—and beating—the world's best proprietary systems."
 category: "ai-ml"
 publishedAt: 2026-05-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -68,8 +69,10 @@ Moonshot AI has been less publicly visible than DeepSeek or Zhipu, but K2.6's re
 
 The implications for closed-model providers are uncomfortable. OpenAI, Anthropic, and Google have all built business models premised, in part, on the idea that the most capable models will remain proprietary—giving them leverage over enterprise pricing and preventing open-weight alternatives from reaching frontier capability.
 
-K2.6 challenges that assumption directly. An enterprise developer can today download K2.6's weights, run the model on their own infrastructure, and deploy an agent that outperforms GPT-5.4 on the benchmark the industry considers most relevant to software engineering—without paying per-token API fees, without sending code to external servers, and without being subject to usage restrictions.
+K2.6 challenges that assumption directly. An enterprise developer can today download K2.6's weights, subject to the published license, and run the model on their own infrastructure; the self-hosted model needs roughly 640GB of VRAM.
 
 The counterargument from closed-model providers has typically been that open-weight models lag six to twelve months behind the frontier. K2.6 suggests that gap has closed to near zero—at least on coding tasks. Whether it reflects a broader capability parity across all tasks remains to be tested, but the burden of proof has shifted. The next generation of proprietary models will need to justify their cost not against last year's open alternatives, but against the best open systems available today.
 
 The model is available on Hugging Face under the Modified MIT License and via the Kimi API platform.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

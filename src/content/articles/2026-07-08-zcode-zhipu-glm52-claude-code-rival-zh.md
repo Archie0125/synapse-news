@@ -1,8 +1,9 @@
 ---
-title: "中國 Z.ai 推出 ZCode：以 Claude Code 一半價格挑戰全球 AI 程式設計市場"
+title: "中國 Z.ai 推出 ZCode：以遠低成本挑戰 Claude Code 與 OpenAI Codex"
 summary: "中國 AI 實驗室 Z.ai（智譜 AI）於 7 月 2 日發布 ZCode，一款基於 MIT 授權 GLM-5.2 模型的免費 AI 程式設計 IDE。該模型在 SWE-bench Pro 評測中超越 GPT-5.5，完全使用華為昇騰晶片訓練，月費低至 16 美元，全面挑戰西方競爭對手。"
 category: "developer-tools"
 publishedAt: 2026-07-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-04-04-mcp-protocol-explosion-zh"
 ---
 
-2026 年 7 月 2 日，中國 AI 實驗室智譜 AI 旗下的國際品牌 Z.ai 正式推出 ZCode——一款跨平台的智能程式設計開發環境，底層驅動模型為旗艦大模型 GLM-5.2。這款工具劍指 Cursor、Claude Code、GitHub Copilot 以及 Google 的 Antigravity 平台，挑戰意圖相當明確：在評測成績上超越 GPT-5.5，在定價上全面壓制所有西方競品。
+2026 年 7 月 2 日，中國 AI 實驗室智譜 AI 旗下的國際品牌 Z.ai 正式推出 ZCode——一款跨平台的智能程式設計開發環境，底層驅動模型為旗艦大模型 GLM-5.2。Z.ai 將 ZCode 定位為 Claude Code 與 OpenAI Codex 的競爭對手，其運作方式也與這兩者相近，挑戰意圖相當明確：在評測成績上超越 GPT-5.5，在定價上全面壓制所有西方競品。
 
 ## 在真實程式設計評測中擊敗 GPT-5.5
 
@@ -45,7 +46,7 @@ ZCode 不是一個模型本身，而是一個將 GLM-5.2 嵌入開發者工作�
 - **自主編輯與終端執行**：ZCode 能自主讀取、修改、建立檔案並執行測試指令，不需逐步人工審批——這種 Agent 模式由 Claude Code 的 Agentic Mode 率先普及。
 - **自帶金鑰（BYOK）**：開發者可在 ZCode 前端接入自己的 API 金鑰，連接 Anthropic 或 OpenAI 的模型。換言之，ZCode 也可以作為多後端的中立 IDE 介面。
 - **開放權重、可本地部署**：GLM-5.2 的模型權重在 HuggingFace 與 ModelScope 均可取得，MIT 授權無地區限制。對於有足夠 GPU 算力的企業，整個堆疊（模型加 Agent）均可完全在本地運行，這是目前西方任何達到同等評測水準的程式設計工具都無法提供的能力。
-- **7 月限時 1.5 倍配額加成**：7 月底前，透過 GLM Coding Plan 使用 GLM-5.2 將享有 0.67 倍計費係數，實際可用額度提升約 50%。
+- **7 月限時 1.5 倍配額加成**：訂閱用戶在 2026 年 7 月期間可獲得約 1.5 倍的額度。
 
 在定價方面，ZCode 的標準方案月費為 16.20 美元，頂級 Max 方案為 144 美元，低於 Cursor Pro（20 美元起），更大幅低於 Claude Code 或 GitHub Copilot Enterprise 的企業授權費用。
 
@@ -57,7 +58,7 @@ GLM-5.2 技術文件中最具戰略意義的細節，可能是這句話：該模
 
 ## 西方市場的回應
 
-Z.ai 將 ZCode 定位為直接挑戰 Cursor、Claude Code、GitHub Copilot 與 Google Antigravity。每個競爭對手都有其弱點：
+Z.ai 將 ZCode 定位為 Claude Code 與 OpenAI Codex 的競爭對手，其運作方式也與這兩者相近。每個競爭對手都有其弱點：
 
 - **Cursor** 以精緻的使用者體驗和深度 IDE 整合贏得開發者信任，但其模型層依賴 Anthropic 與 OpenAI 的第三方前沿模型。如果 ZCode 能以八折的價格提供相當的輸出品質，對成本敏感的工程團隊而言會形成相當吸引力。
 - **Claude Code** 是 Anthropic 自有產品，估計年化營收在 2026 年 2 月已達 25 億美元，但定價面向企業預算，而驅動其核心優勢的 Claude Fable 5 自 7 月 8 日起也已轉為付費附加功能。
@@ -82,3 +83,5 @@ ZCode 能否真正威脅西方 AI 程式設計工具的主導地位，取決於�
 **三、生態系整合深度**。Cursor 的護城河有部分來自其 VS Code 外掛生態。ZCode 目前以獨立桌面應用形式推出，IDE 外掛支援將大幅擴展其潛在用戶群。
 
 這家清華大學學術團隊創立的 AI 實驗室，過去五年一直嘗試進入全球市場。如今，憑藉一個前沿量級的開放權重模型、一款免費的開發者工具，以及全面壓制西方競品的定價，Z.ai 或許終於找到了打入全球市場的切入點。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

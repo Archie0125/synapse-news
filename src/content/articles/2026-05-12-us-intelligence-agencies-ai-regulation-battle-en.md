@@ -3,6 +3,7 @@ title: "Spy vs. Commerce: U.S. Intelligence Agencies Fight for Control of AI Reg
 summary: "As Anthropic's Mythos AI model demonstrated an unprecedented ability to discover and exploit cybersecurity vulnerabilities, America's intelligence community has launched an internal campaign to wrest AI regulatory authority away from the Commerce Department. The battle over who governs frontier AI reveals a White House increasingly uncertain about the right approach as the technology's national security implications become impossible to ignore."
 category: "policy"
 publishedAt: 2026-05-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -40,7 +41,7 @@ The intelligence community's argument is straightforward: AI models capable of d
 
 ## The Catalyst: Anthropic's Mythos
 
-The proximate trigger for the intelligence community's push is Anthropic's Mythos AI model, which the company released in limited form on April 7. Mythos was described internally as representing "a step change in capabilities" — in particular, its ability to analyze software at scale and identify exploitable vulnerabilities at a speed and breadth that no human research team could match. Anthropic used the model to identify thousands of zero-day vulnerabilities across major operating systems and browsers, and committed the findings to its Project Glasswing security initiative.
+The proximate trigger for the White House's reconsideration of AI oversight is Anthropic's Mythos AI model, which the company announced last month as Claude Mythos Preview and limited to a select group of companies. Mythos was described internally as representing "a step change in capabilities" — in particular, its ability to analyze software at scale and identify exploitable vulnerabilities at a speed and breadth that no human research team could match. Anthropic used the model to identify thousands of zero-day vulnerabilities across major operating systems and browsers, and committed the findings to its Project Glasswing security initiative.
 
 The White House was alarmed from the moment Mythos's existence leaked in late March. Anthropic CEO Dario Amodei met with Chief of Staff Susie Wiles and reportedly Treasury Secretary Scott Bessent — an unusual set of interlocutors for a technology company regulatory meeting — to discuss the model's security implications. The administration subsequently told Anthropic it opposed expanding Mythos access beyond its initial small cohort of technology partners, citing both the potential for misuse and the infrastructure implications of a broader rollout.
 
@@ -60,13 +61,13 @@ These are not merely different procedures. They reflect different conceptions of
 
 The White House's position on AI regulation has undergone a remarkable reversal in the span of a few months. When President Trump took office, one of his first acts was to rescind Biden's Executive Order 14110 on safe and trustworthy AI, framing it as a bureaucratic obstacle to innovation and American competitiveness. The administration's initial posture was essentially libertarian: let AI develop as fast as possible, with the market rather than regulators setting the pace.
 
-That posture has crumbled under the weight of the capabilities AI systems have since demonstrated. By early May, Trump administration officials were privately discussing proposals for formal government review requirements before high-risk AI models can be deployed to the public — a position that would have been unthinkable under the administration's founding framework. The White House has also been working to establish an AI working group that includes both technology executives and government officials, designed to give the executive branch more visibility into what frontier AI systems can do before they reach the market.
+That posture has crumbled under the weight of the capabilities AI systems have since demonstrated. By early May, the White House was reportedly considering oversight for advanced AI models, and National Economic Council Director Kevin Hassett said the administration is studying a possible executive order on evaluating AI systems before release — a sharp turn from the administration's earlier anti-regulation posture. The White House has also been weighing the creation of a new AI working group that would bring together tech executives and government officials to explore potential oversight procedures, and which may be established through an executive order.
 
 The Register described the shift as moving "from 'anything goes' to 'strict regulation'" — though the administration's public messaging has not caught up with the private deliberations. Officials have been careful not to frame the evolving posture as a reversal, preferring language about "security" and "American leadership" over "regulation."
 
 ## CAISI's Expanding Role — For Now
 
-Despite the intelligence community's pressure, Commerce's CAISI has been quietly expanding its footprint. Since announcing initial evaluation agreements with Google DeepMind, Microsoft, and xAI in early May, the agency has also been in discussions with Anthropic and OpenAI about formalizing similar arrangements. The agreements allow CAISI to evaluate frontier models before public release, assessing them against a set of capability thresholds defined in partnership with NIST.
+Despite the intelligence community's pressure, Commerce's CAISI has been quietly expanding its footprint. The announcement of the agreements with Google DeepMind, Microsoft, and xAI in early May builds on CAISI's earlier partnerships with OpenAI and Anthropic from 2024, which have been renegotiated. The agreements allow CAISI to evaluate frontier models before public release, assessing them against a set of capability thresholds defined in partnership with NIST.
 
 CAISI's supporters argue that the intelligence community's preferred approach would create a chilling effect on AI development. Companies would face not just commercial but national security review processes that could take months, involve classification requirements that conflict with their global business operations, and ultimately be wielded as tools of industrial policy rather than genuine safety assessment.
 
@@ -81,3 +82,5 @@ If Commerce retains the lead, with CAISI developing into a genuine independent e
 For international observers — including Taiwan's technology sector and government — the outcome matters for several reasons. The U.S. regulatory framework, whatever form it takes, will affect which AI models can be exported, how allied nations gain access to frontier AI evaluation insights, and what standards become de facto global benchmarks. A classified, IC-led regime would be far harder for allies to engage with than a transparent CAISI-led process.
 
 Google's disclosure of an AI-assisted zero-day attack on Monday will almost certainly give the intelligence community's arguments new urgency. When a criminal group, not a nation-state, can deploy AI for zero-day exploit development, the line between commercial AI capability and national security threat has effectively dissolved. The question is not whether Washington will respond — it is which part of Washington will be in charge when it does.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

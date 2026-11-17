@@ -1,8 +1,9 @@
 ---
 title: "TSMC Posts $39.6B Q2 Record as AI Chip Demand Rewrites Its Calendar"
-summary: "Taiwan Semiconductor Manufacturing posted $39.62 billion in second-quarter revenue, a 36% year-on-year jump that set a new all-time record. June alone surged 68% versus a year ago, shattering a four-year seasonal slowdown pattern as AI chip demand from Nvidia, Apple, and Broadcom overrides traditional consumer electronics cycles."
+summary: "Taiwan Semiconductor Manufacturing posted $39.62 billion in second-quarter revenue, a 36% year-on-year jump that set a record. June alone surged 68% versus a year ago, breaking a four-year pattern of June sequential declines as AI chip demand overrides traditional consumer electronics cycles."
 category: "hardware"
 publishedAt: 2026-07-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,13 +29,13 @@ relatedSlugs:
   - "2026-07-09-apple-broadcom-30b-us-chip-deal-en"
 ---
 
-Taiwan Semiconductor Manufacturing Company delivered numbers on Monday that left little room for debate: the AI buildout is not slowing down. TSMC reported second-quarter revenue of $39.62 billion, a 36% increase year-on-year that beat the top end of the company's own April guidance and set a new all-time quarterly record for the world's dominant chip foundry.
+Taiwan Semiconductor Manufacturing Company delivered numbers on Monday that left little room for debate: the AI buildout is not slowing down. TSMC reported second-quarter revenue of $39.62 billion, a 36% increase year-on-year that landed near the upper end of the company's own April guidance of $39 billion to $40.2 billion and set a new all-time quarterly record for the world's dominant chip foundry.
 
-The milestone is striking not just for its size but for the seasonal story it disrupts. June revenue came in at NT$442.68 billion — a 67.9% surge versus June 2025 — snapping a pattern of summer softness that had held for four consecutive years. Historically, TSMC's second quarter has been its weakest, dragged down by the cyclicality of consumer smartphones and PCs. The AI cycle has rendered that calendar irrelevant.
+The milestone is striking not just for its size but for the seasonal story it disrupts. June revenue came in at NT$442.68 billion — a 67.9% surge versus June 2025 — snapping a pattern of summer softness that had held for four consecutive years. TSMC has recorded month-over-month revenue declines in every June for the previous four years, reflecting the traditional summer softening in consumer electronics demand. The AI cycle has rendered that calendar irrelevant.
 
 ## A Foundry That Now Sets Its Own Seasons
 
-For TSMC, the shift is structural. Spending from hyperscalers on AI training clusters and inference infrastructure does not follow the back-to-school or holiday device rhythms that once governed the semiconductor industry. Nvidia's accelerator chips — manufactured almost exclusively by TSMC on its 4nm and soon 2nm processes — are ordered in response to datacenter buildout timelines dictated by Microsoft, Amazon, Google, and Meta. Apple's M-series silicon, also a TSMC exclusive, adds a second non-cyclical revenue stream as the Mac and iPad lines move toward more frequent refresh schedules driven by on-device AI features.
+For TSMC, the shift is structural. Spending from hyperscalers on AI training clusters and inference infrastructure does not follow the back-to-school or holiday device rhythms that once governed the semiconductor industry. Nvidia is among TSMC's major customers for advanced processors. Apple's M-series silicon, also a TSMC exclusive, adds a second non-cyclical revenue stream as the Mac and iPad lines move toward more frequent refresh schedules driven by on-device AI features.
 
 First-half 2026 revenue reached NT$2.4 trillion, representing 35.6% growth over the same period a year ago. Analysts at Morgan Stanley estimated that AI-related revenue now accounts for more than 55% of TSMC's wafer revenue, up from roughly 38% in early 2025.
 
@@ -44,7 +45,7 @@ The record numbers mask a structural dependency that TSMC's own investors have b
 
 That concentration is a feature for investors as long as AI spending holds, and a serious vulnerability if it doesn't. The Bank for International Settlements published a report this week warning that hyperscaler AI capital expenditure is now outpacing earnings and free cash flow across the five largest technology companies, forcing some to issue debt to sustain spending. Any deceleration in that pipeline flows almost directly into TSMC's order book within two to three quarters.
 
-TSMC has moved aggressively to diversify geographically, partly in response to geopolitical pressure and partly to reduce customer concentration risk. The company's Arizona Fab 21 is on track for volume production of 2nm chips in 2026, and a second facility in Japan recently reached full operational status manufacturing N12e chips for automotive and industrial customers. Neither diversification track, however, comes close to matching the revenue density of Taiwan's advanced node fabs.
+TSMC has moved aggressively to diversify geographically, partly in response to geopolitical pressure and partly to reduce customer concentration risk. The company's Arizona expansion is advancing, with the first fab producing 4nm chips, a second fab targeting 3nm production in 2027 and a third aimed at 2nm planned for 2028 to 2029. Neither diversification track, however, comes close to matching the revenue density of Taiwan's advanced node fabs.
 
 ## Advanced Nodes Are the Only Game That Matters
 
@@ -60,6 +61,8 @@ The scale of TSMC's Q2 result reverberates well beyond Hsinchu. For Nvidia, it i
 
 For the Taiwan semiconductor ecosystem more broadly — the ODMs, substrate makers, and materials suppliers that cluster around TSMC — the record quarter translates into elevated orders through at least year-end. And for policymakers in Washington who have been pushing CHIPS Act incentives to build domestic capacity, the numbers underscore both the urgency of the effort and the scale of the gap that needs to be closed.
 
-TSMC is scheduled to report full Q2 earnings, including margins and outlook, on July 17. Analysts will be watching gross margin guidance particularly closely: the mix shift toward advanced packaging, which carries lower margins than pure wafer fabrication, has become an important variable in a revenue story that otherwise looks almost uniformly positive.
+TSMC is scheduled to report full Q2 earnings, including margins and outlook, on Thursday, July 16. Analysts will be watching gross margin guidance particularly closely: the mix shift toward advanced packaging, which carries lower margins than pure wafer fabrication, has become an important variable in a revenue story that otherwise looks almost uniformly positive.
 
 In the meantime, the quarterly record stands as the clearest possible signal that whatever uncertainty surrounds the AI investment cycle at the macroeconomic level, the orders placed with the world's most important chip manufacturer have not yet blinked.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

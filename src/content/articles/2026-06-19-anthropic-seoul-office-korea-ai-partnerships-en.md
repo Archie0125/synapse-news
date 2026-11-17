@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Opens Seoul Office, Lands NAVER, Samsung, LG, and Nexon as Claude Deploy Partners"
-summary: "Anthropic formally opened its third Asia-Pacific office in Seoul on June 17, simultaneously announcing enterprise deployments at six of South Korea's largest technology companies. The expansion comes amid the Fable 5 export ban crisis — making it one of the most unusual office openings in the history of the AI industry."
+summary: "Anthropic opened its Seoul office, simultaneously announcing enterprise deployments at major South Korean companies. The expansion comes amid the Fable 5 export ban controversy."
 category: "industry"
 publishedAt: 2026-06-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,7 +33,7 @@ relatedSlugs:
 
 There are few contexts stranger for a corporate office opening than having your flagship models banned from foreign national access six days earlier. Yet that is precisely the circumstance Anthropic found itself in when it formally launched its Seoul office on June 17 — and the company's decision to proceed, and the scale of the Korean enterprise partnerships it unveiled simultaneously, tells you something about how seriously the AI market has taken root in South Korea.
 
-Anthropic's Seoul office is its third in Asia-Pacific, after Tokyo and Bengaluru, and its ninth globally. KiYoung Choi, former General Manager of Snowflake Korea, leads the office as Representative Director. Alongside the opening, Anthropic announced enterprise deployments, research partnerships, government agreements, and developer programs covering virtually every tier of South Korea's technology ecosystem.
+Anthropic's Seoul office is its third in Asia-Pacific, after Tokyo and Bengaluru, and its ninth globally. KiYoung Choi, who has held leadership roles at Google Cloud, Microsoft Korea, Adobe and Snowflake, leads the office as Representative Director. Alongside the opening, Anthropic announced enterprise deployments, research partnerships, government agreements, and developer programs covering virtually every tier of South Korea's technology ecosystem.
 
 ## The Enterprise Wave
 
@@ -44,7 +45,7 @@ The breadth of adoption across sectors — search, electronics, gaming, energy, 
 
 ## Government and Research Partnerships
 
-Alongside enterprise deals, Anthropic signed a Memorandum of Understanding with South Korea's Ministry of Science and ICT covering Korean-language AI safety evaluations and cyber threat information sharing. The agreement provides Claude access to sixty researchers affiliated with the National AI Research Lab consortium — KAIST, Korea University, Yonsei University, and POSTECH — who will work on AI safety, model evaluation, alignment, and robustness.
+Alongside enterprise deals, Anthropic signed a Memorandum of Understanding with South Korea's Ministry of Science and ICT covering Korean-language AI safety evaluations and cyber threat information sharing. Separately, Anthropic will provide Claude access to up to 60 researchers affiliated with the National AI Research Lab consortium — KAIST, Korea University, Yonsei University, and POSTECH — supporting work on AI safety, model evaluation, alignment, robustness, and broader frontier AI research.
 
 The government MOU is significant given the backdrop. South Korean participants in Project Glasswing, including Samsung Electronics and SK Hynix, had their access revoked following the June 12 export control directive. The new bilateral agreement appears designed to create a formal governmental channel for model access and safety research that doesn't depend on the informal program structures that triggered scrutiny.
 
@@ -52,7 +53,7 @@ Anthropic also announced nonprofit deployments: Good Neighbors Korea, a child ri
 
 ## The Surreal Backdrop
 
-The office opening was overshadowed, and in some ways defined, by the ongoing Fable 5 and Mythos 5 access ban. Chris Ciauri, Anthropic's Managing Director of International, addressed the situation directly at the opening event, expressing confidence that "in the coming days, the models will become available again." He framed the Seoul launch as a demonstration of Anthropic's long-term commitment to the Korean market regardless of the short-term disruption.
+The office opening was overshadowed, and in some ways defined, by the ongoing Fable 5 and Mythos 5 access ban. Chris Ciauri, Anthropic's Managing Director of International, spoke at the opening event, but company officials declined to comment when questions were raised about the export controls and the access ban." He framed the Seoul launch as a demonstration of Anthropic's long-term commitment to the Korean market regardless of the short-term disruption.
 
 The companies that deployed Claude for Korean enterprise use are currently restricted to the Claude 3 series models — the older generation predating Fable 5 and Mythos 5. If and when the export restrictions are lifted, those deployments are positioned to immediately upgrade.
 
@@ -60,16 +61,18 @@ The timing also carries IPO implications. Anthropic is reportedly preparing for 
 
 ## Developer Ecosystem
 
-Beyond enterprise and government, Anthropic launched the Claude for Startups program in Korea, partnering with BASS Ventures to reach early-stage Korean AI companies. The company co-hosted Claude Build Day and a Push to Prod hackathon with Replit and Korean investment partners, signaling an intent to cultivate the developer ecosystem rather than rely solely on top-down enterprise sales.
+Beyond enterprise and government, Anthropic said Claude for Startups is now live in Korea, and Claude Meetups have drawn hundreds of Korean developers since September 2025. The company co-hosted Claude Build Day with BASS Ventures and will co-host a Push to Prod hackathon with Replit, Korea Investment Partners, and Korea Investment Accelerator, signaling an intent to cultivate the developer ecosystem rather than rely solely on top-down enterprise sales.
 
 The developer-focused events attracted significant attention in Seoul's growing AI startup scene, where Claude has become a preferred model for inference-heavy applications due to its long context window and instruction-following quality.
 
 ## What It Means for the Region
 
-Anthropic's simultaneous entry into South Korea with six major enterprise deployments, a government MOU, and a university research partnership is not a standard office-opening playbook. It reflects a company that has spent considerable time cultivating Korean relationships behind the scenes and chose the Seoul office launch as the moment to surface all of them at once.
+Anthropic's simultaneous entry into South Korea with multiple major enterprise deployments, a government MOU, and a research partnership with a university consortium is not a standard office-opening playbook. It reflects a company that has spent considerable time cultivating Korean relationships behind the scenes and chose the Seoul office launch as the moment to surface all of them at once.
 
 South Korea is one of the few countries with both the technological sophistication to deploy foundation models at scale and the manufacturing weight — in semiconductors, displays, and hardware — to matter strategically to AI infrastructure providers. The country's major firms are simultaneously potential customers, research partners, and components of the global chip supply chain that Anthropic depends on.
 
 For Anthropic's competitors, the Korean market entry is a competitive signal that warrants a response. Google DeepMind, OpenAI, and Microsoft have all been active in Korea, but Anthropic's breadth of simultaneous partnership announcements suggests it has been executing a coordinated market-entry strategy rather than reacting opportunistically.
 
 The office opens amid a ban on Anthropic's most advanced models. That it opened anyway, with this many partners in tow, is the clearest possible signal of where both Anthropic and South Korea's technology industry see the long-term relationship heading.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

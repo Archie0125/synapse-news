@@ -1,8 +1,9 @@
 ---
 title: "SpaceX's $60 Billion Cursor Bet: The Deal That Could Reshape AI Coding"
-summary: "SpaceX has secured an agreement giving it the option to acquire AI coding startup Cursor for $60 billion — or pay $10 billion for a deep partnership — pairing Cursor's massive developer reach with SpaceX's million-H100 Colossus supercomputer. The deal, structured to close after SpaceX's summer IPO, could create the world's most powerful coding intelligence platform and positions Elon Musk as a direct competitor to OpenAI in the developer tools market."
+summary: "SpaceX has struck a deal giving it the option to acquire AI coding startup Cursor for $60 billion later this year — or pay $10 billion for the work the two are doing together — pairing Cursor's product and distribution with SpaceX's Colossus supercomputer, which SpaceX says has the compute equivalent of a million Nvidia H100 chips."
 category: "developer-tools"
 publishedAt: 2026-05-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -27,11 +28,11 @@ relatedSlugs:
   - "2026-04-04-cursor-devin-war-en"
 ---
 
-When SpaceX announced on April 21 that it had secured an agreement giving it the right to acquire AI coding startup Cursor for $60 billion — with a fallback $10 billion partnership option — the announcement landed like a thunderclap across Silicon Valley. By some measures, it is the largest option-to-buy arrangement ever struck in the technology industry, and it signals Elon Musk's most ambitious pivot yet: transforming SpaceX from a rocket company into an AI powerhouse before its summer IPO.
+SpaceX announced in a Tuesday post on X that it had struck a deal giving it the right to acquire AI coding startup Cursor for $60 billion later this year, or to pay $10 billion for the work the two companies are doing together. The deal signals Elon Musk's push to turn SpaceX from a rocket company into an AI powerhouse as it prepares for its IPO.
 
 ## The Deal Structure
 
-The transaction is built around two tiers. SpaceX has the right to either acquire Cursor outright for $60 billion — which would rank among the largest technology acquisitions in history — or pay $10 billion for what the company described as compensation for "our work together." The dual-track structure reflects SpaceX's calculated caution: the company is delaying the final acquisition decision until after its IPO, partly to avoid updating confidential financial filings and partly to finance the purchase with freshly issued public stock.
+The transaction is built around two tiers. SpaceX has the right to either acquire Cursor outright for $60 billion — which would rank among the largest technology acquisitions in history — or pay $10 billion for what the company described as compensation for "our work together." Under the structure, SpaceX will decide at an undisclosed point later this year whether to pay $10 billion or acquire the company for $60 billion.
 
 Cursor is built by Anysphere, a San Francisco startup founded in 2022 that has raised more than $3 billion from investors including Andreessen Horowitz and Benchmark. The company's AI-powered code editor has achieved remarkable market penetration among professional developers, offering real-time code generation, inline AI chat, and multi-file editing powered by frontier language models including OpenAI's GPT-5.5 and Anthropic's Claude Sonnet 4.6.
 
@@ -39,7 +40,7 @@ The $60 billion figure is a staggering multiple for a company that has yet to go
 
 ## Why Colossus Changes Everything
 
-What makes this potential union particularly compelling is the compute matchup. SpaceX's Colossus supercomputer in Memphis, Tennessee — the same facility that provides training infrastructure for Anthropic's Claude models under a deal announced last week — runs the equivalent of roughly one million H100 GPUs. Pairing that infrastructure with Cursor's distribution network and developer mindshare would allow SpaceX to build and deploy coding models that no independent AI lab could match on throughput alone.
+What makes this potential union particularly compelling is the compute matchup. SpaceX's Colossus supercomputer, which the company claims has the equivalent compute power of a million Nvidia H100 chips, would be paired with Cursor's product and distribution. Pairing that infrastructure with Cursor's distribution network and developer mindshare would allow SpaceX to build and deploy coding models that no independent AI lab could match on throughput alone.
 
 "The combination of Cursor's leading product and distribution to expert software engineers with SpaceX's Colossus training supercomputer will allow us to build the world's most useful models," SpaceX said in a statement accompanying the announcement.
 
@@ -61,7 +62,7 @@ For Anthropic, which currently has a compute deal to train on Colossus, the ques
 
 ## IPO Dynamics
 
-SpaceX's choice to delay the final transaction until after its IPO is strategically precise. The company filed confidential IPO documents earlier this year and is widely expected to debut on public markets in the second half of 2026. At its most recent private valuation of approximately $350 billion, SpaceX would need to issue roughly 17% of its post-IPO share count to finance a $60 billion all-stock acquisition — a dilution that would likely be far easier to absorb with public market liquidity than in the private markets.
+SpaceX's choice to delay the final transaction until after its IPO is strategically precise. The company filed confidential IPO documents earlier this year and is widely expected to debut on public markets in the second half of 2026. Musk valued the combined SpaceX and xAI at $1.25 trillion in February, and the company is poised to go public in what will likely be a record IPO.
 
 The strategic logic is clear: owning the dominant AI coding environment would generate recurring software revenue and developer data that could power future model improvements, creating a flywheel that extends SpaceX's AI ambitions well beyond aerospace.
 
@@ -69,8 +70,10 @@ How SpaceX's public market investors will react to a $60 billion software acquis
 
 ## What Comes Next
 
-The deal leaves several important questions open. Cursor's existing investors — who participated in funding rounds that implied a far lower valuation — will need to approve any acquisition. The company has also been in discussions for a fresh $2 billion funding round, negotiations that SpaceX effectively preempted with its acquisition offer. Those potential investors are now in a holding pattern.
+The deal leaves several important questions open. Cursor's existing investors — who participated in funding rounds that implied a far lower valuation — will need to approve any acquisition. Those potential investors are now in a holding pattern.
 
 On the regulatory side, a $60 billion acquisition by a company controlled by Elon Musk — who is simultaneously running a competing AI lab (xAI) and a social media platform (X) with strong developer communities — would almost certainly draw antitrust scrutiny. The DoJ and FTC have both signaled heightened interest in AI market consolidation.
 
 Whether the $60 billion option is ultimately exercised or SpaceX settles for the $10 billion partnership route, this agreement represents a fundamental shift in how the rocket company thinks about itself. Musk's vision of an AI-first aerospace company, armed with developer tools and frontier training compute, may be the most consequential — and controversial — bet he has placed since signing the original OpenAI charter in 2015.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

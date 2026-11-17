@@ -1,8 +1,9 @@
 ---
 title: "Nvidia RTX Spark: The Arm+Blackwell Superchip That Wants to Make Windows an AI OS"
-summary: "Nvidia unveiled the RTX Spark Superchip at Computex 2026 — a 70-billion-transistor, TSMC 3nm SoC fusing a 20-core Grace Arm CPU with a Blackwell GPU, 128GB of unified LPDDR5X memory, and 1 petaFLOP of FP4 AI compute in a laptop form factor. Shipping this fall from Dell, HP, Lenovo, ASUS, MSI and Microsoft's Surface Laptop Ultra, it represents Nvidia's most ambitious push into personal computing yet."
+summary: "Nvidia unveiled the RTX Spark Superchip at Computex 2026 — a 70-billion-transistor, TSMC 3nm SoC fusing a 20-core Grace CPU with a Blackwell GPU, up to 128GB of unified memory, and 1 petaFLOP of FP4 AI compute. Laptops are coming from OEMs including Dell, HP and Microsoft's Surface Laptop Ultra."
 category: "hardware"
 publishedAt: 2026-06-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -38,7 +39,7 @@ The announcement lands at a pivotal moment for the PC industry. Intel and AMD ha
 
 ## The Silicon
 
-At its core, RTX Spark is a 70-billion-transistor part manufactured on TSMC's 3nm process. The architecture fuses two chiplets — a 20-core Grace CPU and a Blackwell GPU with 6,144 CUDA cores — connected via NVLink-C2C at 600 GB/s, a bandwidth figure that dwarfs the PCI Express lanes connecting discrete GPUs in conventional laptops. The unified memory pool sits at 128GB of LPDDR5X with 300 GB/s of aggregate bandwidth.
+At its core, RTX Spark is a 70-billion-transistor part manufactured on TSMC's 3nm process. The architecture fuses two chiplets into one SoC — a Blackwell GPU with 6,144 CUDA cores and a 20-core Grace CPU — connected via NVLink-C2C at 600 GB/s, which Nvidia says is roughly 5x PCIe Gen 5 with much lower power. Memory tops out at 128GB of unified memory with 300 GB/s of bandwidth, and across the RTX Spark family it ranges from 16GB to 128GB.
 
 The AI performance headline is 1 petaFLOP (1,000 teraFLOPs) of FP4 compute. To put that in context, the M4 Max in Apple's top MacBook Pro delivers approximately 38 TOPS of Neural Engine throughput — a different metric, but the order-of-magnitude difference illustrates the gap between purpose-built AI silicon and general-purpose accelerators. Nvidia is positioning RTX Spark as a competitor to Apple Silicon's integrated memory architecture, a comparison that would have seemed implausible eighteen months ago.
 
@@ -46,11 +47,11 @@ The chip is capable of running models up to 120 billion parameters with context 
 
 ## The Ecosystem
 
-Nvidia has secured launch partners across every tier of the PC market. Dell, HP, Lenovo, ASUS, and MSI will all ship RTX Spark laptops starting this fall. The highest-profile device is the Microsoft Surface Laptop Ultra — a collaboration that underscores how central Microsoft's Windows AI strategy has become to Nvidia's plans. The Surface Ultra wields RTX Spark with the full 128GB memory configuration and a co-designed thermal solution that Nvidia describes as enabling "sustained AI workloads" rather than burst-and-throttle operation.
+Nvidia has secured launch partners across every tier of the PC market. Nvidia expects over 30 laptops and well over 10 desktops in the initial wave from major OEMs, including named designs such as the Dell XPS 16 Creator Edition, HP OmniBook and Microsoft's Surface Laptop Ultra. The highest-profile device is the Microsoft Surface Laptop Ultra — a collaboration that underscores how central Microsoft's Windows AI strategy has become to Nvidia's plans. The Surface Ultra wields RTX Spark with the full 128GB memory configuration and a co-designed thermal solution that Nvidia describes as enabling "sustained AI workloads" rather than burst-and-throttle operation.
 
 ASUS's ProArt P14 and P16 target creative professionals and AI researchers who want to run local inference for image generation, audio processing, and document understanding without sending data to the cloud. HP's configuration skews toward enterprise deployments where data sovereignty and compliance requirements make cloud-hosted AI legally or contractually problematic.
 
-The GPU performance in gaming workloads is said to be equivalent to a discrete RTX 5070, which at roughly $599 currently represents the mainstream-enthusiast tier of Nvidia's GPU lineup. That parity claim would make RTX Spark laptops genuinely competitive with traditional gaming laptops while adding capabilities those machines cannot match.
+Nvidia describes the GPU performance as in the same class as an RTX 5070 laptop GPU, with the caveat that the comparison varies by workload. That parity claim would make RTX Spark laptops genuinely competitive with traditional gaming laptops while adding capabilities those machines cannot match.
 
 ## The Platform Play
 
@@ -62,7 +63,7 @@ Nvidia also announced DLSS 4.5, its latest AI-upscaling technology, which runs o
 
 ## The Three-Generation Roadmap
 
-In a move that signals long-term commitment to the platform, Nvidia outlined three generations of RTX Spark silicon:
+In a move that signals long-term commitment to the platform, Huang presented the PC lineup as a permanent product family, promising a desktop, laptop and workstation for every future architecture generation.
 
 **Grace Blackwell (Current)** — The chip announced at Computex, shipping fall 2026 with LPDDR5X memory.
 
@@ -80,4 +81,6 @@ Qualcomm's Snapdragon X Elite had positioned Windows-on-Arm as an efficiency sto
 
 Nvidia's bet is that this time, the AI workload is compelling enough that developers will follow the hardware rather than waiting for the hardware to follow the software.
 
-Devices ship fall 2026. Pricing has not been announced.
+Pricing has not been announced.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "NVIDIA Vera Rubin NVL72 Enters Full Production — 5x Blackwell Performance Per Rack"
-summary: "NVIDIA's next-generation Vera Rubin NVL72 AI supercomputer has entered full production ahead of its originally guided H2 2026 schedule. The rack-scale system delivers 3.6 exaflops of inference compute and up to 5x greater inference performance and 10x lower cost per token compared to Blackwell, with AWS, Google Cloud, Microsoft Azure, and CoreWeave among the first deployment wave."
+title: "NVIDIA Says Rubin Platform Is in Full Production, With Up to 10x Lower Cost Per Token Than Blackwell"
+summary: "NVIDIA says its Rubin platform, which includes the Vera Rubin NVL72 rack-scale system, is in full production, with partner products due in the second half of 2026. NVIDIA claims up to 10x lower cost per token than Blackwell, and AWS, Google Cloud, Microsoft and OCI, along with CoreWeave, Lambda, Nebius and Nscale, are among the first cloud providers expected to deploy it in 2026."
 category: "hardware"
 publishedAt: 2026-04-07T09:25:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,11 +27,11 @@ relatedSlugs:
   - "2026-04-04-amd-mi300x-enterprise-en"
 ---
 
-# NVIDIA Vera Rubin NVL72 Enters Full Production — 5x Blackwell Performance Per Rack
+# NVIDIA Says Rubin Platform Is in Full Production, With Up to 10x Lower Cost Per Token Than Blackwell
 
-NVIDIA's Vera Rubin NVL72, the company's most powerful AI supercomputer to date, has entered full production — ahead of the H2 2026 timeline CEO Jensen Huang originally announced at CES 2026. The news marks a significant inflection point in the AI infrastructure arms race, as hyperscalers and cloud providers rush to secure rack allocations for a system that NVIDIA claims delivers **5x greater inference performance** and **10x lower cost per token** than its predecessor, the Blackwell platform.
+NVIDIA's Vera Rubin NVL72 is part of the Rubin platform, which NVIDIA said at CES 2026 is in full production, with Rubin-based products available from partners in the second half of 2026. The news marks a significant inflection point in the AI infrastructure arms race, as hyperscalers and cloud providers rush to secure rack allocations for a system that NVIDIA claims delivers **5x greater inference performance** and **10x lower cost per token** than its predecessor, the Blackwell platform.
 
-The Vera Rubin generation had been the subject of intense industry anticipation since its announcement. Confirmation that production has commenced ahead of schedule — at a time when AI compute demand continues to outstrip supply — represents both a technical and supply chain achievement for NVIDIA and its manufacturing partners.
+The Vera Rubin generation had been the subject of intense industry anticipation since its announcement. NVIDIA's statement that Rubin is in full production comes as hyperscalers and cloud providers line up to deploy the platform.
 
 ## What's Inside the NVL72
 
@@ -68,7 +69,7 @@ NVIDIA has confirmed that the initial production allocation is going to a first 
 
 The allocation reflects both financial commitments and strategic partnerships. Microsoft's relationship with NVIDIA extends to deep Azure stack integrations, while CoreWeave's entire business model is predicated on having the latest NVIDIA silicon before competitors.
 
-Notably absent from early announcements: any mention of Meta or Apple receiving early allocations, though both companies are known to have substantial GPU procurement operations that operate through different channels.
+Meta is among the AI labs expected to adopt Rubin, and CEO Mark Zuckerberg was quoted in NVIDIA's announcement.
 
 ## The Broader Infrastructure Context
 
@@ -91,3 +92,5 @@ For startups and enterprises making infrastructure decisions today, the Rubin NV
 The Vera Rubin NVL72 represents the culmination of a multi-year strategic bet Jensen Huang made when he decided NVIDIA needed to own the full rack — silicon, networking, cooling, and software — rather than selling components to ODMs. That bet now appears to be paying off: the NVL72 is a product no competitor can replicate simply by licensing NVIDIA's chip designs, because the competitive advantage lives in the integration.
 
 Whether that 10x token cost claim survives contact with production workloads remains to be seen. But the arrival of Vera Rubin in full production, ahead of schedule, is a signal that NVIDIA's engineering and supply chain organization is operating at peak intensity — and that the AI infrastructure cycle is accelerating, not slowing.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

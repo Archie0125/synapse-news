@@ -3,6 +3,7 @@ title: "GitHub Copilot Will Train on Your Code by Default — Opt Out Before Apr
 summary: "Starting April 24, 2026, Microsoft's GitHub will use Copilot interaction data from Free, Pro, and Pro+ users to train AI models by default. The change has ignited fierce backlash from developers worried about intellectual property and proprietary codebases. Business and Enterprise users are exempt, but everyone else must act before the deadline."
 category: "developer-tools"
 publishedAt: 2026-04-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -29,7 +30,7 @@ relatedSlugs:
 
 GitHub has drawn fire from the developer community after announcing it will begin harvesting interaction data from Copilot Free, Pro, and Pro+ users to train and improve its AI models — starting April 24, 2026. The move flips what had been the default: previously, GitHub did not use this data for AI training without explicit user consent. Now, the burden falls on developers to actively opt out.
 
-The policy change was disclosed through an update to GitHub's Privacy Statement and Terms of Service on March 25, with a 30-day runway before it takes effect. For many developers, the update landed as a rude surprise buried in a routine changelog post rather than a prominent notification.
+The policy change was disclosed through an update to GitHub's Privacy Statement and Terms of Service on March 25, with a 30-day runway before it takes effect. GitHub announced the change in a blog post from its chief product officer and in a changelog entry on the Privacy Statement and Terms of Service update.
 
 ## What Data Is GitHub Collecting?
 
@@ -63,7 +64,7 @@ The reaction on GitHub's community forums has been swift and largely negative. T
 
 ## GitHub's Justification
 
-GitHub's public rationale centers on model quality. In its blog post, the company argued that Copilot has become more accurate and contextually aware precisely because of feedback loops aggregating behavior across its user base. Without access to real-world interaction data, the argument goes, model improvement either stagnates or requires far more expensive synthetic data generation.
+GitHub's public rationale centers on model quality. In its blog post, the company said that incorporating interaction data from Microsoft employees had produced meaningful improvements, including increased acceptance rates in multiple languages, and argued that training on real-world interaction data would improve performance for a more diverse range of use cases. Without access to real-world interaction data, the argument goes, model improvement either stagnates or requires far more expensive synthetic data generation.
 
 The business context matters too. Microsoft, which owns GitHub, faces mounting competitive pressure to keep Copilot relevant. As of early 2026, GitHub Copilot leads in enterprise adoption with over 4.7 million paid subscribers — but Cursor, the fast-growing VS Code fork, has been closing the gap fast, now valued at $50 billion after a surge in developer enthusiasm. Google's Gemini CLI and Anthropic's Claude Code are also aggressively expanding. The race to accumulate high-quality real-world coding data has become, in effect, the race to stay competitive.
 
@@ -86,3 +87,5 @@ For developers who work primarily on personal or open-source projects, the calcu
 GitHub has not signaled any intention to change from opt-out to opt-in, and given that the policy aligns with clear commercial interests, a reversal seems unlikely without significant regulatory pressure — or a meaningful flight of enterprise accounts to rivals.
 
 **Deadline: April 24, 2026. Check your settings now.**
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

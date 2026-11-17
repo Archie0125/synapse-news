@@ -3,6 +3,7 @@ title: "Anthropic Gives AI Agents the Ability to 'Dream' — and Learn From Thei
 summary: "Anthropic has unveiled 'dreaming,' a self-improvement system for Claude Managed Agents that reviews past sessions overnight, extracts patterns, and quietly upgrades agent memory — no human retraining required. The feature, currently in developer preview on Claude Opus 4.7 and Sonnet 4.6, has already delivered a 6x task completion increase at legal AI firm Harvey."
 category: "developer-tools"
 publishedAt: 2026-05-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -49,7 +50,7 @@ This limitation meant that agents improved only as fast as humans could observe 
 
 Dreaming closes that loop automatically. The agent becomes, in effect, its own quality engineer — observing its own outputs, identifying weak points, and improving without waiting for a human to notice and intervene.
 
-"Dreaming surfaces patterns that a single agent session can't see on its own," Anthropic wrote in its product announcement. "Recurring mistakes, workflows that agents converge on independently, and preferences shared across a team."
+"Dreaming surfaces patterns that a single agent can't see on its own, including recurring mistakes, workflows that agents converge on, and preferences shared across a team," Anthropic wrote in a blog post.
 
 ## Early Results Are Striking
 
@@ -63,7 +64,7 @@ Anthropic was careful to position this as a research preview rather than a produ
 
 Dreaming was released as part of a broader update to Claude Managed Agents that included two other significant additions.
 
-The first is **outcomes** — a system that allows developers to log the results of agent tasks against a structured taxonomy, giving the agent (and Anthropic's platform) feedback signals about which workflows produced acceptable outputs and which did not. Outcomes data feeds into the dreaming process, allowing the memory consolidation to be weighted toward sessions that generated successful results.
+The first is **outcomes** — a feature that lets users define what success looks like for a task, after which a separate grader evaluates the agent's output against that standard and the agent takes another pass if something isn't right.
 
 The second is expanded **multi-agent orchestration** capabilities, which allow a primary Claude agent to dynamically spawn and coordinate sub-agents during a complex task. The orchestration layer is now more robust, with better support for passing state and context between agents in a hierarchy, and for handling failures in sub-agents without requiring the entire workflow to restart.
 
@@ -86,3 +87,5 @@ The outcomes and multi-agent orchestration features are available as a public be
 For developers building on Claude Managed Agents, the practical question is not whether dreaming will eventually reach general availability — Anthropic's pricing and trajectory suggest it will. The question is whether the architecture of self-improving agents, with memory consolidation happening automatically in the background, fits the governance and compliance requirements of their specific enterprise context. For most legal, financial, and healthcare deployments, the answer will require careful review of the data handling and audit trail that dreaming produces.
 
 What Anthropic has demonstrated with this release is a clear thesis about where enterprise AI agents are headed: not just doing tasks, but learning to do them better, with decreasing need for human intervention between improvement cycles. Whether that trajectory leads to greater organizational leverage or greater vendor dependency will depend, in part, on decisions that enterprises make right now.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

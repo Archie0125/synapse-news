@@ -3,6 +3,7 @@ title: "Blue Origin's New Glenn Rocket Explodes on Launchpad, Threatening NASA A
 summary: "Blue Origin's New Glenn rocket exploded during a static fire test at Cape Canaveral on May 28, destroying the 321-foot vehicle and severely damaging the company's only Florida launch complex. The blast has suspended Amazon's 24-launch Kuiper satellite manifest with no restart date and thrown NASA's Artemis moon program timeline into serious jeopardy, potentially delaying crewed lunar landings into 2029 or beyond."
 category: "hardware"
 publishedAt: 2026-05-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -60,7 +61,7 @@ Perhaps more consequential for the broader space industry is the knock-on effect
 
 Blue Origin is one of two providers selected by NASA to build human landing systems for Artemis crewed missions. Its Blue Moon lander is a critical component of the architecture NASA has planned for multiple upcoming missions. Crucially, Blue Moon landers are designed to be launched to orbit atop New Glenn rockets — making the rocket's grounding a direct threat to the mission timeline.
 
-The affected missions include the Artemis 3 low-Earth orbit demonstration (originally targeted for mid-2027), the Moon Base 1 mission (previously targeting fall 2026), and the Artemis 4 crewed lunar landing (targeted for 2028). Analysts who reviewed the blast and its implications told The Conversation that a realistic return-to-flight timeline for New Glenn suggests none of those schedule targets are achievable as currently planned.
+The affected missions include the Artemis 3 low-Earth orbit demonstration (originally targeted for mid-2027), the Moon Base 1 mission (previously targeting fall 2026), and the Artemis 4 crewed lunar landing (targeted for 2028). A space policy expert writing in The Conversation said Blue Origin's inability to launch Blue Moon anytime soon is likely to put the company out of the running for Artemis III.
 
 NASA has not formally revised its Artemis timeline as of this writing but has acknowledged the explosion and said it is assessing the impact. The agency is also relying on SpaceX's Starship-based Human Landing System for some Artemis missions, which provides partial backup — but NASA had structured later Artemis missions to depend on Blue Origin's landers specifically, making a simple SpaceX substitution complicated.
 
@@ -70,7 +71,7 @@ The explosion lands at a particularly fraught moment for Blue Origin.
 
 After years of lagging behind SpaceX in technical capability and launch cadence, New Glenn had only recently begun establishing a track record. The rocket's first successful orbital launch came in January 2025 after a long development program that drew considerable criticism for its slow pace. In early 2026, New Glenn began accumulating the mission experience needed to support the high-value commercial and government payloads that Blue Origin needed to prove itself competitive.
 
-The static fire failure reverses that momentum entirely. Blue Origin must now conduct a root-cause investigation, which for a rocket explosion of this scale will involve examining not just the BE-4 engines but every subsystem that could have contributed to the anomaly. The investigation will need to satisfy both the Federal Aviation Administration and NASA — whose human spaceflight safety standards are the most rigorous in the industry — before New Glenn can return to flight.
+The static fire failure reverses that momentum entirely. Blue Origin must now conduct a root-cause investigation, which for a rocket explosion of this scale will involve examining not just the BE-4 engines but every subsystem that could have contributed to the anomaly. The FAA has said the test was outside the scope of FAA-licensed activities and will not trigger a separate agency-led investigation, so Blue Origin itself must determine the root cause.
 
 The financial impact is also severe. A New Glenn rocket is estimated to cost several hundred million dollars to manufacture. The destroyed transporter erector assembly and launch pad infrastructure represent additional capital expenditure, funded by Bezos rather than by an equity market that could price in the setback. Blue Origin is privately held, meaning Bezos personally absorbs these losses without the option of rapidly raising capital through a stock offering.
 
@@ -82,4 +83,6 @@ SpaceX's Falcon 9 has conducted more than 350 successful launches and can absorb
 
 For the US government — which has made launch competition a deliberate policy priority to avoid SpaceX monopoly — the New Glenn explosion is a significant setback. It removes, at least temporarily, the most credible American heavy-lift alternative to SpaceX's vehicles and places additional leverage on the Elon Musk-owned company at a moment when the government's relationship with Musk is itself a subject of political attention.
 
-The investigation into the May 28 explosion is expected to take several months. Until it is complete, New Glenn stays on the ground — and with it, a significant portion of the United States' non-SpaceX space infrastructure ambitions.
+Blue Origin has said it is working to find the root cause of the May 28 explosion, and no timeline for the investigation has been announced. Until it is complete, New Glenn stays on the ground — and with it, a significant portion of the United States' non-SpaceX space infrastructure ambitions.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

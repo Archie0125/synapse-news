@@ -1,8 +1,9 @@
 ---
-title: "DeepSeek V4 Hits General Availability, Setting an Open-Source Price Floor at $0.87 Per Million Tokens"
-summary: "After a three-month preview period, DeepSeek V4 has reached full general availability with 80.6% SWE-bench performance at pricing 28x cheaper than Claude Opus 4.8. Combined with Kimi K3's open-weight release, the final week of July marks the most consequential stretch for open-source AI in 2026."
+title: "DeepSeek V4-Pro Reaches General Availability With API Pricing at $0.87 Per Million Output Tokens"
+summary: "DeepSeek V4-Pro has reached general availability after a preview period, with output pricing roughly 86x cheaper than Claude Opus 4.7."
 category: "ai-ml"
 publishedAt: 2026-07-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-07-20-deepseek-71b-valuation-ipo-2026-en"
 ---
 
-Three months after its preview launch, DeepSeek V4 has reached full general availability—and with it, the Chinese AI lab has established a pricing floor that will force every frontier model provider to justify their rates anew. The timing, coinciding almost exactly with Moonshot's release of Kimi K3's open weights on July 27, makes the final week of July the most consequential stretch for open-source AI in 2026.
+After a preview launch on April 24, DeepSeek V4-Pro has reached general availability, and the Chinese AI lab has established a pricing floor that will force every frontier model provider to justify their rates anew. The timing makes this stretch notable for open-source AI in 2026.
 
 ## What V4 Brings to the Table
 
@@ -39,21 +40,21 @@ On benchmarks, V4-Pro's highest-performing configuration—V4-Pro-Max—achieves
 
 ## The Price Floor
 
-Pricing is where V4 makes its most aggressive argument to the market. V4-Pro via DeepSeek's API costs $0.435 per million input tokens and $0.87 per million output tokens. V4-Flash costs $0.14 input and $0.28 output per million tokens. By comparison, Claude Opus 4.8—before Claude Opus 5 replaced it—was priced at approximately $15 input and $75 output. V4-Pro is 28.7 times cheaper per output token than Opus 4.8, and more than 86 times cheaper than Opus 4.8 on output.
+Pricing is where V4 makes its most aggressive argument to the market. V4-Pro via DeepSeek's API costs $0.435 per million input tokens and $0.87 per million output tokens. V4-Flash costs $0.14 input and $0.28 output per million tokens. By comparison, Claude Opus 4.8—before Claude Opus 5 replaced it—was priced at approximately $15 input and $75 output. V4-Pro is roughly 86 times cheaper than Opus 4.7 on output and roughly 34 times cheaper on input.
 
 These are not small differences. For enterprises running at scale—legal document review, code generation, data extraction, customer service automation—the cost gap between a V4-Pro deployment and a Claude or GPT-4-class deployment can run to millions of dollars annually. V4 pricing creates a forcing function: API providers serving cost-sensitive workloads must either match these rates, specialize their offerings in ways that justify a premium, or watch enterprise budget holders choose the cheaper option.
 
-The old DeepSeek API endpoints—running on prior model generations—were shut down on July 24 as part of the official migration to V4. Users who had not yet migrated faced brief service interruptions, which produced short-lived complaints on developer forums before the transition completed. The migration deadline had been announced two weeks earlier, giving developers adequate warning.
+The legacy deepseek-chat and deepseek-reasoner aliases were scheduled to retire on July 24 at 15:59 UTC; they had been routing to V4 Flash. Users who had not yet migrated faced brief service interruptions, which produced short-lived complaints on developer forums before the transition completed. The migration deadline had been announced two weeks earlier, giving developers adequate warning.
 
 ## The Three-Month Journey to GA
 
 DeepSeek released V4's preview on April 24, 2026, as a technical preview with limited capacity and some availability constraints. During the three-month preview period, the company gathered real usage data, tuned safety filters for production workloads, resolved reliability issues under genuine load, and validated that the inference infrastructure could handle the volume required for enterprise SLA commitments.
 
-The GA transition in the July 20-24 window brought full production-level SLA commitments—the kind of uptime guarantees that enterprise procurement teams require before they can put a model in a production pipeline. It also brought the stable API endpoint naming that allows customers to integrate once and not worry about version migrations breaking their code, and expanded capacity across DeepSeek's inference infrastructure.
+V4-Pro reached general availability on August 13, 2026, with the V4-Pro-0813 checkpoint, reasoning-effort levels, and published concurrency limits. It also brought the stable API endpoint naming that allows customers to integrate once and not worry about version migrations breaking their code, and expanded capacity across DeepSeek's inference infrastructure.
 
 ## A Week That Rewrites the Map
 
-The simultaneous nature of V4's GA arrival and Kimi K3's open-weight release has created an unusual market moment. In the same week:
+V4-Pro's general availability has arrived amid a crowded month of frontier model launches. In the same week:
 
 - DeepSeek V4-Pro-Max achieves 80.6% SWE-bench at $0.87 per million output tokens via hosted API
 - Kimi K3's 2.8-trillion-parameter weights are freely downloadable for self-hosting at no per-token cost
@@ -81,3 +82,5 @@ For developers: V4 is now production-grade, stable, and cheap enough to run infe
 For frontier model providers: every model priced above $0.87 per million output tokens needs a clear differentiation story for each customer segment it targets. Capability alone—particularly capability at the 43% FrontierBench level—is no longer sufficient justification for a 28x price premium in competitive enterprise negotiations.
 
 The open-source price floor is now set. The race to the next level has begun.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Spotify Founder's Neko Health Raises $700M Series C at $7B Valuation to 
 summary: "Neko Health, the AI-powered preventive health startup co-founded by Spotify's Daniel Ek, has closed a $700 million Series C at nearly a $7 billion valuation — a fourfold jump from its January 2025 Series B — to fund the opening of its first US clinic in Manhattan. The round was led by Lightspeed Venture Partners, with backing from Mark Zuckerberg, OpenAI, and others."
 category: "startups"
 publishedAt: 2026-07-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -27,23 +28,23 @@ relatedSlugs:
   - "2026-07-05-h1-2026-vc-funding-record-510b-ai-concentration-en"
 ---
 
-In a funding environment where nine-figure health tech rounds have become almost routine, Neko Health's $700 million Series C still stands out. The Swedish preventive health company — founded in 2022 by Spotify co-founder Daniel Ek and Hjalmar Nilsonne, built around a proprietary full-body scan that takes 60 minutes and produces results in 48 hours — closed the round on July 15 at a valuation just under $7 billion. That's a fourfold increase from the $1.7 billion valuation it carried after its Series B in January 2025.
+In a funding environment where nine-figure health tech rounds have become almost routine, Neko Health's $700 million Series C still stands out. The Swedish preventive health company — founded by Spotify's Daniel Ek and Hjalmar Nilsonne, built around a proprietary full-body scan that takes 60 minutes — announced the completion of the round at a valuation just under $7 billion. That's a fourfold increase from the $1.7 billion valuation it carried after its Series B in January 2025.
 
 The round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners. The investor list reads like a who's who of the technology and celebrity worlds: Mark Zuckerberg and Priscilla Chan committed capital, as did Tim Ferriss, Maria Sharapova, will.i.am, and OpenAI. The combination of tech founders, venture capital, celebrities, and an AI company investing in a health startup captures something real about where preventive medicine sits culturally in 2026 — no longer a niche concern but a premium consumer category that the wealthy and the influential have organized around.
 
 ## What Neko Actually Does
 
-The core product is a 60-minute, highly orchestrated full-body scan that uses thousands of proprietary sensors developed in-house. The scan is automated to a remarkable degree — patients move through a clinical pipeline with minimal human interaction, guided by software rather than staff. Results are returned within 48 hours, surfacing detailed metabolic insights, cardiovascular risk factors, early cancer markers, and structural abnormalities that standard primary care appointments would rarely catch.
+The core product is a 60-minute, highly orchestrated full-body scan that uses thousands of proprietary sensors developed in-house. The scan is automated to a remarkable degree — patients move through a clinical pipeline with minimal human interaction, guided by software rather than staff. Results are delivered on-site within minutes and discussed in an in-person consultation with a medical professional, covering skin health, pre-diabetes risk, blood abnormalities, and risk factors linked to metabolic syndrome, stroke, and heart attack.
 
 The important detail is that Neko builds everything vertically: the imaging hardware, the clinical software, the AI analysis layer, and the clinic footprint itself. This is a deliberate choice. Neko's thesis is that the performance of a preventive scan is only as good as the weakest link in the chain — and that building on top of legacy medical equipment suppliers, third-party software, or generic lab services introduces precisely the quality variability that makes preventive medicine unreliable at scale. By controlling the full stack, the company can iterate on every component simultaneously.
 
-The AI layer is the piece that scales. The scan hardware and clinic footprint are capital-intensive; the AI models that interpret scan data improve continuously as more patients move through the system. Neko has processed over 350,000 scans in Europe across its clinics in London, Stockholm, Hamburg, and several other cities. Each scan adds to a proprietary dataset that no competitor — including academic medical centers — can easily replicate.
+The AI layer is the piece that scales. The scan hardware and clinic footprint are capital-intensive; the AI models that interpret scan data improve continuously as more patients move through the system. More than 100,000 members have already experienced a Neko Health Scan across its clinics in the UK and Sweden, including London, Birmingham, Manchester, and Stockholm. Each scan adds to a proprietary dataset that no competitor — including academic medical centers — can easily replicate.
 
 ## The Numbers Behind the Hype
 
 The $700 million round and $7 billion valuation are not built on speculation. Neko has disclosed enough operational data to make the growth story legible.
 
-The company has a 350,000-person international waitlist — confirmed paying demand, not email sign-ups. Its European clinics have operated profitably on a per-clinic basis, demonstrating that the unit economics work at current pricing (approximately £1,200-1,500 per scan in the UK, with annual membership plans for repeat customers). The company has not disclosed total revenue, but at current scan volumes and pricing, the run rate is likely in the $150-250 million range.
+Over 350,000 people have registered for a Neko Health Scan, a sign of demand for the service. The scan is priced at £299 in the UK and 2,750 SEK in Sweden, and 75 percent of members on average book and prepay for a scan for the following year at the end of their appointment. The company has not disclosed total revenue, but at current scan volumes and pricing, the run rate is likely in the $150-250 million range.
 
 The Series C capital is not going toward achieving profitability — Neko claims its existing European operations are already profitable at the clinic level — but toward funding the expensive process of entering the US market. Opening a first flagship clinic in Manhattan involves real estate, regulatory approval, equipment installation, staff training, and a US-specific marketing launch. Healthcare regulation in the United States is materially more complex than in Europe, which is one reason the company is treating its Manhattan opening as a deliberate, high-investment beachhead rather than a rapid rollout.
 
@@ -63,7 +64,7 @@ For Lightspeed and its co-investors, the bet is on the structural shift in how w
 
 Neko's pitch to enterprise buyers (employer benefit programs, insurance companies offering preventive incentives, private wealth management clients) is that its scan produces specific, actionable health data that reduces long-term claims costs and extends the productive years of high-value employees and clients. That's a different kind of sales conversation than selling gym memberships or wellness apps.
 
-OpenAI's participation in the round is worth noting specifically. Sam Altman has been publicly interested in longevity and preventive medicine for years, and OpenAI's investment suggests an interest in the intersection of AI and biological health data that goes beyond financial return. Neko's dataset — 350,000 full-body scans, growing rapidly — is exactly the kind of multi-modal biological data that next-generation health AI models would need to become clinically useful.
+OpenAI's participation in the round is worth noting specifically. Sam Altman has been publicly interested in longevity and preventive medicine for years, and OpenAI's investment suggests an interest in the intersection of AI and biological health data that goes beyond financial return. Neko's dataset, drawn from more than 100,000 members who have had a scan, is exactly the kind of multi-modal biological data that next-generation health AI models would need to become clinically useful.
 
 ## What Comes After Manhattan
 
@@ -74,3 +75,5 @@ The longer-term opportunity that Neko is building toward, but rarely articulates
 The $7 billion valuation already reflects some of that long-term optionality. Whether the market ultimately rewards it depends on whether Neko can execute on a Manhattan launch that generates enough US waitlist demand to justify the broader rollout — and whether the American healthcare system, with its distinctive regulatory and insurance dynamics, proves as receptive as the European markets where the model has already been validated.
 
 For now, the $700 million round answers one question definitively: serious money thinks Neko's bet is worth making.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

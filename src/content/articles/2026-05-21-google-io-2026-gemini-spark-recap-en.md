@@ -3,6 +3,7 @@ title: "Google I/O 2026: Gemini Spark, Omni, and the AI Agent That Never Sleeps"
 summary: "Google's I/O 2026 keynote delivered its most consequential developer event in years: Gemini 3.5 Flash, a 24/7 background AI agent called Gemini Spark, a world-modeling video platform called Gemini Omni, and a revamped $100/month AI Ultra subscription. The company is betting it can win the AI war by being simultaneously the cheapest and the most capable."
 category: "ai-ml"
 publishedAt: 2026-05-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -35,7 +36,7 @@ The result was a keynote dense with product announcements. But four threads wove
 
 ## Gemini 3.5 Flash: Frontier Performance at Half the Price
 
-The centerpiece model announcement was Gemini 3.5 Flash, which Google is positioning as an unusual achievement — a lighter-weight model that outperforms its own previous-generation pro model on coding and agentic benchmarks. According to Google's internal evaluations, Gemini 3.5 Flash beats Gemini 3.1 Pro on both dimensions while running approximately four times faster.
+The centerpiece model announcement was Gemini 3.5 Flash, which Google is positioning as an unusual achievement — a lighter-weight model that outperforms its own previous-generation pro model on coding and agentic benchmarks. According to Google, Gemini 3.5 Flash outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks, and Google says it runs about four times faster than comparable frontier models.
 
 Pricing tells the story: $1.50 per million input tokens and $9.00 per million output tokens, with cached input at $0.15 per million. That is roughly a 3× increase over Gemini 3 Flash's rates, but Google argues the performance-per-dollar still improves significantly because the model needs far fewer tokens to complete complex tasks.
 
@@ -61,9 +62,9 @@ The timing is notable given that this follows the pre-I/O leak of Omni specifica
 
 ## AI Ultra at $100/Month: Google's Premium Tier
 
-The subscription landscape also shifted. Google unveiled AI Ultra at $100 per month, replacing the previous AI One and AI Premium tiers with a cleaner two-tier structure. AI Ultra includes 5× higher usage limits on all Gemini products compared to the $20 AI Pro tier, 20 terabytes of Google One cloud storage, YouTube Premium, and beta access to Gemini Spark.
+Google also added a new subscription plan. Google unveiled a new $100 AI Ultra plan, aimed at developers, technical leads, knowledge workers and advanced creators. The plan includes 5× higher usage limits in the Gemini app and Antigravity than the AI Pro plan, plus 20 terabytes of cloud storage.
 
-This puts Google in direct competition with OpenAI's $200/month ChatGPT Pro and Anthropic's own enterprise offerings. At half the price of ChatGPT Pro, Google is signaling that it can afford to subsidize premium AI access at scale — a structural advantage of running the world's largest cloud and search businesses alongside its AI division.
+This puts Google in direct competition with OpenAI's $200/month ChatGPT Pro and Anthropic's own enterprise offerings.
 
 ## Managed Agents API: The Developer Play
 
@@ -80,3 +81,5 @@ Executives at Google, OpenAI, and Anthropic are increasingly describing the fron
 The real test begins now. Gemini Spark will be judged by whether it actually completes the tasks users assign it without supervision. Gemini Omni will be judged by its video quality against Sora, Runway, and Kling. And Gemini 3.5 Flash will be judged by whether developers actually reach for it when they are building the next generation of AI applications.
 
 Google has assembled the pieces. Whether the sum is greater than its parts depends on execution — a quality that has historically been Google's Achilles heel in consumer AI.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

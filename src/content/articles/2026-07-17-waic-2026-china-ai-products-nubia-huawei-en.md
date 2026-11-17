@@ -3,6 +3,7 @@ title: "WAIC 2026 Opens: 300 AI Debuts, the World's First AI Agent Phone, and Ch
 summary: "The 2026 World Artificial Intelligence Conference opened in Shanghai on July 17 with over 300 global product debuts, including Nubia's NaviX Ultra — billed as the world's first AI agent smartphone — Huawei's Atlas 950 supernode, and MiniMax's M3 multimodal model. With Xi Jinping delivering a rare in-person keynote and 1,100 companies exhibiting, WAIC 2026 is China's most emphatic declaration yet that the AI race is genuinely bipolar."
 category: "products"
 publishedAt: 2026-07-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -63,9 +64,9 @@ MiniMax's growth trajectory — the company was valued at over $5 billion in its
 
 ## The Geopolitical Stage
 
-WAIC 2026's scale — 100,000 square meters, 1,100 exhibitors, 300+ product debuts, 9 Turing Award laureates delivering academic presentations — is partly about technology and partly about narrative. China is staging the largest AI showcase in the world on the same week the Western frontier releases three competing flagship models, and doing so with products that span consumer devices, enterprise infrastructure, foundational models, and governance frameworks.
+WAIC 2026's scale — 100,000 square meters, 1,100 exhibitors, 300+ product debuts, and 9 Turing Award and Nobel laureates invited to take part — is partly about technology and partly about narrative. China is staging the largest AI showcase in the world on the same week the Western frontier releases three competing flagship models, and doing so with products that span consumer devices, enterprise infrastructure, foundational models, and governance frameworks.
 
-Xi's keynote, delivered to an audience of government officials and industry leaders from dozens of countries, emphasized China's commitment to open global AI governance frameworks and positioned Beijing as an alternative to what it characterizes as the United States' unilateral approach to AI standards-setting. The UN's High-Level Meeting on Global AI Governance is running concurrently with WAIC in Shanghai, giving China a diplomatic venue to advance its governance proposals alongside its product showcases.
+Xi's keynote, delivered to an audience of government officials and industry leaders from dozens of countries, emphasized China's commitment to open global AI governance frameworks and positioned Beijing as an alternative to what it characterizes as the United States' unilateral approach to AI standards-setting. The High-Level Meeting on Global AI Governance is being held alongside WAIC in Shanghai, giving China a diplomatic venue to advance its governance proposals alongside its product showcases.
 
 The through-line of the 2026 AI race, as it has emerged over the first half of the year, is not a Western monopoly on frontier capability facing an aspiring challenger. It is a two-superpower competition in which domestic Chinese AI infrastructure, models, and products are increasingly credible at the frontier level — and in which the governance and standards layer is as contested as the technical one.
 
@@ -76,3 +77,5 @@ A statistic cited in WAIC's official preview that deserves separate attention: t
 The chip count is particularly significant given export restrictions. Exhibiting 108 chips — spanning training accelerators, inference chips, edge AI processors, and memory architectures — suggests that the domestic Chinese semiconductor industry has diversified and deepened its AI-specific offerings substantially since the original export controls were imposed. Whether any of these chips can match NVIDIA's most advanced offerings in raw performance is a separate question from whether they can collectively support a self-sufficient national AI compute ecosystem.
 
 WAIC 2026 runs through July 20. Major product demonstrations, academic sessions, and governance meetings are scheduled across the full four days, with more debuts expected in the coming sessions.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

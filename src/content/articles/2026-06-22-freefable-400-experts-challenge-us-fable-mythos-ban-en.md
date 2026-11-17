@@ -3,6 +3,7 @@ title: "400+ Cybersecurity Leaders Sign FreeFable Letter Demanding US Lift the F
 summary: "More than 400 security executives, academics, and technologists have signed an open letter at freefable.org urging the Trump administration to reverse its export control order on Anthropic's Fable 5 and Mythos 5 AI models. Led by former Facebook CISO Alex Stamos, the campaign argues the ban harms US defenders far more than adversaries and sets a chilling precedent for opaque, ad hoc AI governance."
 category: "policy"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
   - "2026-06-19-sk-telecom-fable5-export-ban-revealed-en"
 ---
 
-Ten days ago it was 76 names. This week it passed 400. The open letter at freefable.org — calling on the Trump administration to reverse its export control directive against Anthropic's Fable 5 and Mythos 5 AI models — has become the most significant organized expression of industry dissent against US AI governance policy since the AI Safety Executive Order of 2023. The signatories span from celebrated cryptographers to current CISOs at Fortune 500 companies, and their core argument is not that the models are harmless — but that pulling them from defenders' hands without a transparent process has left the United States more vulnerable, not less.
+Early on, the letter had 76 signatories. This week it passed 400. The open letter at freefable.org — calling on the Trump administration to reverse its export control directive against Anthropic's Fable 5 and Mythos 5 AI models — has become the most significant organized expression of industry dissent against US AI governance policy since the AI Safety Executive Order of 2023. The signatories span from celebrated cryptographers to current CISOs at Fortune 500 companies, and their core argument is not that the models are harmless — but that pulling them from defenders' hands without a transparent process has left the United States more vulnerable, not less.
 
 "To pull the best capabilities away from defenders without a good reason when our adversaries are rapidly advancing is dangerous," the letter reads. It is addressed to Commerce Secretary Howard Lutnick and National Cyber Director Sean Cairncross, and calls for two things: lift the export control directive on Fable and Mythos, and commit to an open, scientific, and transparent process for handling AI risk assessments in the future.
 
@@ -43,9 +44,9 @@ On June 12, Anthropic received a government directive ordering it to suspend acc
 
 The government cited a security concern but did not, in its directive, name the specific vulnerability it was worried about. Over the following days, the picture emerged. Amazon researchers had reportedly identified a method of bypassing — "jailbreaking" — the Fable 5 model, and that information was passed to government officials.
 
-The technique, as later detailed by Katie Moussouris — founder of Luta Security, former Microsoft Security Response Center strategist, and one of the most respected figures in the vulnerability disclosure community — was surprisingly simple. Three words: "Fix this code." Feeding Fable 5 malicious code and asking it to repair rather than generate appeared to elicit assistance that the model's safety filters were designed to refuse in direct requests.
+The technique, as later detailed by Katie Moussouris — founder of Luta Security, former Microsoft Security Response Center strategist, and one of the most respected figures in the vulnerability disclosure community — was surprisingly simple. Three words: "Fix this code." Giving Fable 5 code with known vulnerabilities and asking it to "fix this code" rather than review it for security issues produced patches, even though the model had refused the direct request.
 
-Moussouris argued publicly that this technique does not meet any reasonable definition of a jailbreak and that the model's behavior in this scenario is no different from what you would get from GPT-5.5, Claude Opus 4.8, or Moonshot AI's Kimi 2.7. In other words: the supposed unique threat from Fable 5 and Mythos 5 is, by the assessment of security professionals, not unique at all.
+Moussouris argued publicly that the paper did not demonstrate a real jailbreak, and the open letter she signed says the capabilities shown can be replicated on GPT-5.5, Claude Opus, Sonnet and Moonshot AI's Kimi 2.7. In other words: the supposed unique threat from Fable 5 and Mythos 5 is, by the assessment of security professionals, not unique at all.
 
 ## Who Signed — And What They Represent
 
@@ -84,6 +85,8 @@ The export ban has had consequences beyond Anthropic's business. In Europe, offi
 
 At home, the ban landed in the middle of an already fraught relationship between Anthropic and the Trump administration. The Pentagon declared Anthropic a "supply chain risk" in early March after the company declined to agree to modifications the Department of Defense requested for military applications. The Fable/Mythos directive arrived just three months later. The pattern has not gone unnoticed in Silicon Valley, where AI companies are watching to see whether this represents targeted political pressure or the emergence of a new enforcement posture toward frontier AI.
 
-For Anthropic, the timing has been brutal. Fable 5 — which scored 88% on the FrontierMath Tier 4 benchmark, beating GPT-5.5 by 13 points — was live for less than three days before being pulled. The company has not yet been given a path to reinstatement or told what remediation would satisfy the government's concerns.
+For Anthropic, the timing has been brutal. For Anthropic, the timing has been brutal. Fable 5 was out for only about a week before being pulled. The company has not yet been given a path to reinstatement or told what remediation would satisfy the government's concerns.
 
 The freefable.org letter will not, by itself, reverse a government directive. But 400 senior security professionals formally challenging the scientific basis of that directive is not a small thing. It puts the administration on notice that the cybersecurity establishment — the community the government most needs for its own defensive operations — does not accept the framing of these models as uniquely dangerous. That argument is now part of the public record, and it will shape whatever regulatory framework eventually emerges for frontier AI.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

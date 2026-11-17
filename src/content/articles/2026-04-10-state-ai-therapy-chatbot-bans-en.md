@@ -1,8 +1,9 @@
 ---
 title: "Maine and Missouri Move to Ban AI Therapy Chatbots as States Race to Regulate Mental Health AI"
-summary: "Maine's LD 2082, which bans licensed mental health providers from using AI for independent therapeutic decisions, passed both legislative chambers on April 7–8 and heads to the governor. Missouri's HB 2372 passed the full House on April 2 with a $10,000 first-offense penalty clause, and now sits in the Senate. The twin developments signal an accelerating state-level movement to draw hard legal lines around AI in mental healthcare."
+summary: "Maine's LD 2082, which would prohibit the clinical use of AI in mental health therapy while allowing administrative use, passed both legislative chambers on April 7–8 and was sent to the governor. Missouri's HB 2372 passed the full House on April 2 with a $10,000 first-violation penalty clause, and now sits in the Senate."
 category: "policy"
 publishedAt: 2026-04-10T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,17 +32,17 @@ relatedSlugs:
 
 ## A Legislative Wave Takes Shape: States Are Drawing Hard Lines Around AI in Mental Health
 
-Two separate state legislatures, working independently on opposite sides of the country, arrived at near-identical conclusions in the span of a single week. Maine passed its AI-in-mental-health-therapy ban on April 7–8. Missouri's House passed its own version two weeks earlier. Together, they represent the clearest signal yet that state lawmakers — frustrated with the pace of federal action and alarmed by the proliferation of AI companionship and therapy products — are moving to establish hard legal boundaries around artificial intelligence in mental healthcare.
+Two separate state legislatures, working independently on opposite sides of the country, arrived at near-identical conclusions in the span of a single week. Maine passed its AI-in-mental-health-therapy ban on April 7–8. Missouri's House passed its own version days earlier, on April 2. Together, they represent the clearest signal yet that state lawmakers — frustrated with the pace of federal action and alarmed by the proliferation of AI companionship and therapy products — are moving to establish hard legal boundaries around artificial intelligence in mental healthcare.
 
 The legislation arrives at a moment of genuine uncertainty about the safety of AI mental health products. Therapy chatbots have proliferated rapidly since the mid-2020s, filling a real access gap in a country where psychiatrists and therapists are in critically short supply and waitlists stretch for months. But several high-profile incidents — including deaths linked to prolonged engagement with companion AI products — have raised urgent questions about what these systems should and should not be permitted to do.
 
 ### Maine LD 2082: A Unanimous Committee, a Clear Rule
 
-Maine's LD 2082, formally titled "An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services," passed through the Joint Standing Committee on Health Coverage, Insurance and Financial Services with a unanimous "Ought to Pass" vote before clearing both the House and Senate on April 7–8. The bill is now headed to Governor Janet Mills for signature, and must pass before the legislature adjourns on April 15.
+Maine's LD 2082, formally titled "An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services," passed through the Joint Standing Committee on Health Coverage, Insurance and Financial Services with a unanimous "Ought to Pass" vote before clearing both the House and Senate on April 7–8. The bill has been sent to the governor, and the legislature is scheduled to adjourn on April 15.
 
-The bill was sponsored by Rep. Amy Kuhn (D-Falmouth) and drafted in partnership with Spurwink, a Maine-based behavioral health organization.
+The bill was sponsored by Sen. Kuhn and Sen. Pierce.
 
-The core prohibition is straightforward: the bill bans licensed mental health providers from using AI to make **independent therapeutic decisions**, interact directly with clients, or generate therapeutic recommendations. AI is permitted for purely administrative functions — scheduling, documentation, billing — but cannot substitute for the clinical judgment of a licensed professional.
+The core prohibition is straightforward: the bill would prohibit the clinical use of AI in mental health therapy. AI would still be permitted in a purely administrative role.
 
 The bill does carve out a narrow exception for therapy chatbots under strict conditions. To qualify for the exception, a chatbot must: (1) display a prominent disclaimer at the beginning of every interaction identifying itself as an AI, not a licensed clinician; and (2) operate only as part of a comprehensive treatment plan prescribed and monitored by a licensed mental health professional, with that professional specifically assessing the minor patient's suitability for chatbot interaction.
 
@@ -65,8 +66,8 @@ Maine and Missouri are not isolated. At least four states are now actively legis
 
 - **New York** enacted safeguards for AI companions earlier this year, requiring disclosure when a user is interacting with an AI and mandating crisis escalation protocols when a companion AI detects signs of acute distress.
 - **Utah** passed legislation in Q1 2026 restricting AI systems from issuing psychiatric medication prescriptions without licensed physician oversight.
-- **Maine** (pending governor signature) prohibits AI-based independent therapeutic decision-making by licensed providers.
-- **Missouri** (pending Senate vote) bans AI from performing therapy services or delivering mental health diagnoses.
+- **Maine** (sent to the governor) would prohibit the clinical use of AI in mental health therapy, while allowing administrative use.
+- **Missouri** (pending in a Senate committee) includes a ban covering AI therapy services, psychotherapy services and mental health diagnosis in an omnibus health care bill.
 
 The pattern reflects a broader dynamic in AI governance: Congress has moved slowly on federal AI legislation, and states are filling the vacuum with their own regulatory frameworks. The result is a patchwork of rules that differs by state — a pattern that the tech industry has consistently warned will create compliance complexity for companies operating nationally.
 
@@ -96,6 +97,8 @@ As long as that gap persists, states will continue to act — and the patchwork 
 
 ### What Comes Next
 
-For the companies most directly affected — companion AI startups, telehealth platforms, and mental health app developers — the legislative calendar over the next 30 days is consequential. Maine's governor must act before April 15. Missouri's Senate must move by session close.
+For the companies most directly affected — companion AI startups, telehealth platforms, and mental health app developers — the legislative calendar over the next 30 days is consequential. Maine's legislature is scheduled to adjourn April 15. Missouri's Senate must move by session close.
 
 But the more important signal is the pattern itself: four states, legislating with real urgency, within a single quarter. Whether or not every bill passes in its current form, the message is clear. States are no longer willing to wait for federal leadership on AI in mental health. The window for industry self-regulation has narrowed significantly — and the legal landscape for AI therapy products is about to become significantly more complex.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

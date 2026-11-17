@@ -1,8 +1,9 @@
 ---
-title: "ASML Beats Q1 Estimates and Raises 2026 Guidance as China Revenue Collapses to 19%"
-summary: "The world's only maker of extreme ultraviolet lithography machines posted €8.8 billion in Q1 net sales and lifted its full-year outlook to €36–40 billion, but shares fell as China's share of system revenue plummeted from 36% to 19% and US lawmakers push to extend export bans to legacy DUV equipment."
+title: "ASML Beats Q1 Estimates and Raises 2026 Guidance as China Falls to 19% of System Sales"
+summary: "ASML posted €8.8 billion in first-quarter net sales and raised its 2026 sales forecast to between €36 billion and €40 billion. Its shares fell 6% on Wednesday as system sales to China fell to 19% of the total from 36% in the December quarter."
 category: "hardware"
 publishedAt: 2026-04-16T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-04-13-us-match-act-duv-chip-export-ban-en"
 ---
 
-ASML Holding delivered a stronger-than-expected first quarter on Wednesday, April 15, posting €8.8 billion in total net sales and raising its 2026 annual revenue forecast — but the Dutch chip-equipment giant's stock still tumbled as investors focused on an accelerating collapse in China business and the looming threat of new US export restrictions that could hit its last remaining revenue stream in the country.
+ASML Holding delivered a stronger-than-expected first quarter on Wednesday, posting €8.8 billion in net sales and raising its 2026 annual revenue forecast — but the Dutch chip-equipment giant's stock still fell 6% as tightening export controls cut China's share of its sales and US lawmakers proposed a bill that would cut off its DUV sales to Chinese chip companies.
 
 ## Blowout Quarter, Cautious Market
 
@@ -34,21 +35,19 @@ The Q1 numbers were unambiguous beats. Net sales of €8.8 billion came in rough
 
 For the full year, ASML lifted its 2026 revenue forecast to a range of €36–40 billion, up from its prior guidance of €34–39 billion. That revision implies confidence that the AI infrastructure buildout will keep wafer-fab equipment demand elevated even as geopolitical headwinds intensify. For Q2, ASML guided to net sales of €8.4–9.0 billion and a gross margin of 51–52%.
 
-The order backlog stood at €38.8 billion at quarter-end, providing substantial forward visibility.
-
 ## The China Cliff
 
 The most discussed figure in the earnings release was one that did not appear in the headline numbers: China's share of ASML's net system revenue dropped to just 19% in Q1, sharply down from 36% in Q4 2025 and from levels above 50% just two years ago when Chinese customers scrambled to buy as many immersion DUV machines as possible ahead of anticipated restrictions.
 
 The contraction reflects the layered effect of US and Dutch export controls. ASML has been barred from shipping its EUV systems to China since 2019 under Dutch government orders, and in late 2023 the Netherlands extended restrictions to the most advanced deep ultraviolet (DUV) tools — the TWINSCAN NXT:2050i and NXT:2100i. What remained was a residual business in older DUV systems and deep-UV service contracts, and it is that business that is now under fresh threat.
 
-In early April, a bipartisan group of US lawmakers introduced the MATCH Act — the Microelectronics Accountability and Technology Controls for Hostile-Nations Act — which, if passed, would require the President to impose export controls on all ASML equipment sold to China, including the legacy DUV machines that currently carry no restrictions. The bill has significant support in both the House and Senate Armed Services committees, and while passage is not guaranteed, its introduction signals a clear directional pressure that spooked investors even as management tried to stay measured.
+Last week, a bipartisan group of US lawmakers proposed a bill that would cut off ASML's sales of DUV machines to Chinese chip companies and affect its already shrinking sales there, though the legislation still needs to work its way through the US legislative process. The bill has significant support in both the House and Senate Armed Services committees, and while passage is not guaranteed, its introduction signals a clear directional pressure that spooked investors even as management tried to stay measured.
 
 "The semiconductor industry's growth outlook continues to solidify, driven by ongoing AI-related infrastructure investments," CEO Christophe Fouquet said in a statement. "Our order intake continues to be very strong." Fouquet declined to predict the legislative outcome but said ASML was "monitoring developments closely and engaging with all relevant stakeholders."
 
 ## EUV Capacity Ramp Accelerating
 
-Away from the China uncertainty, ASML's core business narrative remains intact and arguably more compelling than ever. CFO Dassen confirmed the company expects to ship 60 low-numerical-aperture (low-NA) EUV systems in 2026, representing a 25% increase over 2025 volumes. He went further, saying ASML could deliver 80 low-NA EUV systems in 2027 "if customer demand really underpins it" — a statement that carries significant implications for the capacity plans of TSMC, Samsung, and Intel.
+Away from the China uncertainty, ASML's core business narrative remains intact and arguably more compelling than ever. CEO Fouquet went further, saying ASML could deliver 80 low-NA EUV systems in 2027 "if customer demand really underpins" it.
 
 The high-NA EUV ramp — ASML's €380 million-per-unit next-generation system that TSMC and Intel are already installing — was not discussed at length, but ASML has previously indicated it expects to ship fewer than ten units in 2026 as early customers work through the complex installation and qualification process. Each high-NA tool can expose the smallest features yet achievable in silicon, enabling the 1.4nm and sub-1nm transistor generations that will underpin the AI accelerators and mobile processors of the late 2020s.
 
@@ -71,3 +70,5 @@ The longer-term question is whether China can indigenize EUV-equivalent capabili
 ## What It Means
 
 ASML's Q1 beat and guidance raise confirm that the AI infrastructure supercycle is real and still accelerating, translating into tangible top-line growth for the equipment layer of the semiconductor stack. The China risk is real but increasingly priced in; what investors should watch is whether the MATCH Act gains legislative momentum and how quickly ASML's Western customer base can absorb the incremental capacity. With 60 EUV systems shipping this year and a path to 80 in 2027, the supply constraint for leading-edge chips is loosening — and that is broadly good news for the AI companies betting billions on new silicon each quarter.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

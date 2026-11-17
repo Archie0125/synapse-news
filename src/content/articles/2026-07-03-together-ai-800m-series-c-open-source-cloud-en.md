@@ -1,8 +1,9 @@
 ---
 title: "Together AI Raises $800M as Enterprise Demand for Open-Source Cloud Triples"
-summary: "Together AI closed an $800 million Series C at an $8.3 billion valuation, led by Aramco Ventures. The San Francisco neocloud's annual bookings have surpassed $1.15 billion as enterprises ditch expensive proprietary AI in favor of open-source alternatives running on cheaper GPU infrastructure."
+summary: "Together AI closed an $800 million Series C at an $8.3 billion valuation, led by Aramco Ventures. The neocloud says its annual bookings exceed $1.15 billion as companies turn to open-source models instead of pricier closed frontier models."
 category: "startups"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -59,3 +60,5 @@ The funding arrives at a critical inflection point for the AI industry's economi
 For Vipul Ved Prakash and co-founders Percy Liang and Ce Zhang — all veterans of Stanford's Center for Research on Foundation Models who built CRFM before founding Together in 2022 — the funding represents validation of a founding thesis: that open access to frontier AI capabilities, not lock-in to any single provider, is the architecture that will determine who controls the AI stack long-term.
 
 With $800 million in fresh capital, 500 megawatts of compute on the way, and annual bookings north of $1 billion, Together is no longer just making the case for open-source AI. It's building the financial and physical infrastructure to enforce it.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Meta Signs Deal to Power AI Data Centers With Solar Energy Beamed From Space"
-summary: "Meta has secured an agreement with Overview Energy for up to 1 gigawatt of space-based solar power, using a constellation of satellites to beam near-infrared light down to terrestrial solar farms — including at night. The orbital demonstration is planned for 2028, with commercial grid delivery targeting 2030, as Meta races to solve the energy math behind its $115–135 billion AI capex plan."
+summary: "Meta has secured an agreement with Overview Energy for up to 1 gigawatt of space-based solar power, using satellites to beam near-infrared light down to terrestrial solar farms — including at night. The orbital demonstration is planned for 2028, with commercial grid delivery possible as early as 2030."
 category: "hardware"
 publishedAt: 2026-04-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-04-23-google-ironwood-tpu-cloud-next-2026-en"
 ---
 
-Meta has struck a deal that sounds like science fiction but is now a signed commercial agreement: the company will purchase up to **1 gigawatt of space-based solar power** from Overview Energy, a startup building a constellation of satellites designed to collect sunlight in orbit and beam it down to Earth as near-infrared light, which terrestrial solar farms then convert to electricity — including in the dark.
+Meta has struck a deal that sounds like science fiction: it has signed a capacity reservation agreement with Overview Energy, a startup building satellites designed to collect sunlight in orbit and beam it down to Earth as near-infrared light, which terrestrial solar farms then convert to electricity — including at night. Meta says it will deploy up to **1 gigawatt** of this orbit-to-grid energy.
 
 The deal, announced April 27, marks a significant escalation in how the largest AI companies are approaching the energy problem that underpins their growth ambitions. Meta has committed to spending between $115 billion and $135 billion on AI infrastructure in 2026 alone, and the bottleneck to that buildout is increasingly not capital or chip supply — it's the availability of reliable, low-carbon power on demand.
 
@@ -38,21 +39,21 @@ The deal, announced April 27, marks a significant escalation in how the largest 
 
 The concept of space-based solar power has existed in theoretical form since the 1970s, when NASA first commissioned studies into whether placing solar collectors in orbit could provide continuous power generation unconstrained by Earth's day-night cycle or weather patterns. What changed is that the economics of satellite launch have collapsed — SpaceX's Falcon 9 and Starship have reduced the cost of putting mass into orbit by more than 95% over the past decade — making what was once a purely theoretical energy architecture increasingly plausible to build commercially.
 
-Overview Energy's approach works in three phases. First, a constellation of satellites in low-to-medium Earth orbit collects sunlight using large, deployable photovoltaic arrays. The satellites operate in orbits and inclinations chosen to maximize the fraction of time they are illuminated by the sun — well above 90% in the right orbital configuration, compared to terrestrial solar panels that generate power only during daylight and at reduced efficiency under cloud cover. Second, the collected energy is converted and transmitted to Earth as a directed beam of near-infrared electromagnetic radiation. Near-infrared was chosen for its high efficiency in passing through the atmosphere with minimal absorption losses. Third, specialized terrestrial receiver farms — essentially large-area solar panels tuned to the incoming wavelength — capture the beam and convert it to grid electricity.
+Overview Energy's approach works in three phases. First, satellites in geosynchronous orbit, roughly 22,000 miles above Earth's equator, collect sunlight in space. The satellites operate in orbits and inclinations chosen to maximize the fraction of time they are illuminated by the sun — well above 90% in the right orbital configuration, compared to terrestrial solar panels that generate power only during daylight and at reduced efficiency under cloud cover. Second, the collected energy is converted and transmitted to Earth as a directed beam of near-infrared electromagnetic radiation. Near-infrared was chosen for its high efficiency in passing through the atmosphere with minimal absorption losses. Third, existing terrestrial solar farms receive the beam and convert it to electricity, feeding the grid the same way they handle direct sunlight today.
 
-The "at night" capability is the critical differentiator. A satellite constellation in a suitably designed orbit can beam power to a specific ground location regardless of local time, because the satellites themselves remain in sunlight while the receiving site is in darkness. This solves one of the fundamental limitations of terrestrial solar: the need for large-scale, long-duration energy storage to cover generation gaps.
+The "at night" capability is the critical differentiator. Because the satellites collect sunlight in orbit, they can beam light to solar farms that have entered evening and night, boosting their electrical generation. Overview says its fleet could cover about a third of the planet. This solves one of the fundamental limitations of terrestrial solar: the need for large-scale, long-duration energy storage to cover generation gaps.
 
 ## Why Meta Is Betting on This Now
 
 Meta's interest in space solar is a function of simple arithmetic that is becoming increasingly uncomfortable for all major AI operators.
 
-Training frontier AI models and running large-scale inference at the scale Meta requires is extraordinarily power-intensive. Meta's data centers collectively consume roughly 10 gigawatts of power today, and the buildout required to support the company's AI ambitions — training successive generations of Llama models, running Meta AI across WhatsApp, Instagram, Facebook, and Messenger at global scale, and supporting Reality Labs compute — is projected to require significantly more.
+Training frontier AI models and running large-scale inference at the scale Meta requires is extraordinarily power-intensive. Meta's data centers used more than 18,000 gigawatt-hours of electricity in 2024, and its need for compute power is only increasing.
 
 The problem is that grid power is not uniformly available. In most of the United States and Europe, adding large new loads to the grid requires years of interconnection queue processing, new transmission infrastructure, and increasingly, public permitting battles as communities push back against data center construction near residential areas. The result is that even companies with the capital to build new data centers often cannot get power to them on the timeline their AI roadmaps require.
 
-Meta has responded with an unusually aggressive portfolio of energy strategies. The company has now contracted more than **30 gigawatts** of clean and renewable energy across its global portfolio, and is one of the largest single corporate purchasers of nuclear energy in American history — holding 7.7 gigawatts in nuclear agreements with Vistra, TerraPower, Oklo, and Constellation Energy. It has also signed a 20-year nuclear power agreement.
+Meta has responded with an unusually aggressive portfolio of energy strategies. The company has now contracted more than **30 gigawatts** of clean and renewable energy, and is one of the most significant corporate purchasers of nuclear energy in American history — supporting 7.7 gigawatts of nuclear energy across agreements with Vistra, TerraPower, Oklo, and Constellation Energy. It has also signed a 20-year nuclear power agreement.
 
-Space solar is being positioned as a complement to these existing commitments — specifically for situations where terrestrial clean energy supply cannot be sited or permitted quickly enough to meet demand at specific data center locations.
+Space solar is being positioned as a complement to these existing commitments, aimed at using the idle hours of existing solar facilities and coming online faster at scale than traditional buildouts.
 
 ## The Noon Energy Storage Partnership
 
@@ -66,7 +67,7 @@ Together, the Overview Energy and Noon Energy deals represent a coherent strateg
 
 The space solar deal is real, but the timeline is measured in years, not months.
 
-Overview Energy's **orbital demonstration is planned for 2028** — the first commercial test of beaming power from orbit to a terrestrial receiver. That is not a science project; it is the system working end-to-end at small scale. Commercial delivery to the U.S. grid could begin **as early as 2030**, which aligns with the multi-year buildout timelines that characterize large data center campuses anyway.
+Overview Energy's **orbital demonstration is planned for 2028** — the first time the system is slated to beam energy wirelessly from space to a solar farm on Earth. That is not a science project; it is the system working end-to-end at small scale. If the demonstration succeeds, commercial delivery to the U.S. grid could begin **as early as 2030**.
 
 For perspective, a data center facility that breaks ground today and requires a new 500-megawatt power connection may not receive that connection until 2028 or 2029 regardless of the energy source. From Meta's planning perspective, a space solar supply that begins commercial delivery in 2030 is not far outside the planning horizon of infrastructure being committed to today.
 
@@ -79,3 +80,5 @@ The difference is that most are pursuing solutions that work within the existing
 That bet may or may not prove correct. Space-based solar has a long history of being perpetually 15 years away from viability. What is different in 2026 is that launch costs have been transformed, Meta has the capital to backstop a commercial partner through development risk, and the demand signal — the extraordinary power requirements of frontier AI — has finally made the business case legible.
 
 Overview Energy secured the Meta agreement as a customer anchor. The rest of the industry is watching.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

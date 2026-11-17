@@ -1,8 +1,9 @@
 ---
-title: "The $335 Billion Question: Microsoft and Meta Both Report Earnings July 29 in AI's Biggest Test"
+title: "Microsoft and Meta Both Report Earnings July 29 in a Big Test of the AI Spending Thesis"
 summary: "Microsoft and Meta both report quarterly earnings on July 29 in what analysts call the most important test of the AI spending thesis in 2026. With Microsoft's $37B AI revenue run rate against $190B in planned capex, and Meta's $60B ad machine funding a $145B AI bet, the dual report day will define market sentiment for the rest of the year."
 category: "industry"
 publishedAt: 2026-07-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 Two of the world's most important companies in the artificial intelligence buildout will report quarterly earnings on the same day, July 29—and the results will likely define how the market views the AI spending thesis for the remainder of 2026.
 
-Microsoft, reporting its fiscal Q4 (ending June 30), and Meta, reporting calendar Q2 (ending June 30), together represent more than $335 billion in planned 2026 capital expenditures—a combined war chest being deployed into AI infrastructure, chips, and model development at a pace the technology industry has never seen. What they say about returns, demand, and outlook will matter more than almost anything else this earnings cycle.
+Microsoft, reporting its fiscal Q4, and Meta, reporting calendar Q2, are both pouring heavily into AI infrastructure: Microsoft expects to spend roughly $190 billion on capital investments in 2026, while Meta has raised its 2026 capex forecast to $125 billion to $145 billion. What they say about returns, demand, and outlook will matter more than almost anything else this earnings cycle.
 
 ## Microsoft: The $37 Billion Run Rate Under Pressure
 
@@ -59,7 +60,7 @@ The timing of the July 29 dual report day is not coincidental—it reflects stan
 
 The week's context:
 
-- **Alphabet (July 22)**: Revenue beat, Google Cloud +82%, but first-ever negative quarterly free cash flow at -$5.9 billion on $44.9 billion in capex. Stock fell 4% after-hours.
+- **Alphabet (July 22)**: Revenue beat, Google Cloud +82%, but first-ever negative quarterly free cash flow at -$5.9 billion on $44.9 billion in capex. Alphabet's stock fell 7% on its earnings.
 - **Intel (July 25)**: Stronger-than-expected Q2 on AI infrastructure demand, guidance raised. A positive data point suggesting chip orders are real and growing.
 - **Tesla (July 24)**: Q2 beat on robotaxi deployment and Optimus production progress, validating the AI-adjacent hardware thesis.
 
@@ -80,3 +81,5 @@ What makes July 29 significant is not just two earnings reports—it is the caps
 The answer matters beyond stock prices. It will influence whether hyperscalers double down on 2027 capex commitments or exercise caution. It will shape how enterprise buyers approach AI procurement budgets in H2. And it will signal to the startup ecosystem whether the capital flows that have been funding AI infrastructure companies are likely to continue.
 
 July 29 is, in the most literal sense, a day of reckoning for the AI spending supercycle. The results are due after market close.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

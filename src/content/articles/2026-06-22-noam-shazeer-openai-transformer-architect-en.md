@@ -1,8 +1,9 @@
 ---
 title: "Noam Shazeer, Co-Author of the Transformer Paper, Leaves Google for OpenAI"
-summary: "Noam Shazeer, who co-invented the Transformer architecture in 2017 and led Google's Gemini program, is joining OpenAI as Lead for Architecture Research. Google paid roughly $2.7 billion just 22 months ago to bring him back from Character.AI — and now he's gone again, this time to its primary rival."
+summary: "Noam Shazeer, a vice president of engineering at Google and a co-lead of its Gemini AI models, is joining OpenAI. Google brought him back in August 2024, less than two years ago, and now he is leaving again."
 category: "ai-ml"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -25,13 +26,13 @@ relatedSlugs:
   - "2026-06-21-gemini-35-pro-2m-context-deep-think-en"
 ---
 
-When the history of the modern AI era is eventually written, Noam Shazeer's name will appear on almost every significant chapter. On June 18, 2026, he added another one: Shazeer announced he is leaving Google DeepMind — where he co-led the Gemini program — to join OpenAI as Lead for Architecture Research. Industry observers are calling it the most consequential individual talent move in AI since Andrej Karpathy joined Anthropic.
+When the history of the modern AI era is eventually written, Noam Shazeer's name will appear on almost every significant chapter. Shazeer announced on Wednesday that he is leaving Google, where he was a vice president of engineering and a co-lead of the Gemini AI models, to join OpenAI. Industry observers are calling it the most consequential individual talent move in AI since Andrej Karpathy joined Anthropic.
 
 ## The Man Behind the Transformer
 
 In 2017, Shazeer was one of eight co-authors on "Attention Is All You Need," the paper published by researchers at Google Brain that introduced the Transformer architecture. That architecture is the technical substrate beneath every major language model in existence today: GPT-4, Claude, Gemini, Llama, Mistral, and thousands of others. Describing him as influential understates the case; in a real sense, Shazeer helped invent the paradigm that every AI company is now racing to exploit.
 
-After nearly two decades at Google, he left in 2021 to co-found Character.AI, a consumer chatbot company that attracted a devoted following for its highly customizable, persona-driven AI characters. The startup raised hundreds of millions and demonstrated that there was genuine mass-market appetite for conversational AI — well before ChatGPT made the case globally.
+He left Google in 2021 to found Character.AI. The startup raised hundreds of millions and demonstrated that there was genuine mass-market appetite for conversational AI — well before ChatGPT made the case globally.
 
 ## Google's $2.7 Billion Bet That Didn't Hold
 
@@ -39,13 +40,13 @@ In August 2024, Google executed what many analysts considered a masterstroke: ra
 
 The bet held for less than 22 months.
 
-"I'm incredibly excited to announce that I'm joining OpenAI," Shazeer wrote in his announcement. He cited the scale of OpenAI's deployment and the opportunity to work on fundamental architecture questions at the frontier of what current models can do.
+"I'm excited to share that I'll be joining OpenAI and look forward to working with the exceptional team there," Shazeer said in a post on X. He cited the scale of OpenAI's deployment and the opportunity to work on fundamental architecture questions at the frontier of what current models can do.
 
 ## Sam Altman's Long-Held Ambition
 
 OpenAI's CEO Sam Altman made no effort to conceal his excitement. "Noam is one of the people I have most wanted to work with since the very beginning of OpenAI," Altman wrote on X. "Only took 10 years." The comment hints that Altman had attempted to recruit Shazeer before — a narrative that would make sense given how thoroughly Shazeer's work underpins what OpenAI does.
 
-At OpenAI, Shazeer will take on the title of Lead for Architecture Research, a role that places him at the center of the company's long-term model design decisions. OpenAI has been aggressively recruiting senior researchers as it prepares for a September 2026 IPO that could value the company at over $850 billion. Shazeer is not merely a high-profile hire; his expertise in scaling laws, mixture-of-experts architectures, and efficient attention mechanisms is directly applicable to the next generation of frontier models.
+OpenAI confidentially filed for an initial public offering earlier this month. Shazeer is not merely a high-profile hire; his expertise in scaling laws, mixture-of-experts architectures, and efficient attention mechanisms is directly applicable to the next generation of frontier models.
 
 ## What Google Loses
 
@@ -66,3 +67,5 @@ For OpenAI, the hire sends a clear message ahead of its IPO: the company is not 
 There is an irony embedded in this story. The Transformer architecture that Shazeer helped create at Google in 2017 is precisely what made OpenAI's rise possible. GPT-1, GPT-2, GPT-3, and every subsequent OpenAI model depend on the architectural insights in "Attention Is All You Need." Now, nearly a decade later, Shazeer is joining the company that built its empire on his paper's foundations.
 
 Whether that irony will eventually resolve into something transformative — a post-Transformer architecture, perhaps, or a major efficiency breakthrough — is a question Shazeer's work at OpenAI may eventually answer.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

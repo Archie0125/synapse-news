@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Gives Every Slack Channel a Persistent AI Teammate That Never Forgets"
-summary: "Anthropic launched Claude Tag in public beta on June 23, embedding Claude as a shared, persistent AI teammate inside Slack channels. Teams can @mention Claude, delegate tasks, and watch it execute asynchronously—with an ambient mode that proactively intervenes without being prompted. Anthropic says the tool already generates 65% of its internal product team's code."
+summary: "Anthropic introduced Claude Tag in beta, embedding Claude as a shared, persistent AI teammate inside Slack channels. Teams can @mention Claude, delegate tasks, and watch it work through them, with an ambient mode that proactively jumps in without being prompted. Anthropic says Claude Tag already generates 65% of the code on its internal product team."
 category: "products"
 publishedAt: 2026-06-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 The Slack integration wars of the mid-2020s produced dozens of chatbots, sidebars, and slash commands—each promising productivity gains that mostly amounted to a slightly faster way to write a standup update. Anthropic's approach with **Claude Tag** is categorically different from what came before, and the distinction matters for understanding where enterprise AI is actually heading.
 
-Launched in public beta on June 23, 2026, Claude Tag doesn't add Claude as a per-user assistant living in a DM window. It installs Claude as a **shared team member**—one that every person in a Slack channel can see, steer, and hand work to simultaneously. It accumulates institutional knowledge from channel history. It picks up threads where someone else left off. And in its most ambitious feature, it acts without being explicitly asked.
+It installs Claude as a **shared team member**—one that every person in a Slack channel can see, steer, and hand work to simultaneously. It accumulates institutional knowledge from channel history. It picks up threads where someone else left off. And in its most ambitious feature, it acts without being explicitly asked.
 
 ## How Claude Tag Works
 
@@ -52,7 +53,7 @@ This behavioral model represents a meaningful departure from how most AI tools w
 
 ## The 65% Number
 
-The most striking claim in Claude Tag's launch materials is an internal data point: Anthropic's own product team now generates **65% of its code** via Claude Tag. That figure—if taken at face value—is extraordinary. It implies that nearly two-thirds of the software written by the people who build Claude is itself produced by Claude, a recursive demonstration of the product's core premise.
+One notable claim in Claude Tag's launch coverage is an internal data point: Anthropic says 65% of the code on its product team comes from an internal version of Claude Tag. That figure—if taken at face value—is extraordinary. It implies that nearly two-thirds of the software written by the people who build Claude is itself produced by Claude, a recursive demonstration of the product's core premise.
 
 The number carries caveats Anthropic hasn't fully disclosed. It's unclear whether the 65% captures only novel feature logic or includes boilerplate, test scaffolding, and documentation generation—all of which would inflate the percentage relative to substantive new code. It's also worth noting that the Anthropic product team is among the most sophisticated AI-native engineering teams in the world, likely far more effective at AI-assisted coding than a median enterprise software team would be.
 
@@ -60,15 +61,15 @@ Even with those qualifications, 65% is a signal worth taking seriously. It sugge
 
 ## Claude Opus 4.8 Under the Hood
 
-Claude Tag runs on **Claude Opus 4.8**, Anthropic's current production model, and is available in public beta for Claude Enterprise and Claude Team subscribers. Pricing details for the feature haven't been separately disclosed—it's bundled with enterprise tier access rather than priced per-feature.
+Claude Tag runs on Opus 4.8 and is available in beta for Claude Enterprise and Claude Team customers.
 
-The model choice is notable: Anthropic is deploying its highest-capability production model (not a smaller, cheaper variant) for an ambient, always-on enterprise product. That signals the company's belief that the use case demands frontier-level capability—organizational context synthesis, multi-step task decomposition, and proactive surfacing of relevant information require more than what a lower-cost model can reliably deliver.
+That signals the company's belief that the use case demands frontier-level capability—organizational context synthesis, multi-step task decomposition, and proactive surfacing of relevant information require more than what a lower-cost model can reliably deliver.
 
 ## The Enterprise Strategy
 
-Claude Tag fits precisely into a pattern visible across Anthropic's 2026 product strategy. With a widely expected IPO later this year and a stated revenue run rate that investors are scrutinizing closely, Anthropic is building enterprise moat through products that embed deeply into organizational workflows rather than sitting at the API layer.
+Claude Tag fits precisely into a pattern visible across Anthropic's 2026 product strategy. With Anthropic heading toward a likely IPO this year, the company has been keen to court enterprise customers, and Claude Tag embeds Claude in the Slack channels where teams already work.
 
-The competitive field is well-defined. Microsoft Copilot integrates AI across Microsoft 365—Teams, Word, Outlook, Excel—as a system-level capability with privileged access to organizational data through Microsoft Graph. Google Duet AI (now Gemini for Workspace) takes a similar approach through Google's productivity suite. Glean takes a retrieval-first approach, building organizational knowledge graphs that AI can query and search.
+The competitive field is well-defined. Microsoft has Graph, which it expresses through Copilot and Work IQ. Google Duet AI (now Gemini for Workspace) takes a similar approach through Google's productivity suite. Glean is building an intelligence layer that understands company context and sits between the model and the enterprise data.
 
 Claude Tag represents a distinct bet: that the communication layer—where decisions get made, context gets shared, and work gets coordinated—is the highest-value location for an ambient AI presence, and that Claude's conversational and reasoning capabilities are best expressed in the messy, contextual, asynchronous environment of a real team's Slack workspace rather than a document editor or a dedicated AI chat interface.
 
@@ -79,3 +80,5 @@ Claude Tag represents a specific thesis about AI's trajectory in the workplace: 
 If ambient AI teammates become standard features in enterprise communication platforms at scale, the organizational implications run deep. Fewer meeting interruptions to circulate status. Fewer things falling through the cracks as context gets lost between contributors. Better institutional memory as decisions and their rationale are captured continuously rather than reconstructed from memory or scattered in documents.
 
 The 65% code generation figure—whatever its exact composition—isn't primarily a marketing statistic. It's a preview of what happens when AI moves from being a productivity multiplier that motivated individuals adopt to an organizational-level infrastructure that teams operate by default. For Anthropic, the thesis is clear: the company that wins enterprise will be the one that makes Claude indispensable at the team level, not just useful at the individual one. Claude Tag is the first major product designed explicitly to test whether that thesis can hold.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

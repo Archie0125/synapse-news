@@ -1,8 +1,9 @@
 ---
 title: "EU Targets Meta's WhatsApp and Mandates AI Content Labels in Twin Regulatory Blitz"
-summary: "European regulators issued two significant AI-related decisions on June 10: ordering Meta to restore WhatsApp API access for competing AI chatbot developers under an antitrust investigation, and publishing the operational Code of Practice for labeling AI-generated content under the EU AI Act. Together the decisions redefine how messaging platforms and synthetic media are governed across the bloc."
+summary: "The EU ordered Meta to restore WhatsApp access for rival AI chatbot developers while an antitrust investigation continues, and the European Commission published a Code of Practice on the marking and labeling of AI-generated content under the AI Act."
 category: "policy"
 publishedAt: 2026-06-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,13 +30,13 @@ The European Union served notice on June 10 that its regulatory approach to AI e
 
 ## The WhatsApp Order: AI Distribution as Monopoly Infrastructure
 
-The more immediately confrontational of the two decisions is an order requiring Meta to restore API access to WhatsApp for third-party AI chatbot developers. The order was issued by the European Commission under its ongoing investigation into whether Meta has used WhatsApp as exclusive distribution infrastructure for its own AI assistant — a potential violation of the Digital Markets Act's interoperability requirements.
+The more immediately confrontational of the two decisions is an order requiring Meta to restore WhatsApp access for rival AI chatbot developers. The order was issued while an antitrust investigation continues. Regulators argue that Meta's restrictions could harm competition in the emerging AI assistant market.
 
 The facts underlying the investigation are not complicated. WhatsApp has 2.1 billion active users globally, with particularly high penetration in Europe, Latin America, and South Asia. Since late 2024, Meta has integrated its own AI assistant directly into WhatsApp conversations, accessible via a dedicated button in the chat interface. At the same time, Meta has restricted API access that would allow competing AI services — from Anthropic, Google, or third-party chatbot developers — to be delivered within WhatsApp conversations in a comparable way.
 
 The Commission's position is that WhatsApp's messaging infrastructure constitutes a "core platform service" under the DMA, and that Meta's differential treatment of its own AI versus competitors' AI on that infrastructure is precisely the kind of self-preferencing the legislation was designed to prohibit. The interim order — which takes effect immediately pending the full investigation — requires Meta to restore the API access conditions that prevailed before the integration of Meta AI into WhatsApp.
 
-Meta has 60 days to comply or face daily fines of up to 5 percent of daily global revenue, a figure that would translate to approximately $1.7 billion per day based on the company's 2025 financials. Meta has not yet issued a formal response, but the company is widely expected to challenge the order in court while initiating technical compliance measures.
+Meta has 60 days to comply or face daily fines of up to 5 percent of daily global revenue, a figure that would translate to approximately $1.7 billion per day based on the company's 2025 financials. Meta says the decision goes too far.
 
 ## Why This Sets a Precedent
 
@@ -74,3 +75,5 @@ The visible labeling requirement also raises user experience questions that the 
 Taken together, the two decisions mark a significant maturation of the EU's AI regulatory posture. The AI Act, passed with considerable fanfare in 2024, has sometimes been criticized as more aspirational than operational — a framework with ambitious goals but vague implementation details. The WhatsApp antitrust order and the content labeling Code represent the first moment at which both competition law and sector regulation are being applied to AI with the specificity and urgency that enforcement requires.
 
 For companies operating globally, June 10 is the date on which EU AI compliance ceased to be primarily a legal project and became an engineering one.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

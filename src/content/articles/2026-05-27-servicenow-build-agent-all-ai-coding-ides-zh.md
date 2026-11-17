@@ -1,8 +1,9 @@
 ---
-title: "ServiceNow Build Agent 進駐 Cursor、Windsurf、Claude Code 與 GitHub Copilot"
-summary: "ServiceNow 宣布 Build Agent 正式進入所有主流 AI 編程環境——Cursor、Windsurf、Claude Code 與 GitHub Copilot——將企業平台智慧與內建治理帶到開發者慣用的任何工具中。整合後，ServiceNow 應用程式可在 Studio 之外建構，同時保留完整的部署審批、生命週期管控與組織政策執行。"
+title: "ServiceNow Build Agent 將核心技能延伸至 Cursor、Windsurf、Claude Code 與 GitHub Copilot"
+summary: "ServiceNow 宣布 Build Agent 已在 ServiceNow Studio 正式推出，並將其核心技能延伸至 Cursor、Windsurf、Claude Code 與 GitHub Copilot，讓開發者能在其他環境中，憑藉 ServiceNow AI Platform 的上下文與治理進行建構。部署到平台上的應用程式會承襲稽核軌跡、安全檢查與合規機制，且所有客戶皆可免額外費用使用 AEMC。"
 category: "developer-tools"
 publishedAt: 2026-05-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -29,15 +30,15 @@ relatedSlugs:
 
 企業軟體在 AI 編程革命中處境尷尬。推動這場革命的工具——Cursor、Windsurf、Claude Code、GitHub Copilot——是為使用通用程式碼庫的軟體工程師而生。ServiceNow 則是一個驅動全球多數財富 500 強公司 IT 服務管理、人力資源工作流程與業務流程自動化的專有平台，有自己的資料模型、部署機制與治理要求。在此之前，用 AI 編程助手開發 ServiceNow 應用程式，意味著要嘛在 ServiceNow 自有的 Studio 裡工作——與開發者慣用的工具完全隔離——要嘛用通用 AI 工具，但它對組織的 ServiceNow 實際執行環境一無所知。
 
-ServiceNow 的 Build Agent 正式推出公告填補了這道缺口。Build Agent 現在在 Cursor、Windsurf、Claude Code 與 GitHub Copilot 中均以一等公民擴充元件的形式上線，與原生家園 ServiceNow Studio 並列。對全球估計約 150 萬名 ServiceNow 開發者而言，這是每日工作流程的實質改變。
+ServiceNow 的 Build Agent 正式推出公告填補了這道缺口。Build Agent 現已在 ServiceNow Studio 正式推出，其核心技能也已延伸至 Cursor、Windsurf、Claude Code 與 GitHub Copilot。對全球估計約 150 萬名 ServiceNow 開發者而言，這是每日工作流程的實質改變。
 
 ## Build Agent 為外部 IDE 帶來什麼
 
 Build Agent 提供的核心能力是平台上下文。通用 AI 編程助手面對 ServiceNow 任務時，憑藉訓練資料了解 API 介面——但它不知道你的組織實例究竟包含什麼：多年積累的客製化資料模型、特定配置、決定哪些使用者能存取哪些記錄的政策，或飛行中應用程式的發布管理狀態。
 
-Build Agent 連接到即時運行的 ServiceNow 實例。開發者在 Cursor 或 Claude Code 中下達提示時，它會先讀取平台的實際狀態——現有的工作流程、目錄項目、UI 配置、整合端點——再生成程式碼。最終產出的是能融入現有環境的應用程式，而非假設從零開始部署的程式碼。
+Build Agent 連接到即時運行的 ServiceNow 實例。由於 Build Agent 理解即時執行環境，它在生成應用程式時，會依據平台的實際狀態，包括現有的資料模型、配置與政策。最終產出的是能融入現有環境的應用程式，而非假設從零開始部署的程式碼。
 
-ServiceNow 將此能力描述為：Build Agent 理解「即時執行環境，包括現有資料模型、配置與政策，讓它能在單一工作階段內生成包含工作流程、目錄項目、UI 元件與配置的完整應用程式。」對需要與多年積累的客製化內容共存的複雜企業應用程式，這種上下文感知能力是「有用的輸出」與「需要大量人工修復的輸出」之間的分野。
+ServiceNow 表示，由於 Build Agent 理解即時執行環境，「包括現有資料模型、配置與政策，它能在單一工作階段內生成包含工作流程、目錄項目、UI 元件與配置的完整應用程式。」對需要與多年積累的客製化內容共存的複雜企業應用程式，這種上下文感知能力是「有用的輸出」與「需要大量人工修復的輸出」之間的分野。
 
 ## 治理作為預設，而非附加項
 
@@ -64,3 +65,5 @@ Build Agent 的公告是企業軟體中一個更廣泛模式的縮影：平台�
 這隱含著對通用 AI 編程工具對企業軟體護城河構成威脅的回應。如果 AI 助手能從訓練資料中讀取 ServiceNow 文件並生成合理的 ServiceNow 程式碼，平台的可防禦性便取決於其獨特的運行時價值——實際的執行環境資料、治理基礎設施、整合生態系統——而非 API 學習曲線的陡峭程度。
 
 Build Agent 向外部 IDE 的擴展，是 ServiceNow 對這一挑戰的回應：護城河在於運行中的執行環境與其所編碼的組織知識，而非開發環境本身。透過讓開發者從任何偏好的工具存取這道護城河，ServiceNow 押注的是：對企業買家而言，治理與上下文的重要性將超過 IDE 的選擇。考慮到這些買家面臨的監管與合規壓力，這是一個合理的賭注。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 5 處。*

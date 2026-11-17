@@ -1,8 +1,9 @@
 ---
-title: "Cloudflare Launches Pay Per Crawl: A New Economic Layer Between AI and the Open Web"
-summary: "Cloudflare launched AI Crawl Control and Pay Per Crawl in early July, giving website owners a third option beyond blocking or allowing AI bots: charging them. The move redefines the relationship between content publishers and AI training pipelines, potentially creating a new micropayment layer for the agentic internet."
+title: "Cloudflare Expands AI Bot Controls as Pay Per Crawl Evolves Into Pay Per Use"
+summary: "Cloudflare introduced new AI traffic options in early July 2026, building on Pay Per Crawl, which gave website owners a third option beyond blocking or allowing AI bots: charging them. Pay Per Crawl is now evolving into Pay Per Use."
 category: "developer-tools"
 publishedAt: 2026-07-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,11 +32,11 @@ relatedSlugs:
 
 The open web was not designed with artificial intelligence in mind. When Tim Berners-Lee invented hyperlinks, when Google built its crawl-and-index empire, when publishers began monetizing audiences through advertising and subscriptions, none of those economic models anticipated a future in which automated agents would consume content billions of times a day without ever becoming a reader, a subscriber, or an ad impression.
 
-That future arrived anyway — and in early July, Cloudflare moved to price it.
+That future arrived anyway — and Cloudflare moved to price it.
 
 ## A Third Option
 
-Cloudflare, which handles traffic management and security for roughly 20% of all websites on the internet, announced two interrelated features: AI Crawl Control and Pay Per Crawl. Both are now available across all tiers, including the free plan, to every Cloudflare customer.
+Cloudflare, which sits in front of more than 20% of web domains, has built on its Pay Per Crawl marketplace, introduced in private beta in July 2025, with new options for managing AI traffic. The new Search, Agent and Training options are available to all customers, including those on the Free tier, while Pay Per Crawl itself has been in private beta.
 
 Before this launch, site owners facing AI crawlers had two choices: allow or block. Blocking became increasingly popular as publishers grew frustrated watching AI companies harvest their work to train commercial models. Allow came with no compensation and no clarity about how content would be used.
 
@@ -59,7 +60,7 @@ The initial launch is framed explicitly as a first step. Cloudflare has already 
 
 The distinction matters enormously for publishers. Under Pay Per Crawl, a site earns revenue each time an AI crawls a page — but the page might be cached, merged with thousands of other sources, or used in a way where its contribution is invisible. Under Pay Per Use, publishers could theoretically earn revenue when their article appears in an AI-generated answer, when an agent purchases information for a specific task, or when a recommendation system surfaces their content to an end user.
 
-Cloudflare has described three content use levels that Enterprise customers can configure: Immediate (no storage, no reuse — the AI sees it once and that's it), Reference (indexing, excerpts, and backlinks allowed), and Full (summaries and reproduction permitted). This creates the foundation for content licensing at web scale.
+Cloudflare has described three content use levels that Bot Management customers will be able to select and block on, which it is still building: Immediate (interact, but store and reuse nothing), Reference (index, excerpt, and link back), and Full (summarize and reproduce). This creates the foundation for content licensing at web scale.
 
 ## The Structural Problem It Addresses
 
@@ -83,8 +84,10 @@ What Cloudflare has built is not just a product feature — it is a proposed new
 
 Whether this becomes a genuine internet norm depends on how many publishers configure pricing, how AI companies respond, and whether competing infrastructure providers build compatible systems. Cloudflare controls the infrastructure for a large portion of the web, but not all of it.
 
-What is certain is that the economic relationship between AI and publishers can no longer be assumed to be free. Cloudflare just made it possible — for the first time, at internet scale — to charge for it.
+What is certain is that the economic relationship between AI and publishers can no longer be assumed to be free. Cloudflare has made it possible to charge for it.
 
 ---
 
 *Cloudflare's Pay Per Crawl is currently in private beta, with general availability anticipated as the system matures.*
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

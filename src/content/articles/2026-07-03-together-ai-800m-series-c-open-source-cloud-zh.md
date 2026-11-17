@@ -1,8 +1,9 @@
 ---
 title: "Together AI 完成 8 億美元 C 輪融資，開源 AI 雲端需求三倍成長"
-summary: "Together AI 以 83 億美元估值完成 8 億美元 C 輪融資，由 Aramco Ventures 領投。這家舊金山新雲端業者的年度預訂金額已突破 11.5 億美元，在企業紛紛從高成本專有 AI 轉向開源替代方案之際，Together AI 的崛起正好印證了這場產業結構性轉變。"
+summary: "Together AI 以 83 億美元估值完成 8 億美元 C 輪融資，由 Aramco Ventures 領投。這家新雲端業者表示，其年度預訂金額已超過 11.5 億美元，因為企業紛紛轉向開源模型，而非價格較高的封閉式前沿模型。"
 category: "startups"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: false
@@ -59,3 +60,5 @@ Nvidia 入股本輪融資具有特殊的戰略分量。對黃仁勳的公司而�
 對執行長 Vipul Ved Prakash 及共同創辦人 Percy Liang、Ce Zhang 而言——三人均曾任職史丹佛大學基礎模型研究中心（CRFM），並於 2022 年創立 Together——這輪融資印證了他們最初的創業信念：開放取用前沿 AI 能力、而非鎖定任何單一供應商，才是決定誰能長期掌控 AI 技術棧的架構邏輯。
 
 手握 8 億美元新資金、500 MW 運算容量即將到位，加上超過 10 億美元的年度預訂金額，Together 不再只是在倡議開源 AI 的必要性，而是在為它建造實現的金融與物理基礎設施。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

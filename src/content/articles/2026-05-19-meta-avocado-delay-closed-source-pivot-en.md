@@ -3,6 +3,7 @@ title: "Meta's 'Avocado' Keeps Slipping: Closed-Source Gamble Stumbles as Compan
 summary: "Meta's flagship closed-source frontier model, codenamed Avocado, has missed its May window and is now expected no earlier than June 2026. Internal benchmarks show it trailing Google's Gemini 3 and Anthropic's Claude Mythos, and Meta's leadership is reportedly discussing the extraordinary option of licensing Gemini from a direct rival to paper over the performance gap."
 category: "ai-ml"
 publishedAt: 2026-05-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -35,15 +36,15 @@ With Google I/O 2026 dominating the AI news cycle on Tuesday, Meta finds itself 
 
 ## A Year of Delays
 
-Meta's frontier model project, internally codenamed Avocado, has become one of the more awkward stories in the AI industry. Originally targeted for a Q4 2025 internal milestone, the model slipped to Q1 2026, then to March, then to May. May is now more than two-thirds gone with no announcement, and people familiar with the project say the most likely public release window is June — assuming the engineering team can close the performance gaps that have repeatedly pushed the timeline.
+Meta's frontier model project, internally codenamed Avocado, has become one of the more awkward stories in the AI industry. Avocado was originally planned for March 2026, but the launch has since been postponed, with sources pointing to May or June at the earliest. May is now more than two-thirds gone with no announcement, and people familiar with the project say the most likely public release window is June — assuming the engineering team can close the performance gaps that have repeatedly pushed the timeline.
 
-The delays are significant beyond mere scheduling. Meta set an ambitious internal goal: Avocado would be its first proprietary, closed-source frontier model, a direct successor to the Llama family but sold as a commercial product rather than released under an open license. It was supposed to demonstrate that Meta's AI investment — the company has committed between $115 billion and $135 billion in capital expenditure for 2026 alone, with superintelligence listed as a stated goal — could produce a model competitive with OpenAI and Anthropic at the frontier.
+The delays are significant beyond mere scheduling. Meta set an ambitious internal goal: Avocado would be its first proprietary, closed-source frontier model, a direct successor to the Llama family but sold as a commercial product rather than released under an open license. It was supposed to show that Meta's heavy AI spending, which Trending Topics reports at between 115 and 135 billion US dollars this year and which includes the development of its own chips, can produce a competitive frontier model.
 
 ## The Performance Problem
 
-Internal evaluations tell a complicated story. Avocado reliably beats Google's Gemini 2.5 Pro, the model that preceded the I/O 2026 generation, on reasoning, coding, and writing benchmarks. That sounds promising until you account for the competitive landscape that has moved while Avocado was in development: Gemini 3.0 and 3.5, Claude Mythos, and GPT-5.5 have all shipped since Avocado's original target date, raising the bar the model needs to clear to be commercially relevant.
+Internal evaluations tell a complicated story. Internal tests reportedly show Avocado outperforming Meta's earlier AI models and Google's Gemini 2.5, though it reportedly cannot match Gemini 3.0. That sounds promising until you account for the competitive landscape that has moved while Avocado was in development: Gemini 3.0 and 3.5, Claude Mythos, and GPT-5.5 have all shipped since Avocado's original target date, raising the bar the model needs to clear to be commercially relevant.
 
-According to people familiar with the internal evaluations, Avocado struggles most on complex reasoning chains — the kind of multi-step logical inference required for advanced coding assistance and scientific analysis. Long-horizon planning tasks, where the model needs to maintain coherent intent across dozens of reasoning steps, are reportedly the weakest area. These happen to be precisely the dimensions where Anthropic's Mythos has established the widest lead over the rest of the field.
+According to reports of internal tests, Avocado lags behind the latest models from Google, OpenAI and Anthropic in logical reasoning, software development and agentic behavior, meaning the ability to autonomously plan and execute complex tasks. Long-horizon planning tasks, where the model needs to maintain coherent intent across dozens of reasoning steps, are reportedly the weakest area. These happen to be precisely the dimensions where Anthropic's Mythos has established the widest lead over the rest of the field.
 
 The irony runs deep: Meta's strategy of building a proprietary model to compete with OpenAI and Anthropic appears to have underestimated how quickly those companies would themselves advance during the development window.
 
@@ -51,7 +52,7 @@ The irony runs deep: Meta's strategy of building a proprietary model to compete 
 
 The detail that has attracted the most attention — and generated the most internal friction at Meta — is a reported discussion about licensing Google's Gemini technology. According to people briefed on the talks, Meta AI leadership raised the idea of temporarily incorporating Gemini capabilities into Avocado or other Meta AI products to close the competitive gap while the company's own model catches up.
 
-No agreement has been reached, and it is unclear whether the talks progressed beyond preliminary exploration. But the very fact that the conversation happened illustrates the bind Meta is in. The company that built its AI credibility on democratizing access to powerful open weights models — Llama 2, Llama 3, and their derivatives have been downloaded hundreds of millions of times and power thousands of third-party applications — is now contemplating whether to depend on a rival's proprietary infrastructure to remain competitive in the consumer AI market.
+No decision has been made, and a final decision is still pending. But the very fact that the conversation happened illustrates the bind Meta is in. The company that built its AI credibility on democratizing access to powerful open weights models — Llama 2, Llama 3, and their derivatives have been downloaded hundreds of millions of times and power thousands of third-party applications — is now contemplating whether to depend on a rival's proprietary infrastructure to remain competitive in the consumer AI market.
 
 There is a practical logic to the idea: Google DeepMind has licensing arrangements with other companies, and a Gemini-powered Meta AI assistant would be meaningfully better than what Meta can ship today. But the reputational cost, combined with the strategic dependency it would create, has made the internal debate contentious.
 
@@ -72,3 +73,5 @@ The company still has significant assets: more than 3 billion daily active users
 A June launch, if it happens, would give Meta a product to show at its own potential developer events this summer. A further delay into Q3 would start to look less like an engineering decision and more like a strategic crisis.
 
 For the broader AI industry, Meta's difficulties are a data point in the ongoing debate about whether open-source development and frontier-model competition are compatible at this stage of the technology cycle. Right now, the evidence suggests that closing the gap with the best proprietary models requires concentrated engineering resources, focused research agendas, and training runs that dwarf what any open collaborative process has managed. Meta is learning that lesson at the scale of tens of billions of dollars.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

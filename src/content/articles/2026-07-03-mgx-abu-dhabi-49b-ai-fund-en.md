@@ -1,8 +1,9 @@
 ---
 title: "Abu Dhabi's MGX Closes $49 Billion AI Fund — Among the Largest Ever"
-summary: "Abu Dhabi's MGX has closed its debut AI-focused fund at $49 billion, surpassing its $45 billion target and cementing the Gulf state's position as a dominant force in global AI finance. The two-year-old firm has already backed OpenAI, Anthropic, and xAI, and plans to deploy capital across the full AI technology stack from semiconductors to application platforms."
+summary: "Abu Dhabi's MGX has closed its debut AI-focused fund at $49 billion, surpassing its $45 billion target. The two-year-old firm has already backed OpenAI, Anthropic, and xAI, and is looking to invest across the AI technology stack, including semiconductors, AI infrastructure and AI-enabling technologies and platforms."
 category: "startups"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,11 +32,11 @@ relatedSlugs:
 
 In a deal that underscores the extraordinary scale of capital now flowing into artificial intelligence, Abu Dhabi's MGX has closed its inaugural AI-focused fund at $49 billion—beating its original $45 billion target and positioning itself as one of the largest dedicated AI investment vehicles ever assembled.
 
-The close, announced on July 1 and confirmed with additional detail through July 3, marks a coming-of-age moment for MGX, a firm that was founded just two years ago as a joint venture between Abu Dhabi's sovereign wealth giant Mubadala Investment Company and AI and cloud computing firm G42. In that brief span, MGX has emerged as one of the most consequential checkbook operators in global AI—co-leading Anthropic's $30 billion raise in February, participating in the company's $65 billion Series H in May, and co-leading OpenAI's $122 billion fundraise in March.
+The close, announced on Wednesday, marks a coming-of-age moment for MGX, a firm established in 2024 with Abu Dhabi's sovereign wealth giant Mubadala Investment Company and AI and cloud computing firm G42 as partners. In that brief span, MGX has emerged as one of the most consequential checkbook operators in global AI—co-leading Anthropic's $30 billion raise in February, participating in the company's $65 billion Series H in May, and co-leading OpenAI's $122 billion fundraise in March.
 
 ## The Architecture of the Fund
 
-Fund I was designed from the outset to cover the entire AI technology stack rather than bet on a single layer of the ecosystem. MGX's investment mandate spans semiconductors, AI infrastructure (data centers, power, networking), AI-enabling platforms, and the application layer where AI models get deployed in products and services. The geographic footprint of its investments is global, drawing from limited partners across the Middle East, North America, Asia, and Europe.
+Fund I was launched to provide AI exposure through investments across the AI technology stack. MGX's investments span semiconductors, AI infrastructure, and AI-enabling technologies and platforms. The fund was raised from institutional and private investors across the Gulf, North America, Asia, and Europe.
 
 The fund has invested in 14 companies since its inception. Beyond OpenAI and Anthropic, MGX's portfolio includes Elon Musk's xAI, which received participation from MGX in its $20 billion January fundraise. The firm has thus positioned itself as an investor across the three dominant poles of frontier AI development: the incumbent giant (OpenAI), the safety-focused challenger (Anthropic), and the wildcard disruptor (xAI).
 
@@ -68,3 +69,5 @@ MGX has not disclosed how much of Fund I's $49 billion remains undeployed, but g
 The AI investment cycle shows no signs of slowing. If anything, the next wave of capital deployment will be even larger, as sovereign wealth funds, pension funds, and new entrants from outside traditional financial centers compete for positions in the companies most likely to capture the value created by artificial general intelligence. MGX has positioned itself, in a remarkably short time, to be one of those vehicles.
 
 For Abu Dhabi, the $49 billion fund is more than an investment story. It is a statement of strategic intent: that a small city-state in the Gulf, with few natural advantages in the development of software or semiconductors, intends to shape the future of AI by controlling a piece of every company that matters.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

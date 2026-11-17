@@ -1,8 +1,9 @@
 ---
-title: "Trump Invites Jensen Huang, Tim Cook, and Cristiano Amon to Join China Summit — Chips Are the Agenda"
-summary: "The Trump administration has invited approximately a dozen corporate CEOs — including Nvidia's Jensen Huang, Apple's Tim Cook, and Qualcomm's Cristiano Amon — to accompany President Trump on his May 14-15 Beijing visit. The invitation signals a push to reopen China's AI chip market, where Nvidia's share has collapsed to near zero following U.S. export controls and Beijing's pivot to domestic alternatives."
+title: "Trump Administration Plans to Invite Nvidia, Apple, Qualcomm CEOs on China Trip"
+summary: "The Trump administration plans to invite CEOs from companies including Nvidia, Apple, Qualcomm, Exxon and Boeing to accompany President Trump on his Beijing visit next week, according to Semafor."
 category: "policy"
 publishedAt: 2026-05-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-04-13-us-match-act-duv-chip-export-ban-en"
 ---
 
-The Trump administration has invited a delegation of approximately a dozen senior corporate executives to accompany President Donald Trump on his May 14-15 state visit to Beijing — a roster that reads like a who's who of America's AI and semiconductor industry. Leading the list: Nvidia CEO Jensen Huang, Apple CEO Tim Cook, and Qualcomm CEO Cristiano Amon. Also reportedly invited: Boeing CEO Kelly Ortberg, and executives from Blackstone, Citigroup, Visa, and Exxon Mobil.
+The Trump administration plans to invite CEOs from Nvidia, Apple, Qualcomm, Exxon, Boeing and other big companies to accompany President Donald Trump on his visit to Beijing, according to Semafor. Leading the list: Nvidia CEO Jensen Huang, Apple CEO Tim Cook, and Qualcomm CEO Cristiano Amon. Also reportedly invited: Boeing CEO Kelly Ortberg, and executives from Blackstone, Citigroup, Visa, and Exxon Mobil.
 
-The invitations, which emerged through reporting by Semafor and several other outlets during the week of May 5, make explicit what U.S.-China watchers have long suspected: the commercial technology agenda — specifically, the question of whether American chipmakers can regain access to China's AI market — is now as central to the Beijing summit as the AI governance dialogue previously reported. This is not a diplomatic trip; it is a deal-making mission.
+The plans, reported by Semafor, come as the main goal of the summit is reportedly to extend a trade truce, though there is talk of a Chinese order for Boeing planes and American soybean sales. Semafor reports, however, that there is likely to be less commercial fanfare than on Trump's previous foreign trips.
 
 ## How Nvidia Lost China
 
@@ -62,13 +63,13 @@ The commercial technology agenda for the Beijing summit is expected to center on
 
 **Critical mineral exports**: China dominates global supply chains for rare earth elements and critical minerals including gallium, germanium, and antimony — all essential for semiconductor manufacturing. Beijing has been progressively restricting these exports in response to U.S. chip controls. An exchange of American chip access for Chinese mineral export normalisation is the most plausible win-win structure for a deal.
 
-**Manufacturing investment**: The Trump administration has consistently linked market access to domestic manufacturing investment. Apple's $500 billion U.S. investment pledge, made in February 2026, is the most visible example. It's plausible that summit discussions will include commitments from other tech companies to invest in U.S. manufacturing in exchange for improved market access in China.
+**Manufacturing investment**: The Trump administration has consistently linked market access to domestic manufacturing investment. It's plausible that summit discussions will include commitments from other tech companies to invest in U.S. manufacturing in exchange for improved market access in China.
 
-**Tariff relief**: The broader tariff truce between the U.S. and China, which has been extended several times since its initial signing in October 2025, is up for renegotiation in June 2026. The summit provides an opportunity to either formalize an extension or negotiate a more permanent arrangement.
+**Trade truce**: The main goal of the summit is to extend the trade truce that Xi Jinping and Trump agreed at their October meeting in South Korea. The summit provides an opportunity to either formalize an extension or negotiate a more permanent arrangement.
 
 ## The Limits of Optimism
 
-Analysts who track U.S.-China trade relations are broadly skeptical that the Beijing summit will produce transformative outcomes on chip policy. Several structural constraints are limiting.
+Expectations for the summit are modest: Milken Institute chairman Curtis Chin said he does not "expect a whole lot of dynamic big results." Several structural constraints are limiting.
 
 First, the U.S. national security establishment — the Defense Department, the intelligence agencies, the Commerce Department's Bureau of Industry and Security — has consistently opposed broad relaxation of AI chip export controls to China. The concern is not merely economic competition; it is that advanced AI training chips contribute directly to Chinese military AI development, hypersonic weapons guidance systems, and surveillance infrastructure. A deal that gives Jensen Huang's company access to China's market while providing the People's Liberation Army with a significant capability upgrade will face fierce pushback from the Pentagon and congressional hawks, regardless of who is president.
 
@@ -84,8 +85,10 @@ Taiwan's position in the global AI chip supply chain — as the irreplaceable ma
 
 ## What Comes Next
 
-The summit is scheduled for May 14-15. Actual outcomes — whether any of the commercial technology agenda items translate into formal agreements — will depend on negotiations that are ongoing as of this writing. The CEO delegation is expected to participate in formal working sessions alongside Trump administration officials, not simply to observe the diplomatic proceedings.
+The summit is scheduled for next week, with meetings reported for May 14 and May 15. Actual outcomes — whether any of the commercial technology agenda items translate into formal agreements — will depend on negotiations that are ongoing as of this writing. The CEO delegation is expected to participate in formal working sessions alongside Trump administration officials, not simply to observe the diplomatic proceedings.
 
 For the semiconductor and AI industry, the most important near-term signal will come in how the summit's joint communiqué frames the chip policy question. A vague statement of continued dialogue means little has changed; a specific framework for resumed chip sales would be a seismic shift. The market will be watching closely.
 
 What the CEO delegation makes clear, regardless of outcomes, is that the Trump administration views commercial tech interests as central to the U.S.-China relationship — not a secondary consideration to be managed by diplomats after the strategic agenda is set. For better or worse, Jensen Huang and Tim Cook are now part of American foreign policy.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

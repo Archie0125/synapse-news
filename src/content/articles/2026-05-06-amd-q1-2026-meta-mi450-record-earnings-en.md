@@ -1,8 +1,9 @@
 ---
-title: "AMD Smashes Q1 Targets With 38% Revenue Growth as Meta Commits $60 Billion to MI450 AI Chips"
-summary: "Advanced Micro Devices reported blowout first-quarter 2026 results on May 5, posting $10.3 billion in revenue—a 38% year-over-year gain—while confirming a landmark $60 billion, multi-year agreement to supply Meta Platforms with custom MI450 GPUs and Helios rack-scale infrastructure. The results signal a structural shift in AI chip competition, as AMD mounts a credible challenge to Nvidia's long-standing dominance in hyperscaler data centers."
+title: "AMD Posts 38% Q1 Revenue Growth as Meta Deal for MI450 AI Chips Drives Optimism"
+summary: "Advanced Micro Devices reported first-quarter 2026 revenue of $10.25 billion, a 38% year-over-year gain, and highlighted a multiyear agreement to supply Meta Platforms with up to 6 gigawatts of Instinct GPUs, starting with a custom MI450. Data center revenue rose 57% on strong AI infrastructure demand."
 category: "hardware"
 publishedAt: 2026-05-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-05-05-cerebras-ipo-40b-nasdaq-en"
 ---
 
-For years, the AI chip market has been a story about Nvidia. On May 5, 2026, Advanced Micro Devices wrote a new chapter. The chipmaker reported a record-breaking quarter, confirmed a $60 billion deal with Meta Platforms that is the largest AI chip contract in history, and sent its stock surging 8% in after-hours trading — all in a single evening.
+For years, the AI chip market has been a story about Nvidia. On May 5, 2026, Advanced Micro Devices wrote a new chapter. The chipmaker reported a quarter of 38% revenue growth, highlighted its multiyear agreement with Meta Platforms, and saw its stock surge about 16% before the opening bell on the day of the report.
 
 ## Record Quarter: $10.3 Billion and 38% Growth
 
@@ -36,15 +37,15 @@ AMD's first-quarter 2026 results beat Wall Street expectations across every key 
 
 The standout segment was Data Center, which posted $5.8 billion in revenue — up 57% year-over-year and a new quarterly record. That figure accounts for more than half of AMD's total revenue for the first time in the company's history, a milestone that reflects how thoroughly the AI buildout has reshaped the semiconductor industry's value chain.
 
-Looking ahead, AMD guided for second-quarter revenue of approximately $11.2 billion, plus or minus $300 million — well above the $10.5 billion Wall Street was expecting and implying continued sequential acceleration.
+Looking ahead, AMD guided for second-quarter revenue of approximately $11.2 billion, plus or minus $300 million, well above the $10.52 billion analysts had forecast.
 
-## The Meta Deal: 6 Gigawatts and $60 Billion
+## The Meta Deal: Up to 6 Gigawatts
 
-Buried inside the earnings call was the announcement that has already upended AI chip market dynamics: AMD has secured a multi-year agreement with Meta Platforms to supply custom Instinct MI450 GPUs and sixth-generation EPYC "Venice" CPUs, deployed on AMD's Helios rack-scale architecture. The deal is valued at approximately $60 billion over five years.
+AMD highlighted a multiyear agreement with Meta Platforms under which Meta will install up to 6 gigawatts of AMD Instinct GPUs, starting with a custom version of the MI450, and will be a lead customer for sixth-generation EPYC CPUs. Independent analysts estimate the deal's value at approximately $60 billion over five years.
 
 The scale is almost unprecedented. The agreement covers up to 6 gigawatts of compute capacity — a number that illustrates how AI infrastructure has become a power engineering challenge as much as a semiconductor one. The first deployment tranche of 1 gigawatt is scheduled to begin in the second half of 2026, with subsequent waves following as Meta's AI compute requirements grow.
 
-For context, Meta has been spending at the rate of $60 billion or more annually on capital expenditure across its operations, with AI infrastructure now the dominant driver. Selecting AMD's MI450 for the next wave of that buildout — rather than defaulting to Nvidia's Grace Blackwell architecture — is a decision that will be studied in semiconductor boardrooms for years.
+For context, Meta has been guiding for $115 to $135 billion in capital expenditures in 2026, much of it directed toward AI infrastructure. Selecting AMD's MI450 for the next wave of that buildout — rather than defaulting to Nvidia's Grace Blackwell architecture — is a decision that will be studied in semiconductor boardrooms for years.
 
 ## Breaking Nvidia's Structural Advantage
 
@@ -70,4 +71,6 @@ That does not mean Nvidia is threatened in the near term. The company's upcoming
 
 For enterprise buyers, the emergence of a credible second supplier has direct implications on pricing, negotiating leverage, and supply chain resilience. Hyperscalers have been quietly investing in AMD's roadmap for precisely this reason. Meta's bet validates that investment in the most public way possible.
 
-AMD's stock, which had already surged 74% in April as investors positioned ahead of earnings, traded up another 8% in after-hours markets on May 5 — evidence that even a well-anticipated beat can surprise when the magnitude is large enough. The AI chip war has a genuine second front. It opened at $60 billion.
+AMD's stock surged about 16% before the opening bell on Wednesday, the day it reported results, lifting the broader chip sector with it. The AI chip war has a genuine second front. It opened at $60 billion.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "KPMG 將 Claude 部署至全球 27.6 萬名員工，四大會計師事務所全面押注 Anthropic"
-summary: "KPMG 與 Anthropic 宣布全球戰略聯盟，將 Claude 嵌入公司核心平台 Digital Gateway，讓橫跨 138 個國家的 27.6 萬名員工都能使用 AI 協作。此次部署規模創下專業服務業之最，也讓 Anthropic 正式成為全球頂尖顧問公司的 AI 基礎架構。"
+title: "KPMG 與 Anthropic 結成全球聯盟，將讓全部 27.6 萬名員工使用 Claude"
+summary: "KPMG 與 Anthropic 宣布全球戰略聯盟，將 Claude 嵌入公司核心平台 Digital Gateway，預計讓橫跨 138 個國家和地區的 27.6 萬名員工都能使用 Claude。"
 category: "industry"
 publishedAt: 2026-05-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -34,7 +35,7 @@ relatedSlugs:
 
 此次部署的技術核心是兩個 Anthropic 產品的協同運作。**Claude Cowork** 負責文件層級的協作 AI 輔助，包括起草客戶備忘錄、標注合約，以及整合跨司法管轄區的法規指引。**Anthropic Managed Agents API** 則處理自主、多步驟的任務執行——以往需要初階分析師花三天追資料、整理輸出的工作。
 
-兩家公司引用的早期案例很能說明問題。過去，KPMG 要打造一個幫客戶因應稅務法規異動的 AI 代理（mapping 新規定至客戶現有架構、標記曝險、產生申報建議），需要一支專家團隊花上數週。現在，在 Digital Gateway 加上 Claude 之後，只要幾分鐘。這不是效率的邊際改善，而是稅務案件經濟結構的重塑。
+兩家公司引用的早期案例很能說明問題。過去，要打造一個幫客戶因應稅務法規異動的 AI 代理，需要花上數週，且團隊必須在多個工具與聊天視窗之間來回切換。現在，在 Digital Gateway 加上 Claude 之後，只要幾分鐘。這不是效率的邊際改善，而是稅務案件經濟結構的重塑。
 
 部署從稅務與法律服務（Tax & Legal）開始，這是 KPMG 約 380 億美元年收入中佔比頗高的業務線。之後將擴展至顧問諮詢（Advisory）與審計（Audit & Assurance）。預計 2026 年 9 月完成全面 Azure 整合。
 
@@ -65,3 +66,5 @@ KPMG 的完整 Azure 部署預計 9 月完成，屆時該公司的 Claude 用戶
 對 Anthropic 而言，這份聯盟恰逢關鍵的營收拐點：公司的年化執行率（run-rate revenue）近期已突破 300 億美元，相較 2025 年底的約 90 億美元大幅躍升。KPMG 這樣一個兼具規模與客戶端影響力的夥伴，將為這條上升曲線注入強大推力。
 
 專業服務公司的核心本質，是知識套利——捕捉專業能力、加以包裝、在利潤空間中部署。嵌入 Digital Gateway 的 Claude，不是 KPMG 的生產力工具；它是對那套套利方程式本身的結構性改寫。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 3 處。*

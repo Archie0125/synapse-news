@@ -1,8 +1,9 @@
 ---
-title: "Anthropic's Claude Mythos Is Too Dangerous to Release. So It Built Project Glasswing Instead."
-summary: "Anthropic has launched Project Glasswing, a restricted cybersecurity initiative giving 40+ elite organizations access to Claude Mythos Preview — a frontier model Anthropic considers too powerful to release publicly. The model has already identified thousands of zero-day vulnerabilities in every major operating system and browser, some dormant for decades, raising urgent questions about the dual-use nature of advanced AI."
+title: "Anthropic Won't Release Claude Mythos Generally. It Built Project Glasswing Instead"
+summary: "Anthropic has launched Project Glasswing, a restricted cybersecurity initiative giving 12 launch partners and over 40 additional organizations access to Claude Mythos Preview, a frontier model Anthropic does not plan to make generally available. The model has already identified thousands of zero-day vulnerabilities, including some in every major operating system and web browser, raising urgent questions about the dual-use nature of advanced AI."
 category: "ai-ml"
 publishedAt: 2026-04-09T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,17 +34,17 @@ relatedSlugs:
   - "2026-04-06-anthropic-emotion-vectors-en"
 ---
 
-The existence of Claude Mythos became public knowledge in late March, when a misconfigured content management system at Anthropic accidentally exposed internal documents describing a model the company called "by far the most powerful AI we have ever developed." Anthropic confirmed the leak, acknowledged training was complete, and said little else. On April 7, the company finally explained what it intends to do with the model — and the decision is unlike anything a major AI lab has done before.
+" Anthropic confirmed the leak, acknowledged training was complete, and said little else. On April 7, the company finally explained what it intends to do with the model — and the decision is unlike anything a major AI lab has done before.
 
-Anthropic is not releasing Claude Mythos to the public. It is not even releasing it to paying Claude customers. Instead, it has launched Project Glasswing, a closed consortium of more than 40 organizations — including Amazon, Microsoft, Apple, Google, Cisco, CrowdStrike, Palo Alto Networks, and the Linux Foundation — given restricted access to what Anthropic is calling Claude Mythos Preview. The mission: use the model's extraordinary capabilities to find and fix software vulnerabilities before malicious actors can exploit them.
+Anthropic is not releasing Claude Mythos to the public. It is not even releasing it to paying Claude customers. Instead, it has launched Project Glasswing, in which 12 launch partners, including Amazon Web Services, Microsoft, Apple, Google, Cisco, CrowdStrike, Palo Alto Networks, and the Linux Foundation, plus over 40 additional organizations, have been given restricted access to what Anthropic is calling Claude Mythos Preview. The mission: use the model's extraordinary capabilities to find and fix software vulnerabilities before malicious actors can exploit them.
 
-The reasoning behind the decision is stark. Newton Cheng, Anthropic's Frontier Red Team Cyber Lead, told VentureBeat: "We do not plan to make Claude Mythos Preview generally available due to its cybersecurity capabilities." The implication, spelled out clearly in Anthropic's Project Glasswing documentation, is that the model is sophisticated enough to identify and exploit vulnerabilities faster and more comprehensively than any human security researcher — and that this capability, unconstrained, would be catastrophically dangerous in the wrong hands.
+The reasoning behind the decision is stark. Newton Cheng, Anthropic's Frontier Red Team Cyber Lead, told VentureBeat: "We do not plan to make Claude Mythos Preview generally available due to its cybersecurity capabilities." The implication, spelled out in Anthropic's Project Glasswing documentation, is that AI models have reached a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities, and that the fallout from such capabilities proliferating could be severe.
 
 ## What the Model Found
 
 The scope of what Claude Mythos Preview has already discovered in testing is difficult to fully absorb. Anthropic used the model, in a controlled internal environment, to scan the codebases of every major operating system and every major web browser. The result: thousands of high-severity zero-day vulnerabilities — previously unknown security flaws that attackers could, in principle, exploit immediately.
 
-Among the discoveries were bugs that had existed undetected for years. The most striking: a 27-year-old vulnerability in OpenBSD, one of the security-focused operating systems most trusted by enterprises and infrastructure operators. A flaw of that vintage, in a system explicitly designed for security, surviving undetected for nearly three decades, suggests that the scale of undiscovered vulnerabilities in production software may be vastly larger than the industry has assumed.
+Among the discoveries were bugs that had existed undetected for years. The most striking: a 27-year-old vulnerability in OpenBSD, which has a reputation as one of the most security-hardened operating systems in the world. A flaw of that vintage, in a system explicitly designed for security, surviving undetected for nearly three decades, suggests that the scale of undiscovered vulnerabilities in production software may be vastly larger than the industry has assumed.
 
 The vulnerabilities span the full stack — kernel-level issues in operating systems, parsing flaws in browser engines, memory safety errors in foundational libraries. Project Glasswing partner organizations are now in a coordinated race to triage and patch the disclosed vulnerabilities before the information reaches adversaries. Several are reportedly working on emergency patches already.
 
@@ -51,7 +52,7 @@ Claude Mythos Preview scores 93.9% on SWE-bench Verified, a benchmark measuring 
 
 ## The Consortium Structure
 
-Project Glasswing operates under a tiered access model. Twelve "founding partners" — including CrowdStrike, Amazon, Apple, and Microsoft — receive full access to Mythos Preview for active defensive security work. The broader consortium of 40+ organizations gains access for research, validation, and targeted scanning of their own codebases. Anthropic has committed $100 million in model usage credits to Project Glasswing, with member organizations contributing additional usage.
+Project Glasswing operates under a tiered access model. Twelve launch partners, including CrowdStrike, Amazon Web Services, Apple, and Microsoft, will use Mythos Preview as part of their defensive security work. A group of over 40 additional organizations that build or maintain critical software infrastructure has also been given access, so they can scan and secure both first-party and open-source systems. Anthropic has committed up to $100 million in model usage credits for Mythos Preview across these efforts.
 
 The Linux Foundation's involvement is particularly notable: its role is to coordinate vulnerability disclosure and patch development for open-source projects that lack the resources of a large enterprise security team. The open-source ecosystem, which underpins virtually all production software, is statistically among the most vulnerable to undiscovered bugs — and among the hardest to patch quickly without coordinated infrastructure.
 
@@ -59,7 +60,7 @@ CrowdStrike, in a blog post confirming its founding membership, described Claude
 
 ## The Dual-Use Dilemma at Its Sharpest
 
-Project Glasswing represents Anthropic's attempt to thread an almost impossible needle. The company has built what it believes is the most capable AI system ever developed for cybersecurity tasks — and its response is to keep it out of general circulation entirely. This is a significant departure from the conventional commercial AI model, where new capability is rapidly productized and monetized.
+Project Glasswing represents Anthropic's attempt to thread an almost impossible needle. The company has built what it describes as a model with a leap in cyber skills, and its response is not to make it generally available. This is a significant departure from the conventional commercial AI model, where new capability is rapidly productized and monetized.
 
 The decision will be tested hard. The cybersecurity community broadly understands that offensive and defensive capabilities are not cleanly separable — the same model that finds a vulnerability can be prompted to write an exploit for it. Restricting Mythos Preview to vetted organizations with contractual disclosure obligations creates a meaningful barrier, but not an insurmountable one. What happens when a Glasswing partner is itself breached, or when an employee leaves and takes knowledge of the model's capabilities with them, is an open question.
 
@@ -69,8 +70,10 @@ There are also questions about scope creep. Project Glasswing is framed as a def
 
 Claude Mythos Preview's restricted release is a test case for a broader question the AI industry has so far mostly avoided confronting directly: what do you do when you build something too powerful to release safely?
 
-The standard playbook — staged rollout, safety fine-tuning, usage policies — presupposes that a model can be made safe enough for general deployment with sufficient care. Project Glasswing suggests Anthropic has concluded that, at least for this model's cybersecurity capabilities, no amount of fine-tuning or policy enforcement makes general release acceptable. That is a significant line to cross, and the company deserves credit for the candor with which it has explained its reasoning.
+The standard playbook — staged rollout, safety fine-tuning, usage policies — presupposes that a model can be made safe enough for general deployment with sufficient care. Project Glasswing suggests Anthropic has concluded that, for now, Mythos Preview's cybersecurity capabilities require new safeguards before any broader release, which it plans to launch first with an upcoming Claude Opus model. That is a significant line to cross, and the company deserves credit for the candor with which it has explained its reasoning.
 
 The practical consequence is a world in which frontier AI capabilities become increasingly stratified: available to large institutions with the resources and credibility to join consortia like Glasswing, inaccessible to smaller organizations and individuals. Whether that stratification produces better security outcomes than broader access — through the diversity of perspectives and the sheer scale of defenders it would enable — is a genuine policy debate the industry has barely begun.
 
 For now, the race to patch what Claude Mythos found is the most urgent priority. The bugs are real, the software is in production, and somewhere beyond the Glasswing consortium, someone else may be looking for the same vulnerabilities with less scrupulous intentions.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

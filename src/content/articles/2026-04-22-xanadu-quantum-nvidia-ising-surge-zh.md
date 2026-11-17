@@ -1,8 +1,9 @@
 ---
 title: "NVIDIA 發布 Ising 量子 AI 模型，Xanadu 股價飆漲 250%，執行長一週成億萬富翁"
-summary: "加拿大光子量子運算新創 Xanadu Quantum Technologies 的股價在 NVIDIA 發布 Ising 開源量子 AI 模型後暴漲近 250%。創辦人兼 CEO Christian Weedbrook 在公司上市僅數週後身價突破 15 億美元，Xanadu 市值一度衝向 160 億美元，成為量子運算賽道唯一上市的純正標的。"
+summary: "加拿大光子量子運算公司 Xanadu Quantum Technologies 的股價在 NVIDIA 發布 Ising 開源量子 AI 模型後上漲約 250%。創辦人兼 CEO Christian Weedbrook 在公司上市數週後成為億萬富翁，Xanadu 的市值突破 160 億美元。"
 category: "hardware"
 publishedAt: 2026-04-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -25,13 +26,13 @@ relatedSlugs:
   - "2026-04-17-nvidia-ising-quantum-ai-models-zh"
 ---
 
-Christian Weedbrook 花了大約 15 年從零打造一家量子運算公司，NVIDIA 只用了五天，就讓他成了億萬富翁。
+Christian Weedbrook 花了大約十年從零打造一家量子運算公司，在 NVIDIA 發布消息後短短幾天，他就成了億萬富翁。
 
-總部位於多倫多的光子量子運算公司 Xanadu Quantum Technologies，在 NVIDIA 發布 Ising 開源 AI 模型系列後的一週內，股價從公告前水準暴漲約 250%。Ising 是一套專為解決量子運算兩大頑疾而設計的 AI 模型：誤差校正與校準（calibration）。
+總部位於多倫多的光子量子運算公司 Xanadu Quantum Technologies，在 NVIDIA 發布 Ising 開源 AI 模型系列後，股價上漲約 250%。Ising 是一套針對量子運算在校準（calibration）與誤差校正方面瓶頸的 AI 模型。
 
-到 4 月中旬，Weedbrook 持有的 4,640 萬股多重投票股票，依 Bloomberg 根據市場數據與法規申報文件計算，市值約達 15 億美元。Xanadu 的市值盤中一度衝向 160 億美元——對於一家剛在三週前（3 月 27 日）才透過與 Crane Harbor Acquisition Corp. 完成 3.02 億美元 SPAC 合併、在那斯達克與多倫多證交所雙掛牌上市的公司而言，這個漲幅令人咋舌。
+到 4 月中旬，Weedbrook 持有的 4,640 萬股多重投票股票，依 Bloomberg 根據市場數據與法規申報文件計算，市值約達 15 億美元。Xanadu 的市值突破 160 億美元——對於一家數週前才透過與 Crane Harbor Acquisition Corp. 完成 SPAC 合併（總收益約 3.02 億美元）、在那斯達克與多倫多證交所雙掛牌上市的公司而言，這個漲幅令人咋舌。
 
-NVIDIA 並未投資 Xanadu，但也不需要。NVIDIA 以最高等級的公信力背書量子運算這個賽道，讓 Xanadu——全球唯一掛牌的純正光子量子運算公司——成為最直接的受益者。
+NVIDIA 並未投資 Xanadu，但也不需要。NVIDIA 為量子運算作為 AI 擴張未來的角色背書，掀起的熱潮讓 Xanadu 以及 IonQ、Rigetti 等其他上市量子公司同受其惠。
 
 ## NVIDIA Ising 模型究竟解決了什麼？
 
@@ -47,7 +48,7 @@ NVIDIA 發布的 Ising 模型系列，針對的是長期阻礙量子電腦實用
 
 Christian Weedbrook 的人生故事，恰好打破了矽谷科技創業者的刻板印象。
 
-他曾就讀電影系，後來轉向量子物理學。他在澳洲昆士蘭大學取得量子資訊理論博士學位，之後在麻省理工學院完成博士後研究。2016 年，他在多倫多創立 Xanadu，彼時量子運算仍幾乎是純理論領域，「量子優越性」這個詞還沒走進主流話語。
+他在電影系第一年兩度被退學，打了四年零工後重返大學攻讀數學。他在澳洲昆士蘭大學取得量子資訊理論博士學位，之後在麻省理工學院完成博士後研究。2016 年，他在多倫多創立 Xanadu，彼時量子運算仍幾乎是純理論領域，「量子優越性」這個詞還沒走進主流話語。
 
 在接下來十年裡，他將公司建立在一個技術信念上：**光子量子運算是正確的長期道路**——因為光子在室溫下運作，不需要讓競爭方案昂貴又難擴充的極低溫冷卻系統，且可以用現有半導體製程製造。
 
@@ -69,4 +70,6 @@ Xanadu 技術論點的核心是 Aurora 系統——一套模組化的容錯光�
 
 Xanadu 的股價能否在 100 億至 160 億美元的估值區間站穩，終究取決於它能否在 Aurora 系統上展示出明顯優於古典計算的商業工作負載。那個時刻還在前方，尚未到來。
 
-但有一件事已經發生：Xanadu 現在是量子運算賽道的公開市場標的股票。在一個長期難以吸引主流投資人關注的領域，這個位置本身，或許就像任何單一技術里程碑一樣有價值。
+但有一件事已經發生，意義重大：Xanadu 的市值已突破 160 億美元，成為加拿大最有價值的上市科技公司之一。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 8 處。*

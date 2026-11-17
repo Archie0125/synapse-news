@@ -3,6 +3,7 @@ title: "SK Hynix Raises $26.5B in Largest Foreign IPO in US History, Powered by 
 summary: "The South Korean chipmaker's Nasdaq debut surpassed Alibaba's 2014 record, driven by insatiable demand for high-bandwidth memory used in AI accelerators. The offering was more than seven times oversubscribed, reflecting Wall Street's growing conviction that whoever controls AI memory controls the AI era."
 category: "hardware"
 publishedAt: 2026-07-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-07-10-ai-chip-stocks-bear-market-correction-en"
 ---
 
-On July 10, 2026, a South Korean company rewrote the record books on Wall Street. SK Hynix, the world's dominant maker of high-bandwidth memory chips, raised $26.5 billion in its Nasdaq debut — the largest initial public offering ever by a foreign company on a US exchange, eclipsing Alibaba's 2014 blockbuster by more than a billion dollars.
+On July 10, 2026, a South Korean company rewrote the record books on Wall Street. SK Hynix, the world's leading maker of high-bandwidth memory chips, raised $26.5 billion in its Nasdaq debut, the largest U.S. listing ever by a foreign company, topping Alibaba's $25 billion IPO in 2014.
 
-The numbers were staggering. The company sold 177.9 million American depositary receipts at $149 each. The offering was more than seven times oversubscribed. By the end of the first trading session, shares had climbed over 13% above the IPO price. SK Hynix's chairman, Lee Kyu-hwan, appeared on CNBC mid-session to declare simply: "Demand is enormous."
+The numbers were staggering. The company sold 177.9 million American depositary receipts at $149 each. The offering was more than seven times oversubscribed. By the end of the first trading session, shares had climbed over 13% above the IPO price. SK Hynix Chairman Chey Tae-won told CNBC on Friday: "The demand is enormous."
 
 ## The Memory Chip Behind Every AI Breakthrough
 
@@ -55,7 +56,7 @@ SK Hynix plans to deploy the $26.5 billion raised across three areas. The primar
 
 The fab investment comes at a geopolitically sensitive moment. US Commerce Secretary Howard Lutnick has been publicly and privately lobbying both SK Hynix and Samsung to build manufacturing facilities inside the United States, framing AI memory as a national security matter on par with leading-edge logic chips. The Chips Act has already committed tens of billions to bringing TSMC and Intel back to competitive fab status; memory chips are seen as the next frontier.
 
-SK Hynix has not announced US fab plans, though the pressure from Washington is mounting. Rival Micron, which announced a $250 billion US investment plan earlier this year, has positioned itself as the American alternative to Korean memory dominance — a narrative that may accelerate Washington's pressure on Seoul.
+SK Hynix has announced a $4 billion advanced packaging plant in Indiana, though the pressure from Washington to build more in the US is mounting. Rival Micron, which announced plans to invest $250 billion in new US manufacturing at an event Lutnick attended, is on board with his push.
 
 ## What Wall Street Is Actually Buying
 
@@ -74,3 +75,5 @@ SK Hynix's $26.5 billion US listing deepens the financial ties between the two c
 Whether or not Lutnick succeeds in persuading SK Hynix to build US fabs, the Nasdaq listing has already accomplished something significant: it has made one of the AI era's most essential suppliers a permanent fixture of the American financial landscape.
 
 For a company that a decade ago was seen as a commoditized memory maker competing on cost, that is a remarkable transformation — and a testament to what controlling the memory layer of the AI stack is worth in 2026.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

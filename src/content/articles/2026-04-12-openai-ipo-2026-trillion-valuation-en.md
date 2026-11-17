@@ -3,6 +3,7 @@ title: "OpenAI Eyes Q4 2026 IPO at $1 Trillion Valuation, Opening Shares to Reta
 summary: "OpenAI is targeting a public listing in Q4 2026 with an ambition to hit a $1 trillion valuation — a figure that would make it the most valuable IPO in US history. In a departure from typical tech listings, the company plans to reserve a portion of the offering for individual retail investors, a move designed to broaden access to what many consider the defining technology company of this era."
 category: "startups"
 publishedAt: 2026-04-12T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -35,7 +36,7 @@ In an unusual move for a company of this scale, OpenAI has confirmed it plans to
 
 ## The Revenue Story
 
-OpenAI's financial trajectory has been remarkable even by AI-era standards. The company went from $13.1 billion in sales in calendar year 2025 to a $25 billion annualized run rate early in 2026 — roughly doubling in under 12 months. Revenue projections filed internally anticipate **$280 billion in annual revenue by 2030**, a figure that would require OpenAI to either become one of the world's most dominant enterprise software companies or successfully monetize its consumer user base at a scale that has never been achieved in tech.
+OpenAI's financial trajectory has been remarkable even by AI-era standards. The company went from $13.1 billion in sales in calendar year 2025 to a $25 billion annualized run rate early in 2026 — roughly doubling in under 12 months. OpenAI has reportedly told potential investors it expects to generate **$280 billion in annual revenue by 2030**, with sales forecast to come from both enterprise and commercial products.
 
 The ChatGPT product is the linchpin. With 900 million weekly active users — a number that places it among the most-used software applications in history — OpenAI has a distribution platform that most enterprise SaaS companies can only dream of. The conversion challenge is turning those users into paid subscribers and API customers, and the company's data suggests meaningful progress: the share of revenue from enterprise contracts has grown from 30% to nearly 50% over the past 18 months.
 
@@ -64,3 +65,5 @@ If OpenAI's IPO proceeds at or near the $1 trillion target, it will become the m
 That matters for every other AI company contemplating a public exit, from Anthropic to xAI to Mistral to the dozens of enterprise AI platforms that have raised billions in venture capital and will need liquidity events. An OpenAI IPO at scale validates the market, sets comparables, and — if retail investors participate meaningfully — spreads the AI investment story beyond the institutional investor class that has funded it so far.
 
 For now, the clock is set to Q4 2026. The market will decide whether the valuation holds.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

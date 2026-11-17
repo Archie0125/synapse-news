@@ -3,6 +3,7 @@ title: "Trump Lands in Beijing With Cook, Musk, and Huang in a High-Stakes Tech 
 summary: "President Trump arrived in Beijing on May 13 for a summit with Xi Jinping, bringing a 16-CEO tech delegation that includes Apple's Tim Cook, Nvidia's Jensen Huang — a last-minute addition who joined Air Force One in Alaska — and Elon Musk. The visit puts AI chip exports, rare earths, and Taiwan at the center of the world's most consequential bilateral relationship."
 category: "policy"
 publishedAt: 2026-05-14
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
   - "2026-05-06-arm-holdings-q4-fy2026-earnings-ai-royalties-en"
 ---
 
-When Air Force One touched down at Beijing Capital International Airport on Tuesday evening, it carried more than a head of state. Among the 16 corporate chieftains who made the journey were some of the most consequential figures in global technology: Tim Cook, whose Apple generates roughly $70 billion in annual China revenue; Elon Musk, whose Tesla depends on its Shanghai Gigafactory for roughly half its global production output; and Jensen Huang, the Nvidia CEO whose chips sit at the heart of every major AI system on the planet — and whose products have been the most contentious flashpoint in U.S.-China tech policy for three years running.
+When Air Force One touched down in Beijing on Wednesday, Trump was accompanied by a group of top U.S. executives. Among the 16 corporate chieftains who made the journey were some of the most consequential figures in global technology: Tim Cook, whose Apple generates roughly $70 billion in annual China revenue; Elon Musk, whose Tesla depends on its Shanghai Gigafactory for roughly half its global production output; and Jensen Huang, the Nvidia CEO whose chips sit at the heart of every major AI system on the planet — and whose products have been the most contentious flashpoint in U.S.-China tech policy for three years running.
 
 Huang's presence alone signals that this is not a routine diplomatic visit. He was not on the original White House guest list. According to Bloomberg, Trump personally called Huang to extend the invitation, overriding concerns from national security aides who argued that placing the CEO of the world's most strategically sensitive chip company at Beijing's negotiating table sent the wrong message. Huang boarded Air Force One at a refueling stop in Anchorage, Alaska — making him a last-minute but unmissable symbol of where the AI hardware fault line runs.
 
@@ -39,7 +40,7 @@ Huang's presence alone signals that this is not a routine diplomatic visit. He w
 
 The White House's decision to assemble a who's-who of American technology as a diplomatic instrument is deliberate and calculated. Alongside Cook, Musk, and Huang, the delegation includes financial heavyweights like BlackRock CEO Larry Fink, whose firm manages roughly $12 trillion in assets and has deep exposure to Chinese capital markets. The message to Beijing is unmistakable: the U.S. tech industry's interests and U.S. foreign policy objectives are, at least for now, aligned.
 
-Cook's participation carries a particularly poignant backstory. Multiple sources within Apple have confirmed that his tenure as CEO is drawing to a close, with a succession plan targeting a September 1 handover. That makes this Beijing visit his last significant diplomatic mission on the company's behalf — a coda to a 15-year tenure defined in part by threading the needle between Silicon Valley's values and Beijing's regulatory demands. No American tech CEO has spent more time cultivating Chinese government relationships, and no American tech company has more to lose from a rupture. That Cook is here, now, underscores how much this summit matters.
+Cook's participation carries a particularly poignant backstory. Cook announced last month that his tenure as CEO will end on September 1, when he hands over to John Ternus. That makes this Beijing visit what is expected to be his final major diplomatic effort as Apple's CEO, capping a 15-year tenure during which he managed the impact of trade wars by balancing domestic investment with overseas production. No American tech CEO has spent more time cultivating Chinese government relationships, and no American tech company has more to lose from a rupture. That Cook is here, now, underscores how much this summit matters.
 
 ## What's on the Table
 
@@ -70,3 +71,5 @@ The more consequential outcome, however, may be subtler: a bilateral framework f
 Whether Trump and Xi can get there in a day of talks — with 16 CEOs waiting in an anteroom — is doubtful. But the presence of Huang, Cook, and Musk in that anteroom means that whatever framework emerges will have the implicit buy-in of the people who actually build and deploy the technology at stake. That is something no prior U.S.-China AI conversation has had.
 
 Joint communiqué outcomes are expected to be announced Thursday or Friday. Nvidia's stock has already risen approximately 4% in the week since Huang confirmed his attendance; markets are holding their breath for the details.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

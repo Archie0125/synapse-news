@@ -1,8 +1,9 @@
 ---
-title: "OpenAI Codex Can Now Watch You Work Once and Repeat Any Task Forever"
+title: "OpenAI Codex Can Now Watch You Work Once and Repeat the Task"
 summary: "OpenAI has shipped Record & Replay in Codex app version 26.616, a feature that lets AI agents observe a user completing a workflow demonstration and convert it into a reusable, editable 'skill' executable anytime thereafter. Available to paid ChatGPT subscribers on macOS—with EU, UK, and Swiss users excluded—the feature represents a significant step toward no-code automation that closes the gap between enterprise RPA tools and conversational AI agents."
 category: "developer-tools"
 publishedAt: 2026-06-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-06-11-anthropic-2026-agentic-coding-trends-report-en"
 ---
 
-The single biggest friction point in enterprise workflow automation has never been the automation itself—it's been describing the automation to the tool. Robotic Process Automation (RPA) platforms spent a decade asking users to document every click, field value, and conditional branch before a bot could execute a task. The result was powerful on paper and brittle in practice, and typically required dedicated specialists to maintain.
+The single biggest friction point in enterprise workflow automation has never been the automation itself—it's been describing the automation to the tool. Robotic Process Automation (RPA) tools such as UiPath and Automation Anywhere have offered record-and-replay functionality for years. Their recordings capture coordinates and UI elements, and they break when the interface changes.
 
 OpenAI's Record & Replay feature, shipped June 18 in Codex app version 26.616, takes a different approach: show the agent what you want done, and it figures out the rest.
 
@@ -40,35 +41,35 @@ The mechanism is straightforward in concept, though consequential in implementat
 
 That skill can be invoked by name at any point thereafter, executed by the same Codex agent via Computer Use, browser automation, plugin APIs, or any combination of available tools. The workflow runs autonomously each time it's called—no re-demonstration required.
 
-OpenAI's documentation describes skills as editable after creation: users can modify the generated automation logic, add conditional branches, parameterize inputs (so the same skill can process different files or fill different forms depending on context), and combine multiple skills into larger automated pipelines.
+OpenAI's documentation describes the generated skill as refinable: users can ask for further refinements, such as calling out hidden preferences like naming conventions, field defaults, or decision points, and give new values, such as a different file to upload, on each run.
 
 ## Computer Use as the Infrastructure Layer
 
-Record & Replay is built on Computer Use—OpenAI's framework for agents that interact with computer interfaces rather than APIs. Computer Use allows Codex to control the keyboard, mouse, and screen in the same way a human user would, enabling automation of applications that have no accessible programmatic interface.
+Record & Replay is built on Computer Use—OpenAI's framework for agents that interact with computer interfaces rather than APIs. Computer Use lets Codex control desktop applications on the user's behalf.
 
-This is what distinguishes Record & Replay from earlier workflow automation tools that required web application APIs or purpose-built integrations. Any application a user can interact with visually—a legacy internal tool, a government portal, a desktop application never designed for automation—becomes scriptable through the demonstration model. The agent doesn't need an API endpoint; it needs only to see the workflow performed.
+Unlike traditional RPA macros, which record coordinates, Record & Replay generates a skill description that Codex's language model interprets on replay.
 
-The requirement that Computer Use be enabled for Record & Replay to function means the feature is available only on platforms where Computer Use has been deployed. As of version 26.616, that includes macOS; the feature is not yet available on Windows or web-based access. OpenAI noted that Computer Use became accessible in the European Union as of June 16—a prerequisite step—though Record & Replay itself remains unavailable in the EU, UK, and Switzerland under existing geographic restrictions tied to Codex's data processing terms.
+The requirement that Computer Use be enabled for Record & Replay to function means the feature is available only on platforms where Computer Use has been deployed. As of version 26.616, that includes macOS; the feature is not yet available on Windows or web-based access. Computer Use has been available in the European Union since June 16, though Record & Replay itself is not yet available in the EU, UK, or Switzerland, and OpenAI has not publicly explained the distinction.
 
 ## The RPA Parallel—and the Divergence
 
-Enterprise RPA tools—UiPath, Automation Anywhere, Blue Prism, Microsoft Power Automate—have occupied this territory for years, and the comparison is instructive. Those platforms also offer "record" modes where a user performs a task and the tool generates a bot definition. The fundamental difference is what happens between the recording and the execution.
+Enterprise RPA tools such as UiPath and Automation Anywhere have offered record-and-replay functionality for years, and the comparison is instructive. Those platforms also offer "record" modes where a user performs a task and the tool generates a bot definition. The fundamental difference is what happens between the recording and the execution.
 
-Traditional RPA records literal screen coordinates, element identifiers, and pixel positions. Change the browser window size, update the application's UI, or move a button, and the bot breaks. Maintenance of RPA workflows is a significant ongoing cost for enterprise IT teams; industry analysts estimate that a meaningful portion of enterprise RPA investment goes toward maintaining and debugging existing automations rather than creating new ones.
+Traditional RPA records literal screen coordinates, element identifiers, and pixel positions. Change the browser window size, update the application's UI, or move a button, and the bot breaks.
 
-Codex's Record & Replay generates skills from semantic understanding of the demonstrated workflow, not from brittle coordinate capture. The agent observes what the user is trying to accomplish—upload a video with metadata, file an expense report, create a project ticket—and encodes that intent in a form that can adapt to minor interface changes without breaking. OpenAI hasn't published technical specifications on how this adaptive execution is implemented, but the distinction from coordinate-based RPA is significant for enterprise reliability expectations.
+Codex's Record & Replay generates skills from semantic understanding of the demonstrated workflow, not from brittle coordinate capture. The agent observes what the user is trying to accomplish—upload a video with metadata, file an expense report, create a project ticket—and encodes that intent in a form that can adapt to minor interface changes without breaking.
 
 ## Practical Applications and Demonstrated Use Cases
 
 OpenAI's documentation and demonstrations have highlighted several representative use cases:
 
-**Content publishing.** Recording a YouTube video upload workflow—including title, description, thumbnail selection, tag entry, and privacy settings—and converting it into a skill that handles future uploads with varying parameters.
+**Content publishing.** Recording a YouTube video upload workflow, including metadata, a thumbnail, and subtitles, and converting it into a skill that Codex can repeat.
 
 **Expense management.** Capturing the process of filing an expense in a corporate portal and converting it into a repeatable skill that processes new expenses as they arrive.
 
-**Recurring data extraction.** Demonstrating how to download a weekly report from an internal dashboard and save it to a designated location, then having the skill execute automatically on a schedule.
+**Recurring data extraction.** Demonstrating how to download a recurring report and converting it into a reusable skill.
 
-**Ticket and issue creation.** Walking through a correctly configured Jira, Linear, or GitHub issue creation process with specific field values and labels, then generating a skill that creates correctly configured issues from natural language descriptions.
+**Ticket and issue creation.** Recording the creation of a correctly configured issue and converting it into a reusable skill.
 
 **Reservations and bookings.** Capturing a parking space booking workflow in a corporate facilities app and converting it to a repeatable task.
 
@@ -76,11 +77,9 @@ The unifying theme is what OpenAI describes as "stable, repeatable workflows tha
 
 ## Geographic Restrictions and Competitive Context
 
-The EU, UK, and Switzerland exclusion for Record & Replay reflects ongoing tensions between OpenAI's agentic capabilities and European data protection frameworks. Computer Use involves capturing screen content, which can include personal data, user credentials, and proprietary information. The GDPR's requirements around automated decision-making and data minimization impose constraints that OpenAI has not yet fully resolved for agentic Computer Use products in those jurisdictions.
+The EU, UK, and Switzerland exclusion for Record & Replay applies to the initial release, and OpenAI has not publicly explained the reason or given a timeline for expansion. Computer Use involves capturing screen content, which can include personal data, user credentials, and proprietary information.
 
-This creates a market bifurcation where enterprise teams in Europe lack access to the same automation capabilities available to their US counterparts—a dynamic that has surfaced repeatedly as OpenAI, Anthropic, and Google deploy increasingly powerful agentic features with geographic carve-outs.
-
-The competitive landscape for workflow automation is active. Microsoft's Power Automate has integrated Copilot capabilities for natural language workflow creation. Anthropic's Claude with Computer Use supports comparable desktop automation. Zapier and Make have added AI-powered workflow builders. What OpenAI's Record & Replay adds that most competitors lack is the demonstration-based approach: instead of describing a workflow in natural language (which requires users to think abstractly about their process) or configuring a workflow in a visual builder (which requires explicit step enumeration), Record & Replay lets users stay in the flow of actually doing the task and lets the AI handle the abstraction step.
+The competitive landscape for workflow automation is active. Record & Replay takes a demonstration-based approach: instead of describing a workflow in a prompt, users perform the task while Codex watches and drafts a skill from it.
 
 ## What This Means for Developer Workflows
 
@@ -88,4 +87,6 @@ For developers specifically, Record & Replay opens up automation paths for tooli
 
 The ability to demonstrate a workflow once and have it become a reusable agent skill also changes the calculus for one-off automations that previously weren't worth the investment to script. If the cost of automation is a single demonstration rather than hours of scripting and testing, the threshold for what's worth automating drops substantially—potentially affecting how developers and knowledge workers think about the entire category of repetitive computer-mediated work.
 
-OpenAI has indicated that Record & Replay skills will be accessible across the Codex ecosystem, including via API for enterprise integrations. Teams building on Codex APIs could potentially capture domain-specific workflows from human subject matter experts and deploy them as reusable skills across their organization—a capability that, if it works reliably at scale, represents a meaningful acceleration in how institutional knowledge gets encoded into software systems.
+Teams building on Codex APIs could potentially capture domain-specific workflows from human subject matter experts and deploy them as reusable skills across their organization—a capability that, if it works reliably at scale, represents a meaningful acceleration in how institutional knowledge gets encoded into software systems.
+
+*Correction (November 15, 2026): 23 sentences were corrected or removed to match the sources listed on this page.*

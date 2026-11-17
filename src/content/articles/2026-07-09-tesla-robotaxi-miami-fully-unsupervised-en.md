@@ -1,8 +1,9 @@
 ---
-title: "Tesla Expands Robotaxi to Miami With No Safety Driver — The First City Launched Fully Unsupervised From Day One"
-summary: "Tesla launched its fully driverless Robotaxi service in Miami on July 3, covering a 20-square-mile geofence with Model Y vehicles and no human safety monitor. Miami is the first city where Tesla skipped a supervised launch phase entirely, marking a significant milestone in the company's autonomous vehicle rollout."
+title: "Tesla Expands Robotaxi to Miami With Fully Unsupervised Rides From Day One"
+summary: "Tesla launched its fully driverless Robotaxi service in Miami on July 3 with Model Y vehicles and no human safety monitor. The geofence covers a slice of western Miami-Dade County, and sources differ on its size."
 category: "products"
 publishedAt: 2026-07-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -27,13 +28,13 @@ relatedSlugs:
   - "2026-07-08-microsoft-xbox-restructuring-3200-layoffs-en"
 ---
 
-Tesla quietly launched its Robotaxi service in Miami on July 3, extending the company's driverless network to its fifth U.S. market and — for the first time — skipping the supervised launch phase that had characterized every previous expansion. In Austin, Dallas, Houston, and the San Francisco Bay Area, Tesla began with some combination of safety monitor-equipped vehicles before transitioning to fully driverless operation. Miami went straight to unsupervised from the start.
+Tesla launched its Robotaxi service in Miami on July 3, extending the company's driverless network to a new market with rides that are fully unsupervised from day one. In Austin, Dallas, Houston, and the San Francisco Bay Area, Tesla began with some combination of safety monitor-equipped vehicles before transitioning to fully driverless operation. Miami went straight to unsupervised from the start.
 
 The launch represents an inflection point in Tesla's autonomous vehicle strategy. After a year of cautious geographic expansion since the Austin pilot in June 2025, the company is now deploying in markets where the regulatory environment allows it to move faster, and the Miami rollout signals confidence in Full Self-Driving's maturity that earlier launches, by design, did not.
 
 ## What the Service Looks Like
 
-The Miami Robotaxi service operates across a geofence of approximately 20 square miles, covering most of the city's core commercial and transit hubs. Miami International Airport falls within the active zone, though Tesla is not yet authorized for terminal pickups or drop-offs — a practical limitation that matters in a city where airport rides represent a substantial share of rideshare demand.
+The Miami Robotaxi service operates across a geofence in western Miami-Dade County, which one report puts at roughly 10 to 14 square miles, covering West Miami, Doral and a corner of Coral Gables. Miami International Airport falls within the active zone, though Tesla is not yet authorized for terminal pickups or drop-offs — a practical limitation that matters in a city where airport rides represent a substantial share of rideshare demand.
 
 Riders access the service through the official Robotaxi app on iOS or Android. The fleet currently consists entirely of Model Y vehicles, consistent with Tesla's approach in all existing markets. There is no driver in the front seat, no safety monitor in any seat, and no remote human operator with override capability described publicly.
 
@@ -41,20 +42,20 @@ Florida's weather creates a specific testing challenge. Miami's summer rainy sea
 
 ## The Five-Market Map
 
-Tesla's Robotaxi network now spans five territories with meaningfully different operating profiles:
+Tesla's Robotaxi network now spans several territories with different operating profiles:
 
 - **Austin**: The original pilot market, now operating a mix of supervised and unsupervised vehicles. Tesla has the most accumulated operating data here.
-- **Dallas and Houston**: Fully unsupervised Model Y rides, similar to Miami but launched after an initial supervised phase.
+- **Dallas and Houston**: Fully unsupervised Model Y rides, similar to Miami.
 - **San Francisco Bay Area**: Limited deployment, still running with safety monitors. California's regulatory framework requires additional approval steps before unsupervised commercial operation.
-- **Miami**: Fully unsupervised from launch day, no prior supervised phase.
+- **Miami**: Fully unsupervised from launch day.
 
 The geographic pattern suggests Tesla is calibrating its supervised-vs-unsupervised approach by regulatory environment as much as by technical confidence. Florida's regulatory framework is permissive compared to California's, which may explain why Miami could absorb a fully unsupervised launch while the Bay Area, despite more operational history, cannot.
 
 ## FSD v15 and What Comes Next
 
-Tesla began testing the purpose-built Cybercab — a two-door vehicle with no steering wheel or pedals, designed from the outset for autonomous operation — on public roads in the weeks before the Miami launch. The Cybercab cannot legally operate with a human driver even if one were present, making the regulatory approval process for its commercial deployment distinct from the Model Y-based Robotaxi service.
+Tesla has just started testing the purpose-built Cybercab — a vehicle with no steering wheel, pedals or manual driving controls — on public roads in Austin. The Cybercab cannot legally operate with a human driver even if one were present, making the regulatory approval process for its commercial deployment distinct from the Model Y-based Robotaxi service.
 
-Tesla plans large-scale expansion pending the release of Full Self-Driving version 15, the next major software update to the FSD stack. FSD v15 is expected to bring improvements in handling complex unprotected left turns, low-visibility conditions, and edge cases involving cyclists and pedestrians in non-standard situations. Phoenix and Nevada have been cited as planned expansion markets once FSD v15 is deployed, with Nevada alone permitting up to 5,000 autonomous vehicles under an existing regulatory agreement with the state.
+Tesla plans large-scale expansion pending the release of Full Self-Driving version 15, the next major software update to the FSD stack. FSD v15 is expected to bring improvements in handling complex unprotected left turns, low-visibility conditions, and edge cases involving cyclists and pedestrians in non-standard situations. Phoenix is the next likely expansion market, and Tesla has filed for permission to deploy up to 5,000 autonomous vehicles in Nevada.
 
 On the last earnings call, CEO Elon Musk reiterated his projection that fully autonomous vehicles requiring no human safety monitors would become significantly more common across the United States in the second half of 2026. That timeline, if accurate, implies aggressive geographic expansion in the months immediately ahead.
 
@@ -73,3 +74,5 @@ Tesla has not disclosed unit economics for its Robotaxi service. Pricing, utiliz
 The Cybercab, when it enters commercial service, will change that calculus. Its stripped-down design — no steering wheel, no pedals, no second set of mirrors required for manual driving — is expected to reduce per-vehicle manufacturing cost compared to a modified Model Y. Combined with fully autonomous operation that eliminates labor costs, the Cybercab's theoretical unit economics are strong if Tesla can achieve sufficient utilization rates.
 
 For now, the Miami launch confirms that Tesla is willing to deploy its existing fleet in new markets as it builds toward that future — accumulating data, regulatory relationships, and consumer trust one city at a time.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

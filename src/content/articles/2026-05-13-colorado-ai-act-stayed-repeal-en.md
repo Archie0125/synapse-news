@@ -3,6 +3,7 @@ title: "America's Most Ambitious State AI Law Is Dead Before It Ever Took Effect
 summary: "Colorado's landmark AI Act — set to become the most comprehensive US state AI law on June 30, 2026 — has been stayed by a federal judge and is now being replaced by a narrower bill already passed by the state legislature. The episode reveals how fast the political ground has shifted under state-level AI regulation, and what it means for companies that spent months preparing for compliance."
 category: "policy"
 publishedAt: 2026-05-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-04-04-eu-ai-act-enforcement-en"
 ---
 
-Colorado's Senate Bill 24-205 — the Colorado Artificial Intelligence Act — was supposed to be a milestone moment for American AI governance. Signed into law in 2024 and scheduled to take effect June 30, 2026, it would have been the first comprehensive state AI law in the United States to impose affirmative duties on both developers and deployers of AI systems across a wide range of high-stakes applications. It would have required companies to test for bias, document risks, notify users, and demonstrate reasonable care in preventing algorithmic discrimination.
+Colorado's Senate Bill 24-205 — the Colorado Artificial Intelligence Act — was supposed to be a milestone moment for American AI governance. Passed in 2024 and, after a special-session delay, scheduled to take effect June 30, 2026, it was designed to be the nation's first comprehensive law regulating artificial intelligence systems used in high-stakes decisions like employment, housing, loans and healthcare. It would have required companies to test for bias, document risks, notify users, and demonstrate reasonable care in preventing algorithmic discrimination.
 
 Instead, the law has been frozen by a federal judge, superseded by a replacement bill that guts its most ambitious provisions, and is on its way to being quietly retired before a single company ever had to comply. The trajectory of Colorado's AI Act offers a cautionary tale — or, depending on your perspective, a triumph of pragmatism — about the difficulty of regulating fast-moving technology through state-level legislative processes.
 
@@ -80,3 +81,5 @@ For the technology industry, the outcome is a short-term win that may accelerate
 For AI users potentially affected by algorithmic decision-making — in hiring, lending, healthcare, or housing — Colorado's reversal means the protections they were briefly promised have evaporated. The absence of enforceable law does not mean the underlying risks have diminished; it means they remain unaddressed.
 
 The most ambitious American experiment in comprehensive AI regulation has ended not with a court ruling or a popular referendum, but with a quiet legislative replacement bill and a federal judge's stay order. The question now is what, if anything, comes next.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

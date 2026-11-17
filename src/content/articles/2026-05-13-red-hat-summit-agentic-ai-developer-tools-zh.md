@@ -1,8 +1,9 @@
 ---
-title: "Red Hat Summit 2026：企業級Agentic AI工具套件登場，整合OpenShift、SLSA與Claude"
-summary: "Red Hat在2026年峰會上發布一套完整的企業級Agentic AI開發者工具，涵蓋具備SLSA三級供應鏈保證的Red Hat信任程式庫、基於NVIDIA AI藍圖的漏洞利用智慧，以及支援Claude CLI、AWS Kiro和微軟Copilot的OpenShift Dev Spaces多助手雲端 IDE環境。"
+title: "Red Hat Summit：Red Hat擴展Agentic AI開發者工具"
+summary: "Red Hat在峰會上發布用於打造Agentic AI的新開發者工具，重點包括建立於SLSA三級基礎設施之上的Red Hat信任程式庫、使用NVIDIA AI藍圖開發的漏洞利用智慧，以及整合Claude CLI、AWS Kiro和微軟Copilot的擴展版OpenShift Dev Spaces。"
 category: "developer-tools"
 publishedAt: 2026-05-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -34,8 +35,6 @@ Red Hat一年一度的峰會長期以來是企業基礎設施走向的風向標�
 
 ## Red Hat信任程式庫：AI時代的供應鏈安全
 
-發布重頭戲是Red Hat信任程式庫（Trusted Libraries）——一套專為AI與Agentic工作負載打造的精選Python套件，以Red Hat對企業Linux套件同等的供應鏈保證標準進行分發。
-
 技術規格意義重大：信任程式庫建立於SLSA（軟體製品供應鏈安全等級）三級基礎設施之上——意味著其構建來源可驗證、防篹改且可審計。每個套件附帶軟體物料清單（SBOM）和加密簽名，讓客戶能夠精確驗證所運行的是什麼程式碼、來源為何，以及自構建以來是否被修改。
 
 這對Agentic AI尤為重要。AI代理執行程式碼、呼叫外部API，並採取具有真實世界後果的行動。一個建立在未驗證Python依賴之上的代理，與任何其他軟體供應鏈攻擊具有同等的曝險面——只不過爆炸半徑可以延伸至生產系統中採取的實際行動。透過Agentic工作流程底層Python生態系統提供SLSA三級來源保證，Red Hat將企業既有的作業系統信任模型，向上延伸至AI工具鏈層。
@@ -54,7 +53,7 @@ Red Hat全新的漏洞利用智慧（Exploit Intelligence）能力，利用NVIDI
 
 ## OpenShift Dev Spaces：多助手雲端 IDE
 
-對一線開發者而言，最具即時實用價値的公告，當屬Red Hat OpenShift Dev Spaces的擴展——這是該公司基於瀏覽器、直接在OpenShift叢集上運行的雲端開發環境。
+Red Hat也擴展了OpenShift Dev Spaces——這是該公司安全、免設定的雲端開發環境。
 
 Red Hat宣布，Dev Spaces現已支援與Amazon Web Services Kiro——AWS近期推出的Agentic程式輔助工具——的整合（技術預覽版），加入既有的微軟Copilot和Claude CLI（Anthropic基於終端機的程式碼代理）整合支援。結果是一個支援組織開發者所偏好的任何AI程式輔助工具的雲端 IDE，無需離開受治理的OpenShift環境或使用個人設備。
 
@@ -85,3 +84,5 @@ Red Hat峰會的公告，落在企業AI採用從試驗轉向大規模部署的�
 Red Hat押注的是：治理需要同一套強化基礎設施、可驗證軟體來源，以及可觀測性工具的組合——這些一直是企業軟體部署的支柱，而公司數十年來為Linux和OpenShift建立這些基礎設施的經驗，自然地延伸至Agentic AI時代。
 
 「AI就緒企業已然到來」的主題演講訊息，既是宣言，也是產品公告：大規模運行企業級Agentic AI的工具套件現已存在。企業能否迅速行動、充分利用，則是另一個問題。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

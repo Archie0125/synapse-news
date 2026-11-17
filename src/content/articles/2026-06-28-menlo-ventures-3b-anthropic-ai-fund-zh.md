@@ -1,8 +1,9 @@
 ---
 title: "押注 Anthropic 回報豐厚，Menlo Ventures 完成 30 億美元史上最大募資"
-summary: "矽谷老牌創投 Menlo Ventures 宣布完成 30 億美元新基金，創下五十年來最大規模募資紀錄。這場勝利的核心，是一筆當年被許多人視為豪賭的投資——對 Anthropic 的 7.5 億美元押注，如今已增值至約 140 億美元。"
+summary: "矽谷老牌創投 Menlo Ventures 宣布完成 30 億美元新基金，創下五十年來最大規模募資紀錄。這場募資的主要推力，是對 Anthropic 的早期押注，如今持股價值約 140 億美元（據 Bloomberg 消息人士透露）。"
 category: "startups"
 publishedAt: 2026-06-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -25,7 +26,7 @@ relatedSlugs:
   - "2026-06-13-crusoe-137b-series-e-clean-energy-ai-zh"
 ---
 
-2026 年 6 月 23 日，Menlo Ventures 宣布完成 30 億美元新基金募資，創下這家矽谷老牌創投五十年來的最大紀錄。單純的數字固然亮眼，但背後的故事才是真正的主角：這場募資成功，相當程度上源自一筆當年許多人都不看好的豪賭——對 Anthropic 的集中押注。
+2026 年 6 月 23 日，Menlo Ventures 宣布完成 30 億美元新基金募資，創下這家矽谷老牌創投五十年來的最大紀錄。單純的數字固然亮眼，但背後的故事才是真正的主角：這場募資成功，相當程度上源自對 Anthropic 的早期押注。
 
 ## 一場賭上公司前途的決定
 
@@ -33,13 +34,13 @@ relatedSlugs:
 
 事後來看，這筆投資的報酬堪稱矽谷傳奇。Menlo 將其中約 5 億美元以特殊目的載具（SPV）形式打包，匯集多個有限合夥人的資金，集中投入 Anthropic 單一持倉。此後在 E 輪、F 輪又持續加碼，進一步深化了持股比例。
 
-截至 2026 年 6 月，Menlo 持有的 Anthropic 股份價值約 **140 億美元**（據 Bloomberg 消息人士透露）。Anthropic 本身估值已突破 9650 億美元，短暫超越 OpenAI，成為全球估值最高的前沿 AI 實驗室。
+截至 2026 年 6 月，Menlo 持有的 Anthropic 股份價值約 **140 億美元**（據 Bloomberg 消息人士透露）。Anthropic 本身估值為 9650 億美元，上個月超越 OpenAI，成為全球估值最高的前沿 AI 實驗室。
 
 ## 基金架構
 
 這 30 億美元分為兩支基金，涵蓋 AI 投資的完整生命週期：
 
-- **Menlo Ventures XVII**：旗艦創投基金，聚焦種子輪至 A 輪。這是 Menlo 尋找「下一個 Anthropic」的主戰場——早期布局 AI 基礎設施、開發者工具或能在十年內複利成長的新興能力。
+- **Menlo Ventures XVII**：專為種子輪至 A 輪新創預留。
 - **Menlo Inflection IV**：成長階段基金，針對已進入 B 輪及以後的公司，為快速擴張但尚未達到獲利或退出規模的企業提供資本。
 
 兩支基金相互搭配，讓 Menlo 能從創辦人第一份簡報陪伴到 IPO 前夕，無需在關鍵節點將關係移交給其他機構。
@@ -48,7 +49,7 @@ relatedSlugs:
 
 押注 Anthropic 帶來的不只是財務回報，更催生了一個全新的投資引擎。
 
-2024 年，Menlo 與 Anthropic 共同成立了 **Anthology**，一支專注於 Claude 生態系的聯合基金，初始規模 1 億美元。到 2026 年中，Anthology 累計投資金額已達約 2.5 億美元，支持超過 60 家投資組合公司。這些公司不只獲得資本，還能取得 Claude API 使用點數、與 Anthropic 領導層直接接觸，以及對產品路線圖的優先洞察。
+2024 年，Menlo 與 Anthropic 推出了 **Anthology**，這是一支規模 1 億美元的新創基金。該基金此後累計投入資金已接近 2.5 億美元，投資了 60 多家公司。這些公司不只獲得資本，還能獲得與 Anthropic 領導層接觸的機會及 Claude 使用點數等支援。
 
 早期退出案例已印證其價值：**Graphite** 被 Cursor 收購，**Astrix Security** 被 Cisco 收購。這些案例說明，Anthropic 不斷擴大的商業影響力正在為生態系公司創造真實的退場路徑，形成良性循環，使 Menlo 的入場資格同時具備財務與策略意義。
 
@@ -77,3 +78,5 @@ Menlo Ventures 的 30 億美元募資，真正展示的是 Anthropic 如何徹�
 這個軌跡不只讓 Menlo 回收了基金，更改寫了創投業的認知：早期押對一家前沿 AI 公司，究竟能帶來什麼——而整個行業都在意識到，下一家兆美元 AI 實驗室，現在正在向某人開放認購。
 
 擁有 30 億美元新彈藥的 Menlo，正在押注那個人還會是他們。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 10 處。*

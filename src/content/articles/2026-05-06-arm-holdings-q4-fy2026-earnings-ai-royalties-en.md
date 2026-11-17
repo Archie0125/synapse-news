@@ -1,8 +1,9 @@
 ---
-title: "ARM Holdings Reports Q4 FY2026 as AI Royalties Drive Stock to 84% YTD Gain"
-summary: "Arm Holdings released its fourth-quarter fiscal 2026 results on Wednesday after market close, with analysts expecting $1.47 billion in revenue — a 19% year-over-year increase — and adjusted EPS of $0.58. The report comes as ARM stock has surged 84% year-to-date on the strength of triple-digit data center royalty growth, rising adoption of ARM-based custom silicon at hyperscalers, and the company's first-ever move to build its own CPU, announced in March."
+title: "ARM Holdings Heads Into Q4 FY2026 Earnings With Stock Up 84% Year to Date"
+summary: "Arm Holdings is due to report its fourth-quarter fiscal 2026 results on Wednesday after market close, with analysts expecting $1.47 billion in revenue, a 19% year-over-year increase, and adjusted EPS of $0.58. The report comes as ARM stock is up 84% year to date, with data center royalty revenue having grown more than 100% year over year in the prior quarter and the company developing its own AGI CPU."
 category: "hardware"
 publishedAt: 2026-05-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 For most of the semiconductor industry's history, the chip IP business operated quietly in the background. Companies paid Arm Holdings a modest licensing fee, built products on its architecture, and paid royalties on units shipped — a percentage of chip revenues so small that it barely registered against the costs of silicon design, manufacturing, and packaging. That model is breaking down, and Arm's fiscal Q4 2026 earnings, released Wednesday after market close, mark the latest milestone in a dramatic reshaping of semiconductor economics.
 
-Analysts entered the report expecting $1.47 billion in quarterly revenue and adjusted EPS of $0.58 — both records for the company, representing 19% revenue growth year-over-year. But the topline numbers undersell the structural shift underneath them.
+Analysts entered the report expecting $1.47 billion in quarterly revenue, a 19% increase year-over-year, and adjusted EPS of $0.58, up from $0.55 a year earlier. But the topline numbers undersell the structural shift underneath them.
 
 ## What's Driving the Revenue Surge
 
@@ -55,9 +56,9 @@ The CSS program also gives ARM a path into markets where it previously had limit
 
 ## The CPU Ambiguity
 
-In March 2026, ARM announced that it would build its own CPU for the first time in the company's three-decade history — a chip that would compete directly with the products its customers build using ARM's architecture. The announcement created immediate tension with ARM's major licensees, some of whom questioned whether ARM was transforming from a neutral IP supplier into a competitive threat.
+Arm is making its own data center processor, the AGI CPU, for the first time in its history, a chip that positions it as a competitor to its traditional licensing customers. The announcement created immediate tension with ARM's major licensees, some of whom questioned whether ARM was transforming from a neutral IP supplier into a competitive threat.
 
-ARM's leadership has been careful to frame the CPU initiative as complementary to the licensing business rather than substituting for it. The company describes the chip as targeting specific deployment scenarios — edge AI inference, in particular — where it can demonstrate performance and power characteristics that might not otherwise be achievable using standard CSS. The goal, ARM argues, is to expand the market for ARM-based silicon, not to capture revenue that would otherwise go to licensees.
+ARM's leadership has been careful to frame the CPU initiative as complementary to the licensing business rather than substituting for it. The chip targets agentic AI and is set to deploy in servers alongside Meta's MTIA silicon, though management has said AGI CPU sales will not be material until fiscal 2028. The goal, ARM argues, is to expand the market for ARM-based silicon, not to capture revenue that would otherwise go to licensees.
 
 Wall Street has been skeptical but constructive. ARM stock's 84% YTD gain through the pre-earnings period reflects confidence that the royalty rate expansion and data center ramp more than compensate for any licensee relationship friction. How ARM characterizes the CPU initiative in Wednesday's earnings call will be closely watched.
 
@@ -70,3 +71,5 @@ For Q1 FY2027 guidance, analysts will be listening for signals on several fronts
 The larger question hanging over ARM going into Wednesday's report is whether the company can sustain its royalty rate expansion story as the industry catches up to the v9 transition and as hyperscalers complete their initial custom silicon ramps. If ARM can continue growing royalty rates through CSS adoption, new markets, and the CPU initiative, the FY2026 results may look modest in retrospect. If the rate expansion plateaus, revenue growth returns to being a function of unit volumes — a slower, less exciting story.
 
 Either way, the quarter represents the clearest picture yet of what the chip IP model looks like when AI infrastructure spending is the dominant driver of semiconductor demand.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

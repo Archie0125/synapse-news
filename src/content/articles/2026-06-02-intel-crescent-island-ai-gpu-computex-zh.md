@@ -3,6 +3,7 @@ title: "英特爾 Crescent Island：挑戰 Nvidia 資料中心霸主地位的 48
 summary: "英特爾在 2026 年 Computex 大展上公布 Crescent Island AI GPU 完整規格，這款基於 Xe3P 架構的加速卡最高可配置 480GB LPDDR5X 記憶體，以 350W 的低功耗設計搭配標準 PCIe 介面，主攻代理式 AI 推論市場。預計 2026 年下半年開始客戶取樣，英特爾正以截然不同的路線向 Nvidia 的 HBM 主導地位發起挑戰。"
 category: "hardware"
 publishedAt: 2026-06-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -34,7 +35,7 @@ relatedSlugs:
 
 ## 480GB 記憶體的不同賭法
 
-這個數字本身就夠震撼。Nvidia H100 配備 80GB HBM3，Blackwell B200 提供 192GB HBM3e；相比之下，英特爾 Crescent Island 的參考設計就配備了 160GB LPDDR5X，而其架構允許合作夥伴 OEM 廠商擴充至最高 480GB。這不只是市場上容量最大的 AI 加速卡，更代表了一種截然不同的記憶體哲學。
+這個數字本身就夠震撼。Nvidia H100 配備 80GB HBM3，Blackwell B200 提供 192GB HBM3e；相比之下，英特爾 Crescent Island 的參考設計就配備了 160GB LPDDR5X，而其架構允許合作夥伴 OEM 廠商擴充至最高 480GB。這比 AMD Instinct MI450X 標示的 432GB 與 Nvidia Vera Rubin 標示的 288GB 都要大，也反映出一種針對代理式 AI 的不同記憶體思路。
 
 HBM（高頻寬記憶體）是 AI 訓練與高密度推論的黃金標準，但它昂貴、相對耗電，供應鏈幾乎完全集中在 SK 海力士與三星手中。英特爾選用 LPDDR5X，一口氣規避了這三個問題。透過 640 位元匯流排連接 20 顆 LPDDR5X 模組，Crescent Island 的估算記憶體頻寬約為 684 GB/s——遠不及 H100 的 3.35 TB/s——但 LPDDR5X 造價更低廉、供應更充裕，且在風冷機架環境中可達到 HBM 無法企及的容量規模。
 
@@ -42,7 +43,7 @@ HBM（高頻寬記憶體）是 AI 訓練與高密度推論的黃金標準，但�
 
 ## 架構與設計抉擇
 
-Crescent Island 所搭載的 Xe3P 架構與英特爾消費端 Battlemage 顯卡同屬一個世代，但針對資料中心推論場景進行了大幅改造。它支援從 FP4（最大化 AI 推論吞吐量）到 FP64（科學運算與混合精度任務）的完整資料型別，靈活性超過部分 Nvidia 推論優化加速卡。
+Crescent Island 所搭載的 Xe3P 架構，與英特爾在 Panther Lake 和 Xe3 深入介紹中預告的是同一套繪圖架構，是 Xe3 的進一步升級版本，可從客戶端內顯一路擴展到資料中心 AI GPU。它支援從 FP4（最大化 AI 推論吞吐量）到 FP64（科學運算與混合精度任務）的完整資料型別，靈活性超過部分 Nvidia 推論優化加速卡。
 
 350W 功耗設計搭配 PCIe 擴充卡形式是深思熟慮的選擇。在 350W 的熱設計功耗下，Crescent Island 可以部署在標準風冷機架環境中，無需 H100 SXM 和 Blackwell SXM 系統所要求的昂貴液冷基礎設施。這一功耗水準接近 Nvidia RTX Pro 5000 Blackwell 工作站顯卡——這顯然是英特爾向那些因 Nvidia 頂級加速卡的極端基礎設施需求而望而卻步的企業客戶與雲端服務商發出的明確信號。
 
@@ -60,7 +61,7 @@ Crescent Island 選在 Computex 亮相的時機，精準反映了 AI 市場的�
 
 英特爾的資料中心 GPU 野心並非首次受挫。從 Habana Labs 收購而來的 Gaudi 系列，被定位為 Nvidia 的低成本替代方案，卻始終未能建立起開發者生態或取得顯著市占率。2024 年推出的 Gaudi 3 雖然在紙面規格上頗具競爭力，但未能獲得超大規模雲端業者的廣泛採用。
 
-Crescent Island 代表了不同的論述。英特爾不再試圖在 AI 訓練基準測試上追趕 Nvidia，而是以真正差異化的特性切入推論市場：同類產品中最高的記憶體容量、合理的功耗設計、標準 PCIe 形式、以及繞過 HBM 瓶頸的供應鏈。
+Crescent Island 代表了不同的論述。英特爾瞄準推論市場，推出最高 480GB 記憶體容量、兼顧功耗與成本最佳化的設計、風冷 PCIe 形式，並以 LPDDR5X 記憶體取代不易取得的 HBM。
 
 英特爾預計於 2026 年下半年啟動客戶取樣，後續擴大量產。這個時間窗口恰好對應企業 AI 推論部署開始達到真正規模之際——那些在 2024、2025 年訓練了第一批模型的組織，正在把它們推進生產環境，並切實感受到持續運行的成本壓力。
 
@@ -73,3 +74,5 @@ Nvidia 不會原地踏步。面向 2026 年第三季的 Vera Rubin 架構預計�
 如果英特爾判斷失誤——如果推論市場最終也向原始效能一邊倒——那 Crescent Island 將步 Gaudi 的後塵，成為另一款技術有趣但未能撼動 Nvidia 地位的產品。
 
 答案將在 2026 年下半年第一批客戶基準測試結果出爐時揭曉。但至少在 2026 年 Computex，英特爾終於說出了一個連貫的、差異化的故事，說明為什麼 Crescent Island 在 AI 基礎設施市場中應該舉足輕重。這一次，業界正在傾聽。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 3 處。*

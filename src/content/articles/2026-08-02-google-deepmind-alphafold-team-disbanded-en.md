@@ -3,6 +3,7 @@ title: "Google DeepMind Disbands Nobel-Winning AlphaFold Team in Pivot to Gemini
 summary: "Google DeepMind has disbanded the dedicated research team behind AlphaFold, the protein-structure prediction system that won the 2024 Nobel Prize in Chemistry. Nobel laureate John Jumper departed for Anthropic in June 2026, and co-authors Jonas Adler and Alexander Pritzel have also left the company. Remaining researchers were reassigned to Gemini, enzyme design, nuclear fusion, genomics, and Isomorphic Labs—signaling DeepMind's strategic shift away from standalone 'grand challenge' teams toward Gemini as a general-purpose AI platform."
 category: "ai-ml"
 publishedAt: 2026-08-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
   - "2026-07-17-google-gemini-35-pro-launch-en"
 ---
 
-In 2020, AlphaFold solved one of biology's hardest standing problems—predicting the three-dimensional structure of proteins from amino acid sequences alone—and changed the course of biochemical research overnight. In 2024, the work earned Google DeepMind's Demis Hassabis and team member John Jumper the Nobel Prize in Chemistry, the first time the award recognized an AI system's scientific contribution. By July 2026, the team that built it had been dismantled.
+In 2020, AlphaFold was recognized as a solution to the 50-year-old "protein folding problem": predicting the three-dimensional structure of proteins from their amino acid sequences. In 2024, the work earned Google DeepMind's Demis Hassabis and team member John Jumper the Nobel Prize in Chemistry, the first time the award recognized an AI system's scientific contribution. By July 2026, the team that built it had been dismantled.
 
 A Financial Times report published July 29–30, 2026 confirmed that DeepMind has disbanded the dedicated AlphaFold research group. The restructuring unfolded gradually over the past year, largely below public radar, but the departure of its most prominent member made the shift impossible to ignore.
 
@@ -43,17 +44,17 @@ John Jumper, the vice president and engineering fellow who shared the Nobel with
 
 Jumper's arrival at Anthropic is the latest chapter in what has become one of the most consequential talent migrations in AI history. Over the past eighteen months, Anthropic has attracted a string of senior researchers from DeepMind: Nobel-level talent, leading robotics engineers, and key figures in interpretability and alignment research. The pattern is consistent enough that it is no longer incidental—it reflects a deliberate recruiting strategy and, presumably, an environment researchers find compelling enough to leave the Nobel-Prize-winning lab that trained them.
 
-Google DeepMind declined to comment on the specific departures. In a statement to the Financial Times, it characterized the restructuring as a natural evolution, noting that AlphaFold's scientific mission had largely been achieved.
+DeepMind confirmed to the Financial Times that it moved staff members internally to Gemini-focused projects. In a statement, a DeepMind spokesperson said the company is proud of AlphaFold's scientific heritage and that many of the researchers behind it continue to drive advances across Google, Google DeepMind, and Isomorphic Labs.
 
 ## What Happened to the Rest of the Team
 
-Researchers who did not depart were redistributed across DeepMind's existing programs. The destinations tell a story about DeepMind's current strategic priorities: Gemini (the foundation model program), enzyme design, nuclear fusion (the Genie program), genomics, and Isomorphic Labs—the Alphabet spinout focused on AI-accelerated drug discovery that was seeded directly by AlphaFold's protein-prediction capabilities.
+Researchers who did not depart were redistributed across DeepMind's existing programs. The destinations point to DeepMind's current strategic priorities: Gemini, scientific projects such as enzyme design, nuclear fusion, genomics, and drug discovery, and Isomorphic Labs, the Alphabet drug-discovery company that is a DeepMind spin-off.
 
-The AlphaFold database remains fully operational. As of the disbanding, the database contains over 200 million predicted protein structures covering nearly every protein in the known proteome, freely accessible to academic researchers worldwide. The server continues to accept queries. In the most practical sense, AlphaFold's scientific output has been permanently deployed—what changed is that DeepMind no longer has a team dedicated to extending it.
+The AlphaFold database remains fully operational. The AlphaFold Protein Structure Database gives researchers free access to over 200 million protein structure predictions. The server continues to accept queries. In the most practical sense, AlphaFold's scientific output has been permanently deployed—what changed is that DeepMind no longer has a team dedicated to extending it.
 
 ## DeepMind's Strategic Bet on Gemini
 
-The disbanding reflects a broader organizational philosophy that has sharpened at DeepMind over the past two years: moving away from standalone teams dedicated to individual scientific "grand challenges"—AlphaFold, AlphaStar, WaveNet—toward a model in which Gemini serves as a general-purpose scientific intelligence platform, with specialized domain knowledge woven in rather than siloed in separate groups.
+The disbanding reflects Google putting more of its resources into Gemini; DeepMind's Pushmeet Kohli said the strategy of focusing on grand challenges over the last nine years "has evolved."
 
 The logic is defensible. AlphaFold's core insight—that protein structure prediction could be solved by a large transformer trained on sequence data—now looks like a special case of a more general principle: sufficiently large and capable foundation models can make progress on many scientific problems that previously required domain-specific architectures. If Gemini (or a derivative fine-tuned on biological data) can replicate and extend AlphaFold's capabilities while also being useful for enzyme engineering, genomics, and drug-molecule generation, then a dedicated AlphaFold group is an inefficient use of talent.
 
@@ -68,3 +69,5 @@ Anthropic now counts among its employees multiple former DeepMind principals, at
 For the broader scientific community that depends on AlphaFold, the immediate practical impact is limited: the database works, the API works, and EBI maintains the infrastructure. But the absence of a team focused on extending and improving the system means that future advances in protein AI will most likely come from academic groups, Isomorphic Labs, or new commercial entrants—not from the organization that won the Nobel Prize for inventing the field.
 
 That outcome is itself a data point about how AI research is reorganizing: tools that once defined the frontier become infrastructure, and the researchers who built them move on to the next unsolved problem—whether inside the same organization, or not.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

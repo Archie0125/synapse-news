@@ -3,6 +3,7 @@ title: "Andrej Karpathy 加入 Anthropic 領導預訓練研究，AI 頂尖人才
 summary: "OpenAI 共同創辦人、特斯拉前 AI 總監 Andrej Karpathy 於 5 月 19 日宣布加入 Anthropic 預訓練團隊，直屬 Nick Joseph 領導。他的任務是建立一支以 Claude 自身加速預訓練研究的新團隊。這次招募是 Anthropic 近年來最引人注目的人才布局，也顯示業界圍繞頂尖 AI 研究員的搶人大戰已進入白熱化階段。"
 category: "ai-ml"
 publishedAt: 2026-06-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -44,7 +45,7 @@ relatedSlugs:
 
 2022 年離開特斯拉後，Karpathy 短暫回到 OpenAI 一年，隨後在 2024 年創辦 Eureka Labs，致力於以 AI 輔助教學。他在 YouTube 上用淺顯易懂的方式講解深度學習的頻道，已成為業界最受推崇的自學資源之一。
 
-值得注意的是，他在 X 上說「我對教育依然充滿熱情，未來會繼續這方面的工作」——Eureka Labs 並沒有關閉，此次加入 Anthropic 比較像是留職停薪，而非永久轉換跑道。
+Karpathy 自 Eureka Labs 成立以來並未多談該公司的近況，外界也不清楚他是否會繼續經營這家新創公司。他說：「我對教育依然充滿熱情，並計畫在適當的時候重新投入這方面的工作。」
 
 ## 具體任務：讓 Claude 幫助訓練下一個 Claude
 
@@ -73,3 +74,5 @@ Karpathy 不是沒有選擇的人。他可以回 OpenAI，那裡有他多年深�
 Anthropic 尚未公布 Karpathy 新團隊的研究成果時程。預訓練研究的週期以年計算，今日組建的團隊訓練出的模型，要等一年以上才可能讓外界看到。
 
 但這個訊號對產業已經足夠清晰：AI 競爭正在加速向能夠自我強化研究能力的機構集中。能夠吸引願意孤注一擲投入「用 AI 訓練 AI」這個問題的頂尖研究員，是一個重要的分水嶺。Karpathy 選擇 Anthropic，不只是一則人事新聞，而是一個關於哪個實驗室正在往哪個方向走的結構性判斷。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

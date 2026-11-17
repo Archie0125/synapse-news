@@ -3,6 +3,7 @@ title: "OpenAI Launches GPT-5.5: A New Class of Autonomous AI That Plans, Codes,
 summary: "OpenAI released GPT-5.5 on April 23, its most capable agentic model yet, scoring 82.7% on Terminal-Bench 2.0 and 84.9% on the GDPval occupational benchmark. Priced at $5/$30 per million tokens, the model runs on NVIDIA GB200 NVL72 infrastructure and powers Codex for over 10,000 NVIDIA employees already."
 category: "ai-ml"
 publishedAt: 2026-04-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -67,7 +68,7 @@ OpenAI frames this as a shift toward what it calls "digital workers": AI agents 
 
 For API developers, GPT-5.5 arrives with a meaningful price increase: **$5 per million input tokens and $30 per million output tokens** — exactly double the cost of GPT-5.4's $2.50/$15 pricing. The Pro tier for heavy agentic use cases runs at $30/$180 per million tokens.
 
-OpenAI and independent benchmarking firm Artificial Analysis both note that GPT-5.5 uses approximately 40% fewer tokens on equivalent agentic tasks than its predecessor, which absorbs much of the per-token price hike in practice. The net cost increase for real-world workloads is estimated at roughly 20% — significant, but manageable for applications where output quality justifies the spend.
+Artificial Analysis notes that GPT-5.5 used about 40% fewer tokens than GPT-5.4 when running its Intelligence Index, which largely absorbs the per-token price hike. The net cost to run the Artificial Analysis Intelligence Index is roughly 20% higher than for GPT-5.4.
 
 Availability rolled out immediately to ChatGPT Plus, Pro, Business, and Enterprise subscribers on April 23. API access opened simultaneously.
 
@@ -78,3 +79,5 @@ The release resets the competitive benchmarks at the top of the frontier. Claude
 For enterprises evaluating which foundation model to build on, the volatility creates both opportunity and risk. GPT-5.5's strong agentic benchmarks make it the obvious choice for autonomous workflow automation today — but the gap between top models is narrowing, and the table may look very different in another month.
 
 What is clear is that the industry has moved past debating whether AI can handle complex tasks autonomously. The question now is which model handles them most reliably, at what cost, and with what governance controls in place. GPT-5.5 makes a compelling first-mover argument for 2026's agentic AI wave — but the competition is watching closely.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

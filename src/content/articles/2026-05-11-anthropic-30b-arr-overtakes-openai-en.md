@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Overtakes OpenAI as AI Revenue Leader with $30B Run Rate and 80x Growth"
-summary: "Anthropic has surpassed OpenAI in annualized revenue, hitting a $30 billion run rate in April 2026 after recording an extraordinary 80-fold increase in Q1. Claude Code has emerged as the fastest-growing enterprise software product in history, and the company now counts over 1,000 customers spending more than $1 million per year."
+title: "Anthropic Overtakes OpenAI on Run-Rate Revenue with $30B and 80-Fold Annualized Growth"
+summary: "Anthropic has surpassed OpenAI in annualized run-rate revenue, hitting a $30 billion run rate in April 2026 after revenue and usage grew 80-fold on an annualized basis in Q1."
 category: "ai-ml"
 publishedAt: 2026-05-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -31,21 +32,21 @@ relatedSlugs:
   - "2026-05-11-china-open-weights-coding-blitz-en"
 ---
 
-In a reversal that few predicted would happen this fast, Anthropic has overtaken OpenAI as the largest revenue-generating AI company in the world. The San Francisco-based startup quietly crossed a $30 billion annualized revenue run rate in April 2026, surpassing OpenAI's roughly $25 billion ARR to claim what is arguably the most contested throne in tech. CEO Dario Amodei described the quarter's growth as "crazy" — and the numbers back him up.
+In a notable reversal, Anthropic has overtaken OpenAI on run-rate revenue. Anthropic crossed a $30 billion annualized revenue run rate in April 2026, surpassing OpenAI's roughly $24 billion run rate, though the two companies count revenue differently. CEO Dario Amodei described the quarter's growth as "crazy" — and the numbers back him up.
 
 ## An 80x Quarter That Rewrote the Playbook
 
-Anthropic's Q1 2026 revenue growth of approximately 80 times over the prior-year period is without precedent at this scale of business. The company's revenue trajectory has been a near-vertical line: an $87 million annualized run rate in January 2024 became $1 billion by December of that year. It reached $9 billion by end of 2025, then accelerated to $14 billion in February 2026, $19 billion in March, and $30 billion in April.
+Anthropic's revenue and usage grew 80-fold in the first quarter of 2026 on an annualized basis, against a plan for 10-fold growth. The company's revenue trajectory has been a near-vertical line: an $87 million annualized run rate in January 2024 became $1 billion by December of that year. It reached $9 billion by end of 2025, then accelerated to $14 billion in February 2026, $19 billion in March, and $30 billion in April.
 
-For context, Salesforce — arguably the defining enterprise software company of the past two decades — took roughly 20 years to reach $30 billion in annual revenue. Anthropic crossed that threshold in under three years from a standing start. The growth has been so steep that even Anthropic's internal systems have struggled to keep pace, forcing the company to strike an emergency compute deal to rent capacity from SpaceX's Colossus data center in Memphis to handle demand.
+For context, Salesforce — arguably the defining enterprise software company of the past two decades — took roughly 20 years to reach $30 billion in annual revenue. Anthropic crossed that threshold in under three years from a standing start. The growth has been so steep that Anthropic's infrastructure has struggled to keep pace, leading the company to rent all of the compute capacity at Colossus 1, the Memphis data center built by Musk's xAI, now part of SpaceXAI.
 
-The milestone is also notable for what it reveals about the competitive landscape. OpenAI, which has long dominated AI mindshare and revenue, has seen its own growth rate of roughly 3.4x per year outpaced by Anthropic's near-10x annual cadence. The crossover, which analysts at Epoch AI had predicted would occur "by mid-2026," arrived ahead of schedule.
+The milestone is also notable for what it reveals about the competitive landscape. OpenAI has grown roughly 3x per year, while Anthropic's trajectory has been even steeper. The crossover arrived in April, ahead of even the most optimistic analyst assessments, which had pointed to August 2026.
 
 ## Claude Code: Software Eating Its Own Industry
 
 No single product explains Anthropic's surge more than Claude Code, the AI-native software development tool that launched publicly in mid-2025. The product has become the fastest-growing in Anthropic's history and, by most measures, one of the fastest-growing enterprise software products ever recorded.
 
-Claude Code hit $1 billion in annualized revenue within six months of its public launch — a milestone that took Salesforce eight years, Workday nine, and Snowflake five. By February 2026 it had reached $2.5 billion ARR. Since the start of 2026, weekly active users have doubled and business subscriptions have quadrupled.
+Claude Code hit $1 billion in annualized revenue within six months of its public launch — a milestone that took Salesforce eight years, Workday nine, and Snowflake five. By February 2026 it had reached $2.5 billion ARR.
 
 The scale of individual usage is equally striking. The average developer using Claude Code now spends 20 hours per week working with the tool — roughly half a standard work week. The compounding effect of that usage at enterprise scale explains the unit economics: once a development team adopts Claude Code as a primary workflow tool, churn approaches zero and expansion revenue becomes structural.
 
@@ -61,7 +62,7 @@ The velocity of enterprise adoption has been exceptional even by Anthropic's own
 
 Anthropic closed a $30 billion Series G round on February 12, 2026, at a $380 billion post-money valuation. The round was led by GIC and Coatue, with participation from D.E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX. It was, at the time, the largest venture funding round in history.
 
-It may not hold that record much longer. Reuters reported in late April that Anthropic was in early discussions for a new round that could value the company above $900 billion — a figure that would make it one of the most valuable private companies ever and place it in striking distance of a $1 trillion valuation. The implied multiple — roughly 30x forward revenue — is aggressive, but not irrational given the growth rate. At 10x annual revenue growth sustained over even two more years, a $30 billion run rate becomes $300 billion in revenue, against which a $900 billion valuation starts to look conservative.
+It may not hold that record much longer. CNBC reported that Anthropic was in talks with investors about raising cash at a valuation of $900 billion, which would make it worth more than OpenAI. The implied multiple — roughly 30x forward revenue — is aggressive, but not irrational given the growth rate. At 10x annual revenue growth sustained over even two more years, a $30 billion run rate becomes $300 billion in revenue, against which a $900 billion valuation starts to look conservative.
 
 ## The Efficiency Advantage
 
@@ -76,3 +77,5 @@ Anthropic's revenue overtaking OpenAI carries implications beyond a single compe
 It also validates a specific strategic thesis: that safety-forward AI development and commercial success are not in tension. Anthropic has long argued that building more interpretable, more steerable models is the right approach both ethically and commercially. The revenue data now offers the most powerful possible argument: it appears to be working.
 
 The question that now preoccupies both companies — and the broader AI industry — is how quickly the competitive gap can widen. OpenAI has GPT-5.5 rolling out to all ChatGPT users and its own developer tools gaining adoption. But Anthropic's enterprise flywheel, powered by Claude Code's extraordinary engagement metrics, shows no signs of slowing. For the first time since OpenAI launched ChatGPT in late 2022, it faces a competitor that is not just catching up — but pulling ahead.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

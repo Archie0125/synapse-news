@@ -3,6 +3,7 @@ title: "AI 程式工程師 Devin 推手 Cognition 洽談以 250 億美元估值�
 summary: "自主 AI 軟體工程師 Devin 的開發公司 Cognition AI，正在進行早期融資洽談，目標估值 250 億美元，相比 2025 年 9 月的 102 億美元超過翻倍。合併 Windsurf 後，公司的合計年化營收已達約 1.5 億美元，客戶涵蓋高盛、花旗、Palantir 等大型企業。"
 category: "startups"
 publishedAt: 2026-04-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-04-20-app-store-vibe-coding-surge-zh"
 ---
 
-自主 AI 軟體工程師 Devin 的背後公司 Cognition AI，正在進行早期融資洽談，據知情人士透露，目標估值約 250 億美元。這個數字比 Cognition 在 2025 年 9 月完成的 4 億美元融資輪（由 Founders Fund 領投，Lux Capital、8VC、Elad Gil、Definition Capital 和 Swish Ventures 跟投）所確立的 102 億美元估值，提升了逾 2.4 倍。此次新輪預計募資數億美元，但具體條款仍在磋商中，最終結果可能有所調整。
+自主 AI 軟體工程師 Devin 的背後公司 Cognition AI，正在進行早期融資洽談，據知情人士透露，目標估值約 250 億美元。這個目標估值將比 Cognition 上一輪融資所確立的 102 億美元估值翻倍有餘；該輪為 9 月完成的 4 億美元融資，由 Founders Fund 領投，Lux Capital、8VC、Elad Gil、Definition Capital 和 Swish Ventures 跟投。此次新輪預計募資數億美元，但具體條款仍在磋商中，最終結果可能有所調整。
 
 估值的大幅躍升，折射出 Cognition 驚人的年化營收增速，也折射出市場為「可信地解決企業規模自主軟體開發問題」的公司所給出的超高溢價。
 
@@ -70,3 +71,5 @@ Cognition 在資本效率上同樣相當自律。儘管營收規模可觀，公�
 這個論題是否能夠兌現，是 2026 年 AI 企業投資的核心問題。早期證據——Cognition 的 ARR 軌跡、Cursor 的用戶增速，以及大型企業簽署數百萬美元 AI 程式設計合約的速度——表明需求是真實存在的。尚待確認的是持久性：早期進入者的優勢，能否隨著代理在客戶特定數據上的持續迭代而形成複利效應？還是 Anthropic、OpenAI 或某個尚未浮出水面的競爭者的新一代模型，終將把任務執行層商品化並暴露現有玩家的脆弱？
 
 眼下，投資者顯然願意為這種不確定性所要求的溢價買單。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

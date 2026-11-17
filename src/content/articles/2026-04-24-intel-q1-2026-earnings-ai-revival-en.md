@@ -1,8 +1,9 @@
 ---
 title: "Intel Surges 20% After Historic Earnings Beat: The CPU Is Back at the Center of AI"
-summary: "Intel reported Q1 2026 revenue of $13.58 billion, crushing analyst estimates of $12.42 billion, as data center revenue soared 22% to $5.1 billion. CEO Lip-Bu Tan declared the CPU 'indispensable' to the AI era, marking Intel's sixth consecutive quarter beating its own forecasts and sending shares up 20% after hours."
+summary: "Intel reported Q1 2026 revenue of $13.6 billion, crushing analyst estimates of $12.42 billion, as data center and AI revenue rose 22% to $5.1 billion. CEO Lip-Bu Tan called the CPU 'indispensable' to the AI era, and Intel marked its sixth consecutive quarter beating its own forecasts, with shares jumping about 20% after hours."
 category: "hardware"
 publishedAt: 2026-04-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
 
 A year ago, Intel looked like a company in managed decline. On Thursday evening, CEO Lip-Bu Tan delivered a very different message: the world's most storied chipmaker is back, and it is planting its flag at the center of the artificial intelligence revolution.
 
-Intel reported first-quarter 2026 revenue of $13.58 billion, smashing analyst estimates of $12.42 billion by nearly $1.2 billion. Adjusted earnings per share came in at $0.29 — against a consensus expectation of just $0.01. The stock jumped more than 20% in after-hours trading, pushing shares to all-time highs. For the year, Intel is now up more than 80%.
+Intel reported first-quarter 2026 revenue of $13.6 billion, beating analyst estimates of $12.42 billion by 9.4%. Adjusted earnings per share came in at $0.29 — against a consensus expectation of just $0.01. The stock jumped roughly 20% in after-hours trading, with one report saying it topped its all-time high. For the year, Intel is now up more than 80%.
 
-It was the sixth consecutive quarter in which Intel exceeded its own financial forecasts — a streak that, under a company that nearly imploded just 18 months ago, carries real symbolic weight.
+It was the sixth consecutive quarter in which Intel exceeded its own financial forecasts.
 
 ## Data Center Drives the Turnaround
 
@@ -40,19 +41,17 @@ The headline number that most impressed Wall Street was Intel's data center segm
 
 For the past three years, the dominant narrative in AI computing has been GPU supremacy. Nvidia's H100 and H200 dominated headlines while Intel's Xeon processors were largely sidelined in AI build-out discussions. What has changed is the nature of the workloads. While training large models still demands GPU clusters, the inference and orchestration workloads that make up the vast majority of production AI deployments are increasingly landing on CPUs — particularly for retrieval-augmented generation (RAG), real-time reasoning pipelines, and agentic workloads that require low-latency, highly parallelizable compute at modest batch sizes.
 
-Lip-Bu Tan put it plainly on the earnings call: "The CPU is reinserting itself as the indispensable foundation of the AI era."
-
 ## Returning to Intel's Roots
 
 Tan, who took the CEO role just over a year ago following the troubled tenure of Pat Gelsinger, has refocused Intel on what made it dominant in the first place: engineering rigor and data-driven decision-making. His message to analysts echoed a phrase from Intel's founding culture.
 
-"We are embracing our roots as data driven, paranoid, and engineering driven," Tan said, invoking the spirit of Andy Grove's famous maxim that "only the paranoid survive." Under Tan's leadership, Intel has streamlined its product roadmap, accelerated its foundry ambitions, and made aggressive use of Intel's manufacturing process improvements to close the gap with TSMC on leading-edge nodes.
+"We are embracing our roots as data driven, paranoid, and engineering driven," Tan said, invoking the spirit of Andy Grove's famous maxim that "only the paranoid survive."
 
 The foundry business, long seen as Intel's riskiest bet, also showed improvement in Q1. While it remains a drag on margins, the trajectory has shifted from deteriorating to stabilizing — a signal to investors that Tan's multi-year turnaround thesis is advancing on schedule.
 
 ## Q2 Guidance Eclipses Expectations
 
-Perhaps more striking than the Q1 beat was the guidance Intel issued for Q2 2026. The company projected revenue of $13.8 billion to $14.8 billion and adjusted EPS of $0.20 — well above analyst forecasts of $13.07 billion in revenue and $0.09 EPS. The midpoint of the revenue range represents another quarter of year-over-year growth, and if Intel executes, it would suggest the company is entering a sustainable growth trajectory rather than a one-quarter anomaly.
+Perhaps more striking than the Q1 beat was the guidance Intel issued for Q2 2026. The midpoint of the revenue range represents another quarter of year-over-year growth, and if Intel executes, it would suggest the company is entering a sustainable growth trajectory rather than a one-quarter anomaly.
 
 The guidance reflects Intel's confidence in continued data center expansion, as cloud providers push more inference workloads into their CPU-heavy server fleets, and as enterprises scale agentic AI deployments that lean on Intel's Xeon ecosystem for orchestration layers.
 
@@ -72,6 +71,8 @@ The common thread is the sustained and accelerating capital expenditure from hyp
 
 ## What's Next
 
-Intel's next major catalyst will be the commercial ramp of its Intel 18A process node, which is expected to begin production in the second half of 2026. If Intel 18A delivers on its promised performance and power characteristics, it could mark the first time since 2016 that Intel has a leading-edge node that competes head-to-head with TSMC on specifications. A successful 18A ramp would also validate the external foundry model Tan has been building — potentially attracting major fabless customers who have been watching carefully before committing.
+If Intel 18A delivers on its promised performance and power characteristics, it could mark the first time since 2016 that Intel has a leading-edge node that competes head-to-head with TSMC on specifications. A successful 18A ramp would also validate the external foundry model Tan has been building — potentially attracting major fabless customers who have been watching carefully before committing.
 
 For an industry that had largely written Intel's manufacturing ambitions off as wishful thinking, even a partial success on 18A would be a significant inflection point. Thursday's earnings suggest the company, and its investors, are beginning to believe.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

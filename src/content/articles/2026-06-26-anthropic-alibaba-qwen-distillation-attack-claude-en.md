@@ -1,8 +1,9 @@
 ---
-title: "Anthropic Accuses Alibaba's Qwen Lab of History's Largest AI Distillation Attack"
-summary: "Anthropic formally notified the White House and U.S. senators that Alibaba's Qwen AI lab deployed 25,000 fraudulent accounts to run nearly 29 million unauthorized Claude conversations over six weeks, targeting the software engineering and agentic reasoning capabilities of its Mythos Preview models. The campaign dwarfs all previous known distillation attacks combined, and has already prompted bipartisan legislation to sanction Chinese firms caught stealing U.S. AI model outputs."
+title: "Anthropic Accuses Alibaba's Qwen Lab of Largest Distillation Campaign Yet Against a US AI Company"
+summary: "Anthropic told the White House and U.S. senators that operators linked to Alibaba's Qwen AI lab used about 25,000 fraudulent accounts for nearly 29 million exchanges with Claude, targeting software engineering and agentic reasoning. The campaign exceeded the combined volume of three earlier Chinese campaigns, and two senators plan to introduce an amendment to sanction Chinese firms improperly accessing U.S. AI model output."
 category: "ai-ml"
 publishedAt: 2026-06-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-06-22-freefable-400-experts-challenge-us-fable-mythos-ban-en"
 ---
 
-The U.S.-China AI competition entered dangerous new territory this week when Anthropic formally accused Alibaba's specialized Qwen AI laboratory of orchestrating the largest known attack on any frontier AI model in history. In letters sent to White House officials and U.S. senators, the company described a meticulously coordinated campaign that ran nearly 29 million unauthorized Claude conversations through roughly 25,000 fraudulent accounts over six weeks—all aimed at stealing the cognitive architecture of its most advanced models before export controls could make such access impossible.
+Anthropic accused Alibaba's Qwen AI laboratory of waging the largest distillation campaign yet against a US AI company. In a letter to White House officials and U.S. senators, the company described nearly 29 million exchanges with Claude through roughly 25,000 fraudulent accounts between April and June, targeting software engineering and agentic reasoning.
 
-The allegations mark the first time Anthropic has publicly identified a Chinese technology giant, rather than a smaller AI startup, as the mastermind of a distillation attack. The escalation has rattled Washington and sent a bipartisan pair of senators rushing to draft emergency sanction legislation.
+The allegations mark the first time Anthropic has publicly identified a Chinese technology giant, rather than a smaller AI startup, as the mastermind of a distillation attack. The escalation has drawn attention in Washington, where Senators Bill Hagerty and Andy Kim plan to introduce an amendment to must-pass defense legislation that would blacklist or sanction Chinese firms found to be improperly accessing US AI model output.
 
 ## The Anatomy of a Distillation Attack
 
@@ -56,13 +57,13 @@ Alibaba's Qwen team has rapidly emerged as one of China's most formidable AI res
 
 Anthropic's letter frames the distillation campaign as a deliberate competitive strategy rather than opportunistic data theft. Rather than investing the years and tens of billions of dollars required to train a frontier model from scratch on legally obtained data, the alleged operation attempted to harvest Anthropic's research investment by turning its own commercial product against it.
 
-Alibaba declined to comment on the allegations when contacted by reporters.
+Alibaba had no comment on the allegations.
 
 ## Defying the White House
 
 The timing of the alleged campaign makes the provocation particularly pointed. In April 2026, OSTP Director Michael Kratsios published a government memo formally identifying AI model distillation as a national security threat and committing the White House to share intelligence with U.S. AI labs about foreign distillation campaigns.
 
-Anthropic's letter told officials that the Alibaba operation unfolded in the weeks after that memo was published—and continued until early June. "This campaign occurred in defiance of the administration's warnings," the company wrote, framing the activity not merely as a terms-of-service violation but as a calculated geopolitical provocation against an explicit White House policy statement.
+Anthropic's letter told officials that the Alibaba operation unfolded in the weeks after that memo was published—and continued until early June. Anthropic said the campaign took place after the memo, in defiance of the administration's warnings.
 
 ## Three Demands, One Escalation
 
@@ -72,11 +73,11 @@ First, Anthropic called for antitrust guidance that would explicitly allow U.S. 
 
 Second, the company renewed its push for continued and expanded export controls on advanced AI chips. The implicit argument: hardware restrictions alone are insufficient if Chinese labs can extract the functional intelligence of frontier models through API interactions, but they remain a necessary layer of defense that must be sustained.
 
-Third, and most aggressively, Anthropic called for direct financial and legal penalties against any firm caught using distillation to extract capabilities from U.S. AI systems—framing the technique as IP theft even when it exploits intentionally public-facing products. This ask is new territory: it would effectively criminalize a machine-learning technique when applied to U.S. systems by adversary-linked actors.
+Third, Anthropic called for penalties against firms that use the technique. This ask is new territory: it would effectively criminalize a machine-learning technique when applied to U.S. systems by adversary-linked actors.
 
 ## Bipartisan Response
 
-The legislative reaction was unusually swift. Senators Bill Hagerty (R-TN) and Andy Kim (D-NJ) jointly announced plans to introduce amendments to defense authorization legislation that would "blacklist or sanction any Chinese firm found to be improperly accessing US AI model output." The bipartisan framing is notable: AI security has become one of Washington's rare areas of genuine cross-party agreement, cutting through the partisan gridlock that stalls most tech regulation.
+The legislative reaction was unusually swift. Senators Bill Hagerty and Andy Kim plan to introduce an amendment to must-pass defense legislation that would blacklist or sanction any Chinese firm found to be improperly accessing US AI model output." The bipartisan framing is notable: AI security has become one of Washington's rare areas of genuine cross-party agreement, cutting through the partisan gridlock that stalls most tech regulation.
 
 The proposed mechanism would go beyond existing export controls. Rather than simply restricting hardware access, it would create a punitive legal framework targeting the extraction of model intelligence itself—an acknowledgment that the front line of the AI race has moved from silicon to software.
 
@@ -87,3 +88,5 @@ The Alibaba episode illustrates a structural vulnerability in the economics of f
 If large-scale distillation campaigns can meaningfully close the capability gap between frontier U.S. models and Chinese competitors, the fundamental premise of AI export controls—that hardware scarcity translates into durable model capability advantages—becomes shakier. Anthropic's letter is, in part, a warning that the arithmetic of the AI competition is changing in ways that existing policy frameworks were not designed to handle.
 
 The company is asking Washington to catch up before the gap closes entirely.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

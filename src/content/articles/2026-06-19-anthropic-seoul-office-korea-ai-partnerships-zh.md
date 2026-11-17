@@ -1,8 +1,9 @@
 ---
 title: "Anthropic 首爾辦公室正式開幕，NAVER、三星、LG、Nexon 同步宣布導入 Claude"
-summary: "Anthropic 於 6 月 17 日在首爾正式成立第三座亞太辦公室，同步宣布與韓國六大科技龍頭展開企業部署合作。此次擴張發生在 Fable 5 出口禁令風波期間，堪稱 AI 產業史上最特殊的辦公室開幕場景之一。"
+summary: "Anthropic 成立首爾辦公室，同步宣布與韓國多家大型企業展開企業部署合作。此次擴張發生在 Fable 5 出口禁令爭議期間。"
 category: "industry"
 publishedAt: 2026-06-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-06-18-anthropic-965b-valuation-overtakes-openai-zh"
 ---
 
-在旗艦模型遭禁止外國用戶存取僅六天後便舉行辦公室開幕典禮——這樣的場景，在企業史上恐怕難得一見。然而，這正是 Anthropic 於 6 月 17 日在首爾所面對的現實，而公司仍決定如期舉行，並同步公布規模可觀的韓國企業合作名單，已充分說明了 AI 市場在南韓究竟扎根有多深。
+Anthropic 開設首爾辦公室，並同步公布韓國大型企業的部署合作名單，而此次擴張正值 Fable 5 出口禁令爭議期間，已充分說明了 AI 市場在南韓究竟扎根有多深。
 
-Anthropic 首爾辦公室是其繼東京、班加羅爾之後的第三座亞太據點，也是全球第九座辦公室。辦公室由前 Snowflake 韓國總經理崔基榮（KiYoung Choi）擔任代表理事主持。隨著辦公室開幕，Anthropic 同步宣布了橫跨企業、學研、政府與開發者生態的多項合作。
+Anthropic 首爾辦公室是其繼東京、班加羅爾之後的第三座亞太據點，也是全球第九座辦公室。辦公室由崔基榮（KiYoung Choi）擔任代表理事主持，他曾在 Google Cloud、Microsoft Korea、Adobe 及 Snowflake 擔任領導職務。隨著辦公室開幕，Anthropic 同步宣布了橫跨企業、學研、政府與開發者生態的多項合作。
 
 ## 企業部署的驚人規模
 
@@ -44,7 +45,7 @@ Nexon——MapleStory 和 FIFA Online 的創作者、韓國最大遊戲公司之
 
 ## 政府與學術合作
 
-在企業合作之外，Anthropic 與韓國科學技術資訊通訊部（Ministry of Science and ICT）簽署合作備忘錄（MOU），範圍涵蓋韓語模型安全評估與網路威脅情資交換，並將向隸屬「國家 AI 研究院」聯合體的六十名研究人員提供 Claude 存取權，合作單位包括 KAIST、高麗大學、延世大學和浦項工科大學（POSTECH），研究方向涵蓋 AI 安全、模型評估、對齊與魯棒性。
+在企業合作之外，Anthropic 與韓國科學技術資訊通訊部（Ministry of Science and ICT）簽署合作備忘錄（MOU），範圍涵蓋韓語模型安全評估與網路威脅情資交換。另外，Anthropic 將向隸屬「國家 AI 研究院」聯合體的最多 60 名研究人員提供 Claude 存取權，該聯合體包括 KAIST、高麗大學、延世大學和浦項工科大學（POSTECH），支援 AI 安全、模型評估、對齊、魯棒性及更廣泛的前沿 AI 研究。
 
 這份政府層級的 MOU 具有特殊意義：在 Glasswing 計畫中，三星電子、SK 海力士等韓國企業的存取權已因 6 月 12 日的出口管制而遭到撤銷。新的雙邊協議，看來是為了建立一個正式的政府層級渠道，讓模型存取與安全研究不再依附於過去引發爭議的非正式計畫架構。
 
@@ -52,7 +53,7 @@ Nexon——MapleStory 和 FIFA Online 的創作者、韓國最大遊戲公司之
 
 ## 最詭異的開幕背景
 
-這場開幕典禮，籠罩在 Fable 5 與 Mythos 5 存取禁令的陰影之下。Anthropic 國際業務總監 Chris Ciauri 在現場直接回應了這個問題，表示「非常有信心」兩款模型將在「未來幾天內恢復」，並強調首爾辦公室的開幕代表 Anthropic 對韓國市場的長期承諾，不會因短期干擾而動搖。
+這場開幕典禮，籠罩在 Fable 5 與 Mythos 5 存取禁令的陰影之下。Anthropic 國際業務總監 Chris Ciauri 在開幕典禮上致詞，但當被問及出口管制與存取禁令時，公司高層拒絕置評。
 
 目前，韓國企業導入的是 Claude 3 系列舊版模型——Fable 5 和 Mythos 5 之前的世代。一旦出口管制解除，這些部署將可立即升級至最新旗艦模型。
 
@@ -60,16 +61,18 @@ Nexon——MapleStory 和 FIFA Online 的創作者、韓國最大遊戲公司之
 
 ## 開發者生態佈局
 
-除企業與政府外，Anthropic 在韓國啟動 Claude for Startups 計畫，與 BASS Ventures 攜手觸及早期階段的韓國 AI 新創。公司還聯合 Replit 和韓國投資夥伴共同舉辦 Claude Build Day 與 Push to Prod 黑客松，顯示其意圖培育開發者生態，而非只依賴由上而下的企業銷售。
+除企業與政府外，Anthropic 表示 Claude for Startups 已在韓國上線，且自 2025 年 9 月以來，Claude Meetups 已吸引數百名韓國開發者參與。公司已與 BASS Ventures 共同舉辦 Claude Build Day，並將與 Replit、Korea Investment Partners 及 Korea Investment Accelerator 共同舉辦 Push to Prod 黑客松，顯示其意圖培育開發者生態，而非只依賴由上而下的企業銷售。
 
 這些以開發者為核心的活動，在首爾快速成長的 AI 新創圈中引起相當大的迴響——Claude 因其長上下文視窗與指令遵循能力，已成為當地許多推理密集型應用的首選模型。
 
 ## 對整個地區的意義
 
-Anthropic 以六家大型企業部署、一份政府 MOU、一個頂尖大學研究合作計畫，同步登陸韓國，這不是標準的辦公室開幕劇本。它反映的是一家公司在幕後深耕韓國關係許久，並選擇首爾辦公室開幕作為集中引爆的時刻。
+Anthropic 以多家大型企業部署、一份政府 MOU、一項與大學聯合體的研究合作計畫，同步登陸韓國，這不是標準的辦公室開幕劇本。它反映的是一家公司在幕後深耕韓國關係許久，並選擇首爾辦公室開幕作為集中引爆的時刻。
 
 南韓是少數幾個同時具備大規模部署基礎模型的技術實力，以及在半導體、顯示器和硬體領域足以影響 AI 基礎設施的製造重量級的國家。韓國主要企業同時扮演著潛在客戶、研究夥伴，以及 Anthropic 所仰賴的全球晶片供應鏈一環。
 
 對 Anthropic 的競爭對手來說，這次韓國市場攻勢是一個需要正視的競爭訊號。Google DeepMind、OpenAI 和微軟都早已在韓國活躍，但 Anthropic 這次同步宣布的大規模合作，顯示其執行的是一套精心協調的市場進入策略，而非見機行事的機會主義。
 
 辦公室在 Anthropic 最強模型遭禁的背景下開幕，卻帶著這麼多合作夥伴一起登場——這是雙方對長期關係走向最清晰的表態。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 8 處。*

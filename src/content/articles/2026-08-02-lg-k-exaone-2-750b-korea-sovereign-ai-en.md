@@ -3,6 +3,7 @@ title: "Korea's Biggest AI Bet: LG Releases K-EXAONE 2.0, a 750B Open-Source Mod
 summary: "LG AI Research has released K-EXAONE 2.0, a 750-billion-parameter Mixture-of-Experts model and the largest AI foundation model ever built in South Korea. Developed under the national Sovereign AI Foundation Model Project and released under the permissive Apache 2.0 license, the model scores 70.1 across 24 benchmarks and outperforms rivals on long-context and multilingual tasks—arriving days after a competing 700B Korean model to set off what analysts call an 'AI elimination round' among Korean tech giants."
 category: "ai-ml"
 publishedAt: 2026-08-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -44,7 +45,7 @@ Language support covers 10 languages including Korean, English, Japanese, and Ch
 
 LG evaluated K-EXAONE 2.0 across 24 standardized benchmarks, achieving an average score of 70.1—more than 10 percent higher than its predecessor K-EXAONE 1.0 (63.3). More meaningful than the headline number are the specific domains where the model excels.
 
-**Long-context understanding** is the model's clearest strength. K-EXAONE 2.0 scored 94.4 on OpenAI-MRCR (multi-hop reading comprehension with retrieval) and 89.6 on Ko-LongBench, which evaluates long-document understanding in Korean. For comparison, GLM-5.1—a strong Chinese open-source competitor—scored 71.5 and 83.6 respectively on the same benchmarks. Across the long-context suite (OpenAI-MRCR, AA-LCR, and Ko-LongBench), K-EXAONE 2.0 averaged more than 10 percent above GLM-5.1.
+**Long-context understanding** is the model's clearest strength. K-EXAONE 2.0 scored 94.4 on OpenAI-MRCR, which measures long-context comprehension in English, and 89.6 on Ko-LongBench, a Korean-language long-context benchmark. For comparison, GLM-5.1—a strong Chinese open-source competitor—scored 71.5 and 83.6 respectively on the same benchmarks. Across the long-context suite (OpenAI-MRCR, AA-LCR, and Ko-LongBench), K-EXAONE 2.0 averaged more than 10 percent above GLM-5.1.
 
 **Coding and agentic-coding benchmarks** improved by approximately 30 percent compared to the first K-EXAONE generation—a significant jump in an area that has become decisive for enterprise adoption. Organizations deploying AI for software development workflows care deeply about code generation quality, and a 30 percent relative improvement is the kind of number that drives procurement decisions.
 
@@ -73,3 +74,5 @@ K-EXAONE 2.0's best case is carving out a position as the preferred model for Ko
 For developers building Korean-language applications, K-EXAONE 2.0's Apache 2.0 release means no licensing friction for commercial deployment. Combined with the long-context strengths, it is an immediately viable option for Korean enterprise use cases that today rely on API calls to U.S. frontier models.
 
 The model weights are available on Hugging Face at LGAI-EXAONE/K-EXAONE-2.0-750B-A37B.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

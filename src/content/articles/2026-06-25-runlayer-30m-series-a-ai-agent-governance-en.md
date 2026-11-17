@@ -1,8 +1,9 @@
 ---
 title: "Runlayer Raises $30M to Govern the Enterprise AI Agent Workforce"
-summary: "Runlayer has closed a $30 million Series A led by Felicis, with Khosla Ventures co-investing—and Vinod Khosla reportedly wanted 'every available dollar' of the round. The enterprise AI governance platform helps companies manage, audit, and control AI agents deployed at scale, with customers including Instacart, Gusto, and dbt Labs. As Gartner projects 40% of enterprise apps will include AI agents by end of 2026, Runlayer is betting that governance infrastructure is the next SaaS category."
+summary: "Runlayer has raised a $30 million Series A led by Felicis, with Khosla Ventures participating, and Khosla Ventures' Jon Chu said he and Vinod Khosla wanted to buy 'every available dollar' of the round. The platform helps companies control and monitor AI agents, with customers including Instacart, Gusto, and dbt Labs. Gartner projects 40% of enterprise apps will include AI agents by the end of 2026."
 category: "startups"
 publishedAt: 2026-06-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-06-04-openai-codex-sites-role-plugins-enterprise-en"
 ---
 
-When Vinod Khosla heard that Runlayer was raising a Series A, his response was unambiguous: he wanted "every available dollar" of the round. Felicis preempted the deal, moving quickly enough to close before other firms could propose terms. The result, announced June 24, 2026, is a **$30 million Series A** led by Felicis, with Khosla Ventures co-investing—bringing Runlayer's total capital raised to **$42 million**. The company's pitch: enterprises are deploying AI agents everywhere and have almost no visibility into what those agents are doing.
+When Vinod Khosla heard that Runlayer was raising a Series A, his response was unambiguous: he wanted "every available dollar" of the round. Felicis preempted the deal, moving quickly enough to close before other firms could propose terms. The result, announced June 24, 2026, is a **$30 million Series A** led by Felicis, with Khosla Ventures co-investing—bringing Runlayer's total capital raised to **$42 million**. The company's pitch: enterprises are deploying AI agents everywhere, but no one has a reliable way to see what those agents are doing.
 
 That visibility gap, it turns out, is now worth a lot of money to close.
 
@@ -42,7 +43,7 @@ Going rogue does not require dramatic, science-fiction-style behavior. It can be
 
 The problem is not that these agents are malicious. It is that **enterprises currently have no reliable way to audit what agents accessed, monitor what they decided, or revoke access in real time**. When dozens of agents are running simultaneously across a company—each with different permissions, different tool integrations, different model versions—the observability stack that works for human employees and traditional software systems breaks down entirely.
 
-Runlayer's platform attacks this problem with three interlocking layers: **enablement** (giving employees a structured way to delegate tasks to agents), **control** (defining and enforcing what tools and data those agents can access), and **audit** (logging every agent action in a tamper-evident, compliance-ready format). The company describes this as a "golden path for delegation"—a structured workflow that makes AI adoption feel safe rather than chaotic.
+Runlayer's platform attacks this problem by building AI enablement and control into one platform, giving employees a sanctioned "golden path" to delegate work to agents, with identity, permissions, policy enforcement, audit logs, and real-time visibility tied to every action. The company describes this as a "golden path for delegation"—a structured workflow that makes AI adoption feel safe rather than chaotic.
 
 ## The Customer Roster
 
@@ -60,16 +61,18 @@ Gartner's projection that 40% of enterprise applications will include AI agents 
 
 ## The Emerging Governance Category
 
-Runlayer is not the only company addressing this problem. Competitors include established security vendors adding agent monitoring modules, observability platforms like Datadog and Dynatrace extending their products to cover AI agent telemetry, and a cluster of funded startups including Galileo, Arize AI, and TruEra that have pivoted toward agentic evaluation and monitoring.
+Runlayer is not the only company addressing this problem. Runlayer is not the only company addressing this problem: Wiz, Palo Alto Networks, and Okta are all building agent governance capabilities.
 
-What distinguishes Runlayer's positioning is the emphasis on **employee-facing delegation** rather than purely backend logging. Where most observability tools are built for security engineers and platform teams, Runlayer's interface is designed for the employee who wants to hand off a task to an agent—giving them structured controls over scope, access, and escalation without requiring them to understand the underlying infrastructure.
+What distinguishes Runlayer's positioning is the emphasis on **employee-facing delegation** rather than purely backend logging. What distinguishes Runlayer's positioning, according to its backers, is that it is a neutral, cross-provider control layer, and it also gives employees a pre-approved way to use AI tools while IT and security teams get a single dashboard.
 
 This UX-first approach is a calculated bet about where the enterprise bottleneck actually sits. The constraint on AI agent adoption in most large organizations is not the absence of backend monitoring tools; it is that line-of-business employees do not trust themselves to define the right guardrails for agents operating in their domain. Runlayer's "golden path" is designed to abstract that complexity into a guided workflow.
 
 ## What the $30 Million Buys
 
-With $42 million in total capital, Runlayer's near-term priorities are accelerating enterprise sales, expanding integrations with the major agentic frameworks (OpenAI Codex, Anthropic Claude, Microsoft Copilot Studio, and Salesforce Agentforce), and building out the compliance certification stack—SOC 2 Type II is the near-term target, with FedRAMP in view for government customers.
+With $42 million in total capital, Runlayer says the funding will go toward expanding its engineering and go-to-market teams.
 
 The company is also investing in what it calls "agent identity"—a framework for issuing cryptographically verifiable credentials to AI agents, so that downstream systems can reliably distinguish human-initiated actions from agent-initiated ones. This capability will become increasingly important as agents begin operating across organizational boundaries—purchasing from suppliers, communicating with regulators, or coordinating with partner company systems.
 
 The venture funding validates a broader thesis: the enterprise AI boom is generating not just application-layer opportunities but an entirely new category of infrastructure demand. Just as the cloud era created a market for cloud security, observability, and governance tools worth tens of billions of dollars, the agent era is likely to create a comparable layer. Runlayer, with Khosla's enthusiasm and Felicis's capital behind it, is one of the early bets on where that market lands.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

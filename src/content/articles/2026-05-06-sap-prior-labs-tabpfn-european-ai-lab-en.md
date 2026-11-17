@@ -1,8 +1,9 @@
 ---
-title: "SAP Acquires Prior Labs to Build Europe's Premier Frontier AI Lab for Structured Data"
+title: "SAP Acquires Prior Labs to Expand AI Capabilities for Structured Data"
 summary: "SAP has signed a definitive agreement to acquire German AI startup Prior Labs, pledging over €1 billion in investment to establish it as a globally leading frontier AI lab focused on tabular and structured business data. Prior Labs, founded by machine learning researcher Frank Hutter and colleagues, pioneered Tabular Foundation Models — including the TabPFN series published in Nature — which predict business outcomes directly from structured data without traditional ML engineering."
 category: "startups"
 publishedAt: 2026-05-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-04-22-salesforce-headless-360-tdx-2026-en"
 ---
 
-SAP's acquisition playbook has historically been about market extension — buying Concur for travel expenses, Qualtrics for experience management, Ariba for procurement. The purchase of Prior Labs, announced Monday alongside a simultaneous deal for open-source data platform Dremio, signals a fundamentally different ambition: SAP wants to build its own frontier AI research capability, and it wants to do it in Europe.
+SAP's acquisition playbook has historically been about market extension — buying Concur for travel expenses, Qualtrics for experience management, Ariba for procurement. The purchase of Prior Labs, announced Monday alongside a simultaneous deal for open-source data platform Dremio, signals a fundamentally different ambition: SAP is investing in AI data capabilities through the Prior Labs deal.
 
-The deal, terms of which were not disclosed, comes with a commitment that is unusual for a software-industry acquisition: SAP will invest more than €1 billion over four years to scale Prior Labs into what the company calls "a globally leading frontier AI lab for the structured data that runs the world's businesses."
+The deal, terms of which were not disclosed, comes with a sizable commitment: SAP has committed $1.17 billion over the next four years to help scale Prior Labs.
 
 ## What Prior Labs Does
 
@@ -50,11 +51,11 @@ For SAP — whose customer base runs global enterprises on structured data SAP s
 
 ## Dremio: The Other Half of SAP's Double Play
 
-The simultaneous acquisition of Dremio adds an important data access layer to SAP's AI ambitions. Dremio is an open-source data lakehouse query engine — technology that lets analysts and AI applications run SQL queries across data lakes, data warehouses, and disparate data stores without physically moving or copying data.
+The simultaneous acquisition of Dremio adds an important data access layer to SAP's AI ambitions. Dremio provides a data lakehouse platform optimized for open source Apache Iceberg tables, technology that lets users access data across platforms without physically moving or copying it.
 
 Together, the two acquisitions address a common enterprise AI failure mode: models trained or fine-tuned on data that doesn't reflect the full breadth of an organization's information. Dremio helps SAP customers make more data accessible for AI use; Prior Labs' technology helps SAP build models that work effectively on that data.
 
-SAP CEO Christian Klein positioned the dual acquisitions as cornerstones of the company's AI transformation narrative. "As enterprise data workloads evolve to become enablers of AI, we need the full stack," Klein said at a press briefing Monday. "Data access without intelligence is incomplete. Intelligence without data access is incomplete."
+"Data access without intelligence is incomplete. Intelligence without data access is incomplete."
 
 ## A European AI Lab Strategy
 
@@ -71,3 +72,5 @@ The acquisition is expected to close in Q2 or Q3 of 2026, subject to regulatory 
 For the enterprise software industry, the deal may signal a broader pattern. If structured tabular data represents a meaningful frontier in AI capability — and the evidence from TabPFN's benchmark performance and adoption suggests it does — then the companies best positioned to benefit are those that already sit at the center of enterprise structured data flows: SAP, Oracle, Salesforce, Microsoft's Dynamics division.
 
 The race to turn rows and columns into actionable intelligence has barely started.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

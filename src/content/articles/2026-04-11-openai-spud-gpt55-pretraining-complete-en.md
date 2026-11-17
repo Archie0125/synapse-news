@@ -3,6 +3,7 @@ title: "OpenAI's 'Spud' Finishes Pretraining — GPT-5.5 or GPT-6 Could Land Wit
 summary: "OpenAI completed pretraining on its next major model, internally codenamed 'Spud,' on March 24. CEO Sam Altman called it 'a very strong model that could really accelerate the economy,' while President Greg Brockman described it as 'two years of research' representing a qualitatively different kind of capability leap. With safety evaluation now underway, prediction markets put 78% odds on a public release before the end of April — and the final commercial name, GPT-5.5 or GPT-6, is still undecided."
 category: "ai-ml"
 publishedAt: 2026-04-11T09:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -39,17 +40,17 @@ That language — "big model feel," "significant change" — is not boilerplate.
 
 ## The Race for the Benchmark Crown
 
-The urgency behind Spud's release is easy to read in the competitive landscape. Gemini 3.1 Pro, released by Google in February 2026, currently leads 12 of 18 major tracked benchmarks. On ARC-AGI-2 — the notoriously difficult abstract reasoning test that punishes models relying on memorized patterns — Gemini 3.1 Pro scored 77.1%, more than double the reasoning performance of its predecessor. On GPQA Diamond, the expert-level science reasoning benchmark, it hit 94.3%. At roughly one-third the API cost of competing frontier models, Gemini 3.1 Pro has given Google its most dominant benchmark position since GPT-4's 2023 launch shook the market.
+The urgency behind Spud's release is easy to read in the competitive landscape. Gemini 3.1 Pro currently leads 13 of 16 major benchmarks. On ARC-AGI-2 — the notoriously difficult abstract reasoning test that punishes models relying on memorized patterns — Gemini 3.1 Pro scored 77.1%, more than double the reasoning performance of its predecessor. On GPQA Diamond, the expert-level science reasoning benchmark, it hit 94.3%. Gemini 3.1 Pro also matches GPT-5.4 on the Artificial Analysis Intelligence Index at roughly one-third of the API cost.
 
 Meanwhile, Anthropic's Claude Opus 4.6 holds the lead in software engineering benchmarks, scoring 80.8% on SWE-Bench Verified versus Gemini 3.1 Pro's 80.6%. And xAI's Grok 4.20 has shown strong reasoning and agentic performance with its four-agent parallel architecture. OpenAI's current flagship, GPT-5.4 Thinking, leads on knowledge-work tasks and computer-use benchmarks — but the gap at the frontier is narrowing, and Spud is OpenAI's answer.
 
 ## GPT-5.5 or GPT-6? The Name Is the Signal
 
-The commercial name OpenAI will attach to Spud is itself a story. The company has publicly said the decision depends on the magnitude of the performance improvement relative to GPT-5.4. If benchmarks show a generational leap — the kind that would justify a major version number — Spud ships as GPT-6. If it is a strong but still incremental advance in the same generation's capabilities, it becomes GPT-5.5.
+The commercial name OpenAI will attach to Spud is itself a story. OpenAI has not confirmed the commercial name, but internal discussions reported across multiple outlets say the decision depends on the size of the performance gap relative to GPT-5.4. If benchmarks show a generational leap — the kind that would justify a major version number — Spud ships as GPT-6. If it is a strong but still incremental advance in the same generation's capabilities, it becomes GPT-5.5.
 
 That framing matters because it turns the naming choice into a public signal about the scale of the capability jump. A GPT-6 designation would represent OpenAI's loudest possible claim that this is not just another model refresh, but the arrival of the next major era of its technology — likely with the kinds of agentic, reasoning, and multimodal capabilities that could materially change what AI systems can accomplish autonomously.
 
-Leaked benchmark testing, reported by AI analyst Adam Holter, suggests Spud's performance may approach what Anthropic's "Claude Mythos" — the company's own unreleased frontier model — was showing in internal evaluations before Anthropic decided not to publicly release it due to cybersecurity concerns. That framing, if accurate, would place Spud squarely in GPT-6 territory.
+Analyst Adam Holter reports that multiple sources expect Spud to land close to the range of Anthropic's "Claude Mythos" on SWE-bench Pro. Anthropic decided not to release Mythos publicly due to cybersecurity concerns. That framing, if accurate, would place Spud squarely in GPT-6 territory.
 
 ## A Timeline Measured in Weeks
 
@@ -78,3 +79,5 @@ The timing of Spud's release carries significance beyond model benchmarks. OpenA
 Launching a model that credibly reclaims the benchmark leadership from Gemini 3.1 Pro and closes the gap with Claude Opus 4.6 on coding would materially strengthen OpenAI's IPO narrative heading into roadshow season. The alternative — allowing the narrative that Google and Anthropic have outpaced the company that started the modern AI era — is not one OpenAI's leadership is likely to accept quietly.
 
 Spud is not just a model release. It is OpenAI's bid to re-center the frontier AI story on itself.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

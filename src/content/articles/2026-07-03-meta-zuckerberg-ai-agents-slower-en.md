@@ -1,8 +1,9 @@
 ---
 title: "Zuckerberg Tells Meta Staff: AI Agents Aren't Progressing as Fast as We Expected"
-summary: "In a rare public admission of a strategic gap, Meta CEO Mark Zuckerberg told employees at an internal town hall on July 2 that AI agent development has not accelerated the way the company anticipated—despite Meta spending up to $145 billion on AI infrastructure this year and laying off thousands of workers to refocus on the technology. Zuckerberg said he expects the picture to improve within three to six months."
+summary: "Meta CEO Mark Zuckerberg told employees at an internal town hall that AI agent development has not accelerated the way executives expected, even as Meta is expected to spend as much as $145 billion on AI infrastructure this year and has laid off thousands of workers. Zuckerberg said he believes the company will begin to see improvements within the next three to six months."
 category: "ai-ml"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -35,7 +36,7 @@ The admission lands at an awkward moment for Meta, which has organized virtually
 
 ## The Costs of the Bet
 
-The scale of Meta's AI commitment makes Zuckerberg's acknowledgment all the more striking. The company has announced plans to spend up to $145 billion on AI infrastructure in 2026, a figure that dwarfs any prior capital expenditure in the company's history. It has restructured its workforce with that goal in mind, including the elimination of approximately 8,000 positions announced in April—cuts that were explicitly framed as a reallocation toward AI development capacity.
+The scale of Meta's AI commitment makes Zuckerberg's acknowledgment all the more striking. Meta is expected to spend as much as $145 billion on AI infrastructure this year, Reuters reports. Earlier this year, Meta laid off some 8,000 employees, approximately 10% of its corporate workforce, and reassigned another 7,000 to various AI groups, including one called Agent Transformation, Bloomberg reported.
 
 Meta also reorganized its internal team structure, creating a new group called Meta Superintelligence Labs (MSL) and consolidating its AI research efforts under it, with the goal of accelerating the path from fundamental AI research to deployed products. Zuckerberg told employees that even with those structural changes, the expected upside "has not yet come to fruition."
 
@@ -70,3 +71,5 @@ If agents don't materialize on the expected timeline, Meta's $145 billion infras
 For investors and observers, Zuckerberg's candor on July 2 is a data point worth taking seriously. In Silicon Valley's culture of relentless optimism, a CEO telling employees that a core strategy "hasn't paid off yet" and that progress has been slower than expected is unusual. It suggests the challenges are real, the gap between expectation and reality is wide enough to be visible inside the company, and that Meta's internal timelines may be more aggressive than what the underlying technology currently supports.
 
 The AI agent race is not over. But Zuckerberg's message is a reminder that the distance between a compelling demo and a reliable product is still much larger than the industry's promotional materials tend to acknowledge.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

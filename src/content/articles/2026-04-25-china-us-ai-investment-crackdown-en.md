@@ -1,8 +1,9 @@
 ---
-title: "China Bars AI Startups from US Capital Without Approval, Citing Meta's Manus Acquisition"
-summary: "China's National Development and Reform Commission has instructed leading AI startups including Moonshot AI and StepFun to reject American investment without explicit government sign-off, Bloomberg reported Thursday. The move is a direct response to Meta's $2 billion acquisition of Manus — a deal that exposed how Chinese AI startups were restructuring offshore to bypass Beijing's oversight — and marks a significant escalation in the AI dimensions of the US-China technology war."
+title: "China Plans to Bar Top AI Firms from Taking US Capital Without Government Approval, Bloomberg Reports"
+summary: "China plans to restrict its leading technology companies, including top AI startups, from accepting US capital without government approval, Bloomberg reported Friday, citing people familiar with the matter. No Chinese government official has confirmed the report, which comes amid an escalating US-China AI rivalry."
 category: "policy"
 publishedAt: 2026-04-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,9 +31,9 @@ relatedSlugs:
   - "2026-04-19-deepseek-300m-fundraise-v4-huawei-chips-en"
 ---
 
-China is moving to wall off its artificial intelligence sector from American capital, instructing some of its highest-profile AI startups to reject US investment without explicit government approval — a sweeping escalation that closes off a financing channel many Chinese AI companies had relied upon during a period of fierce global competition.
+China plans to wall off its artificial intelligence sector from American capital, restricting leading technology companies, including top AI startups, from accepting US investment without government approval, according to Bloomberg.
 
-The directive, described by Bloomberg on Thursday citing people familiar with the matter, originates from China's **National Development and Reform Commission (NDRC)**, one of the most powerful economic planning agencies in the Chinese government. In recent weeks, the NDRC has communicated to several private technology companies that they should not accept capital from US sources in fundraising rounds unless the investment has been specifically cleared by regulators.
+The plan was reported by Bloomberg on Friday, citing people familiar with the matter; no Chinese government official has confirmed it. In recent weeks, the NDRC has communicated to several private technology companies that they should not accept capital from US sources in fundraising rounds unless the investment has been specifically cleared by regulators.
 
 ## The Trigger: Meta and Manus
 
@@ -56,7 +57,7 @@ The restriction is not a blanket ban on all foreign investment, but rather a req
 
 ## Mirror Image of US Policy
 
-The timing is not coincidental. Washington imposed its own outbound investment restrictions on China in 2023 and expanded them in 2025, prohibiting US persons from investing in Chinese companies operating in AI, semiconductors, and quantum computing without Treasury Department approval. China's new guidance is, in many respects, a direct reciprocal measure — building a symmetric wall on its side of the technology divide.
+The timing is not coincidental. A US outbound investment rule that came into effect on 2 January 2025 prohibits US persons from making equity investments in Chinese companies engaged in advanced semiconductors, quantum computing, or certain AI systems without Treasury Department approval or notification. China's new guidance is, in many respects, a direct reciprocal measure — building a symmetric wall on its side of the technology divide.
 
 The asymmetry, however, is that US outbound investment restrictions are codified law, while China's current guidance appears to have been delivered informally by regulators to specific companies. This approach gives Beijing flexibility — it can apply the rules selectively, grant approvals where it is strategically beneficial, and avoid setting precedents that might constrain future policy space.
 
@@ -79,3 +80,5 @@ For US venture capital firms with active portfolios in Chinese AI, the directive
 Zooming out, this development marks a maturation in the technology cold war. For several years, the AI sector existed in a partially globalized space — Chinese and American AI researchers collaborated, Chinese startups took US money, and the product markets remained mostly distinct. That era is ending. The Manus acquisition was a signal that AI capabilities were now commercially acquirable in ways that directly threatened national security-adjacent interests, and Beijing is responding accordingly.
 
 The moves by both governments — US outbound investment restrictions, Chinese inbound approval requirements — are systematically decoupling the global AI financing ecosystem. The result will be two largely separate AI capital pools, two increasingly distinct model ecosystems, and, over time, two diverging technology standards. For startups, investors, and enterprises that had been betting on a more integrated AI world, the adjustment is going to be significant.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

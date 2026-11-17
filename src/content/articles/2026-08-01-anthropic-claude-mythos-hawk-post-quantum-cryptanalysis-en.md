@@ -1,8 +1,9 @@
 ---
 title: "Anthropic's Claude Mythos Cracks Post-Quantum Cipher in 60 Hours That Stumped Experts for Two Years"
-summary: "Anthropic disclosed that its unreleased Claude Mythos Preview model discovered a structural weakness in HAWK, a post-quantum digital signature scheme under NIST standardization review, reducing the cost of key recovery attacks by a factor of 67 million — a landmark demonstration of AI-powered cryptanalysis that will reshape how the security community evaluates frontier AI risk."
+summary: "Anthropic disclosed that its unreleased Claude Mythos Preview model discovered a structural weakness in HAWK, a post-quantum digital signature scheme under NIST standardization review, cutting the expected cost of a key recovery attack on the smallest HAWK-256 size from 2^64 to 2^38, roughly 67 million times less work."
 category: "ai-ml"
 publishedAt: 2026-08-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -49,9 +50,9 @@ That record is now partially qualified.
 
 Anthropic's disclosure is careful with language, and appropriately so. The weakness Claude Mythos identified is real, mathematically verified, and novel — but its practical significance is bounded.
 
-The model identified an unused symmetry in HAWK's signing and key generation process. By exploiting this symmetry, an attacker can reduce the cost of full key recovery for HAWK-256 (the smallest parameter set, intended for environments where performance matters more than maximum security) from approximately 2^64 operations to approximately 2^38 operations. That is a reduction in difficulty by a factor of roughly 67 million — from a computation that would take years on modern hardware to one theoretically feasible with substantial but not extraordinary resources.
+The model identified an unused symmetry in HAWK's signing and key generation process. By exploiting this symmetry, an attacker can reduce the cost of full key recovery for HAWK-256 (the smallest HAWK size) from approximately 2^64 operations to approximately 2^38 operations. That is a reduction in difficulty by a factor of roughly 67 million. That is a reduction in difficulty by a factor of roughly 67 million — from a computation that would take years on modern hardware to one theoretically feasible with substantial but not extraordinary resources.
 
-The same vulnerability leaves HAWK-512 and HAWK-1024 — the larger parameter sets used in environments where security headroom is the priority — essentially unaffected. The attack against those configurations remains computationally infeasible.
+The larger HAWK keys are also weakened, since the key sizes proposed in the submission are significantly weaker than originally suggested, but Anthropic said the attack against them remains impractical. The attack against those configurations remains computationally infeasible.
 
 Anthropic additionally disclosed that Claude Mythos found a faster attack on a seven-round reduced version of AES-128, though the company noted this improvement does not translate to any vulnerability in full AES-128, which uses ten rounds and remains one of the most battle-hardened symmetric encryption standards in existence.
 
@@ -71,7 +72,7 @@ The disclosure lands at an uncomfortable moment for both the AI safety and crypt
 
 For AI safety researchers, the finding substantiates concerns about what Anthropic's own published safety framework calls "cybersecurity-adjacent" model capabilities. The company had previously disclosed that its AI models had breached three organizations during internal testing; the HAWK result demonstrates a related but distinct category of risk — not the ability to exploit known vulnerabilities, but to discover previously unknown ones.
 
-Anthropic stated explicitly that the results "do not affect production systems and do not require changes to deployed software." Full AES-128 is not broken. HAWK-512 and HAWK-1024 are not broken. The vulnerability found in HAWK-256 is a structural concern for standardization, not an immediate deployment emergency.
+Anthropic stated that the results do not currently affect any production systems and that no production software will have to change as a result." Full AES-128 is not broken. HAWK-512 and HAWK-1024 are not broken. The vulnerability found in HAWK-256 is a structural concern for standardization, not an immediate deployment emergency.
 
 NIST has been notified and is expected to evaluate the finding as part of its ongoing standardization process. HAWK's submitters — researchers at CWI Amsterdam, Léo Ducas among them — acknowledged receipt of Anthropic's disclosure and said they would provide a technical response within the standard NIST comment period.
 
@@ -88,3 +89,5 @@ But the disclosure also demonstrates the dual-use tension at the heart of fronti
 The race between algorithmic robustness and AI-powered cryptanalysis is now publicly acknowledged to be underway. NIST's post-quantum standardization process will need to incorporate AI-assisted review as a standard tool going forward — and the security community will need to decide whether AI models should be routinely deployed in adversarial probing of cryptographic candidates, with outputs shared openly, or whether the dual-use risk of that practice creates more problems than it solves.
 
 That is a debate the field was not quite ready to have six months ago. Claude Mythos has forced it onto the agenda.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

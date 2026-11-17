@@ -1,8 +1,9 @@
 ---
-title: "Every Major U.S. AI Lab Now Subject to Government Testing Before Model Release"
-summary: "The Commerce Department's Center for AI Standards and Innovation has finalized pre-deployment evaluation agreements with all five major American frontier AI laboratories — OpenAI, Anthropic, Google DeepMind, Microsoft, and xAI — completing a voluntary framework under which every significant new AI model must pass government security evaluation before public release. With more than 40 assessments completed since 2024, the program is quietly becoming the de facto regulatory floor for U.S. frontier AI."
+title: "Google, Microsoft and xAI Join OpenAI and Anthropic in Voluntary Government AI Testing Agreements"
+summary: "The Commerce Department's Center for AI Standards and Innovation now has pre-deployment evaluation agreements with five major American frontier AI laboratories — OpenAI, Anthropic, Google DeepMind, Microsoft, and xAI. CAISI says it has completed more than 40 evaluations to date, and the program is becoming a central government mechanism for pre-release AI evaluation."
 category: "policy"
 publishedAt: 2026-05-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -35,7 +36,7 @@ relatedSlugs:
   - "2026-04-04-eu-ai-act-enforcement-en"
 ---
 
-Without a formal law, without a regulator with enforcement authority, and without a single congressional vote, the United States has quietly achieved something that eluded European policymakers for years: mandatory evaluation of every major AI model before it reaches the public. The mechanism is the Commerce Department's Center for AI Standards and Innovation, and as of May 5, 2026, its voluntary framework has expanded to cover all five of the country's frontier AI laboratories.
+The United States now has agreements allowing the government to evaluate models from five major AI labs before they reach the public. The mechanism is the Commerce Department's Center for AI Standards and Innovation, and as of May 5, 2026, its voluntary framework has expanded to cover all five of the country's frontier AI laboratories.
 
 ## What CAISI Does
 
@@ -43,13 +44,13 @@ The Center for AI Standards and Innovation sits within the National Institute of
 
 The evaluations are not safety reviews in the broad sense that AI ethicists typically discuss. CAISI is not assessing whether a model might be biased, harmful in ordinary consumer interactions, or likely to generate toxic content. The focus is narrower and more operationally specific: can this model provide meaningful uplift to someone trying to build a cyberweapon, create a biological weapon, or synthesize a chemical weapon?
 
-CAISI reports findings to the labs, which are then expected to mitigate identified capabilities before release. The program has now completed more than 40 model evaluations since its first agreements with OpenAI and Anthropic in 2024. In practice, that means every major model release from these companies in the past two years has passed through some form of government capability assessment before reaching developers and consumers.
+CAISI reports findings to the labs, which are then expected to mitigate identified capabilities before release. CAISI says it has completed more than 40 evaluations to date, including on state-of-the-art models that remain unreleased to the public.
 
 ## The Expansion to Five Labs
 
 The original CAISI agreements, signed with OpenAI and Anthropic in 2024, reflected the political logic of the Biden administration's AI executive order, which emphasized voluntary commitments from leading labs as a pragmatic alternative to legislation that Congress showed no appetite for passing. Those agreements were renegotiated and renewed when the current administration took office.
 
-On May 5, 2026, NIST announced that Google DeepMind, Microsoft, and xAI had signed new agreements, completing the five-lab coverage. The announcement came through NIST's Center for AI Standards and Innovation, and the framing from the Trump administration was notably different from its predecessor: where the Biden approach emphasized responsible AI development language, the current administration emphasizes national security and competitive advantage — a framing that makes the same pre-deployment review process easier to justify politically.
+On Tuesday, May 5, the Center for AI Standards and Innovation announced agreements with Google DeepMind, Microsoft, and xAI, adding to its existing agreements with OpenAI and Anthropic. The announcement came through NIST's Center for AI Standards and Innovation, and the framing from the Trump administration was notably different from its predecessor: where the Biden approach emphasized responsible AI development language, the current administration emphasizes national security and competitive advantage — a framing that makes the same pre-deployment review process easier to justify politically.
 
 Microsoft's inclusion is significant because the company's AI products are heavily powered by OpenAI models rather than independently developed frontier systems. The Microsoft agreement likely covers jointly developed products and any frontier models the company develops with its OpenAI partnership, extending the coverage to Copilot and related enterprise AI products.
 
@@ -78,3 +79,5 @@ The CAISI model offers a template for broader AI oversight without requiring lan
 What is clear is that the days when a frontier AI model could move from training run to public deployment without any government awareness are over. The question for the next phase of AI governance is not whether pre-deployment review will persist, but how deep and how broad it will eventually become.
 
 For now, the completion of five-lab coverage represents a meaningful governance milestone — achieved through pragmatic voluntary agreements rather than legislation, and quietly enough that most of the public attention this week is on what those labs are building, not how it is being evaluated before it reaches the market.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Snowflake Bets the Enterprise on AI Agents with CoWork, CoCo, and a Deep Anthropic Alliance"
-summary: "At Snowflake Summit 2026 in San Francisco on June 2, CEO Sridhar Ramaswamy unveiled more than 26 new capabilities under the organizing theme of the 'agentic enterprise,' including CoWork—a personal AI agent for knowledge workers—and CoCo, Snowflake's full-stack coding agent. Anthropic President Daniela Amodei co-keynoted, formalizing one of enterprise AI's deepest platform partnerships with Claude Opus 4.8 powering both products. The announcements signal a strategic pivot from data platform to AI operating system."
+summary: "At Snowflake Summit 2026 in San Francisco, which ran June 1 to June 4, Snowflake announced more than 26 new capabilities under the organizing theme of the 'agentic enterprise,' including CoWork—a personal AI agent for knowledge workers—and CoCo, Snowflake's coding agent. Anthropic President Daniela Amodei co-keynoted alongside CEO Sridhar Ramaswamy, with Claude models powering both products. The announcements extend Snowflake's stack toward the agentic enterprise."
 category: "industry"
 publishedAt: 2026-06-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -33,7 +34,7 @@ relatedSlugs:
   - "2026-06-12-openai-acquires-ona-gitpod-codex-cloud-agents-en"
 ---
 
-When Sridhar Ramaswamy walked onto the stage at the Moscone Center in San Francisco on June 2, 2026, for his second Snowflake Summit as CEO, the company he was running looked meaningfully different from the one he inherited. Gone was the emphasis on Snowflake as a neutral data storage and query layer. In its place: a full-stack agentic platform with more than 26 new capabilities, two renamed and substantially rebuilt products, and an onstage co-keynote with Anthropic President Daniela Amodei.
+Sridhar Ramaswamy opened Snowflake Summit 2026 at the Moscone Center in San Francisco on June 1, 2026, with a keynote on what he called the "agentic enterprise." Gone was the emphasis on Snowflake as a neutral data storage and query layer. In its place: a full-stack agentic platform with more than 26 new capabilities, two renamed and substantially rebuilt products, and an onstage co-keynote with Anthropic President Daniela Amodei.
 
 The message was unambiguous: Snowflake is not trying to build the best database. It is trying to build the operating system for the agentic enterprise.
 
@@ -45,7 +46,7 @@ CoWork is positioned as a "personal agent for knowledge workers"—an AI system 
 
 The design philosophy is what Ramaswamy called "AI that already knows your business." The argument is that generic AI assistants fail in enterprise deployments not because the underlying models are inadequate, but because those models lack access to the institutional context—the internal terminology, the business logic, the definitions of what the data actually means—that makes an output useful for a specific organization.
 
-Three new capabilities announced at Summit develop this premise. **Artifacts** allows CoWork to produce persistent, shareable outputs—charts, reports, analyses—that are attached to Snowflake's lineage graph, so anyone consuming that analysis can trace it back to the specific data tables it was derived from. **Cortex Sense**, the new shared context layer discussed below, ensures CoWork understands the business meaning of data labels rather than just their technical schema. And new personalization capabilities allow individual users to calibrate CoWork's defaults to their role and communication preferences—so a data scientist and a sales director asking CoWork the same question receive answers calibrated to different levels of technical depth.
+Several new capabilities announced at Summit develop this premise. **Artifacts** allows CoWork to produce persistent, shareable outputs—charts, reports, analyses—that are attached to Snowflake's lineage graph, so anyone consuming that analysis can trace it back to the specific data tables it was derived from. **Cortex Sense**, the new shared context layer discussed below, ensures CoWork understands the business meaning of data labels rather than just their technical schema. And new personalization capabilities allow individual users to calibrate CoWork's defaults to their role and communication preferences—so a data scientist and a sales director asking CoWork the same question receive answers calibrated to different levels of technical depth.
 
 ## CoCo: Snowflake Enters the Coding Agent Race
 
@@ -61,7 +62,7 @@ Whether CoCo can take meaningful share from tools with larger developer mindshar
 
 The most architecturally interesting announcement at Summit 2026 was **Cortex Sense**—not for what it does in isolation, but for how it changes the architecture of everything else.
 
-Cortex Sense is a semantic layer that unifies the business meaning of enterprise data into a single, shared context representation used by every Snowflake AI product. It reads table schemas, data contracts, column descriptions, lineage graphs, and documentation (including dbt documentation), then produces a structured context object that CoWork, CoCo, and any third-party tool built on Snowflake's Cortex AI APIs can consume without re-ingesting raw documentation.
+Cortex Sense is a runtime context layer underneath CoWork that automatically builds signals from data and activity already in Snowflake and enriches context for CoWork in real time based on user role and behavior patterns. It reads table schemas, data contracts, column descriptions, lineage graphs, and documentation (including dbt documentation), then produces a structured context object that CoWork, CoCo, and any third-party tool built on Snowflake's Cortex AI APIs can consume without re-ingesting raw documentation.
 
 The practical consequence: a company that maintains good Snowflake documentation gets AI products that understand its business by default. When schemas change, Cortex Sense updates automatically, meaning CoWork and CoCo stay current without requiring developers to re-prompt the AI every time the data model evolves.
 
@@ -83,7 +84,7 @@ Snowflake announced several platform-level capabilities at Summit that extend be
 
 **Snowflake Datastream**, a new fully managed streaming service for Apache Kafka, brings real-time data ingestion into the platform. The addition matters for agent applications: CoWork and CoCo are most valuable when operating on current data, and Datastream provides a governed pathway for real-time data to flow into the context that those agents consume.
 
-The company also announced support for **Apache Iceberg v35** and Snowflake Storage for Apache Iceberg Tables—a significant interoperability statement that allows enterprises to maintain a single, live, governed copy of data across Snowflake and external data lakes without duplication. This open-table-format push is partly defensive (insulating Snowflake against competitors building on open formats like Delta Lake) and partly expansive (making Snowflake's AI products available to data that lives in external systems).
+The company also announced general availability of **Apache Iceberg v3** and Snowflake Storage for Apache Iceberg Tables—a significant interoperability statement that allows enterprises to maintain a single, live, governed copy of data across Snowflake and external data lakes without duplication. This open-table-format push is partly defensive (insulating Snowflake against competitors building on open formats like Delta Lake) and partly expansive (making Snowflake's AI products available to data that lives in external systems).
 
 ## What This Signals About Enterprise AI
 
@@ -93,4 +94,6 @@ No individual AI tool—however capable the underlying model—operates effectiv
 
 The company's strategic bet is that enterprise AI will consolidate around platforms that own the data governance layer—just as cloud infrastructure consolidated around AWS, Azure, and Google Cloud after a period of fragmentation. The analogy is imperfect but instructive: in the cloud wars, the winner was not the company with the best individual service, but the company with the broadest governed platform that enterprises could standardize on.
 
-If that consolidation logic holds for AI, Summit 2026 may look in retrospect like the moment Snowflake staked its claim—with 20,000 developers in San Francisco and Daniela Amodei onstage as the evidence that it has the model partner to make the bet credible.
+If that consolidation logic holds for AI, Summit 2026 may look in retrospect like the moment Snowflake staked its claim—with more than 20,000 attendees in San Francisco and Daniela Amodei onstage as the evidence that it has the model partner to make the bet credible.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

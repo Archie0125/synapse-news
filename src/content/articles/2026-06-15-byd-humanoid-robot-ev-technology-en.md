@@ -1,8 +1,9 @@
 ---
-title: "BYD Enters Humanoid Robotics Race, Plans to Sell Robots Through Car Dealerships"
-summary: "China's largest EV maker has officially confirmed development of humanoid robots, codenamed 'Yao-Shun-Yu,' using battery, sensor, and AI systems already mastered through vehicle manufacturing. BYD executive VP Stella Li says industrial deployment comes first, with the company itself becoming the robots' biggest customer — and eventual household sales routed through its vast auto dealer network."
+title: "BYD Confirms Humanoid Robot Development, May Sell Robots Through Car Dealerships"
+summary: "BYD has officially confirmed it is developing humanoid robots, drawing on its automotive AI capabilities. Executive VP Stella Li says industrial robot development comes first, with BYD itself becoming the robots' biggest customer, and that if robots enter households they would be sold through its vast auto dealer network."
 category: "hardware"
 publishedAt: 2026-06-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-06-09-generalist-ai-400m-robot-foundation-model-en"
 ---
 
-The world's largest electric vehicle manufacturer has decided that making cars is just the beginning. BYD, the Chinese automaker that dethroned Tesla in global EV sales, has officially confirmed it is developing humanoid robots — and it plans to distribute them through the same dealer network that moves its cars.
+The world's largest electric vehicle manufacturer has decided that making cars is just the beginning. BYD, the Chinese automaker, has officially confirmed it is developing humanoid robots — and it may sell them through the same dealer network that moves its cars.
 
-The announcement, confirmed by BYD executive vice president Stella Li in a recent interview, formalizes what industry sources had been speculating about since BYD quietly established a dedicated robot division. The project, internally codenamed "Yao-Shun-Yu," represents BYD's most ambitious bet beyond its automotive and battery core — and its entry into a competitive field that already includes Tesla (Optimus), Figure AI, Agility Robotics, and a growing cohort of Chinese rivals.
+The announcement was made by BYD executive vice president Stella Li in a recent interview. The project marks BYD's entry into a competitive field that includes a growing cohort of Chinese rivals.
 
 ## The Automotive Advantage
 
@@ -46,17 +47,17 @@ BYD's entry accelerates an already crowded Chinese robotics contest. Unitree Rob
 
 What BYD brings that most rivals lack is manufacturing infrastructure at industrial scale. The company builds hundreds of thousands of vehicles per month across factories in Shenzhen, Xi'an, Changsha, and overseas. If it can transfer even a fraction of that production efficiency to robot manufacturing, BYD could undercut competitors on unit economics in ways that smaller robotics-native startups cannot match.
 
-Li explicitly framed this as a competitive advantage in the global context: "China will lead global robot commercialization." She pointed to the country's combination of manufacturing depth, engineering talent, supply chain integration, and AI research output as structural advantages that will manifest in robots as they have in EVs.
+Li said she believes China is expected to take the lead in realizing the commercialization of robots." She pointed to the country's combination of manufacturing depth, engineering talent, supply chain integration, and AI research output as structural advantages that will manifest in robots as they have in EVs.
 
 ## Industrial First, Household Second
 
-BYD's stated sequencing is pragmatic. The company is prioritizing "industrial robot development" in the first phase — deploying robots in its own factories before commercializing externally. Li described BYD itself as likely becoming "the robot's biggest customer," which echoes the approach Tesla has taken with Optimus: use internal deployment to refine the product before pursuing external sales.
+BYD's stated sequencing is pragmatic. The company is prioritizing "industrial robot development" in the first phase — deploying robots in its own factories before commercializing externally.
 
 Factory environments offer specific advantages for early robot development. The tasks are repetitive and defined. The physical layout is controlled and mapped. Failure modes are manageable. This is a much lower-stakes environment than a household kitchen or a city sidewalk, and it generates the operational data needed to train more capable models.
 
-BYD has also explored an unusual near-term application: deploying robots as sales staff in its European showrooms, where labor laws and costs make staffing challenging for rapidly expanding dealer networks. Whether that particular use case moves from exploration to deployment is unclear, but it illustrates how BYD is thinking about robots as a cross-functional business tool rather than a standalone product line.
+BYD once envisioned deploying robots as sales guides in its European stores to alleviate local hiring pressures. Whether that particular use case moves from exploration to deployment is unclear, but it illustrates how BYD is thinking about robots as a cross-functional business tool rather than a standalone product line.
 
-Once the technology matures for household use, BYD plans to route sales through its existing auto dealer network — a distribution strategy that, if successful, would give it instant access to hundreds of thousands of consumer touchpoints that purpose-built robotics companies would spend years and billions building.
+If the robots can enter households in the future, Li said BYD will sell them through its vast auto dealer network.
 
 ## The Open Platform Bet
 
@@ -73,3 +74,5 @@ The China angle is geopolitically significant. The U.S. has banned or restricted
 For Taiwan, the story intersects with both the semiconductor supply chain — AI chips for robot inference are subject to the same export controls reshaping the broader AI hardware market — and the competitive dynamics for Taiwan's own precision manufacturing and industrial automation industry.
 
 BYD built the world's best-selling EV. Now it wants to build the robot. The playbook is the same: leverage manufacturing scale, software integration depth, and vertical supply chain control to arrive at a cost and performance point that forces competitors to react. Whether robotics is susceptible to the same playbook as EVs is the question the next three years will answer.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

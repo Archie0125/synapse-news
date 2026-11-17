@@ -1,8 +1,9 @@
 ---
 title: "SambaNova Raises $1 Billion at $11B Valuation as On-Premises AI Inference Demand Soars"
-summary: "AI inference chip startup SambaNova closed a $1 billion Series F round led by General Atlantic at an $11 billion valuation, just five months after its previous $350 million raise. With JPMorgan Chase, Saudi Aramco, and SoftBank among its customers, and a next-generation SN50 chip shipping in the second half of 2026, SambaNova is positioning itself as the preferred alternative for enterprises that refuse to send sensitive workloads to the public cloud."
+summary: "AI inference chip startup SambaNova raised $1 billion in the first close of a Series F round led by General Atlantic at an $11 billion valuation, about five months after its previous $350 million raise. With JPMorgan Chase and Saudi Aramco among its customers, and its next-generation SN50 chip due to ship in the second half of 2026 with SoftBank as first deployment partner, SambaNova is pitching secure on-premises inference to enterprises."
 category: "hardware"
 publishedAt: 2026-07-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,7 +29,7 @@ relatedSlugs:
   - "2026-07-08-nvidia-sk-hynix-hbm4-vera-rubin-partnership-en"
 ---
 
-Amid a broader cooling in AI chip valuations that has battered public equities, private infrastructure bets are accelerating. SambaNova Systems announced on July 8 that it has closed the first tranche of a $1 billion Series F funding round at an $11 billion valuation — the latest and largest raise in a company that has quietly built one of the more credible alternatives to Nvidia's dominance in enterprise AI infrastructure.
+While public chip stocks have rallied, private infrastructure bets are also accelerating. SambaNova Systems announced on July 8 that it has closed the first tranche of a $1 billion Series F funding round at an $11 billion valuation — the latest and largest raise in a company that has quietly built one of the more credible alternatives to Nvidia's dominance in enterprise AI infrastructure.
 
 The round was led by General Atlantic, with participation from Intel Capital, BlackRock, T. Rowe Price, Capital Group, Seligman Ventures, Qatar Investment Authority, and others. It follows a $350 million Series E closed just five months ago in February 2026, marking an extraordinary fundraising cadence that reflects both the intensity of demand for on-premises AI systems and investors' confidence that SambaNova can capture a meaningful slice of it.
 
@@ -54,16 +55,18 @@ These are not pilot programs or proof-of-concept deployments. Financial institut
 
 ## The Acquisition That Didn't Happen
 
-One revealing subplot in SambaNova's recent history: Intel explored acquiring the company for approximately $1.6 billion, according to sources familiar with the discussions. Those talks stalled, and SambaNova instead raised independently at a valuation now seven times Intel's reported offer price. The outcome speaks to two things simultaneously — the trajectory of SambaNova's perceived value since those discussions, and Intel's continued difficulty executing on its own AI infrastructure ambitions even as it participates in SambaNova's funding round.
+One revealing subplot in SambaNova's recent history: Intel explored acquiring the company for approximately $1.6 billion, according to sources familiar with the discussions. Those discussions ended without a deal, and SambaNova instead raised independently at an $11 billion valuation, well above the roughly $1.6 billion Intel reportedly discussed. The outcome speaks to two things simultaneously — the trajectory of SambaNova's perceived value since those discussions, and Intel's continued difficulty executing on its own AI infrastructure ambitions even as it participates in SambaNova's funding round.
 
 Intel's presence in this Series F is worth reading carefully. By investing in SambaNova rather than acquiring it, Intel is betting on a partnership model that leverages its manufacturing capabilities and customer relationships without the integration risk of a full acquisition. For SambaNova, Intel Capital's participation provides a politically important signal at a moment when U.S. AI infrastructure supply chains are under intense geopolitical scrutiny.
 
 ## The IPO Question
 
-SambaNova's CEO has indicated that an IPO is possible in the company's future, though no timeline has been communicated. The aggressive fundraising pace and swelling valuation suggest the company is not in a rush to access public markets — at $11 billion, SambaNova has room to grow substantially before a public offering would meaningfully change its capital access or public profile. But the path is clearly being laid. The Series F's institutional investor roster — BlackRock, T. Rowe Price, Capital Group — reads more like an IPO roadshow than a startup funding round. These are firms that manage public equities and are positioning for liquidity.
+SambaNova's CEO has said the company is strongly considering an IPO in 2027, most likely in the U.S., and has also spoken of "being public at some point." The aggressive fundraising pace and swelling valuation suggest the company is not in a rush to access public markets — at $11 billion, SambaNova has room to grow substantially before a public offering would meaningfully change its capital access or public profile. But the path is clearly being laid. The Series F's institutional investor roster — BlackRock, T. Rowe Price, Capital Group — reads more like an IPO roadshow than a startup funding round. These are firms that manage public equities and are positioning for liquidity.
 
 ## Why It Matters Now
 
-SambaNova's raise lands at a peculiar moment in the AI infrastructure market. Public chip stocks have experienced significant corrections in 2026, with investors growing skeptical of the timeline for AI spending to translate into durable revenue for hyperscalers and their suppliers. Yet private infrastructure bets like SambaNova's continue to attract capital at aggressive valuations, reflecting a divergence between Wall Street's near-term anxiety about AI monetization and institutional investors' long-term conviction that the demand for secure, high-performance AI compute is structurally growing.
+SambaNova's raise lands at a peculiar moment in the AI infrastructure market. Public chip stocks have rallied in 2026, with the PHLX semiconductor index up around 80% this year. Private infrastructure bets like SambaNova's also continue to attract capital at aggressive valuations, reflecting investors' conviction that demand for secure, high-performance AI compute is growing.
 
 The inference market — running models rather than training them — is where most commercial AI value creation will ultimately accrue. SambaNova's bet is that the most valuable inference workloads will never leave enterprise data centers, and that no one yet owns that market. With $1 billion in fresh capital, the SN50 shipping imminently, and a customer list that includes JPMorgan and Saudi Aramco, it is in as strong a position as any company to test that hypothesis.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

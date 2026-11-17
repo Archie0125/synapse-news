@@ -3,6 +3,7 @@ title: "13 Words Can Poison AI Search: Cornell Researchers Expose Deep-Research 
 summary: "Cornell Tech researchers have demonstrated that adding just 13 promotional words to an ordinary Reddit comment can reliably redirect AI deep-research agents—including ChatGPT and Google Gemini—toward scams and nonexistent products. The WARP attack achieved mention rates of up to 62% in tests, exposing a structural flaw in how AI agents trust user-generated content at web scale."
 category: "ai-ml"
 publishedAt: 2026-06-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -70,7 +71,7 @@ Shmatikov, the senior author, has previously written about the gap between AI sy
 
 The paper's evaluation of countermeasures is sobering.
 
-Blocking UGC domains entirely — filtering out Reddit, Wikipedia, YouTube, and similar sites — did reduce attack success to near zero, as one would expect. But the researchers found the quality cost was minimal: Rubric scores dropped by only 0.04 points on a 5-point scale. The implication is that AI research agents may derive surprisingly little additional accuracy from UGC sources, despite citing them frequently. UGC is popular, not authoritative.
+Blocking UGC domains entirely — filtering out Reddit, Wikipedia, YouTube, and similar sites — was among the defenses that either failed outright or made the AI noticeably worse. But the obvious defenses all stumbled: blocking user-generated sites, pre-screening sources, or scanning the final answer either failed outright or made the AI noticeably worse. The implication is that AI research agents may derive surprisingly little additional accuracy from UGC sources, despite citing them frequently. UGC is popular, not authoritative.
 
 Statistical defenses designed to detect injected promotional text failed. Perplexity-based detection — the idea that artificial promotional language would have lower perplexity than organic text — was ineffective because promotional phrases are common on user-generated platforms. The AUROC scores for perplexity detectors across all tested systems fell below 0.68, essentially random. Output-side filters looking for unusually similar reports across topic clusters were similarly stymied because poisoned reports closely resembled clean ones.
 
@@ -85,3 +86,5 @@ The enterprise risk is subtler but potentially more significant. Large enterpris
 Zhang, Triedman, and Shmatikov released their code and evaluation framework to facilitate further research on WARP defenses. The disclosure follows responsible norms: the paper describes the vulnerability structure without enabling trivial weaponization, and the UGC-domain blocking countermeasure provides a mitigation path for organizations with risk tolerance for reduced source breadth.
 
 The harder problem — building AI research agents that maintain calibrated skepticism toward web sources while still being useful — will likely occupy the security and AI research communities for years to come. For now, the lesson is unambiguous: AI research agents do not distinguish between a Reuters article and a promotional Reddit comment. Neither should the users who trust their output.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Android 17 Ships Gemini Omni at OS Level, Turning Google's Platform Into
 summary: "Google shipped Android 17 on June 16, embedding Gemini Omni as operating system infrastructure rather than an app. The release includes Lyria 3 music generation, AudioLM speech translation, a new App Functions framework that lets any third-party app become a target for Gemini agents, and a Gemini Intelligence sub-layer that can act across apps without requiring them to be in the foreground."
 category: "products"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,7 +40,7 @@ The framing that Google has used for Android 17 is deliberate: Gemini is OS-leve
 
 Previous versions of Gemini on Android were delivered as app updates — a separate layer that sat above the operating system and required users to consciously invoke it. Android 17 changes this. Gemini Intelligence, Google's umbrella term for the suite of AI capabilities wired into the OS, operates as a system-level sub-layer. It runs persistently in the background, has access to cross-app context, and can take actions inside applications that have registered with Google's new App Functions framework — even when those applications are not in the foreground.
 
-The practical consequence for users is that Gemini can now complete multi-step tasks that cross application boundaries. Ask Gemini to "order my usual pizza from [app name]" and the system can discover the app's registered functions, extract the parameters, and execute the order without the user opening the app. Ask it to "edit this video with a 90s aesthetic and save it to my gallery" and Gemini Omni can manipulate media at the OS level.
+AppFunctions integration with Gemini is currently in a private preview with trusted testers, so the cross-app capability is not yet generally available. Ask it to "edit this video with a 90s aesthetic and save it to my gallery" and Gemini Omni can manipulate media at the OS level.
 
 For developers, the consequence is more pointed: apps that do not register App Functions become effectively invisible to Gemini agents. In an ecosystem where Gemini is increasingly the ambient interface through which users interact with their phones, invisibility to Gemini may become a meaningful distribution disadvantage.
 
@@ -51,7 +52,7 @@ For developers, the consequence is more pointed: apps that do not register App F
 
 **AudioLM speech translation.** Available on Pixel 10a and later devices, AudioLM provides real-time speech-to-speech translation that preserves voice characteristics — tone, pace, and speaker identity — across languages. Earlier translation tools handled the linguistic conversion but produced robotic, uniform output voices. AudioLM's approach is closer to dubbing than transcription.
 
-**App Functions framework.** This is the developer-facing architecture that underpins agentic operation. Apps expose specific functions — "place order," "search inventory," "fetch latest transaction" — through a Jetpack library that maps them to Google's App Functions platform API. Gemini agents can discover these functions and invoke them with extracted parameters. Google describes it as enabling apps to "behave like on-device MCP servers," borrowing language from the AI agent protocol that has become a standard connector across the industry.
+**App Functions framework.** This is the developer-facing architecture intended for agentic operation: an Android platform API with an accompanying Jetpack library to simplify building Android MCP integrations. Apps expose specific functions — "place order," "search inventory," "fetch latest transaction" — through a Jetpack library that maps them to Google's App Functions platform API. AppFunctions integration with Gemini is currently in a private preview with trusted testers, and developers can sign up for the Early Access Program to start experimenting. Google describes it as enabling apps to "behave like on-device MCP servers," borrowing language from the AI agent protocol that has become a standard connector across the industry.
 
 **Android AI Core API.** Third-party developers gain programmatic access to on-device Gemini Nano through this API, enabling zero-marginal-cost AI inference that does not require a server call. The privacy and latency implications are significant: sensitive queries that previously had to leave the device to reach a cloud model can now be handled locally.
 
@@ -74,3 +75,5 @@ Google's build materials describe the Gemini Intelligence agentic features, incl
 Android 17 is Google's clearest articulation yet of its platform thesis for the AI era: that the most durable position in AI is not the best model, but the deepest integration into the surfaces where people actually spend their time. Whether that thesis holds depends on whether users actually want an ambient AI that acts across their apps proactively, or whether they prefer a more deliberate invocation model.
 
 The early engagement data suggests Google's bet is landing. Whether it eventually produces a business that justifies the investment — and whether it forces Apple, Microsoft, and Samsung to respond with comparable OS-level AI architectures — are the questions the next 18 months will answer.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

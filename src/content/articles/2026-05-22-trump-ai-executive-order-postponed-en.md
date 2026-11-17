@@ -1,8 +1,9 @@
 ---
-title: "Trump Scraps AI Executive Order at Last Minute, Citing Fears of Overregulation"
-summary: "President Trump abruptly postponed signing a sweeping AI cybersecurity executive order hours before the ceremony, saying he 'didn't like certain aspects' of it. The order would have created a voluntary framework requiring AI labs to share frontier models with the NSA 90 days before release—and its collapse has left Washington scrambling over how to handle increasingly dangerous AI capabilities."
+title: "Trump Postpones AI Executive Order Signing, Saying He Didn't Like Certain Aspects"
+summary: "President Trump postponed the signing of an AI executive order that had been set for Thursday afternoon, saying he 'didn't like certain aspects' of it. The order would reportedly empower the government to pre-evaluate AI models for security vulnerabilities."
 category: "policy"
 publishedAt: 2026-05-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-05-21-colorado-ai-act-sb189-rewrite-developer-impact-en"
 ---
 
-On Thursday afternoon, with invitations already sent and staff assembled, the White House abruptly canceled the signing ceremony for what would have been the Trump administration's most consequential AI policy action to date. President Trump told reporters the postponement was simple: "I didn't like certain aspects of it." Behind that terse explanation lies a months-long internal battle that exposes the fundamental tension at the heart of Washington's approach to artificial intelligence—how to secure a technology while refusing to slow it down.
+On Thursday, the White House postponed a signing ceremony that had been set for later that afternoon for the Trump administration's much-anticipated executive order on the artificial intelligence industry. President Trump told reporters the postponement was simple: "I didn't like certain aspects of it." Behind that terse explanation lies a months-long internal battle that exposes the fundamental tension at the heart of Washington's approach to artificial intelligence—how to secure a technology while refusing to slow it down.
 
 ## What the Order Would Have Done
 
@@ -35,7 +36,7 @@ The executive order had two major components. The first was a broad cybersecurit
 
 The second component was more unprecedented and more contentious. It would have established a "voluntary framework" under which frontier AI labs—companies developing the most capable models—would be required to share their models with the U.S. government at least 90 days before any public release. The National Security Agency would serve as the primary mediator for reviewing these models, with the authority to identify security vulnerabilities before they reached the public or adversaries. The framework also extended access rights to certain critical infrastructure operators, recognizing that utility grids, financial systems, and communications networks are increasingly dependent on AI.
 
-On paper, the arrangement had buy-in from major players. Microsoft, Google, and Elon Musk's xAI had already signed similar voluntary agreements with the government in early May, committing to pre-deployment testing. OpenAI and Anthropic were already operating under comparable arrangements through separate channels.
+On paper, the arrangement had buy-in from major players. This month, the federal Center for AI Standards and Innovation announced agreements with Google DeepMind, Microsoft and Elon Musk's xAI letting it evaluate AI models before they are publicly available. OpenAI and Anthropic were already operating under comparable arrangements through separate channels.
 
 ## The Internal Battle That Killed It
 
@@ -45,7 +46,7 @@ The pro-innovation camp—aligned with the administration's broader deregulatory
 
 The national security bloc argued the opposite. With AI models increasingly capable of autonomously identifying and exploiting software vulnerabilities—a capability publicly demonstrated by Anthropic's recently released "Mythos" model—allowing frontier labs to ship without any government review was a genuine national security risk. They wanted the NSA review to carry real weight, with classified testing protocols and actual enforcement backing the "voluntary" label.
 
-Trump sided with neither faction cleanly. His public comments reflected both concerns simultaneously: praising AI as "causing tremendous good" while insisting the U.S. "is ahead of China" and he "doesn't want to do anything that's going to get in the way of that lead."
+Trump sided with neither faction cleanly. His public comments reflected both concerns simultaneously: praising AI as "causing tremendous good" while saying the U.S. is ahead of China and "I don't want to do anything that's going to get in the way of that lead."
 
 ## The Anthropic Mythos Catalyst
 
@@ -66,3 +67,5 @@ Meanwhile, the gap between AI capability and regulatory structure continues to w
 Whether Trump signs a revised version, abandons the frontier model components entirely, or delegates the issue to Congress remains an open question. What's clear is that Thursday's last-minute cancellation was not a policy victory for any side—it was a demonstration of how poorly equipped Washington's governance machinery is to keep pace with the technology it's trying to oversee.
 
 The White House did not provide a revised timeline as of publication.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

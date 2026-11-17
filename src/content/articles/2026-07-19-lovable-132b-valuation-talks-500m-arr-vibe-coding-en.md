@@ -1,8 +1,9 @@
 ---
 title: "Lovable Eyes $13.2B Valuation as Vibe Coding Hits $500M ARR"
-summary: "The Swedish AI app-builder Lovable is in talks to raise $300 million at a $13.2 billion valuation — doubling its price tag in just seven months — after crossing $500 million in annualized revenue in May 2026. The round would cement vibe coding as one of the fastest-growing software categories in history and raise hard questions about who wins the race to become the default way the world builds software."
+summary: "The Swedish AI app-builder Lovable is in talks to raise $300 million at a $13.2 billion valuation — double its December price tag — after reaching $500 million in annualized revenue run rate. The round would cement vibe coding as one of the fastest-growing software categories in history and raise hard questions about who wins the race to become the default way the world builds software."
 category: "startups"
 publishedAt: 2026-07-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,9 +29,9 @@ relatedSlugs:
   - "2026-07-17-prismml-bonsai-27b-iphone-on-device-en"
 ---
 
-When Anton Osika and Fabian Hedin open-sourced GPT Engineer in 2023, the project attracted 50,000 GitHub stars within weeks and became one of the most forked repositories on the platform. Three years later, the company they built on top of it — rebranded as Lovable and relaunched with a consumer-grade interface in November 2024 — is reportedly raising $300 million at a $13.2 billion valuation, according to TechCrunch. If the round closes at that figure, Lovable will have doubled its valuation in seven months and become one of the fastest startups to reach $10 billion in enterprise value in software history.
+Lovable grew out of GPT Engineer, an open-source project that attracted 40,000 GitHub stars within two months of its June 2023 launch. Three years later, the company they built on top of it — rebranded as Lovable and relaunched with a consumer-grade interface in November 2024 — is reportedly raising $300 million at a $13.2 billion valuation, according to TechCrunch. If the round closes at that figure, Lovable will have doubled its valuation in seven months and become one of the fastest startups to reach $10 billion in enterprise value in software history.
 
-The funding discussions arrive after Lovable crossed $500 million in annualized recurring revenue in May 2026 — a milestone that Sacra's tracking places well ahead of the ARR curves of Cursor, Wiz, and even OpenAI at comparable stages. The company hit $100 million ARR faster than any software company on record, then doubled that figure in four months. The trajectory has turned Lovable from an interesting developer productivity tool into something much larger: the leading edge of a shift in who gets to build software and how.
+The funding discussions arrive after Lovable crossed $500 million in annualized recurring revenue, reported by TechCrunch as happening in June. The company announced $100 million ARR in July 2025, then $200 million in November. The trajectory has turned Lovable from an interesting developer productivity tool into something much larger: the leading edge of a shift in who gets to build software and how.
 
 ## What Vibe Coding Actually Is
 
@@ -61,3 +62,5 @@ If the $13.2 billion round closes, it will be the largest venture raise in the v
 The bet embedded in the valuation is not primarily about Lovable's current revenue — it's about the size of the market that exists once the barrier to building software approaches zero. If anyone can describe and deploy a custom application without engineering resources, the addressable market for software tools isn't the existing developer population. It's every business that has ever wanted custom software but couldn't justify the cost or timeline of building it.
 
 That framing puts Lovable in a different competitive tier than GitHub Copilot or Cursor. Those tools make existing developers faster. Lovable's ambition — and the thesis behind a $13.2 billion valuation — is to add tens of millions of new software builders to the world. Whether that market gets captured by Lovable, an acquirer, a major platform player, or a future competitor running on open-weight models is the open question. The round says that at least some of the best-informed investors in technology think Lovable is positioned to find out.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "OpenAI Expands Daybreak: GPT-5.5-Cyber Found Vulns in Linux, Chrome, and
 summary: "OpenAI has substantially expanded its Daybreak cybersecurity initiative with the release of an improved GPT-5.5-Cyber model (85.6% on CyberGym), a major Codex Security plugin update that has now scanned 30 million commits across 30,000 codebases with 500,000+ auto-fixed findings, and a new open-source coalition called 'Patch the Planet' partnering with Trail of Bits, HackerOne, and projects including cURL, Python, Go, and the Linux kernel."
 category: "developer-tools"
 publishedAt: 2026-06-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -38,7 +39,7 @@ The company released a substantially improved version of GPT-5.5-Cyber, unveiled
 
 ## GPT-5.5-Cyber: What the Benchmarks Say
 
-The updated model OpenAI calls GPT-5.5-Cyber is its most specialized security-oriented release. On **CyberGym** — a benchmark covering vulnerability identification across diverse codebases and system configurations — it scores **85.6%**, compared with 81.8% for general-purpose GPT-5.5. On **ExploitGym**, which tests whether a model can develop working proof-of-concept exploits, it reaches **39.5%** (vs. 25.95% for GPT-5.5). On **SEC-bench Pro**, which evaluates real-world security engineering tasks including threat modeling and patch validation, it scores **69.8%**.
+The updated model OpenAI calls GPT-5.5-Cyber is its most specialized security-oriented release. On **CyberGym** — a benchmark that tests whether an agent can reproduce known vulnerabilities — it scores **85.6%**, compared with 81.8% for general-purpose GPT-5.5. On **ExploitGym**, which tests whether a model can develop working proof-of-concept exploits, it reaches **39.5%** (vs. 25.95% for GPT-5.5). On **SEC-bench Pro**, which evaluates real-world security engineering tasks including threat modeling and patch validation, it scores **69.8%**.
 
 The ExploitGym number deserves attention. A model capable of building working exploits for nearly 40% of benchmark challenges is powerful enough to demand careful controls. OpenAI has gated GPT-5.5-Cyber behind a verification layer: access requires proof of a defensive mission, with eligibility for security vendors, penetration testing firms with active engagements, and organizations with demonstrable internal security functions. Independent researchers can apply but undergo additional review.
 
@@ -60,13 +61,13 @@ OpenAI published a summary of significant findings from the Daybreak initiative.
 
 **FreeBSD**: 34 vulnerabilities including 7 local privilege escalation proofs-of-concept. FreeBSD powers Netflix's CDN infrastructure and large portions of Sony's gaming systems.
 
-**dnsmasq**: 6 vulnerabilities in the lightweight DNS forwarder deployed on hundreds of millions of home routers and embedded systems worldwide.
+**dnsmasq**: Codex flagged patterns matching four of six dnsmasq vulnerabilities that were later assigned CVE numbers and fixed.
 
 **HTTP/2 Bomb**: A vulnerability affecting **NGINX, Apache HTTP Server, Microsoft IIS, and Cloudflare's Pingora** simultaneously. NGINX and Apache together serve the majority of the world's public-facing web traffic; a single vulnerability class hitting all four servers represents systemic exposure of unusual severity.
 
 **Google Chrome V8**: 5 vulnerabilities in Chrome's JavaScript engine, which underpins not just the browser but Electron-based applications used across enterprise software.
 
-**Apple Safari**: 10 exploitable vulnerabilities. The scope across iOS, macOS, and iPadOS gives these findings a combined attack surface of over 2 billion devices.
+**Apple Safari**: WebKit work on Safari turned up more than 10 vulnerabilities. The scope across iOS, macOS, and iPadOS gives these findings a combined attack surface of over 2 billion devices.
 
 OpenAI states all disclosed vulnerabilities have been reported to maintainers through coordinated disclosure and are either patched or in active remediation. The company has not disclosed patch rates in production deployments, which are characteristically slower than patch releases.
 
@@ -78,7 +79,7 @@ Initial participating open-source projects include **cURL**, **NATS Server**, **
 
 A preliminary five-day sprint, run before the public launch, "identified hundreds of potential issues and led to dozens of merged fixes." OpenAI has not provided specific vulnerability counts from this sprint, citing responsible disclosure timelines.
 
-The program works through a cycle: Codex Security scans participating projects, flags candidate vulnerabilities, and generates patches. Security engineers from Trail of Bits and HackerOne review the AI-generated findings and patches, validate them, and coordinate with project maintainers on merging. Human judgment remains in the loop for validation; the AI handles the volume problem.
+The program works through a cycle: Codex Security scans participating projects, flags candidate vulnerabilities, and generates patches. A human security engineer reviews every Patch the Planet finding before it reaches a maintainer, and researchers work with maintainers to validate vulnerabilities, remove duplicate reports, and verify patches. Human judgment remains in the loop for validation; the AI handles the volume problem.
 
 ## The Daybreak Cyber Partner Program
 
@@ -93,3 +94,5 @@ CISA estimates a global shortage of 4 million cybersecurity professionals. The r
 If Codex Security's 500,000+ auto-fixed findings are representative of what scales, the impact on that gap is meaningful. Automating the portion of the remediation cycle that involves translating a security finding into a reviewable patch — historically a skilled but time-consuming human task — could change the economics of vulnerability management in ways that matter at the infrastructure level.
 
 The competition is watching. Anthropic's Project Glasswing has been rumored in security circles but remains unannounced publicly. Google's Project Zero has begun integrating Gemini into its research workflows without a comparable initiative announcement. OpenAI's willingness to publish specific vulnerability findings — CVE-ready disclosures rather than vague capability claims — is putting pressure on competitors to match the transparency bar.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

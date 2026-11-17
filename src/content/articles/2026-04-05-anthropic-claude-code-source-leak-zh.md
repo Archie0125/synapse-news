@@ -3,6 +3,7 @@ title: "Anthropic 意外洩露 51.2 萬行 Claude Code 原始碼，npm 套件漏
 summary: "Bun 打包工具的已知 bug 導致 Claude Code v2.1.88 的完整原始碼——約 1,900 個 TypeScript 檔案、51.2 萬行程式碼——在 npm 上公開超過三小時。同一時間窗口內還出現了被植入木馬的 HTTP 客戶端套件，引發供應鏈攻擊疑慮。"
 category: "developer-tools"
 publishedAt: 2026-04-05T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: false
@@ -33,7 +34,7 @@ relatedSlugs:
 
 ## 打包工具的 Bug 釀禍
 
-這起事件的根本原因，可追溯至 Anthropic 在 2024 年底的一項收購：高效能 JavaScript 打包工具暨執行環境 Bun。Anthropic 將 Bun 整合進 Claude Code 的建置流水線後，Bun 的一個已知 bug 持續在產出 source map（原始碼映射檔），即便建置設定中已明確寫入 `development: false`。
+這起洩露事件與 Bun 有關。Bun 是 Anthropic 在 2024 年底收購的 JavaScript 打包工具暨執行環境，Claude Code 後來也遷移到了 Bun 上。Anthropic 將 Bun 整合進 Claude Code 的建置流水線後，Bun 的一個已知 bug 持續在產出 source map（原始碼映射檔），即便建置設定中已明確寫入 `development: false`。
 
 Source map 原本是開發除錯用途，能將壓縮後的程式碼還原成可讀的原始碼，正式發布版本幾乎從不應對外公開。然而在這次的情況中，source map 直接包含了一個 URL，指向 Anthropic Cloudflare R2 儲存桶中未加密的原始碼壓縮檔。任何安裝這個套件、且知道要往哪裡找的開發者，都能輕鬆取得完整源碼。
 
@@ -76,3 +77,5 @@ NodeSource 的事後分析提出了幾項緩解建議：強制使用 lockfile �
 對整個開發者社群而言，這起事件提出了一個更難回答的問題：隨著 AI 程式碼助手更深入地整合進建置流水線、CI/CD 系統與 IDE 工作流程，它們所代表的攻擊面也等比擴大。Claude Code 的原始碼洩露，按 Anthropic 自己的說法，是人為失誤——而非有針對性的攻擊。同一窗口內的木馬植入，就不是了。
 
 兩者在同一個三小時內先後出現，是業界需要花很長時間消化的一次壓力測試結果。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

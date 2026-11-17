@@ -3,6 +3,7 @@ title: "Nvidia's $2 Billion Marvell Bet: NVLink Fusion Is the New Moat"
 summary: "Nvidia took a $2B stake in Marvell and launched NVLink Fusion, letting third-party AI accelerators plug into Nvidia's interconnect fabric. The deal signals a pivot: long-term dominance may rest on owning the networking layer, not GPU monopoly."
 category: "hardware"
 publishedAt: 2026-04-05T10:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -34,7 +35,7 @@ The deal's centerpiece is a new platform called **NVLink Fusion**. In standard N
 
 Concretely, the partnership works like this: Marvell supplies the custom AI ASIC designs (XPUs) and NVLink-compatible scale-up networking silicon that hyperscalers like Google, Amazon, and Microsoft use in their custom AI clusters. Nvidia supplies the Vera CPU, ConnectX NICs, BlueField DPUs, and the NVLink switching infrastructure. Under NVLink Fusion, Marvell's compute chips and Nvidia's networking and CPU components are designed to interoperate natively, reducing the engineering burden on hyperscalers and creating a tighter system-level integration than any open standard currently offers.
 
-Marvell stock surged 11–13% on the announcement, closing near a 52-week high.
+Marvell shares surged nearly 13% on the announcement.
 
 ## Why This Matters: The Custom Silicon Threat
 
@@ -69,3 +70,5 @@ Competitors in the networking space — Broadcom, Intel (with Gaudi 3), and nasc
 AMD, which has been making inroads with MI300X for enterprise AI inference, has announced Infinity Fabric extensions to compete with NVLink's scale-up bandwidth. Whether AMD can partner with networking silicon vendors on comparable terms — or whether NVLink Fusion's head start is too large to overcome — will be a defining hardware competition of 2026 and 2027.
 
 For AI developers and infrastructure teams, the short-term message is: Nvidia's ecosystem is expanding its surface area. Even if your future cluster uses custom silicon for compute, there is now a credible path to that custom silicon living inside a Nvidia-branded networking stack. That changes procurement conversations, vendor negotiations, and long-term architecture planning across the industry.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "BofA Hikes 2026 Semiconductor Forecast to $1.3 Trillion, Eyes $2T by 2030"
-summary: "Bank of America analyst Vivek Arya raised his 2026 global semiconductor revenue target to $1.3 trillion—a $300 billion upward revision made just four months after the prior estimate—citing AI-driven surges in compute and storage demand. The bank names Nvidia, Broadcom, Marvell, AMD, Lam Research, and KLA as the top beneficiaries, while warning that cloud capex must surpass $1 trillion by 2027 to sustain the current growth trajectory."
+summary: "Bank of America analyst Vivek Arya raised his 2026 global semiconductor revenue target to $1.3 trillion—a $300 billion increase from the estimate the bank gave just four months earlier—saying AI and data center demand will drive the majority of gains. The bank names Nvidia, Broadcom, Marvell and AMD as top drivers, while noting that cloud capex would need to exceed $1 trillion for chip vendors to hit their 2027 sales targets."
 category: "hardware"
 publishedAt: 2026-04-14T09:10:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,24 +31,23 @@ relatedSlugs:
   - "2026-04-05-nvidia-marvell-nvlink-fusion-en"
 ---
 
-Wall Street's most closely watched semiconductor analyst just handed the chip industry a remarkable new milestone to aim for. In a research note published April 13, Bank of America's **Vivek Arya** raised his 2026 global semiconductor revenue forecast to **$1.3 trillion**—a $300 billion upward revision from the estimate he issued just four months ago, and a figure that would represent a **30% year-over-year surge** from 2025 levels.
+Wall Street's most closely watched semiconductor analyst just handed the chip industry a remarkable new milestone to aim for. In a new research note, Bank of America's **Vivek Arya** raised his 2026 global semiconductor revenue forecast to **$1.3 trillion**—a $300 billion upward revision from the estimate the bank issued just four months ago.
 
 The revision is not a minor trim. It is the equivalent of adding an entirely new semiconductor industry the size of 2021's total market onto the existing 2025 base—in a single year.
 
 ## What Drove the Upgrade
 
-Arya's thesis is straightforward and AI-centric. He projects a **43% year-over-year jump in compute and storage semiconductors**, driven by hyperscaler capital expenditure programs that have accelerated well beyond earlier projections. Data center buildout, AI training clusters, inference infrastructure, and the supporting networking and memory stack are collectively consuming silicon at a pace that earlier industry models consistently underestimated.
+Arya's thesis is straightforward and AI-centric. BofA models a **43% year-over-year jump in compute and storage semiconductors**, and Arya expects AI and data center demand, via compute, networking and memory, to drive the majority of gains. Data center buildout, AI training clusters, inference infrastructure, and the supporting networking and memory stack are collectively consuming silicon at a pace that earlier industry models consistently underestimated.
 
 The upgrade reflects a recognition that AI workloads are fundamentally different from previous demand drivers. Unlike consumer electronics cycles—which plateau at smartphone upgrade saturation—AI infrastructure spending is driven by the economics of model training and inference at scale: each new model generation requires more compute than the last, and deployment at commercial scale requires orders of magnitude more inference capacity. There is no natural ceiling visible from current vantage points.
 
-Arya's top six picks for 2026 were selected specifically for **dominant market shares typically in the 70–75% range** in their respective segments:
+Names BofA highlighted as beneficiaries include:
 
 - **Nvidia** (NVDA) — AI GPU dominance in training and inference
 - **Broadcom** (AVGO) — Custom AI ASICs and networking silicon
 - **Marvell** (MRVL) — Networking and custom silicon for hyperscalers
 - **AMD** (AMD) — Data center GPU second-source and CPU
 - **Lam Research** (LRCX) — Etch equipment critical for advanced node production
-- **KLA** (KLAC) — Semiconductor process control and inspection
 
 The inclusion of equipment makers Lam Research and KLA is notable. It signals that BofA's bull case is not confined to fabless AI chip designers but extends to the picks-and-shovels layer—the companies whose tools are required to manufacture chips at any node, regardless of which architectures ultimately win in the market.
 
@@ -67,14 +67,16 @@ Arya's note does not dismiss these risks but argues that the structural AI deman
 
 ## The Road to $2 Trillion
 
-The longer arc of BofA's projection is even more striking. The bank now forecasts the total semiconductor market reaching **$2 trillion by 2030**, implying a roughly **20% compound annual growth rate** over the next four years. For context, the industry took approximately 50 years to reach its first $500 billion year—and is now being projected to double that in less than a decade.
+The longer arc of BofA's projection is even more striking. The bank expects the total semiconductor market to reach **$2 trillion by 2030**, implying a roughly **20% compound annual growth rate** through the end of the decade. For context, the industry took approximately 50 years to reach its first $500 billion year—and is now being projected to double that in less than a decade.
 
 The $2 trillion scenario assumes continued AI model scaling, the emergence of physical AI (robotics, autonomous vehicles, edge inference), and the gradual electrification of everything from factory floors to residential energy management creating new silicon demand categories.
 
-## Industry Context: From $1T to $1.3T in One Quarter
+## Industry Context: From $1T to $1.3T in Four Months
 
-The velocity of the estimate revisions is almost as striking as the figures themselves. BofA's prior forecast was already bullish by historical standards; the $300 billion upward revision in a single quarter reflects how much the AI infrastructure build has accelerated beyond even optimistic scenarios. Global chip sales data for the first months of 2026 have consistently exceeded analyst expectations, with monthly figures running 60–70% above year-ago levels.
+The velocity of the estimate revisions is almost as striking as the figures themselves. BofA's prior forecast was already bullish by historical standards; the $300 billion upward revision in just four months reflects how quickly the AI build-out has accelerated. Global chip sales data for the first months of 2026 have consistently exceeded analyst expectations, with monthly figures running 60–70% above year-ago levels.
 
 The semiconductor industry—long accustomed to boom-bust inventory cycles driven by consumer electronics—is experiencing a structurally different demand curve. AI infrastructure is inherently long-cycle capital investment. Hyperscalers plan data center builds on multi-year horizons; chip supply chains respond accordingly. That means the volatility profile of semiconductor stocks may itself be changing, as annualized revenue forecasts become more predictable and less subject to sudden inventory correction.
 
 Whether $1.3 trillion materializes or the year ends closer to $1.1 trillion, one fact seems beyond dispute: the silicon century is well and truly underway.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Anthropic 4 億美元生技豪賭，搶先定義「AI for Science」戰�
 summary: "諾貝爾獎科學家加盟、斥資 4 億美元收購生技新創，加上 6 月 30 日即將召開的製藥業峰會，Anthropic 正在全力執行一場鎖定生命科學市場的垂直整合攻勢——這個市場的潛力可能遠超一般企業 AI 市場。"
 category: "ai-ml"
 publishedAt: 2026-06-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -37,9 +38,9 @@ Anthropic 要傳遞的訊息在活動文案中寫得明白：AI 能將製藥研�
 
 ## Coefficient Bio：4 億美元的生技押注
 
-2026 年 4 月，Anthropic 悄然完成了一項可能是其迄今最具戰略意義的交易：以約 **4 億美元**的全股票交易，收購了 **Coefficient Bio**——一家總部位於紐約、仍處於隱身模式的生技 AI 新創。
+據《The Information》報導，Anthropic 以約 **4 億美元**的全股票交易，收購了 **Coefficient Bio**——一家總部位於紐約、仍處於隱身模式的生技 AI 新創。
 
-這筆交易最引人注目的，不只是價格，而是 Coefficient Bio 究竟是什麼。這家公司員工不到 10 人，幾乎全是前基因泰克計算生物學研究人員。共同創辦人 Samuel Stanton 和 Nathan C. Frey 均來自基因泰克計算藥物研發部門 Prescient Design。這家新創一直在隱身狀態下，從頭打造專屬的生物學 AI 基礎設施——據《The Information》描述，包括「蛋白質建模與生物分子表示的基礎工具」。
+這筆交易最引人注目的，不只是價格，而是 Coefficient Bio 究竟是什麼。這家公司員工不到 10 人，幾乎全是前基因泰克計算生物學研究人員。共同創辦人 Samuel Stanton 和 Nathan C. Frey 均來自基因泰克計算藥物研發部門 Prescient Design。這家新創一直大致處於隱身狀態，網站上沒有任何關於其平台的說明，LinkedIn 頁面內容也相當稀少。
 
 Coefficient Bio 的自我定位，用其內部材料的說法是：「為科學打造人工超級智慧」。Anthropic 以每位員工約 4,000 萬美元的代價，買下的是這份野心、這支團隊，以及底層的智慧財產。
 
@@ -96,3 +97,5 @@ Anthropic 一直將其憲法式 AI 方法與可解釋性研究，定位為特別
 科學 AI 的版圖爭奪已正式開打。Anthropic 目前擁有最具公開知名度的陣地、業界最著名的諾貝爾獎科學家，以及 4 億美元的生物 AI 基礎設施收購。
 
 這是否足以贏得這場注定漫長的比賽，仍是懸而未決的問題。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 2 處。*

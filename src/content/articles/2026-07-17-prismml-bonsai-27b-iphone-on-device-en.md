@@ -1,8 +1,9 @@
 ---
-title: "PrismML's Bonsai 27B Becomes the First 27-Billion-Parameter AI Model to Run on an iPhone"
-summary: "PrismML, a Caltech-spinout backed by Khosla Ventures, Google, and Samsung, released Bonsai 27B on July 14: a 27-billion-parameter multimodal model compressed to 3.9GB that runs at 11 tokens per second on an iPhone 17 Pro Max. Available under Apache 2.0, it retains 90% of full-precision performance and ships with a 262K-token context window, marking a breakthrough for on-device AI inference."
+title: "PrismML Releases Bonsai 27B, a 27-Billion-Parameter AI Model Built to Run on an iPhone"
+summary: "PrismML, a company founded by Caltech researchers and backed by Khosla Ventures, Cerberus, and Google, has released Bonsai 27B, a 27-billion-parameter model whose smaller variant is about 3.9GB and, per PrismML's white paper, generates about 11 tokens per second on an iPhone 17 Pro Max. The weights are available under Apache 2.0, and that variant keeps about 90% of the original model's performance in PrismML's own evaluation."
 category: "developer-tools"
 publishedAt: 2026-07-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,19 +28,19 @@ relatedSlugs:
   - "2026-07-17-moonshot-kimi-k3-open-weight-model-en"
 ---
 
-The story of AI moving from the cloud to the edge has been building for years. On July 14, 2026, a small Caltech-spinout called PrismML wrote what may be its most significant chapter yet: releasing Bonsai 27B, a 27-billion-parameter multimodal model that compresses into a 3.9-gigabyte footprint and runs at practical speeds — 11 tokens per second — on an iPhone 17 Pro Max.
+The story of AI moving from the cloud to the edge has been building for years. PrismML, a company founded by Caltech researchers, has released Bonsai 27B, a 27-billion-parameter model whose smaller variant takes up about 3.9 gigabytes and, according to PrismML's white paper, generates about 11 tokens per second on an iPhone 17 Pro Max.
 
-The model, based on Alibaba's Qwen3.6 27B foundation but rebuilt from the ground up using extreme quantization techniques, is available immediately under the Apache 2.0 license. There are no download fees, no usage restrictions, no terms-of-service handcuffs. A developer can pull Bonsai 27B today, run it entirely on a consumer device, and ship an application that processes text, images, and documents without a single API call to a cloud server.
+The model, based on Alibaba's Qwen3.6 27B foundation but rebuilt from the ground up using extreme quantization techniques, is available immediately under the Apache 2.0 license. The model weights are available under the Apache 2.0 license, and PrismML also offers a free, limited-time developer preview API. A developer can pull Bonsai 27B today, run it entirely on a consumer device, and ship an application that processes text, images, and documents without a single API call to a cloud server.
 
 That's a genuinely different world from where on-device AI was even twelve months ago.
 
 ## How You Fit 27 Billion Parameters Into a Phone
 
-The technical challenge is stark. A standard 27-billion-parameter model in 16-bit floating-point precision requires roughly 54 gigabytes of memory — more than twenty times the RAM available on an iPhone. Getting to 3.9 gigabytes requires a compression ratio of approximately 14:1 without catastrophic performance loss. That's the problem PrismML spent the past year solving.
+The technical challenge is stark. A model of this size typically takes up about 54 gigabytes of storage, while a 12 GB iPhone makes only about 6 GB available to a single app. Getting to 3.9 gigabytes requires a compression ratio of approximately 14:1 without catastrophic performance loss. That's the problem PrismML spent the past year solving.
 
-The company's approach uses two quantization variants shipped simultaneously. The **1-bit variant** — which reduces each parameter to a single binary value (+1 or -1) — achieves the smallest footprint and is the version that fits comfortably on an iPhone 17 Pro. The **ternary variant** uses three values per parameter (+1, 0, -1), doubles the precision slightly, and is targeted at laptop-class hardware like the M4 MacBook Pro.
+The company's approach uses two quantization variants shipped simultaneously. The **1-bit variant**, in which each weight has only two states, is the smaller one at about 3.9 GB and is the version meant for the iPhone. The **ternary variant** uses three states per weight, is the larger, quality-focused version at about 5.9 GB, and is meant for laptops.
 
-Both variants build on research from the 1.58-bit BitNet paper tradition, but PrismML's implementation introduces several proprietary optimizations for inference on ARM and Apple Silicon architectures that the company says account for most of the practical speedup. The 1-bit variant retains 90% of the full-precision model's performance across 15 standard benchmarks, including MMLU, HellaSwag, and the code generation evaluations.
+Both variants build on research from the 1.58-bit BitNet paper tradition, but PrismML's implementation introduces several proprietary optimizations for inference on ARM and Apple Silicon architectures that the company says account for most of the practical speedup. In PrismML's own evaluation across 15 benchmarks, the smaller variant keeps about 90% of the original model's performance, and PrismML says math and coding stayed "virtually unaffected."
 
 The vision tower — which enables the model to process images, screenshots, and camera input — ships in compact 4-bit form rather than being dropped entirely, preserving multimodal capability within the phone's memory budget.
 
@@ -51,7 +52,7 @@ The 262,000-token context window is another headline figure. For a model running
 
 ## Who Built This and Who's Backing It
 
-PrismML was founded in 2024 by a team led by researchers who spun out of Caltech's machine learning groups, focused specifically on the intersection of extreme model compression and mobile hardware architectures. The company has raised funding from Khosla Ventures, Google Ventures, and Samsung — a lineup that reflects both the strategic importance of on-device AI and the specific interest of hardware manufacturers in reducing cloud infrastructure dependency.
+PrismML is a company founded by a team of Caltech researchers. The company was founded with backing from Khosla Ventures, Cerberus, and Google, and Samsung continues to support it.
 
 Samsung's involvement is particularly notable. The company ships hundreds of millions of Android devices annually and has been building out its own on-device AI platform (Galaxy AI) for the past two years. Bonsai 27B offers Samsung a 27B-class model that could run on Galaxy hardware without Samsung paying per-inference cloud fees — a strong incentive for the Samsung venture arm to support its development.
 
@@ -77,4 +78,6 @@ The parallel isn't perfect — DeepSeek R1's cost efficiency was achieved at tra
 
 For AI developers, that's worth sitting with. The architecture of a significant portion of the AI application stack was designed around the assumption that models of this size live in the cloud. Bonsai 27B — and the category of models it represents — suggests that assumption needs revisiting.
 
-The weights are available now at the PrismML GitHub repository. The 1-bit variant requires a device with at least 6GB of unified memory; the ternary variant targets 12GB. iPhone 17 Pro, iPhone 17 Pro Max, and recent iPad Pro models all qualify.
+The weights are available now at the PrismML GitHub repository. According to PrismML, a 12 GB iPhone makes only about 6 GB available to a single app, split between the model and the cache. iPhone 17 Pro, iPhone 17 Pro Max, and recent iPad Pro models all qualify.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

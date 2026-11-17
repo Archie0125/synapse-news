@@ -1,8 +1,9 @@
 ---
 title: "SpaceX Acquires AI Coding Startup Cursor in $60 Billion All-Stock Deal"
-summary: "SpaceX has agreed to acquire Anysphere, maker of the popular AI coding assistant Cursor, in a $60 billion all-stock deal expected to close in Q3 2026. The acquisition gives SpaceX's xAI division an established enterprise AI business and a direct challenge to OpenAI and Anthropic in the fast-growing AI coding market."
+summary: "SpaceX has agreed to acquire Anysphere, maker of the popular AI coding assistant Cursor, in a $60 billion all-stock deal expected to close in the third quarter of 2026. The acquisition gives SpaceX's xAI a stronger hold in AI coding, where it competes with OpenAI and Anthropic."
 category: "startups"
 publishedAt: 2026-06-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,27 +30,27 @@ relatedSlugs:
   - "2026-06-15-openai-s1-ipo-filing-852b-valuation-en"
 ---
 
-SpaceX has agreed to acquire Anysphere, the company behind the popular AI coding assistant Cursor, in a landmark $60 billion all-stock deal. The merger, confirmed on Monday June 16, 2026, represents one of the largest tech acquisitions in recent memory and signals Elon Musk's latest aggressive push into the enterprise AI software market.
+SpaceX has agreed to acquire Anysphere, the company behind the popular AI coding assistant Cursor, in a landmark $60 billion all-stock deal. The merger, announced on Tuesday, June 16, 2026, signals Elon Musk's latest push into the enterprise AI tools market.
 
-The deal is structured as an all-stock merger between Anysphere and X67, a wholly owned SpaceX subsidiary. Cursor shareholders will receive SpaceX Class A common stock based on the implied $60 billion equity value, with the exchange ratio determined by SpaceX's volume-weighted average closing price over the seven trading days before closing. The transaction is expected to close in the third quarter of 2026, with termination fees set at $10 billion — or $4 billion if antitrust concerns force a walkaway.
+The deal is structured as an all-stock merger between Anysphere and X67, a wholly owned SpaceX subsidiary. Cursor shareholders will receive SpaceX Class A common stock based on the implied $60 billion equity value, with the exchange ratio determined by SpaceX's volume-weighted average closing price over the seven trading days before closing. The transaction is expected to close in the third quarter of 2026, subject to regulatory approvals.
 
 ## Cursor's Meteoric Rise
 
-Founded in 2022 in San Francisco, Anysphere built Cursor into one of the fastest-growing developer tools in history. The AI-native code editor quickly captured the imagination — and wallets — of software engineers worldwide, generating approximately $2.6 billion in annualized business-to-business revenue at the time of the deal. The company had previously been valued at $50 billion in the most recent funding discussions, backed by Andreessen Horowitz, Thrive Capital, Nvidia, and Google.
+Founded in 2022 in San Francisco, Anysphere built Cursor into one of the fastest-growing developer tools in history. Cursor quickly became a popular AI coding tool, and the company said in November that it had crossed $1 billion in annualized revenue. The company had previously been valued at $50 billion in the most recent funding discussions, backed by Andreessen Horowitz, Thrive Capital, Nvidia, and Google.
 
-Cursor distinguishes itself from rivals like GitHub Copilot by offering a deeply integrated development environment that can read entire codebases, suggest multi-file edits, and operate with a degree of autonomy more akin to a junior developer than a simple autocomplete tool. At a moment when AI coding assistants have become the biggest productivity lever in software development, Cursor has consistently led user preference surveys.
+Cursor distinguishes itself from rivals like GitHub Copilot by offering a deeply integrated development environment that can read entire codebases, suggest multi-file edits, and operate with a degree of autonomy more akin to a junior developer than a simple autocomplete tool. Cursor's market share has slipped, however, from 41% in June 2025 to about 26% in May, according to Ramp spending data, with Anthropic now controlling half of the category.
 
 ## The xAI Strategic Logic
 
-SpaceX's rationale for the deal becomes clearer when seen through the lens of xAI, its Grok chatbot division that completed a merger with SpaceX in February 2026. By absorbing Cursor, SpaceX gains an immediate, established enterprise business with millions of paying developers — a beachhead in the AI software market where xAI has lagged rivals like OpenAI (with its Windsurf/Codex products) and Anthropic (with Claude's deep coding integrations).
+SpaceX's rationale for the deal becomes clearer when seen through the lens of xAI, which SpaceX merged with in February. By absorbing Cursor, SpaceX gains an immediate, established enterprise business with millions of paying developers — a beachhead in the AI software market where xAI has lagged rivals like OpenAI (with its Windsurf/Codex products) and Anthropic (with Claude's deep coding integrations).
 
 The deal also fills a critical infrastructure gap. xAI's data centers and compute stack can serve as the backbone for next-generation Cursor model development, while Cursor's massive developer user base gives xAI a distribution channel that could rival GitHub's dominant position.
 
-The acquisition had been telegraphed since April 2026, when SpaceX secured an option to either acquire Anysphere for $60 billion or enter a new partnership valued at $10 billion. Monday's announcement confirms SpaceX exercised the acquisition option in full.
+The acquisition had been telegraphed since April 2026, when SpaceX unveiled an option to either acquire Anysphere for $60 billion later this year or pay $10 billion for a partnership. Tuesday's announcement confirms SpaceX is moving forward with the acquisition.
 
 ## Market Reaction
 
-Wall Street cheered the deal enthusiastically. SpaceX shares — which only began trading last week following the company's record-breaking IPO — jumped nearly 10% in premarket trading, adding approximately $247 billion to its $2.53 trillion market cap. If the gains hold, SpaceX could vault past Amazon to become the fifth-largest publicly traded company in the world.
+Wall Street cheered the deal enthusiastically. SpaceX shares — which only began trading last week following the company's record-breaking IPO — jumped nearly 10% in premarket trading, adding approximately $247 billion to its $2.53 trillion market cap. If the gains hold, SpaceX is set to overtake Amazon in market value to become the fifth-largest company, according to Reuters.
 
 The surge reflects investor confidence that SpaceX is executing a coherent AI strategy at scale. Unlike many large companies dabbling in enterprise software, SpaceX's xAI merger gives the company a credible AI research organization. The Cursor acquisition adds an immediate revenue-generating business on top.
 
@@ -65,10 +66,12 @@ For Cursor's millions of users, the immediate question is what changes. Both com
 
 There is inevitably some concern in developer communities about whether Elon Musk's ownership of an enterprise coding tool introduces political risk — particularly given xAI's historically complex relationship with content moderation expectations. However, Anysphere's founders have reportedly received strong assurances of operational independence.
 
-The deal is also likely to intensify the battle for AI inference revenue. As Cursor grows under SpaceX's umbrella, its model preferences could shift toward Grok, creating downstream competition for API revenue at Anthropic and OpenAI. At Cursor's scale, who processes those inference requests represents an enormous commercial stake.
+As Cursor grows under SpaceX's umbrella, its model preferences could shift toward Grok, creating downstream competition for API revenue at Anthropic and OpenAI. At Cursor's scale, who processes those inference requests represents an enormous commercial stake.
 
 ## Regulatory Risks
 
-The Q3 close timeline is ambitious, and regulatory scrutiny could slow things down. Antitrust officials in both the United States and the European Union have been increasingly watchful of large platform acquisitions in AI. The $4 billion antitrust termination fee — lower than the standard $10 billion — reflects some awareness of that risk.
+The deal is subject to regulatory approvals, which could affect the Q3 close timeline. Antitrust officials in both the United States and the European Union have been increasingly watchful of large platform acquisitions in AI.
 
-Still, the deal as structured represents a clear bet on AI coding as central infrastructure for the software economy. With Cursor's developer base, xAI's model capabilities, and SpaceX's capital firepower behind it, Monday's announcement may mark the beginning of one of the most consequential enterprise software franchises of the decade.
+Still, the deal as structured represents a clear bet on AI coding as central infrastructure for the software economy. With Cursor's developer base, xAI's model capabilities, and SpaceX's capital firepower behind it, Tuesday's announcement may mark the beginning of a consequential enterprise software franchise.
+
+*Correction (November 15, 2026): 13 sentences were corrected or removed to match the sources listed on this page.*

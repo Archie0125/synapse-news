@@ -3,6 +3,7 @@ title: "Broadcom Posts Record AI Chip Revenue, Then Watches Its Stock Drop 12%"
 summary: "Broadcom reported $10.8 billion in Q2 AI semiconductor revenue — up 143% year-over-year — but its stock fell 12% after Q3 guidance of $16 billion missed analyst expectations of $17.2 billion. The paradox captures the extreme expectations baked into AI infrastructure stocks and raises questions about margin sustainability as custom ASIC revenue scales."
 category: "industry"
 publishedAt: 2026-06-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -37,11 +38,11 @@ The contrast captures something essential about the current moment in AI infrast
 
 Broadcom reported Q2 consolidated revenue of $22.19 billion, up 48% year-over-year and slightly ahead of Wall Street estimates. Adjusted earnings per share came in at $2.44. In virtually any other sector of the economy, these would be unambiguously excellent results.
 
-But in AI infrastructure, where Broadcom competes alongside Nvidia and a growing cohort of custom chip designers, the bar has shifted. CEO Hock Tan stated that "Q2 semiconductor revenue from AI of $10.8 billion grew 143% year-over-year, above our forecast" — factually true. Yet what investors asked was whether next quarter would continue accelerating. The Q3 guidance implied over 200% growth year-over-year, but still came in $1.2 billion below what analysts had modeled.
+But in AI infrastructure, where Broadcom competes alongside Nvidia and a growing cohort of custom chip designers, the bar has shifted. CEO Hock Tan stated that "Q2 semiconductor revenue from AI of $10.8 billion grew 143% year-over-year, above our forecast" — factually true. Yet what investors asked was whether next quarter would continue accelerating. The Q3 guidance implied over 200% growth year-over-year, but still came in $1.2 billion below the $17.2 billion analysts had modeled.
 
 ## The Custom Chip Business Model
 
-Broadcom's AI chip business is structurally different from Nvidia's. While Nvidia sells GPU clusters to hyperscalers at high margins, Broadcom designs custom AI accelerators — known as ASICs — tailored to the specific needs of individual customers. The company has identified six core AI chip customers, including Google, Meta, Anthropic, and OpenAI, with two additional hyperscalers disclosed over the past year.
+Broadcom's AI chip business is structurally different from Nvidia's. While Nvidia sells GPU clusters to hyperscalers at high margins, Broadcom designs custom AI accelerators — known as ASICs — tailored to the specific needs of individual customers. The company has six core custom chip customers, including Google, Meta, Anthropic, and OpenAI.
 
 These custom chips offer better performance-per-watt for specific inference or training tasks compared to general-purpose GPUs — a significant advantage at the scale these companies operate. Google's TPU line, for instance, is built on Broadcom silicon and represents a key competitive differentiator for Google Cloud.
 
@@ -51,17 +52,17 @@ For Broadcom, the trade-off is that revenue is more concentrated and custom desi
 
 One detail attracting significant attention beyond the top-line numbers was Hock Tan's candid acknowledgment of margin pressure. "It's the mix," Tan told analysts on the earnings call, "between software and non-AI to the very rapidly growing AI semiconductor that is just diluting gross margin."
 
-This is the tension embedded in Broadcom's growth story: the AI chips growing fastest are accretive to revenue but dilutive to margins compared to the company's high-margin software and networking businesses, including its large VMware enterprise software portfolio. As AI semiconductor revenue becomes a larger share of the total, overall gross margins face structural pressure.
+This is the tension embedded in Broadcom's growth story: as the rapidly growing AI semiconductor business becomes a larger share of revenue, it dilutes gross margin relative to the company's software and non-AI businesses, including its large VMware enterprise software portfolio. As AI semiconductor revenue becomes a larger share of the total, overall gross margin declines, though management said this reflects product mix and not a structural change in semiconductor margin.
 
-This dynamic is not unique to Broadcom. Across the semiconductor industry, the custom ASIC business — which requires extensive non-recurring engineering investment for each new design — carries inherently different economics than a mass-market product. Broadcom has managed this tension skillfully, but the margin question will intensify as AI chip revenue scales toward its stated $100 billion target for fiscal 2027.
+This dynamic is not unique to Broadcom. Across the semiconductor industry, the custom ASIC business — which requires extensive non-recurring engineering investment for each new design — carries inherently different economics than a mass-market product. The margin question may intensify as AI chip revenue scales toward its stated $100 billion target for fiscal 2027.
 
 ## The $100 Billion Bet
 
-That target — over $100 billion in AI semiconductor revenue for fiscal year 2027 — remains Broadcom's north star. The company did not raise it, which some investors interpreted as caution. In context, though, maintaining a commitment to more than doubling AI revenue again from an already elevated base represents substantial ambition.
+That target — over $100 billion in AI semiconductor revenue for fiscal year 2027 — remains Broadcom's north star. The company left it unchanged rather than raising it. In context, though, reiterating a target of more than $100 billion for fiscal 2027, against $56 billion guided for fiscal 2026, represents substantial ambition.
 
-The six custom chip customers driving this growth are spending at extraordinary rates. Collectively, they represent an increasingly essential slice of the AI inference and training stack — not merely as chip buyers but as companies designing and deploying AI systems at a scale that demands custom silicon. As these customers expand their AI fleets, Broadcom's ASIC revenue grows almost mechanically with them.
+Hock Tan said the company has six core custom chip customers, and that purchase orders from the two customers beyond Google, Meta, Anthropic and OpenAI total $6 billion. Collectively, they represent an increasingly essential slice of the AI inference and training stack — not merely as chip buyers but as companies designing and deploying AI systems at a scale that demands custom silicon. As these customers expand their AI fleets, Broadcom's ASIC revenue grows almost mechanically with them.
 
-Tan specifically called out Anthropic and OpenAI — both of which recently went public or are preparing IPOs — as among the customers with expanding AI accelerator programs. The implication is that even new entrants into the public markets are committed to long-cycle custom silicon programs, suggesting the AI infrastructure buildout has durability beyond near-term hype cycles.
+Tan named Anthropic and OpenAI among the six core customers, and said Broadcom is creating an AI XPU platform with Apollo, Blackstone and other investors to help enable their compute needs. The implication is that even new entrants into the public markets are committed to long-cycle custom silicon programs, suggesting the AI infrastructure buildout has durability beyond near-term hype cycles.
 
 ## The Sell-the-News Reaction
 
@@ -76,3 +77,5 @@ For the broader semiconductor industry, Broadcom's results carry important signa
 The guidance miss, while notable, is perhaps better understood as the difficulty of predicting quarterly lumpiness in large custom chip programs than as evidence of structural slowdown. When revenue depends on bespoke multi-billion dollar chip programs for a handful of customers, the timing of tape-outs and production ramps creates inherent volatility.
 
 Broadcom's challenge heading into fiscal 2027 will be demonstrating that the path to $100 billion in AI chip revenue is credible — while managing the margin evolution that comes with it. If it can do both, the stock's post-earnings reaction may ultimately look like noise rather than signal.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

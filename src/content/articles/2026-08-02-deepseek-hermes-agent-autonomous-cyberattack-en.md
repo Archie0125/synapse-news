@@ -1,8 +1,9 @@
 ---
-title: "Inside the First Documented AI Autonomous Cyberattack: DeepSeek and Hermes Agent Exposed"
-summary: "Palo Alto Networks' Unit 42 has documented the first in-the-wild use of an AI model to conduct fully autonomous cyberattacks. A China-based actor wired DeepSeek into the open-source Hermes Agent framework, commanding it via Telegram to scan, identify, and attack 460+ internet-exposed servers—compressing hundreds of hours of manual reconnaissance into minutes."
+title: "Inside a Documented AI Autonomous Cyberattack Campaign: DeepSeek and Hermes Agent Exposed"
+summary: "Palo Alto Networks' Unit 42 has documented a China-based actor who wired DeepSeek into the open-source Hermes Agent framework, commanding it via Telegram to find and attack exposed servers—compressing hundreds of hours of manual targeting analysis into minutes."
 category: "ai-ml"
 publishedAt: 2026-08-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -24,13 +25,13 @@ relatedSlugs:
   - "2026-08-01-deepseek-v4-flash-0731-agent-benchmarks-en"
 ---
 
-The question cybersecurity researchers have been asking for years—when would an attacker actually weaponize an AI model for fully autonomous hacking?—has now been answered. Palo Alto Networks' Unit 42 threat intelligence team has documented what appears to be the first in-the-wild AI-driven autonomous cyberattack campaign, operated by a China-based actor who outfitted DeepSeek with an open-source agentic framework and pointed it at hundreds of internet-exposed servers.
+The question cybersecurity researchers have been asking for years—when would an attacker actually weaponize an AI model for fully autonomous hacking?—has now been answered. Palo Alto Networks' Unit 42 threat intelligence team has documented an AI-driven autonomous cyberattack campaign, operated by a China-based actor who outfitted DeepSeek with an open-source agentic framework and pointed it at exposed servers.
 
 ## The Setup: DeepSeek Meets Hermes Agent
 
 The threat actor, who operates under the aliases "knaithe" and "KnYuan" and has described themselves as a "binary security researcher," built their offensive platform around three key components: DeepSeek as the AI reasoning engine, the open-source Hermes Agent framework to translate DeepSeek's outputs into real operating system actions, and FOFA—a Chinese internet asset search engine similar to Shodan—to locate vulnerable targets.
 
-Commands arrived via a private Telegram channel. The operator would send a high-level task—something as simple as "find and exploit vulnerable Langflow servers"—and the autonomous system would handle everything else: querying FOFA for targets, identifying software versions, downloading public proof-of-concept exploits, and executing the attack sequence without any additional human input.
+Hermes was configured to accept instructions from a Telegram channel. The operator would send a high-level task—something as simple as "find and exploit vulnerable Langflow servers"—and the autonomous system would handle everything else: querying FOFA for targets, identifying software versions, downloading public proof-of-concept exploits, and executing the attack sequence without any additional human input.
 
 Unit 42 described the efficiency in stark terms: "the system executed hundreds of hours of manual targeting analysis in mere minutes, while also managing its own compute resources."
 
@@ -42,7 +43,7 @@ Unit 42 recovered logs from a May 2026 session that provide an unusually complet
 
 The agent first targeted Langflow servers—a popular open-source AI workflow platform—vulnerable to CVE-2026-33017, a critical remote code execution flaw. Using FOFA queries, the system identified 84 exposed instances globally and systematically probed each for vulnerability, examining HTTP headers, response signatures, and version strings to narrow down likely targets.
 
-It then pivoted to n8n, a workflow automation platform, discovering more than 647,000 internet-facing instances—a staggering attack surface. The agent also catalogued exposure across Citrix NetScaler, Apache Tomcat, Marimo Notebook instances, and Windows IKE VPN endpoints, building a prioritized target list with no human guidance.
+It then pivoted to n8n, a workflow automation platform, discovering more than 647,000 internet-facing instances—a staggering attack surface.
 
 Throughout the session, the system self-managed its exploit toolkit: it downloaded public proof-of-concept code, verified checksums, staged execution environments, and tracked which targets had already been probed. When one attack path failed, it rerouted to alternatives. This is the behavior of a competent, if methodical, human penetration tester—performed at machine speed.
 
@@ -54,7 +55,7 @@ It was a surveillance camera accidentally pointed back at the attacker. Without 
 
 ## Outcomes: Autonomous Fails, Manual Succeeds
 
-The autonomous AI attacks did not successfully compromise their intended targets. This is notable: despite the agent's efficiency at reconnaissance and exploit staging, the actual exploitation phase failed when running without human judgment.
+The autonomous AI attacks did not successfully compromise their intended targets. This is notable: although the agent identified vulnerable servers and staged exploits, the attempts failed because the discovered forms required authentication.
 
 However, the actor supplemented the AI campaign with three successful manual attacks against Citrix NetScaler servers using CVE-2026-3055, a vulnerability enabling extraction of authentication cookies for session hijacking. Eleven Marimo Notebook instances were also accessed through separate manual methods.
 
@@ -83,3 +84,5 @@ The attacker's home-directory exposure was lucky for defenders this time. Next t
 This incident doesn't exist in isolation. It lands in a moment when the AI industry is actively deploying increasingly capable agentic systems—OpenAI's Astra, Anthropic's tool-use APIs, Google's Gemini agents—marketed explicitly for their ability to take autonomous action in the world. The same architectural capabilities that make these systems useful for legitimate business automation make them potent for malicious autonomous operation.
 
 The difference is guardrails. This case is the most concrete argument yet for why safety alignment isn't just an abstract ethics concern—it's a direct security outcome with measurable consequences in the real world.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

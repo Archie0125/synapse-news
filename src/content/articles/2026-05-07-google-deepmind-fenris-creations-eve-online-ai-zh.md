@@ -1,8 +1,9 @@
 ---
-title: "Google DeepMind 入股《EVE Online》開發商 Fenris Creations，1.2 億美元交易開啟遊戲 AI 研究新頁"
-summary: "開發太空 MMO《EVE Online》長達 23 年的冰島工作室 CCP Games，已從韓國母公司 Pearl Abyss 獨立，更名為 Fenris Creations，並宣布與 Google DeepMind 展開研究合作，後者取得少數股權。這筆 1.2 億美元的交易，將以《EVE Online》為沙盒訓練環境，研究目前前沿 AI 模型的核心缺口：長程規劃、持久記憶與持續學習能力。"
+title: "《EVE Online》開發商更名 Fenris Creations，以 1.2 億美元交易脫離母公司並與 Google DeepMind 合作"
+summary: "開發太空 MMO《EVE Online》超過 20 年的冰島工作室 CCP Games，已從韓國母公司 Pearl Abyss 獨立，更名為 Fenris Creations，並宣布與 Google DeepMind 展開研究合作，Google 取得少數股權。1.2 億美元的交易金額指的是所有權變更，而研究合作則將使用《EVE Online》離線版本，測試並評估 AI 模型在長程規劃、記憶與持續學習方面的能力。"
 category: "ai-ml"
 publishedAt: 2026-05-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -45,7 +46,7 @@ Google DeepMind 將《EVE Online》描述為「測試通用人工智慧的獨一
 
 ## 研究方法
 
-為在受控的科學環境中研究這些能力，Google DeepMind 將使用**在本地伺服器上運行的《EVE Online》離線版本**，與正式遊戲環境完全隔離。這使研究團隊能以任意速度執行實驗、重置遊戲狀態，並調整參數——這些在真實多人遊戲環境中都是不可能的。
+為在受控環境中研究這些能力，Google DeepMind 將使用**在本地伺服器上運行的《EVE Online》離線版本**，不與正式遊戲連線。這使研究團隊能以任意速度執行實驗、重置遊戲狀態，並調整參數——這些在真實多人遊戲環境中都是不可能的。
 
 離線環境同時解決了以活躍玩家社群作為研究對象的倫理問題。透過隔離研究基礎設施與正式遊戲，Fenris Creations 和 Google DeepMind 可以進行嚴謹的科學研究，而不干擾現有玩家的遊戲體驗。
 
@@ -53,7 +54,7 @@ Google DeepMind 將《EVE Online》描述為「測試通用人工智慧的獨一
 
 ## 公司轉型的背後
 
-Google DeepMind 合作公告與一場重大的公司架構重組同步揭曉——Fenris Creations 從 Pearl Abyss 獨立出來。這家韓國遊戲集團在 2018 年以約 4.25 億美元收購 CCP Games，此後提供了穩定的財務支撐。此次分手，似乎反映出雙方達成了共識：Fenris Creations 的未來走向——AI 研究合作與平台開發——與 Pearl Abyss 的核心遊戲業務組合存在明顯分歧。
+Google DeepMind 合作公告與一場重大的公司架構重組同步揭曉——Fenris Creations 從 Pearl Abyss 獨立出來。這家韓國遊戲集團在 2018 年以約 4.25 億美元收購 CCP Games，此後一直為公司提供支持。經過對長期策略的共同檢視，雙方認為以獨立所有權支持公司發展最為合適，而 Pearl Abyss 則將專注於自家核心遊戲作品與 IP 組合的成長。
 
 Fenris Creations 維持原有的管理團隊、員工與運營架構不變。更名決定刻意傳遞一種新的戰略身份：不只是遊戲工作室，而是恰好建構並維護了全球最複雜持久模擬環境之一的研究組織。
 
@@ -74,3 +75,5 @@ Google DeepMind 對遊戲環境的興趣由來已久。該機構的早期突破�
 這次合作引出了一個耐人尋味的問題：複雜模擬環境在 AI 開發中，究竟能扮演多重要的角色？如果《EVE Online》確實有助於推進長程規劃與記憶研究，它或許會催生一個更廣泛的「複雜模擬環境研究工具」類別——不是為了娛樂而設計的遊戲，而是為了展現通用 AI 研究所最需要的那些特性而打造的持久世界。
 
 這對整個領域而言，將是具有實質意義的演進。當前 AI 基準測試受到的一個長期批評，恰恰是它們太過狹窄、規格太過明確、與現實任務的複雜性過度脫節，無法充分衡量真正的能力進展。一個歷經二十年玩家互動，自然湧現出真實複雜性的環境，幾乎天然地是完全不同的東西。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

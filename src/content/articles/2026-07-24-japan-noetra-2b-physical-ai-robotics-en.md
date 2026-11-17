@@ -1,8 +1,9 @@
 ---
-title: "Japan Bets $2.3 Billion on Noetra to Build Sovereign AI for Robots — SoftBank, Honda, Sony Back the Push"
-summary: "Japan's government-backed company Noetra has secured ¥380 billion ($2.3 billion) in first-year funding from 44 corporations including SoftBank, Honda, and Sony, tasked with building a sovereign multimodal AI foundation model for robots and physical systems. With plans for 27,500 Nvidia Rubin chips and a goal of deploying 10 million AI-enabled robots by 2040, Japan is positioning Noetra as a make-or-break moment for the country's industrial AI ambitions."
+title: "Japan Backs Noetra with $2.3 Billion to Build Sovereign AI for Robots as SoftBank, Honda, Sony Join the Push"
+summary: "Japan's government-backed company Noetra has secured more than ¥380 billion ($2.33 billion) in first-year government funding and backing from 44 companies including SoftBank, Honda, and Sony, to build a sovereign multimodal AI foundation model for robots and physical AI. With plans for 27,500 Nvidia Rubin chips and a government goal of deploying 10 million AI-enabled robots by 2040, Noetra's CEO calls the project Japan's \"last chance\" in the field."
 category: "hardware"
 publishedAt: 2026-07-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -32,15 +33,15 @@ relatedSlugs:
   - "2026-07-16-south-korea-880-billion-ai-semiconductor-plan-en"
 ---
 
-Japan is making its most concentrated bet yet on artificial intelligence for the physical world. A government-backed company called Noetra has secured **¥380 billion ($2.3 billion)** in first-year funding backed by 44 of Japan's largest corporations — including SoftBank, Honda, and Sony — to build a foundational AI system designed to power robots, autonomous machines, and digital twins.
+Japan is making a major bet on artificial intelligence for the physical world. A government-backed company called Noetra has secured more than **¥380 billion ($2.33 billion)** in first-year government funding and has backing from 44 companies and organisations — including SoftBank, Honda, and Sony — to build a foundation model for physical AI and robotics.
 
-The company's CEO has characterized the initiative as Japan's "last chance" to achieve meaningful AI sovereignty before the window closes — a statement that captures the existential urgency driving the project.
+The company's CEO, Hironobu Tamba, has described the initiative as Japan's "last chance" as the country seeks to improve its domestic supply of key technologies.
 
 ## What Noetra Is Building
 
 Noetra's mission is to develop what Japan's government calls "physical AI" — AI systems that can perceive, reason about, and act within the real world rather than purely in digital domains. The distinction matters: most frontier AI models, including the large language models from OpenAI and Anthropic, are optimized for text and code generation. Physical AI requires understanding of spatial geometry, real-time sensor data, mechanical constraints, and the unpredictable dynamics of the physical environment.
 
-Japan's industrial profile makes this a particularly strategic priority. The country's manufacturing, shipbuilding, and elder-care sectors are facing a compounding demographic crisis — an aging, shrinking workforce — that robotics and automation are expected to partially offset. Japan's government has set an explicit national goal of deploying **10 million AI-enabled robots by 2040** across manufacturing, nursing, and heavy industry.
+Japan's industrial profile makes this a particularly strategic priority. The country's manufacturing, shipbuilding, and elder-care sectors are facing a compounding demographic crisis — an aging, shrinking workforce — that robotics and automation are expected to partially offset. Japan's government aims to deploy about **10 million AI-enabled robots by 2040** across 18 fields, including manufacturing, shipbuilding, logistics, healthcare, and nursing.
 
 Noetra is the vehicle being built to train the AI brains those robots will run.
 
@@ -58,7 +59,7 @@ The company has laid out a three-stage model development timeline:
 
 The scale of Noetra's ambition is reflected in its hardware procurement. The company is acquiring **27,500 Nvidia Rubin GPU chips** — Nvidia's next-generation compute platform succeeding Blackwell, optimized for massive parallel workloads and AI training at scale.
 
-Construction of the AI training infrastructure is scheduled to begin **April 2027**, with operations commencing **June 2028** — a timeline that aligns with the fiscal 2028 omni-modal model milestone. Total government support is publicly projected at up to **¥1 trillion ($6 billion)** through fiscal 2030, with the announced ¥380 billion representing the first-year tranche.
+Construction of the AI training infrastructure is scheduled to begin **April 2027**, with operations commencing **June 2028** — a timeline that aligns with the fiscal 2028 omni-modal model milestone. Published reports have put total government support at up to **¥1 trillion** through fiscal 2030, though the full funding ceiling has not been confirmed in the programme's public documents.
 
 ## Corporate Backing: A National Industrial Coalition
 
@@ -80,4 +81,6 @@ Noetra is emerging at a moment when physical AI is attracting serious investment
 
 The emerging competitive dynamic is not simply "who has the best chatbot." It is "who trains the AI that controls the physical infrastructure of 21st-century manufacturing, logistics, and healthcare." That framing makes Noetra's mission — and Japan's sense of urgency about it — legible as industrial policy rather than simply a tech moonshot.
 
-With 27,500 Rubin chips coming online in 2028 and a decade-long roadmap backed by ¥1 trillion and Japan's most storied industrial names, Noetra represents the most substantial sovereign AI infrastructure investment outside the United States and China. Whether it arrives in time to shape the physical AI landscape — or inherits a field already defined by American and Chinese models — is the question Japan will spend the next decade trying to answer.
+With 27,500 Rubin chips due to begin operating in 2028 and a development roadmap running through fiscal 2030, Noetra is a major test of Japan's push for domestic AI capability. Whether it arrives in time to shape the physical AI landscape — or inherits a field already defined by American and Chinese models — is the question Japan will spend the next decade trying to answer.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

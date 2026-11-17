@@ -1,8 +1,9 @@
 ---
-title: "Mozilla Launches Thunderbolt: An Open-Source Sovereign AI Client Built to Challenge Copilot and ChatGPT Enterprise"
-summary: "Mozilla's for-profit subsidiary MZLA Technologies announced Thunderbolt on April 16, an open-source, self-hostable enterprise AI client designed for organizations that want full control over their AI infrastructure without routing sensitive data through Microsoft Copilot, ChatGPT Enterprise, or Claude Enterprise. Built by the Thunderbird team under the MPL 2.0 license, it supports cloud and local model providers out of the box and targets enterprises with strict data governance requirements."
+title: "Mozilla Launches Thunderbolt: An Open-Source, Self-Hostable Sovereign AI Client for Organizations"
+summary: "Mozilla, through MZLA Technologies Corporation, announced Thunderbolt, an open-source, self-hostable AI client designed for organizations that want to keep company data within their own systems and have more control over how AI is deployed. It is available through a waitlist, with its source code published on GitHub."
 category: "developer-tools"
 publishedAt: 2026-04-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,7 +30,7 @@ relatedSlugs:
 
 # Mozilla Launches Thunderbolt: An Open-Source Sovereign AI Client Built to Challenge Copilot and ChatGPT Enterprise
 
-Mozilla's for-profit subsidiary, MZLA Technologies Corporation, announced Thunderbolt on Wednesday—an open-source, self-hostable enterprise AI client aimed directly at organizations that have grown uncomfortable with where their sensitive data goes when employees use Microsoft Copilot, ChatGPT Enterprise, or Claude Enterprise. The project, built by the Thunderbird email client team, is available immediately on GitHub and positions itself as the AI equivalent of running your own mail server: more work to set up, but fundamentally in your control.
+Mozilla, through MZLA Technologies Corporation, announced Thunderbolt—an open-source, self-hostable AI client aimed at organizations that want to keep company data within their own systems and have more control over how AI is deployed. The client is available through a waitlist, and its source code is published on GitHub.
 
 The launch is a meaningful signal from one of the internet's most credible open-source institutions. When Mozilla enters a market segment, it usually does so because it sees a structural problem that commercial players have no incentive to solve. In this case, the problem is enterprise AI data sovereignty—and the timing, as governments and enterprises alike sharpen their scrutiny of AI vendor data practices, could hardly be better.
 
@@ -76,3 +77,5 @@ What Thunderbolt has that none of those incumbents can credibly offer is the Moz
 The next six months will determine whether Thunderbolt finds genuine product-market fit or becomes a technically competent project that struggles to convert users beyond the open-source faithful. Three signals will be telling: the pace and quality of community contributions on GitHub; whether any significant enterprise—a European bank, a government agency, a healthcare system—announces public adoption; and whether MZLA can close its first enterprise support contracts before the security audit completes and the project reaches official production readiness.
 
 Mozilla has built things that outlasted their competitive moment before. Thunderbird still has millions of active users. Firefox still matters. If Thunderbolt can achieve similar longevity in the enterprise AI client market, it will have done something the commercial incumbents will never quite match: kept a piece of the AI stack genuinely in the hands of the organizations using it.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

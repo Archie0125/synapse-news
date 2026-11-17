@@ -3,6 +3,7 @@ title: "OpenAI Launches GPT-Realtime-2: Its First Voice Model That Can Reason Wh
 summary: "OpenAI released three new models for its Realtime API on May 7 — GPT-Realtime-2 (reasoning-capable, 128K context), GPT-Realtime-Translate (live speech translation across 70+ languages), and GPT-Realtime-Whisper (streaming transcription). GPT-Realtime-2 is the first voice model built on GPT-5-class intelligence, letting developers build voice agents that think through hard problems mid-conversation without awkward silence."
 category: "developer-tools"
 publishedAt: 2026-05-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -77,6 +78,8 @@ The timing aligns with a broader market shift. Microsoft, Google, and Amazon hav
 
 For developers who have been waiting for voice AI capable enough to deploy in complex enterprise workflows, this week's release removes the biggest remaining technical barrier. The open question now is not whether the models are capable enough — it is whether the pricing and latency tradeoffs clear the bar for each specific application.
 
-Based on early access testing reported by several enterprise developers, GPT-Realtime-2 at medium reasoning shows latency in the 800ms–1.2 second range for typical queries — fast enough for natural conversation, though the xhigh reasoning tier introduces delays of 2–4 seconds on complex requests, which will require careful UX design in applications where users expect instant responses.
+Artificial Analysis reported an average time-to-first-audio of 1.12s at minimal reasoning and 2.33s at high reasoning.
 
 The three-model release represents the most significant evolution of OpenAI's voice platform since its 2024 launch, and is likely to accelerate the deployment of AI voice agents across customer service, healthcare, and enterprise productivity applications through the second half of 2026.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

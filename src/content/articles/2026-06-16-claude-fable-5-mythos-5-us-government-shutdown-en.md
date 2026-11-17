@@ -1,8 +1,9 @@
 ---
-title: "US Government Forces Anthropic Offline: The Fable 5 Export Control Crisis"
-summary: "The US government invoked national security export control authorities on June 12, 2026, forcing Anthropic to disable Claude Fable 5 and Mythos 5 worldwide after a researcher demonstrated a jailbreak. The incident ignites a defining clash between AI capability, safety enforcement, and national security — and has left enterprise users scrambling for alternatives."
+title: "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5: The Export Control Crisis"
+summary: "The US government invoked national security export control authorities on June 12, 2026, forcing Anthropic to disable Claude Fable 5 and Mythos 5 for all customers after what Anthropic describes as a potential narrow jailbreak. Anthropic disputes that the finding justifies recalling the models, and says all its other models are unaffected."
 category: "policy"
 publishedAt: 2026-06-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -81,3 +82,5 @@ Fable 5 was supposed to mark Anthropic's most confident step forward in its comp
 ---
 
 *Fable 5 and Mythos 5 remain unavailable as of June 16, 2026. All other Anthropic models continue to operate normally.*
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

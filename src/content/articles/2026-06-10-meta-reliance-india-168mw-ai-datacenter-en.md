@@ -1,8 +1,9 @@
 ---
 title: "Meta Bets on India: 168 MW AI Data Center Partnership With Reliance Signals a New Frontier"
-summary: "Meta signed its first AI data center deal in India with Reliance Industries, announcing a 168-megawatt facility in Jamnagar, Gujarat powered entirely by renewable energy and cooled with desalinated seawater. The agreement builds on Meta's $5.7 billion Jio investment and arrives as India's data center market races toward 8 gigawatts of capacity by 2030, intensifying competition with Microsoft, Google, and Amazon."
+summary: "Meta signed its first AI data center deal in India with Reliance Industries, announcing a 168-megawatt facility in Jamnagar, Gujarat powered by renewable energy and cooled with desalinated seawater. The agreement builds on Meta's $5.7 billion Jio investment and arrives as industry estimates project India's data center capacity could exceed 8 gigawatts by the end of the decade."
 category: "industry"
 publishedAt: 2026-06-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,11 +40,11 @@ The Jamnagar data center will operate at 168 megawatts of IT load — equivalent
 
 The sustainability commitments are unusually specific. Meta will cover the entire cost of energy and water required to run the facility. Cooling will rely on desalinated seawater rather than freshwater resources — an important consideration in a water-stressed region. The company contracted nearly one gigawatt of new renewable energy capacity through separate agreements with CleanMax and Fourth Partner Energy, two of India's largest clean power developers, to underpin the facility's operations.
 
-The data center can be expanded over time as demand grows, with a target completion window of approximately two years — meaning the facility should be operational by mid-2028.
+Reliance said the facility will be ready within two years and can be expanded over time.
 
 ## India's Infrastructure Race
 
-The timing reflects the competitive intensity of India's data center market. Between 2020 and 2025, the country's total data center capacity roughly quadrupled — from 375 megawatts to approximately 1.5 gigawatts. Industry analysts project that figure will exceed 8 gigawatts by 2030, a compounded growth rate that has every major hyperscaler scrambling for capacity.
+The timing reflects the competitive intensity of India's data center market. Between 2020 and 2025, the country's total data center capacity roughly quadrupled — from 375 megawatts to approximately 1.5 gigawatts. Industry estimates project that figure could grow to over 8 gigawatts by the end of the decade, though a Nomura report puts the 2030 figure at 7 gigawatts.
 
 Microsoft has committed more than $3 billion to data center development in India. Amazon Web Services announced a $12.7 billion investment plan. Google's Alphabet has pledged several billion more. OpenAI has been evaluating locations for its first owned infrastructure in the country. The competition for suitable land, power connections, and technical talent has made early movers like Reliance increasingly valuable as partners — companies that understand Indian regulatory environments, have relationships with state power utilities, and can deliver construction at a pace that matches demand.
 
@@ -70,3 +71,5 @@ The companies did not disclose the financial terms of the agreement, the specifi
 Meta's Jamnagar deal is the latest data point in a pattern that has become impossible to ignore: AI infrastructure spending is becoming genuinely global. For years, the compute build-out was concentrated in the United States and, to a lesser degree, Europe. The combination of data localization pressure, local latency requirements, and the sheer scale of emerging market user bases is now forcing every major AI company to think about where their compute actually lives.
 
 India, with its combination of technical talent, favorable government policy toward foreign technology investment, and a growing domestic AI industry of its own, has become the clearest first destination. The question is no longer whether the hyperscalers will invest in India — they all have — but who controls the infrastructure underneath them. Reliance, with its unmatched industrial footprint, national power relationships, and now a proven track record as a hyperscale partner, appears to be positioning itself as the answer to that question.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

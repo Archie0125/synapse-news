@@ -3,6 +3,7 @@ title: "Fireworks AI Eyes $15 Billion Valuation as AI Inference Market Heats Up"
 summary: "Fireworks AI, a startup specializing in serving third-party AI models at scale, is in talks to raise a new funding round at roughly $15 billion — nearly four times its October 2025 valuation. With $315 million in annualized revenue and Index Ventures set to co-lead, the deal would be one of the largest AI infrastructure raises of 2026."
 category: "startups"
 publishedAt: 2026-05-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -43,9 +44,9 @@ The company's proprietary FireAttention inference engine reportedly delivers 2�
 
 ## Revenue Growth That Justifies the Leap
 
-The jump to a $15 billion valuation is anchored in real revenue growth. Fireworks hit $315 million in annualized recurring revenue in February 2026, up 416% year-over-year and ahead of the $280 million ARR it reported at the time of the Series C. The company has scaled its customer base from roughly 1,000 companies at the time of its Series B to more than 10,000 companies as of late 2025.
+The jump to a $15 billion valuation is anchored in real revenue growth. Fireworks hit $315 million in annualized recurring revenue in February 2026, up 416% year-over-year and ahead of the $280 million ARR it reported at the time of the Series C. The company says it now powers over 10,000 companies, a 10x increase from its Series B.
 
-That customer roster includes some of the highest-velocity AI-native companies operating today: Cursor, Perplexity, Notion, Sourcegraph, Uber, DoorDash, Shopify, and Upwork. These aren't occasional experimenter accounts — they're production-scale deployments handling potentially millions of API requests per day, with tight latency requirements and real financial exposure to inference costs.
+That customer roster includes Samsung, Uber, DoorDash, Notion, Shopify, and Upwork. These aren't occasional experimenter accounts — they're production-scale deployments handling potentially millions of API requests per day, with tight latency requirements and real financial exposure to inference costs.
 
 At $315 million ARR, a $15 billion valuation implies a revenue multiple of roughly 47x — elevated by traditional software standards, but broadly in line with how investors have priced leading AI infrastructure plays during this cycle. Cerebras, which completed its IPO in May 2026 at a valuation north of $40 billion, trades at comparable multiples on thinner revenue.
 
@@ -76,3 +77,5 @@ For the AI serving market specifically, the round would signal that investors be
 The broader implication: as model capabilities commoditize upward and the application layer bifurcates into winners and also-rans, the infrastructure layer — compute, networking, and serving — remains one of the cleaner bets on the continued growth of AI without the winner-take-most dynamics of the model layer itself.
 
 Fireworks is betting it can own the serving infrastructure the way Snowflake once owned the cloud data warehouse. Whether a $15 billion price tag is justified will become clearer once the round closes — or doesn't.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

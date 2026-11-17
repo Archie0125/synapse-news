@@ -3,6 +3,7 @@ title: "OpenAI's $5.7B Quarter: Record Revenue, Record Losses, and the Codex Eff
 summary: "OpenAI generated $5.7 billion in Q1 2026, topping archrival Anthropic by roughly $1 billion and hitting a $2 billion monthly revenue run rate. But the company continues to burn through capital at an eye-watering pace, with its own projections showing $14 billion in net losses for the year—even as Codex and enterprise deals push it toward a trillion-dollar valuation IPO."
 category: "ai-ml"
 publishedAt: 2026-05-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -48,13 +49,13 @@ The ChatGPT advertising pilot, quietly rolled out in early 2026 with a self-serv
 
 The financial picture OpenAI presents to investors is one of the more unusual in Silicon Valley history: a company with a nine-figure monthly revenue run rate that is simultaneously burning billions every quarter. The gap between revenue and total cost reflects the extraordinary expense of training frontier models, operating the inference infrastructure that powers 900 million weekly users, and staffing the research and safety teams that underpin OpenAI's credibility as a responsible AI developer.
 
-Compute costs alone run into the billions annually, with OpenAI relying on a combination of Microsoft Azure capacity, the recently announced Colossus supercluster operated through a deal with SpaceX, and a growing owned-infrastructure footprint funded in part by the $122 billion fundraise completed in March. That round, which valued OpenAI at $852 billion and brought in Amazon, SoftBank, and Nvidia as anchor investors, was designed explicitly to fund the capital expenditure needed to sustain frontier model development through a period when revenue—though growing fast—still trails costs.
+Compute costs alone run into the billions annually, with OpenAI relying on a combination of Microsoft Azure capacity, the recently announced Colossus supercluster operated through a deal with SpaceX, and a growing owned-infrastructure footprint funded in part by the $122 billion fundraise completed in March.
 
 OpenAI's own multi-year projections, which have circulated in investor materials, show cumulative losses in the range of $44 billion between 2023 and 2028, with the company turning cash-flow positive around 2029–2030 as revenue climbs toward $100 billion annually. The 2026 figure of $14 billion in expected losses implies roughly $1.60 spent for every dollar earned—a ratio that has improved from prior years but remains a significant structural challenge on the road to a planned IPO.
 
 ## Anthropic Closes Fast, Aims Higher
 
-The most notable context for OpenAI's Q1 numbers is what they reveal about the competitive dynamic with Anthropic. The $4.8 billion Anthropic generated in Q1 was itself a historic figure—but the more significant data point is what Anthropic is projecting for Q2: $10.9 billion in revenue, roughly double its Q1 run rate. If that guidance holds, Anthropic would not only narrow the gap with OpenAI but potentially surpass it on quarterly revenue within the year.
+The most notable context for OpenAI's Q1 numbers is what they reveal about the competitive dynamic with Anthropic. The $4.8 billion Anthropic generated in Q1 was itself a large figure—but the more significant data point is what The Wall Street Journal reports Anthropic is on course for in Q2: $10.9 billion in revenue, more than double its Q1 revenue. If that guidance holds, Anthropic would not only narrow the gap with OpenAI but potentially surpass it on quarterly revenue within the year.
 
 Anthropic crossed into operating profitability for the first time in Q2 2026, a milestone that distinguishes it structurally from OpenAI at this stage of the AI arms race. The contrast is deliberate: Anthropic has consistently positioned itself as the company that can scale responsibly, and turning a profit—even a narrow one—is a credibility signal the company is not shy about amplifying.
 
@@ -67,3 +68,5 @@ OpenAI filed a confidential S-1 with the SEC in late April, with a public offeri
 The harder sell is the loss figure. Public markets have historically been forgiving of growth-stage losses in hypergrowth sectors, but the combination of OpenAI's size (no longer a startup by any reasonable definition), its burn rate, and the uncertainty around when the AI infrastructure investment cycle peaks will require careful positioning.
 
 What Altman and CFO Sarah Friar will need to argue convincingly is that the path from $14 billion in losses to profitability is well-understood, time-bounded, and not dependent on hypothetical future breakthroughs. The Q1 revenue report is a good first page of that argument. The rest of the story—Codex at scale, enterprise penetration, AI device upside—is still being written.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Apple 將私有雲端運算擴展至 Google Cloud 與 Nvidia Blackwell——隱私承諾還成立嗎？"
-summary: "Apple 宣布將私有雲端運算（PCC）基礎設施延伸至 Google Cloud，並採用具備保密運算功能的 Nvidia Blackwell GPU。此舉讓 Apple Intelligence 得以處理更高強度的 AI 工作負載，但也引發外界對於 Apple 隱私承諾能否在橫跨三大科技巨頭的架構中繼續成立的深刻質疑。"
+summary: "Apple 宣布將私有雲端運算（PCC）基礎設施擴展至在 Google 雲端中運行、具備保密運算功能的 Nvidia GPU。此舉支援 Apple 新雲端模型的伺服器端推論，Apple 並表示將維持其隱私保證。"
 category: "ai-ml"
 publishedAt: 2026-07-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -55,9 +56,9 @@ Apple 表示，Google Cloud 端的部署維持了其為自有基礎設施所訂�
 
 ## 重構一切的一月聯盟
 
-PCC 擴展至 Google Cloud 並非孤立事件。2026 年 1 月，Apple 與 Google 宣布**多年期 AI 合作**，下一代 Apple Foundation Model——即驅動 Apple Intelligence 的 AI 系統——將以 Google 的 Gemini 模型技術與雲端基礎設施為基礎共同研發。
+PCC 擴展至 Google Cloud 並非孤立事件。今年 1 月，Apple 與 Google 宣布針對 Apple Intelligence 的合作。Federighi 表示，Google 的技術被用來協助打造 Apple 自家的模型，而這些模型與公眾可使用的 Gemini 並不相同。
 
-那項公告本身意義重大，但完整的技術圖像直到 WWDC 才浮現：Apple 正實質上將其最高強度 AI 任務的推論基礎設施外包給 Google，同時以 Nvidia Blackwell 硬體作為兩家公司之間的隱私邊界。
+那項公告本身意義重大，但更多細節在 WWDC 才浮現：Apple 正將私有雲端運算擴展至 Google 雲端中的 Nvidia GPU，不過 Federighi 表示，並未使用 Google 現成的雲端基礎設施。
 
 Apple 與 Google 在 AI 領域的聯手，在競爭背景下顯得格外引人注目。Apple 長期以「隱私替代方案」自居，對抗 Google 以資料為核心的商業模式。Gemini 合作——以及現在 PCC on Google Cloud 的部署——並未消除這一定位，但確實讓 Apple 多年精心建立的清晰敘事變得更為複雜。
 
@@ -81,7 +82,7 @@ Apple 也承認，Google Cloud 端的實作目前處於「夏季預覽期」，�
 
 Apple Silicon 伺服器的製造與部署成本高昂；而儘管 Nvidia Blackwell GPU 本身亦有供貨壓力，其可用規模仍遠超 Apple 自有晶片在同等時間框架內的產能上限。
 
-與 Google 長達三年的合作，反映了 Apple 的長期策略：將 Apple Intelligence 最高強度工作負載的推論基礎設施與 Gemini 模型能力交由 Google 處理，同時維持敏感且時延敏感任務的端側處理模式。
+與 Google 的合作，反映了 Apple 的策略：運用 Google 的技術協助打造自家模型，同時讓部分 Apple Intelligence 功能在 Google 雲端中的 Nvidia GPU 上運行。
 
 ## 競爭格局的諷刺之處
 
@@ -98,3 +99,5 @@ Nvidia 的位置尤其耐人尋味。Nvidia Blackwell GPU 同時為 Google 自�
 Apple 表示用戶可透過 Apple Intelligence 設定中的「隱私透明度」指示器，確認目前使用的是哪一層處理，此功能延續自原始 PCC 設計。公司也已將在 Google Cloud PCC 伺服器上運行的軟體映像發布至公開的透明度日誌，供獨立安全研究人員驗證。
 
 這樣的透明度水準，是否足以維繫用戶信任——在 Apple 的 AI 工作負載史上首次落於另一家公司實體基礎設施上的架構中——是接下來幾個月隱私辯論必然持續審視的問題。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

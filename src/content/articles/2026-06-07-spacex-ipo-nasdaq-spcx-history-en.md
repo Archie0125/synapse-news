@@ -1,8 +1,9 @@
 ---
-title: "SpaceX Prices $75 Billion IPO at $135 a Share, Targeting the Largest Market Debut in History"
-summary: "SpaceX will list on the Nasdaq under ticker SPCX on June 12, 2026, at $135 per share — a $75 billion raise that would value the company at $1.77 trillion and surpass Saudi Aramco's 2019 IPO by more than 2.5 times. Tied to the debut is a $60 billion option to acquire AI coding leader Cursor, set to close roughly a month after trading opens."
+title: "SpaceX Sets $135 Share Price for $75 Billion IPO, Which Would Be the Largest Ever"
+summary: "SpaceX plans to debut on the Nasdaq under ticker SPCX on June 12 at a fixed $135 per share, a $75 billion raise that would value the company at $1.77 trillion. Separately, SpaceX holds a right to acquire AI coding company Cursor for $60 billion later this year."
 category: "startups"
 publishedAt: 2026-06-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -28,13 +29,13 @@ relatedSlugs:
   - "2026-06-04-big-tech-725b-ai-capex-race-en"
 ---
 
-Elon Musk has never done anything at a normal scale, and SpaceX's public-market debut — scheduled for June 12 on the Nasdaq under the ticker SPCX — is no exception. With shares priced at a fixed $135 each and 555.6 million of them on offer, SpaceX is targeting a $75 billion fundraise at a $1.77 trillion valuation. That would, if it prices and trades as expected, become the largest initial public offering in recorded financial history by a margin that dwarfs every other entry on the list.
+Elon Musk has never done anything at a normal scale, and SpaceX's public-market debut — scheduled for June 12 on the Nasdaq under the ticker SPCX — is no exception. With shares priced at a fixed $135 each and 555.6 million of them on offer, SpaceX is targeting a $75 billion fundraise at a $1.77 trillion valuation. That would, if it prices and trades as expected, make it the biggest IPO ever, more than triple the size of Alibaba, the largest U.S. IPO to date.
 
 Saudi Aramco's 2019 listing raised $29.4 billion and held the record for nearly seven years. SpaceX would surpass it by more than 2.5 times in a single session. Alibaba ($25 billion, 2014), Arm Holdings ($4.9 billion, 2023), and Meta's 2012 debut feel almost quaint by comparison.
 
 ## The Numbers Behind the Historic Offering
 
-The company filed its confidential S-1 with the SEC on April 1, 2026, and the investor roadshow launched June 4, just days after the per-share price was fixed. At $135 and 555.6 million shares sold, the post-money valuation sits at $1.77 trillion — enough to place SpaceX above Tesla (currently at roughly $1.6 trillion) as the seventh-largest US company by market capitalization on its first morning of trading.
+The company filed its prospectus with the SEC late last month, and an amended filing followed this week that set the per-share price at $135 ahead of the roadshow. At $135 a share, SpaceX would be valued at $1.77 trillion, assuming the EchoStar spectrum and Cursor transactions close — enough to put it above Tesla (valued at roughly $1.6 trillion) as the seventh-biggest U.S. company by market capitalization.
 
 Elon Musk will retain more than 82% voting control after the offering. Institutional investors, retail participants, and employee option-holders will collectively own the remaining equity but will wield minimal governance influence. This is, structurally, less a company handing itself to the public than a very large fundraise by a company that happens to list on an exchange. Sophisticated investors are pricing in that distinction — and apparently accepting it.
 
@@ -52,9 +53,9 @@ The defense segment is newer and less disclosed in the S-1, but the trajectory i
 
 ## The Cursor Wildcard: A $60 Billion Post-IPO Bet
 
-No analysis of the SpaceX IPO is complete without examining the $60 billion side arrangement that may define the company's decade after its debut. SpaceX holds an option — exercisable approximately one month after the IPO closes — to acquire Cursor, the AI coding assistant.
+No analysis of the SpaceX IPO is complete without examining the $60 billion side arrangement that may define the company's decade after its debut. SpaceX retains the right to acquire Cursor, the AI coding assistant, later this year for $60 billion.
 
-The numbers around Cursor are arresting: roughly 67% of Fortune 500 companies now use the tool, and enterprise customers account for approximately 60% of its total revenue. Microsoft reportedly evaluated a Cursor acquisition before passing. The deal's structure is as unusual as its size. If SpaceX exercises the option, it acquires the most widely deployed enterprise coding product in the market. If it does not, it must pay Cursor a $10 billion breakup fee for the companies' collaborative work together — still an enormous sum, and one that would have funded years of development on Cursor's core technology.
+The numbers around Cursor are arresting: around 64% of Fortune 500 companies use its offerings. OpenAI reportedly looked into acquiring Cursor early last year. The deal's structure is as unusual as its size. If SpaceX exercises the option, it acquires the most widely deployed enterprise coding product in the market. If it does not, it must pay Cursor a $10 billion breakup fee for the companies' collaborative work together — still an enormous sum, and one that would have funded years of development on Cursor's core technology.
 
 The collaboration itself operates under the "SpaceXAI" umbrella, combining Cursor's software with SpaceX's Colossus supercomputer cluster, which the company describes as equivalent to approximately one million H100 GPUs in aggregate compute. The stated goal: build the world's most capable coding and knowledge-work AI, optimized for the demands of SpaceX's own engineering organization before shipping to the broader market.
 
@@ -64,8 +65,10 @@ The fact that SpaceX — not a hyperscaler — landed this arrangement speaks to
 
 ## Why Now?
 
-SpaceX has resisted public markets for years, growing on private capital at successive record valuations. The decision to list in mid-2026 likely reflects several converging forces. First, Starlink has matured to a point where its financials can withstand public scrutiny — and public investors offer a scale of capital private markets cannot efficiently absorb. Second, the Cursor option agreement may have created a timeline: with the acquisition right expiring roughly a month post-IPO, closing the offering on schedule becomes contractually significant. Third, the institutional risk appetite for AI-adjacent infrastructure plays has rarely been stronger. Big Tech's combined $725 billion in planned AI capital expenditures for 2026 has validated the infrastructure thesis; SpaceX, with orbital compute ambitions via Starlink and Colossus, positions itself as the next vehicle.
+SpaceX has resisted public markets for years, growing on private capital at successive record valuations. The decision to list in mid-2026 likely reflects several converging forces. First, Starlink has matured to a point where its financials can withstand public scrutiny — and public investors offer a scale of capital private markets cannot efficiently absorb. Third, the institutional risk appetite for AI-adjacent infrastructure plays has rarely been stronger. Big Tech's combined $725 billion in planned AI capital expenditures for 2026 has validated the infrastructure thesis; SpaceX, with orbital compute ambitions via Starlink and Colossus, positions itself as the next vehicle.
 
-Anthropic is reportedly preparing for an October 2026 IPO at a valuation near $900 billion, which would make it the year's second historic tech listing. But SpaceX goes first. If June 12 delivers the kind of first-day performance the prediction markets anticipate, it will set a new benchmark for what a technology company can be worth when it finally meets the public.
+Anthropic, for its part, confidentially filed its IPO prospectus with the SEC on Monday, and OpenAI is preparing to file its own in the coming weeks. But SpaceX goes first. If June 12 delivers the kind of first-day performance the prediction markets anticipate, it will set a new benchmark for what a technology company can be worth when it finally meets the public.
 
-For the engineers and developers who rely on Cursor daily, the most consequential question may arrive a month later: whether SpaceX exercises the option — and what an aerospace-and-internet company owning the world's most popular AI coding tool looks like in practice.
+For the engineers and developers who rely on Cursor daily, the most consequential question may be whether SpaceX exercises the option later this year — and what an aerospace-and-internet company owning a widely used AI coding tool looks like in practice.
+
+*Correction (November 15, 2026): 11 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "OpenAI's GPT-5.6 Arrives in Three Tiers — With the U.S. Government Getting First Look"
-summary: "OpenAI launched GPT-5.6 as a three-model family — Sol, Terra, and Luna — but access is restricted to roughly 20 pre-approved organizations while the U.S. government conducts a mandated capability review. Running Sol on Cerebras at 750 tokens per second, the company is simultaneously staking a claim on inference speed as the next frontier of AI competition."
+summary: "OpenAI launched GPT-5.6 as a three-model family — Sol, Terra, and Luna — but access is limited to a small group of trusted partners at the request of the U.S. government. Sol is set to launch on Cerebras in July at up to 750 tokens per second."
 category: "ai-ml"
 publishedAt: 2026-07-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,13 +30,13 @@ relatedSlugs:
   - "2026-07-01-etched-5b-valuation-1b-sales-inference-chip-en"
 ---
 
-OpenAI has unveiled GPT-5.6, its most capable model family to date, structured as three distinct tiers targeting different cost and speed tradeoffs. But in a development with no precedent in the history of commercial AI, the models are not yet available to the general public — or even to OpenAI's full API customer base. Instead, access is restricted to approximately 20 pre-approved organizations while the U.S. government conducts a mandatory capability review mandated by a June 2 executive order from President Donald Trump.
+OpenAI has unveiled GPT-5.6, its most capable model family to date, structured as three distinct tiers targeting different cost and speed tradeoffs. But in a notable development, the models are not yet available to the general public — or even to OpenAI's full API customer base. Instead, access is initially limited to a small group of trusted partners in Codex and the API, at the request of the U.S. government, with commentators relaying reports that the pool may be around 20 government-approved companies.
 
 The three models — Sol, Terra, and Luna — represent OpenAI's clearest articulation yet of a tiered intelligence strategy: a flagship optimized for raw capability, a balanced middle option, and a cost-efficient workhorse built for high-volume applications. Together, they signal that OpenAI sees frontier AI not as a single general-purpose tool but as a product portfolio requiring deliberate market segmentation.
 
 ## Three Models, One Platform
 
-Sol is the crown jewel. Positioned as a next-generation reasoning system with strengthened performance across coding, biology, cybersecurity, and multi-step problem-solving, Sol introduces what OpenAI calls an "ultra mode" — a setting that allocates additional computation for the hardest tasks, trading latency for accuracy on problems where near-certainty matters more than speed. It is priced at $5 per million input tokens and $30 per million output tokens.
+Sol is the crown jewel. Positioned as the flagship, Sol is described as OpenAI's most capable model yet, especially on coding, cyber, long-horizon work, and science and knowledge tasks, and it introduces an "ultra mode" that uses subagents to accelerate complex tasks. It is priced at $5 per million input tokens and $30 per million output tokens.
 
 Terra slots in as the practical workhorse for most enterprise workflows. OpenAI describes its performance as competitive with GPT-5.5 while costing half as much: $2.50 per million input tokens and $15 per million output tokens. For the majority of business applications — document analysis, code generation, customer-facing agents — Terra offers the most compelling value-per-dollar ratio in OpenAI's current lineup.
 
@@ -47,7 +48,7 @@ The pricing architecture is deliberately layered to prevent cannibalization: Sol
 
 The more remarkable dimension of this launch is not the models themselves but the conditions under which they're being released. On June 2, 2026, President Trump signed an executive order directing federal agencies to establish a collaborative process for benchmarking and assessing the capabilities of new AI models before they reach the public. OpenAI — along with Anthropic and other frontier labs — shared GPT-5.6's release plans with the U.S. government prior to launch.
 
-The result is a form of staged disclosure that is genuinely new in commercial AI. OpenAI is not waiting for government approval to proceed, but it is constrained to roughly 20 "trusted partner" organizations while the review is conducted. These organizations, drawn from enterprise customers, research institutions, and government contractors, are operating under non-disclosure conditions while benchmarking the models under real-world conditions.
+The result is a form of staged disclosure that is genuinely new in commercial AI. OpenAI said the constrained rollout is at the request of the U.S. government, and access is limited to a small group of trusted partners, which commentators relayed may be around 20 government-approved companies. These organizations, drawn from enterprise customers, research institutions, and government contractors, are operating under non-disclosure conditions while benchmarking the models under real-world conditions.
 
 The practical implication is that the broader developer community — which had access to GPT-5.5 the day it launched — faces an indeterminate wait, with OpenAI committing only to "general availability in the coming weeks." The AI developer community has reacted with a mix of frustration and grudging acceptance: frustration at the delay, acceptance that government scrutiny of frontier models was probably inevitable at the capability level GPT-5.6 Sol appears to represent.
 
@@ -72,3 +73,5 @@ OpenAI has not committed to a specific general-availability date for Sol, Terra,
 What is clear is that this launch represents a structural shift in how frontier AI models enter the world. For the last several years, the cadence was: announcement, immediate API access, race to integrate. With GPT-5.6, the sequence is: announcement, government review, staged rollout, eventual broad access. Whether that sequence becomes the norm or remains a one-time political accommodation will define a great deal about how the next generation of AI systems reaches the hands of developers.
 
 The benchmark wars between OpenAI and Anthropic will heat up regardless. With Claude Sonnet 5 having launched on June 30 and GPT-5.6 Sol now benchmarking under controlled conditions, the two companies are separated by less than a month of launches — and by performance gaps that, at the frontier, are growing harder to measure than to claim.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

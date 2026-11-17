@@ -1,8 +1,9 @@
 ---
-title: "NVIDIA and IREN Forge 5-Gigawatt AI Factory Partnership with $2.1 Billion Investment Option"
-summary: "NVIDIA and IREN Limited announced a landmark strategic partnership on May 7 to deploy up to 5 gigawatts of next-generation AI factory infrastructure across IREN's global data center pipeline. The deal includes NVIDIA's option to invest up to $2.1 billion in IREN equity plus a separate $3.4 billion five-year Blackwell GPU cloud contract — sending IREN's stock surging nearly 20% and marking NVIDIA's deepest yet push to become the central organizer of the AI factory ecosystem."
+title: "NVIDIA and IREN Announce 5-Gigawatt AI Infrastructure Partnership with $2.1 Billion Investment Right"
+summary: "NVIDIA and IREN announced a strategic partnership on Thursday to deploy up to 5 gigawatts of NVIDIA's DSX-branded AI infrastructure across IREN's data center facilities. The deal includes NVIDIA's right to invest up to $2.1 billion in IREN equity, plus a separate $3.4 billion five-year managed GPU cloud services contract."
 category: "hardware"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-05-08-nvidia-nemotron-3-nano-omni-multimodal-edge-en"
 ---
 
-NVIDIA is no longer content to be merely a chipmaker. On May 7, 2026, the Santa Clara-based company announced a sweeping strategic partnership with IREN Limited — a data center operator that spent years as one of the world's largest Bitcoin mining companies before pivoting aggressively into AI infrastructure — to deploy up to 5 gigawatts of DSX-aligned AI factory capacity across IREN's global pipeline. The announcement arrived alongside IREN's stock surging nearly 20%, and it tells a clear story: NVIDIA is moving fast to become the architectural authority over where and how next-generation AI gets built.
+NVIDIA is no longer content to be merely a chipmaker. On May 7, 2026, the Santa Clara-based company announced a sweeping strategic partnership with IREN Limited — a data center operator that spent years as one of the world's largest Bitcoin mining companies before pivoting aggressively into AI infrastructure — to deploy up to 5 gigawatts of DSX-aligned AI factory capacity across IREN's global pipeline. The announcement came with IREN shares volatile, and it tells a clear story: NVIDIA is moving fast to become the architectural authority over where and how next-generation AI gets built.
 
 ## Two Deals in One Announcement
 
@@ -35,7 +36,7 @@ The partnership is actually two interlocking agreements announced simultaneously
 
 The first is an equity stake option. IREN issued NVIDIA a five-year right to purchase up to 30 million of the company's ordinary shares at an exercise price of $70 per share — a right valued at up to $2.1 billion, subject to regulatory conditions. Structuring the arrangement as a warrant rather than an outright purchase is telling: it gives NVIDIA meaningful economic alignment without the immediate balance-sheet complexity of a multi-billion-dollar equity transaction, while ensuring IREN's incentives stay tightly coupled to NVIDIA's long-term infrastructure build-out agenda.
 
-The second is a $3.4 billion, five-year AI Cloud contract for air-cooled Blackwell GPUs. Under this arm of the deal, IREN will deploy Blackwell clusters within 60 megawatts of its existing data center footprint at its Childress, Texas facility, with a production ramp targeted to begin in early 2027. Taken together, the two agreements represent a combined capital commitment of approximately $5.5 billion — one of the largest single AI infrastructure pacts announced in 2026.
+The second is a $3.4 billion, five-year AI Cloud contract for air-cooled Blackwell GPUs. Under this arm of the deal, IREN will deploy Blackwell clusters within 60 megawatts of its existing data center footprint at its Childress, Texas facility, with a production ramp targeted to begin in early 2027.
 
 ## Sweetwater: A Blueprint for the AI Factory
 
@@ -63,8 +64,10 @@ For infrastructure operators like IREN, the calculus is similarly compelling. NV
 
 ## What the Market Said
 
-Markets responded immediately. IREN shares closed up nearly 19% on announcement day, with some intraday prints reaching as high as a 20% gain. The reaction reflected not just enthusiasm about the specific deal terms but a broader re-rating of IREN's positioning: from commodity compute operator to NVIDIA's designated AI factory partner.
+Markets responded immediately. IREN shares were volatile after the news broke, but climbed 6% on Friday. The reaction reflected not just enthusiasm about the specific deal terms but a broader re-rating of IREN's positioning: from commodity compute operator to NVIDIA's designated AI factory partner.
 
 The scale of the ambition is significant. Five gigawatts of DSX-aligned capacity, if fully realized, would make the NVIDIA-IREN footprint one of the largest purpose-built AI infrastructure deployments on the planet. For context, 5 gigawatts of AI computing power is roughly equivalent to what the entire global AI training market consumed just three years ago.
 
 The road from announcement to full deployment will run through capital markets, regulatory reviews, and the continued insatiable growth in demand from AI labs, enterprises, and government customers. But the deal represents something more immediately meaningful than a construction timeline: it is NVIDIA's clearest statement yet that it intends to be not just the chip supplier for the AI era, but its infrastructure architect.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

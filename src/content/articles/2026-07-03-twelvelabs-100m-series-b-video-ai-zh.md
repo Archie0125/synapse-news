@@ -1,8 +1,9 @@
 ---
 title: "TwelveLabs 完成 1 億美元 B 輪融資，打造全球影片智慧基礎設施"
-summary: "影片 AI 新創 TwelveLabs 由 NEA 與 NAVER Ventures 共同領投，完成 1 億美元 B 輪融資，Amazon 同步宣布成為其首選雲端合作夥伴。這筆資金將加速 TwelveLabs 實現「影片超級智慧」的願景——一套能感知、記憶並跨影片庫進行推理的完整認知系統，將世界上數以億計的影片內容轉化為 AI 可直接操作的結構化知識。"
+summary: "影片 AI 新創 TwelveLabs 由 NEA 與 NAVER Ventures 共同領投，完成 1 億美元 B 輪融資，並表示將深化與 Amazon Web Services 的合作關係。"
 category: "ai-ml"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -26,9 +27,9 @@ relatedSlugs:
 
 全球每天產生約 72 萬小時的新影片內容，但其中幾乎沒有任何一部分能被電腦真正「讀懂」。文字可以在毫秒內被索引、搜尋、供 AI 系統推理；影片——儘管承載了遠比任何文字語料庫更豐富的現實世界資訊——對機器而言至今仍是一個黑盒，只能透過人工附加的元資料進行查詢。
 
-總部橫跨舊金山與首爾的 AI 新創 TwelveLabs，過去三年都在試圖改變這個現狀。本週二，公司宣布完成 1 億美元 B 輪融資，用以加速其所稱的「影片超級智慧」——一套能以機器速度感知、記憶並跨影片集合進行推理的完整認知架構。
+總部橫跨舊金山與首爾的 AI 新創 TwelveLabs，過去三年都在試圖改變這個現狀。本週三，公司宣布完成 1 億美元 B 輪融資，用以打造其所描述的、能原生理解影片的模型。
 
-本輪融資由 NEA 與韓國網路巨頭 NAVER 旗下創投共同領投，自 TwelveLabs 早期便長期跟投。其他投資方包括 Amazon、Radical Ventures、Korea Investment Partners、Index Ventures、Quadrille Capital 及 Red Bull Ventures。在同一時間，Amazon 宣布成為 TwelveLabs 的首選雲端合作夥伴，首批針對 Trainium 晶片最佳化的新模型將優先在 AWS 上發布——這項軟硬體協同設計的合作模式，正逐漸成為 AI 基礎設施交易的新標配。
+本輪融資由 NEA 與韓國網路巨頭 NAVER 旗下創投共同領投，自 TwelveLabs 早期便長期跟投。其他投資方包括 Amazon、Radical Ventures、Korea Investment Partners、Index Ventures、Quadrille Capital 及 Red Bull Ventures。作為這輪融資的一環，TwelveLabs 將深化與 Amazon Web Services 的合作關係，新的前沿模型將優先在 AWS 上發布。
 
 ## 影片超級智慧究竟是什麼
 
@@ -64,4 +65,6 @@ NAVER 的戰略入股同樣值得關注。作為韓國最大的網路平台之�
 
 TwelveLabs 這 1 億美元的賭注，從根本上說，是在押注 AI 能力的下一個重大前沿，不是讓語言模型在書面文字方面更聰明，而是賦予 AI 系統清晰到足以在現實世界中採取行動的視覺感知能力。
 
-公司的創立前提一語道破：「世界不發生在文字裡，世界發生在動態影像中。」如果 TwelveLabs 賭對了，那麼建構影片智慧層的公司，將在每一個未來與現實世界互動的 AI 代理身上，都擁有不可或缺的一席之地。
+執行長 Jae Lee 這樣說明公司的創立前提：「機器智慧的基礎是動態中的真實紀錄，而非語言。語言是理解的下游。」如果 TwelveLabs 賭對了，那麼建構影片智慧層的公司，將在每一個未來與現實世界互動的 AI 代理身上，都擁有不可或缺的一席之地。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 4 處。*

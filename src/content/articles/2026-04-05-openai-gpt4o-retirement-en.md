@@ -1,8 +1,9 @@
 ---
-title: "The End of GPT-4o: OpenAI Completes Model Retirement as GPT-5.4 Becomes the New Standard"
-summary: "OpenAI completed the full retirement of GPT-4o on April 3, 2026, alongside GPT-4.1 and o4-mini. Only 0.1% of daily users were still choosing GPT-4o at the time of retirement. GPT-5.4 — available in Standard, Thinking, and Pro variants — is now the platform baseline, while Gemini 3.1 Pro leads 13 of 16 major benchmarks at roughly one-third of the API cost."
+title: "The End of GPT-4o: OpenAI Retires the Model From ChatGPT as GPT-5.2 Takes Over"
+summary: "OpenAI said it would retire GPT-4o from ChatGPT on February 13, 2026, alongside GPT-4.1, GPT-4.1 mini and o4-mini. When the retirement was announced, only 0.1% of users were still choosing GPT-4o each day."
 category: "ai-ml"
 publishedAt: 2026-04-05T10:20:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -23,7 +24,7 @@ relatedSlugs:
   - "2026-04-05-anthropic-claude-mythos-en"
 ---
 
-GPT-4o is gone. Not slowly deprecated, not quietly moved to a legacy tier — gone. On April 3, 2026, OpenAI completed the full retirement of one of the most widely deployed AI models in history, along with GPT-4.1, GPT-4.1 mini, and o4-mini. The phased retirement had begun February 13; by the time it ended, only 0.1% of daily active ChatGPT users were still selecting GPT-4o when given the choice.
+GPT-4o is gone. Not slowly deprecated, not quietly moved to a legacy tier — gone. OpenAI announced that it would retire GPT-4o from ChatGPT on February 13, 2026, along with GPT-4.1, GPT-4.1 mini, and o4-mini. When OpenAI announced the retirement, only 0.1% of users were still choosing GPT-4o each day.
 
 That number is the most telling data point in the entire transition. GPT-4o, when it launched in May 2024, was a genuine milestone — significantly faster and cheaper than GPT-4 Turbo while being capable enough to feel qualitatively different from its predecessors. It became the default model for hundreds of millions of users and the foundation for thousands of applications. The fact that, two years later, only 1 in 1,000 users was still choosing it reflects how dramatically the state of the art has moved.
 
@@ -64,3 +65,5 @@ For the many developers who built applications on GPT-4o's API, one important nu
 The API retirement timeline for GPT-4o has not been publicly specified as of this writing, but precedent and OpenAI's stated developer relations commitments suggest that API access will likely persist through at least early 2027. Developers should be updating their implementations, but are not in an emergency situation.
 
 What is clear is that GPT-4o's era is over. The model that made conversational AI feel genuinely capable to a mainstream audience has been superseded — first by models that were better, then by models that were better and cheaper. That trajectory is the story of AI capability development in 2024-2026 in miniature. GPT-5.x is the present. Whatever comes after it is already in testing.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

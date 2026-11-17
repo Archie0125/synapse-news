@@ -1,8 +1,9 @@
 ---
 title: "TwelveLabs Raises $100M to Build the Intelligence Layer for the World's Video Archives"
-summary: "Video AI startup TwelveLabs has closed a $100 million Series B led by NEA and NAVER Ventures, with Amazon signing on as its preferred cloud partner. The funding accelerates TwelveLabs' vision of 'video superintelligence' — a full-stack cognitive system that makes every frame, sound, and spoken word in any video archive machine-readable and actionable by AI agents."
+summary: "Video AI startup TwelveLabs has raised $100 million in a Series B co-led by NEA and NAVER Ventures, and says it is deepening its relationship with Amazon Web Services."
 category: "ai-ml"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,9 +27,9 @@ relatedSlugs:
 
 The world generates roughly 720,000 hours of new video content every day. Almost none of it is computationally accessible. Text can be indexed, searched, and reasoned over by AI systems in milliseconds. Video — despite containing far richer information about the physical world than any text corpus — largely remains a black box to machines, queryable only by the metadata humans attach to it.
 
-TwelveLabs, a San Francisco and Seoul-based AI startup, has spent the last three years trying to fix that. And on Tuesday, the company announced $100 million in Series B funding to accelerate what it is calling "video superintelligence" — a full-stack cognitive architecture that can perceive, remember, and reason across any video collection at machine speed.
+TwelveLabs, a San Francisco and Seoul-based AI startup, has spent the last three years trying to fix that. And on Wednesday, the company announced $100 million in Series B funding to build what it describes as models that natively understand video.
 
-The round was co-led by NEA and NAVER, the South Korean internet giant whose venture arm has backed TwelveLabs since its earliest stages. Additional investors include Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, and Red Bull Ventures. In a separate but simultaneous announcement, Amazon designated AWS as TwelveLabs' preferred cloud partner, with early model releases optimized for Trainium chips launching on AWS first — a pairing that reflects the growing importance of hardware-software co-design in AI infrastructure deals.
+The round was co-led by NEA and NAVER, the South Korean internet giant whose venture arm has backed TwelveLabs since its earliest stages. Additional investors include Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, and Red Bull Ventures. As part of the funding, TwelveLabs is deepening its relationship with Amazon Web Services, and new frontier models will launch on AWS first.
 
 ## What Video Superintelligence Actually Means
 
@@ -64,4 +65,6 @@ The timing of this raise coincides with the emergence of agentic AI systems — 
 
 TwelveLabs' $100 million bet is, at its core, a bet that the next major frontier for AI capability isn't making language models smarter about written language. It's giving AI systems the ability to see the world clearly enough to act within it.
 
-The founding premise: "The world does not happen in text. It happens in motion." If TwelveLabs is right, the company that builds the intelligence layer for video owns a piece of every AI agent that will ever interact with the physical world.
+The founding premise, in the words of CEO Jae Lee: "The substrate of machine intelligence is recorded reality in motion, not language. Language is downstream of understanding." If TwelveLabs is right, the company that builds the intelligence layer for video owns a piece of every AI agent that will ever interact with the physical world.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

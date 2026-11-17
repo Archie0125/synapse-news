@@ -3,6 +3,7 @@ title: "Odyssey Raises $310 Million at $1.45B Valuation to Build AI That Learns 
 summary: "World model startup Odyssey closed a $310 million Series B backed by Amazon, AMD Ventures, and Google Ventures, bringing its valuation to $1.45 billion and total raised to $337 million. Founded by veterans of Voyage and Wayve, the company is betting that the next frontier in AI is not language but physics—models that simulate the real world with accurate causality, enabling breakthroughs in robotics, interactive video, and game creation."
 category: "startups"
 publishedAt: 2026-06-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -49,7 +50,7 @@ Both founders bring the specific combination of skills that world model developm
 
 ## AWS as Preferred Cloud, Trainium as the Bet
 
-The fundraise comes with a strategic infrastructure commitment. Amazon Web Services will become Odyssey's preferred cloud provider, and the company will optimize its models to run on AWS's **Trainium** chips—the custom silicon that Amazon has positioned as its primary challenge to Nvidia's datacenter dominance.
+The fundraise comes with a strategic infrastructure commitment. Amazon Web Services will become Odyssey's preferred cloud provider, and the company will optimize its models to run on AWS's **Trainium** chips, a competitor to Nvidia's AI chips.
 
 This is a meaningful bet in the current competitive landscape. Trainium 2 and the forthcoming Trainium 3 represent AWS's most aggressive effort to capture a share of AI training workloads that has historically been dominated by Nvidia's H100 and B200 GPUs. Odyssey committing to Trainium optimization gives Amazon a high-profile proof point for the chip's viability at frontier training workloads, while giving Odyssey preferential access to AWS's compute resources and potentially lower negotiated rates.
 
@@ -78,3 +79,5 @@ That's a familiar investment thesis in AI. It was the same bet made on large lan
 With $310 million in new capital, Odyssey's immediate priorities are scaling training runs, expanding the team, and deepening the AWS partnership to deploy Trainium-optimized inference at production scale. The company has not announced a specific product launch timeline but has indicated that robotics applications are closest to commercialization.
 
 The test of the world model thesis will come when Odyssey's systems are deployed in real robotic environments and interactive applications—when the question shifts from "can you simulate physics?" to "can you simulate physics well enough that it matters for real tasks?" On that question, the company has the attention of Amazon, Google, AMD, and some of the most respected operators in AI. That credibility may be the most important thing $310 million can buy before the physics of the market delivers its own verdict.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

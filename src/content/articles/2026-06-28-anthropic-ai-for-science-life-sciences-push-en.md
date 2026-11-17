@@ -3,6 +3,7 @@ title: "Anthropic's $400M Biotech Bet and the Race to Own AI for Science"
 summary: "With a Nobel Prize–winning scientist newly on its team, a $400 million biotech acquisition, and a major life sciences event scheduled for June 30, Anthropic is executing an aggressive play to become the foundational AI layer for pharmaceutical research and drug discovery — a market that could dwarf general enterprise AI."
 category: "ai-ml"
 publishedAt: 2026-06-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -37,9 +38,9 @@ What the event doesn't say, but the past six months of Anthropic's moves make cl
 
 ## The Coefficient Bio Acquisition
 
-In April 2026, Anthropic quietly closed what may be its most strategically significant transaction to date: the acquisition of **Coefficient Bio**, a stealth New York-based biotech AI startup, in an all-stock deal valued at approximately **$400 million**.
+Anthropic has acquired **Coefficient Bio**, a stealth New York-based biotech AI startup, in an all-stock deal worth around **$400 million**, according to a report by The Information.
 
-The striking thing about the acquisition is not just the price — it's what Coefficient Bio actually was. The company had fewer than 10 employees, almost all former Genentech computational biology researchers. Co-founders Samuel Stanton and Nathan C. Frey both came from Prescient Design, Genentech's computational drug discovery unit. The startup had been operating in stealth, building biology-specific AI infrastructure from the ground up — what The Information described as "foundational tools for protein modeling and biomolecular representation."
+The striking thing about the acquisition is not just the price — it's what Coefficient Bio actually was. The company had fewer than 10 employees, almost all former Genentech computational biology researchers. Co-founders Samuel Stanton and Nathan C. Frey both came from Prescient Design, Genentech's computational drug discovery unit. The startup had been operating largely in stealth, with a website that says nothing about its platform and a sparse LinkedIn page.
 
 Coefficient Bio's stated ambition, per its own materials, was nothing less than "artificial superintelligence for science." Anthropic paid $400 million — roughly $40 million per employee — for that ambition, the team, and the intellectual property underneath it.
 
@@ -96,3 +97,5 @@ Healthcare and life sciences is one of the most valuable versions of that thesis
 The race to own AI for science is now explicitly underway. Anthropic has the most publicly visible position, the most Nobel Prize-winning scientist, and a $400 million acquisition of biological AI infrastructure to back it up.
 
 Whether that's enough to win what will ultimately be a very long game remains the question.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

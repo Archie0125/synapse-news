@@ -3,6 +3,7 @@ title: "Google Rewrites Search for the AI Age: Information Agents, Generative UI
 summary: "At Google I/O 2026, the company unveiled its most radical redesign of Search in over 25 years — replacing the static query box with an AI-powered interface backed by Gemini 3.5 Flash and launching persistent 'information agents' that monitor the web on users' behalf around the clock."
 category: "ai-ml"
 publishedAt: 2026-06-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -45,19 +46,19 @@ The agents are built on top of Google's broader Gemini agentic infrastructure an
 
 ## Generative UI: Search Builds Tools on Demand
 
-Perhaps the most visually striking new capability is what Google calls Generative UI — the ability for Search to build custom interactive dashboards and data visualizations on the fly in response to complex requests. Powered by Google's internal Antigravity technology and Gemini 3.5 Flash's agentic coding capabilities, Generative UI can produce personalized fitness trackers, wedding planning dashboards, home-move management tools, and financial comparison widgets — all assembled in real time from live web data.
+Perhaps the most visually striking new capability is what Google calls Generative UI — the ability for Search to build custom interactive dashboards and data visualizations on the fly in response to complex requests. Powered by Google Antigravity and the agentic coding capabilities of Gemini 3.5 Flash, Generative UI lets Search build custom layouts on the fly, assembling components such as interactive visuals, tables, graphs and simulations in real time.
 
 This represents a significant expansion beyond the AI Overviews that were introduced in 2024. Rather than simply summarizing existing content in a static text block above search results, Generative UI creates entirely new interactive surfaces that aggregate, structure, and visualize information dynamically. The shift moves Google Search from an information retrieval tool toward something closer to a general-purpose application development platform — one where the user describes what they need and Search builds it.
 
 ## Agentic Actions: Search Does, Not Just Finds
 
-Google is also expanding the action-taking capabilities of Search well beyond the early agentic features introduced in 2024. The 2026 iteration can place phone calls to local businesses on users' behalf — asking about appointment availability for home repair services, beauty treatments, or veterinary care — and complete bookings for local experiences, events, and services with a single instruction.
+Google is also expanding the action-taking capabilities of Search well beyond the early agentic features introduced in 2024. The 2026 iteration expands agentic booking in Search to local experiences and services, bringing together the latest pricing and availability with direct links to finish booking through the provider, and for select categories like home repair, beauty or pet care, users can ask Google to call businesses on their behalf.
 
-This "agentic Search" capability positions Google squarely against emerging AI assistant products from OpenAI and Anthropic that are building toward similar goal-directed automation. The key difference is Google's distribution: these capabilities are rolling out to a user base numbering in the billions through the existing Search interface, requiring no new app install or subscription.
+This "agentic Search" capability positions Google squarely against emerging AI assistant products from OpenAI and Anthropic that are building toward similar goal-directed automation. Google says the agentic booking and calling capabilities will roll out to everyone in the U.S. this summer.
 
 ## Personal Intelligence Goes Global
 
-Google also announced a significant geographic and linguistic expansion of its Personal Intelligence features, which allow Search to securely integrate with personal data sources including Gmail, Google Photos, and Google Calendar to provide context-aware responses. Personal Intelligence is now available in nearly 200 countries and 98 languages, and crucially, access no longer requires a paid subscription — a move that dramatically broadens the potential user base.
+Google also announced a significant geographic and linguistic expansion of its Personal Intelligence features, which let users securely connect apps like Gmail and Google Photos, and soon Google Calendar, to provide context-aware responses. Personal Intelligence is now available in nearly 200 countries and 98 languages, and crucially, access no longer requires a paid subscription — a move that dramatically broadens the potential user base.
 
 The ability to query across personal data alongside public web content is one of the most differentiated capabilities Google can offer over pure-AI competitors like ChatGPT and Perplexity, which lack native integration with the world's largest email and productivity ecosystem.
 
@@ -68,3 +69,5 @@ The I/O 2026 announcements come at a moment of intense competitive pressure on G
 The Generative UI and information agents announcements are clearly designed to demonstrate that Google can extend the utility of Search well beyond what any competitor can match with a standalone AI chatbot — leveraging the company's unique combination of real-time web indexing, massive user data integration, and the Gemini model family. If the bet pays off, Google will have used AI not to replace Search, but to transform it into something far more powerful than it has ever been.
 
 Whether users embrace AI agents as trusted digital assistants or reject them as surveillance infrastructure will be one of the defining product questions of 2026. Google is betting heavily on the former.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

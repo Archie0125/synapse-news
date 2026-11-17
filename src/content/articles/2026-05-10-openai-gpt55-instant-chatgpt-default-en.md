@@ -3,6 +3,7 @@ title: "GPT-5.5 Instant Is Now ChatGPT's Default Model for Every User on Earth"
 summary: "OpenAI replaced its longstanding default model on May 5, pushing GPT-5.5 Instant to all tiers—Free, Plus, Pro, Business, and Enterprise—delivering 52.5% fewer hallucinations and richer personalization drawn from past chats, files, and Gmail. The move marks a turning point: frontier-level reasoning is now free."
 category: "ai-ml"
 publishedAt: 2026-05-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -34,13 +35,13 @@ GPT-5.5 Instant replaces GPT-5.3 Instant as the default model across every ChatG
 
 The headline performance metric is a 52.5% reduction in hallucinated claims on high-stakes prompts covering medicine, law, and finance, compared to its predecessor. That figure is striking because hallucination on authoritative domains has been one of the stickiest problems in large language model deployment—the kind of failure that quietly erodes enterprise trust. Whether GPT-5.5 Instant has solved that problem or merely made it less frequent remains to be seen in practice, but the directional improvement is substantial.
 
-Beyond accuracy, the model is notably faster and more concise. OpenAI says it produces cleaner, more direct answers with less padding—a common complaint about earlier ChatGPT responses that could bury the useful part in scaffolding text.
+Beyond accuracy, OpenAI says the model maintains the low latency of its predecessor. OpenAI says it produces cleaner, more direct answers with less padding—a common complaint about earlier ChatGPT responses that could bury the useful part in scaffolding text.
 
 ## The Personalization Layer
 
 The more ambitious change is a new personalization capability that draws on long-term memory across past chats, documents users have shared, and—for Plus and Pro subscribers—connected Gmail accounts. In practice, this means ChatGPT can, with user consent, surface context from previous sessions months apart, tailor the depth of explanation to a user's observed background, and reference files without requiring manual re-upload.
 
-Gmail integration is rolling out first to Plus and Pro on web, with mobile and expansion to Free, Go, Business, and Enterprise users following in the coming weeks. Privacy controls let users disable any of these memory sources independently.
+The feature, which can refer back to past chats, files, and Gmail, is available first to Plus and Pro users on the web, with mobile coming soon and expansion to Free, Go, Business, and Enterprise users planned in the coming weeks. Privacy controls let users disable any of these memory sources independently.
 
 This is OpenAI's most direct move yet toward the "personal AI" framing that competitors like Perplexity, Google Gemini, and Apple Intelligence have been staking out. The underlying bet is that a model with genuine memory of who you are is meaningfully more useful than one that starts from a blank slate each session—and that users will accept the privacy trade-off if the value is clear.
 
@@ -63,3 +64,5 @@ GPT-5.5 Instant joins a model lineup that now includes GPT-5.5 (the full reasoni
 Industry observers are watching the next iteration—internally referred to as GPT-5.6 or "SPUD" in pre-release documentation that surfaced earlier this year—which is understood to focus on extended autonomous task execution: the ability to operate across applications, manage complex multi-day workflows, and function as a persistent background agent rather than a prompt-response system. If GPT-5.5 Instant democratized frontier reasoning, the next model class may be the one that puts agentic capability within reach of everyday users.
 
 For now, the approximately 400 million monthly active ChatGPT users—many of them on the free tier—wake up to a meaningfully smarter tool without having lifted a finger. In the increasingly crowded AI assistant market, that is a harder advantage to copy than any benchmark score.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

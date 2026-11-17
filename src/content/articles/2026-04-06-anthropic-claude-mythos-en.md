@@ -1,8 +1,9 @@
 ---
 title: "Anthropic's Claude Mythos: The Leaked 'Step-Change' Model Rewriting AI Safety Calculus"
-summary: "Anthropic has accidentally confirmed the existence of Claude Mythos — its most powerful model ever, leaked through a misconfigured content management system. Early testers describe it as a new tier beyond Opus, with unprecedented capabilities in reasoning and cybersecurity that bring both immense promise and serious dual-use risk."
+summary: "Anthropic has accidentally confirmed the existence of Claude Mythos — which it calls its most capable model to date, revealed through a misconfigured content management system. A leaked draft blog post describes a new tier beyond Opus and warns of unprecedented cybersecurity risks."
 category: "ai-ml"
 publishedAt: 2026-04-06T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -35,13 +36,13 @@ relatedSlugs:
 
 Anthropic has spent four years building a reputation as the "safety-first" AI lab — the company founded by former OpenAI researchers who believed their former employer was moving too fast. The irony, then, is almost painful: the existence of Anthropic's most powerful model ever was revealed not by a press release, but by a misconfigured content management system that left an unpublished blog post publicly searchable.
 
-Fortune discovered and reported the leak in late March 2026. Anthropic confirmed it shortly after, attributing the exposure to "human error" in their CMS configuration. In doing so, they inadvertently confirmed details they hadn't planned to announce publicly: the model is real, it's called Mythos, and it represents what Anthropic internally described as "a step-change in capabilities."
+Fortune reviewed the leaked material, which had also been located separately by security researchers, and reported it in late March 2026. Anthropic confirmed it shortly after, attributing the exposure to "human error" in their CMS configuration. In doing so, they confirmed details they hadn't planned to announce publicly: the model is real, it's called Claude Mythos, and an Anthropic spokesperson described it as "a step change" and "the most capable we've built to date."
 
 That phrase — "step-change" — carries significant weight in the AI industry. It means something qualitatively different, not just quantitatively larger. It's the language used to describe the jumps between generations that actually alter what AI systems can do. Anthropic has used this term sparingly.
 
 ## What Is Claude Mythos?
 
-The model naming is somewhat complex. "Mythos" is the product generation name — the equivalent of "Opus" or "Sonnet" in Anthropic's existing lineup. "Capybara" is the tier designation within that generation. The full designation is something like Claude Mythos Capybara, and it sits above the current Opus tier: the first model Anthropic has built that is explicitly "larger and more intelligent than our Opus models — which were, until now, our most powerful."
+The model naming is somewhat complex. "Mythos" is the name of the new model, which the draft blog post calls Claude Mythos. "Capybara" is the name the draft blog post gives to a new tier of model, and Capybara and Mythos appear to refer to the same underlying model. According to the draft, the new tier sits above the current Opus tier: "larger and more intelligent than our Opus models — which were, until now, our most powerful."
 
 What can it do that current models cannot? Anthropic has been measured in its disclosures, but the contours are becoming clear from the early-access customer reports and the inadvertently published draft:
 
@@ -49,7 +50,7 @@ What can it do that current models cannot? Anthropic has been measured in its di
 
 **Advanced coding.** The model's coding capabilities are described as a meaningful jump from Claude Opus 4.6. In internal testing, Mythos reportedly completes large-scale refactoring tasks that previously required multiple rounds of human correction in a single pass. It can reason about an entire codebase's architecture, not just isolated functions.
 
-**Cybersecurity.** This is where Anthropic's communications have been most careful — and most revealing. The company has explicitly focused Mythos's initial rollout on cybersecurity use cases, working with a small group of enterprise customers in that sector. Anthropic describes the potential "unprecedented" — both in terms of defensive applications (threat detection, vulnerability assessment, incident response) and, implicitly, in terms of dual-use risk.
+**Cybersecurity.** This is where Anthropic's communications have been most careful — and most revealing. The company is working with a small group of early access customers to test the model, and the draft blog says it is releasing it in early access to organizations to give cyber defenders a head start. The draft blog post says the model poses "unprecedented cybersecurity risks," and Anthropic says it wants to understand the near-term risks and share the results to help cyber defenders prepare.
 
 ## The Safety Paradox
 
@@ -65,7 +66,7 @@ CNN's reporting adds texture to this concern. Cybersecurity experts interviewed 
 
 Mythos is not launching publicly. As of early April, Anthropic has distributed access to "a small group of early access customers selected by Anthropic," with an explicit initial focus on cybersecurity applications. The company says it is "slowly expanding access to Claude Mythos to more customers using the Claude API over the coming weeks."
 
-The caveat is significant: Mythos is described as "a large, compute-intensive model that is very expensive to serve." Anthropic is working to make it more efficient before any general release. This is consistent with the history of other frontier models — GPT-4 was initially expensive and capacity-constrained at launch, and its pricing fell by roughly 97% over 18 months as infrastructure improved and smaller distilled variants emerged.
+The caveat is significant: the draft blog notes that Mythos is expensive to run and not yet ready for general release." Anthropic is working to make it more efficient before any general release. This is consistent with the history of other frontier models — GPT-4 was initially expensive and capacity-constrained at launch, and its pricing fell by roughly 97% over 18 months as infrastructure improved and smaller distilled variants emerged.
 
 The current expectation among Claude API customers is a limited beta through Q2 2026, with broader availability potentially tied to the release of a more efficient Mythos variant — internally called something other than Capybara, which presumably represents the maximum-compute configuration — in H2 2026.
 
@@ -78,3 +79,5 @@ Mythos provides that signal — and the cybersecurity framing provides the safet
 Whether the safety-first approach proves durable — or whether competitive pressure eventually forces faster, broader rollout — will define Anthropic's next chapter. For now, Claude Mythos is the most anticipated model no one is allowed to use.
 
 That might be exactly the point.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

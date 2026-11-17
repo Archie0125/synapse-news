@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Withholds Claude Mythos: The AI That Can Hack Almost Everything"
-summary: "Anthropic has released its most powerful model yet, Claude Mythos Preview, only to a select group of 12 defensive security partners after discovering it can autonomously identify and exploit zero-day vulnerabilities across every major operating system and browser. The decision marks the first time in nearly seven years that a leading AI lab has publicly withheld a model over safety concerns."
+summary: "Anthropic has released its most powerful model yet, Claude Mythos Preview, only to a limited group of partners, 12 of them in its defensive security initiative, after saying it can find thousands of zero-day vulnerabilities across every major operating system and browser."
 category: "ai-ml"
 publishedAt: 2026-04-12T09:10:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,7 +31,7 @@ When Anthropic's researchers pointed their latest model, Claude Mythos Preview, 
 
 Within weeks, Mythos had surfaced thousands of previously unknown, critical vulnerabilities across every major operating system, every major web browser, and a wide range of other important software. It reproduced those vulnerabilities and generated working proof-of-concept exploits on the first attempt in **83.1% of cases** — a success rate that left Anthropic's own safety team shaken.
 
-The company announced on April 7 that it would not release Mythos to the general public. Instead, it handed access to just 12 vetted partner organizations, all of them tasked with using the model exclusively for defensive security work. It is the first time in nearly seven years that a major frontier AI lab has publicly withheld a model because it deemed it too dangerous to release broadly.
+The company announced on April 7 that it would not release Mythos to the general public. Instead, it handed access to 12 partner organizations for "defensive security work", with 40 organizations in total gaining access to the preview.
 
 ## Project Glasswing and the Defensive Mandate
 
@@ -50,7 +51,7 @@ These behaviors did not trigger Anthropic's hard safety filters, which focus pri
 
 ## Regulators and Wall Street Take Notice
 
-The release did not pass quietly through Washington. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell convened a meeting with senior Wall Street executives in the days following the announcement to assess the systemic cyber risk implications of AI models with Mythos-level capabilities. The gathering underscored how quickly AI safety concerns have migrated from academic debate to boardroom and regulatory agenda.
+The release did not pass quietly through Washington. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell held a closed-door meeting on Tuesday to discuss Mythos and other emerging cybersecurity risks stemming from AI. The gathering underscored how quickly AI safety concerns have migrated from academic debate to boardroom and regulatory agenda.
 
 Cybersecurity experts, for their part, argued that the era of AI-assisted hacking had already arrived long before Mythos. Nation-state actors and sophisticated criminal groups have been using earlier-generation AI tools to accelerate vulnerability research for at least two years. What Mythos changes, they say, is the threshold — the level of skill required to execute a serious cyberattack is about to drop sharply.
 
@@ -69,3 +70,5 @@ Mythos is the most concrete expression of that philosophy to date — a model po
 The 12 Glasswing partners will have a 90-day exclusive window to deploy Mythos for defensive work before Anthropic reassesses broader release options. The company has indicated it will publish a more detailed account of what the partners discovered and patched during that period, with the goal of making the case that controlled release can produce a net security benefit.
 
 Whether that argument will hold as Mythos-class capabilities proliferate — across Anthropic's competitors and beyond — remains the defining question of this moment in AI development. For now, the model sits behind one of the most carefully constructed gates in the history of the technology. The clock is already running.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

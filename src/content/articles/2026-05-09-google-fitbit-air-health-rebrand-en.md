@@ -1,8 +1,9 @@
 ---
 title: "Google Launches the $100 Fitbit Air and Renames Fitbit as Google Health"
-summary: "Google unveiled the Fitbit Air, a $99.99 screenless fitness band with modular hot-swap bands, and simultaneously rebranded the Fitbit app to 'Google Health,' opening its Gemini-powered AI health coach to all subscribers. Both changes take effect May 19 — the same day Google I/O 2026 begins."
+summary: "Google unveiled the Fitbit Air, a $99.99 screenless fitness band with swappable bands, designed to unlock the Google Health Coach and including a three-month trial of Google Health Premium."
 category: "products"
 publishedAt: 2026-05-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,17 +28,16 @@ relatedSlugs:
   - "2026-05-09-chrome-gemini-nano-silent-install-en"
 ---
 
-Google has done two things this week that signal a decisive shift in its consumer health ambitions: it launched its first screenless fitness band, and it formally retired the Fitbit brand.
 
 "Retired" is the more precise word. Starting May 19, the Fitbit app that has lived on hundreds of millions of Android and iOS devices will be renamed the Google Health app. The pivot is more than cosmetic. It marks the formal completion of a transformation that began when Google acquired Fitbit in 2021 for $2.1 billion and has been gradually absorbing the brand into its broader ecosystem ever since.
 
-The hardware announcement is more immediately tangible. The Fitbit Air, Google's first screenless fitness wearable, goes on sale May 26 for $99.99. It is designed to compete directly with Whoop, the subscription-based screenless fitness band that has built a devoted following among endurance athletes and biohackers, and indirectly with Oura Ring and the broader movement toward passive, data-dense health monitoring with minimal on-body interface.
+The hardware announcement is more immediately tangible. The Fitbit Air, Google's smallest tracker yet, is available for pre-order for $99.99. It is designed to compete directly with Whoop, the subscription-based screenless fitness band that has built a devoted following among endurance athletes and biohackers, and indirectly with Oura Ring and the broader movement toward passive, data-dense health monitoring with minimal on-body interface.
 
 ## What the Fitbit Air Actually Is
 
-The Fitbit Air ships as a pebble-shaped sensing core that snaps in and out of interchangeable bands. The modular design is a direct response to user feedback on previous Fitbit products: the hardware is the sensor platform, while aesthetics are a separate, swappable choice. A standard silicone band ships in the box; additional colors and materials will be available separately at launch.
+The Fitbit Air ships as a pebble-shaped sensing core that snaps in and out of interchangeable bands. The modular design is a direct response to user feedback on previous Fitbit products: the hardware is the sensor platform, while aesthetics are a separate, swappable choice. A Performance Loop Band made from recycled materials ships in the box; Active and Elevated Modern bands are also offered, and accessory bands are available for pre-order starting at $34.99.
 
-The sensor array mirrors what users have come to expect from premium fitness wearables: continuous heart rate monitoring, blood oxygen saturation (SpO2) tracking, sleep stage detection, skin temperature sensing, and automated activity recognition. Without a screen, all data must be accessed through the Google Health app on a paired smartphone. This is the same fundamental trade-off Whoop users have accepted for years: by eliminating the display, the device becomes lighter, smaller, simpler to waterproof, and dramatically more battery-efficient. Google has not yet published official battery life figures, but devices of this type and size from competitors typically achieve four to seven days on a charge.
+The sensor array covers 24/7 heart rate, heart rhythm monitoring with Afib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and automatic activity detection. Without a screen, all data must be accessed through the Google Health app on a paired smartphone. This is the same fundamental trade-off Whoop users have accepted for years: by eliminating the display, the device becomes lighter, smaller, simpler to waterproof, and dramatically more battery-efficient. Google says the Fitbit Air offers up to a week of battery life, and fast charging gives a full day of power in five minutes.
 
 A Stephen Curry signature edition launches alongside the standard Fitbit Air, a partnership Google is using to position the device in the fitness performance market rather than the mainstream wellness category that older Fitbit products occupied. The NBA star's involvement follows a pattern of major tech health wearable launches pairing with high-profile athlete endorsements to signal performance credibility over casual use.
 
@@ -66,3 +66,5 @@ Apple's response will be closely watched. Apple Watch holds a dominant position 
 For the health tech ecosystem more broadly, Google's move validates the bet that the next major battleground in wearables is not the hardware itself — sensors have largely commoditized — but the AI layer that turns raw biometric data into meaningful, personalized guidance. That is a battle that runs on data volume, model quality, and user trust. Google has all three ingredients, though the Fitbit brand's journey from independent pioneer to Google product line reflects the difficulties of sustaining consumer trust through a prolonged acquisition transition.
 
 For Fitbit loyalists who have watched the brand's slow absorption since 2021, this week's announcements deliver clarity: the Fitbit name is retiring, but the platform is not going away. It is being elevated and integrated into Google's largest AI ambitions. Whether that trajectory serves users better than Fitbit's independent path might have is a question for history. For now, the Fitbit Air and Google Health app represent the clearest articulation yet of what Google's consumer health strategy actually looks like — and Google I/O 2026, which opens on the same day the rebrand takes effect, will likely add considerably more detail.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

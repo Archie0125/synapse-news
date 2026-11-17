@@ -3,6 +3,7 @@ title: "OpenAI and Anthropic Shatter DC Lobbying Records as AI Regulation Battle
 summary: "OpenAI nearly doubled its federal lobbying spend to a record $2.22 million in the first half of 2026, while Anthropic nearly tripled its own to $3.53 million, as both companies work to shape legislation covering AI model parameters, copyright, data center siting, and export controls. The surge signals that frontier AI companies now view Washington influence as existential infrastructure."
 category: "policy"
 publishedAt: 2026-07-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ For most of their short histories, OpenAI and Anthropic treated Washington the w
 
 New lobbying disclosure filings, reported by CNBC and Quartz on July 21, reveal that both frontier AI companies have dramatically escalated their political spending in the first half of 2026. OpenAI spent $2.22 million lobbying the federal government in the period — nearly double its year-earlier figure and the highest six-month total the company has ever reported. Anthropic spent $3.53 million, nearly triple its previous H1 total and a sum that would have been remarkable for a company of any age, let alone one founded just three years ago.
 
-The combined $5.75 million from two companies is not, by the standards of legacy technology or pharmaceutical lobbying, an enormous sum. Google, Amazon, and Meta have each spent multiples of that in a single quarter. What makes the numbers striking is their trajectory and what they signal about how frontier AI companies now understand their own risk environment.
+The combined $5.75 million from two companies is not, by the standards of legacy technology or pharmaceutical lobbying, an enormous sum. Meta, Amazon and Google each spent more than either company did on its own in the second quarter, according to CNBC's tally. What makes the numbers striking is their trajectory and what they signal about how frontier AI companies now understand their own risk environment.
 
 ## What They're Lobbying For
 
@@ -67,9 +68,9 @@ This is why lobbyists describe AI policy work as punching significantly above it
 
 ## The Legacy Tech Contrast
 
-The rapid rise in AI lobbying spending is happening at the same moment that legacy technology companies are actually pulling back. Microsoft, Google, and Meta — all of which are building their own frontier models while simultaneously operating AI infrastructure for others — have traditionally dominated technology lobbying in Washington. Their spending, while still large in absolute terms, grew more slowly in H1 2026 as those companies shifted political resources toward trade and antitrust battles rather than AI-specific legislation.
+The rapid rise in AI lobbying spending is happening while legacy technology companies' spending has held roughly steady. Microsoft, Google, and Meta — all of which are building their own frontier models while simultaneously operating AI infrastructure for others — have traditionally dominated technology lobbying in Washington. Their spending remains large in absolute terms, and CNBC found the largest tech companies' combined second-quarter spending was essentially unchanged from the first quarter.
 
-The result is an unusual moment in which the fastest-growing sector's political voice is still largely shaped by independent frontier labs — OpenAI and Anthropic — rather than by the tech giants that are also building in the space. That balance will shift as the regulatory environment matures, but for now, the new lobbyists are writing early chapters that will constrain what comes later.
+The result is an unusual moment in which OpenAI and Anthropic are narrowing the gap with the tech giants, even though established technology and defense companies still spend far more overall. That balance will shift as the regulatory environment matures, but for now, the new lobbyists are writing early chapters that will constrain what comes later.
 
 ## Anthropic's Distinctive Positioning
 
@@ -88,3 +89,5 @@ The second half of 2026 is expected to bring additional congressional activity o
 Both OpenAI and Anthropic are expected to increase their lobbying footprints further, with both companies having expanded their policy and government affairs teams significantly in 2026. The era of frontier AI companies as apolitical research organizations is definitively over.
 
 The lobbying race is, in a sense, the most honest signal yet of how seriously these companies take the regulatory stakes. They are not spending millions of dollars on Washington influence because they believe the outcome is predetermined. They are spending it because they believe it matters — that the rules governing AI over the next decade are genuinely up for grabs, and that the companies present in those negotiations will live in a materially different world than the ones that stayed home.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

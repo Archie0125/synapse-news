@@ -1,8 +1,9 @@
 ---
-title: "SAP Completes Prior Labs Acquisition, Sealing Europe's First Corporate Frontier AI Lab"
-summary: "SAP has completed its acquisition of Prior Labs, the pioneer of Tabular Foundation Models, just 18 months after the German startup's founding. SAP will invest more than €1 billion over four years to build Prior Labs into a globally leading frontier AI research lab for structured data — the first time a major European enterprise software company has backed a frontier AI lab at this scale."
+title: "SAP Completes Prior Labs Acquisition, Keeping the European Frontier AI Lab Independent"
+summary: "SAP has completed its acquisition of Prior Labs, the pioneer of Tabular Foundation Models, just 18 months after the German startup's founding. SAP is putting more than €1 billion behind the lab over four years, while Prior Labs keeps its brand and open models."
 category: "ai-ml"
 publishedAt: 2026-07-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
 
 SAP SE announced on July 17 that it has completed its acquisition of Prior Labs, the Freiburg-based startup that pioneered Tabular Foundation Models — a category of AI built specifically for the structured, row-and-column data that underlies virtually all enterprise software. The deal, first announced in May 2026, closed just 18 months after Prior Labs was founded, and comes with a commitment from SAP to invest more than €1 billion over four years to build the lab into a globally leading frontier AI research institution.
 
-The transaction marks a significant moment in European AI: for the first time, a major European enterprise software company has put meaningful capital behind a frontier AI research operation that it intends to keep genuinely independent — not absorbed into a product team, but maintained as a research lab with the freedom to publish, hire, and scale.
+The transaction marks a significant moment in European AI: a European software giant has bought a European frontier lab and kept it open and independent, with Prior Labs continuing under its own brand, leadership and research agenda and publishing its research.
 
 ## Why Tabular AI Is the Untapped Frontier
 
@@ -74,3 +75,5 @@ SAP's motivation is not purely philanthropic. The company has roughly 400 millio
 If Prior Labs can extend the TabPFN approach to the scale and complexity of real enterprise datasets — where tables have hundreds of columns, billions of rows, missing values, schema drift, and domain-specific semantics — SAP would have a defensible AI capability that no language model vendor can easily replicate. Tabular AI embedded in S/4HANA, the company's core ERP system, could analyze a customer's supply chain anomalies, flag credit risks, or forecast demand without the data ever leaving the customer's environment.
 
 That combination — frontier research credibility, European regulatory alignment, and deep enterprise distribution — is precisely what SAP is paying €1 billion to buy. Whether it pays off depends on whether Prior Labs can move from research excellence to production-grade AI at enterprise scale, which is a harder problem than it sounds. But as bets on the future of enterprise AI go, it is one of the more structurally coherent ones placed in Europe this year.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

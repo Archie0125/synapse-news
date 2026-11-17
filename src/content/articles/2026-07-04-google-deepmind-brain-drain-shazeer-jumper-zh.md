@@ -1,8 +1,9 @@
 ---
 title: "27 億美元留人計畫宣告失敗：Transformer 共同發明人 Shazeer 投奔 OpenAI，AlphaFold 掌門人 Jumper 加盟 Anthropic"
-summary: "2026 年 6 月 18 至 19 日，Google DeepMind 在連續 24 小時內失去了現代 AI 史上最重要的兩位研究者——Transformer 共同發明人 Noam Shazeer 轉赴 OpenAI，AlphaFold 諾貝爾獎得主 John Jumper 加入 Anthropic。這兩起離職震動 Alphabet 股價，也讓外界對 Google 能否保住 AI 競賽所需的頂尖人才產生深刻質疑。"
+summary: "Transformer 論文共同作者 Noam Shazeer 與 AlphaFold 負責人 John Jumper 在數日內先後宣布離開 Google，分別轉赴 OpenAI 與 Anthropic。這兩起離職與 Alphabet 股價下跌同時發生，也讓外界對 Google 能否保住 AI 競賽所需的人才產生更深的質疑。"
 category: "industry"
 publishedAt: 2026-07-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: false
@@ -31,17 +32,17 @@ relatedSlugs:
   - "2026-07-01-equilibre-deepmind-poker-ai-quant-trading-zh"
 ---
 
-2026 年 6 月中旬，短短 24 小時內，Google DeepMind 失去了兩位在現代 AI 發展史上舉足輕重的研究者。6 月 18 日，「Attention Is All You Need」論文共同作者、Google Gemini 模型共同負責人 Noam Shazeer 宣布將加入 OpenAI。隔天上午，主導 AlphaFold 專案、剛以此研究榮獲諾貝爾化學獎的 John Jumper 宣布在效力公司近九年後轉赴 Anthropic。
+2026 年 6 月中旬，約 48 小時內，Google DeepMind 失去了兩位最具代表性的研究者。6 月 18 日，「Attention Is All You Need」論文共同作者、Google Gemini 模型共同負責人 Noam Shazeer 宣布將加入 OpenAI。
 
-這兩起接連發生的離職事件，對市場的衝擊如同一顆炸彈。6 月 22 日，Alphabet 股價下跌 5 至 6 個百分點，分析師直指擔憂 Google 留才能力與在 AI 前沿保持競爭力的前景。這個市場反應並非純粹象徵性的——Shazeer 和 Jumper 在同一週相繼離去，其意義大約相當於 NFL 最頂尖的兩位四分衛在連續兩天宣布退休。
+這兩起接連發生的離職事件，對市場的衝擊如同一顆炸彈。6 月 22 日，Alphabet 股價下跌約 5 至 6 個百分點，市場報導將這波跌勢與對 AI 支出的擔憂，以及 Google 能否留住資深 AI 人才的疑慮連結在一起。這個市場反應並非純粹象徵性的——Shazeer 和 Jumper 在同一週相繼離去，其意義大約相當於 NFL 最頂尖的兩位四分衛在連續兩天宣布退休。
 
 ## 那筆 27 億美元沒能留住人
 
-Shazeer 的出走尤其令 Google 難堪。2024 年，Google 以大約 27 億美元將他「買」回來——這不是一般的雇用，而是透過收購他的新創公司 Character.ai 完成的：Google 取得了該公司的技術授權，並吸納了大部分工程人才。當時，這筆交易被廣泛視為一個里程碑式的留才行動：押注 Google 能夠透過提供任何獨立實驗室都無法比擬的資源，把 Transformer 架構共同發明人牢牢留在自己陣營。
+Shazeer 的出走尤其令 Google 難堪。2024 年，Google 與 Character.AI 達成協議，據報價值 27 億美元，將他請回來——這不是直接收購，而是取得該公司的技術授權，並讓其研究團隊回到 Google。當時，這筆交易被廣泛視為一個里程碑式的留才行動：押注 Google 能夠透過提供任何獨立實驗室都無法比擬的資源，把 Transformer 架構共同發明人牢牢留在自己陣營。
 
 不到兩年後，Shazeer 加入了 OpenAI。
 
-27 億美元之後依然沒能留住人，這不只是一個令人難堪的事實，更是一個結構性的訊號。據多位熟悉內情的人士透露，真正的吸引力不是薪資，而是股權增值空間。OpenAI 和 Anthropic 都在 2026 年 6 月初提交了保密 IPO 申請，OpenAI 據報估值目標接近 1 兆美元。對於 Shazeer 這種量級的研究者而言，在一家即將上市的公司持有上市前股權，潛在的財富增值是一家已上市的大型企業無論如何都無法透過薪水或現金獎金複製的。
+27 億美元之後依然沒能留住人，這不只是一個令人難堪的事實，更是一個結構性的訊號。Shazeer 與 Jumper 都未公開說明離職原因，但一種可能的解釋是 OpenAI 與 Anthropic 預期上市所帶來的潛在增值空間。OpenAI 據報已保密提交 IPO 申請，OpenAI 與 Anthropic 預期都將在未來幾個月內上市。對於 Shazeer 這種量級的研究者而言，在一家即將上市的公司持有上市前股權，潛在的財富增值是一家已上市的大型企業無論如何都無法透過薪水或現金獎金複製的。
 
 一位熟悉業界招募生態的人士如此表示：「現在的結構性優勢在 OpenAI 和 Anthropic 那邊。他們的股權方案潛在的財富增值是 Google 無法匹敵的——你無法用簽約獎金去競爭一個 IPO 的敘事。」
 
@@ -55,7 +56,7 @@ Anthropic 在頂尖研究圈中建立的「研究優先」聲譽具有真實的�
 
 ## DeepMind 的人才困局
 
-Shazeer 和 Jumper 的離職是一個持續超過一年的趨勢中最具代表性的案例，並非孤立事件。Gemini 模型系列的核心貢獻者 Jonas Adler 和 Alexander Pritzel，在 Jumper 公告的前幾週也宣布轉赴 Anthropic。每一起出走背後的共同主軸是相同的：上市前股權的吸引力、更大的研究自主空間，或兩者兼具。
+Shazeer 和 Jumper 的離職是一個持續超過一年的趨勢中最具代表性的案例，並非孤立事件。Gemini 模型系列的核心貢獻者 Jonas Adler 和 Alexander Pritzel，在 Jumper 公告的前幾週也宣布轉赴 Anthropic。Shazeer 與 Jumper 都未公開說明離職的原因。
 
 Google 並非坐以待斃。過去 18 個月，公司大幅提高了前沿 AI 研究者的薪酬方案，啟動了讓資深科學家獲得更大產品獨立性的內部計畫，並據報批准了針對少數關鍵人員的數億美元留才激勵。Hassabis 本人在每起離職風波中都保持公開的留任姿態，並獲得了更大的招募決策授權。
 
@@ -63,10 +64,12 @@ Google 並非坐以待斃。過去 18 個月，公司大幅提高了前沿 AI �
 
 ## 對前沿競賽的影響
 
-實質影響比象徵意義更難量化，但同樣真實。Shazeer 對 Gemini 架構的貢獻之所以值得 Google 花 27 億美元去取得，說明他帶走的不只是一個名字。他轉至 OpenAI，不代表知識會自動轉移——一位研究者對某機構的深度認識、設計直覺和協作網絡，不像原始碼那樣可以複製——但確實意味著，關於架構設計與訓練效率的下一個重要想法，將會在別的地方被創造出來。
+實質影響比象徵意義更難量化，但同樣真實。Shazeer 是 Google Gemini 模型的共同負責人，Google 據報 27 億美元的 Character.AI 協議在 2024 年把他和他的團隊請了回來，說明他帶走的不只是一個名字。他轉至 OpenAI，不代表知識會自動轉移——一位研究者對某機構的深度認識、設計直覺和協作網絡，不像原始碼那樣可以複製——但確實意味著，關於架構設計與訓練效率的下一個重要想法，將會在別的地方被創造出來。
 
 對 Anthropic 而言，Jumper 的加入帶來了一位諾貝爾獎認證的、在極度困難的科學問題上有著傑出記錄的研究者。他在生物推理上的能力能否直接轉化為語言模型對齊與可解釋性的突破，仍有待觀察；但聲譽上的信號是清晰的：Anthropic 已成為那些希望自己的工作真正有影響力的研究者的首選之地。
 
 對 Google 而言，挑戰不是一季度的人才危機，而是一個根本性的重新校準。Google 的 AI 領導層花了多年時間把 DeepMind 建成世界上最具聲望的 AI 研究院，部分前提是：聲望加資源足以吸引並留住最頂尖的研究者。2026 年 6 月發生的事情表明，這個前提現在遭遇了一個強勁的競爭敘事：在尚未迎來定義性上市時刻的公司，建立某樣全新的東西，並從中獲得真正可觀的財富回報。
 
 前沿 AI 的競賽，比以往任何時候都更是一場人才的競賽。而此刻，Google 正在輸。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 9 處。*

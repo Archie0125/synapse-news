@@ -1,8 +1,9 @@
 ---
 title: "Claude Opus 4.7 Retakes the AI Crown With a Vision Leap and Agentic Gains"
-summary: "Anthropic released Claude Opus 4.7 on April 16, pushing the model past GPT-5.4 and Gemini 3.1 Pro on virtually every major benchmark. SWE-bench Verified climbed to 87.6%, vision accuracy surged from 54.5% to 98.5%, and a new 'xhigh' effort level enables sustained reasoning across multi-hour autonomous workflows — all at the same price as its predecessor."
+summary: "Anthropic released Claude Opus 4.7, with benchmark-leading scores on SWE-bench Pro and SWE-bench Verified (87.6%) against GPT-5.4 and Gemini 3.1 Pro, and a new 'xhigh' effort level — all at the same price as its predecessor."
 category: "ai-ml"
 publishedAt: 2026-04-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
 
 # Claude Opus 4.7 Retakes the AI Crown With a Vision Leap and Agentic Gains
 
-Anthropic released Claude Opus 4.7 on Wednesday, delivering the most substantial single-generation capability jump the company has produced since the original Opus 4 launch. The new model tops leaderboards across coding, agentic reasoning, and vision tasks—beating OpenAI's GPT-5.4 and Google's Gemini 3.1 Pro on nearly every metric that enterprise developers track—while shipping at identical pricing to its predecessor.
+Anthropic released Claude Opus 4.7 on Wednesday, delivering the most substantial single-generation capability jump the company has produced since the original Opus 4 launch. The new model leads on coding and agentic reasoning benchmarks—ahead of OpenAI's GPT-5.4 and Google's Gemini 3.1 Pro on several of them—while shipping at identical pricing to its predecessor.
 
 The release is well-timed. Anthropic disclosed a $30 billion annualized revenue run rate just ten days ago, and competition for the frontier AI crown has never been more compressed. GPT-5.4 launched in early March 2026. Gemini 3.1 Pro followed in February. Opus 4.7 now restores the margin that Anthropic held until earlier this year.
 
 ## The Benchmark Picture
 
-The numbers are hard to minimize. On SWE-bench Verified—the industry's most widely cited software engineering evaluation—Opus 4.7 scores 87.6%, up from 80.8% on Opus 4.6. That is a nearly 7-point gain in a single generation, in a benchmark where the difference between 80% and 90% represents the gap between a model that can handle most real-world tickets and one that can handle almost all of them.
+The numbers are hard to minimize. On SWE-bench Verified, a curated subset of SWE-bench, Opus 4.7 scores 87.6%, up from 80.8% on Opus 4.6. That is a nearly 7-point gain in a single generation, in a benchmark where the difference between 80% and 90% represents the gap between a model that can handle most real-world tickets and one that can handle almost all of them.
 
-SWE-bench Pro, a harder variant released late last year with less training-set contamination, showed an even steeper gain: from 53.4% to 64.3%. CursorBench, which simulates multi-step code editing in realistic IDE sessions, jumped from 58% to 70%. GPT-5.4 Thinking, OpenAI's current flagship, scores 58% and 62% on those same benchmarks, respectively.
+SWE-bench Pro, a harder variant released late last year with less training-set contamination, showed an even steeper gain: from 53.4% to 64.3%. CursorBench, which simulates multi-step code editing in realistic IDE sessions, jumped from 58% to 70%. GPT-5.4 scores 57.7% on SWE-bench Pro, behind Opus 4.7's 64.3%.
 
 On financial analysis tasks—a vertical that accounts for a significant portion of Anthropic's enterprise revenue—Opus 4.7 scored 78.4%, compared to 69.1% for GPT-5.4 Thinking and 72.2% for Gemini 3.1 Pro. Cursor pushed a blog post within hours of the launch highlighting the coding gains; GitHub has scheduled a benchmark response for next week.
 
@@ -54,7 +55,7 @@ For agentic applications—where models must read screenshots, interpret UI stat
 
 ## The xhigh Effort Level
 
-Anthropic also introduced a new compute tier called xhigh, slotting between the existing high and max effort settings. The company recommends starting with high or xhigh for most coding and agentic use cases, and Claude Code now defaults to xhigh for all subscription plans.
+Anthropic also introduced a new compute tier called xhigh, slotting between the existing high and max effort settings. The company recommends starting with high or xhigh for coding and agentic use cases, and Claude Code now defaults to xhigh for all plans.
 
 The reasoning behind the new tier reflects something non-obvious about how frontier models actually perform. Large models allocate reasoning compute dynamically, and in long agentic conversations—where context is dense and the model must integrate many prior tool calls before acting—there is a tendency for effective reasoning depth to taper off relative to the model's theoretical maximum. The xhigh setting is engineered to sustain elevated reasoning throughout multi-hour workflows rather than letting it degrade as conversation length grows.
 
@@ -81,3 +82,5 @@ The release reinstates Anthropic at the top of the frontier model leaderboard af
 The deeper competitive pattern worth watching is cadence. GPT-5.4 launched in March. Gemini 3.1 Pro in February. Opus 4.7 in April. Frontier model releases that once came annually now arrive quarterly, with each generation delivering double-digit benchmark gains. For enterprises evaluating which AI platform to standardize on, that pace makes heavy platform lock-in a risky bet—and helps explain why Anthropic, OpenAI, and Google are all racing to deepen workflow integrations and API stickiness alongside raw model capability.
 
 Opus 4.7 is Anthropic's strongest answer yet to the question of whether it can sustain its technical lead as it scales commercially. At $30 billion in annualized revenue and growing, the company now has the resources to keep answering it.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

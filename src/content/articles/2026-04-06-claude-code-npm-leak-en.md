@@ -3,6 +3,7 @@ title: "Anthropic Accidentally Publishes 512,000 Lines of Claude Code Source to 
 summary: "A misconfigured build step in Claude Code v2.1.88 exposed 1,906 TypeScript files and 512,000 lines of source code to the public npm registry — the agentic harness governing how Claude uses tools, manages files, and orchestrates multi-agent workflows. The code spread to 50,000+ GitHub stars within hours before Anthropic pulled the package."
 category: "developer-tools"
 publishedAt: 2026-04-06T09:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,11 +40,11 @@ The package went live with the source map attached. Nobody at Anthropic noticed.
 
 ## Discovered by an Intern, Seen by Millions
 
-Discovery credit goes to Chaofan Shou, a software engineering intern at Solayer Labs. Shou was exploring the published npm package for a routine integration task when he noticed the source map, realized what it was, and posted about it on X. The tweet generated 16 million views within 24 hours.
+Discovery credit goes to Chaofan Shou, a self-identified intern at Solayer Lab. Shou was exploring the published npm package for a routine integration task when he noticed the source map, realized what it was, and posted about it on X. The tweet generated 16 million views within 24 hours.
 
 On GitHub, a repository forked from the leaked source code hit 50,000 stars and 41,500 forks in under two hours — making it one of the fastest-spreading code repositories in the platform's history. By the time Anthropic pulled the affected npm package at approximately 08:00 UTC, the code had already been downloaded, mirrored, and archived across dozens of platforms.
 
-Anthropic acknowledged the incident and attributed it to the Bun toolchain bug. They have since patched their build pipeline to strip source maps regardless of bundler behavior.
+Anthropic acknowledged the incident, calling it a release packaging issue caused by human error rather than a security breach. They have since patched their build pipeline to strip source maps regardless of bundler behavior.
 
 ## Why This Is More Sensitive Than a Model Weight Leak
 
@@ -79,8 +80,10 @@ Developers who examined the source before it was widely pulled described several
 
 In the immediate aftermath, several prominent developers publicly argued that Anthropic should simply open-source Claude Code — accepting the leak as fait accompli and turning a security incident into a community asset. The argument: the code is already public, the reputational damage from the leak is done, and open-sourcing would generate goodwill and community contributions that could improve the harness faster than Anthropic's internal team alone.
 
-Anthropic has declined to comment on whether open-sourcing Claude Code is under consideration. The company's existing open-source footprint is limited primarily to research papers and the MCP specification; its production software has remained proprietary.
+The company's existing open-source footprint is limited primarily to research papers and the MCP specification; its production software has remained proprietary.
 
 Given that the code is now effectively public regardless of Anthropic's preferences, the open-source advocates have a point that is difficult to dismiss entirely. Whether Anthropic chooses to acknowledge the reality or continue treating the code as proprietary in principle, if not in practice, will say something meaningful about how the company handles adversity in its second decade.
 
 For now, Claude Code v2.1.89 is available on npm with the source map correctly omitted. The previous version has been unpublished. The 41,500 forks remain.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

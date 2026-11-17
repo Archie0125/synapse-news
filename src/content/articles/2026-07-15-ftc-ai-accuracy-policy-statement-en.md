@@ -1,8 +1,9 @@
 ---
 title: "FTC Proposes Policy That Could Make Secretly Biased AI a Federal Law Violation"
-summary: "The Federal Trade Commission published a proposed policy statement in early July 2026 warning that AI companies which deliberately manipulate their systems' outputs to pursue undisclosed ideological objectives — without consumer disclosure — may be violating Section 5 of the FTC Act. The proposal, open for public comment until July 31, also addresses potential federal preemption of state AI accuracy laws and marks the FTC's most aggressive posture yet on AI transparency."
+summary: "The Federal Trade Commission released a proposed policy statement in early July 2026 warning that AI companies which distort their systems' outputs to pursue undisclosed ideological objectives may be deceiving consumers in violation of Section 5 of the FTC Act. The proposal, open for public comment until July 31, also addresses potential federal preemption of state AI laws such as Colorado's."
 category: "policy"
 publishedAt: 2026-07-15
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -32,7 +33,7 @@ relatedSlugs:
 
 For years, critics on both sides of the political spectrum have accused major AI companies of secretly steering their models' outputs — toward or away from certain topics, viewpoints, or conclusions — without telling users. The AI companies have denied systematic bias while simultaneously maintaining that content policy decisions are proprietary. The Federal Trade Commission has now proposed to make that opacity potentially illegal.
 
-On July 7, 2026, the FTC published a proposed policy statement in the Federal Register addressing what it calls the "suppression of accuracy in artificial intelligence systems." The statement argues that AI companies which deliberately alter their systems' outputs to achieve undisclosed ideological objectives — rather than the best, most accurate response — may be committing deceptive acts in violation of Section 5 of the FTC Act. The commission authorized the notice by a 2-0 vote and opened a 24-day public comment period running through July 31, 2026.
+On July 7, 2026, the FTC published a proposed policy statement in the Federal Register addressing what it calls the "suppression of accuracy in artificial intelligence systems." The statement argues that AI companies which deliberately alter their systems' outputs to achieve undisclosed ideological objectives — rather than the best, most accurate response — may be committing deceptive acts in violation of Section 5 of the FTC Act. The commission authorized the notice by a 2-0 vote, and the public has until July 31, 2026, to submit comments.
 
 ## What the FTC Is Actually Proposing
 
@@ -48,7 +49,7 @@ The compliance path is relatively clear. Under the proposed policy, an AI compan
 
 The proposed statement carries a second, strategically significant component: an analysis of state AI laws that require alteration of AI outputs, focusing specifically on Colorado's Artificial Intelligence Act.
 
-Colorado's law, among other things, includes provisions requiring AI systems to avoid certain types of discriminatory output — which, the FTC's proposed statement suggests, could itself mandate output distortions that violate the accuracy principle. The statement raises the possibility that federal consumer protection law could preempt state-level AI output mandates that create a conflict.
+In its announcement, the FTC said Colorado's Artificial Intelligence Act appears to coerce companies into altering the output of their AI models to comply with and advance the state's ideological objectives. The statement raises the possibility that federal consumer protection law could preempt state-level AI output mandates that create a conflict.
 
 This is legally and politically complex. The AI industry has lobbied heavily against state-by-state AI regulation, preferring either federal preemption or no regulation at all. Consumer advocates and state attorneys general have pushed back, arguing that federal inaction has left states as the only practical check on AI harms. By introducing the preemption question, the FTC is inserting itself into a live battle between state and federal regulatory authority over AI.
 
@@ -79,3 +80,5 @@ The FTC's proposed statement is one piece of a rapidly evolving U.S. AI regulato
 What's emerging is not a coherent regulatory architecture but a patchwork of sector-specific, jurisdiction-specific interventions responding to immediate political pressures. The FTC's proposal is unusual in that it attempts to apply an existing, durable legal standard — the prohibition on deception — to AI behavior, rather than creating a new AI-specific regime.
 
 Whether that approach proves more durable than purpose-built AI legislation is an open question. But it is unambiguously the most concrete signal yet that the era of self-regulation for AI output decisions may be drawing to a close.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

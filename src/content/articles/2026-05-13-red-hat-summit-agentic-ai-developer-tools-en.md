@@ -1,8 +1,9 @@
 ---
-title: "Red Hat Summit 2026: Enterprise Gets Its Agentic AI Toolkit — Built on OpenShift, SLSA, and Claude"
-summary: "At Red Hat Summit 2026, IBM's open-source unit unveiled a comprehensive suite of developer tools for building and governing agentic AI systems. Highlights include Red Hat Trusted Libraries with SLSA Level 3 provenance, exploit intelligence powered by NVIDIA AI blueprints, and expanded OpenShift Dev Spaces integration supporting Claude CLI, AWS Kiro, and Microsoft Copilot."
+title: "Red Hat Summit: Red Hat Expands Its Developer Tools for Agentic AI"
+summary: "At Red Hat Summit, Red Hat unveiled new developer tools for building agentic AI. Highlights include Red Hat Trusted Libraries built on SLSA Level 3 infrastructure, exploit intelligence developed using an NVIDIA AI blueprint, and expanded OpenShift Dev Spaces integration with Claude CLI, AWS Kiro and Microsoft Copilot."
 category: "developer-tools"
 publishedAt: 2026-05-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -34,8 +35,6 @@ Under the banner of "The AI-ready enterprise is here," Red Hat unveiled a set of
 
 ## Red Hat Trusted Libraries: Supply Chain Security for the AI Era
 
-The centerpiece announcement was Red Hat Trusted Libraries, a curated collection of Python packages built specifically for AI and agentic workloads, distributed with the same supply chain guarantees Red Hat applies to its enterprise Linux packages.
-
 The technical specifications are significant: Trusted Libraries are built on SLSA (Supply-chain Levels for Software Artifacts) Level 3 infrastructure — meaning their build provenance is verifiable, tamper-resistant, and auditable. Each package ships with a software bill of materials (SBOM) and cryptographic signatures that allow customers to verify exactly what code they are running, where it came from, and whether it has been modified since it was built.
 
 This matters enormously for agentic AI specifically. AI agents execute code, call external APIs, and take actions with real-world consequences. An agent built on unverified Python dependencies has the same exposure profile as any other software supply chain attack — except the blast radius can extend into actions taken in production systems. By providing SLSA Level 3 provenance for the Python ecosystem underlying agentic workflows, Red Hat is extending the trust model that enterprises already apply to their operating system into the AI toolchain above it.
@@ -54,7 +53,7 @@ For AI agent deployments specifically, this capability takes on additional urgen
 
 ## OpenShift Dev Spaces: A Multi-Coding-Assistant IDE Cloud
 
-Perhaps the most immediately practical announcement for working developers was the expansion of Red Hat OpenShift Dev Spaces, the company's browser-based cloud development environment that runs directly on OpenShift clusters.
+Red Hat also expanded OpenShift Dev Spaces, the company's secure, zero-configuration, cloud-based development environment.
 
 Red Hat announced that Dev Spaces now supports integration with Amazon Web Services Kiro — AWS's recently launched agentic coding assistant — in technical preview, joining existing integrations for Microsoft Copilot and Claude CLI (Anthropic's terminal-based coding agent). The result is a cloud IDE that supports whichever AI coding assistant an organization's developers prefer, without requiring them to leave the governed OpenShift environment or use personal devices.
 
@@ -85,3 +84,5 @@ Red Hat's Summit announcements land at a moment when enterprise AI adoption is s
 Red Hat's bet is that governance requires the same combination of hardened infrastructure, verified software provenance, and observability tooling that has always underpinned enterprise software deployment — and that the company's decades of experience building that infrastructure for Linux and OpenShift translates naturally into the agentic AI era.
 
 The keynote message that "the AI-ready enterprise is here" was as much a declaration as a product announcement: the tooling now exists to run agentic AI at enterprise scale. Whether enterprises move quickly enough to take advantage of it is a separate question.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

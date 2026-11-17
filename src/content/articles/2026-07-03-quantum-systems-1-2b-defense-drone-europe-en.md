@@ -3,6 +3,7 @@ title: "Quantum Systems Raises $1.2B at $8B Valuation as Defense Tech Sets Recor
 summary: "Munich-based Quantum Systems has closed a $1.2 billion Series D co-led by Blackstone, Airbus, and Advent, valuing the autonomous drone and AI systems maker at $8 billion. Already profitable with roughly €300 million in 2025 revenues and on track to double that in 2026, the company is now eyeing robotics, humanoids, and maritime systems as defense tech investment hits a record $17.4 billion this year."
 category: "startups"
 publishedAt: 2026-07-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,13 +27,13 @@ relatedSlugs:
 
 The last time Quantum Systems went to market for capital, it raised a round that seemed enormous for a European defense startup. What it announced this week made that look quaint.
 
-The Munich-based maker of autonomous surveillance drones and AI-powered ground systems has closed a $1.2 billion Series D at an $8 billion post-money valuation — one of the largest financing rounds in the history of European defense technology. The round was co-led by Blackstone, Airbus, German technology investor Advent, and Noteus, with additional participation from Balderton Capital and HV Capital. The investor list spans continents, with Quantum Systems specifically noting the participation of new backers from Asia and the United States.
+The Munich-based maker of autonomous surveillance drones and AI-powered ground systems has closed a $1.2 billion Series D at an $8 billion post-money valuation — one of the largest financing rounds in the history of European defense technology. The round was co-led by Blackstone, Noteus, Airbus and Advent, with participation from Bond, Fidelity Management and Research Company, Balderton and HV Capital. The investor list spans continents, with Quantum Systems specifically noting the participation of new backers from Asia and the United States.
 
 The raise arrives at an extraordinary moment for defense technology investment globally. According to data cited in connection with the round, defense tech companies have raised a record $17.4 billion so far in 2026 — already surpassing the $11.2 billion the sector raised across all of 2025. The geopolitical pressures driving that surge — Russia's ongoing military activities in Europe, NATO rearmament mandates, and rising tensions in the Indo-Pacific — show no signs of abating.
 
 ## What Quantum Systems Actually Makes
 
-Founded in Munich in 2015 by Florian Seibel and a team of aerospace engineers, Quantum Systems initially built its reputation on fixed-wing surveillance drones capable of long-endurance reconnaissance missions without the vulnerability to electronic jamming that plagues many quadcopter designs. Its flagship platform has been deployed by armed forces in Germany, Ukraine, Australia, New Zealand, the United States, Romania, and Spain.
+Founded in Munich in 2015 by Florian Seibel and a team of aerospace engineers, Quantum Systems initially built its reputation on fixed-wing surveillance drones capable of long-endurance reconnaissance missions without the vulnerability to electronic jamming that plagues many quadcopter designs. Its systems have been deployed in Ukraine, where they executed over 19,000 missions in 2025, and the company has expanded its production footprint across Germany, Ukraine, the United States, Australia, Romania, the United Kingdom and the Baltics.
 
 The company's evolution into AI-powered autonomy has been the story of the last three years. Its "Vector AI" variant uses artificial intelligence for navigation, control, and reconnaissance — enabling missions that don't require continuous human operator input and can adapt to dynamic battlefield conditions without radioing back for instructions. This is the capability that distinguishes modern defense drones from the remotely piloted aircraft that defined the previous generation: true autonomy under adversarial conditions, not remote control with a communications latency.
 
@@ -69,3 +70,5 @@ That environment has shifted dramatically since 2022. Russia's invasion of Ukrai
 Quantum Systems has benefited directly from this shift, with its German base providing proximity to a domestic defense ministry that has shown willingness to move quickly and an Airbus relationship that opens doors across Europe. The $1.2 billion raise — one of the largest in European defense tech history — is both a product of that environment and a signal that it has further to run.
 
 For the global AI and technology community watching this round, the key insight is simple: the intersection of AI, autonomy, and defense systems is no longer a niche market or a controversial investment category. It is one of the fastest-growing segments in all of technology, with secular tailwinds that no geopolitical de-escalation is likely to eliminate in the near term.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Mistral Medium 3.5 Arrives With 77.6% SWE-Bench Score and Cloud-Native C
 summary: "Mistral AI launched Medium 3.5, a dense 128B open-weight model that scores 77.6% on SWE-Bench Verified, alongside Vibe remote agents that run asynchronous cloud coding sessions from the CLI or Le Chat. The dual release positions Mistral as a serious challenger in the agentic developer-tools market just ahead of Google I/O 2026."
 category: "developer-tools"
 publishedAt: 2026-05-03
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-04-04-cursor-devin-war-en"
 ---
 
-Mistral AI shipped two intertwined products on May 2 that together reframe what a mid-tier open-weight model can do: **Mistral Medium 3.5**, a dense 128-billion-parameter flagship that scores 77.6% on SWE-Bench Verified, and **Vibe Remote Agents**, an asynchronous cloud execution layer that lets developers spawn long-running coding sessions from a single command line.
+Mistral AI shipped two intertwined products that together reframe what a mid-tier open-weight model can do: **Mistral Medium 3.5**, a dense flagship with 128 billion parameters that scores 77.6 percent on SWE-Bench Verified in Mistral's own benchmarks, and **Vibe Remote Agents**, an asynchronous cloud execution layer for running coding sessions in the cloud.
 
 The release is strategically timed. Google I/O is weeks away, Anthropic's Claude 4 family is expanding, and OpenAI is competing on every front. Mistral needed a statement. Medium 3.5 is it.
 
@@ -36,15 +37,15 @@ The core architectural bet behind Medium 3.5 is density over sparsity. Unlike Mi
 
 The model ships with a 256K token context window and native multimodal vision support, handling text, images, and structured data without an external transcription layer. Reasoning effort is now configurable per API request: developers can dial compute down for simple lookups and up for deep multi-step analysis, using the same model across both regimes.
 
-On benchmarks, Medium 3.5 posts numbers that challenge models significantly above its price tier. The headline figure — 77.6% on SWE-Bench Verified — outperforms Devstral 2 (Mistral's own coding-specialist model) and beats Qwen3.5 397B, a model with more than three times the parameter count. On the Tau3-Telecom agentic benchmark, Medium 3.5 hits 91.4%, suggesting particular strength in tool-use-intensive environments.
+On benchmarks, Medium 3.5 posts numbers that challenge models significantly above its price tier. The headline figure — 77.6% on SWE-Bench Verified — outperforms Devstral 2 (Mistral's own coding-specialist model) and beats Qwen3.5 397B, a model with more than three times the parameter count. On the T3-Telecom benchmark, Medium 3.5 scores 91.4% in Mistral's own benchmarks.
 
-For API users on `la Plateforme`, pricing sits at $0.40 per million input tokens and $1.20 per million output tokens — roughly half the cost of comparable frontier models from Anthropic and OpenAI at equivalent benchmark performance levels.
+Through the API, pricing is $1.50 per million input tokens and $7.50 per million output tokens.
 
 ## Vibe Goes Asynchronous and Cloud-Native
 
 The second half of the announcement is arguably more disruptive to developer workflows than the model itself.
 
-Mistral's Vibe coding tool, previously a local CLI for interactive agentic development, now supports **remote agents**: coding sessions that run asynchronously in isolated cloud sandboxes, with native integrations for GitHub, Slack, and standard CI/CD pipelines. The practical upshot is that a developer can issue a task — "fix this bug class, open a PR" — and walk away. When the session completes, a pull request lands in GitHub with full diff, test results, and an explanation of every decision made.
+Mistral's Vibe coding tool now supports **remote agents**: coding sessions that run asynchronously in isolated cloud sandboxes, with integrations for GitHub, Linear, Jira, Sentry, Slack, and Teams. The practical upshot is that a developer can issue a task — "fix this bug class, open a PR" — and walk away. When the session completes, a pull request lands in GitHub with full diff, test results, and an explanation of every decision made.
 
 Sessions can be spawned from either the Vibe CLI or from Le Chat, Mistral's consumer-facing assistant. Crucially, local sessions can be "teleported" to the cloud mid-task without losing session history or task state — a feature designed for the common scenario where a developer starts debugging locally, realizes the task is longer than expected, and wants to continue without keeping their laptop open overnight.
 
@@ -52,11 +53,11 @@ The sandboxed execution model is not simply convenient; it is a security archite
 
 ## Le Chat Gets Work Mode
 
-The announcement also previewed Work Mode in Le Chat, a parallel agentic interface for non-developer enterprise use. Work Mode connects Le Chat directly to email, calendar, Jira, Slack, and document management systems via built-in connectors. The model can execute multi-step workflows across these tools simultaneously — drafting a project update, scheduling a review meeting, and updating a Jira ticket in a single orchestrated run.
+The announcement also added Work Mode to Le Chat, an agentic mode built for multi-step tasks across multiple tools. Work Mode connects Le Chat directly to email, calendar, Jira, Slack, and document management systems via built-in connectors. The model can execute multi-step workflows across these tools simultaneously — drafting a project update, scheduling a review meeting, and updating a Jira ticket in a single orchestrated run.
 
 The differentiator Mistral is emphasizing: all tool calls and reasoning steps are visible to the user in real time, and explicit approval is required before any sensitive actions are taken (sending an email, modifying a calendar event). This is a deliberate counter-positioning to more autonomous agent frameworks that black-box their decision chains.
 
-Le Chat's Work Mode targets the same enterprise segment that Microsoft 365 Copilot and Google Workspace AI are aggressively pursuing — but with a model that is open-weight, deployable on-premises, and available under an Apache 2.0-compatible license for most use cases.
+Work Mode is available on the Pro, Team, and Enterprise plans, and the Medium 3.5 weights ship under a Modified MIT License that carves out exceptions for high-revenue companies.
 
 ## The Competitive Calculus
 
@@ -68,8 +69,10 @@ The benchmark credibility matters, too. A 77.6% SWE-Bench Verified score from a 
 
 ## What Comes Next
 
-Mistral has not announced a firm timeline for Medium 3.5 weights availability under an open license, though the company's pattern has been to follow API releases with open weight releases within four to eight weeks. The Hugging Face repository for `mistralai/Mistral-Medium-3.5-128B` is already live with model cards, and quantized versions from Unsloth are already appearing in the community.
+The Medium 3.5 weights are already available for download on Hugging Face, under a Modified MIT License rather than the Apache 2.0 license Mistral has used before.
 
 For developers, the operative question is not whether Medium 3.5 is competitive on benchmarks — it clearly is. The question is whether Vibe Remote Agents' cloud execution model can accumulate the developer ecosystem gravity that competing tools have built. That is a distribution problem, not a capability problem, and it is one Mistral has historically struggled with more than the technical side.
 
 Google I/O and whatever Google announces for Gemini's agentic developer story will be the real stress test for this week's launch.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

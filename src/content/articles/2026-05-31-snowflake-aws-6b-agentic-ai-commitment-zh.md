@@ -3,6 +3,7 @@ title: "Snowflake 豪擲 60 億美元押注 AWS：企業代理式 AI 最大基�
 summary: "Snowflake 於 2026 年 5 月 27 日宣布與 Amazon Web Services 簽署 60 億美元、為期五年的最大規模雲端承諾，目標是加速企業代理式 AI 落地。協議涵蓋 AWS Graviton 處理器及 GPU 加速 EC2 實例，作為 Cortex AI 平台的算力基礎——2025 年客戶在 AWS 上的 Snowflake 消費已翻倍至 20 億美元。"
 category: "industry"
 publishedAt: 2026-05-31
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -57,7 +58,7 @@ Cortex Code 作為程式碼助理的衍生版，將同樣的邏輯應用於軟�
 
 ## 支撐 60 億美元的數字邏輯
 
-在 Snowflake 近期財務走勢的背景下，AWS 承諾的規模自有其道理。客戶在 AWS 上的 Snowflake 服務消費於 2025 年翻倍，達到全年 20 億美元。自 Snowflake 首次出現在 AWS Marketplace 以來，客戶累計銷售已超過 70 億美元；2025 年的年銷售額突破 20 億美元，使 Snowflake 對 AWS 的生命週期採購規模足以支撐前瞻性的多十億美元承諾。
+在 Snowflake 近期財務走勢的背景下，AWS 承諾的規模自有其道理。客戶在 AWS 上的 Snowflake 服務消費於 2025 年翻倍，達到全年 20 億美元。
 
 需求驅動力一目了然：Snowflake 的 Cortex AI 工作負載增長速度超過其傳統資料倉儲工作負載，而 Cortex AI 運行在 Graviton 和 GPU 加速 EC2 實例上，而非驅動 Snowflake 歷史增長的通用算力。為了滿足企業 AI 推理延遲和可靠性的 SLA 承諾，並為運行持續代理工作負載的客戶提供定價可預測性，Snowflake 需要大規模的預留容量。60 億美元的承諾實際上將這一容量鎖定到 2031 年。
 
@@ -76,3 +77,5 @@ Snowflake 的 AWS 承諾，發生在企業 AI 平台定位競爭最激烈的時�
 這筆協議解鎖的具體 AI 能力，並不主要關乎獲取更強大的基礎模型——Snowflake 的 Cortex AI 已整合了來自 Anthropic、Meta、Mistral 等廠商的基礎模型。價值主張在於：在企業專有資料上持續大規模運行這些模型，具備企業採購所要求的治理和可靠性特性。
 
 隨著代理式 AI 在企業中從概念驗證走向生產部署，持續運行 AI 工作流程的算力經濟學——而非偶發的查詢處理——將成為決定性的競爭和成本因素。Snowflake 的 60 億美元承諾，是一個關於「我已正確判斷這些經濟學的落腳點」的賭注，以及「跟隨我的企業客戶，將發現基礎設施已在等待他們」的信心宣示。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

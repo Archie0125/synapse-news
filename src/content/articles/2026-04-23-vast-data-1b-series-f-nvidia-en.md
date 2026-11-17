@@ -3,6 +3,7 @@ title: "Nvidia-Backed Vast Data Raises $1 Billion at $30 Billion Valuation, Trip
 summary: "Vast Data closed a $1 billion Series F round led by Drive Capital and Access Industries, with Nvidia, Fidelity, and NEA participating, valuing the AI data infrastructure company at $30 billion — more than triple its $9.1 billion valuation from 2023. The company reports over $500 million in committed annual recurring revenue, more than $100 million in cash generated per quarter, and $4 billion in cumulative bookings. Vast Data's platform sits between GPU clusters and AI models, handling the data management layer that determines how fast those systems can actually move."
 category: "startups"
 publishedAt: 2026-04-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -47,7 +48,7 @@ The practical result is that Vast Data's customers can run their GPU clusters cl
 
 Vast Data's fundraising announcement came with unusual transparency about its financial metrics, reflecting confidence in a story that investors can evaluate rigorously rather than on pure potential.
 
-The company reports more than $4 billion in cumulative bookings since its founding in 2016 — a figure that encompasses total contract value committed by customers over its history rather than revenue recognized. More directly comparable to revenue is its committed annual recurring revenue figure: over $500 million as of the end of fiscal year 2026, a number that represents what Vast Data's contracted customer base has agreed to pay over the next twelve months.
+The company reports more than $4 billion in cumulative bookings, and Vast Data was founded in 2016. More directly comparable to revenue is its committed annual recurring revenue figure: over $500 million as of the end of fiscal year 2026, a number that represents what Vast Data's contracted customer base has agreed to pay over the next twelve months.
 
 Crucially, the company reports generating more than $100 million in cash per quarter and describes itself as both free cash flow positive and operating margin positive. In the current venture environment, where many high-valuation infrastructure companies remain cash-consuming despite years of operation, those metrics place Vast Data in a category that could credibly support an IPO at scale without requiring immediate external capital.
 
@@ -70,3 +71,5 @@ The capital flowing into this category — networking, storage, data management,
 For Vast Data's founders and early investors, the secondary component of the round offers meaningful liquidity at a moment when the IPO market for technology companies remains selective and the path from private company to public listing can take years longer than optimistic projections suggest. The structure allows the company to maintain its growth trajectory without the distraction of an IPO process while still rewarding the long-duration bets that its earliest backers made.
 
 Whether Vast Data eventually goes public, gets acquired by a hyperscaler, or remains private while growing into its $30 billion valuation is an open question. What the round establishes is that the company has the financial metrics, the customer relationships, and the Nvidia endorsement to make any of those outcomes viable. In an era where AI infrastructure spending is measured in hundreds of billions of dollars annually, a $30 billion data company that generates $100 million in cash per quarter looks less like a richly valued startup and more like the early stages of a durable enterprise infrastructure franchise.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

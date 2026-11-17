@@ -3,6 +3,7 @@ title: "Meta's Alexandr Wang Is Preparing Its First AI Models—With a Hybrid Op
 summary: "Meta is preparing to release its first AI models built under Alexandr Wang, the 28-year-old former Scale AI CEO who joined the company in a landmark $15 billion deal last year. In a meaningful strategic departure, the plans call for open-sourcing smaller versions while keeping the largest frontier models proprietary—abandoning the full-openness policy that made the Llama series a global developer phenomenon. The shift signals deepening competitive pressure and sets up a direct battle with OpenAI for the developer ecosystem."
 category: "ai-ml"
 publishedAt: 2026-04-08T09:20:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -34,9 +35,9 @@ Now, according to reporting by Axios on April 6, the first tangible product of t
 
 Meta's plans, as described to Axios by people familiar with the matter, call for a two-tier release structure for the new model family. Smaller, less capable versions will be open-sourced under a permissive license, continuing Meta's tradition of releasing models that developers can run, fine-tune, and deploy freely. The largest, most capable frontier models, however, will remain proprietary—available via API but not available for download or local deployment.
 
-This is a meaningful departure from the Llama series, which Meta has released under a permissive license since 2023. Llama models became the backbone of a vast developer ecosystem: startups built products on them, researchers used them for studies that would be impossible with closed models, enterprises adopted them to avoid API dependency, and emerging-market developers in regions with limited access to expensive cloud APIs built on them because they had no other option.
+This is a meaningful departure from the Llama series, which Meta has called open source even though its licensing does not align with standard definitions of open source. Llama models became the backbone of a vast developer ecosystem: startups built products on them, researchers used them for studies that would be impossible with closed models, enterprises adopted them to avoid API dependency, and emerging-market developers in regions with limited access to expensive cloud APIs built on them because they had no other option.
 
-That ecosystem was not accidental. Meta built it deliberately as a counterweight to OpenAI and Anthropic, which operate purely proprietary stacks. The Llama family gave Meta credibility with developers, reduced the gravitational pull of OpenAI's API, and generated the kind of network effects that commercial strategies struggle to manufacture. Walking away from it, even partially, requires a compelling reason.
+That ecosystem was not accidental. Meta built it deliberately as a counterweight to OpenAI and Anthropic, which operate purely proprietary stacks. Walking away from it, even partially, requires a compelling reason.
 
 ## Why the Strategic Shift?
 
@@ -65,3 +66,5 @@ The hybrid strategy is consistent with that framing: keep giving the world acces
 Meta has not announced a release date for the new model family. The Axios report does not specify model sizes, training details, or capability benchmarks. What is clear is that Alexandr Wang's arrival at Meta was always expected to produce something different from the Llama series, and the hybrid licensing structure represents the first evidence of what that difference will look like in practice.
 
 For the open-source AI community, this is a moment to watch carefully. If Meta's most capable models are proprietary, the open-weight frontier—which Llama, Mistral, and others have been advancing—falls further behind the commercial frontier than at any point in the past three years. Whether that gap can be closed by the open-weight community alone, without Meta's frontier models as a reference point, is one of the defining questions of the next phase of AI development.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

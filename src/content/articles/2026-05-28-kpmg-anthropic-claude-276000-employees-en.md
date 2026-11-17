@@ -1,8 +1,9 @@
 ---
-title: "KPMG Deploys Claude to All 276,000 Employees as Big Four Go All-In on Anthropic"
-summary: "KPMG and Anthropic announced a global strategic alliance embedding Claude into the firm's Digital Gateway platform, giving all 276,000 employees across 138 countries access to AI-assisted work. The deal marks the most expansive professional-services AI deployment to date and positions Anthropic as the de-facto backbone of enterprise consulting."
+title: "KPMG to Give All 276,000 Employees Access to Claude in Global Alliance with Anthropic"
+summary: "KPMG and Anthropic announced a global strategic alliance embedding Claude into the firm's Digital Gateway platform, with all 276,000 employees across 138 countries and territories set to gain access to Claude."
 category: "industry"
 publishedAt: 2026-05-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -35,7 +36,7 @@ That distinction matters enormously. Most enterprise AI deployments of the past 
 
 The technical architecture of the deployment hinges on two Anthropic products used in tandem. **Claude Cowork** handles collaborative, document-level AI assistance — think drafting a client memo, annotating a contract, or synthesizing regulatory guidance across jurisdictions. **Anthropic's Managed Agents API** handles autonomous, multi-step task execution: the kind of work that used to require a junior analyst to spend three days chasing references and formatting outputs.
 
-The early use case cited by both firms illustrates the gap vividly. Building an AI agent to help clients navigate changing tax regulations — mapping new rules to a client's existing structure, flagging exposure, generating recommended filings — previously took a team of KPMG specialists weeks. Inside Digital Gateway with Claude, it now takes minutes. That is not a marginal improvement; it restructures the economics of a tax engagement.
+The early use case cited by both firms illustrates the gap vividly. Building an AI agent to help clients adjust to changing tax regulations previously took weeks and required teams to switch between multiple tools and chat windows. Inside Digital Gateway with Claude, it now takes minutes. That is not a marginal improvement; it restructures the economics of a tax engagement.
 
 Rollout begins with Tax & Legal practice, which accounts for a substantial portion of KPMG's roughly $38 billion in annual revenues. It then expands to Advisory and Audit & Assurance. Full implementation on Azure is targeted for September 2026.
 
@@ -68,3 +69,5 @@ KPMG's full Azure rollout is expected to be complete by September 2026, at which
 For Anthropic, the alliance also arrives at a critical revenue inflection: the company's run-rate revenue recently surpassed $30 billion, up from approximately $9 billion at end-2025, and the number of business customers spending over $1 million annually on an annualized basis has exceeded 1,000, reportedly doubling in less than two months. The KPMG deal adds a customer with both the scale and the client-facing leverage to accelerate that trajectory substantially.
 
 The modern professional services firm is, at its core, a knowledge arbitrage business — capturing expertise, packaging it, and deploying it at margin. Claude embedded inside Digital Gateway is not a productivity tool for KPMG. It is a structural change to what that arbitrage is worth and how fast it can be delivered.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

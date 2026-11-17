@@ -1,8 +1,9 @@
 ---
-title: "Sail Research Raises $80M From Sequoia and Kleiner Perkins to Make Long-Running AI Agents 10x Cheaper"
-summary: "Sail Research, a San Francisco startup founded by ex-Apple and ex-Nvidia engineers, has raised $80 million in combined seed and Series A funding—led by Kleiner Perkins and Sequoia respectively—to build infrastructure designed to run long-horizon AI agents at one-tenth the cost of existing services. Its Linux-based 'Sailboxes' can pause agents during idle periods and link multiple agents into collaborative ensembles, achieving a 90.72% score on BrowseComp-Plus at 10x lower inference cost than competitors."
+title: "Sail Research Raises $80M From Sequoia and Kleiner Perkins to Make Long-Running AI Agents Up to 10x Cheaper"
+summary: "Sail Research, a San Francisco startup founded by ex-Apple and ex-Nvidia engineers, has raised $80 million in combined seed and Series A funding at a $450 million valuation to build infrastructure for long-horizon AI agents that it says costs up to 10 times less than leading alternatives. Its Linux-based 'Sailboxes' can pause agents during idle periods and link multiple agents into ensembles, and the company says its platform scored 90.72% on BrowseComp-Plus at up to 10x lower inference cost than rivals."
 category: "startups"
 publishedAt: 2026-06-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -31,7 +32,7 @@ relatedSlugs:
 
 Every AI agent costs money to think. Every API call, every reasoning step, every hour an agent spends waiting for a tool call to return—all of it burns tokens, burns compute, burns cash. As AI agents move from novelty to enterprise infrastructure, the economics of running them at scale have become a genuine constraint on the industry's ambitions.
 
-Sail Research is betting that constraint is a business opportunity. The San Francisco startup announced this week that it has raised $80 million across a seed round led by Kleiner Perkins and a Series A led by Sequoia Capital, at a valuation Fortune pegged at $450 million. The company's pitch is specific and technical: it has built infrastructure that can run long-horizon AI agents—tasks spanning hours, days, or even weeks of continuous operation—at one-tenth the cost of comparable services.
+Sail Research is betting that constraint is a business opportunity. The San Francisco startup announced this week that it has raised $80 million across a seed round led by Sequoia and a Series A led by Kleiner Perkins, at a $450 million valuation. The company's pitch is specific and technical: it says it has built infrastructure that can run long-horizon AI agents—tasks that can take upwards of weeks to complete—at up to 10 times lower cost than leading alternatives.
 
 That cost reduction, if it holds under enterprise conditions, would represent a significant shift in what becomes economically viable to automate.
 
@@ -41,7 +42,7 @@ Most AI infrastructure is optimized for short interactions. A user asks a questi
 
 Real-world agentic deployments—automated software engineering, extended research tasks, multi-step customer workflows, complex data analysis pipelines—require agents that can operate for hours or days, maintain context across thousands of steps, coordinate with multiple tools and external services, and recover gracefully when individual steps fail. That's a fundamentally different infrastructure challenge from serving a chatbot, and existing cloud providers' general-purpose GPU infrastructure was not designed for it.
 
-Sail's founders—Neil Movva and Samir Menon, both veterans of Apple and Nvidia engineering teams—concluded that the mismatch between the infrastructure requirements of long-horizon agents and the infrastructure that actually exists was large enough to build a company around. "Agents require scale, reliability, and sustainable cost," CEO Neil Movva said in the company's funding announcement.
+Sail's founders—Neil Movva, who spent years at Nvidia before working at Apple and Together AI, and Samir Menon, who also comes from Apple—built the company around the mismatch between the infrastructure long-horizon agents need and the infrastructure that actually exists. "Unlike a human waiting at a keyboard (top priority: speed), agents need scale, reliability, and sustainable cost," CEO Neil Movva wrote in a blog post.
 
 ## How Sailboxes Work
 
@@ -57,7 +58,7 @@ On the inference side, Sail builds on established open-source tooling including 
 
 Sail published benchmark results to accompany its funding announcement—a move that reflects both confidence in its technical performance and the growing importance of verifiable efficiency metrics in an increasingly crowded AI infrastructure market.
 
-On BrowseComp-Plus, a benchmark designed to evaluate AI systems on complex online research tasks requiring multi-step information gathering and synthesis, Sail reported a score of 90.72%—described as a new high watermark for the benchmark—while incurring one-tenth the inference cost of rival services on the same tasks.
+On BrowseComp-Plus, a benchmark designed to evaluate AI systems on complex online research tasks requiring multi-step information gathering and synthesis, Sail reported a new high score of 90.72%, at what it says is up to one-tenth the inference cost of rival services.
 
 The combination of performance and cost efficiency is the key claim. A cheaper infrastructure that performed worse would be easy to discount; a more expensive one that performed better would represent a different kind of product. The assertion that Sail's approach achieves both simultaneously on a standardized benchmark is what makes the funding announcement notable beyond its dollar value.
 
@@ -80,3 +81,5 @@ The company's timing is also notable. The announcement follows a period of signi
 Whether Sail can maintain its claimed cost advantage as the market scales and larger cloud providers optimize their own agent infrastructure remains an open question. The history of cloud computing suggests that hyperscalers eventually close performance gaps with specialized providers—but also that specialized providers can maintain meaningful advantages in well-defined use cases for substantial periods of time.
 
 For now, Sail is betting that the window in which specialized, cost-optimized agent infrastructure commands a premium is long enough to build a durable business. With $80 million, Sequoia, Kleiner Perkins, and the endorsement of some of the industry's most respected technical figures, it has the runway to find out.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

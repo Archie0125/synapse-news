@@ -1,8 +1,9 @@
 ---
-title: "Five Eyes Agencies Issue First Joint Warning: Agentic AI Is Outpacing Security Defenses"
-summary: "Six cybersecurity agencies from the Five Eyes alliance — including CISA, NSA, and partners from the UK, Australia, Canada, and New Zealand — published their first coordinated guidance on agentic AI risks, warning that autonomous AI agents are being deployed with dangerous levels of access before adequate security frameworks exist. The document identifies expanded attack surfaces, unpredictable behavior, and threat intelligence gaps as the three primary risks of the current agentic deployment wave."
+title: "Five Eyes Agencies Issue First Joint Guidance on Agentic AI Security Risks"
+summary: "Six cybersecurity agencies from the Five Eyes alliance — including CISA, NSA, and partners from the UK, Australia, Canada, and New Zealand — published their first coordinated guidance on agentic AI risks, warning that security practices, evaluation methods and standards have not yet matured. The document identifies five risk categories: privilege, design and configuration, behavioral, structural, and accountability risks."
 category: "policy"
 publishedAt: 2026-05-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -37,15 +38,15 @@ The document's message is stark: AI agents are already operating in critical inf
 
 ## What Makes Agentic AI Different
 
-To understand why Six Eyes agencies felt compelled to issue joint guidance — something typically reserved for acute, immediate threats like nation-state cyberattacks — it helps to understand what makes agentic AI fundamentally different from the chatbots and text generators that preceded it.
+To understand why the Five Eyes agencies issued joint guidance, it helps to understand what makes agentic AI fundamentally different from the chatbots and text generators that preceded it.
 
-An AI agent doesn't just respond to prompts. It takes actions: browsing websites, executing code, reading and writing files, calling APIs, sending emails, making purchases, and coordinating with other agents. In enterprise deployments, agents have been granted access to databases, CRM systems, financial platforms, and internal communication channels — often with broad, persistent permissions that were designed for humans exercising continuous judgment, not for automated systems executing thousands of actions per session.
+An AI agent doesn't just respond to prompts. It takes actions: executing API calls, modifying files, sending communications, and chaining multi-step actions with little human intervention at each stage. In enterprise deployments, agents have been granted access to databases, CRM systems, financial platforms, and internal communication channels — often with broad, persistent permissions that were designed for humans exercising continuous judgment, not for automated systems executing thousands of actions per session.
 
 The agencies estimate that agentic AI spending will reach $47 billion globally in 2026, up from roughly $5 billion in 2024. That 10x growth rate has outpaced the development of security standards, evaluation methods, and governance frameworks by a significant margin.
 
-## Three Core Risk Categories
+## Five Risk Categories
 
-The guidance document organizes the threat landscape into three primary areas.
+The guidance organizes its threat analysis around five risk categories: privilege, design and configuration, behavioral, structural, and accountability risks.
 
 **Expanded attack surface.** Unlike a single AI model serving a chat interface, an agentic system typically integrates with dozens of external tools, APIs, databases, and other AI models. Each integration is a potential attack vector. Adversaries can compromise any node in the chain — a poisoned tool response, a malicious data source, a hijacked API endpoint — and the agent may propagate the compromise autonomously, taking actions that amplify the initial intrusion without any human in the loop to catch the anomaly.
 
@@ -67,7 +68,7 @@ Healthcare organizations using AI agents to access patient records and coordinat
 
 ## What the Agencies Recommend
 
-The guidance stops short of calling for a slowdown in agentic deployment — a position the agencies likely knew would be politically untenable and practically unenforceable. Instead, it offers a framework for risk containment.
+The guidance urges caution rather than wholesale adoption, advising organizations to use agentic AI only where strictly necessary and to consider alternatives for repetitive tasks. Instead, it offers a framework for risk containment.
 
 The central recommendation is incremental deployment starting with clearly defined, low-risk tasks, with continuous assessment against evolving threat models before expanding agent scope. Agents should be granted minimum necessary permissions — not the broad access that vendors often suggest for maximum convenience.
 
@@ -84,3 +85,5 @@ The document arrives as the private sector is accelerating agentic deployment un
 This is the same dynamic that produced decades of insecure software — security as an afterthought, bolted on after products shipped rather than designed in from the start. The Five Eyes agencies appear to be attempting an early intervention before agentic AI repeats that pattern at greater scale and consequence.
 
 Whether the industry responds before a high-profile agentic compromise forces the issue will be the defining governance test of this technology wave.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

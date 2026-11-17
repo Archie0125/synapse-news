@@ -3,6 +3,7 @@ title: "Microsoft's AI Divorce from OpenAI: Mustafa Suleyman's Bet on Self-Suffi
 summary: "Microsoft AI chief Mustafa Suleyman says the company has been 'set free' from its OpenAI contract to pursue superintelligence on its own terms. With seven new MAI models unveiled at Build 2026, a $35 billion Anthropic cloud deal, and a direct competitive posture against the frontier labs, Microsoft is executing the most consequential AI strategy pivot since it first backed OpenAI in 2019."
 category: "ai-ml"
 publishedAt: 2026-06-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-06-02-microsoft-mai-thinking-1-reasoning-model-build-en"
 ---
 
-For four years, Microsoft's AI strategy was indistinguishable from its OpenAI strategy. The $13 billion investment, the Azure compute deal, the GPT integration across Copilot, Office, and GitHub — Microsoft had effectively outsourced its AI future to Sam Altman's organization. That era is ending, and Mustafa Suleyman, the DeepMind co-founder and former Google AI chief who took the Microsoft AI helm in 2023, is dismantling it deliberately.
+For four years, Microsoft's AI strategy was indistinguishable from its OpenAI strategy. The $13 billion investment, the Azure compute deal, the GPT integration across Copilot, Office, and GitHub — Microsoft had effectively outsourced its AI future to Sam Altman's organization. That era is ending, and Mustafa Suleyman, the DeepMind co-founder who joined Microsoft in 2024, is dismantling it deliberately.
 
 "We were only sort of set free from our contract with OpenAI about six months ago to formally pursue superintelligence," Suleyman told VentureBeat in an exclusive interview at Microsoft Build 2026. The remark was both a strategic declaration and a quiet acknowledgment that for much of his tenure at Microsoft, the path toward truly independent AI development was contractually blocked. Now it isn't.
 
@@ -38,7 +39,7 @@ For four years, Microsoft's AI strategy was indistinguishable from its OpenAI st
 
 At Build 2026, the Microsoft AI Superintelligence Team unveiled a family of seven models built from scratch — the MAI series. The range spans small on-device models through mid-tier task-completion systems to MAI-Thinking-1, a reasoning model that Microsoft says matches Anthropic's Claude Sonnet 4.6 in blind human testing and achieves comparable performance to Claude Opus 4.6 on a widely used coding benchmark.
 
-That last claim is precise in its targeting. Microsoft did not benchmark against OpenAI's GPT-5.5 — which it still distributes as a primary product. It benchmarked against Anthropic's models. The competitive posture Suleyman is staking out positions Microsoft as catching up to, and eventually competing directly with, the frontier AI labs that have been its partners. After tuning MAI models for consulting firm McKinsey, Microsoft reportedly outperformed OpenAI's GPT-5.5 on quality metrics, with projected cost efficiency ten times better.
+That last claim is precise in its targeting. Suleyman said that after Microsoft refined its models for consulting firm McKinsey, they outperformed OpenAI's GPT 5-5, with 10 times better cost efficiency. It benchmarked against Anthropic's models. The competitive posture Suleyman is staking out positions Microsoft as catching up to, and eventually competing directly with, the frontier AI labs that have been its partners. After tuning MAI models for consulting firm McKinsey, Microsoft reportedly outperformed OpenAI's GPT-5.5 on quality metrics, with projected cost efficiency ten times better.
 
 "We've closed an enormous gap," Suleyman told the Financial Times. The statement, paired with the benchmark claims, signals that Microsoft is willing to declare itself a competitor in the frontier model race — a posture unthinkable two years ago.
 
@@ -73,3 +74,5 @@ Suleyman's comment about being "less concerned" about Google, Meta, and OpenAI i
 The company has roughly 300 million enterprise users across Microsoft 365, Teams, and Azure. Serving those users with its own AI models — rather than paying per-token to OpenAI or Anthropic — changes Microsoft's cost structure fundamentally. At the scale of Microsoft's enterprise deployment, even modest improvements in margin per AI inference add up to billions of dollars annually.
 
 Suleyman is executing a long game. The MAI series, the Anthropic deal, the 18-month automation thesis — together they sketch a Microsoft that believes it has the resources, the infrastructure, and now the contractual freedom to compete for the AI frontier on its own terms. Whether it gets there before the frontier moves too far ahead is the question the industry will spend the next two years answering.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

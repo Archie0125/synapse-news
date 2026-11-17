@@ -3,6 +3,7 @@ title: "OpenAI Launches GPT-5.4-Cyber, a Permissive AI Model for Verified Securi
 summary: "OpenAI has released GPT-5.4-Cyber, a specialized variant of its flagship model fine-tuned for defensive cybersecurity work, accessible only to vetted users through an expanded Trusted Access for Cyber program. The launch arrives exactly one week after Anthropic's own Mythos model shook the security community, signaling a new arms race in AI-assisted cyber defense."
 category: "ai-ml"
 publishedAt: 2026-04-15T09:25:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -25,7 +26,7 @@ relatedSlugs:
   - "2026-04-15-anthropic-mythos-glasswing-en"
 ---
 
-OpenAI on Monday unveiled GPT-5.4-Cyber, a fine-tuned variant of its current flagship model purpose-built for defensive cybersecurity work—and accessible only to a carefully screened set of security professionals. The release, confirmed via an official OpenAI post and simultaneously announced on X by the company's product team, arrives precisely seven days after rival Anthropic disclosed its own dual-use security model, Claude Mythos Preview, to a select cohort of technology partners.
+OpenAI on Tuesday unveiled GPT-5.4-Cyber, a fine-tuned variant of GPT-5.4 designed for defensive cybersecurity work, with initial access limited to vetted security vendors, organizations and researchers. The release, confirmed via an official OpenAI post and simultaneously announced on X by the company's product team, arrives precisely seven days after rival Anthropic disclosed its own dual-use security model, Claude Mythos Preview, to a select cohort of technology partners.
 
 The sequencing is not coincidental. Both releases mark a pivotal moment: frontier AI models have crossed a capability threshold where they can materially assist—or threaten—the security of the world's most critical software infrastructure. How the industry manages that threshold will likely define the cybersecurity landscape for years to come.
 
@@ -76,3 +77,5 @@ GPT-5.4-Cyber enters a market already crowded with AI-assisted security tools, i
 That argument will be tested in practice. Security teams are notoriously skeptical of vendor claims and will benchmark heavily before making procurement decisions. OpenAI has announced a limited public evaluation program for organizations that complete tier verification, allowing them to test the model against internal red team datasets before committing.
 
 What's clear is that the frontier AI labs have formally declared cybersecurity a first-class product priority, not merely an ethics and safety afterthought. The arms race between AI-powered offense and defense has moved from a theoretical concern to an active product category—and the starting gun was fired this week.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

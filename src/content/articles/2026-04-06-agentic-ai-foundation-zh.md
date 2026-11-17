@@ -1,8 +1,9 @@
 ---
 title: "Agentic AI Foundation：科技業最強勁的對手，為何聯手打造 AI Agent 開放標準？"
-summary: "Linux Foundation 旗下的 Agentic AI Foundation（AAIF）悄悄成為 AI 史上最重要的治理行動之一——OpenAI、Anthropic、Google、微軟、AWS 和 Block 共同加入，攜手為 AI Agent 建立開放標準。MCP 月下載量突破 9,700 萬次、AGENTS.md 被 6 萬個以上開源專案採用，AAIF 正將競爭對手轉變為基礎設施合作夥伴。"
+summary: "Linux Foundation 旗下的 Agentic AI Foundation（AAIF）匯聚 OpenAI、Anthropic、Google、微軟、AWS 和 Block，共同支持 AI Agent 的開放標準。MCP 月 SDK 下載量突破 9,700 萬次、AGENTS.md 被 6 萬個以上開源專案採用，AAIF 正將競爭對手轉變為基礎設施合作夥伴。"
 category: "developer-tools"
 publishedAt: 2026-04-06T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -35,7 +36,7 @@ relatedSlugs:
 
 上次 OpenAI 和 Anthropic 共同做一件事，是什麼時候？這兩家公司或許是 AI 領域競爭最激烈的對手——爭搶研究人才、客戶、基準測試排名，以及話語權。Google 和微軟則是幾十年的平台層宿敵。
 
-然而在 2025 年 12 月，上述四家公司——加上亞馬遜 AWS、Block、Bloomberg 和 Cloudflare——聯合在 Linux Foundation 旗下創立了 **Agentic AI Foundation（AAIF）**。
+然而在 2025 年 12 月，OpenAI、Anthropic 和 Block 在 Linux Foundation 旗下共同創立了 **Agentic AI Foundation（AAIF）**，Google、微軟、亞馬遜 AWS、Cloudflare 和 Bloomberg 則給予支持。
 
 這種「競爭前協作」（pre-competitive collaboration）在基礎設施技術領域有充分先例：TCP/IP、HTTP、Linux、Kubernetes——構成現代運算隱形骨幹的協議與平台，都是透過類似的產業協調機制建立起來的。競爭對手合作制定標準，因為互通性讓所有人受益；然後在這些標準之上，各自激烈競爭。沒有人能從「擁有私有版本的 TCP/IP」中獲益；所有人都能從「在共同網路標準上建造更好產品」中受益。
 
@@ -45,7 +46,7 @@ AAIF 是 AI 產業對 Agent 時代下的同一個賭注。
 
 AAIF 以三個創始技術專案起步，各由原始創建者捐贈：
 
-**Model Context Protocol（MCP）**，由 Anthropic 捐贈，是連接 AI 模型與外部工具、資料來源及應用程式的通用開放標準。2024 年底推出以來，MCP 已成為 AI 史上採用速度最快的開源專案之一：截至 2026 年初，月 SDK 下載量突破 9,700 萬次，超過 10,000 個活躍 MCP 伺服器，並在 ChatGPT、Claude、Cursor、Gemini、Microsoft Copilot、VS Code 等數十個平台獲得原生支援。
+**Model Context Protocol（MCP）**，由 Anthropic 捐贈，是連接 AI 模型與外部工具、資料來源及應用程式的通用開放標準。2024 年底推出以來，MCP 已成為 AI 領域成長最快、被廣泛採用的開源專案之一：截至 2025 年 12 月宣布成立時，月 SDK 下載量突破 9,700 萬次，有 10,000 個活躍伺服器，並在 ChatGPT、Claude、Cursor、Gemini、Microsoft Copilot、VS Code 等眾多平台獲得一流的用戶端支援。
 
 Anthropic 決定將 MCP 捐贈給 AAIF，是一個經過算計的戰略選擇：放棄對標準的私有控制，換取大幅加速的採用率。企業不會在單一廠商控制的協議上建構關鍵基礎設施，他們押注的是具備透明治理的開放標準。這一舉動讓 MCP 從「Anthropic 的協議、其他人也在用」，變成「整個產業共同維護的協議」。
 
@@ -73,7 +74,7 @@ MCP 的成功說明了開放標準能達成什麼。在 MCP 之前，將 AI 模�
 
 AAIF 也有批評者，他們的顧慮值得正視。AI 治理研究者 Shashi Jagtap 在 2025 年 12 月的一篇文章中，將其描述為「封閉治理與鉑金付費牆」——鉑金會員費遠高於白銀或黃金等級，而大多數 Linux Foundation 定向基金的決策權，高度集中在會費等級較高的成員手中。
 
-批評的核心是：AAIF 對外呈現為開放、民主的標準機構，但其治理結構對八個鉑金會員——恰好也是 AI 產業最強大的既有玩家——賦予了不成比例的話語權。一家建立在 MCP 上的新創公司，對標準技術方向幾乎沒有實質影響力。
+批評的核心是：AAIF 對外呈現為開放、民主的標準機構，但其治理結構對八個鉑金會員——恰好也是 AI 產業最強大的既有玩家——賦予了不成比例的話語權。不過，MCP 的技術方向仍由其維護者主導，並參考社群意見，Linux Foundation 不會對其指手畫腳。
 
 這個問題並非 AAIF 獨有——它是大多數大型開源基金會的結構性特徵。Linux Foundation、Apache Foundation、CNCF 都有類似的分層會員制，使治理權集中於大型公司。反駁論點是：這只是現實的反映——標準組織需要持續的資金與組織投入才能運作，而大型公司能提供這兩者。無論會員等級如何，開源程式碼和規格對所有人都保持開放。
 
@@ -83,8 +84,10 @@ AAIF 的近期路線圖聚焦幾個方向：Agent 系統的安全標準（如何
 
 最後一項是技術上最具挑戰性的目標。一旦成功，意味著以 OpenAI 框架建構的 Agent，能夠透過開放標準協議呼叫為 Anthropic 生態系開發的技能。這種互通程度對企業 AI 採用而言，將是真正的變革。
 
-Cisco 在 2026 年 1 月加入 AAIF，帶來其網路和安全專業知識解決 Agent 認證問題——這是大型基礎設施公司對治理工作高度重視的訊號。
+Cisco 在 2025 年 12 月 AAIF 成立時，即列為黃金會員。
 
 計算機科學的歷史表明，AI Agent 時代的競爭，最終將在標準層而非模型層分出勝負。模型會來了又去，持續進步、不斷壓縮；協議的存活時間則會超過任何一家公司的產品週期。AAIF 是一個賭注：AI 最強大的競爭對手們理解這個道理——他們對繁榮 Agent 生態的共同利益，超越了各自對私有控制的個別追求。
 
 看看誰加入了，這個賭注值得認真關注。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 5 處。*

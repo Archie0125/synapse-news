@@ -1,8 +1,9 @@
 ---
-title: "The $1 Trillion Test: What Big Tech's April 29 Earnings Must Prove About AI"
-summary: "On April 29, Microsoft, Meta, Alphabet, and Amazon all report Q1 2026 results in a single week that analysts are calling the most consequential earnings period in tech history. With Meta committing $115–135 billion in AI CapEx for the full year, Azure expecting 37–38% growth, and Copilot reaching 15 million enterprise seats, the central question is no longer whether AI investment is happening—it's whether it's generating returns proportional to the spend."
+title: "The AI Spending Test: What Big Tech's Earnings Must Prove"
+summary: "Microsoft, Meta, Alphabet and Amazon report earnings across two weeks. Analysts polled by FactSet expect the four to raise combined capital expenditures to over $470 billion this year from about $350 billion in 2025, and Microsoft has called for 37% Azure growth."
 category: "industry"
 publishedAt: 2026-04-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -34,13 +35,13 @@ relatedSlugs:
 
 When Tesla reports its Q1 2026 results today, it opens what may be the most scrutinized week of financial results in technology industry history. By April 29, Microsoft, Meta Platforms, Alphabet, and Amazon will have all disclosed their quarterly performance—and investors will use those four reports to render a collective verdict on whether the largest AI spending wave in corporate history is generating proportionate returns.
 
-The stakes are significant. These four companies have collectively committed over half a trillion dollars in AI-related capital expenditure for 2026 alone. Microsoft is building data centers on six continents. Meta has disclosed plans to spend $115-135 billion on AI infrastructure in 2026, nearly doubling its previous year's capital allocation. Alphabet is expanding Google Cloud capacity to meet demand it describes as exceeding available supply. Amazon Web Services is executing the $200 billion infrastructure buildout that CEO Andy Jassy characterized as the largest in AWS history.
+The stakes are significant. Analysts polled by FactSet expect these four companies to boost capital expenditures to over $470 billion in 2026, up from about $350 billion in 2025. Microsoft is building data centers on six continents. Analysts polled by FactSet project Meta's capital expenditures will grow nearly 57% in 2026 to over $110 billion, and Goldman Sachs forecasts $125 billion. Alphabet is expanding Google Cloud capacity to meet demand it describes as exceeding available supply. Amazon raised its 2026 capex forecast in October to $125 billion from $118 billion, the highest spending forecast among the megacap companies.
 
 What investors want to know on April 29 is whether that spending is showing up in revenue, and whether the revenue growth it generates is durable.
 
 ## Microsoft: Azure's AI Trajectory and the Copilot Moment
 
-Microsoft reports fiscal Q3 2026 results on April 29, covering the January-March period. The headline metric investors are watching is Azure revenue growth in constant currency, which is expected to come in at 37-38%—a slight moderation from 39% in Q2 and 40% in Q1, as the acceleration that AI workloads provided begins to face tougher year-over-year comparisons.
+Microsoft reports fiscal Q3 2026 results on April 29, covering the January-March period.
 
 But the more revealing number may be Copilot enterprise seat count. As of December 31, 2025, Microsoft had 15 million paid Copilot for Microsoft 365 seats—a 3.7% penetration of the addressable Microsoft 365 enterprise base, with 160% year-over-year growth. The Q1 update will show whether that growth rate is sustaining, accelerating, or beginning to plateau as early adopters saturate.
 
@@ -50,7 +51,7 @@ The AI capacity constraint question is one Microsoft has addressed repeatedly: d
 
 ## Meta: The $115 Billion Bet's First Real Test
 
-Meta Platforms reports Q1 2026 on April 29 after the close, and the quarter carries unusual weight for the company's AI narrative. Q1 is the first full quarter since Alexandr Wang joined as Chief AI Officer and established Meta Superintelligence Labs, and it's the period during which Muse Spark—Meta's first flagship large language model from the Superintelligence Labs era—was in active development and early deployment.
+Meta Platforms reports Q1 2026 on April 29 after the close, and the quarter carries unusual weight for the company's AI narrative. Meta's AI strategy has shifted over recent months following a failed launch of its latest Llama model, including a $14.3 billion investment in Scale AI in June that brought over CEO Alexandr Wang and other top talent.
 
 Wall Street consensus expects Q1 revenue of approximately $55.52 billion, representing 31% year-over-year growth. BofA Securities is more optimistic, projecting $56 billion in revenue and $7.44 in EPS against the consensus of $6.65—a meaningful spread that reflects genuine uncertainty about how much of Meta's AI investment is already flowing into ad targeting efficiency improvements.
 
@@ -72,7 +73,7 @@ Google Search remains the largest business by revenue, and investors will pay cl
 
 Amazon's Q1 2026 results, also expected on April 29, center on AWS performance and the pace of AI service adoption. AWS has disclosed that AI-related revenue—spanning compute for model training and inference, SageMaker, Bedrock, and AI-accelerated analytics—crossed $15 billion in annualized run rate earlier this year. The Q1 update will show whether that run rate is growing and at what pace.
 
-Amazon's $200 billion infrastructure commitment for 2026 is the largest single-company capital allocation in cloud history. CFO and CEO commentary about the return timeline for this investment will be among the most-watched disclosures of the earnings week. Jassy has argued that the infrastructure scarcity environment means every dollar spent on capacity will find demand—but that assertion needs quarterly validation.
+Amazon's $125 billion capex forecast for 2026 is the highest among the megacap companies. CFO and CEO commentary about the return timeline for this investment will be among the most-watched disclosures of the earnings week. Jassy has argued that the infrastructure scarcity environment means every dollar spent on capacity will find demand—but that assertion needs quarterly validation.
 
 Amazon is also running a different AI strategy than Microsoft or Google at the enterprise level. While Microsoft leads with Copilot embedded in Office, and Google leads with Gemini integrated into Workspace, Amazon's enterprise AI bet is infrastructure-level: give customers access to multiple frontier models through Bedrock, let them build their own applications, and win on price, reliability, and integration with the broader AWS ecosystem. Q1 will show whether this strategy is winning enterprise AI budget against the more vertically integrated Microsoft and Google approaches.
 
@@ -82,6 +83,8 @@ Taken together, these four April 29 earnings reports will answer—or fail to an
 
 The bull case is visible in the aggregate data. IT sector earnings grew 45% in Q1 2026, the strongest pace since 2022. Azure, Google Cloud, and AWS have all reported record AI-driven revenue quarters. Enterprise AI adoption is moving from pilot to production at the largest companies in every sector.
 
-The bear case is that the investments are so large, and the timelines to return so extended, that even strong revenue growth doesn't close the valuation gap implied by current share prices. Meta at $115-135 billion in annual CapEx needs to generate proportionate revenue acceleration—and advertising markets have cycles that AI spending does not directly control.
+The bear case is that the investments are so large, and the timelines to return so extended, that even strong revenue growth doesn't close the valuation gap implied by current share prices. Meta, with analysts projecting over $110 billion in 2026 capex, needs to generate proportionate revenue acceleration—and advertising markets have cycles that AI spending does not directly control.
 
 April 29 won't resolve that debate definitively. But four simultaneous reports from the companies spending most of the capital will provide the most complete picture of AI monetization yet available to public market investors—and will determine whether the sector's premium valuations survive another quarter intact.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

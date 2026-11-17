@@ -1,8 +1,9 @@
 ---
-title: "Microsoft Offers First-Ever Voluntary Buyouts to 8,750 Employees as AI Reshapes Its Workforce"
-summary: "Microsoft has launched the first voluntary retirement program in its 51-year history, making up to 7% of its U.S. workforce—roughly 8,750 employees—eligible for buyouts as the company accelerates its pivot toward AI. The move, announced April 23, mirrors Meta's simultaneous 8,000-person layoff and signals that even the most stable tech employers are restructuring around AI-first operations."
+title: "Microsoft Plans First-Ever Voluntary Buyouts for About 7% of U.S. Employees as AI Reshapes Tech"
+summary: "Microsoft is offering the first voluntary retirement program in its 51-year history, making about 7% of its U.S. employees eligible for buyouts as the tech industry grapples with changes sparked by AI. The program was announced in a memo on Thursday, with details for eligible employees due May 7."
 category: "industry"
 publishedAt: 2026-04-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ The announcement arrived the same week that Meta confirmed it was laying off 8,0
 
 ## The Buyout Structure
 
-Microsoft's program is unusual in the industry not just for being a first at the company, but for the specific eligibility formula it uses. Rather than targeting specific roles or performance tiers, Microsoft is using an age-and-tenure calculation: employees whose combined age and years of service equal at least 70 are eligible, provided they hold positions at or below the senior director level.
+Microsoft's program is unusual in the industry not just for being a first at the company, but for the specific eligibility formula it uses. Microsoft is using an age-and-tenure calculation: employees whose combined age and years of service equal at least 70 are eligible, provided they are at the senior director level or below. Employees with sales incentive plans cannot participate.
 
 Under this formula, a 52-year-old with 18 years at Microsoft would qualify. So would a 40-year-old with 30 years. The program is weighted toward longer-tenured, more senior individual contributors—employees who tend to command higher salaries and whose roles have been most directly impacted by AI automation.
 
@@ -41,7 +42,7 @@ Eligible employees will be notified on May 7. Those who accept will receive seve
 
 ## The Strategic Context
 
-Microsoft employs roughly 125,000 people in the United States. A 7% reduction would bring that to approximately 116,000—still a massive workforce by any measure. But the composition of that workforce is undergoing a more significant transformation than the headline number suggests.
+As of June 2025, Microsoft had 125,000 employees in the United States. Microsoft had 125,000 employees in the U.S. as of June 2025, and about 7% of U.S. employees are eligible for the program. But the composition of that workforce is undergoing a more significant transformation than the headline number suggests.
 
 Since early 2025, Microsoft has been systematically exempting AI and Copilot-related teams from its various hiring freezes. While it froze hiring in Azure cloud sales and North American go-to-market divisions in March 2026, AI product and research roles continued to expand. The voluntary buyout program accelerates a workforce rotation that has been underway quietly for over a year.
 
@@ -86,3 +87,5 @@ The AI transition is moving faster. The specific skills being displaced are whit
 For the workers receiving May 7 notifications at Microsoft, those macroeconomic questions are abstract. The concrete reality is a choice: accept a financial package and exit an industry undergoing its most profound transformation in a generation, or stay and try to prove that human expertise still commands a premium in an AI-saturated organization.
 
 The fact that Microsoft framed this choice voluntarily, rather than making it for them, may be its one genuine kindness in an otherwise cold reckoning.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

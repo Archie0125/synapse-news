@@ -3,6 +3,7 @@ title: "Apple Upgrade Launches Today: Klarna-Backed Device Leasing Reshapes How 
 summary: "Apple launched its 'Apple Upgrade' leasing program on July 28, 2026, partnering with Klarna to offer 24-month leases on iPhones and Apple Watches and 36-month leases on Macs and iPads. The program replaces the existing iPhone Upgrade Program, emphasizing lower monthly payments amid a RAM price-driven hardware cost surge."
 category: "products"
 publishedAt: 2026-07-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -37,9 +38,9 @@ The move comes as Apple faces a dual squeeze: hardware prices have risen sharply
 
 The program operates more like a vehicle lease than a traditional installment plan—a deliberate design choice that Apple hopes will normalize multi-year device commitments for American consumers.
 
-Customers enrolling in Apple Upgrade commit to a fixed term: 24 months for iPhone and Apple Watch models, 36 months for Mac and iPad. At the end of the term, they have four options: return the device, keep it after a final payment, trade it in for a new model at a reduced cost, or exit the lease early by paying off the remaining balance.
+Customers enrolling in Apple Upgrade commit to a fixed term: 24 months for iPhone and Apple Watch models, 36 months for Mac and iPad. Customers can return the device, upgrade to a newer device, or pay a fee to keep it, and some transactions carry an additional fee. Paying off the device early is also an option.
 
-Klarna provides the financing behind the scenes, conducting a soft credit check at enrollment that does not affect borrowers' credit scores. Monthly payments are structured to be lower than equivalent installment plans offered through Apple's existing carrier financing arrangements—a critical distinction Apple has emphasized in its marketing materials.
+Klarna provides the financing behind the scenes, conducting a soft credit check at enrollment that does not affect borrowers' credit scores. Apple plans to advertise the program as a way to have lower monthly payments compared to current financing programs.
 
 Not all devices qualify. Apple has excluded its entry-level product line from the program: the Apple Watch SE, the base iPad, the iPhone 16 (now three generations old), and the MacBook Neo are ineligible. The exclusion keeps the program focused on the mid-to-high tier of Apple's hardware portfolio, where gross margins are highest and the financial case for subsidized monthly payments is strongest.
 
@@ -53,7 +54,7 @@ The strategic logic is compelling if it works. A customer leasing an iPhone 17 P
 
 ## Klarna's Role and the BNPL Evolution
 
-For Klarna, the Apple partnership is a landmark moment in its decade-long effort to expand from online checkout buttons to embedded finance across the physical economy. The Swedish company went public on the New York Stock Exchange in July 2025 and has been aggressively pursuing partnerships with major retailers and manufacturers to diversify beyond its roots in e-commerce.
+For Klarna, the Apple partnership is a landmark moment in its decade-long effort to expand from online checkout buttons to embedded finance across the physical economy. The Swedish company went public in September 2025.
 
 An Apple partnership is qualitatively different from Klarna's typical retail integrations. The average Apple device purchase is meaningfully larger than the average BNPL transaction, and the lease structure—with its built-in term, upgrade path, and return logistics—requires far more sophisticated operational infrastructure than a simple split-payment checkout. Klarna built dedicated underwriting and servicing infrastructure specifically for Apple Upgrade, according to people familiar with the arrangement.
 
@@ -86,3 +87,5 @@ For customers who value simplicity, predictable payments, and guaranteed upgrade
 The program launched in the US today and is expected to roll out to additional markets, including the UK, Canada, and Australia, in the coming months, with European expansion contingent on regulatory approvals in key markets.
 
 Apple shares rose 1.2% in morning trading on July 28, reflecting cautious optimism that the program will modestly accelerate upgrade cycles in the near term.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

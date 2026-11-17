@@ -1,8 +1,9 @@
 ---
 title: "Android 17 正式推送 Pixel：Gemini Omni 剪片、Lyria 3 作曲、全新多工介面一次到位"
-summary: "Google 於 6 月 16 日向 Pixel 裝置推送 Android 17，此次更新是 Android 史上 AI 功能密度最高的版本，包含 Gemini Omni 多模態影片編輯、Lyria 3 AI 音樂生成、Pixel 10a 專屬的 AudioLM 即時語音翻譯，以及重新設計的 Bubble Bar 多工介面。但最受期待的 Gemini Intelligence 自主代理功能，絕大多數 Pixel 用戶仍須等待。"
+summary: "Google 於 6 月 16 日向 Pixel 裝置推送 Android 17，此次更新新增 Gemini Omni 多模態影片編輯、Lyria 3 AI 音樂生成、Pixel 10a 專屬的 AudioLM 即時語音翻譯，以及新的多工工具。"
 category: "products"
 publishedAt: 2026-06-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -29,19 +30,17 @@ relatedSlugs:
   - "2026-04-04-google-gemini-everywhere-zh"
 ---
 
-Google 於 6 月 16 日（週二）將 Android 17 推送至 Pixel 裝置，並同步釋出每月的 Pixel Drop 功能批次更新。這是 Android 歷史上 AI 功能整合密度最高的一次更新——亮點不在單一殺手級功能，而在同一時間點落地的 AI 能力之廣之深。
-
-時機選擇頗具深意。蘋果在 2026 年的 WWDC 展示了整合更深的 Gemini 功能（延續去年 WWDC 宣布的蘋果與 Google 合作）。Android 17 是 Google 的回應：向外界証明，Android 這個原生平台有能力推出真實可用的 AI 功能，而不只是預覽和承諾。
+Google 於 6 月 16 日（週二）將 Android 17 推送至 Pixel 裝置，並同步釋出每月的 Pixel Drop 功能批次更新。此次更新結合了 Android 17 的新功能與 Pixel Drop，其中包含多項 AI 新增功能，例如 Gemini Omni 與 Lyria 3。
 
 ## Gemini Omni：在對話框裡剪片
 
-Android 17 最核心的 AI 新功能是 Gemini Omni——一個將影片編輯直接整合進 Gemini 應用程式對話中的多模態模型。
+Pixel Drop 的 AI 新增功能之一是 Gemini Omni——一個讓使用者在 Gemini 應用程式對話中編輯影片的多模態模型。
 
 概念直接，但執行方式真正創新。使用者不需要打開獨立的影片編輯 App，只需在 Gemini 對話中分享影片，然後用自然語言描述想要的修改——「剪掉這一段」「調整色溫」「加字幕」「把前十五秒的環境音刪掉」。Gemini Omni 同時理解影片內容與文字指令，完成編輯後將修改後的影片直接回傳至對話視窗。
 
 這在本質上與 2024 年以來各大影片 App 紛紛推出的「AI 輔助剪輯」功能截然不同。那些功能是把 AI 當成編輯介面裡的一個按鈕；Gemini Omni 讓對話本身成為介面。剪片、寫信、安排行程，全都在同一個聊天視窗完成——交互模式統一了。
 
-此功能首先在 Pixel 8 至 10a 推出，需要 Gemini 應用程式，且為 Gemini Pro 訂閱者獨享，免費用戶會在使用前看到升級提示。
+Gemini Omni 正向所有裝有 Gemini 應用程式的裝置推出，提供給 Gemini Pro 使用者。
 
 ## Lyria 3：Android 上的 AI 作曲功能
 
@@ -61,15 +60,15 @@ AudioLM 是 Google DeepMind 的語音語言模型，能直接處理和生成音�
 
 這不是第一款提供即時翻譯的手機，Google 的 Live Transcribe 和 Pixel 6 的口譯員模式都曾嘗試過。但 AudioLM 代表了語音輸出自然度的世代躍升，正面解決了過去翻譯工具在真實對話中「聽起來很怪」的核心體驗問題。
 
-## Bubble Bar：多工介面的結構性重設計
+## Bubble Bar：全新的多工介面元素
 
-除了 AI 功能，Android 17 引入了 Bubble Bar——一次對多工介面的根本性變革。
+除了 AI 功能，Android 17 引入了氣泡列（bubble bar）——一個新的介面元素，可將最近使用的 App 以氣泡形式整理在螢幕底部，方便快速存取。
 
-Bubble Bar 取代了 Android 傳統的「最近應用」切換方式。活躍的 App 和對話可以固定為螢幕底部邊緣的懸浮氣泡，讓用戶在不離開當前情境的情況下快速切換。長按任一氣泡會展開該 App 當前狀態的持久小工具檢視，單擊則進入全螢幕。
+活躍的 App 和對話可以固定為螢幕底部邊緣的懸浮氣泡，讓用戶在不離開當前情境的情況下快速切換。長按任一氣泡會展開該 App 當前狀態的持久小工具檢視，單擊則進入全螢幕。
 
 這個設計在概念上近似 Android 早年為即時通訊 App 引入的「聊天頭貼」，但延伸至所有應用類別。導航 App 可以保持在氣泡狀態持續播放語音導航，用戶同時在前景瀏覽其他內容；音樂播放氣泡顯示播放控制，無需離開當前 App；來自不同即時通訊 App 的多個對話可以同時以氣泡形式共存。
 
-Android 17 還新增了「畫面反應錄影」（同時捕捉自拍鏡頭與裝置螢幕，適合拍攝開箱或反應影片）、折疊螢幕遊戲模式（50/50 分割佈局與動態調整的虛擬遊戲手把），以及 Pixel 手機到 Pixel Watch 的即時 App 鏡像顯示。
+Android 17 還新增了「畫面反應錄影」（同時捕捉自拍鏡頭與裝置螢幕，適合拍攝開箱或反應影片）、以及折疊螢幕遊戲模式（50/50 佈局與動態遊戲手把）。手錶用戶也能接收來自手機 App、並鏡像到 Pixel Watch 的即時更新。
 
 ## Gemini Intelligence 的缺席
 
@@ -79,6 +78,8 @@ Google I/O 2026 展示的 Gemini Intelligence，能理解像「幫我規劃十�
 
 但這個功能並未出現在 Android 17。看完 Google I/O 後滿心期待的 Pixel 用戶，在這次更新說明中找不到它的蹤影。Google 發言人確認 Gemini Intelligence「將於未來的更新中陸續推出至支援裝置」，未給出具體時程。
 
-Google 在 I/O 上的展示與實際推出之間的落差，是外界對 Google AI 策略的長年批評之一：功能往往在用戶能拿到手的幾個月前就已高調亮相。Android 17 的 AI 功能是真實的、有意義的，但那個能讓 Gemini 真正與蘋果在 iOS 27 描述的願景一較高下的功能，仍停在「即將到來」的狀態。
+Google 在 I/O 上的展示與實際推出之間的落差，是外界對 Google AI 策略的長年批評之一：功能往往在用戶能拿到手的幾個月前就已高調亮相。Android 17 的 AI 功能是真實的、有意義的，但 Gemini Intelligence 仍停在「即將到來」的狀態。
 
 目前 Android 用戶能拿到的，是一個能生成音樂、在對話中剪片、更自然地翻譯語音，並以懸浮氣泡重構多工體驗的平台。這已是對 Android 16 的顯著躍升。下一個躍升——自主行動——仍在等待中。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 11 處。*

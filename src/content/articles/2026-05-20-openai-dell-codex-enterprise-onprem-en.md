@@ -3,6 +3,7 @@ title: "OpenAI and Dell Bring Codex On-Premises in the Company's First Hybrid En
 summary: "OpenAI and Dell Technologies announced at Dell Technologies World in Las Vegas that Codex — OpenAI's coding and agentic AI platform with more than 4 million weekly developer users — will be deployable in hybrid and on-premises enterprise environments via the Dell AI Factory. It is OpenAI's first explicit move into on-prem distribution, targeting regulated industries like financial services, healthcare, and government that cannot route sensitive data through public cloud."
 category: "developer-tools"
 publishedAt: 2026-05-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,11 +28,11 @@ relatedSlugs:
   - "2026-05-14-openai-chatgpt-trusted-contact-safety-en"
 ---
 
-OpenAI has spent its first years making the cloud the default home for AI. On Tuesday, the company took its first significant step in the other direction.
+OpenAI has spent its first years making the cloud the default home for AI. This month, the company took what it presented as a step in the other direction.
 
 At Dell Technologies World in Las Vegas, OpenAI and Dell Technologies announced a partnership that will bring Codex — OpenAI's coding and agentic AI platform — to enterprise hybrid and on-premises environments via the Dell AI Data Platform and Dell AI Factory. The announcement was made at Dell's flagship annual conference, where more than 10,000 enterprise IT decision-makers gather to review infrastructure investments and vendor roadmaps.
 
-The move carries weight beyond its technical scope. Since its founding, OpenAI has operated on a fundamentally cloud-native model: API calls route through OpenAI's infrastructure, data flows through OpenAI's systems, and capabilities are gated behind a hosted service. For large financial institutions, hospitals, government agencies, and defense contractors, that model has been a persistent deal-breaker. Tuesday's announcement provides a formal path around that barrier for the first time.
+The move carries weight beyond its technical scope. Since its founding, OpenAI has operated on a fundamentally cloud-native model: API calls route through OpenAI's infrastructure, data flows through OpenAI's systems, and capabilities are gated behind a hosted service. For large financial institutions, hospitals, government agencies, and defense contractors, that model has been a persistent deal-breaker. The announcement provides a formal path around that barrier.
 
 ## What Codex Has Become
 
@@ -55,13 +56,11 @@ Dell reports that more than 5,000 enterprise customers are already deploying the
 
 ## The Architecture of the Integration
 
-The partnership is structured across three operational layers.
-
 At the data layer, Codex interfaces with Dell's data preparation and management tooling, allowing enterprises to connect Codex agents to internal databases, document repositories, records management systems, and proprietary data stores — without any of that data leaving the customer's environment to reach OpenAI's cloud.
 
-At the deployment layer, ChatGPT Enterprise and other OpenAI API-based solutions run within the Dell AI Factory's managed environment, allowing IT and security teams to apply the same access controls, logging, audit trails, and compliance monitoring they use for other enterprise software. For procurement teams evaluating vendor risk, this matters enormously.
+Separately, Dell and OpenAI are exploring ways for Codex, ChatGPT Enterprise and other API-based solutions to interface with the Dell AI Factory. For procurement teams evaluating vendor risk, this matters enormously.
 
-At the operations layer, the integration targets systems-of-record management, automated testing pipelines, and continuous deployment workflows — the deep enterprise IT infrastructure that software built purely for cloud-native organizations rarely reaches. Codex's ability to understand and interact with complex internal codebases, at enterprise scale, within the customer's own environment, is the core of the value proposition here.
+Those AI Factory integrations are expected to support data preparation, systems-of-record management, testing, and deployment of AI applications within enterprise hybrid and on-premises Dell infrastructure. Codex's ability to understand and interact with complex internal codebases, at enterprise scale, within the customer's own environment, is the core of the value proposition here.
 
 Specific pricing and general availability timelines are expected to be announced in the third quarter of 2026.
 
@@ -82,3 +81,5 @@ The Dell partnership is a signal that OpenAI's leadership is treating enterprise
 On-premises deployment capability eliminates the single most common objection in enterprise sales cycles for regulated industries. Turning that objection into a non-issue — through a credible infrastructure partner with existing customer relationships — is a meaningful commercial development, separate from any model capability announcement.
 
 Whether the Dell AI Factory integration achieves the scale that the announcement implies is a question that will take several quarters to answer. But as a strategic move, it positions OpenAI to compete for enterprise deals that would have been categorically unavailable to it twelve months ago.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

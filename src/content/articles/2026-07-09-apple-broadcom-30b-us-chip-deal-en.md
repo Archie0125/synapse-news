@@ -1,8 +1,9 @@
 ---
 title: "Apple Commits $30 Billion to Broadcom for 15 Billion US-Made Chips in Landmark Deal"
-summary: "Apple and Broadcom announced a $30B+ multiyear chip supply agreement on July 8, 2026, covering custom silicon, FBAR radio-frequency filters, and wireless technology through at least 2031. The deal is the largest single commitment under Apple's American Manufacturing Program and will drive a $1.5B expansion of Broadcom's Fort Collins, Colorado facility."
+summary: "Apple and Broadcom announced a multiyear agreement expected to exceed $30 billion on July 8, 2026, covering custom silicon components and wireless connectivity technologies, including FBAR radio-frequency filters. The deal is Apple's largest commitment to date under its American Manufacturing Program and includes a $1.5B expansion of Broadcom's Fort Collins, Colorado facility."
 category: "hardware"
 publishedAt: 2026-07-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-07-08-south-korea-880b-ai-chip-plan-en"
 ---
 
-Apple and Broadcom announced a chip supply agreement exceeding $30 billion on July 8, 2026, covering the production of more than 15 billion U.S.-manufactured chips through at least 2031. The deal, announced jointly by Apple CEO Tim Cook and Broadcom CEO Hock Tan, is the largest single commitment Apple has made under its American Manufacturing Program and signals a deepening of one of the semiconductor industry's most strategically important supplier relationships at a moment when onshoring chip production has become a national priority.
+Apple announced a multiyear agreement with Broadcom expected to exceed $30 billion on July 8, 2026, which will lead to the production of more than 15 billion U.S.-made chips. The deal, announced by Apple with quotes from Apple CEO Tim Cook and Broadcom CEO Hock Tan, is Apple's largest commitment to date under its American Manufacturing Program.
 
 ## What the Deal Covers
 
@@ -43,7 +44,7 @@ Broadcom will invest **$1.5 billion to expand and modernize its Fort Collins, Co
 
 ## The Broader Strategic Context
 
-This deal cannot be understood without the policy backdrop. Apple committed in early 2026 to invest **$600 billion in the United States over four years** — a commitment that came alongside significant trade and tariff negotiations with the Trump administration. The Broadcom deal represents the single largest chunk of that commitment in publicly disclosed form, and it arrives at a moment when U.S. government policy is explicitly using procurement leverage and subsidy incentives to rebuild domestic semiconductor manufacturing capacity.
+This deal cannot be understood without the policy backdrop. Apple announced in 2025 a commitment to invest $600 billion in the U.S. economy over four years. The Broadcom deal is the biggest piece of that $600 billion plan.
 
 The **CHIPS and Science Act** continues to funnel subsidies toward companies willing to commit manufacturing capacity on U.S. soil. Apple's $30 billion commitment to Broadcom effectively co-invests the federal government's onshoring agenda with private capital, creating a supply chain partnership that is simultaneously a business decision and a political positioning move.
 
@@ -51,7 +52,7 @@ Tim Cook has been deliberate about framing these investments. Apple's American M
 
 ## Broadcom's Position and Market Reaction
 
-Broadcom's stock climbed **4.8%** on the day of the announcement — a substantial single-day move for a company of Broadcom's scale. The market reaction reflects two things: revenue visibility (a multiyear $30B commitment from Apple is essentially guaranteed revenue through 2031) and strategic validation (the deal confirms Broadcom's irreplaceable position in Apple's supply chain at a time when Apple has been actively working to reduce dependencies on individual suppliers).
+Broadcom's stock climbed almost 5% after the announcement on Wednesday. The market reaction reflects two things: revenue visibility (a multiyear $30B commitment from Apple is essentially guaranteed revenue through 2031) and strategic validation (the deal confirms Broadcom's irreplaceable position in Apple's supply chain at a time when Apple has been actively working to reduce dependencies on individual suppliers).
 
 For Broadcom CEO Hock Tan, the deal represents a continuation of the company's strategy of deepening partnerships with a small number of hyperscale and device customers whose demand is large enough to justify dedicated manufacturing investment. Apple is Broadcom's single largest customer, and the Fort Collins expansion essentially gives Broadcom a dedicated, Apple-financed manufacturing upgrade.
 
@@ -59,7 +60,7 @@ The deal also comes as Broadcom has been expanding aggressively in the AI silico
 
 ## The Domestic Chip Production Race
 
-Apple's Broadcom commitment lands in the context of a broader acceleration in U.S. domestic chip manufacturing commitments. Intel is rebuilding domestic fab capacity. TSMC has broken ground on fabs in Arizona. Micron is investing $9.3 billion to expand its Hiroshima facility for HBM production while simultaneously building a $100 billion campus near Syracuse, New York. SK Hynix and Samsung are making parallel investments.
+Intel is rebuilding domestic fab capacity. TSMC has broken ground on fabs in Arizona. Micron is investing $9.3 billion to expand its Hiroshima facility for HBM production while simultaneously building a $100 billion campus near Syracuse, New York. SK Hynix and Samsung are making parallel investments.
 
 What distinguishes the Apple-Broadcom deal from these wafer fab expansions is its focus on downstream components: the FBAR filters and wireless connectivity chips that sit between the semiconductor wafer and the finished device. This layer of the supply chain — sometimes called the "connectivity" or "RF front-end" layer — has been dominated by Asia-Pacific manufacturing and is significantly harder to onshore than logic chips because it requires different processes and different manufacturing expertise.
 
@@ -72,3 +73,5 @@ One underappreciated angle: wireless connectivity chips are increasingly critica
 In this light, the Apple-Broadcom deal isn't just a supply chain story — it's infrastructure for the next generation of AI-on-device experiences. Apple's continued investment in chip components that improve wireless performance is a bet that the device will remain a primary AI interface even as cloud models become more powerful.
 
 The $30 billion figure makes this the most significant U.S. semiconductor manufacturing commitment from a single technology company in 2026, and it will be studied as a template for how large technology companies can simultaneously serve corporate, strategic, and political objectives through their procurement decisions.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

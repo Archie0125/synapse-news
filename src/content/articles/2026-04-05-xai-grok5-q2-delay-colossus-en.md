@@ -3,6 +3,7 @@ title: "Grok 5 Misses Q1 Deadline as xAI Scales Colossus 2 to 1.5 Gigawatts"
 summary: "xAI's Grok 5, a reported 6-trillion-parameter Mixture-of-Experts model, slipped past its Q1 2026 launch window and is now targeting Q2. Meanwhile, Elon Musk confirmed that the Colossus 2 supercluster in Memphis is expanding from 1 gigawatt to 1.5 gigawatts by April to support fine-tuning and inference at scale."
 category: "ai-ml"
 publishedAt: 2026-04-05T10:40:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
   - "2026-04-05-anthropic-claude-mythos-en"
 ---
 
-When Elon Musk confirmed in early 2026 that Grok 5 would ship in Q1, it joined a growing list of model launches where ambition outpaced schedule. Q1 ended on March 31 with Grok 5 nowhere in sight. Now xAI's flagship model is targeting Q2 — and the company has been conspicuously quiet about exactly when "Q2" means.
+When Elon Musk confirmed in early 2026 that Grok 5 would ship in Q1, it joined a growing list of model launches where ambition outpaced schedule. Q1 ended on March 31 with Grok 5 nowhere in sight. Now xAI's flagship model is targeting Q2, according to a projection from Grok's official X account.
 
 The delay matters beyond the usual spectator sport of AI release date forecasting. Grok 5 is the model xAI has staked its competitive position on: a reported 6-trillion-parameter Mixture-of-Experts architecture that would, if the numbers hold, be the largest model by parameter count ever made publicly accessible. For context, GPT-4o is estimated at around 200 billion parameters; Meta's Llama 4 Scout uses 109 billion active parameters within a 400 billion total MoE frame. A 6-trillion-parameter model is an entirely different category of infrastructure challenge.
 
@@ -67,4 +68,6 @@ Prediction markets currently assign roughly 33% probability that Grok 5 ships be
 
 Beyond the competitive optics, the Grok 5 delay tests xAI's narrative in a specific way. The company has positioned itself as the most technically ambitious lab — the one willing to bet on scales and architectures that others consider premature. The 6T parameter bet was a visible expression of that ambition. If Grok 5 delivers on its reported capabilities when it eventually ships — strong performance on hard science and mathematics, extended reasoning chains, competitive cost-per-token — the delay will be forgotten quickly. If it arrives substantially underperforming expectations despite the hardware investment, the narrative becomes significantly harder to sustain.
 
-For now, the company is focused on getting the training run right. The infrastructure is expanding. The current models are holding paying customers. And Musk has been — unusually — restrained in public promises about the timeline. That restraint, more than anything else, may be the most accurate signal about where things actually stand inside Colossus 2.
+For now, the company is focused on getting the training run right. The infrastructure is expanding. The current models are holding paying customers. And Musk remains characteristically ambitious in public, having recently posted about Grok 5 beating the best human League of Legends teams in 2026.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

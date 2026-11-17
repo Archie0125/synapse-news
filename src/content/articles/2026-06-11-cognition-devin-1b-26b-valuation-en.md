@@ -1,8 +1,9 @@
 ---
 title: "Devin Hits $492M ARR as Cognition Raises $1 Billion at $26 Billion Valuation"
-summary: "AI software engineer Devin has propelled Cognition to raise $1 billion at a $26 billion post-money valuation, up from $10.2 billion just eight months prior. Annual revenue surged from $37 million to $492 million in twelve months — a 13-fold increase that makes Devin the fastest-scaling enterprise software product in recent history."
+summary: "AI software engineer Devin has propelled Cognition to raise $1 billion at a $26 billion post-money valuation, up from $10.2 billion just eight months prior. Annualized revenue rose from $37 million to $492 million in twelve months, a 13-fold increase."
 category: "startups"
 publishedAt: 2026-06-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -34,11 +35,11 @@ Cognition has raised $1 billion at a $26 billion post-money valuation, the compa
 
 ## The Numbers That Explain Everything
 
-The fundraising mechanics are secondary to what's driving them. Devin's annualized revenue run rate has climbed from $37 million in May 2025 to $492 million in May 2026 — a 1,230 percent increase in twelve months. Enterprise usage has grown more than 10x this year alone, with month-over-month growth holding at approximately 50 percent for six consecutive months.
+The fundraising mechanics are secondary to what's driving them. Devin's annualized revenue run rate has climbed from $37 million in May 2025 to $492 million in May 2026 — a 13-fold increase in twelve months. Enterprise usage of Devin has grown approximately 50 percent month-over-month for the past six months.
 
 To put this in context: Salesforce needed roughly eight years to reach $400 million in annual revenue after its founding. Devin got there in about 24 months from launch, and it did so in a market segment — enterprise software development — that was considered among the hardest for AI to crack because of the complexity, security requirements, and institutional caution involved.
 
-Cognition also disclosed a striking internal metric: between 89 and 90 percent of the company's own codebase is now written by Devin. The company is not just selling an autonomous coding product; it is running its entire engineering operation on one.
+Cognition CEO Scott Wu also said that more than 90 percent of the company's internal code is now written by Devin.
 
 ## Enterprise Customers at Scale
 
@@ -68,7 +69,7 @@ Cognition's differentiation increasingly rests on three pillars: the depth of en
 
 ## What $1 Billion Buys
 
-The proceeds are earmarked for three areas: model research to extend Devin's task horizon and accuracy on complex multi-file changes; enterprise infrastructure to support compliance requirements in regulated industries; and international expansion, with European and Asia-Pacific markets identified as the next major growth opportunities.
+Cognition said it plans to use the new funding to refine its models, improve the customer experience, and potentially make more acquisitions.
 
 The funding also provides capital to hire the model researchers and safety engineers needed to maintain Devin's lead as the competitive field intensifies. Cognition currently employs roughly 200 people, a headcount that founders Scott Wu and Steven Hao have said they plan to scale carefully to avoid the organizational friction that slows model iteration cycles.
 
@@ -76,6 +77,8 @@ The funding also provides capital to hire the model researchers and safety engin
 
 The Cognition story matters beyond the company itself because it establishes a reference point for the autonomous AI agent market. Revenue at this scale, growing at this rate, in enterprise accounts of this caliber, demonstrates that the transition from AI coding assistants to AI coding agents is not a future event being priced into a speculative valuation — it is happening now, at production scale, with auditable financial outcomes.
 
-The $26 billion post-money valuation implies investors believe Cognition can capture a substantial slice of the global software development market, which Gartner estimates at over $800 billion in annual spending on developer compensation alone. Even a modest productivity-driven displacement of that spending — say, 10 percent over five years — represents an addressable market an order of magnitude larger than Cognition's current revenue.
+The $26 billion post-money valuation implies investors believe Cognition can capture a substantial slice of the global software market, which TNW puts at $600 billion.
 
 Whether Devin ultimately captures that opportunity, or whether a better-capitalized competitor overtakes it, the pace of adoption it has demonstrated in the past twelve months suggests the market transition is real, irreversible, and moving faster than most enterprise software buyers anticipated.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Reflection AI Locks In $6.3B SpaceX Compute Lease, Paying $150M a Month for Nvidia GB300 Access"
-summary: "Open-source AI startup Reflection AI activated a $6.3 billion compute deal with SpaceX on July 1, paying $150 million per month through 2029 for access to Nvidia GB300 chips at the Colossus 2 data center in Memphis. The deal underscores how access to compute has become the defining competitive moat in frontier AI."
+summary: "Open-source AI startup Reflection AI has agreed to pay SpaceX $150 million per month beginning July 1, 2026, through 2029 for access to Nvidia GB300 chips on its Colossus infrastructure, a deal worth about $6.3 billion if it runs its full term."
 category: "industry"
 publishedAt: 2026-07-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 On July 1, a two-year-old AI startup began wiring $150 million per month to Elon Musk's SpaceX. The payment is not for satellites or rocket launches. It is for computing time.
 
-Reflection AI, a San Francisco-based startup building open-weight frontier models, activated a long-term compute lease at SpaceX's Colossus 2 data center near Memphis, Tennessee, under a deal first announced on June 22. The agreement runs through 2029 and totals approximately $6.3 billion if it goes the distance — though either party can terminate with 90 days' notice after an initial three-month commitment period expires.
+Reflection AI, a San Francisco-based startup building open-weight frontier models, activated a long-term compute lease at SpaceX's Colossus 2 data center near Memphis, Tennessee, under a deal first announced on June 22. The agreement runs through 2029 and would total about $6.3 billion if it runs through the end of its term, though either party can end the contract with 90 days' notice after the first three months.
 
 The numbers are significant by any measure. But the deal's real importance lies in what it reveals about the shape of the AI industry in mid-2026: the ability to train frontier models has become less a software problem and more a logistics problem, and the companies that solve it are changing faster than most analysts expected.
 
@@ -74,3 +75,5 @@ The Reflection deal raises a structural question for the AI industry that has no
 SpaceX is not a neutral infrastructure provider in the way that AWS or Google Cloud are. It is controlled by Elon Musk, who also controls xAI, which competes directly with Anthropic, OpenAI, and Reflection for AI leadership. The governance questions this concentration creates — who has priority access in a capacity crunch, what data protections exist between tenants — have not been publicly addressed by any of the parties involved.
 
 For now, the AI industry appears willing to accept those risks in exchange for the one thing Colossus 2 offers that no other facility can currently match: scale, speed of deployment, and access to the latest Nvidia silicon, all under one roof.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

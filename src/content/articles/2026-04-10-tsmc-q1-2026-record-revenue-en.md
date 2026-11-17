@@ -3,6 +3,7 @@ title: "TSMC Posts Record $35.6 Billion Q1 Revenue as AI Chip Demand Smashes Exp
 summary: "Taiwan Semiconductor Manufacturing Company reported first-quarter 2026 revenue of $35.6 billion, a 35% year-on-year surge that beat analyst consensus, driven by insatiable demand for AI accelerators and the company's monopoly on advanced packaging technology. TSMC shares crossed 2,000 New Taiwan dollars for the first time, and the full earnings call is set for April 16."
 category: "hardware"
 publishedAt: 2026-04-10T09:35:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,13 +31,13 @@ relatedSlugs:
 
 ## TSMC Smashes Records Again as the AI Infrastructure Boom Shows No Signs of Slowing
 
-Taiwan Semiconductor Manufacturing Company, the world's most critical node in the global technology supply chain, delivered yet another record-breaking quarterly result on Thursday, reporting first-quarter 2026 revenue of NT$1.13 trillion (approximately $35.6 billion). The figure represents a 35% year-on-year increase and topped the NT$1.12 trillion analyst consensus, sending TSMC shares surging past the symbolically significant 2,000 New Taiwan dollar threshold for the first time in the company's history.
+Taiwan Semiconductor Manufacturing Company, the world's largest chipmaker, delivered yet another record-breaking quarterly result on Friday, reporting first-quarter revenue of NT$1.13 trillion (approximately $35.6 billion). The figure represents a 35% year-on-year increase and topped the NT$1.12 trillion analyst consensus, sending TSMC shares surging past the symbolically significant 2,000 New Taiwan dollar threshold for the first time in the company's history.
 
 The results underscore a simple but powerful reality: the global race to build, train, and deploy artificial intelligence systems is translating directly into an insatiable appetite for the advanced chips only TSMC can manufacture at scale. What began as a pandemic-era semiconductor supercycle has evolved into something more structural and more enduring — a sustained AI infrastructure buildout that analysts now expect to keep TSMC's revenue growth above 30% annually well into the decade ahead.
 
 ### A Blazing March Finishes the Quarter in Style
 
-The quarter's momentum was visible in monthly granular data released alongside Thursday's headline figure. March 2026 alone saw TSMC post NT$415.2 billion in revenue, a staggering 45.2% year-over-year jump. That acceleration in the final month of the quarter — stacked on top of January and February numbers that rose roughly 30% combined on a year-over-year basis — suggests that orders from AI hyperscalers and chip design houses are not merely holding steady, but actively accelerating.
+The quarter's momentum was visible in the monthly data, with March figures reported alongside Friday's headline number. March 2026 alone saw TSMC post NT$415.2 billion in revenue, a staggering 45.2% year-over-year jump. That acceleration in the final month of the quarter — stacked on top of January and February numbers that rose roughly 30% combined on a year-over-year basis — suggests that orders from AI hyperscalers and chip design houses are not merely holding steady, but actively accelerating.
 
 Sravan Kundojjala, a semiconductor analyst at SemiAnalysis, put the situation bluntly: "We believe TSMC is set to surpass its target of 30% annual growth. Although end markets for smartphones and PCs faced difficulties due to memory shortages, TSMC's AI sector shouldered the burden."
 
@@ -48,7 +49,7 @@ The primary fuel for TSMC's extraordinary growth is AI accelerators — the powe
 
 CoWoS, which allows multiple chiplets to be interconnected at extremely high density through a silicon interposer, has become the linchpin of AI chip performance. Nvidia's Blackwell B200 and the upcoming Vera Rubin architectures both depend critically on CoWoS capacity. So do Google's TPU v6, Amazon's Trainium2, and the custom AI silicon programs at Microsoft and Meta. The technology is so critical that TSMC's ability to scale CoWoS production — not raw wafer starts — is viewed by many analysts as the single most important bottleneck in the global AI infrastructure buildout.
 
-TSMC has been aggressively expanding CoWoS capacity over the past 18 months. Thursday's gross margin guidance of 63% to 65% for Q1 reflects a product mix increasingly skewed toward these high-margin, leading-edge chips. Price increases on TSMC's most advanced N3 and N2 process nodes have also contributed meaningfully to the quarter's beat. Selling the world's best chips at premium prices to the world's most cash-rich companies turns out to be a durable business model.
+TSMC has been aggressively expanding CoWoS capacity over the past 18 months. SemiAnalysis's Kundojjala forecasts a Q1 gross margin of 64%, and said reported price hikes on TSMC's most advanced chips were a "big factor" behind the first-quarter sales beat. Price increases on TSMC's most advanced N3 and N2 process nodes have also contributed meaningfully to the quarter's beat. Selling the world's best chips at premium prices to the world's most cash-rich companies turns out to be a durable business model.
 
 ### A $52–56 Billion Capital Commitment
 
@@ -58,17 +59,17 @@ The Arizona buildout carries extraordinary strategic weight. With geopolitical t
 
 ### The 54–56% AI CAGR Forecast
 
-Perhaps the most eye-catching figure from Thursday's analyst commentary is TSMC's forward AI accelerator revenue projection. The company now expects the compound annual growth rate of revenue from AI accelerators between 2024 and 2029 to reach 54% to 56%. AI accelerator-related revenue already accounts for approximately 17% to 19% of TSMC's total wafer revenue — a share projected to grow substantially as hyperscalers continue ramping capital expenditure.
+The company now expects the compound annual growth rate of revenue from AI accelerators between 2024 and 2029 to reach 54% to 56%. AI accelerator-related revenue already accounts for approximately 17% to 19% of TSMC's total wafer revenue — a share projected to grow substantially as hyperscalers continue ramping capital expenditure.
 
 The four major hyperscalers — Amazon, Google, Meta, and Microsoft — collectively committed to $650 billion in capital expenditure for AI infrastructure in 2026, a 71% year-over-year increase. Almost all of that spending flows upstream to TSMC in some form, whether directly through custom silicon programs or indirectly through purchases of Nvidia, AMD, and Broadcom chips that TSMC manufactures. A simple way to think about TSMC's position: it is the toll booth at the only road into the AI age.
 
 ### What April 16 Will Reveal
 
-While Thursday's preliminary revenue announcement revealed the headline number, TSMC will hold its full first-quarter earnings call on April 16, when the company's leadership will break down revenue by technology node, disclose gross and operating margins, and provide guidance for Q2 2026. Four questions will dominate the call:
+While Friday's revenue announcement revealed the headline number, TSMC will report its full first-quarter earnings on April 16. Four questions will dominate the call:
 
 **CoWoS capacity trajectory.** Can TSMC confirm that the advanced packaging bottleneck constraining Nvidia's shipments is being resolved, and on what timeline? Every quarter of delay represents billions of dollars in deferred AI infrastructure deployment.
 
-**Full-year guidance revision.** TSMC set a target of approximately 30% full-year revenue growth in U.S. dollar terms. After a 35% Q1, analysts expect that figure to move higher. By how much, and what will management say about Q2 seasonality?
+**Full-year guidance revision.** TSMC has a 30% annual growth target, which SemiAnalysis's Kundojjala says the company will "easily exceed." By how much, and what will management say about Q2 seasonality? After a 35% Q1, analysts expect that figure to move higher. By how much, and what will management say about Q2 seasonality?
 
 **N2 process ramp.** TSMC's cutting-edge 2-nanometer node entered risk production in 2025 and is expected to reach high-volume manufacturing this year. Early customer adoption data — and which companies are on the leading edge of the N2 ramp — will be closely watched.
 
@@ -76,8 +77,10 @@ While Thursday's preliminary revenue announcement revealed the headline number, 
 
 ### The World's Most Consequential Company
 
-TSMC's quarterly results are not simply a financial event — they are a geopolitical and industrial one. When TSMC reports a 35% revenue surge, it is effectively reporting on the capital commitment of the entire global AI industry. The company manufactures chips for every leading technology firm in the world, making it a single, irreplaceable point of leverage in the most consequential technological buildout of the decade.
+TSMC's quarterly results are not simply a financial event — they are a geopolitical and industrial one. When TSMC reports a 35% revenue surge, it is effectively reporting on the capital commitment of the entire global AI industry. The company manufactures chips for everything from consumer electronics to data centers, and is one of a very small number of companies that can make the most cutting-edge chips.
 
 For investors, the Q1 beat raises an urgent question: does TSMC's stock — even after crossing 2,000 NT dollars — fully reflect a future in which AI accelerator demand grows at 55% annually for five straight years? For policymakers, Thursday's numbers highlight the continued concentration of the world's most critical manufacturing capability in a geography that remains a flashpoint. And for the AI researchers and builders who depend on these chips to train and deploy their systems, it signals that the hardware foundation is being laid at a pace that matches, or perhaps exceeds, the ambitions of the software above it.
 
 The complete picture comes on April 16. But Thursday's headline sends an unmistakable message: the AI chip supercycle has not only survived the skeptics — it is accelerating.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

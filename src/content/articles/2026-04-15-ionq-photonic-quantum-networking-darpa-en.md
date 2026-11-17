@@ -3,6 +3,7 @@ title: "IonQ Links Two Quantum Computers via Photonic Network in World First, Wi
 summary: "IonQ announced on April 14 that it has achieved the first-ever photonic interconnect between two separate commercial trapped-ion quantum systems, demonstrating quantum entanglement between two independent computers at a distance. The same day, the company was selected for DARPA's HARQ program to build multi-qubit heterogeneous quantum networks — sending its stock surging nearly 20%."
 category: "hardware"
 publishedAt: 2026-04-15T09:15:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -51,7 +52,7 @@ DARPA's HARQ (Heterogeneous Architectures for Quantum) program is a research ini
 
 IonQ's contribution to HARQ centers on quantum memories: devices fabricated from quantum-grade synthetic diamond that can store quantum states and play a critical role in networking applications, from data center-scale interconnects to long-distance entanglement distribution. The diamond-based quantum memories represent a key component in the entanglement "plumbing" that networked quantum systems will require.
 
-DARPA selected IonQ as one of the contractors eligible to bid on building multi-qubit quantum networks under HARQ, a competitive designation that validates the company's technical approach and opens a path to defense-scale contracts.
+DARPA awarded IonQ a contract in the HARQ program, where the company's role centers on quantum memories.
 
 ## World Quantum Day and a Sector in Motion
 
@@ -80,3 +81,5 @@ The company's near-term priorities following the DARPA HARQ award will likely in
 If IonQ succeeds in demonstrating computational advantage from networked quantum systems before competitors reach comparable scale on single machines, it will have established a durable technical lead in one of the most consequential technology races of the coming decade.
 
 April 14 was one step. It was not a small one.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "DeepSeek V4-Flash Beats Its Own Pro Model on Agent Benchmarks at One-Thi
 summary: "DeepSeek released V4-Flash-0731 on July 31, with its 284B mixture-of-experts model outscoring V4-Pro-Preview on every agentic test — including a 645% leap on DeepSWE — while charging just $0.28 per million output tokens. The MIT-licensed release redraws the cost-performance frontier for autonomous coding and tool-calling agents."
 category: "ai-ml"
 publishedAt: 2026-08-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -39,9 +40,9 @@ The result is a model that, by DeepSeek's own measurements, is now substantially
 
 ## The Benchmark Numbers
 
-DeepSeek published a four-benchmark comparison across three variants: V4-Flash Preview (April), V4-Flash-0731, and V4-Pro-Preview.
+DeepSeek published scores for nine agent and coding benchmarks, comparing V4-Flash Preview (April), V4-Flash-0731, and V4-Pro-Preview.
 
-On **Terminal Bench 2.1**, a test measuring a model's ability to drive command-line workflows autonomously, V4-Flash-0731 scored 82.7 against V4-Pro-Preview's 72.1 and the previous Flash build's 61.8. That is a 34% improvement over the Pro variant on an externally-developed benchmark that tests genuine agentic behavior rather than question-answering.
+On **Terminal Bench 2.1**, a test measuring a model's ability to drive command-line workflows autonomously, V4-Flash-0731 scored 82.7 against V4-Pro-Preview's 72.1 and the previous Flash build's 61.8.
 
 On **DeepSWE** — a software-engineering agent evaluation that asks models to resolve real GitHub issues — the jump is staggering: from 7.3 in the April Flash Preview to 54.4 in the new build. V4-Pro-Preview sat at 12.8, making the Flash model now 4.25× better than the Pro on one of the most demanding open agent evaluations available. The company also reported **Cybergym** scores of 76.7 (vs. 52.7 for Pro) and **NL2Repo** at 54.2 (vs. 38.5 for Pro).
 
@@ -74,3 +75,5 @@ The community response in the first 24 hours has been enthusiastic but measured.
 V4-Pro remains available for teams whose workflows benefit from its longer chain-of-thought reasoning traces. But for agentic pipelines where throughput and cost matter — automated code review, CI-integrated agents, large-scale data extraction — V4-Flash-0731 has now become the default recommendation across several developer communities.
 
 DeepSeek has not committed to a release timeline for V4-Pro's official version, which the company originally planned to launch alongside Flash. That upgrade is now expected in September or October 2026.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

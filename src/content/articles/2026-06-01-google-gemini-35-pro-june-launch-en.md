@@ -1,8 +1,9 @@
 ---
-title: "Gemini 3.5 Pro Is Coming This Month: What Google's Flagship Model Means for the AI Race"
-summary: "Google's Gemini 3.5 Pro — the full flagship successor to Gemini Ultra, featuring a 2-million-token context window, Deep Think reasoning, and frontier multimodal capabilities — is expected to reach general availability in June 2026 after Sundar Pichai promised 'give us until next month' at Google I/O. Its launch will directly challenge OpenAI's GPT-5.4 and Anthropic's Claude Opus 4.8 for enterprise supremacy."
+title: "Gemini 3.5 Pro Was Promised for June, but Google Now Says It Won't Release It"
+summary: "Google's Gemini 3.5 Pro was promised for June 2026 after Sundar Pichai told the I/O audience 'give us until next month', but Google later told Reuters it no longer plans to release the model. Gemini 4 Argon now occupies the flagship slot."
 category: "ai-ml"
 publishedAt: 2026-06-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,13 +31,13 @@ relatedSlugs:
 
 At Google I/O in May 2026, Sundar Pichai made a rare verbal commitment from the stage: Gemini 3.5 Pro, the full flagship successor to Gemini Ultra, would reach general availability "next month." That month is now here.
 
-June 2026 is the window Google has staked its enterprise AI credibility on. Gemini 3.5 Flash — which launched at I/O to broad commercial access — has already demonstrated that the 3.5 generation offers a meaningful capability step-up from the prior family. But Flash was the opener. Pro is the headline act: a model designed to go directly at OpenAI's GPT-5.4 and Anthropic's Claude Opus 4.8 for the highest-value enterprise deployments.
+June 2026 is the window Google has staked its enterprise AI credibility on. Gemini 3.5 Flash — which launched at I/O to broad commercial access — has already demonstrated that the 3.5 generation offers a meaningful capability step-up from the prior family. But Flash was the opener. Pro was meant to be the headline act, with Google promising it for June.
 
 ## What We Know About Gemini 3.5 Pro
 
-Google has been unusually forthcoming about Gemini 3.5 Pro's capabilities even before its public release, likely because the stakes are high enough that enterprise customers need advance information to budget and plan integrations. From Pichai's I/O remarks, Vertex AI early access customer reports, and the Flash release as a proxy, a picture of the model's capabilities is already clear.
+Google said little about Gemini 3.5 Pro's capabilities before its planned release: no benchmarks, pricing, context window or model card. Beyond Pichai's I/O remarks, the Flash release was the only proxy for what the model might offer.
 
-**Context window:** 2 million tokens. This matches the maximum context the Gemini 1.5 family offered and extends it to a model with dramatically superior reasoning quality. At 2M tokens, Pro can ingest entire codebases, multi-year financial records, extended research corpora, or hours of video in a single prompt — a capability that matters enormously for legal, financial, and scientific enterprise applications.
+**Context window:** Not disclosed. Google did not announce a context window for Pro; Flash shipped with 1,048,576 input tokens.
 
 **Deep Think reasoning:** Pro ships with a configurable "Deep Think" mode, analogous to OpenAI's extended thinking and Anthropic's extended thinking in Claude Opus. Deep Think allows the model to spend additional compute on chain-of-thought reasoning before producing a final response, improving performance on complex multi-step problems at the cost of latency. Benchmark results from Vertex early access suggest Deep Think Pro outperforms GPT-5.4 on several multi-step reasoning evaluations, though OpenAI disputes the specific test conditions.
 
@@ -46,7 +47,7 @@ Google has been unusually forthcoming about Gemini 3.5 Pro's capabilities even b
 
 ## Pricing and Availability
 
-Google has not confirmed exact pricing ahead of launch, but based on the established ratio between Flash and Pro tiers across prior Gemini generations, analysts expect Gemini 3.5 Pro to be priced in the range of $12–15 per million input tokens and $55–65 per million output tokens — broadly comparable to GPT-5.4 Turbo and Claude Opus 4.8.
+Google did not announce pricing for Gemini 3.5 Pro, and any price estimates were speculation.
 
 Access is expected to roll out simultaneously across Google AI Studio, the Gemini API, and Vertex AI on the day of general availability. Google's approach with Flash — shipping to all surfaces in a single coordinated launch rather than staggering access across tiers — is expected to be repeated.
 
@@ -66,8 +67,6 @@ Gemini 3.5 Pro launches into the most competitive frontier model environment in 
 
 The question for Gemini 3.5 Pro is not whether it's a great model — by all indications it will be — but whether Google can sustain the sales and partnership momentum needed to translate model quality into revenue. AI enterprise procurement decisions are increasingly sticky: companies that have built workflows around a given model provider tend to stay, particularly once they've invested in fine-tuning, agent pipelines, and compliance certifications.
 
-Google's strongest cards in this environment are its pricing strategy (historically more aggressive than OpenAI and Anthropic at the Pro tier), its native integration with Google Workspace (which gives it immediate enterprise distribution to millions of business users), and the 2M context window that remains technically differentiated at production scale.
-
 ## The Week Ahead
 
 If Google ships Gemini 3.5 Pro this week — and Pichai's commitment makes a July slip politically costly — it lands in the same week as Microsoft Build 2026, competing for developer attention and press coverage with Microsoft's MAI model announcements and GitHub Copilot agent upgrades. Apple's WWDC follows the week after on June 8.
@@ -75,3 +74,5 @@ If Google ships Gemini 3.5 Pro this week — and Pichai's commitment makes a Jul
 For enterprise AI decision-makers, this week represents a genuine inflection point. The three biggest cloud AI platforms — Google, Microsoft, and (via Azure and its own APIs) OpenAI — are all presenting their strongest offerings within days of each other. The model tier that wins the next wave of enterprise contracts will be determined largely by what happens over the next three weeks.
 
 Google's bet is that Gemini 3.5 Pro is good enough to win a significant share of those decisions. June will tell.
+
+*Correction (November 15, 2026): 10 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "AlphaGo's Creator Raises $1.1B Seed Round to Pursue Superintelligence Th
 summary: "David Silver, the DeepMind researcher who built AlphaGo, AlphaZero, and AlphaProof, has raised a record $1.1 billion seed round for his new AI lab Ineffable Intelligence, valuing the months-old company at $5.1 billion. Backed by Sequoia, Lightspeed, Nvidia, and Google, the lab is betting that reinforcement learning — AI that learns purely from its own experience — is the path to superintelligence."
 category: "ai-ml"
 publishedAt: 2026-04-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -49,7 +50,7 @@ Ineffable Intelligence intends to extend this approach beyond games and into the
 
 The scale of the seed round reflects both the credibility of the founding team and the specific capital requirements of cutting-edge reinforcement learning research. RL training is computationally expensive in ways that differ from supervised learning: because the agent must generate its own training data through interaction, the compute requirements for sophisticated RL regimes at frontier scale are enormous. The $1.1 billion seed is, in significant part, a commitment to the infrastructure needed to run serious RL experiments at a scale competitive with the world's best-resourced AI labs.
 
-Silver's pedigree makes the investment decision easy to justify. With more than 300,000 academic citations to his name, he is one of the most cited researchers in the history of machine learning. His systems at DeepMind didn't just win games — they consistently solved problems that experts had believed were decades away from machine solution. AlphaGo's 2016 victory over world champion Lee Sedol was predicted by most AI researchers to be a decade away. AlphaProof's performance on International Mathematical Olympiad problems in 2024 was similarly ahead of schedule.
+Silver's pedigree makes the investment decision easy to justify. His academic citation count has reached 300,000, according to his Google Scholar profile and public information. His systems at DeepMind didn't just win games — they consistently solved problems that experts had believed were decades away from machine solution. AlphaGo's 2016 victory over world champion Lee Sedol was predicted by most AI researchers to be a decade away. AlphaProof's performance on International Mathematical Olympiad problems in 2024 was similarly ahead of schedule.
 
 The investor roster amplifies the signal. Sequoia and Lightspeed are the two most consistent backers of category-defining AI labs globally; their co-leadership of the seed is a strong endorsement of both the technical thesis and the go-to-market potential. Nvidia's participation carries its own significance: the chip giant does not typically join seed rounds without a view toward the training infrastructure requirements the company will create. Google's involvement, meanwhile, creates an interesting dynamic given Silver's decade at DeepMind — the company's former employer has a direct stake in the success of the approach it pioneered.
 
@@ -68,3 +69,5 @@ The $1.1 billion figure is officially the largest seed round in European history
 The UK's Sovereign AI Fund participation is particularly notable — a government-backed investment in a domestic AI lab pursuing superintelligence is a policy statement as much as a financial one. In the context of global AI competition, the British government is placing a direct bet that homegrown expertise in reinforcement learning may produce systems of strategic national importance.
 
 Silver has not specified a product roadmap or a commercialization timeline. The lab is, for now, in pure research mode — which is precisely what a $1.1 billion seed round is designed to protect. The only deliverable stated publicly is "first contact with superintelligence." Whether Ineffable Intelligence achieves that or not, the bet that reinforcement learning — the engine behind the most surprising AI breakthroughs of the last decade — still has its most consequential results ahead of it deserves to be taken seriously.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

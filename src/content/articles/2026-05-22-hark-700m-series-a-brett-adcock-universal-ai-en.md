@@ -3,6 +3,7 @@ title: "Hark Raises $700M at $6B Valuation to Build the 'Universal AI Interface'
 summary: "Brett Adcock—the serial entrepreneur behind robotics firm Figure AI and electric aircraft startup Archer—has raised $700 million in a Series A for Hark, his stealth AI lab building a personalized, multimodal AI platform and companion hardware. The round draws in chip giants Nvidia, Intel, Qualcomm, AMD, and ARK Invest, and positions Hark as one of the most well-funded AI hardware bets since the OpenAI-Microsoft mega-deal."
 category: "startups"
 publishedAt: 2026-05-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -39,15 +40,15 @@ The company is developing a full-stack AI system from scratch: foundation models
 
 The AI system Hark is developing is intended to be proactive rather than reactive. Rather than waiting for prompts, the platform is designed to surface relevant information, make suggestions, and take actions based on accumulated context about the user's life, preferences, and routines. It can process speech, vision, and text simultaneously.
 
-This summer, Hark expects to release its first multimodal AI models. These will initially power a software platform that integrates with existing services and devices—phones, computers, smart home systems. Hardware purpose-built for Hark's models is planned to follow, though the company has not disclosed specific form factors or a release timeline.
+This summer, Hark expects to release its first multimodal AI models. These will power a personal AI platform that works with existing products and services. Hardware purpose-built for Hark's models is planned to follow, though the company has not disclosed specific form factors or a release timeline.
 
 ## The Brett Adcock Pattern
 
-Adcock's track record makes the valuation less surprising than it might otherwise appear. He co-founded Vettery, a hiring marketplace that sold to Adecco for roughly $100 million in 2018. He founded Archer Aviation, an electric aircraft startup that went public via SPAC and became one of the more credible eVTOL manufacturers. He then founded Figure AI, a humanoid robotics company that raised $675 million from investors including Microsoft, Nvidia, and Jeff Bezos, and secured a manufacturing agreement with BMW.
+Adcock's track record makes the valuation less surprising than it might otherwise appear. He co-founded Vettery, a recruiting marketplace that was sold to Adecco for $100 million. He founded Archer Aviation, an electric aircraft maker that went public via SPAC in 2021. He then founded Figure AI, a humanoid robotics company that raised $675 million from investors including Microsoft, Nvidia, and Jeff Bezos, and secured a manufacturing agreement with BMW.
 
 The pattern is consistent: large capital raises, hardware ambitions, and silicon-level partnerships. Hark follows the same formula, but with a more software-centric starting point. Adcock's thesis is that hardware without models is inert, and models without the right hardware fail to deliver the experience users actually want. Building both simultaneously is expensive—hence the scale of the Series A—but also defensible in a way that software-only AI companies are not.
 
-The company has built its team to roughly 70 employees in under a year and secured computing infrastructure including a new Nvidia B200 data center for model training. The B200 is Nvidia's current flagship data center GPU, used primarily by the largest AI labs and hyperscalers. Its presence in Hark's stack signals that the company is training frontier-scale models, not adapting existing ones.
+The company has about 70 employees and runs a data center with Nvidia B200 GPUs for model training. The B200 is Nvidia's current flagship data center GPU, used primarily by the largest AI labs and hyperscalers. Its presence in Hark's stack signals that the company is training frontier-scale models, not adapting existing ones.
 
 ## The Personal AI Race
 
@@ -60,3 +61,5 @@ What distinguishes Hark's approach is the decision to own the full stack from mo
 The chip consortium backing the round suggests the semiconductor industry believes hardware-AI integration is the next frontier worth owning. Nvidia, Intel, AMD, and Qualcomm are not passive observers—they are betting that a new hardware category will emerge from the AI transition, and they want their silicon at the center of it.
 
 Whether Hark becomes the company to define that category remains to be seen. But Thursday's $700 million confirms it will at least get a serious attempt.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "ElevenLabs Music v2 Can Switch Genres Mid-Track — and It's All Licensed"
-summary: "ElevenLabs launched Music v2, an AI music model that can transition between genres in a single track, build songs section by section, and add non-musical sound effects. Unlike rivals Suno and Udio, it was trained entirely on licensed data, making every output commercially usable without sync fees or clearance delays."
+title: "ElevenLabs Music v2 Can Switch Genres Mid-Track and Is Built on Licensed Data"
+summary: "ElevenLabs launched Music v2, an AI music model that can transition between genres in a single track, build songs section by section, and add non-musical sound effects. The company says it is built on licensed data and cleared for commercial use, with no sync fees or clearance delays."
 category: "products"
 publishedAt: 2026-05-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -24,43 +25,37 @@ relatedSlugs:
   - "2026-05-13-elevenlabs-500m-series-d-voice-ai-en"
 ---
 
-ElevenLabs released Music v2 on May 27, 2026, and it does something no commercially deployable AI music model has done before: it can flow from opera to heavy metal within a single track, maintain rhythmic coherence through a fast rap verse, and drop in non-musical sound effects without losing the compositional thread. The model is built entirely on licensed music data, which means every output is cleared for commercial use without sync fees, clearance delays, or legal exposure.
+ElevenLabs released Music v2 in late May 2026, and it can flow from opera to heavy metal and back within a single track, sustain fast rap without losing coherence, and embed non-musical sound effects directly in the track. ElevenLabs says the model is built on licensed data and cleared for commercial use, with no sync fees or clearance delays.
 
-The timing of this release is not accidental. The AI music industry has spent the past year fighting copyright battles, with Suno and Udio both facing lawsuits from major labels over training data. ElevenLabs has quietly taken the opposite approach: negotiate licenses first, train second. Music v2 is the first large-scale demonstration of what that strategy yields.
+The timing of this release is not accidental. The AI music industry has been caught up in copyright disputes, with Suno and Udio both having faced court cases over copyright issues. ElevenLabs has emphasized a different approach, building on licensed data and noting recent licensing collaborations with Believe.
 
 ## What Music v2 Actually Does
 
-The headline capability — genre switching mid-track — is more technically significant than it might initially appear. Previous AI music models generated a single sonic texture and held it. Transitions between styles required users to stitch together separate generations, which introduced noticeable seams at the edit points.
+The headline capability — genre switching mid-track — is more technically significant than it might initially appear.
 
-Music v2 maintains a coherent underlying representation of the piece across style transitions. A track can open with classical strings, shift into a hip-hop arrangement with the same melodic material, then land in ambient electronic — and the harmonic continuity persists throughout. This is not a simple mixing effect; it reflects changes in the underlying model architecture that allow it to apply different stylistic constraints to the same generative trajectory.
+Music v2 can handle style changes within a single track without breaking musical coherence. A single song can move from opera to heavy metal and back without breaking musical coherence.
 
-A related capability is the sectional composition workflow. Instead of generating a complete track in a single pass, artists can now create individual sections — intro, verse, pre-chorus, chorus, bridge, outro — using different prompts and parameters for each. The sections can be independently regenerated without touching adjacent parts, then assembled into a complete song. This granular control transforms Music v2 from a one-shot generation tool into a structured composition environment.
+A related capability is the sectional composition workflow. Instead of generating short clips, artists can now build a song section by section, including the intro, verse, and chorus, and stitch the sections together. The sections can be independently regenerated without touching adjacent parts, then assembled into a complete song. This granular control transforms Music v2 from a one-shot generation tool into a structured composition environment.
 
-The model also now handles non-musical sound elements: natural ambience, crowd noise, machinery, weather — elements that make AI-generated tracks usable in advertising, game audio, and film temp tracks without requiring a separate sound design pass.
+The model can also embed non-musical sound effects directly within a track.
 
 ## The Licensing Difference
 
-The most commercially significant aspect of Music v2 is not its sonic capabilities — it is the legal clarity around its outputs. ElevenLabs trained the model exclusively on licensed music from rights holders who agreed to have their work used for this purpose. Every track generated by Music v2 is therefore cleared for commercial use: no sync licensing negotiations, no royalty-sharing agreements, no legal review before deployment.
+The most commercially significant aspect of Music v2 is not its sonic capabilities — it is the legal clarity around its outputs. ElevenLabs says the model is built on licensed data, in partnership with artists, labels, and publishers. ElevenLabs says tracks generated by Music v2 are cleared for commercial use, with no sync fees and no clearance delays.
 
-For the enterprise use cases ElevenLabs is targeting — marketing video soundtracks, product demo audio, game background music, branded content for social media — this is a meaningful operational advantage. The alternative, licensing commercial music through traditional channels, involves multi-week clearance timelines, per-use fees, and territorial restrictions that vary by jurisdiction. AI-generated music on licensed data collapses all of that to zero marginal cost per output.
+For the use cases ElevenCreative targets, such as ads, branded content, and video, this could be a meaningful operational advantage.
 
 The distinction matters at scale. A brand producing dozens of social videos per week cannot negotiate sync licenses for each one. A game studio building procedural audio for an infinite-content game cannot pre-clear a library large enough to cover every permutation. Music v2 directly addresses those use cases in a way that training-data-agnostic models cannot, because the legal exposure from uncertain provenance makes enterprise adoption impractical.
 
 ## ElevenLabs at $500M ARR
 
-The Music v2 launch arrives as ElevenLabs is reporting the fastest revenue growth in its history. The company finished 2025 with $350 million in annualized recurring revenue and crossed $500 million ARR within the first four months of 2026 — a 43% increase in four months. That trajectory puts it on pace to exceed $1 billion ARR by year's end, a milestone that would validate the company's bet that voice and audio AI are distinct commercial categories, not features absorbed by larger platform players.
-
-The company raised $500 million in a Series D round in February 2026, at an $11 billion valuation, with Sequoia Capital leading. The round also brought in new strategic investors including BlackRock, Wellington Management, and NVIDIA, along with celebrity backers Jamie Foxx and Eva Longoria — an investor mix that reflects both the institutional conviction in AI audio and the consumer crossover appeal of tools that enable creative production without technical training.
-
-ElevenLabs also recently crossed another milestone: more than $500 million in annualized revenue from its core voice AI products alone, before Music v2 is factored in. The voice generation business — cloning, text-to-speech, voice design for games and audiobooks — remains the larger revenue driver. Music is a new vertical that ElevenLabs is entering with an explicit intent to displace existing music licensing infrastructure.
-
 ## Competitive Context
 
-ElevenLabs enters the AI music space with a different strategy than its most prominent predecessors. Suno and Udio built technically impressive music generation systems but attracted copyright litigation from the Recording Industry Association of America for training on unlicensed material. Both companies are defending those suits as of mid-2026, with outcomes that remain uncertain.
+ElevenLabs enters the AI music space with a different strategy than its most prominent predecessors. Suno and Udio faced court cases over copyright issues.
 
-Stability AI has also released music generation capabilities, though with less commercial momentum than its image generation products. Google's MusicLM and Meta's MusicGen exist primarily as research artifacts rather than commercial products.
+Stability AI has also released a new music-generation model capable of longer and more complex tracks. At Google I/O, Google added the ability to create covers, edit songs by sections, and generate music videos using its Flow Music tool.
 
-Music v2 is currently available through two ElevenLabs consumer products: ElevenCreative, a platform for marketing and branding teams building audio assets, and ElevenMusic, the company's AI-generated music streaming and creation platform. API access — which is what enterprise developers and platform builders require — is described as "coming soon," with no specific date given.
+Music v2 is currently available through two ElevenLabs consumer products: ElevenCreative, a platform for marketing and branding teams building audio assets, and ElevenMusic, the company's AI-generated music streaming and creation platform. Availability on ElevenAPI, which enterprise developers and platform builders would need, is described as coming soon.
 
 The API availability gap is the current constraint on Music v2's enterprise reach. Until brands and developers can integrate the model directly into their production pipelines, the market impact will be limited to ElevenLabs' own surfaces. If API access launches at competitive pricing with the same licensed-data guarantee, Music v2 could become the default AI music infrastructure layer for commercial content production — the audio equivalent of what Midjourney became for AI imagery in 2023.
 
@@ -70,4 +65,6 @@ The music industry's relationship with AI generation is entering a more structur
 
 ElevenLabs' licensing strategy is the most direct implementation of that transactional model in the consumer-facing music generation market. It requires music companies to accept that AI training is a new form of rights usage with its own economic value, and for AI companies to accept that building on unlicensed data creates legal and reputational risks that undermine commercial deployment.
 
-For the creators and brands actually using these tools, the resolution of this institutional negotiation is less important than the practical question Music v2 answers: can I use this in my work without a lawyer's approval? For the first time in AI music generation, the answer is clearly yes.
+For the creators and brands actually using these tools, the resolution of this institutional negotiation is less important than the practical question Music v2 answers: can I use this in my work without a lawyer's approval? ElevenLabs says the answer is yes: the model is cleared for commercial use, though the industry is still testing whether rights holders accept such models as compliant.
+
+*Correction (November 15, 2026): 33 sentences were corrected or removed to match the sources listed on this page.*

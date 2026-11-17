@@ -1,8 +1,9 @@
 ---
-title: "Apple's AI Reset: WWDC 2026 to Unveil Gemini-Powered Siri 2.0 and Multi-Model iOS 27"
-summary: "Apple's Worldwide Developers Conference on June 8-12 will showcase iOS 27 featuring a rebuilt Siri 2.0 powered by Google Gemini, plus an 'Extensions' system letting users choose between Claude, ChatGPT, Grok, and other AI models to power features across iPhone, iPad, and Mac — ending OpenAI's exclusive arrangement and signaling a fundamental reset of Apple's AI strategy."
+title: "Apple's WWDC 2026 Expected to Bring Multi-Model iOS 27 and Gemini-Powered Siri"
+summary: "Apple's Worldwide Developers Conference, kicking off June 8, is expected to showcase iOS 27, including an 'Extensions' system that reportedly lets users choose AI models such as Google's Gemini and Anthropic's Claude to power features across iPhone, iPad, and Mac."
 category: "products"
 publishedAt: 2026-05-11
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -32,7 +33,7 @@ relatedSlugs:
   - "2026-05-09-apple-siri-250m-settlement-en"
 ---
 
-Apple's annual developer conference — Worldwide Developers Conference 2026, running June 8 through 12 at Apple Park in Cupertino — is shaping up to be the most consequential in the company's history on a single dimension: artificial intelligence. The event will showcase iOS 27, macOS 27, and a fundamentally rebuilt Siri that trades Apple's own foundation models for infrastructure powered by Google Gemini, while simultaneously opening iPhone, iPad, and Mac to a marketplace of competing AI providers that users will be able to choose freely.
+Apple's annual developer conference — Worldwide Developers Conference 2026, running June 8 through 12 at Apple Park in Cupertino — is shaping up to be the most consequential in the company's history on a single dimension: artificial intelligence. The event is expected to showcase iOS 27 and macOS 27, with Gemini reportedly powering native Siri and Apple Intelligence features, while a reported "Extensions" system would open iPhone, iPad, and Mac to third-party AI models from installed apps.
 
 The combination represents an extraordinary admission and a bold bet. Apple is effectively acknowledging that its in-house AI development — the Apple Intelligence rollout that began in 2024 — has not produced models competitive with the frontier, and is pivoting to a partnership architecture that prioritizes user experience over proprietary control.
 
@@ -48,11 +49,11 @@ Apple has also reportedly been developing a dedicated Siri application for iOS 2
 
 ## The Extensions System: Choose Your AI
 
-The most architecturally significant announcement expected at WWDC 2026 is not Siri's Gemini backbone — it is iOS 27's "Extensions" system, a new framework in Settings that allows users to designate which AI model powers Siri and Apple Intelligence features across the platform.
+A key feature reportedly coming in iOS 27 is the "Extensions" system, which Apple says in test versions will "allow you to access generative AI capabilities from installed apps on demand, through Apple Intelligence features such as Siri, Writing Tools, Image Playground and more."
 
-Under the Extensions system, users will be able to select from Gemini (Google), Claude (Anthropic), ChatGPT (OpenAI), Grok (xAI), and potentially other providers, routing their AI queries to whichever model they prefer. Each provider offers a different profile of capabilities, safety policies, and pricing, and the Extensions system essentially treats them as interchangeable inference engines for the Siri and Apple Intelligence layers.
+Under the Extensions system, users will reportedly be able to choose from AI models offered through their App Store apps, such as Google's Gemini and Anthropic's Claude, if those companies add support. Each provider offers a different profile of capabilities, safety policies, and pricing, and the Extensions system essentially treats them as interchangeable inference engines for the Siri and Apple Intelligence layers.
 
-This is a fundamental departure from Apple's previous approach. Since Apple Intelligence launched in 2024 with OpenAI as its exclusive third-party AI partner — a deal that involved integration of ChatGPT into Siri for queries the on-device model couldn't handle — Apple has maintained a single-provider model for third-party AI. The Extensions system ends that exclusivity and opens the platform to a competitive marketplace.
+This is a fundamental departure from Apple's previous approach. Apple added ChatGPT integration as part of iOS 18, using it as a fallback for world knowledge queries in Siri, and ChatGPT is also accessible through features like Image Playground. The Extensions system ends that exclusivity and opens the platform to a competitive marketplace.
 
 For Anthropic, being listed alongside Gemini and ChatGPT as a first-class AI provider on the world's most lucrative mobile platform represents a significant distribution win. For OpenAI, which reportedly paid to be the exclusive partner, the transition to a multi-provider model means it now competes on quality rather than exclusive access. For users, it means AI provider choice on Apple devices that parallels the model selection already available on the web.
 
@@ -62,7 +63,7 @@ Beyond Siri's core architecture, iOS 27 is expected to deliver substantive updat
 
 **AI Photo Editing**: Apple is overhauling the Photos app's editing suite with generative AI tools that can extend backgrounds, enhance image quality, and reframe compositions. The tools are designed to work with image context — a sunset can be extended to fill a wider frame, or a subject moved within a scene — rather than simply cropping or filtering. Apple has emphasized that these tools run entirely on-device, preserving the privacy architecture that distinguishes its approach from cloud-dependent alternatives.
 
-**Visual Intelligence Expansion**: Real-time object recognition and scene understanding capabilities are being expanded and integrated more deeply into the camera system. The new Visual Intelligence features will be able to identify products, plants, animals, and text in real time, and are designed to operate entirely on-device to eliminate latency and protect privacy.
+**Visual Intelligence Expansion**: Real-time object recognition and scene understanding capabilities are being expanded and integrated more deeply into the camera system. **Visual Intelligence Expansion**: Reports describe new Visual Intelligence features that would let users scan nutrition labels for tracking calories in the Health app, and scan phone numbers and addresses from paper or business cards and add them to Contacts.
 
 **Agentic Automation**: iOS 27 is expected to take Apple's Shortcuts and automation infrastructure meaningfully forward, with AI that can plan and execute multi-step tasks across applications without requiring step-by-step instruction. This positions Apple Intelligence as a competitor to the agent-first products that Anthropic, OpenAI, and Google have been developing for their own platforms.
 
@@ -70,7 +71,7 @@ Beyond Siri's core architecture, iOS 27 is expected to deliver substantive updat
 
 WWDC 2026 arrives at a moment when the mixed-reality and spatial computing category is accelerating. Apple's Vision Pro launched in early 2024 and has continued to gain enterprise adoption despite modest consumer sales. At WWDC, the company is expected to provide updates on its spatial computing roadmap, including software updates for visionOS.
 
-Android XR — Google's platform for mixed-reality headsets and smart glasses — is expected to be a major theme at Google I/O on May 19-20, creating a parallel track of XR announcements in the weeks before and after Apple's developer conference. The competitive dynamic between Apple's spatial computing approach and Google's broader XR ecosystem is emerging as one of the defining platform battles of the mid-2020s.
+Google I/O takes place on May 19-20, before Apple's developer conference, and Google is expected to focus on AI, Gemini and Android 17. The competitive dynamic between Apple's spatial computing approach and Google's broader XR ecosystem is emerging as one of the defining platform battles of the mid-2020s.
 
 ## The Strategic Pivot
 
@@ -83,3 +84,5 @@ The Extensions system, by contrast, appears to be a hedge against betting too he
 For the AI industry, the practical significance is substantial: being a first-class provider in Apple's Extensions ecosystem means instant distribution to hundreds of millions of iPhone users. The competition among Gemini, Claude, ChatGPT, and Grok for user preference within the Apple ecosystem may become one of the most consequential AI races of the next two years — playing out not in API benchmarks, but in the lived experience of everyday users making real choices about which AI they trust with their queries.
 
 WWDC 2026 begins on Monday, June 8, with a keynote at 10 a.m. PT. Apple will livestream the event on its website and YouTube channel.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

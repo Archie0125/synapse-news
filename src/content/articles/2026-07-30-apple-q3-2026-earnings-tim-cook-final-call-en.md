@@ -3,6 +3,7 @@ title: "Apple's $109B Quarter: Tim Cook Takes His Final Bow as CEO"
 summary: "Apple reports fiscal Q3 2026 earnings on July 30 in what will be Tim Cook's last earnings call as CEO. The quarter is expected to show $109 billion in revenue on iPhone 17 strength and Services momentum, capping a 15-year run that turned Apple into the world's most valuable company—and handing John Ternus an empire to steward."
 category: "industry"
 publishedAt: 2026-07-30
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -42,9 +43,9 @@ Wall Street consensus puts Q3 revenue at approximately $108.9 billion, up 16% fr
 
 For context, Apple has beaten consensus EPS estimates in each of its last four quarters, with an average surprise exceeding 7%. The bar is set meaningfully above the prior year, but Apple's execution has been reliably better than estimates for the past 18 months.
 
-The iPhone 17 family—which launched in September 2025 with hardware design updates and Apple Intelligence features—has continued to drive upgrade activity well into its second full quarter on shelves. Analysts point to a combination of factors: pent-up demand from a weaker iPhone 15 cycle, new first-time buyers in Southeast Asia and India, and Apple Intelligence pulling premium-tier buyers toward the highest-margin models. iPhone revenue is expected to approach $48 billion for the quarter.
+The iPhone 17 family—which launched in September 2025 with hardware design updates and Apple Intelligence features—has continued to drive upgrade activity well into its second full quarter on shelves. Analysts point to a combination of factors: pent-up demand from a weaker iPhone 15 cycle, new first-time buyers in Southeast Asia and India, and Apple Intelligence pulling premium-tier buyers toward the highest-margin models. iPhone revenue is expected to land near $53 billion for the quarter, with some estimates ranging from $53 billion to $55 billion.
 
-Services, Apple's fastest-growing and highest-margin segment, is projected to contribute approximately $26.5 billion—a 15% year-over-year gain—driven by subscriptions (Apple TV+, Apple One, iCloud+), App Store fees, and the expansion of Apple Pay and financial services. The segment's operating margins exceed 70%, making each incremental Services dollar far more valuable to shareholders than incremental hardware revenue.
+Services, Apple's high-margin growth engine, is expected to contribute around $31.4 billion, up from $27.4 billion a year earlier, or mid-teens percentage growth. The segment carries gross margins well above 70%, compared with roughly 35% for hardware, making each incremental Services dollar far more valuable to shareholders than incremental hardware revenue.
 
 ## The AI Calculus That Differentiates Apple
 
@@ -54,7 +55,7 @@ Rather than racing to build frontier AI models or operate massive GPU clusters, 
 
 The result is that Apple captures AI feature value—better autocomplete, image editing, summarization, personalized suggestions—without the recurring GPU electricity and capital costs that are currently compressing margins at its hyperscaler competitors. Gross margin guidance of 47.5–48.5% represents an expansion of roughly 150 basis points from a year ago, even as Apple deploys AI across its platform.
 
-"Apple's differentiated approach means customers benefit from AI features that are both powerful and deeply private, with the computational cost borne by Apple Silicon rather than rented infrastructure," Cook said at an event earlier this year. The market has rewarded this positioning: Apple stock has gained 25% year-to-date and recently reclaimed the title of the world's most valuable company from Nvidia.
+"Apple's differentiated approach means customers benefit from AI features that are both powerful and deeply private, with the computational cost borne by Apple Silicon rather than rented infrastructure," Cook said at an event earlier this year. The market has rewarded this positioning: Apple stock is up roughly 22.5% year-to-date, well ahead of the S&P 500's roughly 8.3% gain.
 
 ## China: The Variable That Always Matters
 
@@ -91,3 +92,5 @@ Beyond the headline numbers, analysts will be listening for:
 - **iPhone 18 cycle positioning**: How management discusses customer behavior heading into the fall launch window
 
 This may be Tim Cook's last earnings call as chief executive, but it will set the tone for the next chapter. The numbers are expected to be excellent. The harder read is what comes next.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

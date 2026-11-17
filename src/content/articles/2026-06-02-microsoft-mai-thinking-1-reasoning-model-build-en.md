@@ -3,6 +3,7 @@ title: "Microsoft Unveils MAI-Thinking-1 at Build 2026: A Reasoning Model Built 
 summary: "At Build 2026, Microsoft AI chief Mustafa Suleiman introduced MAI-Thinking-1, the company's first dedicated reasoning model—and crucially, one built without using model distillation from any other AI system. Paired with new image and transcription models, the announcement signals Microsoft's accelerating push to own the full AI stack and reduce dependence on OpenAI."
 category: "ai-ml"
 publishedAt: 2026-06-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -69,7 +70,7 @@ But the relationship has grown visibly complicated. OpenAI's $40 billion fundrai
 
 Against that backdrop, every MAI model Microsoft ships is a small act of strategic independence. The Copilot products that run on MAI models are products Microsoft controls end-to-end. The pricing, capabilities, and roadmap belong to Microsoft, not OpenAI.
 
-Suleiman, who joined Microsoft in 2023 after co-founding Inflection AI, has been the architect of this push. His Build 2026 stage time is a statement of organizational intent: Microsoft's AI ambitions are no longer simply a distribution channel for OpenAI's technology.
+Suleiman, who co-founded DeepMind and joined Microsoft in 2024, has been the architect of this push. His Build 2026 stage time is a statement of organizational intent: Microsoft's AI ambitions are no longer simply a distribution channel for OpenAI's technology.
 
 ## What Comes Next
 
@@ -78,3 +79,5 @@ The Copilot Super App, which Suleiman also previewed at Build, will serve as the
 For developers, Microsoft also announced updates to Azure AI Foundry that allow organizations to deploy MAI models alongside third-party models in unified inference pipelines, with fine-tuning and distillation tooling (the irony of offering distillation tools while bragging about not distilling your flagship reasoning model was not lost on observers in the room).
 
 The deeper story at Build 2026 is not any single model announcement. It is the emergence of Microsoft as a genuine full-stack AI lab: one that can train frontier-quality models, deploy them at hyperscale through Azure, surface them in consumer products through Copilot, and do all of this with or without OpenAI's participation. MAI-Thinking-1 is one piece of that architecture. The pace at which the rest of the pieces are clicking into place suggests Microsoft intends to have the whole structure standing before the end of the decade.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

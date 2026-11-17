@@ -3,6 +3,7 @@ title: "The $649 Billion Reckoning: Big Tech's AI Spending Goes on Trial This We
 summary: "Five of the Magnificent Seven — Microsoft, Alphabet, Meta, Amazon, and Apple — report Q1 2026 earnings this week. With a combined $649 billion in AI capex commitments for 2026, Wall Street is demanding proof that the greatest infrastructure buildout in corporate history is generating real returns."
 category: "industry"
 publishedAt: 2026-04-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -47,17 +48,17 @@ The shift in sentiment reflects both the scale of the spending and the maturatio
 
 ## Microsoft: Azure Growth Is Everything
 
-Microsoft reports after the bell on April 29, with Wall Street expecting earnings of approximately $4.04 per share on revenue of around $81.4 billion — representing roughly 17% and 16% year-over-year growth, respectively.
+Microsoft reports after the bell on April 29, with Wall Street expecting earnings of approximately $4.07 per share on revenue of around $81.4 billion — representing roughly 17.6% and 16.2% year-over-year growth, respectively.
 
 The number that matters most isn't EPS or total revenue. It's Azure. In Q2 fiscal 2026 (the October–December 2025 quarter), Microsoft guided for Azure constant-currency growth of approximately 37%. The question for the quarter ending March 2026 is whether that trajectory held.
 
-Azure's momentum has been genuine. The cloud division grew 40% in the prior quarter, driven heavily by AI workloads. Microsoft has been spending aggressively to meet demand — capital expenditures came in at nearly $35 billion in Q1 fiscal 2026, a 74% increase year-over-year, and the company has pledged to increase its total AI capacity by more than 80% over the course of the fiscal year.
+Revenue growth in Microsoft's cloud business appeared to have stalled in recent quarters, at +26%, +26% and +27% in the preceding three periods. Microsoft has been spending aggressively to meet demand — capital expenditures came in at nearly $35 billion in Q1 fiscal 2026, a 74% increase year-over-year, and the company has pledged to increase its total AI capacity by more than 80% over the course of the fiscal year.
 
 Analysts will also be listening closely for any update on Copilot monetization. Microsoft's suite of AI productivity tools — embedded in Office 365, Teams, and GitHub — represents the clearest path from GPU spending to enterprise software revenue. Early signals from enterprise customers have been positive, but the financial magnitude has yet to fully show up in segment breakdowns.
 
 ## Alphabet: Can Google Cloud Keep Its Streak Alive?
 
-Alphabet carries a consensus expectation of approximately $2.83 in adjusted earnings per share on revenue of roughly $107 billion — a year-over-year revenue increase of about 11%. More important than the headline numbers is the performance of Google Cloud, which surged 47.8% in Q4 2025, pushing the segment to a roughly $70 billion annual run rate.
+Alphabet is expected to have earned $2.64 per share on $92.2 billion in revenue — year-over-year changes of -6.1% and +20.6%, respectively. More important than the headline numbers is the performance of Google Cloud, which surged 47.8% in Q4 2025, pushing the segment to a roughly $70 billion annual run rate.
 
 Sustaining that kind of growth against a harder comparable will be the challenge. Analysts will also be watching Google's AI Overviews product — the AI-generated summaries that now appear at the top of most search results — for any signs of monetization improvement or, conversely, any evidence that the feature is eroding click-through rates to advertisers.
 
@@ -96,3 +97,5 @@ For the AI industry specifically, the week matters beyond individual company res
 The answer, almost certainly, lies somewhere in between. Azure, AWS, and Google Cloud are all growing at double-digit rates that most enterprise software companies would envy. Meta's ad business is producing demonstrable AI-driven returns. But at $649 billion in combined capex, the bar for "enough" keeps rising.
 
 Wall Street will have its verdict by Thursday morning.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "China's Moonshot AI Drops Kimi K3: The World's Largest Open-Weight Model at 2.8 Trillion Parameters"
-summary: "Moonshot AI has released Kimi K3, a 2.8-trillion-parameter open-weight Mixture-of-Experts model that rivals GPT-5.5 and Claude Opus 4.8, with a 1-million-token context window and full weights shipping July 27. It is the largest open-source AI model ever released, marking a major milestone for China's AI industry and the global open-source community."
+title: "China's Moonshot AI Unveils Kimi K3, Billed as the Largest Open-Weight Model"
+summary: "Moonshot AI has released Kimi K3, an open-weight model that the company says outperforms GPT-5.5 and Claude Opus 4.8 on some benchmarks. Fortune describes it as the largest open-weight large language model available today."
 category: "ai-ml"
 publishedAt: 2026-07-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,7 +30,7 @@ relatedSlugs:
 
 On July 16, 2026, Beijing-based Moonshot AI quietly reshuffled the global frontier AI leaderboard. The company released Kimi K3 — a 2.8-trillion-total-parameter open-weight Mixture-of-Experts model with a 1-million-token context window — and announced that the full model weights will be made publicly available on July 27 under a permissive open license. Independent benchmarks from Artificial Analysis place its performance squarely alongside OpenAI's GPT-5.5 and Anthropic's Claude Opus 4.8, particularly on complex multi-step reasoning and agentic workflows.
 
-For anyone tracking where the AI frontier actually lives, this is a landmark moment. No open-weight model has come close to this scale before, and no Chinese AI lab has ever shipped something that independent evaluators place in the same tier as the best American closed models.
+For anyone tracking where the AI frontier actually lives, this is a landmark moment. If Moonshot's performance claims hold, K3 would mark one of the clearest signs yet that Chinese developers can build open-weight systems in the same class as Anthropic's and OpenAI's.
 
 ## What Kimi K3 Actually Is
 
@@ -72,3 +73,5 @@ The US export control regime has, to date, restricted China's access to the high
 For Western AI labs, the immediate practical question is what Kimi K3 means for the open-weight competitive landscape when its weights are fully available on July 27. The answer is almost certainly: a significant acceleration of fine-tuning, distillation, and derivative model development, concentrated in the research and enterprise communities that most directly compete with closed-model providers.
 
 The model is available now via the Kimi API, and developers should expect a busy two weeks until the weights land.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

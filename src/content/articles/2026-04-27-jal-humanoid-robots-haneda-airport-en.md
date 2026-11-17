@@ -3,6 +3,7 @@ title: "Japan Airlines Deploys Humanoid Robots at Haneda Airport to Fight Ground
 summary: "Japan Airlines Ground Service and GMO AI & Robotics Trading are launching Japan's first humanoid robot trial at Haneda Airport in May 2026. Two robots — the Unitree G1 and UBTECH Walker E — will handle cargo transport and baggage loading as the aviation industry grapples with a chronic labor shortage that human hiring alone cannot solve."
 category: "hardware"
 publishedAt: 2026-04-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -58,7 +59,7 @@ In the Haneda trial, the two robots will handle complementary roles during the c
 
 The GMO Group company coordinating the trial, GMO AI & Robotics Trading, has positioned itself as Japan's principal humanoid robot systems integrator. The company operates what it calls a Humanoid Dispatch Service — essentially a robotics staffing agency model where it supplies humanoid robots on a contract basis rather than requiring customers to purchase and maintain the hardware themselves. Earlier this year, GMO AIR opened a physical AI research hub in Shibuya designed to develop and test the motion programming and AI training pipelines required for commercial humanoid deployment.
 
-GMO AIR's leadership has publicly designated 2026 as the "First Year of Humanoids" in Japan — a framing that places the Haneda trial in the context of a broader national transition rather than a single corporate experiment. The Haneda trial is, in that framing, the first commercial proof point in a rollout that the company expects to expand to other airports, rail stations, and logistics facilities in Japan over the next several years.
+The GMO Internet Group has declared 2026 its "First Year of Humanoids" — a framing that places the airport trial at the centre of the group's ambitions. The Haneda trial is, in that framing, the first commercial proof point in a rollout that the company expects to expand to other airports, rail stations, and logistics facilities in Japan over the next several years.
 
 JGS, which brings over seven decades of airport operations experience to the partnership, provides the operational domain expertise — the knowledge of exactly which tasks at exactly which points in the ground handling workflow are most suitable for robotic assistance, and which require human judgment and flexibility that current systems cannot replicate.
 
@@ -79,3 +80,5 @@ Japan Airlines is operating in an environment where ground handling staff turnov
 The broader question — how quickly humanoid robots will move from carefully supervised cargo handling to the full range of ground operations — will depend on what the trial data shows. But the fact that Japan Airlines, one of the world's oldest and most operationally conservative airlines, is running this experiment at its home airport signals that the age of the humanoid service worker is no longer a thought experiment. It has a start date.
 
 It's May 2026.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

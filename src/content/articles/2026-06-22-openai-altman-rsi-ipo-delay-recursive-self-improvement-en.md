@@ -3,6 +3,7 @@ title: "Sam Altman Says OpenAI Is Six Months From Recursive Self-Improvement —
 summary: "OpenAI CEO Sam Altman told staff the company may be less than six months from achieving recursive self-improvement, a capability where AI systems meaningfully accelerate their own development. Altman warned that if RSI accelerates, the company might benefit from remaining private — a signal that could push OpenAI's September IPO target further out even as GPT-5.6 enters its launch window this week."
 category: "ai-ml"
 publishedAt: 2026-06-22
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -49,7 +50,7 @@ Altman's framing was careful. He said OpenAI "may be less than six months" from 
 
 ## GPT-5.6 and the Alignment Fix
 
-The backdrop to Altman's RSI claim is GPT-5.6, which enters its primary launch window this week. Prediction market traders on Polymarket have assigned approximately 83% probability to a GPT-5.6 release between June 22 and June 28, with over $1.1 million in contract volume staked on the outcome. The model has been in stealth testing for select ChatGPT Pro users for weeks; developers have reported dramatically improved output quality and extended generation capability compared to GPT-5.5.
+The backdrop to Altman's RSI claim is GPT-5.6, which enters its primary launch window this week. Prediction market traders on Polymarket have assigned approximately 83% probability to a GPT-5.6 release between June 22 and June 28, with over $1.1 million in contract volume staked on the outcome. Developers this week reported sharper outputs and much longer generation times on some ChatGPT Pro accounts compared to GPT-5.5, which suggests the model may be running silently for a subset of Pro users, though OpenAI has confirmed nothing.
 
 GPT-5.6 is, by the accounts of OpenAI insiders, a qualitatively different kind of release than the iterative updates that have followed GPT-5. OpenAI chief scientist Jakub Pachocki circulated an internal message in June describing it as a "meaningful improvement" — language that carries weight given how rarely Pachocki makes such characterizations publicly.
 
@@ -76,3 +77,5 @@ The question of whether any of this constitutes RSI depends heavily on how you d
 Altman knows this. His language about being "less than six months" from RSI is almost certainly calibrated to the latter, softer definition, while allowing listeners to imagine the former. It is a statement that is technically defensible while being maximally dramatic.
 
 Whether GPT-5.6 releases this week or not, whether the IPO proceeds in September or slips to early 2027, the more important variable is whether the claim itself shapes how AI investment and regulation are approached for the rest of the year. If investors and regulators take the six-months-to-RSI claim seriously, it changes everything from compute procurement decisions to how urgently the EU accelerates its AI Act enforcement. That, more than any IPO timing, may be what Altman is actually playing for.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

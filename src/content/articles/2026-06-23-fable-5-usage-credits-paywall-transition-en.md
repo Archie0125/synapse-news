@@ -3,6 +3,7 @@ title: "Fable 5's Free Ride Ends: Anthropic Moves Its Most Powerful Public Model
 summary: "Starting June 23, Claude Fable 5 is no longer bundled into Pro, Max, Team, or Enterprise subscription plans. Access now requires usage credits billed at API rates of $10 per million input tokens and $50 per million output tokens — double Opus 4.8's cost. The 13-day free window was effectively shortened to 4-5 days by the US export control suspension, leaving subscribers frustrated and Anthropic silent on compensation."
 category: "ai-ml"
 publishedAt: 2026-06-23
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -47,7 +48,7 @@ Anthropic's public response has been minimal. Status page posts acknowledged the
 
 Fable 5 is the consumer-facing version of Anthropic's Mythos-class model family. The full Mythos 5 model remains behind a separate, higher access tier — described internally as approaching the limits of what current safety frameworks can reliably govern at scale. Fable 5 is a constrained variant designed for broad deployment, with a specific safety mechanism: in high-risk domains — cybersecurity, biology, chemistry, and model capability extraction — it falls back silently to Claude Opus 4.8 rather than responding with its full capability. According to Anthropic, this fallback triggers in fewer than 5% of real-world sessions.
 
-The performance that survives this constraint is still meaningfully better than anything previously available on subscription plans. Fable 5 scores **80.3% on SWE-bench Pro**, the repository-level software engineering benchmark, outperforming GPT-5.5 (74.1%) and Gemini 3.5 Pro (72.8%). On mathematical reasoning tasks, its margin over Opus 4.8 approaches 18 percentage points. On long-form synthesis and analysis — the use cases that drive the most time-per-session for knowledge workers — human evaluators consistently rate its outputs as more accurate and structurally nuanced.
+The performance that survives this constraint is still meaningfully better than anything previously available on subscription plans. Fable 5 scores **80.3% on SWE-bench Pro**, the repository-level software engineering benchmark, ahead of GPT-5.5 (58.6%) and Gemini 3.1 Pro (54.2%). On mathematical reasoning tasks, its margin over Opus 4.8 approaches 18 percentage points. On long-form synthesis and analysis — the use cases that drive the most time-per-session for knowledge workers — human evaluators consistently rate its outputs as more accurate and structurally nuanced.
 
 ## Why Anthropic Is Metering It
 
@@ -73,6 +74,8 @@ For existing subscribers, today's change requires no action — Fable 5 simply w
 
 For development teams that embedded Fable 5 in production workflows, the cost change is the primary operational issue. Teams running high-volume Fable 5 workloads — long-context document processing, intensive coding tasks, multi-turn reasoning chains — will need to model actual consumption against the new per-token rates before committing to continued use.
 
-Anthropic hasn't signaled when or whether Fable 5 returns to bundled plans permanently. The most likely trigger is the completion of its data center buildout — when Anthropic's own compute capacity can absorb frontier-model demand without the infrastructure bottleneck that currently makes metered pricing a necessity.
+Anthropic has said it plans to restore Fable 5 as a standard subscription feature as soon as possible, but has given no date. The most likely trigger is the completion of its data center buildout — when Anthropic's own compute capacity can absorb frontier-model demand without the infrastructure bottleneck that currently makes metered pricing a necessity.
 
 For now, Fable 5 is a premium. How much that premium costs you depends entirely on how you use it.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

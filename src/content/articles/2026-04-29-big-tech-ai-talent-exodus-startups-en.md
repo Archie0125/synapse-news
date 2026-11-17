@@ -3,6 +3,7 @@ title: "The Great AI Exodus: Why Top Researchers Are Leaving Google, Meta, and O
 summary: "A wave of senior AI researchers from Google DeepMind, Meta, and OpenAI are quitting to launch independent AI startups, raising billions at seed stage. In 2026 alone, VCs have funneled $18.8 billion into AI startups founded since 2025 — a trend reshaping who controls the frontier of AI research."
 category: "startups"
 publishedAt: 2026-04-29
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -32,13 +33,13 @@ relatedSlugs:
 
 Something significant is happening inside the most valuable AI laboratories in the world: the people who built them are leaving.
 
-Over the past six months, a steady stream of senior researchers from Google DeepMind, Meta AI, and OpenAI have walked out to launch their own independent AI startups — and the venture capital community has responded with a level of financial enthusiasm that would have seemed implausible even two years ago. We are witnessing what may be the largest voluntary redistribution of AI research talent in the industry's short history, driven by a collision between institutional commercial pressure and researchers' desire to pursue genuinely exploratory work.
+Over the past year, former staff from Google DeepMind, Meta, OpenAI, Anthropic and xAI have left to launch their own AI startups, and investors have responded by pouring in hundreds of millions, and in some cases billions, of dollars within months of the companies' founding. We are witnessing what may be the largest voluntary redistribution of AI research talent in the industry's short history, driven by a collision between institutional commercial pressure and researchers' desire to pursue genuinely exploratory work.
 
 ## The Numbers Are Staggering
 
 Venture capitalists have funneled $18.8 billion into AI startups founded since January 2025, putting 2026 on pace to eclipse the $27.9 billion raised by the prior cohort of companies launched since 2024. These are not incremental improvements. They represent a structural shift in where frontier AI research happens.
 
-The individual fundraising records have become almost routine at this point. In the past week alone, former Google DeepMind researcher David Silver — the architect of AlphaGo and AlphaZero — announced a $1.1 billion seed round for his months-old startup Ineffable Intelligence, which is pursuing superintelligence research outside the constraints of Google's increasingly commercialized DeepMind. It set a record as the largest seed round in startup history, held for approximately ten days before Tim Rocktäschel, another ex-DeepMind researcher, was reportedly in advanced talks to raise up to $1 billion for his startup Recursive Superintelligence.
+The individual fundraising records have become almost routine at this point. On Monday, former Google DeepMind researcher David Silver announced a $1.1 billion seed round for his months-old startup Ineffable Intelligence, which is pursuing superintelligence. It was described as a record $1.1 billion seed round, and Tim Rocktäschel, another former DeepMind employee, is reportedly raising up to $1 billion for his startup Recursive Superintelligence.
 
 Earlier in the year, AMI Labs — founded by Yann LeCun after he departed his role as Meta's Chief AI Scientist — secured a $1 billion raise in March. Periodic Labs, built by a team of former OpenAI and DeepMind researchers, closed a $300 million round in late 2025.
 
@@ -56,7 +57,7 @@ The reasons, repeated across interview after interview with departing researcher
 
 What are these departing researchers actually building? The portfolio breaks into rough categories.
 
-The largest cohort is pursuing what might broadly be called **next-generation foundation model research** — similar in ambition to OpenAI circa 2016 but with significantly more capital and a clearer-eyed sense that beating GPT-5 on standard benchmarks is not the goal. Ineffable Intelligence and Recursive Superintelligence are both focused on self-improving AI systems and meta-learning — architectural approaches that could, in principle, produce systems capable of autonomous scientific research. Their founders are explicit that they left specifically because those research directions were deprioritized inside their former employers.
+The largest cohort is pursuing what might broadly be called **next-generation foundation model research** — similar in ambition to OpenAI circa 2016 but with significantly more capital and a clearer-eyed sense that beating GPT-5 on standard benchmarks is not the goal. Ineffable Intelligence will focus on reinforcement learning, in which AI models learn from experience rather than from human data, unlike many leading models trained on internet text. Their founders are explicit that they left specifically because those research directions were deprioritized inside their former employers.
 
 A second cohort is building **domain-specific AI** with deep domain expertise: startups applying frontier research to drug discovery, materials science, climate modeling, and financial systems. These companies tend to raise less at seed but attract both strategic and financial investors who can see a clear path to revenue.
 
@@ -77,3 +78,5 @@ The venture capitalists writing these enormous checks are, in effect, betting on
 Q1 2026 saw $297 billion in total global venture funding, with AI startups absorbing $242 billion — 81% of all VC dollars. Four deals alone (OpenAI's $122 billion, Anthropic's $30 billion, xAI's $20 billion, Waymo's $16 billion) exceeded all of 2024's global venture funding combined. The money is now so concentrated in AI that "venture capital" and "AI funding" are, in 2026, largely synonymous.
 
 Whether the startups being built today by Silver, Rocktäschel, LeCun, and their contemporaries produce the next major AI breakthrough — or whether the institutional scale of Google, Meta, and OpenAI ultimately wins — is the defining competitive question of the decade. What is no longer in question is that the talent to answer it is leaving the building.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "Apple's Gemini-Powered Siri Arrives in iOS 26.4 — But the Full Upgrade Is Still Months Away"
-summary: "iOS 26.4 is rolling out with the first phase of Apple's $1 billion-per-year Google Gemini integration, bringing on-screen awareness, contextual understanding, and email summarization to Siri. But the transformational conversational AI Apple promised when it announced the partnership in January has been split across multiple OS updates, with full Phase 2 capabilities pushed to iOS 26.5 in May and iOS 27 in September — frustrating early adopters and raising questions about Apple's AI execution."
+title: "Apple's Gemini-Powered Siri Features Are Not in iOS 26.4, and It Is Unclear When They Will Arrive"
+summary: "The new Siri features from Apple's Google Gemini partnership are not in iOS 26.4. Apple has reportedly shifted its target to iOS 26.5 and iOS 27, and it is not yet known which features will arrive in which release."
 category: "products"
 publishedAt: 2026-04-11T09:00:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,27 +34,19 @@ relatedSlugs:
 
 For five years, Apple's most consistent AI story was an embarrassing one: Siri, the world's most distributed voice assistant by installed base, was consistently outclassed by competitors with a fraction of Apple's resources. Last January's announcement that Apple had partnered with Google to replace the AI engine behind Siri with a custom version of Gemini — at a reported cost of $1 billion per year — was the company's clearest acknowledgment yet that building a competitive large language model in-house had been a strategic failure.
 
-iOS 26.4, now rolling out to devices worldwide, delivers the first tangible results of that partnership. But if you were expecting Siri to feel fundamentally different overnight, the reality is more complicated — and in some ways, more honest about the difficulty of rebuilding a decade-old voice assistant from the inside.
+iOS 26.4 turned out to be feature-packed, but the new Siri features from that partnership are not in it. But if you were expecting Siri to feel fundamentally different overnight, the reality is more complicated — and in some ways, more honest about the difficulty of rebuilding a decade-old voice assistant from the inside.
 
 ## What's Actually in iOS 26.4
 
-The Phase 1 Siri upgrade in iOS 26.4 centers on four capabilities that mark a genuine departure from the previous generation of Siri's functionality:
-
-**On-screen awareness** allows Siri to see and understand whatever is currently displayed on an iPhone or iPad screen, and to reason about it contextually. Ask Siri to "add this event to my calendar" while looking at a restaurant website and it will parse the address, phone number, and hours and pre-populate the calendar entry without requiring any additional input. This was technically possible in limited scenarios with previous Siri versions, but the Gemini integration makes it fluid and reliable across a much broader range of UI contexts.
-
-**Contextual understanding** extends Siri's memory across a conversation session. The new Siri can maintain the thread of a multi-turn exchange, refer back to earlier statements without the user restating them, and resolve pronouns and references that the old Siri would have treated as isolated commands. "Find that restaurant we talked about" now actually works.
-
-**Email summarization and drafting** puts Gemini's language capabilities directly into Apple Mail, offering concise summaries of long email threads and intelligent reply drafting that understands the sender, the context of the conversation, and the user's past communication patterns with that contact.
-
-**Basic cross-app actions** let Siri execute simple task chains that cross application boundaries — booking a ride to a location mentioned in a message, creating a note from a recipe on a website, or adding a product seen in Photos to a shopping list. These are the building blocks of the agentic Siri experience that Apple has been describing since the original Apple Intelligence announcement in 2024.
+These are the building blocks of the agentic Siri experience that Apple has been describing since the original Apple Intelligence announcement in 2024.
 
 ## The Gap Between Promise and Delivery
 
 The frustration is not that iOS 26.4 is bad — the Phase 1 features represent a real and meaningful improvement over the Siri that preceded them. The frustration is the distance between what Apple announced in January and what is actually shipping now.
 
-The January 12 announcement, framed as a joint statement from Apple and Google, described a "completely reimagined Siri" powered by Gemini that would deliver a "more personalized" experience, with Gemini's conversational capabilities running through Apple's Private Cloud Compute infrastructure to maintain "Apple's industry-leading privacy standards." The custom Gemini model at the center of the deal is reportedly eight times larger than Apple's existing cloud AI models — a 1.2 trillion parameter system purpose-built for Apple's specific requirements.
+The January 12 announcement, framed as a joint statement from Apple and Google, said the next generation of Apple Foundation Models would be based on Gemini models and cloud technology, helping power future Apple Intelligence features, including a more personalized Siri coming this year, while maintaining "Apple's industry-leading privacy standards."" The custom Gemini model at the center of the deal is reportedly eight times larger than Apple's existing cloud AI models — a 1.2 trillion parameter system purpose-built for Apple's specific requirements.
 
-What iOS 26.4 delivers is Phase 1 of a planned two-phase rollout. According to multiple reports, the more profound conversational AI — the kind that can genuinely reason across all of a user's data, understand long-horizon requests, and respond with the fluency that Gemini demonstrates in Google's own products — has been pushed to iOS 26.5 (expected in May) for partial delivery and iOS 27 (September) for the full experience. The reason most frequently cited is integration complexity: routing Gemini's inference through Apple's Private Cloud Compute architecture, while maintaining the privacy guarantees Apple has committed to, required more engineering work than the original timeline anticipated.
+The new Siri features are not part of iOS 26.4. According to Bloomberg's Mark Gurman, Apple would instead target iOS 26.5 and iOS 27 for the new Siri features, though it is not yet known which features will make which release. The reason most frequently cited is integration complexity: routing Gemini's inference through Apple's Private Cloud Compute architecture, while maintaining the privacy guarantees Apple has committed to, required more engineering work than the original timeline anticipated.
 
 ## The Privacy Architecture Challenge
 
@@ -72,3 +65,5 @@ The $1 billion annual payment to Google is an extraordinary commitment — large
 Early adopters who have installed iOS 26.4 describe the Phase 1 Siri improvements as "noticeably better, not transformationally better" — a verdict that is probably fair. The real test will come in September, when iOS 27 ships with the full Phase 2 capabilities. If Apple delivers on what it promised in January, the narrative shifts from "Apple's AI embarrassment continues" to "Apple solved the privacy problem no one else attempted." If Phase 2 slips again, the $1 billion annual Gemini deal will look like an expensive acknowledgment of a competitive deficit that Apple still cannot close on its own timeline.
 
 The history of Apple product cycles suggests that first-generation shipping is rarely the full story. But its users have been waiting for a Siri upgrade for years. Their patience, like the Phase 2 rollout, has a deadline.
+
+*Correction (November 15, 2026): 15 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "Four Months Old, $4 Billion: Recursive Superintelligence Raises $500M to Automate AI Research"
-summary: "A London-based startup co-founded by ex-DeepMind and OpenAI researchers has raised $500 million from Google's GV and Nvidia at a $4 billion valuation just four months after incorporation. Recursive Superintelligence aims to build AI systems that improve themselves without any human in the loop — across evaluation, training, and research direction itself."
+summary: "A London-based startup co-founded by ex-DeepMind and OpenAI researchers has raised $500 million from Google's GV and Nvidia at a $4 billion pre-money valuation just four months after incorporation. Recursive Superintelligence aims to build AI systems that improve themselves without constant human intervention, automating evaluation, training, and research direction."
 category: "startups"
 publishedAt: 2026-04-21
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -29,15 +30,15 @@ relatedSlugs:
   - "2026-04-17-claude-opus-47-release-en"
 ---
 
-The venture capital industry has seen some audacious bets in the AI era, but Recursive Superintelligence may have just redefined the category. A four-month-old London-incorporated startup with roughly 20 employees has raised at least $500 million at a $4 billion valuation from Google's GV and Nvidia — with the round reportedly so oversubscribed that the total could ultimately reach $1 billion. The company has never shipped a public product. It has not published a single research paper under its own name. And yet two of the most sophisticated institutional investors in the technology sector wrote checks that value it at more than most publicly traded software companies.
+The venture capital industry has seen some audacious bets in the AI era, but Recursive Superintelligence may have just redefined the category. A four-month-old London-incorporated startup with roughly 20 employees has raised at least $500 million at a $4 billion pre-money valuation from Google's GV and Nvidia — with the round reportedly so oversubscribed that the total could ultimately reach $1 billion. The company has never shipped a public product. It has not published a single research paper under its own name. And yet two of the most sophisticated institutional investors in the technology sector wrote checks that value it at more than most publicly traded software companies.
 
-The reason is the audacity of the bet itself: Recursive Superintelligence intends to build AI systems that can autonomously run the entire frontier AI research and development pipeline, removing human researchers from every stage of the loop.
+The reason is the audacity of the bet itself: Recursive Superintelligence intends to automate the entire frontier AI research and development pipeline, building AI systems that can improve themselves without constant human intervention.
 
 ## A Dream Team Assembled from the Top of the Field
 
-Recursive Superintelligence was incorporated on December 31, 2025, making it one of the youngest companies ever to raise at this valuation. Its founding lineup reads like a curriculum vitae drawn from the most elite corners of modern AI research.
+Recursive Superintelligence was incorporated on December 31, 2025, and was valued at $4 billion pre-money about four months later. Its founding lineup reads like a curriculum vitae drawn from the most elite corners of modern AI research. Its founding lineup reads like a curriculum vitae drawn from the most elite corners of modern AI research.
 
-Richard Socher, the company's lead co-founder, rose to prominence as one of the key architects of neural network approaches to natural language understanding, including Stanford's GloVe word embeddings and early transformer-adjacent architectures. He subsequently served as chief scientist at Salesforce, where he built one of the largest enterprise NLP organizations outside of Big Tech. Tim Rocktäschel brings a different pedigree: a UCL professor with deep expertise in emergent reasoning and reinforcement learning, he served until recently as a director and principal scientist at Google DeepMind, one of only a handful of researchers to hold both an elite academic position and a senior role at a frontier lab simultaneously.
+Richard Socher, the company's lead co-founder, rose to prominence as one of the key architects of neural network approaches to natural language understanding, including Stanford's GloVe word embeddings and early transformer-adjacent architectures. He subsequently served as Chief Scientist and Executive Vice President at Salesforce, where he led both fundamental and applied AI research teams. Tim Rocktäschel brings a different pedigree: a UCL professor with deep expertise in emergent reasoning and reinforcement learning, he served until recently as a director and principal scientist at Google DeepMind, one of only a handful of researchers to hold both an elite academic position and a senior role at a frontier lab simultaneously.
 
 Rounding out the founding team are Josh Tobin, Jeff Clune, and Tim Shi — each with significant tenures at OpenAI, the lab that has defined much of the current era of large language model development. Clune, in particular, is known for foundational work on open-ended learning and evolutionary algorithms that is directly relevant to the self-improvement thesis Recursive Superintelligence is pursuing.
 
@@ -51,7 +52,7 @@ In practice, the system would be expected to identify its own weaknesses through
 
 "The goal is to compress what would take human researchers years into weeks or months," according to descriptions of the company's pitch shared with multiple outlets. The founding team argues that the bottleneck in frontier AI development is no longer raw compute or architectural insight, but the bandwidth of the human researchers who must make countless micro-decisions throughout the training lifecycle. Automate those decisions, the argument goes, and the pace of AI improvement could accelerate dramatically.
 
-This idea — often called "AI scientists" or "recursive self-improvement" — has circulated in theoretical AI safety and capabilities research for more than a decade. What Recursive Superintelligence is betting on is that 2026 represents the inflection point at which the compute, the base models, and the tooling have matured enough to make this an engineering problem rather than a philosophical aspiration.
+The idea of recursive self-improvement has long occupied a central position in theoretical discussions of artificial intelligence. What Recursive Superintelligence is betting on is that 2026 represents the inflection point at which the compute, the base models, and the tooling have matured enough to make this an engineering problem rather than a philosophical aspiration.
 
 ## Why Google's GV and Nvidia Bet Big
 
@@ -74,3 +75,5 @@ This ambition collides directly with the central preoccupation of AI safety rese
 Socher indicated in an April interview that the company's public launch would come roughly one month later, placing it around mid-May 2026. The initial product is expected to be an enterprise or research-facing platform — not a consumer chatbot — designed to function as an autonomous research assistant alongside existing AI development teams.
 
 With half a billion dollars and a founding team that collectively helped build the models the company now aims to surpass, Recursive Superintelligence arrives with every resource it needs to test its thesis. Whether AI can truly run the AI research lab — and whether that would be a triumph or a warning sign — is a question the industry will be watching closely come May.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

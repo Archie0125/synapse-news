@@ -3,6 +3,7 @@ title: "微軟推出七款自研 MAI 模型，首款推理 AI 宣示脫離 OpenA
 summary: "微軟在 Build 2026 發表七款全自研 AI 模型，旗艦之作 MAI-Thinking-1 是公司首款推理模型，從零訓練、不依賴 OpenAI 或 Anthropic 的模型權重；另一款 MAI-Code-1-Flash 則深度整合至 GitHub Copilot。此舉標誌著微軟向 AI 自主之路邁出最關鍵的一步。"
 category: "developer-tools"
 publishedAt: 2026-07-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -41,7 +42,7 @@ relatedSlugs:
 
 在基準測試表現上，MAI-Thinking-1 達到當前市場的「中階」水準。微軟聲稱它在盲測人類偏好評估中優於 Anthropic 的 Claude Sonnet 4.6，並在 SWE-Bench Pro coding 任務中比肩 Claude Opus 4.6——這是相當有參考性的對標，因為 Sonnet 4.6 在 2025 至 2026 年間是企業部署最廣泛的模型之一。
 
-模型配備 12.8 萬 Token 的上下文視窗，目前透過 Microsoft Foundry 開放私人預覽，完整上線時程尚未公布。
+模型配備 25.6 萬 Token 的上下文視窗。
 
 ## MAI-Code-1-Flash：嵌入 GitHub Copilot 的新引擎
 
@@ -73,7 +74,7 @@ Frontier Tuning 使微軟能夠提供一個 Anthropic 和 OpenAI 目前都無法
 
 ## 競爭態勢
 
-AI coding 市場已成為企業軟體中競爭最激烈的類別，原因在於它既高價值又具黏性——開發者一旦圍繞特定 AI coding 助手建立工作流程整合，若沒有充分理由就不會輕易轉換。
+AI coding 市場已成為競爭激烈的類別，原因在於它的價值極高。不過，coding 工具的使用者經常同時試用多種選項，廠商鎖定的程度非常低。
 
 目前 Anthropic 在純模型能力上以 Claude Code 和 Fable 5 領跑；OpenAI 的 Codex 透過既有 GitHub Copilot 整合廣泛部署；Google 在悄悄提升 Gemini 的 coding 表現——Gemini 3.1 Pro 在六月的評測中躍升 6 分；DeepMind 研究人員也在持續推進程式碼生成的前沿。
 
@@ -90,3 +91,5 @@ AI coding 市場已成為企業軟體中競爭最激烈的類別，原因在於�
 - **企業 AI 團隊**在評估微調選項時，應認真審視 Microsoft Frontier Tuning。若 10 倍效率宣稱在其特定領域成立，對高頻特定任務部署而言，這是相當有說服力的單位經濟故事。
 
 MAI 的發布並非宣告微軟拋棄 OpenAI——兩家公司在基礎設施層面仍深度綑綁，Azure 依然是 OpenAI 自身工作負載的獨家雲端。但這是一個明確訊號：微軟正在建立選擇權，按自己的時間表、以自己的技術逐步降低依賴。在 AI 競賽中，這種戰略靈活性的價值，遠超任何單一的基準分數。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 3 處。*

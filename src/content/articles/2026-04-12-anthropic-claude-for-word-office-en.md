@@ -3,6 +3,7 @@ title: "Anthropic Brings Claude Into Microsoft Word With a Native Sidebar That R
 summary: "Anthropic has launched Claude for Word in public beta, a native add-in that embeds Claude directly into Microsoft Word as a persistent sidebar for Team and Enterprise customers. The integration supports drafting, editing, and structural revisions with all AI-generated changes surfaced as native tracked changes — and connects to Claude for Excel and PowerPoint so a single conversation can span all three open documents simultaneously."
 category: "products"
 publishedAt: 2026-04-12T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -58,7 +59,7 @@ There is also a data handling argument. Anthropic's enterprise agreements includ
 
 ## Microsoft Foundry and the Dual-Vendor Strategy
 
-Separately, Anthropic also announced full availability of Claude in Microsoft Foundry — Microsoft's enterprise AI platform for building custom applications on top of Azure. Through Foundry, developers can access Claude via serverless deployment using Python, TypeScript, and C# SDKs with Microsoft Entra authentication, enabling organizations to build internal tools that combine Claude's capabilities with their existing Microsoft infrastructure.
+Separately, Anthropic has made Claude available in public preview in Microsoft Foundry, Microsoft's enterprise AI platform for building custom applications on top of Azure. Through Foundry, developers can access Claude via serverless deployment using Python, TypeScript, and C# SDKs with Microsoft Entra authentication, enabling organizations to build internal tools that combine Claude's capabilities with their existing Microsoft infrastructure.
 
 The Foundry availability signals something structurally interesting: Microsoft is comfortable hosting a competitor's AI model on its own cloud platform, and Anthropic is comfortable distributing through Microsoft's ecosystem. The arrangement is similar to how Microsoft distributes multiple AI models — from Meta, Mistral, and others — through Azure AI without requiring exclusivity. For enterprises locked into Azure or Microsoft 365 agreements, the ability to run Claude through Foundry without managing separate API credentials or infrastructure represents a meaningful reduction in deployment friction.
 
@@ -66,6 +67,8 @@ This dual-vendor dynamic — where Microsoft and Anthropic are simultaneously co
 
 ## Access and Availability
 
-Claude for Word in public beta is currently available to subscribers on the Claude Team and Enterprise plans. The add-in can be installed through Microsoft AppSource or deployed centrally by IT administrators via the Microsoft 365 admin center. Mac and Windows are both supported. Access through the Claude Pro consumer plan is not yet available, though Anthropic has indicated it will expand availability later in 2026.
+Claude for Word in public beta is currently available to subscribers on the Claude Team and Enterprise plans. The add-in can be installed through Microsoft AppSource or deployed centrally by IT administrators via the Microsoft 365 admin center. Mac and Windows are both supported. One source says access is currently gated to Team and Enterprise subscribers, with broader plan access expected in upcoming rollout phases, while another says availability is tied to paid Claude plans, including Pro and Max.
 
 The full integration across Word, Excel, and PowerPoint marks a significant milestone: for the first time, enterprise users can operate the same AI model across their entire document workflow, from spreadsheet analysis through presentation preparation to written report, within a single continuous conversation context. Whether that proves more valuable than Microsoft's tighter native Copilot integration will be one of the more closely watched enterprise software battles of the year.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

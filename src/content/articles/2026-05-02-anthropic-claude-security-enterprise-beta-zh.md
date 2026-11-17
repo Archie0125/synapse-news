@@ -1,8 +1,9 @@
 ---
-title: "Anthropic 推出 Claude Security 公開測試版，聯手 CrowdStrike 等六大資安巨頭"
-summary: "Anthropic 正式將 Claude Security 開放給企業客戶公開測試，這款 AI 工具能像資深資安工程師一樣推理整個程式碼庫，自動發現漏洞並生成修補程式。此次發布背後有 CrowdStrike、Palo Alto Networks 等六大資安平台合作，標誌著 Anthropic 正式進軍企業資安市場——一個因 AI 生成程式碼爆炸性成長而誕生的全新戰場。"
+title: "Anthropic 推出 Claude Security 公開測試版，CrowdStrike 等夥伴整合 Opus 4.7"
+summary: "Anthropic 正式將 Claude Security 開放給 Claude Enterprise 客戶公開測試，這款 AI 工具能像資深資安工程師一樣推理整個程式碼庫，發現漏洞並生成修補程式。CrowdStrike、Palo Alto Networks 等合作夥伴正將 Opus 4.7 整合進各自的資安平台。"
 category: "products"
 publishedAt: 2026-05-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: true
@@ -32,17 +33,17 @@ relatedSlugs:
 
 ## 從研究預覽到企業產品
 
-Claude Security 並非全新問世。Anthropic 最早在 2026 年 2 月以「Claude Code Security」為名，以限量研究預覽的形式提供給少數企業開發者試用。此次公開測試代表著重要的規模躍升：所有 Claude Enterprise 方案的企業現在都可以申請使用，Anthropic 表示將在未來數週內逐步擴大開放範圍。
+Claude Security 並非全新問世。Anthropic 最早在 2 月以「Claude Code Security」為名，以研究預覽的形式推出。此次公開測試代表著重要的規模躍升：所有 Claude Enterprise 方案的企業現在都可以申請使用，Anthropic 表示將在未來數週內逐步擴大開放範圍。
 
 產品的核心定位很清楚：Claude Security 的目標是發現傳統靜態分析工具看不到的東西。一般的漏洞掃描器是透過比對已知的漏洞特徵來運作——找 SQL 注入的樣板、緩衝區溢位的模式，或已知的 CVE。但 Claude Security 的做法不同，它像一位資深資安工程師一樣，對整個程式碼庫進行推理：跨檔案追蹤資料流向、檢查各元件在執行時的互動方式，最後綜合出一張攻擊者如何把多個低嚴重性問題串連成重大漏洞路徑的完整圖像。
 
 在任何發現結果送到分析師面前之前，模型會為自己的推理過程賦予一個可信度評分，等於是在自我稽核。Anthropic 表示，這個過濾步驟是讓系統在企業規模下真正可用的關鍵——目標是打造一個資安團隊真正信賴的工具，而不是一個把警報通知塞爆的噪音機器。
 
-## 六大合作夥伴加持，CrowdStrike 另組行業聯盟
+## CrowdStrike 等夥伴整合 Opus 4.7，CrowdStrike 並推出行業聯盟
 
-這次合作夥伴陣容的公布，或許是整個發布中最具策略意義的部分。Anthropic 簽下了與 CrowdStrike、Microsoft Security、Palo Alto Networks、SentinelOne、TrendAI 以及 Wiz 的整合合作。每一家都將 Anthropic 的旗艦模型 Claude Opus 4.7 直接嵌入自家既有的資安平台。
+這次合作夥伴陣容的公布，或許是整個發布中最具策略意義的部分。CrowdStrike、Microsoft Security、Palo Alto Networks、SentinelOne、TrendAI 以及 Wiz 正將 Opus 4.7 的能力整合進各自的資安平台。每一家都將 Claude Opus 4.7 整合進企業原本就在使用的資安平台。
 
-CrowdStrike 的合作關係更進一步超越了一般的功能整合。就在 Claude Security 公告的同時，CrowdStrike 宣布啟動 **Project QuiltWorks**——一個由它主導召集的行業聯盟，專門應對該公司所稱的「AI 漏洞浪潮」。這個聯盟同時引入 Anthropic 與 OpenAI 的前沿模型，其宣示的使命是建立共用工具和最佳實踐，持續發現並修補 AI 生成程式碼帶來的安全漏洞。
+CrowdStrike 的合作關係更進一步超越了一般的功能整合。CrowdStrike 同一天也宣布了自家的 Opus 4.7 整合，並在近期公布 **Project QuiltWorks**——一個旨在推動 AI 就緒與安全採用 AI 的行業聯盟。
 
 這背後的語境意涵值得深思。CrowdStrike 不只是在 Falcon 平台上加一個新功能——它在把自己定位成一個全新子產業的核心，而這個子產業的存在，完全是因為 AI 程式碼工具改變了軟體開發的經濟邏輯。CrowdStrike 執行長 George Kurtz 稱 AI 生成的程式碼是「十年來企業攻擊面最大規模的擴張」，直接承認了企業為了提升開發速度而採用的那些工具，同時也在以傳統方法追不上的速度製造技術安全負債。
 
@@ -73,3 +74,5 @@ Claude Security 的發布是 Anthropic 有意識地擴展企業產品矩陣的�
 更深層的問題在於：AI 驅動的資安工具，能否跟上 AI 驅動的威脅的腳步？CrowdStrike 的 Project QuiltWorks 已隱含地承認這是一場軍備競賽——幫助開發者更快寫程式碼的同一批模型，同樣可以幫助攻擊者更快找到並利用那些程式碼中的漏洞。從本質上說，Claude Security 就是 Anthropic 表態要站在這場競賽正確那一側的宣言。
 
 對於正在努力消化自身 AI 輔助開發工作流程所帶來資安隱憂的企業而言，公開測試在此時此刻落地，既是一種解脫，也是對這片地基已變化多快的一份清醒認知。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 8 處。*

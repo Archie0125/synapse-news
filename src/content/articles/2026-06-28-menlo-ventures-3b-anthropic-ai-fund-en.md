@@ -1,8 +1,9 @@
 ---
 title: "After Betting the Firm on Anthropic, Menlo Ventures Raises a Victorious $3B Fund"
-summary: "Menlo Ventures has closed its largest fund in 50 years — a $3 billion raise — powered by a prescient early bet on Anthropic that has turned a $750 million investment into a $14 billion stake. The fund signals how frontier AI returns are reshaping Silicon Valley's venture capital landscape."
+summary: "Menlo Ventures has raised $3 billion, its largest raise in 50 years, driven in large part by a early bet on Anthropic, a stake now worth about $14 billion according to Bloomberg sources. The raise is spread across two funds."
 category: "startups"
 publishedAt: 2026-06-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -33,13 +34,13 @@ Back in 2024, Menlo Ventures managing partner Shawn Carolan led a more-than-$500
 
 The math has since become Silicon Valley legend. Menlo structured much of the deal — roughly $500 million — through a special purpose vehicle (SPV) that pooled capital from multiple limited partners into a single Anthropic position. Subsequent follow-on investments across Anthropic's Series E and F rounds deepened the position further.
 
-As of June 2026, Menlo's total Anthropic stake is valued at approximately **$14 billion**, according to Bloomberg sources. Anthropic itself now carries a valuation north of $965 billion after a funding round that briefly pushed it past OpenAI as the highest-valued frontier AI lab in the world.
+As of June 2026, Menlo's total Anthropic stake is valued at approximately **$14 billion**, according to Bloomberg sources. Anthropic itself now carries a $965 billion valuation, after last month overtaking OpenAI as the top-valued frontier lab in the world.
 
 ## The Fund Structure
 
 The $3 billion close is split across two vehicles designed to cover the full spectrum of AI investing:
 
-- **Menlo Ventures XVII** — the firm's flagship fund, targeting seed and Series A rounds. This is where Menlo hunts for the next Anthropic: early-stage companies building AI infrastructure, applications, or novel capabilities that could compound over a decade.
+- **Menlo Ventures XVII** — earmarked for seed and Series A startups. This is where Menlo hunts for the next Anthropic: early-stage companies building AI infrastructure, applications, or novel capabilities that could compound over a decade.
 - **Menlo Inflection IV** — a growth-stage fund for companies already at Series B and beyond, providing capital to companies scaling rapidly but still needing runway to reach profitability or an exit.
 
 Together, the two funds allow Menlo to participate across the AI investment lifecycle — from a founder's first deck to a company's pre-IPO round — without handing off relationships to a separate firm.
@@ -48,7 +49,7 @@ Together, the two funds allow Menlo to participate across the AI investment life
 
 The Anthropic bet didn't just generate financial returns. It also seeded an entirely new investment engine.
 
-In 2024, Menlo and Anthropic co-launched **Anthology**, a joint $100 million startup fund designed to back companies building on Claude and Anthropic's developer ecosystem. By mid-2026, Anthology has grown into roughly $250 million in deployed capital and now supports over 60 portfolio companies. The companies receive not just capital but strategic access: credits for Claude API usage, introductions to Anthropic leadership, and preferential insight into Anthropic's product roadmap.
+In 2024, Menlo launched **Anthology** with Anthropic, a $100 million startup fund. The fund has since grown to capital deployed to date of closer to $250 million and has backed 60+ companies. The companies receive not just capital but support such as access to Anthropic leaders and credits for Claude.
 
 Early returns have already materialized. **Graphite**, an Anthology portfolio company, was acquired by Cursor. **Astrix Security** was acquired by Cisco. The acquisitions demonstrate that Anthropic's growing commercial influence is creating real exit pathways for the companies building on top of it — a virtuous cycle that makes Menlo's access both financial and strategic.
 
@@ -79,3 +80,5 @@ When Carolan made the Series D bet in 2024, Anthropic was a well-regarded safety
 That trajectory didn't just return Menlo's fund. It rewrote what a VC firm can accomplish by picking the right frontier AI company early — and it has put the entire industry on notice that the next trillion-dollar AI lab is already taking checks from someone.
 
 Menlo, with $3 billion newly in hand, is betting it will be them again.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

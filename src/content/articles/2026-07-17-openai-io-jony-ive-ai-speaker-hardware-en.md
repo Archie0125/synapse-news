@@ -3,6 +3,7 @@ title: "OpenAI's First Hardware Is a Screenless, Moving AI Speaker — and It Wa
 summary: "Bloomberg and Fortune have revealed that OpenAI's debut consumer hardware product — the first from its $6.5B acquisition of Jony Ive's io design studio — is a portable, screenless AI speaker with a camera, moving mechanical parts, and GPT-Live always-on voice. The device is slated to debut this year and ship in 2027 at an estimated $200–$300."
 category: "products"
 publishedAt: 2026-07-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,9 +28,9 @@ relatedSlugs:
   - "2026-07-01-openai-codex-micro-work-louder-hardware-en"
 ---
 
-When OpenAI paid approximately $6.5 billion to acquire Jony Ive's io design studio earlier this year, the question everyone asked was: what are they building? On July 14, 2026, Bloomberg provided the first detailed answer. The company's first consumer hardware product is a portable, screenless AI speaker — one designed not merely to respond to questions, but to feel like a living companion in the home.
+When OpenAI paid approximately $6.5 billion to acquire Jony Ive's io design studio last year, the question everyone asked was: what are they building? On July 14, 2026, Bloomberg provided the first detailed answer. The company's first consumer hardware product is a portable, screenless AI speaker — one designed not merely to respond to questions, but to feel like a living companion in the home.
 
-The device, developed by io alongside LoveFrom — Ive's broader design studio — represents OpenAI's most ambitious consumer bet since it reshaped the AI market with ChatGPT in 2022. It also lands in the middle of one of the company's most contentious legal battles: Apple filed suit against OpenAI on July 11 claiming trade secret theft connected to the systematic recruitment of Apple's hardware engineering talent, including many of the exact people now working on this device.
+The device, developed by io alongside LoveFrom — Ive's broader design studio — represents OpenAI's most ambitious consumer bet since it reshaped the AI market with ChatGPT in 2022. It also lands in the middle of one of the company's most contentious legal battles: Apple sued OpenAI on July 10 for trade secret theft, accusing it of a campaign to obtain confidential information about Apple's future products.
 
 ## What the Device Actually Is
 
@@ -39,19 +40,19 @@ Beyond its mechanical personality, the speaker's core capabilities are built aro
 
 The hardware specification includes a camera array, environmental sensors, and a rechargeable battery that lets users carry the device between rooms — a deliberate contrast with the always-plugged-in model of current home speakers. Evans Hankey, who served as Apple's head of industrial design before joining OpenAI's io division, is leading hardware development of the speaker.
 
-The device will connect to the full range of ChatGPT capabilities and is designed to control smart home appliances, play media, manage messages, and conduct extended multi-turn reasoning conversations. At a reported price range of $200 to $300, OpenAI is positioning it below the premium end of the existing smart speaker market while well above the commodity tier.
+The device will connect to the full range of ChatGPT capabilities and is designed to control smart home appliances, play media, manage messages, and conduct extended multi-turn reasoning conversations.
 
 ## The io Acquisition in Context
 
-The $6.5 billion acquisition of io earlier this year was one of the most scrutinized deals in recent memory, partly because of Ive's celebrity in design circles but primarily because it represented OpenAI betting that the next phase of AI adoption would happen through purpose-built physical objects rather than apps running on existing platforms.
+OpenAI bought Ive's design studio io for $6.5 billion last year and announced a partnership with him to bring an AI-first device to fruition.
 
-The speaker is the first product to emerge publicly from that bet. But reporting suggests it is one of approximately five hardware products currently in development at io and OpenAI's expanded hardware division. The pipeline reportedly includes a portable AI device designed to replace the smartphone, a wearable pendant, and home robotics platforms. OpenAI's hardware ambitions, in other words, are not a single product experiment but a multi-year platform strategy targeting most of the surfaces where people currently interact with technology.
+The speaker is the first product to emerge publicly from that bet. But reporting suggests it is one of approximately five hardware products currently in development at io and OpenAI's expanded hardware division. Further out, OpenAI wants a mobile device capable of replacing the smartphone, has explored wearables including a pendant, and has shown interest in home robotics. OpenAI's hardware ambitions, in other words, are not a single product experiment but a multi-year platform strategy targeting most of the surfaces where people currently interact with technology.
 
 Ive's specific contribution to the speaker's design appears centered on its form language — the choice to make a device that moves rather than sits still, and to strip away the screen that has become a reflex design decision for consumer electronics. The LoveFrom philosophy under which Ive has operated since leaving Apple in 2019 emphasizes restraint: objects that do fewer things but do them in ways that feel emotionally resonant.
 
 ## The Apple Lawsuit Shadow
 
-The speaker's development cannot be discussed without acknowledging the legal cloud above it. Apple's lawsuit, filed in Northern California federal court on July 11, alleges that OpenAI engaged in a coordinated campaign to extract confidential technology by recruiting more than 400 former Apple employees — many from the chip design, on-device AI, and industrial design teams that worked on the same product categories OpenAI is now entering.
+The speaker's development cannot be discussed without acknowledging the legal cloud above it. Apple's lawsuit, filed in Northern California federal court on July 10, alleges that OpenAI engaged in a campaign to obtain confidential information about Apple's future products, and the complaint counts more than 400 Apple staff who have since moved to OpenAI.
 
 The legal theory is that hiring at that scale and pace could not have been incidental: Apple argues it constitutes deliberate trade secret misappropriation. OpenAI has denied the allegations, but the optics of a device designed by former Apple industrial design leaders, using AI architectures developed partly by former Apple silicon engineers, arriving just weeks after the suit was filed, are unavoidable.
 
@@ -71,4 +72,6 @@ Amazon's Alexa has dominated the smart speaker market for nearly a decade, but i
 
 OpenAI's entry — assuming the device ships to the specification that's been described — represents the first time a frontier AI model lab has brought its best conversational technology directly to a consumer hardware product. Every previous smart speaker shipped with AI capabilities that were good enough for simple commands but broke down on complex, multi-turn reasoning. GPT-Live running on dedicated hardware, without the latency overhead of a phone, is a categorically different proposition.
 
-OpenAI plans to unveil the device publicly before the end of 2026, with general availability targeted for 2027. The hardware timeline remains the most fragile element of the story: io acquired fewer than six months ago, the Apple litigation unresolved, and a 2027 launch still eight-plus months away. But the intent is now clear: OpenAI wants to own the AI presence in the home, not just the AI on the phone.
+OpenAI plans to unveil the device publicly before the end of 2026, with general availability targeted for 2027. The hardware timeline remains the most fragile element of the story: the Apple litigation is unresolved, and a 2027 launch is still months away. But the intent is now clear: OpenAI wants to own the AI presence in the home, not just the AI on the phone.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

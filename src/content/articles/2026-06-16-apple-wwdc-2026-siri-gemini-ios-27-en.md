@@ -1,8 +1,9 @@
 ---
 title: "Apple Pays Google $1B/Year to Run Siri: Inside WWDC 2026's Defining Moment"
-summary: "At WWDC 2026, Apple unveiled a completely rebuilt Siri powered by Google Gemini's 1.2-trillion-parameter model, paying approximately $1 billion per year for the partnership. iOS 27 brings a three-tier AI routing architecture, multi-chatbot extensions including Claude and ChatGPT, and drops device support for iPhone 11. Tim Cook delivered his final WWDC keynote before transitioning to executive chairman."
+summary: "At WWDC 2026, Apple unveiled a rebuilt Siri powered by a custom Google Gemini model, reportedly around 1.2 trillion parameters, at a reported cost of about $1 billion per year. iOS 27 brings a three-tier AI routing architecture and is expected to drop support for iPhone 11, while an Extensions framework for third-party chatbots sits in the beta but was not announced. Tim Cook delivered his final WWDC keynote before transitioning to executive chairman."
 category: "products"
 publishedAt: 2026-06-16
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -34,7 +35,7 @@ relatedSlugs:
 
 On June 8, 2026, Tim Cook took the stage at Apple Park for what would be his final WWDC keynote as CEO. What he announced marked a historic break from the company's foundational strategy: Apple, the company that pioneered the principle of owning the full stack from silicon to software, is now paying Google approximately $1 billion per year to power its AI assistant.
 
-The new Siri is not incrementally improved. It has been rebuilt from scratch, running on a custom version of Google Gemini with a reported 1.2 trillion parameters. It is the most significant third-party infrastructure decision Apple has made in a generation — and a frank admission from Tim Cook's team that the company could not build competitive cloud AI at scale on its own.
+The new Siri is not incrementally improved. It has been rebuilt, with its heaviest queries running on a custom version of Google Gemini with a reported 1.2 trillion parameters. It is the most significant third-party infrastructure decision Apple has made in a generation — and a frank admission from Tim Cook's team that the company could not build competitive cloud AI at scale on its own.
 
 ## The Architecture Behind the New Siri
 
@@ -50,25 +51,25 @@ The new Siri features a standalone chatbot-style app with full text input suppor
 
 ## Claude and ChatGPT Join the Ecosystem — Quietly
 
-Apple's iOS 27 beta contains an Extensions framework that allows users to route Siri queries to Claude, ChatGPT, and other third-party AI providers via gesture controls. When an outside model handles a request, it responds in a distinct voice from Apple's system, so users know which AI is answering.
+Apple's iOS 27 developer beta contains underlying support for an Extensions framework that would let users swap between ChatGPT, Claude and Gemini inside Siri, though its settings panel and App Store section are reportedly toggled off. Bloomberg has reported that iOS 27 will let users hear a different voice for Siri responses powered by external models than for Apple's own system.
 
-Notably, this Extensions system was absent from the June 8 keynote itself. Apple demoed the new Gemini-powered Siri extensively but made no mention of Claude or ChatGPT on stage. The feature surfaced in the developer beta documentation that went live immediately after the keynote — a quiet launch that has drawn speculation about whether Apple is still finalizing the commercial arrangements with Anthropic and OpenAI, or whether it wanted to avoid attention on the feature in a keynote focused on the Gemini partnership.
+Notably, this Extensions system was absent from the June 8 keynote itself. Apple demoed the new Gemini-powered Siri extensively but made no mention of Claude or ChatGPT on stage. The feature surfaced in the iOS 27 developer beta code rather than at the keynote, and Apple has not publicly confirmed whether Extensions will ship with iOS 27 this fall.
 
-The architecture represents a meaningful shift for Anthropic and OpenAI. Claude and ChatGPT being accessible inside Siri — even as secondary options — gives those models a distribution channel of over a billion active iPhone users. Whether users will actually invoke these alternatives in meaningful numbers, or whether the default Gemini-powered experience will capture the vast majority of queries, is an open question.
+The architecture represents a meaningful shift for Anthropic and OpenAI. If Extensions ships, Claude and ChatGPT being accessible inside Siri would give those models a distribution channel to a very large base of active Apple devices. Whether users will actually invoke these alternatives in meaningful numbers, or whether the default Gemini-powered experience will capture the vast majority of queries, is an open question.
 
 ## iOS 27: What Changes for Users
 
 All Apple operating systems jumped to version 27 with this release: iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, tvOS 27, and visionOS 27. The version number itself is a statement — Apple aligning all its platforms to a common numeral echoes the software coherence push that began with the 2019 catalyst program.
 
-For iPhone users, iOS 27 runs on iPhone 12 and newer. iPhone 11 loses software update support, affecting tens of millions of users who will need to upgrade to continue receiving security patches. The new Gemini-powered Siri and full Apple Intelligence feature set require iPhone 15 Pro or newer — a hardware segmentation that sets a clear incentive structure for upgrading.
+For iPhone users, iOS 27 is expected to run on iPhone 12 and newer. iPhone 11 is expected to lose support, so owners may need to upgrade; Apple's official compatibility list should confirm this. The new Gemini-powered Siri and Apple Intelligence features require iPhone 15 Pro or newer — a hardware segmentation that sets a clear incentive structure for upgrading.
 
 Notable iOS 27 features beyond the AI overhaul include redesigned CarPlay support for automotive OEM integration, an upgraded Apple Maps with Flyover visual enhancements, perimenopause and menopause tracking added to the Health app, and system-wide performance optimizations that Apple is promising will make iPhone 12-era hardware feel significantly faster despite running newer software.
 
-Developer betas went live immediately after the keynote. Public betas are expected in mid-July. The full public release is scheduled for September 2026, alongside what the rumor mill is positioning as a significant iPhone 17 Pro hardware refresh.
+Developer betas went live immediately after the keynote. Public betas are expected in mid-July. The full public release is scheduled for September 2026, alongside the iPhone 18 lineup.
 
 ## Tim Cook's Last Dance
 
-WWDC 2026 was Tim Cook's fifteenth as CEO and, by Apple's own account, his final keynote in that role. Cook has been signaling his transition to executive chairman for several quarters, with succession planning reported to be centered on Chief Operating Officer Sabih Khan or a rotation of senior vice presidents depending on the strategic priorities of the moment.
+WWDC 2026 was Tim Cook's fifteenth as CEO and, by Apple's own account, his final keynote in that role. Cook is set to transition to executive chairman, handing the chief executive role to John Ternus.
 
 The Gemini deal is Cook's parting gift and, in a sense, his most honest acknowledgment of where the AI race stands. After years of arguing that Apple's vertical integration — building its own chips, its own frameworks, its own AI models — was a structural advantage, Cook is departing having admitted that cloud AI is one area where building alone is not enough.
 
@@ -76,8 +77,10 @@ The $1 billion annual payment to Google is not just a line item. It is a strateg
 
 ## What This Means for the AI Landscape
 
-Apple's Gemini integration shifts the competitive dynamics of the foundation model market. Google now has two of the world's most valuable distribution relationships: its own search and assistant surfaces, and Apple's billion-plus user base. For OpenAI, which had previously secured the ChatGPT integration with Apple Intelligence announced at WWDC 2024, the new architecture represents a demotion — ChatGPT remains available through Extensions, but Gemini is now the default for the new Siri's most sophisticated queries.
+Apple's Gemini integration shifts the competitive dynamics of the foundation model market. Google now has two of the world's most valuable distribution relationships: its own search and assistant surfaces, and Apple's billion-plus user base.
 
-For developers, iOS 27 opens up new integration paths through the Extensions framework. Apps that have built on Claude, ChatGPT, or other models could potentially surface inside Siri with the right entitlements — though the technical details of that pathway remain to be worked out through the beta period.
+For developers, the Extensions framework in the iOS 27 beta points to possible new integration paths, though Apple has not confirmed it will ship. Apple has held discussions with OpenAI, Anthropic and Google about granting entitlements for the framework, according to Bloomberg.
 
 For users, the new Siri is materially more capable than anything Apple has shipped before. Whether that capability justifies the privacy implications of Google's cloud handling a subset of your most complex queries is a personal calculus. Apple has spent years building the argument that you shouldn't have to make that tradeoff. With iOS 27, the company has quietly decided that, at least for the most demanding tasks, you will.
+
+*Correction (November 15, 2026): 14 sentences were corrected or removed to match the sources listed on this page.*

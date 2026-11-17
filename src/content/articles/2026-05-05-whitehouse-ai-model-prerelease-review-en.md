@@ -1,8 +1,9 @@
 ---
-title: "Trump White House Eyes Mandatory Pre-Release Reviews for AI Models in Major Policy Reversal"
-summary: "The Trump administration is weighing an executive order that would establish a government working group to vet AI models before public release, a historic reversal after rescinding Biden's AI safety rules in January 2025. The shift was triggered by Anthropic's Mythos model — a cybersecurity AI already deployed by the NSA that the company refused to release publicly due to its offensive capabilities."
+title: "Trump White House Weighs Government Review of AI Models Before Release in Major Policy Shift"
+summary: "The Trump administration is weighing an executive order that would establish a working group to examine oversight procedures, including a formal government review of new AI models before public release. The shift appears to be triggered by Anthropic's Mythos model, which the company declined to release publicly because of its power at finding software vulnerabilities."
 category: "policy"
 publishedAt: 2026-05-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,9 +34,9 @@ In January 2025, one of Donald Trump's first acts upon returning to the White Ho
 
 Sixteen months later, the Trump administration is considering doing the opposite.
 
-Senior White House officials have held meetings with representatives from Anthropic, Google, and OpenAI in recent weeks to discuss plans for a new executive order that would insert the federal government directly into the AI model release process, according to reporting by the New York Times confirmed by multiple outlets. The proposal, still in discussion and not finalized, would establish a working group of technology executives and government officials to review new AI models before they reach the public — a gate that no American AI lab has ever been required to pass through.
+The White House briefed representatives from Anthropic, Google, and OpenAI in meetings last week on plans for a new executive order that could insert the federal government into the AI model release process, according to reporting by the New York Times. The proposal, still in discussion and not finalized, would establish a working group of technology executives and government officials to review new AI models before they reach the public — a gate that no American AI lab has ever been required to pass through.
 
-A White House official told reporters Monday that reports of the potential order should be treated as "speculation" and that any policy announcement would come directly from the president. But the mere fact that briefings occurred — and that all three frontier AI labs were in the room — signals a meaningful shift in the administration's posture toward AI oversight.
+A White House spokesperson told The Information that the reports were "speculation" and that any policy announcement would come directly from the president. But the mere fact that briefings occurred — and that all three frontier AI labs were in the room — signals a meaningful shift in the administration's posture toward AI oversight.
 
 ## The Catalyst: Anthropic's Undisclosed Cybersecurity Model
 
@@ -49,7 +50,7 @@ The episode exposed a regulatory vacuum. Under current law, no federal agency ha
 
 Details remain sparse and contested, but the executive order under consideration would reportedly create a formal working group with membership drawn from both private-sector technical experts and government agencies including the NSA, CISA, and the newly formed AI Safety Institute. The group would establish criteria for which models require review — almost certainly keyed to capability thresholds rather than covering all AI development — and set a review timeline that labs would need to meet before public deployment.
 
-This is structurally similar to, though narrower than, the Biden administration's requirement that labs share test results with the government for frontier models above a certain compute threshold. The key distinction under the Trump proposal is discretion: the working group would have the ability to delay or condition a release, not merely receive information about it.
+This is structurally similar to, though narrower than, the Biden administration's requirement that labs share test results with the government for frontier models above a certain compute threshold. Some officials are reportedly pushing for a review system that would give the government first access to new models without blocking their release.
 
 Whether that distinction constitutes overreach or common sense depends heavily on who is being asked. Representatives of OpenAI and Google reportedly engaged constructively in the White House briefings, according to people familiar with the conversations. Anthropic, whose Mythos situation is the most directly relevant, has publicly supported some form of government coordination on model releases, consistent with its safety-focused founding mission.
 
@@ -76,3 +77,5 @@ The White House has not committed to a timeline for a final decision. Congressio
 For the three frontier labs, the practical implication is to prepare compliance infrastructure for the possibility that pre-release review becomes a legal requirement, even while the outcome remains uncertain. Those conversations are reportedly already happening internally at all three companies.
 
 The broader tech industry, which has largely been shielded from ex-ante regulatory requirements, is watching closely. If the administration moves forward with mandatory AI model review, it will establish a precedent for how the world's most consequential technology is governed — one that other nations will likely use as a reference point for their own frameworks.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

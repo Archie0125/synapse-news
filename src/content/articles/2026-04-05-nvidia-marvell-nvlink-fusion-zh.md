@@ -3,6 +3,7 @@ title: "Nvidia 砸 20 億入股 Marvell：NVLink 互連網路才是真正護城�
 summary: "Nvidia 宣布以 20 億美元入股 Marvell Technology，並推出 NVLink Fusion 平台，讓第三方客製 AI 加速器能直接接入 Nvidia 的高速互連架構。此舉揭示 Nvidia 的策略轉向：未來的主導地位或許不在 GPU 壟斷，而在掌控整個業界的網路層。"
 category: "hardware"
 publishedAt: 2026-04-05T10:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: true
@@ -34,7 +35,7 @@ relatedSlugs:
 
 具體運作方式如下：Marvell 提供超大規模雲端業者（Google、Amazon、Microsoft）的客製 AI ASIC 設計（XPU）及 NVLink 相容的擴展網路矽片；Nvidia 提供 Vera CPU、ConnectX NIC、BlueField DPU 及 NVLink 交換架構。在 NVLink Fusion 框架下，Marvell 的運算晶片與 Nvidia 的網路暨 CPU 元件原生互通，大幅降低雲端業者的工程整合負擔，實現比現有任何開放標準都更緊密的系統整合。
 
-消息公布後，Marvell 股價單日飆升 11 至 13%，逼近 52 週高點。
+消息公布後，Marvell 股價飆升近 13%。
 
 ## 為何重要：客製晶片的威脅
 
@@ -69,3 +70,5 @@ Marvell 夥伴關係正是這一策略的概念驗證。Marvell 與四大超大�
 AMD 近期積極推廣 MI300X 於企業 AI 推論市場，並宣布延伸 Infinity Fabric 以競爭 NVLink 的擴展頻寬。AMD 能否與網路矽片廠商達成類似合作，或者 NVLink Fusion 的先行優勢已難以追趕，將是 2026 至 2027 年硬體領域最值得關注的競爭態勢。
 
 對台灣 AI 基礎設施開發者與採購團隊而言，近期訊號明確：Nvidia 生態系正在擴大覆蓋面。即使未來的叢集採用客製晶片作為運算核心，如今已有一條清晰路徑，讓這些晶片運行在 Nvidia 品牌的網路架構之上。這將改變採購對話、廠商談判，以及整個業界的長期架構規劃。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 1 處。*

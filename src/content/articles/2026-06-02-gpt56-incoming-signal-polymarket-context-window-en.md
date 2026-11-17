@@ -1,8 +1,9 @@
 ---
 title: "GPT-5.6 Is Leaking Out of OpenAI's Own Logs — and Prediction Markets Are 85% Sure It Drops This Month"
-summary: "Codex backend log traces referencing a 'gpt-5.6' model identifier, three internal codenames, and developer reports of a 1.5-million-token context window have convinced prediction markets there is an 85%+ probability of a GPT-5.6 release before June 30. The signals point to multiple model variants, a major context upgrade, and a new UltraFast tier for Codex — arriving into the most competitive frontier AI summer on record."
+summary: "Codex backend log traces referencing a 'gpt-5.6' model identifier, two internal codenames, and developer reports of a context window of up to 1.5 million tokens have pushed prediction markets to an 80-89% probability of a GPT-5.6 release before June 30. The signals point to possible multiple model variants, a major context upgrade, and a new UltraFast mode for Codex."
 category: "ai-ml"
 publishedAt: 2026-06-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -36,7 +37,7 @@ As of June 2, OpenAI has made no official statement about a model by that design
 
 The Codex log entry was the first indicator, but it wasn't the last. Security and API researchers who track OpenAI's infrastructure spotted additional signals over the following weeks:
 
-**Three internal codenames** have been identified: iris-alpha (likely the flagship variant), ember-alpha (possibly an Instant or Fast counterpart), and beacon-alpha (possibly a specialized vertical variant). The existence of three codenames suggests GPT-5.6 is not a single model but a family, consistent with OpenAI's pattern since GPT-5 of releasing a flagship alongside lower-latency variants.
+**Two internal codenames** have been reported: ember-alpha and beacon-alpha, which surfaced in developer logs. Their mapping to specific models is unconfirmed. The existence of two codenames may suggest GPT-5.6 is not a single model but a family, possibly a flagship alongside an Instant or lite counterpart, following the GPT-5.5 and GPT-5.5 Instant pattern. OpenAI has not confirmed this.
 
 **A 1.5-million-token context window** has been reported by ChatGPT Pro users who hit what appeared to be a higher-than-expected ceiling during extended sessions, with inputs up to 900,000 tokens being handled smoothly and requests exceeding 1.05 million — GPT-5.5's documented maximum — completing without truncation. A 1.5-million-token context would represent a 43% increase over GPT-5.5's 1.05M limit, continuing the trajectory that has seen OpenAI's context window nearly double every major release.
 
@@ -46,7 +47,7 @@ The Codex log entry was the first indicator, but it wasn't the last. Security an
 
 ## Why the Market Is So Confident
 
-Polymarket prediction markets, which have accumulated a reasonable track record on AI release timing, currently price GPT-5.6 at 85%+ probability for release before June 30, 2026. Manifold Markets is in the 80-89% range.
+Polymarket traders priced GPT-5.6 at roughly 80-89% probability for release before June 30, 2026, according to reports in mid-to-late May, though markets have been wrong about model release dates before. Manifold Markets is reported to be pricing a similar probability.
 
 The confidence reflects several factors beyond the specific signals. OpenAI has maintained a release cadence of roughly 6-8 weeks between major model versions in 2026, with GPT-5.5 arriving April 23 and GPT-5.5 Instant following in early May. Six weeks after GPT-5.5's API launch places us precisely in the June 2-9 window for a potential GPT-5.6 announcement. OpenAI's recent pattern of Friday API drops followed by wider consumer rollout over the following days would fit that timeline.
 
@@ -58,7 +59,7 @@ If the leaks are accurate, GPT-5.6's most consequential upgrade is the context w
 
 The Codex UltraFast tier, if it materializes, would address the latency gap that has made real-time coding applications feel sluggish at the frontier. Current Codex inference on the GPT-5.5 series is fast enough for background suggestions but too slow for keystroke-level completion in demanding engineering environments. A UltraFast tier could change the competitive calculus against GitHub Copilot, which just announced Project Polaris as its new default model.
 
-The three codename variants suggest OpenAI is also continuing its strategy of fragmenting the product line by use case — a flagship for complex reasoning, a fast tier for latency-sensitive applications, and potentially a domain-specific variant. That fragmentation serves different customer segments but also increases the surface area of what needs to be evaluated and maintained.
+The two reported codenames may suggest OpenAI is releasing more than one variant, possibly a flagship and a lighter or Instant counterpart. OpenAI has not confirmed this. That fragmentation serves different customer segments but also increases the surface area of what needs to be evaluated and maintained.
 
 ## What It Means for the Summer
 
@@ -67,3 +68,5 @@ The AI model release calendar for summer 2026 is shaping up to be the most conge
 For developers and enterprise customers trying to make AI infrastructure decisions, this pace creates a genuine planning challenge. Commitments made today to a specific model tier may look different by August. The organizations best positioned to navigate this environment are those with abstraction layers in their own architecture — API clients that can swap underlying models, evaluation pipelines that can benchmark new releases quickly, and deployment infrastructure that doesn't tightly couple to a specific model version.
 
 OpenAI has said nothing publicly about GPT-5.6. The signals say something else.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

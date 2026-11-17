@@ -1,8 +1,9 @@
 ---
 title: "Medicare Will Pay AI Agents for Chronic Care Starting July 2026 — And Most of Tech Hasn't Noticed"
-summary: "The CMS ACCESS model, launching July 5, will for the first time allow Medicare to pay for AI-powered chronic care agents that monitor patients between visits, coordinate care, and improve measurable health outcomes. With 150+ digital health companies enrolled and two-thirds of Medicare beneficiaries in scope, it may be the most consequential federal AI policy move of 2026."
+summary: "The CMS ACCESS model, launching July 5, creates a Medicare payment mechanism for technology-supported chronic care, including AI agents that monitor patients between visits. More than 150 companies and providers have been provisionally approved, and the model targets conditions affecting three-quarters of people with Medicare."
 category: "policy"
 publishedAt: 2026-05-26
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: false
@@ -48,7 +49,7 @@ The ACCESS model is a voluntary 10-year pilot administered by the CMS Innovation
 
 The twist is that the full payment is contingent on outcomes. For the 2026-2027 performance period, at least 50% of a participant's enrolled beneficiaries must meet all required outcome targets for the organization to receive complete reimbursement. The targets are condition-specific: a hypertensive patient who lowers their blood pressure by 10 mmHg, or a diabetic patient who reduces their HbA1c by a clinically meaningful margin, counts toward the threshold. Enrolling a patient and doing nothing with them does not.
 
-The model covers four clinical tracks that together affect approximately two-thirds of all Medicare beneficiaries. The first two tracks — early cardio-kidney-metabolic (covering hypertension, dyslipidemia, obesity, and prediabetes) and full cardio-kidney-metabolic (covering type 2 diabetes, chronic kidney disease, and established cardiovascular disease) — target the most expensive cluster of conditions in the program. The remaining tracks address musculoskeletal pain and behavioral health.
+The model focuses on conditions that affect about three-quarters of people with Medicare, including high blood pressure, diabetes, chronic musculoskeletal pain, and depression. The first two tracks — early cardio-kidney-metabolic (covering hypertension, dyslipidemia, obesity, and prediabetes) and full cardio-kidney-metabolic (covering type 2 diabetes, chronic kidney disease, and established cardiovascular disease) — target the most expensive cluster of conditions in the program. The remaining tracks address musculoskeletal pain and behavioral health.
 
 ## What the AI Actually Does
 
@@ -74,7 +75,7 @@ The ACCESS model represents something the AI industry has struggled to achieve i
 
 Medicare spends approximately $1 trillion per year. Chronic conditions — the ones ACCESS targets — account for roughly 80% of that spending. If outcome-based payments for AI chronic care management succeed at even modest scale, they will generate more real-world evidence about AI efficacy in high-stakes decision environments than any benchmark or academic study.
 
-The model also creates competitive pressure that could reshape the digital health industry. Companies that can demonstrate measurable outcomes will be paid. Companies that cannot will not. This is a more rigorous test of AI product quality than anything the private market has imposed — and the consequences of failing are measured in patient health, not quarterly earnings.
+The model also creates competitive pressure that could reshape the digital health industry. Companies that can demonstrate measurable outcomes will earn the full payment. Companies that cannot will not earn the full payment. This is a more rigorous test of AI product quality than anything the private market has imposed — and the consequences of failing are measured in patient health, not quarterly earnings.
 
 For technology investors and builders, the practical implications are significant. A viable Medicare payment pathway transforms the addressable market for AI chronic care tools from a small slice of employer-sponsored health plans and direct-to-consumer subscriptions into the largest single payer in the American healthcare system. The revenue model for AI-assisted chronic care has fundamentally changed.
 
@@ -91,3 +92,5 @@ ACCESS sidesteps this problem by measuring outcomes at the population level rath
 That is either a pragmatic design choice or a significant methodological limitation, depending on who you ask. What it is not, for the first time, is theoretical.
 
 The AI is in the building. Medicare is going to pay for it. On July 5, we find out what it can actually do.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

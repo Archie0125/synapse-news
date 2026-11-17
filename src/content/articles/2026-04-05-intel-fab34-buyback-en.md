@@ -1,8 +1,9 @@
 ---
 title: "Intel Pays $14.2B to Buy Back Ireland's Fab 34 from Apollo — A Reversal That Signals Recovery"
-summary: "Intel will repurchase Apollo Global Management's 49% stake in its Leixlip, Ireland fabrication plant for $14.2 billion — paying a $3 billion premium over what Apollo paid just 18 months ago. The deal hands Intel full ownership of its most advanced EUV fab as the company positions itself to compete for foundry customers against TSMC."
+summary: "Intel will repurchase Apollo Global Management's 49% stake in its Leixlip, Ireland fabrication plant for $14.2 billion, after Apollo paid $11.2 billion for it in 2024. The deal hands Intel full ownership of Fab 34 as the company positions its 18A node for potential external customers."
 category: "hardware"
 publishedAt: 2026-04-05T09:40:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,15 +31,15 @@ relatedSlugs:
 
 In mid-2024, Intel's decision to sell a 49% stake in its flagship Irish fabrication plant to Apollo Global Management for $11.2 billion was widely read as a distress signal. The company was burning cash at an alarming rate, executing a wrenching strategic pivot, and needed liquidity without fully committing to selling the crown jewels of its manufacturing operation. The Apollo deal was a creative compromise: Intel retained control while unlocking capital.
 
-On April 1, 2026, Intel announced it was buying that stake back — at a $3 billion premium, for $14.2 billion total. Intel's stock jumped nearly 9% on the announcement. The message was unambiguous: the company that looked like it was in managed retreat eighteen months ago believes it has enough momentum to pay a billion-dollar-per-year premium to reclaim full ownership of its most advanced factory.
+On April 1, 2026, Intel announced it was buying that stake back — at a $3 billion premium, for $14.2 billion total. Intel's stock jumped 9% on the announcement. The message was unambiguous: the company that looked like it was in managed retreat in 2024 believes it has enough momentum to pay a premium to reclaim full ownership of its Irish factory.
 
 ## What Fab 34 Represents
 
-Fab 34, located in Leixlip, County Kildare, Ireland, is not a generic semiconductor plant. It is Intel's first high-volume EUV (extreme ultraviolet lithography) fab in Europe — the technology necessary to produce chips at Intel 4 and Intel 3 process nodes, the most advanced manufacturing processes Intel currently operates at scale.
+Fab 34, located in Leixlip, County Kildare, Ireland, is not a generic semiconductor plant. It is Intel's first high-volume site to deploy the Intel 4 node using EUV (extreme ultraviolet lithography), and it also produces chips on Intel 3, though Intel's most advanced node, 18A, is made in Arizona.
 
-The facility produces the chips inside Intel's Core Ultra (consumer PC) and Xeon (enterprise server) product lines — Intel's two highest-margin, highest-volume product categories. It is also the facility Intel would need to run at full capacity to credibly compete for external foundry customers, which CEO Lip-Bu Tan has identified as central to Intel's long-term strategy.
+The facility produces chips including Core Ultra processors for PCs and Xeon chips for servers. It is also the facility Intel would need to run at full capacity to credibly compete for external foundry customers, which CEO Lip-Bu Tan has identified as central to Intel's long-term strategy.
 
-Under the Apollo joint venture structure, Intel retained operational control of Fab 34 but shared economic ownership. Any external foundry customer willing to contract manufacturing at Leixlip would have been contracting with a facility that was 49% owned by a financial investor — a structural complication that made customer conversations more difficult and gave Apollo ongoing leverage over Intel's manufacturing economics.
+Under the Apollo joint venture structure, Apollo held a 49% stake in Fab 34. Any external foundry customer willing to contract manufacturing at Leixlip would have been contracting with a facility that was 49% owned by a financial investor — a structural complication that made customer conversations more difficult and gave Apollo ongoing leverage over Intel's manufacturing economics.
 
 The buyback eliminates that complication entirely. Intel now owns Fab 34 outright.
 
@@ -48,7 +49,7 @@ The $14.2 billion price is funded through a combination of Intel's existing cash
 
 The company believes the deal will be earnings-per-share accretive starting in 2027, as the elimination of Apollo's profit participation rights — which had been accruing under the joint venture structure — flows back to Intel's bottom line. Analysts at Raymond James and Bernstein both upgraded Intel following the announcement, citing the improved structural clarity.
 
-Apollo, for its part, made approximately $3 billion in 18 months on a $11.2 billion investment — a ~27% return in under two years on a semiconductor infrastructure bet. The firm has declined to comment on the sale but its track record suggests it will recycle the capital into similar infrastructure plays as data center demand continues to reshape capital markets.
+Apollo bought the 49% stake for $11.2 billion in 2024, and Intel is now repurchasing it for $14.2 billion. The firm has declined to comment on the sale but its track record suggests it will recycle the capital into similar infrastructure plays as data center demand continues to reshape capital markets.
 
 ## CEO Lip-Bu Tan's Board Signal
 
@@ -73,3 +74,5 @@ The buyback completion timeline is expected to be three to six months, pending I
 The next milestones for Intel's foundry strategy are more technical than financial: achieving customer-quality yield rates on Intel 18A (its most advanced process node under development), signing and announcing a marquee external customer, and demonstrating that the manufacturing turnaround that began under Pat Gelsinger has been sustained and accelerated under Lip-Bu Tan.
 
 The $14.2 billion buyback is an expensive bet that Intel has solved the financial chapter of its recovery. The manufacturing chapter — the one that actually determines whether Intel becomes a genuine TSMC competitor or remains an interesting also-ran — is still being written in clean rooms in Leixlip and Hillsboro.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

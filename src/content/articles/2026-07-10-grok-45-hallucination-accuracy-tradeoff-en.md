@@ -1,8 +1,9 @@
 ---
-title: "Grok 4.5's Day-One Verdict: 4x Cheaper Than Rivals but 54% Hallucination Rate Raises Red Flags"
+title: "Grok 4.5's Day-One Verdict: Cheaper Per Task Than Rivals, but 54% Hallucination Rate Raises Red Flags"
 summary: "Independent benchmarks published on the first day of Grok 4.5's public availability reveal a model that is dramatically cheaper and more token-efficient than its frontier competitors but arrives with a doubled hallucination rate — from 25% to 54% — and a silently reduced context window. The results crystallize a genuine accuracy-efficiency trade-off that will define where Grok 4.5 gets deployed."
 category: "ai-ml"
 publishedAt: 2026-07-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,15 +30,15 @@ relatedSlugs:
   - "2026-07-01-anthropic-claude-sonnet-5-agentic-launch-en"
 ---
 
-SpaceXAI's Grok 4.5 launched to public access on July 9 to considerable fanfare — a 1.5 trillion parameter model, the first built in partnership with Cursor following SpaceX's $60 billion acquisition of Anysphere, and priced at just $2 per million input tokens. Within hours of its release, independent evaluators had begun running their own benchmarks. By July 10, a more complicated picture had emerged than the launch messaging suggested.
+Within hours of its release, independent evaluators had begun running their own benchmarks. By July 10, a more complicated picture had emerged than the launch messaging suggested.
 
-The short version: Grok 4.5 is meaningfully cheaper and more token-efficient than any comparable frontier model. It is also more likely to confabulate than its predecessor, and it arrived with an unexplained context window reduction that quietly changes the model's utility for certain use cases.
+The short version: Grok 4.5 is far cheaper per task than GPT-5.5 and Fable 5 in agentic coding, and used far fewer tokens than Opus 4.8 on one coding benchmark. It is also more likely to confabulate than its predecessor, and it arrived with an unexplained context window reduction that quietly changes the model's utility for certain use cases.
 
 ## The Numbers That Matter
 
 **Accuracy improved. Hallucination worsened.**
 
-On the Intelligence Index maintained by Artificial Analysis, Grok 4.5 scores 52 on accuracy — up from 35 for Grok 4.3, a meaningful 17-point improvement. But the model's hallucination rate rose from 25% to 54%, doubling in a single generation. The model knows more and gets more things right. It is also more likely to state wrong information with misplaced confidence when it doesn't know.
+On the AA-Omniscience Index maintained by Artificial Analysis, Grok 4.5's knowledge accuracy is 52%, up from 35% for Grok 4.3. But the model's hallucination rate rose from 25% to 54%, doubling in a single generation. The model knows more and gets more things right. It is also more likely to state wrong information with misplaced confidence when it doesn't know.
 
 Artificial Analysis placed Grok 4.5 at rank #4 in overall intelligence, behind Anthropic's Fable 5, OpenAI's GPT-5.5, and Opus 4.8 — a credible near-frontier position, but not the "opus-class" characterization that featured prominently in SpaceXAI's announcement.
 
@@ -67,7 +68,7 @@ The implication for deployment is segmentation. For use cases with verifiable ou
 
 For AI engineering teams running high-volume agentic pipelines, Grok 4.5's cost profile is genuinely compelling. The combination of low pricing and high token efficiency means that a team currently running coding agents on Fable 5 could reduce their compute costs by roughly 80% by switching to Grok 4.5, with some performance degradation and higher hallucination risk that can be partially mitigated by output validation.
 
-SpaceXAI's framing of "4.2x token efficiency at $2 per million tokens" underplays the actual advantage in dollar terms. On the compound metric of cost-per-output given both the price and the token efficiency, Grok 4.5 is by far the most cost-effective model in its intelligence tier.
+SpaceXAI's framing of "4.2x token efficiency at $2 per million tokens" underplays the actual advantage in dollar terms. On the compound metric of cost per task, given both the price and the token efficiency, Grok 4.5 is arguably among the most cost-effective models for agentic work.
 
 The $0.31 cost per task on the Intelligence Index (versus $2.49 for full coding agent workloads through Grok Build) represents different measurement contexts, but both figures point in the same direction: this model is designed to be run at scale, cheaply.
 
@@ -82,3 +83,5 @@ For OpenAI and Anthropic, the challenge Grok 4.5 poses is not at the top of the 
 Whether that migration happens will depend on how the hallucination question resolves in real-world deployment. Launch-day benchmarks are informative but not dispositive. The verdict on Grok 4.5 — how good it actually is at what production users need it to do — will take weeks of production traffic to establish definitively.
 
 The opening analysis suggests a model that is genuinely useful, competitively priced, and requires more careful deployment guardrails than its marketing suggests. That is a reasonable description of most new frontier model launches. How SpaceXAI responds to the hallucination findings — whether it engages with them, updates the model, or dismisses the benchmarks — will say as much about the company's trajectory as the numbers themselves.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "Google Android Show 正式揭幕：Android 17、XR 智慧眼鏡與 Aluminium OS 全面亮相"
-summary: "Google 於5月12日舉辦獨立的 Android Show: I/O Edition，正式發表 Android 17 重點功能——包括全域應用程式泡泡、代理式 Gemini 整合與原生應用程式鎖定——以及 Project Aura XR 智慧眼鏡的首批詳細展示，並預告長期傳聞的 Android PC 作業系統 Aluminium OS。"
+title: "Google Android Show 週二登場：Android 17 與 Android XR 眼鏡值得關注"
+summary: "Google 於5月12日（週二）、I/O 大會前一週舉辦獨立的 Android Show: I/O Edition，預期 Android 17 將包含全域應用程式泡泡、內建應用程式鎖定與代理式 Gemini 整合，Android XR 眼鏡也是焦點之一。"
 category: "products"
 publishedAt: 2026-05-12
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: false
 trending: false
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-05-11-apple-wwdc-2026-ios27-siri-gemini-zh"
 ---
 
-Google 週一給了 Android 一個專屬舞台，並充分利用了它。Android Show: I/O Edition——這個刻意設計的發表前獨立活動，讓 Android 的消息不至於在下週 Google I/O 主場的 AI 公告浪潮中被淩沒——交出了三個截然不同的故事：Android 17、Project Aura XR 眼鏡，以及 Aluminium OS。
+Google 週二給了 Android 一個專屬舞台，並充分利用了它。Android Show: I/O Edition 於5月12日（週二）、I/O 大會前一週舉行，焦點話題包括預期將內建全域應用程式泡泡、應用程式鎖定與代理式 Gemini 整合的 Android 17，以及 Android XR 眼鏡。
 
 三者合在一起，勾勒出近年來最雄心勃勃的 Android 平台擴張版圖：從口袋裡的手機，到臉上的眼鏡，到取代 Windows 機器的筆電。Gemini 貫穿其中。
 
@@ -66,11 +67,11 @@ Project Aura 是 Android XR 眼鏡產品線的高階定位。硬體描述為輕�
 
 Google 也正與包含三星在內的硬體市場夥伴及眼鏡製造商合作，推出常規款式的鏡框。一款不含完整空間運算疊加、定價更低的版本也在開發中，目標希望擁有 Gemini 語音助理但不愿付高價的日常使用者。
 
-週一的發表未透露 Project Aura 硬體的定價或上市時間；焦點放在軟體功能與設計方向。硬體發表預計於下週 I/O 登場。
+硬體發表預計於下週 I/O 登場。
 
 ## Aluminium OS：Android 進軍 PC
 
-Aluminium OS——Google 以該代號開發中的 Android PC 作業系統——首次獲得官方正式承認。Google 將其描述為建立在 Android 基礎上的重新想像桌面環境，設計目標是吸引主要生活在行動應用生態中的使用者，與 Windows 和 macOS 競爭。
+Aluminium OS 是 Google 以該代號開發中的 Android PC 作業系統。Google 將其描述為建立在 Android 基礎上的重新想像桌面環境，設計目標是吸引主要生活在行動應用生態中的使用者，與 Windows 和 macOS 競爭。
 
 定位直接明確：人們實際使用的大多數應用程式都是 Android 應用。Aluminium OS 讓這些應用程式在筆電形態上成為一等公民——以原生方式運行而非透過模擬——搭配支援視窗化多工、外接螢幕輸出，以及鍵盤觸控輸入的桌面殼層，遠優於現行 Android 在這些場景的表現。
 
@@ -80,8 +81,10 @@ ChromeOS 並未被取消；Google 將 Aluminium OS 定位為针對不同用戶�
 
 ## 下週 I/O 待揭曉的部分
 
-週一的活動明確定位為預告，而非完整發表。5月19日的 Google I/O 主題演講，才是硬體發表、Gemini 4 細節，以及完整開發者平台故事登場的時刻。Android 17 的開發者文件預計與主題演講同步上線。
+週二的活動是預告，而非完整發表。5月19日的 Google I/O 主題演講，才是硬體發表、Gemini 4 細節，以及完整開發者平台故事登場的時刻。Android 17 的開發者文件預計與主題演講同步上線。
 
 刻意的分場設計——Android 有自己的獨立展示、AI 與硬體在 I/O 本場發表——反映了 Google 從歷年吸取的教訓：Android 更新總是被模型公告週期喹沒。提早一週給 Android 專屬聤光燈，確保平台故事在更大規模的 AI 敘事接管之前清晰落地。
 
 這個平台故事連賫且雄心勃勃：一個 Gemini 原生作業系統，橫跨手機、眼鏡與 PC，每個形態彼此互相強化。執行能否匹配發表的高度，Project Aura 硬體能否以消費者接受的價格準時出貨，是下週 I/O 需要回答的未解問題。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

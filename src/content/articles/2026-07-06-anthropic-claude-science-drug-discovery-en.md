@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Launches Claude Science, Enters Drug Discovery With Its Own Pipeline for Neglected Diseases"
-summary: "Anthropic unveiled Claude Science on June 30, a research workbench integrating 60+ scientific databases for pharma and academic researchers. In the same announcement, the company revealed it is developing its own internal drug discovery program targeting neglected diseases—putting it in direct competition with OpenAI and Google DeepMind in the rapidly escalating race to apply frontier AI to medicine."
+summary: "Anthropic unveiled Claude Science on Tuesday, a research product for pharma and academic researchers. In the same announcement, the company revealed it is starting its own internal drug discovery program targeting neglected diseases."
 category: "ai-ml"
 publishedAt: 2026-07-06
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
 
 On June 30, 2026, Anthropic did something that surprised even close observers of the AI industry: it announced not just a new research product, but an internal drug development program—signaling that the company founded to make AI safe now believes that AI-native pharmaceutical development is within its reach and mission.
 
-The dual announcement, unveiled at "The Briefing: AI for Science" event in San Francisco, bundled Claude Science—a unified research workbench for scientists and pharma companies—with a separate but related commitment to develop Anthropic's own drug candidates targeting neglected tropical diseases. It is a significant pivot for a company that has largely stayed out of vertical product markets, and it positions Anthropic squarely in a three-way race against OpenAI, which has partnered with Novo Nordisk, and Google DeepMind's Isomorphic Labs, which raised $2 billion for AI-driven drug discovery.
+The dual announcement, unveiled at an event in San Francisco, paired Claude Science, a research product for scientists and pharma companies, with a separate but related commitment to pursue Anthropic's own research into drugs for neglected diseases. It is a significant pivot for a company that has largely stayed out of vertical product markets, and it positions Anthropic squarely in a three-way race against OpenAI, which has partnered with Novo Nordisk, and Google DeepMind's Isomorphic Labs, which raised $2 billion for AI-driven drug discovery.
 
 ## What Claude Science Actually Is
 
@@ -40,15 +41,15 @@ The platform integrates more than 60 scientific databases spanning genomics, pro
 
 According to MIT Technology Review, which was briefed on the product before launch, the core value proposition is context persistence: Claude Science maintains awareness across a multi-hour research session, allowing a researcher to ask increasingly specific follow-up questions about a molecule or disease pathway without restating the full experimental context each time. The company describes it as providing "the kind of intellectual continuity a very senior scientific collaborator would provide."
 
-Claude Science is currently in beta for Pro, Max, Team, and Enterprise plan subscribers. Anthropic is also offering research credits worth up to $30,000 for projects exploring the boundaries of AI-driven science, with applications open through July 15.
+Claude Science is now available to all paid Claude subscribers. Anthropic is also offering research credits worth up to $30,000 for projects exploring the boundaries of AI-driven science, with applications open through July 15.
 
 ## The Internal Drug Program: Deliberate and Unconventional
 
-More surprising than the product is what accompanied it. Anthropic announced it is establishing an internal drug discovery program—distinct from the Claude Science product—that will identify and develop its own drug candidates targeting neglected tropical diseases: conditions like leishmaniasis, Chagas disease, and African sleeping sickness that afflict hundreds of millions of people in low-income countries but generate insufficient commercial returns to attract major pharmaceutical investment.
+More surprising than the product is what accompanied it. Anthropic announced it is starting an internal drug discovery program that will focus on discovering treatments for neglected diseases that traditional biopharmaceutical companies wouldn't consider attractive targets.
 
-The rationale, CEO Dario Amodei explained in remarks at the San Francisco event, is that these diseases represent a test case where frontier AI could genuinely accelerate the discovery timeline without the commercial pressures that shape mainstream pharma R&D. Neglected diseases have well-characterized biology, modest regulatory complexity by global standards, and represent genuine unmet need—making them an appropriate domain for an AI company to explore without competing directly with established industry players.
+The rationale, life sciences head Eric Kauderer-Abrams explained at the San Francisco event, is that to build the right models, products and tools for the industry, Anthropic needs to live it alongside drugmakers and gain its own experience trying to develop drugs. Neglected diseases have well-characterized biology, modest regulatory complexity by global standards, and represent genuine unmet need—making them an appropriate domain for an AI company to explore without competing directly with established industry players.
 
-Anthropic's internal program will use Claude's models to identify candidate compounds, analyze structural biology, model protein-ligand interactions, and generate hypotheses about drug mechanisms. The company has not yet disclosed a target number of drug candidates or a timeline to clinical trials, but it has committed to publishing research findings regardless of commercial outcome—a notable stance in an industry where negative results are historically suppressed.
+Anthropic's internal program will use Claude's models to identify candidate compounds, analyze structural biology, model protein-ligand interactions, and generate hypotheses about drug mechanisms. Kauderer-Abrams did not say what Anthropic would do if it finds any promising drug candidates, and an Anthropic spokesperson said the company is at the start of this work and will share more as it progresses.
 
 ## The Three-Way Race in AI Drug Discovery
 
@@ -67,3 +68,5 @@ The entry of Anthropic into life sciences also has implications for how major ph
 Anthropic has acknowledged this tension and says Claude Science operates under strict data isolation guarantees, with enterprise customers' data never used to train models or shared across organizations. Whether that commitment is sufficient to unlock the most sensitive research workflows—where competitive advantage hinges on preclinical data that can be worth hundreds of millions of dollars—will be one of the key determinants of Claude Science's commercial success.
 
 For now, the announcement establishes something that would have seemed implausible three years ago: the three companies most central to the frontier AI race are also all, in different ways, in the business of developing medicine. The speed at which AI has moved from abstract capability to biological research tool is itself a data point about the pace of this technology's diffusion into the fabric of every knowledge industry.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

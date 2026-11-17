@@ -1,8 +1,9 @@
 ---
 title: "Dell's AI Server Revenue Rockets 757% as Q1 FY2027 Results Shatter Every Record"
-summary: "Dell Technologies posted its fastest revenue growth since going public, with Q1 FY2027 total revenue of $43.8 billion (up 88% YoY) and AI server revenue of $16.1 billion — a 757% year-over-year explosion. Dell raised its full-year AI server outlook to $60 billion while its order backlog hit a record $51.3 billion, and the stock surged as much as 39% for its best single day ever."
+summary: "Dell Technologies posted its fastest revenue growth since returning to the public market in 2018, with Q1 FY2027 total revenue of $43.8 billion (up 88% YoY) and AI server revenue of $16.1 billion — a 757% year-over-year jump. Dell raised its full-year AI revenue outlook to $60 billion while its AI order backlog stood at $51.3 billion, and the stock climbed as much as 39% in extended trading."
 category: "hardware"
 publishedAt: 2026-05-31
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
   - "2026-05-27-nvidia-vera-rubin-q3-launch-5x-blackwell-en"
 ---
 
-When Dell Technologies CEO Michael Dell told investors the company was doubling down on AI infrastructure, few expected the pace of acceleration to look like this. On May 28, 2026, Dell reported its fiscal first quarter results for FY2027 — and the numbers were so far outside consensus estimates that Wall Street responded with the company's biggest single-day stock gain on record.
+When Dell Technologies CEO Michael Dell told investors the company was doubling down on AI infrastructure, few expected the pace of acceleration to look like this. Dell reported its fiscal first quarter results for FY2027 on Thursday, and the numbers were so far above consensus estimates that the stock climbed as much as 39% in extended trading.
 
 ## Numbers That Rewrote the Playbook
 
@@ -39,7 +40,7 @@ Dell's Q1 FY2027 revenue came in at **$43.8 billion**, up 88% year over year, ma
 
 The company's Infrastructure Solutions Group — the division covering servers, storage, and data center equipment — generated **$29 billion in revenue**, a 181% year-over-year increase. Within that segment, AI server revenue hit **$16.1 billion**, a figure that represented a **757% surge from the same quarter a year earlier**. To put that in context: Dell sold more AI servers in this single quarter than most established enterprise hardware companies sell in a calendar year.
 
-On the bottom line, Dell earned **$3.44 billion in net income**, or **$5.24 per diluted share**, compared with $965 million ($1.37 per share) in the year-ago period — a roughly 3.5x increase in profitability even as the company invested heavily in capacity. The market's response was immediate: Dell stock closed up approximately 32%, with intraday gains reaching 39%, making it the company's best single trading day since going public.
+On the bottom line, Dell earned **$3.44 billion in net income**, or **$5.24 per share**, compared with $965 million ($1.37 per share) in the year-ago period — more than triple the earnings. The market's response was immediate: Dell stock climbed as much as 39% in extended trading on Thursday after the report.
 
 ## A Backlog That Signals Sustained Demand
 
@@ -51,9 +52,9 @@ Analysts at several firms immediately lifted their price targets, with some poin
 
 ## The Pentagon Factor
 
-Alongside the earnings report, Dell disclosed a significant expansion of its defense business: a major contract with the U.S. Department of Defense to supply AI-optimized servers to classified networks across multiple agencies. The deal, whose financial terms were not fully disclosed, is expected to contribute materially to Dell's federal segment over the coming quarters.
+Separately, the Pentagon announced a five-year, $9.7 billion contract with Dell for Microsoft 365 productivity services the day before the earnings report.
 
-The Pentagon contract represents a strategic diversification that extends Dell's AI server exposure beyond hyperscalers like Microsoft Azure, Google Cloud, and Amazon Web Services — which together account for the lion's share of current AI infrastructure spending — into the more structurally protected government market. Defense contracts carry longer procurement cycles but also greater revenue visibility and contract stability, a combination investors have rewarded with premium multiples in other segments of the defense tech market.
+Defense contracts carry longer procurement cycles but also greater revenue visibility and contract stability, a combination investors have rewarded with premium multiples in other segments of the defense tech market.
 
 ## Why Dell, and Why Now
 
@@ -80,3 +81,5 @@ Investors are now focused on two variables that could disrupt Dell's trajectory.
 There is also the margin question. AI servers carry lower gross margins than Dell's traditional enterprise hardware lines, meaning revenue growth does not automatically translate to proportional profit expansion. Management has guided for operating margins to remain in the 6-8% range for the Infrastructure Solutions Group, consistent with prior quarters, suggesting the margin profile of AI server business is understood and priced in.
 
 For now, however, the market verdict is clear. Dell's Q1 FY2027 results are the strongest data point yet that the physical layer of the AI revolution is generating returns every bit as dramatic as the software and model layers — and that the company which bet its future on AI infrastructure has, at least for this moment, made exactly the right call.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "China's WAICO Launches a Parallel AI Governance World Order With 29 Nations"
-summary: "Xi Jinping formally inaugurated the World Artificial Intelligence Cooperation Organization on July 17, drawing 29 founding members — predominantly Global South nations — into a China-led governance bloc that sidesteps Western AI norms. The Shanghai-based body represents the most concrete step yet toward a bifurcated global AI order."
+summary: "WAICO was formally established on July 16 with 29 founding members, including several major Global South nations. Xi Jinping addressed the World Artificial Intelligence Conference in Shanghai the following day, urging countries to cooperate on AI."
 category: "policy"
 publishedAt: 2026-07-20
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,7 +31,7 @@ relatedSlugs:
   - "2026-07-11-china-ai-model-export-restrictions-alibaba-bytedance-en"
 ---
 
-When Chinese President Xi Jinping took the stage at the World Artificial Intelligence Conference in Shanghai on July 17, he did more than deliver a keynote. He formalized a rupture in how the world governs its most consequential technology. With the signature of 29 nations, the World Artificial Intelligence Cooperation Organization — WAICO — moved from aspiration to institution, establishing the first intergovernmental body dedicated to AI governance that operates entirely outside the Western-led international order.
+When Chinese President Xi Jinping took the stage at the World Artificial Intelligence Conference in Shanghai on July 17, he did more than deliver a keynote. He formalized a rupture in how the world governs its most consequential technology. With the signature of 29 nations on July 16, the World Artificial Intelligence Cooperation Organization, or WAICO, moved from aspiration to institution.
 
 The launch, attended by United Nations Secretary-General António Guterres among other dignitaries, was framed by Beijing as a gesture of inclusivity toward the Global South. Critics in Washington, Brussels, and Tokyo read it differently: as a geopolitical maneuver to export China's model of AI development — state-directed, less constrained by individual rights, and explicitly competitive with American technology leadership — to a coalition of emerging economies that collectively represent nearly four billion people.
 
@@ -62,7 +63,7 @@ That matters because AI governance isn't abstract. It determines what data AI sy
 
 The Biden-era export controls that restricted Chinese access to advanced AI chips have continued under the current administration, but the broader US policy response to WAICO has been measured. The White House declined to issue a formal statement on WAICO's founding, noting only that the United States "continues to work with like-minded allies on responsible AI governance through existing multilateral frameworks."
 
-The muted response reflects a genuine tension in US foreign policy. Aggressive denunciations of WAICO risk pushing fence-sitters — India, Brazil, and Indonesia are notable non-members that China will court — closer to Beijing's orbit. But silence allows the impression to form that the US has no compelling alternative to offer developing nations that want AI capacity-building without the compliance burdens of the EU AI Act or the geopolitical entanglements of close alignment with Washington.
+The muted response reflects a genuine tension in US foreign policy. Aggressive denunciations of WAICO risk pushing fence-sitters closer to Beijing's orbit. But silence allows the impression to form that the US has no compelling alternative to offer developing nations that want AI capacity-building without the compliance burdens of the EU AI Act or the geopolitical entanglements of close alignment with Washington.
 
 Congressional voices have been sharper. Representative Michael McCaul (R-TX), chair of the House Foreign Affairs Committee, called WAICO "a Trojan horse designed to wire the Global South into China's digital infrastructure and export its surveillance-compatible AI norms." Senator Mark Warner (D-VA) urged the State Department to develop a counter-offer of AI technical assistance to nations considering WAICO membership.
 
@@ -73,3 +74,5 @@ For Xi Jinping, WAICO serves several simultaneous purposes. It positions China a
 There is also a domestic dimension. Chinese AI policy has accelerated dramatically following the shock of DeepSeek's cost-efficiency breakthroughs in early 2025 and subsequent export control tightening by Washington. WAICO helps secure a guaranteed market for Chinese AI products that cannot be foreclosed by American sanctions — a form of governance-level supply chain resilience.
 
 Whether WAICO ultimately reshapes global AI norms or remains a coordination mechanism for the margins of the international system will depend heavily on whether China delivers on its promises of AI capacity-building and whether member nations find the governance framework genuinely useful rather than merely decorative. What is already clear is that the era of a single, converging global AI governance order is over. The bifurcation that analysts warned about for years is now institutional.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

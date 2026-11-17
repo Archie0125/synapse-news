@@ -1,8 +1,9 @@
 ---
 title: "Microsoft Declares Internal War on OpenAI and Anthropic, Training Sales Teams to Bury Former Partners"
-summary: "Microsoft held an internal FY2027 strategy session in mid-July where executives trained sales teams to explicitly compete against OpenAI, Anthropic, and Google — calling Claude 'slower and less accurate' — while simultaneously migrating Excel and Outlook from third-party AI models to its own proprietary MAI stack. The move signals the definitive end of Microsoft's era as a neutral AI distributor."
+summary: "Microsoft held an internal strategy session for the new fiscal year on a Tuesday, where executives outlined a plan for salespeople to negatively compare AI products from OpenAI, Google, and Anthropic to its own, with one executive calling Claude 'slower and less accurate' in Microsoft's office apps. A separate earlier report found Microsoft has been swapping OpenAI's and Anthropic's models out of apps like Word and Excel in favor of its own."
 category: "industry"
 publishedAt: 2026-07-17
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -41,7 +42,7 @@ What's new is that Microsoft is now actively selling against the model vendors r
 
 ## The Technical Ground Shift Already Underway
 
-This competitive pivot didn't arrive from nowhere. Since July 7, Microsoft has been actively migrating selected Microsoft 365 applications — starting with Excel and Outlook — from OpenAI and Anthropic model backends to its own MAI stack. The company's MAI models (Thinking 1, Code 1, and Flash, announced in early July) handle "tens of thousands" of AI-assisted prompts per week across these applications, according to figures cited internally.
+This competitive pivot didn't arrive from nowhere. An earlier report this month found that Microsoft has been swapping OpenAI's and Anthropic's models out of flagship apps like Word and Excel in favor of its own, a cost-cutting move according to that report. The company's MAI models (Thinking 1, Code 1, and Flash, announced in early July) handle "tens of thousands" of AI-assisted prompts per week across these applications, according to figures cited internally.
 
 The migration is both strategic and financial. Every prompt routed through the MAI stack instead of an OpenAI or Anthropic API call is a cost Microsoft keeps rather than paying to a partner. At scale — across hundreds of millions of Microsoft 365 users — the economics become massive. Analysts estimate that at mid-tier API pricing, even routing 5% of Office AI workloads to internal models could save Microsoft several billion dollars annually in API costs, while simultaneously generating data that improves its own models.
 
@@ -74,3 +75,5 @@ Zoom out and what you're watching is the inevitable endpoint of a phase that beg
 The company's move to build its own models, train its sales force to sell against its former partners, and migrate its highest-volume applications to internal infrastructure is classic vertical integration strategy — the same playbook Microsoft has run in operating systems, browsers, and productivity software across three decades. What's different this time is the speed, the stakes, and the fact that its "former partner" is simultaneously its most prominent AI investment and, probably, its most capable external model provider.
 
 The enterprise AI platform market is worth, by various estimates, $200-400 billion in annual spend by 2028. Microsoft is not content to be the cloud that others win that market on. It wants to win it directly.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

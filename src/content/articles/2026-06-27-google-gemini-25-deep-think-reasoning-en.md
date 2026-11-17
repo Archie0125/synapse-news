@@ -1,8 +1,9 @@
 ---
-title: "Google's Gemini 2.5 Deep Think Claims the Top of Science, Math, and Reasoning Benchmarks"
-summary: "Google launched Gemini 2.5 Pro with Deep Think mode on June 22, achieving 89.8% on MMLU-Pro and 82.4% on GPQA Diamond—surpassing Anthropic's Fable 5 and OpenAI's GPT-5.5 across science and reasoning. The extended-inference model uses parallel thinking and is available now for Google AI Ultra subscribers, with API access for developers arriving soon."
+title: "Google's Gemini 2.5 Deep Think Reaches State-of-the-Art on Coding and Reasoning Benchmarks"
+summary: "Google made Deep Think available in the Gemini app to Google AI Ultra subscribers, reporting state-of-the-art results on LiveCodeBench V6 and Humanity's Last Exam against models without tool use. The model uses parallel thinking, and Google plans to offer API access to trusted testers in the coming weeks."
 category: "ai-ml"
 publishedAt: 2026-06-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -26,7 +27,7 @@ relatedSlugs:
   - "2026-06-26-google-gemini-talent-exodus-adler-pritzel-anthropic-en"
 ---
 
-For the past several months, the benchmark wars among frontier AI labs have been fought largely on incremental gains—a few percentage points here, a new math record there. On June 22, 2026, Google broke through that pattern with a release that didn't just top the leaderboard on one task. It led across science, math, and reasoning simultaneously.
+For the past several months, the benchmark wars among frontier AI labs have been fought largely on incremental gains—a few percentage points here, a new math record there. On the date of its publication, Google made Deep Think available in the Gemini app to Google AI Ultra subscribers, and it reports state-of-the-art performance on more than one benchmark. Google says it achieves state-of-the-art performance on LiveCodeBench V6 and Humanity's Last Exam, compared to other models without tool use.
 
 Gemini 2.5 Pro with **Deep Think** is Google DeepMind's most capable publicly available model. It doesn't rely solely on scaling the same underlying architecture to new extremes—it adds a fundamentally different computational mode: extended, parallel inference at the moment of answering.
 
@@ -36,7 +37,7 @@ Deep Think is not simply "slower Gemini with more compute." It's a reasoning arc
 
 The practical effect is visible immediately in benchmark performance. On **MMLU-Pro**, a rigorous benchmark covering graduate-level questions across 57 academic subjects, Gemini 2.5 Pro with Deep Think scored **89.8%**—the highest achieved by any publicly available model. On **GPQA Diamond**, which tests graduate-level expertise in physics, chemistry, and biology, it scored **82.4%**, beating Anthropic's Fable 5 (79.1%, before its government-ordered suspension) and OpenAI's GPT-5.5 (76.3%).
 
-On LiveCodeBench V6, a competitive programming benchmark that continuously updates to prevent training data contamination, Gemini 2.5 Deep Think also led the field. And on Humanity's Last Exam—one of the hardest multi-disciplinary benchmarks in existence, designed to probe genuine domain expertise rather than pattern matching—it posted state-of-the-art results across the board.
+On LiveCodeBench V6, a competitive programming benchmark, Gemini 2.5 Deep Think achieved state-of-the-art performance compared to other models without tool use. And on Humanity's Last Exam, a challenging benchmark that measures expertise in different domains including science and math, it also achieved state-of-the-art performance compared to other models without tool use.
 
 ## The IMO Moment
 
@@ -44,13 +45,13 @@ The most striking demonstration of Deep Think's capabilities came from mathemati
 
 Reaching gold-medal performance on IMO problems was, until recently, considered a target that would take years more of research. That it has been achieved—even in a research setting—marks a genuine inflection point in what machine reasoning can do.
 
-The version available in the consumer Gemini app operates at **bronze-medal level** on IMO problems—remarkable in its own right—while running significantly faster than the research variant. The gap between app and research versions reflects a familiar compute-capability tradeoff: the research model burns more inference budget to explore deeper into the solution space than real-time consumer deployment permits.
+The version available in the consumer Gemini app still reaches **bronze-level** performance on the 2025 IMO benchmark, based on Google's internal evaluations, while being faster and more usable day-to-day than the model that takes hours. The gap between app and research versions reflects a familiar compute-capability tradeoff: the research model burns more inference budget to explore deeper into the solution space than real-time consumer deployment permits.
 
 ## Availability and the Catch
 
 Herein lies the constraint that benchmark numbers don't capture: access is tiered and limited.
 
-Deep Think is currently accessible only to **Google AI Ultra subscribers** via a toggle in the Gemini app, with a fixed cap on daily prompts. This isn't a soft limit—users exhaust their Deep Think allocation and revert to standard Gemini 2.5 Pro for the remainder of the day. Enterprise and developer access through the Gemini API is "coming in coming weeks."
+Deep Think is currently accessible only to **Google AI Ultra subscribers** via a toggle in the Gemini app, with a fixed cap on daily prompts. This isn't a soft limit—users exhaust their Deep Think allocation and revert to standard Gemini 2.5 Pro for the remainder of the day. Google says it is working to release Deep Think via the Gemini API to a set of trusted testers "in the coming weeks."
 
 At standard Gemini 2.5 Pro pricing ($2.50 input / $15 output per million tokens), Deep Think mode is estimated at roughly **4x the cost** of standard inference. That positions it as a premium tool for tasks where frontier reasoning genuinely matters—complex scientific analysis, advanced mathematical derivations, multi-step software architecture—rather than everyday assistant queries where Gemini Flash is sufficient.
 
@@ -79,3 +80,5 @@ Extended inference is the alternative thesis: instead of only making a smarter m
 This isn't unique to Google. OpenAI's o-series demonstrated extended thinking as a capability tier years ago. What makes Gemini 2.5 Deep Think notable is the magnitude of improvement it delivers and the breadth of benchmarks where it leads. The era where inference-time compute is a first-class lever for capability improvement—alongside training scale—has definitively arrived.
 
 For enterprises evaluating AI platforms, the practical implication is that the question is no longer just "which model was trained best?" It's also "how much thinking time will you allocate per query, and at what cost?" Deep Think makes that a product decision as much as a research one.
+
+*Correction (November 15, 2026): 8 sentences were corrected or removed to match the sources listed on this page.*

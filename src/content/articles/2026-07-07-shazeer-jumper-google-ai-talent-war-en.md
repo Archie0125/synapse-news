@@ -1,8 +1,9 @@
 ---
-title: "Google Loses Two AI Titans in 24 Hours: Shazeer to OpenAI, Jumper to Anthropic"
-summary: "In back-to-back announcements on June 18-19, Google DeepMind lost two of its most consequential researchers: Noam Shazeer, the co-inventor of the Transformer architecture that underpins every major AI model, announced he is joining OpenAI; and Nobel laureate John Jumper, the lead architect of AlphaFold, announced he is joining Anthropic. The twin departures mark the most significant redistribution of foundational AI talent in recent memory."
+title: "Google Loses Two AI Titans in Days: Shazeer to OpenAI, Jumper to Anthropic"
+summary: "In back-to-back announcements in the same week, Google DeepMind lost two of its most prominent researchers: Noam Shazeer, a co-author of the paper that introduced the Transformer architecture, announced he is joining OpenAI; and Nobel laureate John Jumper, who led the AlphaFold team, announced he is joining Anthropic."
 category: "industry"
 publishedAt: 2026-07-07
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,11 +31,11 @@ relatedSlugs:
   - "2026-07-07-microsoft-mai-thinking-1-code-1-flash-launch-en"
 ---
 
-In the history of the AI industry, no single institution has been more central to the foundational research that made modern AI possible than Google. In a 24-hour window in mid-June 2026, that institution lost two of its most consequential scientists to its most aggressive rivals.
+In the history of the AI industry, no single institution has been more central to the foundational research that made modern AI possible than Google.
 
 On June 18, **Noam Shazeer** — co-inventor of the Transformer architecture, VP of Engineering at Google, and co-lead of the Gemini model family — announced he is leaving Google to join OpenAI. The following day, **John Jumper** — lead architect of AlphaFold, winner of the 2024 Nobel Prize in Chemistry, and a researcher who spent nearly nine years at DeepMind — announced he is leaving for Anthropic.
 
-The two departures, announced within less than 24 hours of each other, constitute the most significant simultaneous loss of foundational AI talent from any single organization in the industry's history.
+The two departures, announced within days of each other, came as a major blow to Google's foundational AI talent base.
 
 ## Noam Shazeer: The Architect of the Architecture
 
@@ -80,4 +81,6 @@ Google DeepMind is not suddenly diminished. Demis Hassabis leads the organizatio
 
 But the departure of all eight original Transformer authors from Google is a symbolic inflection point that resonates beyond the specific individuals involved. It signals that the center of gravity of AI research — where the most ambitious scientists choose to direct their careers — has shifted, perhaps permanently, away from the organization that did more than any other to create the field.
 
-The question for Google is not whether it can continue to do great AI research. It clearly can. The question is whether it can regain the ability to attract and retain the category of talent that defines entire epochs — the Shazeers and Jumpers — or whether it must be content competing on execution rather than foundational discovery. Based on the last 24 hours of June 2026, that question does not yet have a comfortable answer.
+The question for Google is not whether it can continue to do great AI research. It clearly can. The question is whether it can regain the ability to attract and retain the category of talent that defines entire epochs — the Shazeers and Jumpers — or whether it must be content competing on execution rather than foundational discovery. Based on the events of this week in June 2026, that question does not yet have a comfortable answer.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "xAI's Summer Blitz: Grok 4.6 Arrives August 7, Grok 4.7 Follows Weeks Later in AI Speed Race"
-summary: "Elon Musk announced on July 28 that xAI will release Grok 4.6, a 1.5-trillion-parameter model with significantly improved post-training, around August 7 — followed weeks later by Grok 4.7 at 2.1 trillion parameters, an unprecedented three-model summer that signals xAI's intent to outpace OpenAI and Anthropic through release cadence."
+title: "xAI's Summer Blitz: Grok 4.6 Targeted for Around August 7, Grok 4.7 to Follow Weeks Later"
+summary: "Elon Musk said in a post on X in late July that xAI will release Grok 4.6, a 1.5-trillion-parameter model with significantly improved post-training, around August 7, followed a few weeks later by Grok 4.7 at 2.1 trillion parameters."
 category: "ai-ml"
 publishedAt: 2026-08-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,9 +34,9 @@ relatedSlugs:
 
 Three models in one summer. That is xAI's answer to an AI landscape where OpenAI, Anthropic, and Google DeepMind are locked in a race to define what frontier intelligence looks like — and where Elon Musk has concluded that velocity itself is a competitive moat.
 
-On July 28, Musk announced via X that Grok 4.6 would be ready around August 7, with Grok 4.7 following "a few weeks later." Grok 4.5 had launched just 20 days earlier, on July 8. If the schedule holds, xAI will have shipped three distinct Grok releases inside a 45-day window — a pace that has no recent precedent among frontier model providers.
+On July 28, Musk announced via X that Grok 4.6 would be ready around August 7, with Grok 4.7 following "a few weeks later." Grok 4.5 had launched barely two weeks earlier. If the schedule holds, xAI will have shipped three distinct Grok releases inside a 45-day window — a pace that has no recent precedent among frontier model providers.
 
-The announcements come as the AI industry's most watched metrics shift from benchmark performance to deployment economics. OpenAI cut GPT-5.6 prices by up to 80% last week; Anthropic has been steadily compressing Claude's pricing while expanding context windows; Google continues to distribute Gemini across its consumer and enterprise product stack. Against that backdrop, xAI is betting that a faster iteration cycle — combined with an exclusive distribution lock via X Premium and the xAI API — can carve out durable differentiation.
+The announcements come as the AI industry's most watched metrics shift from benchmark performance to deployment economics. OpenAI cut GPT-5.6 prices by up to 80% last week; Anthropic has been steadily compressing Claude's pricing while expanding context windows; Google continues to distribute Gemini across its consumer and enterprise product stack. Against that backdrop, xAI is betting that a faster iteration cycle can carve out durable differentiation.
 
 ## Grok 4.6: Better Post-Training, Same Foundation
 
@@ -65,7 +66,7 @@ OpenAI, Anthropic, and Google DeepMind have all moved toward less frequent, more
 
 xAI is doing something different: shipping faster, at the cost of shorter evaluation windows between releases. Whether that difference in approach reflects a lower risk tolerance for undiscovered model behaviors, a different philosophy about how quickly users can identify problems in deployment, or simply the urgency of a company that has entered the race later than its main competitors, is an open question that Musk has not publicly elaborated on.
 
-The distribution strategy matters here too. Grok models are exclusively available via X Premium (Musk's social platform, the rebrand of Twitter), the xAI API, and xAI's enterprise partnerships. This creates a captive distribution channel with distinct advantages — deeply embedded in X's 600-million-user social graph, with access to real-time post data for grounding — and distinct limitations. Unlike ChatGPT, which is available on web, mobile, API, and integrations across thousands of third-party applications, Grok's reach is constrained to contexts where users are already in the X ecosystem or building explicitly on the xAI API.
+The distribution strategy matters here too. Grok models are available through several channels, including X and grok.com plans, SuperGrok tiers, the API, and third-party products such as Cursor. This creates a captive distribution channel with distinct advantages — deeply embedded in X's 600-million-user social graph, with access to real-time post data for grounding — and distinct limitations.
 
 ## Competition Context
 
@@ -78,4 +79,6 @@ The Grok 4.6/4.7 announcements land in a competitive environment that has moved 
 
 Against this landscape, xAI's bet is essentially on Musk's profile, the X distribution lock, and release velocity as differentiation. The company has not published detailed safety evaluation reports for any Grok model to date, which has drawn criticism from AI safety researchers but appears to have had minimal impact on user adoption among its target demographic.
 
-Grok 4.6 launches in six days. The benchmarks will tell the first part of the story; the user retention data over the subsequent weeks will tell the rest.
+Musk's target for Grok 4.6 was around August 7, though he and the sources note timelines remain subject to change. The benchmarks will tell the first part of the story; the user retention data over the subsequent weeks will tell the rest.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

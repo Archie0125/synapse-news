@@ -3,6 +3,7 @@ title: "Snowflake Commits $6 Billion to AWS in Largest Enterprise Agentic AI Inf
 summary: "Snowflake announced a $6 billion, five-year commitment to Amazon Web Services on May 27, 2026 — its largest cloud infrastructure deal ever — aimed at accelerating enterprise agentic AI adoption. The deal covers AWS Graviton processors and GPU-accelerated EC2 instances for Snowflake's Cortex AI platform, as customer spending on Snowflake's AWS-hosted services doubled to $2 billion in 2025."
 category: "industry"
 publishedAt: 2026-05-31
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -57,7 +58,7 @@ MCP, introduced by Anthropic as an open standard for AI tool connection, has bec
 
 ## The Numbers That Justify $6 Billion
 
-The scale of the AWS commitment makes sense in the context of Snowflake's recent financial trajectory. Customer spending on AWS-hosted Snowflake services doubled in 2025, reaching $2 billion for the calendar year. Since Snowflake first appeared on AWS Marketplace, cumulative customer sales have surpassed $7 billion, and the company's lifetime purchases of AWS services have scaled to justify a forward commitment in the multi-billion dollar range.
+The scale of the AWS commitment makes sense in the context of Snowflake's recent financial trajectory. Customer spending on AWS-hosted Snowflake services doubled in 2025, reaching $2 billion for the calendar year.
 
 The demand driver is clear: Snowflake's Cortex AI workloads are growing faster than its traditional data warehouse workloads, and Cortex AI runs on Graviton and GPU-accelerated EC2 instances, not on the general-purpose compute that powered Snowflake's historical growth. To meet enterprise SLA commitments for AI inference latency and reliability — and to offer pricing predictability to customers running continuous agentic workloads — Snowflake needs reserved capacity at scale. The $6 billion commitment effectively secures that capacity through 2031.
 
@@ -78,3 +79,5 @@ For enterprise technology buyers, the Snowflake-AWS deal is a data point in an o
 The specific AI capabilities unlocked by the deal are not primarily about accessing more powerful foundation models. Snowflake's Cortex AI already integrates foundation models from Anthropic, Meta, Mistral, and others. The value proposition is about running those models continuously, at enterprise scale, on proprietary data, with the governance and reliability characteristics that enterprise procurement requires.
 
 As agentic AI transitions from proof-of-concept to production deployment across the enterprise, the compute economics of continuously running AI workflows — rather than occasional query processing — will become a defining competitive and cost factor. Snowflake's $6 billion commitment is a bet that it has correctly identified where those economics will settle, and that the enterprise customers who follow it will find the infrastructure waiting for them.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
 title: "The MATCH Act: Congress Moves to Cut China's Last Chipmaking Lifeline"
-summary: "A bipartisan group of U.S. lawmakers has introduced the MATCH Act, legislation that would ban exports of deep-ultraviolet (DUV) immersion lithography systems and related chipmaking equipment to Huawei, SMIC, CXMT, YMTC, and other Chinese firms. The bill also pressures allied nations — including the Netherlands, Japan, and South Korea — to align their own export controls within 150 days or face U.S. sanctions."
+summary: "A bipartisan group of U.S. lawmakers has introduced the MATCH Act, legislation that would ban exports of deep-ultraviolet (DUV) immersion lithography systems to China and tighten restrictions on firms including Huawei, SMIC, CXMT, YMTC and Hua Hong. The bill also seeks to align allied export controls, with a 150-day deadline for an agreement and national security waivers if more time is needed."
 category: "policy"
 publishedAt: 2026-04-13T09:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -30,29 +31,29 @@ relatedSlugs:
   - "2026-04-03-us-china-chip-war-en"
 ---
 
-The United States Congress has introduced what experts are calling the most consequential semiconductor export control legislation since the Biden administration's landmark October 2022 rules: the MATCH Act, a bipartisan bill that would explicitly ban the sale, export, maintenance, and technical support of deep-ultraviolet (DUV) immersion lithography systems to a named list of Chinese chipmakers — and would compel allied nations to follow suit.
+A bipartisan group of U.S. lawmakers has introduced the MATCH Act, a bill that would ban the sale and servicing of deep-ultraviolet (DUV) immersion lithography systems and other critical chipmaking tools in China, with tougher restrictions on named Chinese chipmakers, and would seek to bring allied nations into line.
 
 If enacted, the bill would close what analysts have long identified as the most significant remaining gap in the U.S. semiconductor export control regime: the continued availability of ASML's older DUV machines to Chinese fabs.
 
 ## The Gap in the Current Controls
 
-When the Biden administration imposed sweeping chip export controls in 2022, the restrictions targeted extreme-ultraviolet (EUV) lithography — the most advanced technology, available exclusively from ASML, without which chips below approximately 7nm cannot be manufactured at scale. The controls prevented ASML from shipping any new EUV machines to China and were widely considered effective at their stated objective.
+The U.S. has already implemented a China-wide export ban on extreme-ultraviolet (EUV) lithography machines, the most advanced form of lithography, which is used to manufacture the world's most advanced AI chips. The controls prevented ASML from shipping any new EUV machines to China and were widely considered effective at their stated objective.
 
-But DUV lithography — an older but still capable generation of the technology — remained in a gray zone. China's leading fabs had already accumulated a substantial installed base of DUV equipment, much of it ASML's Twinscan NXT series. Crucially, DUV machines can be used in "multi-patterning" workflows that achieve effective resolutions comparable to 5nm, enabling the manufacture of chips competitive with those produced on more modern nodes.
+But DUV lithography — an older but still capable generation of the technology — remained in a gray zone. China's leading fabs had already accumulated a substantial installed base of DUV equipment, much of it ASML's Twinscan NXT series. Crucially, DUV machines can be used in multiple-patterning workflows that achieve 7-10nm with ASML's NXT:1980 series, enabling the manufacture of very advanced, though not the most advanced, chips.
 
-SMIC's Huawei Kirin 9010 processor — which powers the Mate 60 Pro smartphone and appeared in 2023 despite the controls — is the most cited evidence of this gap. Produced on a 7nm-equivalent process using multi-patterning DUV techniques, it demonstrated that hardware export controls had not achieved their intended effect.
+SMIC's Huawei Kirin 9010 processor — which powers the Mate 60 Pro smartphone and appeared in 2023 despite the controls — is the most cited evidence of this gap. SMIC has used such DUV equipment with multiple-patterning techniques to produce 7-nanometer chips for Huawei despite US sanctions.
 
 ## What the MATCH Act Would Do
 
 The MATCH Act would make several significant changes to the current control regime:
 
-**Explicit targeted bans**: The bill lists SMIC, Hua Hong Semiconductor, Huawei, CXMT (ChangXin Memory Technologies), and YMTC (Yangtze Memory Technologies Corporation) by name as entities for which all DUV immersion lithography sales and support would be prohibited. The named-entity approach is more aggressive than the current "license required" framework, under which some transactions have been approved or have gone unreported.
+**Explicit targeted bans**: The bill names ChangXin Memory Technologies (CXMT), Hua Hong, Huawei, SMIC and Yangtze Memory Technologies Corp (YMTC) for tougher restrictions that would limit exports, servicing and technical support to these firms and their affiliates, on top of a China-wide ban on DUV machines. The named-entity approach is more aggressive than the current "license required" framework, under which some transactions have been approved or have gone unreported.
 
-**Broader equipment scope**: Rather than focusing solely on the lithography machines themselves, the MATCH Act extends controls to DUV-adjacent tooling: through-silicon via (TSV) deposition and etch equipment, cryogenic etch tools, and cobalt deposition systems. These are the specific tools required to enable the multi-patterning workflows that allow DUV to achieve advanced-node-equivalent results.
+**Broader equipment scope**: Rather than focusing solely on the lithography machines themselves, the MATCH Act extends controls to DUV-adjacent tooling: through-silicon via (TSV) deposition and etch equipment, cryogenic etch tools, and cobalt deposition systems. TSV and cryogenic etching allow engineers to drill deep vertical pathways through the silicon wafer to stack layers, while cobalt deposition provides the metal wiring that connects those layers.
 
-**Maintenance and support prohibition**: The bill would ban not just the sale of new machines but the ongoing servicing, calibration, and software updates that keep existing DUV equipment running. This provision, if enforced, would accelerate the degradation of China's installed DUV base over time.
+**Maintenance and support prohibition**: The bill would ban not just the sale of new machines but the servicing and maintenance of existing equipment already operating in China. This provision, if enforced, would accelerate the degradation of China's installed DUV base over time.
 
-**Allied-nation coordination deadline**: The most geopolitically significant provision gives allied supplier countries — the Netherlands, Japan, South Korea, and Taiwan — 150 days to demonstrate that their own export control regimes match the U.S. restrictions. If they fail to do so, the U.S. Department of Commerce would be authorized to implement direct restrictive measures against companies in those countries that continue to sell to named Chinese entities.
+**Allied-nation coordination deadline**: The bill sets up a diplomatic track to align export controls with US allies and partners, with a 150-day deadline to reach an agreement and national security waivers if more time is required. If allies fail to match U.S. restrictions within a defined period, the bill would extend controls to foreign-made equipment that uses U.S. technology, including through the foreign direct product rule.
 
 ## Why DUV Still Matters
 
@@ -64,9 +65,9 @@ Banning the maintenance lifeline is different from banning new sales. It creates
 
 ## Allied Reaction
 
-The 150-day ultimatum directed at the Netherlands, Japan, South Korea, and Taiwan is the bill's most diplomatically sensitive element, and it has generated swift pushback from industry and some diplomatic channels.
+The 150-day deadline for aligning export controls with allies such as the Netherlands and Japan is a diplomatically sensitive element of the bill.
 
-ASML — which derives approximately 15% of its annual revenue from China customers — has lobbied against stricter DUV controls for years, arguing that the restrictions benefit competitors while the company bears the cost. The Dutch government has previously required ASML to obtain export licenses for DUV shipments to China but has not imposed an outright ban. The MATCH Act's 150-day countdown would put significant pressure on The Hague to act.
+China was ASML's biggest market in the fourth quarter of 2025, representing 36% of its net system sales. In June 2023, ASML said it would need Dutch export licenses for its most advanced DUV immersion systems, and by January 2024 Dutch authorities had revoked licenses for the NXT:2050i and NXT:2100i.
 
 Japan's semiconductor equipment makers, including Tokyo Electron and Shin-Etsu Chemical, have similarly warned that aggressive controls would accelerate Chinese efforts to develop domestic alternatives — potentially undermining the long-term market position of the very companies the controls purport to protect.
 
@@ -74,8 +75,10 @@ Japan's semiconductor equipment makers, including Tokyo Electron and Shin-Etsu C
 
 The MATCH Act reflects a growing consensus among hawkish U.S. policymakers that the existing layered export control approach — targeted restrictions expanded incrementally — is being systematically outpaced by China's ability to stockpile, substitute, and develop indigenous alternatives.
 
-Proponents argue that the window to close the DUV gap is closing: SMIC and Hua Hong are both reportedly investing in domestically developed lithography from Shanghai Micro Electronics Equipment Group (SMEE), which has made incremental progress but has not yet demonstrated production-capable EUV or leading-edge DUV machines. Closing off maintenance support now would compound SMEE's timeline problem.
+Proponents argue that the window to close the DUV gap is closing: some Chinese commentators say domestic firms have developed DUV immersion tools capable of 28nm production, though others note that SMEE's SSA800 may still be in testing and that key components still depend on imports. Closing off maintenance support now would compound SMEE's timeline problem.
 
 Critics counter that the bill's allied-nation ultimatum could fracture the coalition the U.S. needs to make controls effective. Unilateral pressure applied to allies has historically produced resentment rather than compliance, and any regime that excludes Dutch or Japanese equipment will be less comprehensive than one built on genuine coordination.
 
-The bill has been referred to the Senate Commerce Committee and the House Foreign Affairs Committee. Its prospects are uncertain, but the political momentum behind semiconductor export controls has consistently outpaced industry and diplomatic resistance since 2022 — and the Frontier Model Forum's disclosures about Chinese AI distillation campaigns this week have added urgency to the broader conversation about where the technological competition is actually being fought.
+The bill was introduced in the House of Representatives, and Senators Pete Ricketts and Andy Kim are set to introduce a similar bill in the Senate. Its prospects are uncertain, but the political momentum behind semiconductor export controls has consistently outpaced industry and diplomatic resistance since 2022 — and the Frontier Model Forum's disclosures about Chinese AI distillation campaigns this week have added urgency to the broader conversation about where the technological competition is actually being fought.
+
+*Correction (November 15, 2026): 16 sentences were corrected or removed to match the sources listed on this page.*

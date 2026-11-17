@@ -3,6 +3,7 @@ title: "Sam Altman Takes the Stand: OpenAI CEO Reveals Musk Demanded 90% Equity 
 summary: "OpenAI CEO Sam Altman testified in the Musk v. OpenAI trial, revealing that Elon Musk once demanded 90% of the company's equity. Altman defended himself as an 'honest and trustworthy businessperson' while facing a blistering cross-examination. Closing arguments are set for Thursday, with a verdict expected next week."
 category: "industry"
 publishedAt: 2026-05-13
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -34,7 +35,7 @@ The courtroom drama that has gripped Silicon Valley for three weeks reached its 
 
 The most explosive moment of Altman's testimony came when he described Elon Musk's early equity demands during OpenAI's formative years. "An early number that Mr. Musk threw out was that he should have 90% of the equity to start," Altman told the jury. He added that while that figure softened over subsequent negotiations, Musk's insistence on majority control remained a constant theme. "It then softened, but it always was a majority," Altman said.
 
-The disclosure cuts to the heart of Musk's lawsuit, which alleges that Altman, OpenAI president Greg Brockman, and Microsoft conspired to transform what was meant to be a nonprofit AI safety organization into a for-profit enterprise for personal enrichment — what Musk's legal team has characterized as "stealing a charity." Altman's framing inverts that narrative entirely: Musk, by this account, was not a selfless patron of AI safety but an aspiring majority owner who walked away when his control demands were rejected.
+The disclosure cuts to the heart of Musk's lawsuit, which alleges that Altman and OpenAI president Greg Brockman "stole a charity" by shifting the company's purpose to a for-profit venture." Altman's framing inverts that narrative entirely: Musk, by this account, was not a selfless patron of AI safety but an aspiring majority owner who walked away when his control demands were rejected.
 
 "It feels difficult to even wrap my head around that framing," Altman said when confronted with Musk's central accusation.
 
@@ -54,7 +55,7 @@ This account has particular resonance given that Microsoft's $13 billion investm
 
 ## What's Actually at Stake
 
-The trial, now in its third week before U.S. District Judge Yvonne Gonzalez Rogers in Oakland, carries consequences that extend well beyond the two combatants. Musk is seeking injunctive relief that could force OpenAI to restructure — potentially unwinding its controversial shift from a nonprofit to a capped-profit company, or at minimum constraining how the organization deploys its now-vast resources.
+The trial, now in its third week before U.S. District Judge Yvonne Gonzalez Rogers in Oakland, carries consequences that extend well beyond the two combatants. Musk is seeking $150bn in damages from OpenAI and Microsoft, and is pushing for the removal of Altman and Brockman.
 
 The company that emerged from Altman's return in late 2023 is almost unrecognizable from the scrappy nonprofit Musk co-founded in 2015. OpenAI's most recent valuation reached $300 billion following a mega-round led by SoftBank, and the company has aggressively expanded into enterprise software, hardware partnerships, and government contracting. Whether that transformation constitutes a betrayal of OpenAI's founding mission — or its only logical evolution — is precisely the question the advisory jury must now weigh.
 
@@ -75,3 +76,5 @@ The tech industry has followed this trial with unusual intensity, not merely bec
 Altman's testimony did not resolve those questions, but it sharpened them considerably. Whatever the jury decides, the trial has already produced a rare thing in Silicon Valley: a detailed, adversarial accounting of what actually happened inside one of the world's most consequential technology organizations during its most formative years.
 
 The verdict, when it comes, will be read as something far larger than a ruling on a single lawsuit.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

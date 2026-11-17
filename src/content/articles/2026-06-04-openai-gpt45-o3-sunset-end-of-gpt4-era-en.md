@@ -1,8 +1,9 @@
 ---
 title: "OpenAI Retires GPT-4.5 and o3, Closing the Book on the GPT-4 Generation"
-summary: "OpenAI has confirmed it will retire GPT-4.5 on June 27 and o3 on August 26, 2026, ending the last standing members of the GPT-4 model family. GPT-4.5, launched in February, lasted only four months — one of the shortest model lifespans in OpenAI's history — superseded by a GPT-5 lineup that has proven decisively superior on every major benchmark. The retirements mark a genuine generational inflection point in the commercial AI stack."
+summary: "OpenAI has confirmed it will retire GPT-4.5 from ChatGPT on June 27 and o3 on August 26, as it upgrades GPT-5.5 Instant."
 category: "ai-ml"
 publishedAt: 2026-06-04
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ relatedSlugs:
 
 In the technology industry, version numbers tend to accumulate like sediment. Old models pile up in API documentation, get quietly deprecated, and slowly drain off usage. What OpenAI announced this week is different in character: the simultaneous retirement of GPT-4.5 and o3 represents not just model turnover but the formal closure of an architectural and commercial era — the GPT-4 generation — that reshaped how the world thought about artificial intelligence.
 
-GPT-4.5 will be removed from ChatGPT and the API on June 27, 2026. The o3 reasoning model will follow on August 26, 2026. Both are being retired in favor of GPT-5.5 Instant, which has been upgraded this week with quality improvements, and the broader GPT-5 family.
+GPT-4.5 will be retired from ChatGPT on June 27, following a 30-day sunset period. The o3 reasoning model will follow on August 26, when it will be retired from ChatGPT after a 90-day sunset period. OpenAI has also upgraded GPT-5.5 Instant this week with quality improvements.
 
 ## The Unusually Short Life of GPT-4.5
 
@@ -57,13 +58,13 @@ New structural features include writing blocks and code blocks rendered directly
 
 ## Migration Implications for Developers
 
-For API users, the practical impact of GPT-4.5's retirement on June 27 is real. Applications built with the `gpt-4.5` model identifier will stop functioning. OpenAI's migration recommendation is to move to `gpt-5` or `gpt-5.3-codex` depending on whether the application prioritizes general intelligence or coding tasks. The GPT-5 pricing is different from GPT-4.5 — generally higher per token for output, though significantly more capable — so cost modeling will need to be revisited.
+For developers, OpenAI's API deprecations page lists o3 with a shutdown date of December 11, 2026. Applications built with the `gpt-4.5` model identifier will stop functioning. OpenAI's deprecations page recommends gpt-6.1-sol as the replacement for o3, so developers should check the page for current migration guidance. The GPT-5 pricing is different from GPT-4.5 — generally higher per token for output, though significantly more capable — so cost modeling will need to be revisited.
 
-Enterprise customers on Azure OpenAI will face slightly different timelines through Microsoft Foundry's model lifecycle policy, which typically provides extended support windows. But the directional signal is identical: the GPT-4 era is over, and the entire OpenAI ecosystem is now GPT-5 native.
+Enterprise customers on Azure OpenAI will face slightly different timelines through Microsoft Foundry's model lifecycle policy, which typically provides extended support windows. But the directional signal is clear: OpenAI is retiring older models as it moves to newer ones.
 
 ## What the Retirement Tells Us About OpenAI's Velocity
 
-Reading OpenAI's model retirement cadence backward is instructive. GPT-4o was retired earlier this year. GPT-4.5 lasted four months. o3 is being phased out within roughly eighteen months of its debut. The interval between "state-of-the-art" and "deprecated" has compressed to less than a year.
+Reading OpenAI's model retirement cadence backward is instructive. GPT-4o is also listed as deprecated in OpenAI's API documentation, with a shutdown date of January 14, 2027. o3 is being phased out within roughly eighteen months of its debut. The interval between "state-of-the-art" and "deprecated" has compressed to less than a year.
 
 This is partly a function of technical progress — the company is genuinely shipping better models faster than it ever has. But it is also a function of strategic clarity. OpenAI is simplifying its model portfolio aggressively, moving toward a world where most users interact with GPT-5.5 Instant as a universal default, GPT-5 or GPT-5.4 for professional and agentic tasks, and the upcoming GPT-5.6 at the frontier.
 
@@ -76,3 +77,5 @@ For anyone who has followed language AI since GPT-3 in 2020 or GPT-4 in March 20
 The transition to GPT-5 is not merely a version number increment. The models are architecturally different — trained on far more data, with native multimodality, extended context windows, and agentic capabilities that the GPT-4 family could not approach. That gap is why the retirements are happening as rapidly as they are, and why the industry should treat this moment not as routine deprecation but as the end of a chapter.
 
 The next chapter has better tools. But the previous one is worth acknowledging.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

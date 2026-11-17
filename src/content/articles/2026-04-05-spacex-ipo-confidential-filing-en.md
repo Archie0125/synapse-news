@@ -1,8 +1,9 @@
 ---
-title: "SpaceX Files Confidentially for IPO at $1.75 Trillion Valuation — The Biggest Offering in History"
-summary: "SpaceX submitted a confidential draft S-1 registration to the SEC on April 1, targeting a June 2026 public listing at a $1.75 trillion valuation and a $75 billion capital raise — more than three times the largest US IPO on record. The offering would come as SpaceX's xAI merger adds AI infrastructure to its launch and satellite business, setting up the first mega-IPO in a year expected to include OpenAI and Anthropic."
+title: "SpaceX Reportedly Files Confidentially for IPO, Could Seek $1.75 Trillion Valuation"
+summary: "SpaceX has reportedly filed confidentially with the SEC for an IPO, and could seek a $1.75 trillion valuation with a listing around June. The company is reportedly looking to raise up to $75 billion, more than three times the size of the biggest US IPO to date."
 category: "industry"
 publishedAt: 2026-04-05T10:30:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -27,9 +28,9 @@ relatedSlugs:
 
 On April 1, 2026, SpaceX submitted a confidential draft registration statement to the Securities and Exchange Commission — the first formal step toward what could be the largest initial public offering in the history of capital markets. The company is targeting a June listing at a valuation of approximately $1.75 trillion and a capital raise of up to $75 billion.
 
-To appreciate what those numbers represent: Alibaba's 2014 IPO raised $25 billion, the current US record. Saudi Aramco's 2019 offering — the largest IPO globally — raised $25.6 billion. SpaceX's target of $75 billion in a single offering would be more than three times larger than any US IPO ever completed.
+To appreciate what those numbers represent: Alibaba's 2014 IPO raised $22 billion, the biggest US IPO to date. Saudi Aramco's 2019 listing raised $29 billion. SpaceX's target of $75 billion in a single offering would be more than three times larger than any US IPO ever completed.
 
-The confidential filing triggers a 15-day SEC review window before public disclosure is required, meaning the full S-1 registration statement could be made public as early as mid-April 2026.
+Under SEC rules, a confidential filing lets a company receive feedback from the agency in private, and SpaceX will have to release a public filing at least 15 days before its IPO road show.
 
 ## What SpaceX Is Today
 
@@ -71,4 +72,6 @@ The offering would also test whether the AI-era premium that has driven private 
 
 If they do, OpenAI and Anthropic's own IPO paths become significantly smoother. If they don't, the repricing could ripple back through the entire private market for AI-related companies.
 
-The SEC review period has begun. The public S-1 is expected in the coming days. Whatever happens next, the SpaceX IPO will be the most watched capital markets event of 2026.
+The SEC review period has begun. SpaceX will have to release a public filing at least 15 days before its IPO road show. Whatever happens next, the SpaceX IPO will be the most watched capital markets event of 2026.
+
+*Correction (November 15, 2026): 6 sentences were corrected or removed to match the sources listed on this page.*

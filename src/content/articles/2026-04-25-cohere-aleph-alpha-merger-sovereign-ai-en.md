@@ -3,6 +3,7 @@ title: "Cohere Acquires Aleph Alpha in $20B Deal to Build a Transatlantic Sovere
 summary: "Canadian AI company Cohere is merging with Germany's Aleph Alpha in a $20 billion deal backed by a $600 million Series E led by retail giant Schwarz Group. Announced in Berlin with both countries' digital ministers in attendance, the deal is as much geopolitical as it is commercial — positioning the combined entity as the leading non-US, non-Chinese AI provider for regulated enterprises and governments worldwide."
 category: "startups"
 publishedAt: 2026-04-25
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -29,9 +30,9 @@ relatedSlugs:
   - "2026-04-23-thinking-machines-lab-google-cloud-deal-en"
 ---
 
-In a deal announced Thursday in Berlin, with representatives from two governments standing at the podium alongside the CEOs, Cohere has agreed to acquire Germany's Aleph Alpha — creating a combined entity valued at approximately **$20 billion** that both companies are positioning as the world's premier sovereign AI provider.
+In a deal announced Friday in Berlin, with Germany's and Canada's digital ministers in attendance, Cohere and Aleph Alpha said they have agreed to merge — creating a combined entity valued at approximately **$20 billion** that is being positioned as a transatlantic sovereign AI provider.
 
-The merger brings together Cohere, the Toronto-based enterprise AI model company co-founded by Google Brain veteran Aidan Gomez, with Aleph Alpha, the Heidelberg startup that has spent the better part of three years building AI infrastructure for European governments and regulated industries. The combined company will be headquartered in Toronto and maintain significant European operations out of Germany.
+The merger brings together Cohere, the Toronto-based enterprise AI model company co-founded by Google Brain veteran Aidan Gomez, with Aleph Alpha, the Heidelberg startup that has spent the better part of three years building AI infrastructure for European governments and regulated industries. Cohere will retain its name, with operating headquarters in Canada and Germany.
 
 ## Structure and Financing
 
@@ -69,7 +70,7 @@ The deal also has implications for the broader enterprise AI landscape. AI21 Lab
 
 ## Aleph Alpha's Trajectory
 
-Aleph Alpha was founded in 2019 by Jonas Andrulis, who had previously worked at Apple's AI labs. The company raised €500 million in 2023 in one of the largest European AI rounds of that year, at a valuation of approximately $5 billion. The 10% share in the combined $20 billion entity implies Aleph Alpha shareholders are receiving a valuation of roughly **$2 billion** — a markdown from the 2023 funding round, which reflects the reality that Aleph Alpha, for all its government relationships, never achieved the commercial model velocity to justify its prior valuation independently.
+Aleph Alpha was founded in 2019 by Jonas Andrulis, who had previously worked at Apple's AI labs. The company was valued at around €2.7 billion (about $3 billion) following its November 2023 fundraising round.
 
 Andrulis will take a senior role in the combined company, focused on European government and regulated industry business — the domain where his network is deepest.
 
@@ -80,3 +81,5 @@ The Series E is expected to close within the next several weeks, with full regul
 For enterprise technology buyers, particularly those in regulated European industries who have been watching the sovereign AI space, the deal may finally provide the answer they have been waiting for: a single, capable, contractually reliable alternative to the U.S. hyperscaler-AI stack. Whether Cohere and Aleph Alpha can execute on that promise at scale — building and deploying competitive models while also managing the complexity of sovereign infrastructure across multiple jurisdictions — is the central question the combined company will need to answer.
 
 The market, at least, has given them a $20 billion vote of confidence to try.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "China Imposes Travel Restrictions on Top AI Researchers at DeepSeek and 
 summary: "Beijing has expanded travel curbs to cover senior AI professionals at major private firms including DeepSeek and Alibaba, requiring pre-approval from government authorities before any overseas travel. The policy treats elite AI researchers as national security assets and escalates China's effort to prevent talent and knowledge from flowing to Western competitors."
 category: "policy"
 publishedAt: 2026-05-28
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -28,15 +29,15 @@ relatedSlugs:
   - "2026-04-03-us-china-chip-war-en"
 ---
 
-China has formally extended travel restrictions to senior AI professionals at major private sector companies including DeepSeek and Alibaba, Bloomberg reported on May 26. The policy — which requires individuals deemed strategically important to obtain pre-approval from government authorities before traveling abroad — represents the most aggressive step Beijing has yet taken to treat elite AI talent as a national security asset on par with military technology.
+China has formally extended travel restrictions to senior AI professionals at major private sector companies including DeepSeek and Alibaba, Bloomberg reported on May 26. The policy, which requires individuals deemed strategically important to obtain approval from authorities before traveling abroad, extends a form of state control previously reserved for nuclear scientists and executives at state-owned enterprises.
 
-The restrictions apply to startup founders, researchers, and executives working on advanced AI, and mark a significant escalation from informal guidance that had been quietly in place since late 2025. According to people familiar with the policy, the shift from advisory to mandatory is material: what was previously understood as a strong preference has hardened into a formal pre-approval requirement with real enforcement mechanisms.
+The restrictions apply to startup founders, researchers, and executives working on advanced AI, and mark a significant escalation from earlier informal guidance, which the Wall Street Journal reported as early as March 2025. According to people familiar with the policy, the shift from advisory to mandatory is material: what was previously understood as a strong preference has hardened into a formal pre-approval requirement with real enforcement mechanisms.
 
 ## From DeepSeek to the Whole Sector
 
 The origins of this policy trace to December 2025, when restrictions were first quietly applied to certain executives at DeepSeek's parent company, High-Flyer. Early reporting described High-Flyer as holding some employees' passports rather than issuing a formal government travel ban — a practice that sat in a legal grey zone between employer policy and state control.
 
-The expansion announced last week moves beyond individual firms and beyond the informal phase. Beijing has instructed government agencies to begin vetting overseas travel requests from individuals involved in advanced AI work across the private sector. Alibaba — whose AI research division DAMO Academy and large language model portfolio have grown significantly in 2026 — is specifically named in the Bloomberg report alongside DeepSeek.
+Government agencies are reportedly applying the restrictions as administrative pressure, evaluating individuals involved in advanced AI work across the private sector; Beijing has neither confirmed nor denied the policy. Alibaba — whose AI research division DAMO Academy and large language model portfolio have grown significantly in 2026 — is specifically named in the Bloomberg report alongside DeepSeek.
 
 Neither Alibaba nor DeepSeek has publicly commented on the restrictions.
 
@@ -85,3 +86,5 @@ Second, the pace of AI development has become fast enough that individual resear
 Third, the era of treating AI as a globally open, collaborative scientific enterprise — the culture that produced the transformer architecture, open-weight models, and the shared benchmark infrastructure that the whole field depends on — is ending. The fracture lines are hardening faster than most participants in that collaborative tradition expected or wanted.
 
 For the global AI research community, the most optimistic reading is that restrictions of this kind tend to be imperfectly enforced and gradually eroded by economic and scientific pressure over time. The pessimistic reading is that 2026 is the year when the bifurcation of the global AI ecosystem became effectively irreversible.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

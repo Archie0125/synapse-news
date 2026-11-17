@@ -1,8 +1,9 @@
 ---
-title: "DeepSeek's First Funding Round: Tencent Wants 20%, Valuation Hits $20 Billion"
-summary: "DeepSeek, the Chinese AI startup that shocked Silicon Valley in early 2025, is raising outside capital for the first time. Tencent has proposed acquiring a 20% stake, Alibaba is also circling, and the startup's valuation doubled from $10 billion to $20 billion-plus in under 48 hours — a sign of how desperate China's tech giants are to own a piece of the country's hottest AI lab."
+title: "DeepSeek in Talks on First Funding Round: Tencent Offers Up to 20%, Valuation Target Above $20 Billion"
+summary: "DeepSeek, the Chinese AI startup that gained attention in early 2025, is in talks for its first outside funding round. Tencent has offered to buy up to a 20% stake, Alibaba is also negotiating, and investor interest reportedly pushed the valuation target above $20 billion in just 48 hours."
 category: "startups"
 publishedAt: 2026-04-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,9 +32,9 @@ relatedSlugs:
 
 It took less than 48 hours for DeepSeek's opening ask to become obsolete.
 
-When the Chinese AI lab first began approaching prospective investors in late April, it sought to raise around $300 million at a valuation of at least $10 billion — a respectable number for a startup that had, until then, operated without any outside capital. But investor demand was so overwhelming that the valuation had already more than doubled to above $20 billion before formal term sheets were even circulated, according to multiple people familiar with the matter reported by The Information and Bloomberg.
+When the Chinese AI lab began talks with prospective investors, it reportedly sought to raise at least $300 million at a valuation of at least $10 billion — a respectable number for a startup that had, until then, operated without any outside capital. But investor demand was so overwhelming that the valuation had already more than doubled to above $20 billion before formal term sheets were even circulated, according to multiple people familiar with the matter reported by The Information and Bloomberg.
 
-Now Tencent Holdings is proposing to acquire a stake of as much as 20% in the company. Alibaba Group is also engaged in discussions. And DeepSeek — the lab that triggered a market selloff in January 2025 when its open-source R1 model outperformed American rivals at a fraction of the cost — finds itself navigating its most consequential business decision yet: who to let in the door, and on whose terms.
+Now Tencent Holdings has reportedly offered to buy up to a 20% stake in the company, though DeepSeek does not want to give up that much control. Alibaba Group is also engaged in discussions. And DeepSeek — the lab that triggered a market selloff in January 2025 when its open-source R1 model outperformed American rivals at a fraction of the cost — finds itself navigating its most consequential business decision yet: who to let in the door, and on whose terms.
 
 ## From Quant Fund Side Project to National Asset
 
@@ -78,3 +79,5 @@ Several questions remain open. Will DeepSeek accept a 20% stake offer from Tence
 The answers will shape not only DeepSeek's trajectory but also the structure of China's AI ecosystem for years to come. A startup that built its reputation on doing more with less — on scrappy efficiency over brute-force spending — is now navigating a funding negotiation that could define its soul.
 
 High-Flyer's Liang Wenfeng has long projected an image of a researcher-operator who prioritizes scientific progress over commercial ambition. The $20 billion question is whether that image survives contact with Tencent's strategic interest and Alibaba's competitive calculations.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

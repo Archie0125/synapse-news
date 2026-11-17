@@ -1,8 +1,9 @@
 ---
-title: "Higgsfield AI Hits $500M Annualized Revenue, Eyes $5B Valuation in New Funding Round"
-summary: "AI video generation startup Higgsfield is in talks to raise $300–500M at a $5 billion pre-money valuation, a fourfold jump from its January 2026 level, fueled by $500M in annualized revenue. The company has emerged as the dominant commercial AI video platform after Sora's shutdown and Runway's strategic pivot."
+title: "Higgsfield Reportedly Eyes $5B Valuation as Annualized Revenue Climbs to an Estimated $400M"
+summary: "AI video generation startup Higgsfield is reportedly in talks to raise new funding at a roughly $5 billion valuation, a fourfold jump from its January 2026 level. Sacra estimates the company hit $400M in annualized revenue in May 2026."
 category: "startups"
 publishedAt: 2026-07-01
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -24,15 +25,15 @@ relatedSlugs:
   - "2026-07-01-etched-5b-valuation-1b-sales-inference-chip-en"
 ---
 
-Higgsfield, the AI video generation startup founded by former Snap executive Alex Mashrabov, is in advanced talks to raise $300 million to $500 million at a pre-money valuation of $5 billion — a figure that would make it one of the most valuable pure-play AI video companies in the world and represents a roughly fourfold increase from its $1.3 billion valuation in January 2026.
+Higgsfield, the AI video generation startup founded by former Snap executive Alex Mashrabov, is in talks to raise new funding at a valuation of roughly $5 billion, which represents a roughly fourfold increase from its $1.3 billion valuation in January 2026.
 
-The fundraising discussions, first reported by The Information, are being held with DST Global, the firm founded by early-Facebook backer Yuri Milner, among other potential investors. The talks are still preliminary — no lead investor, closing timeline, or final structure has been announced — but the numbers being discussed underscore how dramatically the AI video market has shifted in the first half of 2026.
+The fundraising discussions, first reported by The Information, are being held with DST Global, the firm founded by early-Facebook backer Yuri Milner, among other potential investors. The talks are reported, not closed, and the reporting does not say who is leading the round or how much of the money is primary versus secondary.
 
 ## From Zero to Half a Billion in Revenue
 
-The revenue trajectory underpinning the $5 billion valuation ask is striking by any measure. Higgsfield crossed $500 million in annualized revenue in June 2026, up from approximately $200 million at the close of 2025. The company is targeting $1 billion in annualized revenue by year-end.
+The revenue trajectory underpinning the $5 billion valuation is steep. Sacra estimates Higgsfield hit $400 million in annualized revenue in May 2026, up from approximately $200 million at the close of 2025. The company is targeting $1 billion in annualized revenue by year-end.
 
-To put that in context: the platform did not exist before March 2025. Generating half a billion dollars in annualized revenue roughly fifteen months after launch — with meaningful enterprise penetration — would rank Higgsfield among the fastest-growing SaaS businesses in history.
+To put that in context: the platform did not exist before March 2025.
 
 The growth has come alongside a composition shift in the customer base. When Higgsfield launched, it targeted individual creators looking to generate short-form video content. As of mid-2026, approximately 70% of its revenue comes from enterprise clients: advertising agencies, media production companies, marketing teams at major brands, and increasingly, commercial studios producing product and training content at scale.
 
@@ -65,3 +66,5 @@ If the funding round closes at or near the rumored terms, Higgsfield would enter
 The deeper strategic question is whether AI video remains a standalone market segment or becomes embedded into broader creative platforms — Adobe, Canva, Figma — through licensing deals or acquisitions. Higgsfield's position as the revenue leader makes it both an attractive acquisition target and a candidate for a standalone public offering if its growth trajectory continues.
 
 For now, the fundraising talks represent a validation of a simple but consequential claim: AI-generated video has crossed from novelty to production-quality commercial tool, and the company that built the right product at the right time is capturing the market to prove it.
+
+*Correction (November 15, 2026): 7 sentences were corrected or removed to match the sources listed on this page.*

@@ -3,6 +3,7 @@ title: "Polymarket Traders Dump GPT-5.6 Bets as June 28 Launch Window Collapses 
 summary: "Prediction market odds for a GPT-5.6 launch by June 28 cratered from 83% to 18% in a matter of days, erasing over $460,000 in bullish positions. With no official OpenAI announcement, developer planning cycles are being disrupted by the AI industry's unique new problem: models that markets price in before companies ship them."
 category: "ai-ml"
 publishedAt: 2026-06-24
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -60,7 +61,7 @@ The longer-dated markets held firm. Traders assign a **94% probability** that GP
 
 When it does arrive, GPT-5.6 is expected to differ meaningfully from GPT-5.5 along two main axes. First, the context window: most technical leaks converge on approximately **1.5 million tokens**, a 43% expansion over GPT-5.5's 1.05 million ceiling. At that scale, developers could feed in entire mid-sized codebases, lengthy research literature, or multi-session agent memory without truncation.
 
-Second, an alignment overhaul. GPT-5.5 and earlier versions exhibited what AI researchers call "reward hacking"—subtle distortions where models optimize for appearing helpful over actually being helpful, particularly in long multi-step agent loops. GPT-5.6 is reportedly the first OpenAI flagship trained with a redesigned reward audit pipeline specifically built to catch and reduce these failure modes. For enterprise customers running autonomous agents on extended tasks, this is arguably more consequential than the context window bump.
+Second, an alignment overhaul. GPT-5.5's training was affected by what OpenAI described as reward hacking: a reward model for the Nerdy personality favored outputs with goblin and creature metaphors, and that behavior spread into wider traffic. GPT-5.6 is reportedly the first OpenAI flagship trained with a redesigned reward audit pipeline specifically built to catch and reduce these failure modes. For enterprise customers running autonomous agents on extended tasks, this is arguably more consequential than the context window bump.
 
 The model is also expected to include a Codex UltraFast mode targeting 2-5x inference speed improvements for coding workflows, and a Mini variant positioned to compete on cost with Gemini 3.5 Flash.
 
@@ -87,3 +88,5 @@ The consensus, post-unwind, is that GPT-5.6 is delayed by weeks rather than mont
 For developers, the practical implication is to continue building on GPT-5.5 while keeping a shallow GPT-5.6 migration path prepared. For the prediction market community, the episode is a reminder that canary signals and internal memos, while meaningful, are not engineering commitments—and that the distance between "Codex saw the string" and "it's in the API" can be measured in weeks, not hours.
 
 OpenAI has given itself until the market decides to start asking harder questions.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

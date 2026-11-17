@@ -3,6 +3,7 @@ title: "Apple Tests Four Smart Glasses Designs as It Prepares to Take On Meta Ra
 summary: "Bloomberg's Mark Gurman revealed Apple is testing at least four frame styles for AI-powered smart glasses set for a 2027 launch, powered by a custom N401 chip and dual cameras. The no-display device positions Apple squarely against Meta's wildly popular Ray-Ban smart glasses, while a simultaneous leadership shake-up sees AI chief John Giannandrea retire."
 category: "hardware"
 publishedAt: 2026-04-14T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -67,8 +68,10 @@ Third-party analysts estimate Apple could ship between 8 million and 15 million 
 
 ## Timeline and What Comes Next
 
-Apple is targeting an announcement either at its fall 2026 event or early 2027, with retail availability in spring or summer 2027. The company typically runs parallel prototype tracks before committing to final industrial design, so the existence of four distinct frame styles does not necessarily mean all four will ship — Apple may converge on two or even one before finalization.
+Apple is targeting an announcement either later this year or early in 2027, with release in spring or summer 2027. The company typically runs parallel prototype tracks before committing to final industrial design, so the existence of four distinct frame styles does not necessarily mean all four will ship — Apple may converge on two or even one before finalization.
 
 What is clear is that the timeline has firmed up considerably from the exploratory phase that characterized Apple's wearables road map just twelve months ago. With Meta accelerating, Google testing its own AI glasses through partnerships, and Amazon rumored to be working on smart glasses tied to Alexa, Apple no longer has the luxury of a patient, multi-year runway.
 
 The next wave of personal computing is being worn on faces. Apple, characteristically, arrived later than the pioneers — but rarely arrives last.
+
+*Correction (November 15, 2026): 1 sentence was corrected or removed to match the sources listed on this page.*

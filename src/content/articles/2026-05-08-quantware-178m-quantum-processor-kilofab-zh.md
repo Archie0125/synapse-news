@@ -1,8 +1,9 @@
 ---
-title: "QuantWare 募得 1.78 億美元：史上最大量子處理器私募輪，打造萬量子比特工廠"
-summary: "荷蘭量子硬體新創 QuantWare 完成史上最大規模量子處理器私募融資，B 輪募得 1.78 億美元，由 Intel Capital 領投。公司計劃建設「KiloFab」——全球首座大規模量子開放架構晶圓廠，目標產能提升 20 倍，並推出支援萬量子比特的 VIO-40K 處理器架構。"
+title: "QuantWare 募得 1.78 億美元，打造 KiloFab——全球最大的專用量子開放架構晶圓廠"
+summary: "荷蘭量子硬體公司 QuantWare 完成 B 輪融資，募得 1.78 億美元，為專業量子處理器公司迄今最大的私募融資。公司將建設晶圓廠 KiloFab，使產能提升 20 倍，此前已宣布支援萬量子比特的處理器架構。Intel Capital、IQT 及 ETF Partners 為新加入的投資方。"
 category: "hardware"
 publishedAt: 2026-05-08
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "zh"
 featured: true
 trending: false
@@ -27,7 +28,7 @@ relatedSlugs:
   - "2026-04-15-ionq-photonic-quantum-networking-darpa-zh"
 ---
 
-量子運算產業剛創下私募融資新紀錄。荷蘭新創公司 QuantWare 於 5 月 5 日宣布完成 1.78 億美元（約合 1.52 億歐元）的 B 輪融資，成為量子處理器專業公司有史以來最大的私募融資案。此輪融資大幅超募，新投資方包括 Intel Capital、IQT 及 ETF Partners，現有股東 FORWARD.one、Invest-NL Deep Tech Fund、InnovationQuarter Capital、Ground State Ventures 及 Graduate Ventures 也持續跟投。
+量子硬體產業剛迎來專業量子處理器公司迄今最大的一筆私募融資。荷蘭新創公司 QuantWare 於 5 月 5 日宣布完成 1.78 億美元（約合 1.52 億歐元）的 B 輪融資，為專業量子處理器公司迄今最大的私募融資。此輪融資大幅超募，吸引的新投資方包括 Intel Capital、IQT 及 ETF Partners，現有股東 FORWARD.one、Invest-NL Deep Tech Fund、InnovationQuarter Capital、Ground State Ventures 及 Graduate Ventures 也持續跟投。
 
 這筆資金將用於打造 KiloFab——QuantWare 自創的術語，指一座專為量子晶片生產設計的大規模晶圓廠。公司宣稱 KiloFab 將使產能提升 20 倍。這不是漸進式擴張，而是從實驗室規模跨越到工業量產的根本性轉型。
 
@@ -37,11 +38,11 @@ relatedSlugs:
 
 QuantWare 的核心技術優勢在於其模組化的 VIO（多功能整合開放，Versatile Integrated Open）架構。量子處理器可由標準化模組組合而成，而非逐一手工打造。這種方法能在保持良率的同時實現規模化生產——而「良率」正是量子晶片大規模製造最棘手的障礙之一。
 
-目前 QuantWare 已向全球 20 個國家、逾 50 家客戶出貨，是全球出貨量最大的商業量子處理器供應商。多數客戶是量子電腦整機廠商及研究機構，他們以 QuantWare 的硬體為基礎，自行構建完整的軟硬體技術堆疊。
+目前 QuantWare 已向全球 20 個國家、逾 50 家客戶出貨，是全球出貨量最大的商業 QPU 供應商。多數客戶是量子電腦整機廠商及研究機構，他們以 QuantWare 的硬體為基礎，自行構建完整的軟硬體技術堆疊。
 
 ## Intel Capital 為何此時投注量子賽道
 
-Intel 旗下創投部門鮮少高調押注量子領域。此次加入領投，代表這家晶片巨頭將量子供應鏈視為戰略優先布局，而非僅是學術探索。值得注意的是，Intel 自身的量子研究聚焦於矽自旋量子比特（silicon spin qubit），與 QuantWare 的超導量子比特技術路線截然不同——因此這筆投資更像是對不同量子架構的多元布局，而非重押單一技術路徑。
+Intel 旗下創投部門鮮少高調押注量子領域。此次加入投資，代表這家晶片巨頭將量子供應鏈視為戰略優先布局，而非僅是學術探索。值得注意的是，Intel 自身的量子研究聚焦於矽自旋量子比特（silicon spin qubit），與 QuantWare 的超導量子比特技術路線截然不同——因此這筆投資更像是對不同量子架構的多元布局，而非重押單一技術路徑。
 
 整體來說，2025 至 2026 年間量子運算的創投生態已明顯成熟。2022 至 2024 年間部分量子新創遭遇質疑與裁員，但 Google 於 2024 年底展示突破性錯誤修正成果、IBM 持續達到量子比特里程碑，都為機構投資者重回量子賽道提供了關鍵技術背書。
 
@@ -70,3 +71,5 @@ QuantWare 的時間賭注是：KiloFab 投產時，量子處理能力的需求�
 美中歐三方都在積極爭奪量子計算的領導地位，而密碼學、國家安全及工業競爭力均與此息息相關。歐洲若能擁有一家具備萬量子比特規模工業量產能力的公司，其戰略意義不亞於在半導體領域的突破。KiloFab 的發布，意味著歐洲可能在多數國家計劃原本預期的時間之前，就擁有自己的量子晶片代工廠。
 
 對一個有時因過度承諾、交付不足而遭批評的產業來說，QuantWare 在需求完全成形之前先建設產能的策略，是一場有計算的豪賭。如果量子技術的時程如研究人員目前預測的那樣展開，KiloFab 就能在量子處理需求從實驗性跨越到任務關鍵的那一刻及時就位。那是一個需要精準把握的窗口——但 1.78 億美元，足以支撐一次認真的嘗試。
+
+*更正（2026 年 11 月 15 日）：已依本頁列出的來源更正或刪除 7 處。*

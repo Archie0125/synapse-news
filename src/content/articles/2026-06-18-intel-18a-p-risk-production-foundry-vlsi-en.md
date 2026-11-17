@@ -3,6 +3,7 @@ title: "Intel's 18A-P Process Enters Risk Production, Pushing Back Against TSMC'
 summary: "Intel Foundry unveiled its 18A-P process node at the VLSI 2026 Symposium, moving into risk production and delivering up to 9% performance gains and 18% power savings over 18A. The launch marks Intel's most credible challenge yet to TSMC's dominance in the AI chip manufacturing market."
 category: "hardware"
 publishedAt: 2026-06-18
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -36,7 +37,7 @@ Intel, which once led the industry in semiconductor manufacturing, has been on a
 
 ## What Risk Production Means
 
-"Risk production" is a term of art in semiconductor manufacturing. It refers to the phase where wafers are being fabricated on the new process, but before full-scale manufacturing ramp. The "risk" in question is the customer's — typically a fabless chip designer who agrees to have their product made on a process that hasn't yet been fully validated at volume. If the process has issues, yields suffer and the chip fails to perform as specified.
+"Risk production" is a term of art in semiconductor manufacturing. It refers to the phase where the official qualification process is not yet complete, but Intel is confident enough in its data to start ramping production with a view to selling the dies. The "risk" in question is the customer's — typically a fabless chip designer who agrees to have their product made on a process that hasn't yet been fully validated at volume. If the process has issues, yields suffer and the chip fails to perform as specified.
 
 The fact that 18A-P has entered risk production means Intel has chips going through its fabrication facilities on this process right now. It meets a timeline that Intel shared with customers and partners at the start of the year — a notable achievement for a company that has repeatedly missed its own roadmap targets over the past several years.
 
@@ -44,7 +45,7 @@ The fact that 18A-P has entered risk production means Intel has chips going thro
 
 The headline figures are compelling for a process derivative — typically a more conservative upgrade than a new node:
 
-- **9% higher performance** at equivalent power, based on a fully routed Arm core test vehicle
+- **9% higher performance** at equivalent power, based on an example of two identical Arm core sub-blocks, one on 18A and one on 18A-P
 - **18% lower power consumption** at equivalent performance
 - **20–40% improvement in thermal resistance**
 - **10–30% lower via resistance** on performance-critical interconnect layers
@@ -53,7 +54,7 @@ These are measured numbers from actual silicon, presented at a peer-reviewed sym
 
 ## The PowerVia Breakthrough
 
-The most technically significant innovation in 18A-P is the **Dual-Contact Power Boost structure**, which combines Intel's traditional front-side metal contacts with direct backside contacts enabled through **PowerVia** technology — Intel's implementation of backside power delivery.
+One of the key innovations in 18A-P is a dual-contact design Intel calls **Power Boost**, which adds a direct backside contact alongside the front-side contact, enabled by backside interconnects.
 
 Conventional chip manufacturing routes power through the same metal layers as signals, creating a conflict between power delivery and signal routing. Backside power delivery moves power to the back of the wafer, freeing the front-side layers entirely for signals. This reduces parasitic resistance in the power delivery network, improves current delivery uniformity, and allows transistors to operate at higher drive strength without sacrificing efficiency.
 
@@ -76,3 +77,5 @@ The 18A and 18A-P timeline, if it holds through full production, begins to rebui
 Intel 18A-P entering risk production is not a victory lap. It is a prerequisite for becoming viable. The company needs to get to high-yield volume production, attract anchor external customers willing to commit future designs to 18A-P, and maintain its process roadmap cadence through 14A and beyond. The VLSI Symposium announcement is a credible signal that the prerequisites are being met — one milestone at a time.
 
 Whether the AI chip market will wait for Intel to fully arrive, or whether TSMC's lead will prove insurmountable, is a question the semiconductor industry will be answering over the next 24 months. The answer has consequences well beyond the chip industry: it will shape where AI compute is manufactured, and therefore who controls the physical infrastructure of the next decade's AI revolution.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

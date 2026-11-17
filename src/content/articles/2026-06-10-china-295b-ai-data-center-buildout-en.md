@@ -1,8 +1,9 @@
 ---
-title: "China's $295 Billion AI Infrastructure Blitz Is Designed to Lock Out Nvidia Forever"
-summary: "Beijing has unveiled a five-year, 2-trillion-yuan ($295 billion) plan to build a nationwide network of AI data centers. The scheme mandates 80% domestic chip sourcing, squeezing out Nvidia and AMD while positioning Huawei as the central hardware winner. When electricity grid upgrades are included, the total bill could exceed 5 trillion yuan."
+title: "China's Reported $295 Billion AI Buildout Would Shut Out Nvidia and AMD"
+summary: "Beijing is preparing a five-year, 2-trillion-yuan ($295 billion) plan to build a nationwide network of AI data centers. The plan would require at least 80% domestic technology, effectively shutting out Nvidia and AMD, with Huawei standing to gain the most. Including power infrastructure, the total investment could reach at least 5 trillion yuan."
 category: "industry"
 publishedAt: 2026-06-10
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: true
 trending: true
@@ -30,13 +31,13 @@ relatedSlugs:
   - "2026-06-09-google-spacex-30b-compute-deal-en"
 ---
 
-For years, U.S. chip export controls have been described as a ceiling on China's artificial intelligence ambitions. Beijing's response, now formally taking shape, is to blow through that ceiling with state money. On June 9, Bloomberg reported that Chinese government agencies have drafted a blueprint to deploy roughly 2 trillion yuan — approximately $295 billion — across five years to erect a nationwide network of interconnected AI computing hubs. The plan, being coordinated by the National Development and Reform Commission, represents the most ambitious AI infrastructure initiative ever conceived by a single government, and it comes with a deliberate design feature: at least 80% of all hardware must be sourced from domestic suppliers.
+For years, U.S. chip export controls have been described as a ceiling on China's artificial intelligence ambitions. Beijing's response, now formally taking shape, is to blow through that ceiling with state money. On June 9, Bloomberg reported that Chinese government agencies have drafted a blueprint to deploy roughly 2 trillion yuan — approximately $295 billion — across five years to erect a nationwide network of interconnected AI computing hubs. The plan, being drafted by the National Development and Reform Commission, is Beijing's most ambitious effort yet to lay the groundwork for Chinese AI development, and it comes with a notable design feature: at least 80% of the technology used would come from domestic suppliers.
 
-That single clause effectively evicts Nvidia and AMD from one of the world's largest potential equipment procurement contracts.
+That requirement would effectively shut out Nvidia and AMD.
 
 ## State Capital, State Goals
 
-The funding structure reveals just how seriously Beijing is treating this initiative. Sovereign debt instruments — including ultra-long-term special government bonds that can run 30 years or more — are expected to carry the bulk of the financial load. State-backed industry funds, commercial bank loans, and private investment will fill the remainder. State-owned telecoms China Mobile and China Telecom are designated as the primary operators of the new facilities, a choice that ensures the infrastructure remains under direct government oversight rather than in the hands of commercial cloud providers like Alibaba or Tencent, whose own capital spending falls outside the 2-trillion-yuan estimate.
+The funding structure reveals just how seriously Beijing is treating this initiative. Sovereign debt instruments — including ultra-long-term special government bonds that can run 30 years or more — are expected to carry the bulk of the financial load. Bank loans and private capital would supplement them. State-owned telecoms China Mobile and China Telecom are designated as the primary operators of the new facilities, a choice that ensures the infrastructure remains under direct government oversight rather than in the hands of commercial cloud providers like Alibaba or Tencent, whose own capital spending falls outside the 2-trillion-yuan estimate.
 
 By 2028, the plan envisions disparate regional computing facilities — many already under construction — linked into a single coherent national network. Think of it as a sovereign cloud, disaggregated across the country but programmable as a unified resource.
 
@@ -46,7 +47,7 @@ When electricity grid upgrades and power transmission infrastructure are folded 
 
 The domestic-sourcing mandate has an obvious beneficiary. Huawei, which spent years navigating U.S. entity-list restrictions, has steadily built a portfolio of AI accelerators, including the Ascend 910 series, to serve exactly this market. Nine Chinese AI chips from Huawei, Alibaba Cloud (through its in-house Hanguang line), and Shanghai-based Biren Technology recently cleared government security reviews, making them eligible for deployment in sensitive national infrastructure. That certification matters: data centers operating on behalf of state telecoms and government agencies require cleared hardware, and the list of approved vendors now has real depth.
 
-Bloomberg Intelligence analysts noted that while the plan benefits the Chinese economy broadly, "Huawei is the main winner." The chip giant is positioned to capture the largest single slice of hardware contracts. Domestic networking and memory players, including Cambricon and various domestic DRAM producers scaling up through government subsidies, also stand to gain.
+According to Bloomberg Intelligence, the main beneficiary of the plan is the broader economy rather than individual private companies, though Huawei stands to gain the most." The chip giant is positioned to capture the largest single slice of hardware contracts. Domestic networking and memory players, including Cambricon and various domestic DRAM producers scaling up through government subsidies, also stand to gain.
 
 For Nvidia, the scale of foreclosed opportunity is staggering. The company has spent years cultivating Chinese cloud and enterprise customers, and while the entity list already restricted many sales, a government-directed 80% domestic mandate goes further — it removes even the possibility of indirect access through intermediaries or foreign subsidiaries. AMD faces similar exclusion, though its China revenues were smaller to begin with.
 
@@ -56,13 +57,13 @@ The plan's ambition runs squarely into a stubborn constraint: whether domestic s
 
 China's semiconductor industry has made real progress, but on a timeline measured in years, not months. The AI infrastructure plan appears to be betting that domestic chip performance will improve sufficiently over the five-year deployment window to make the facilities viable for frontier model training — a bet that is far from certain.
 
-Complicating matters further, Taiwan is reportedly considering legislation that would criminalize the smuggling of AI chips to China above certain computing thresholds, aligning Taipei more closely with Washington's export control framework. If passed, that law would close another avenue that Chinese buyers have used to access restricted hardware through secondary markets.
+Separately, Taiwan is reportedly weighing restrictions on sales to all Chinese customers above a certain computing power threshold, not just companies on an export blacklist, as part of ongoing trade talks with the US, which would let it prosecute AI chip smuggling to China as a crime. If passed, that law would close another avenue that Chinese buyers have used to access restricted hardware through secondary markets.
 
 ## Context: The Global Infrastructure Race
 
-China's announcement lands as U.S. hyperscalers are in the middle of their own unprecedented spending cycle. Microsoft, Google, Meta, and Amazon collectively announced more than $725 billion in AI capital expenditure plans for 2025 and 2026 combined — a figure that is itself historically extraordinary. The U.S. government has also begun prioritizing domestic AI infrastructure through initiatives embedded in recent executive orders.
+China's announcement lands as U.S. hyperscalers are in the middle of their own unprecedented spending cycle. US tech giants like Meta and Microsoft are planning about $725 billion in AI spending for 2026 alone. The U.S. government has also begun prioritizing domestic AI infrastructure through initiatives embedded in recent executive orders.
 
-The difference is structural. In the U.S., infrastructure spending is driven by commercial incentives and capital markets discipline, with companies deploying against revenue models and shareholder expectations. In China, the $295 billion plan is explicitly state-directed, funded through sovereign debt, and oriented toward national strategic goals rather than near-term profitability. The two models are not competing on the same terms.
+The difference is structural. In the U.S., infrastructure spending is driven by commercial incentives and capital markets discipline, with companies deploying against revenue models and shareholder expectations. In China, the $295 billion plan is state-directed and would be funded mainly by ultra-long-term government bonds and state investment funds. The two models are not competing on the same terms.
 
 That asymmetry creates a scenario analysts have described as a bifurcated AI compute stack: one built on Nvidia and hyperscaler infrastructure, accessible to most of the world; another built on Huawei and state-directed capital, accessible to China and potentially to partner nations that buy into the Chinese ecosystem.
 
@@ -77,3 +78,5 @@ That pressure, paradoxically, may accelerate the domestic chip roadmap. The more
 The plan is not a declaration that China has solved its chip problem. It is a declaration that China intends to route around it, spending its way toward a domestic alternative that doesn't depend on U.S. or allied supply chains. Whether that bet pays off depends on variables — SMIC's fabrication yields, Huawei's design pace, power grid buildout timelines — that remain deeply uncertain.
 
 What is clear is that the global AI infrastructure landscape is now explicitly divided along geopolitical lines, with capital allocation on both sides running at a scale that would have seemed fantastical five years ago. The race isn't just about who has the best models. It's about who controls the compute layer underneath them — and Beijing has just made its position on that question unmistakably clear.
+
+*Correction (November 15, 2026): 9 sentences were corrected or removed to match the sources listed on this page.*

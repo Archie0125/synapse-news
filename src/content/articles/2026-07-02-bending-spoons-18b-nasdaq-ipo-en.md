@@ -1,8 +1,9 @@
 ---
 title: "Bending Spoons Soars 40% in Nasdaq Debut at $18.4 Billion Valuation"
-summary: "Italian tech holding company Bending Spoons made its Nasdaq debut on July 1, raising $1.68 billion and closing 40% above its IPO price for an $18.4 billion market cap. The company's unusual playbook—acquiring struggling consumer internet brands like AOL, Vimeo, and Evernote and rebuilding them with AI-driven product teams—is now being stress-tested in public markets."
+summary: "Italian tech holding company Bending Spoons made its Nasdaq debut on July 1, raising $1.68 billion at an $18.4 billion valuation, and its stock rose 40% by the close of trading. The company's unusual playbook—acquiring struggling consumer internet brands like AOL, Vimeo, and Evernote and rebuilding them with AI—is now being stress-tested in public markets."
 category: "startups"
 publishedAt: 2026-07-02
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -24,9 +25,9 @@ relatedSlugs:
   - "2026-06-30-spacex-ai1-orbital-data-center-ipo-en"
 ---
 
-A 13-year-old Italian tech company that most American consumers have never heard of just became one of the most talked-about IPOs of 2026. Bending Spoons, headquartered in Milan and home to some of the most recognizable-yet-forgotten brand names on the internet, made its Nasdaq debut on July 1, pricing its shares at $29 and closing the first day of trading at $40.52—a 39.7% gain that turned heads across Wall Street and Silicon Valley alike.
+A 13-year-old Italian tech company that most American consumers have never heard of just became one of the most talked-about IPOs of 2026. Bending Spoons, headquartered in Milan and home to some of the most recognizable-yet-forgotten brand names on the internet, made its Nasdaq debut on July 1, pricing its shares at $29 and seeing the stock pop 40% by market close.
 
-The company raised $1.68 billion in total through the offering, with approximately $683.6 million going to existing shareholders in a secondary sale. Its market capitalization closed the first day at $18.4 billion—a significant jump from its last private valuation of $11 billion—under the ticker symbol BSP.
+The company raised $1.68 billion in total through the offering, with approximately $683.6 million going to existing shareholders in a secondary sale. Its IPO valued the company at roughly $18.4 billion—a significant jump from its last private valuation of $11 billion—and its shares trade under the ticker symbol BSP.
 
 ## The Unconventional Playbook
 
@@ -56,6 +57,8 @@ This approach has generated significant controversy, particularly around the pos
 
 Bending Spoons now faces the scrutiny that comes with being a public company. Its portfolio of assets is unusual enough that analysts are still working out the right comparable set—it is not quite IAC/InterActiveCorp, not quite a SPAC roll-up, not quite a traditional software company.
 
-The key financial questions for the coming quarters will center on whether the 95% revenue growth trajectory is sustainable now that the portfolio has reached meaningful scale, and whether the efficiency gains from AI continue to compound or start to hit diminishing returns. The IPO prospectus disclosed that customer retention is "remarkably stable" across brands—a claim that investors will want to see validated in quarterly metrics.
+The key financial questions for the coming quarters will center on whether the 95% revenue growth trajectory is sustainable now that the portfolio has reached meaningful scale, and whether the efficiency gains from AI continue to compound or start to hit diminishing returns. Danieli told TechCrunch that customer retention has been "remarkably stable"—a claim that investors will want to see validated in quarterly metrics.
 
 What is clear is that Bending Spoons has built something genuinely unusual: a European tech company that built global scale by doing something that American tech culture tends to dismiss—methodically extracting value from existing assets rather than chasing the next platform shift. Its Nasdaq debut at $18.4 billion is, at minimum, an argument that the market is starting to pay attention.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

@@ -1,8 +1,9 @@
 ---
-title: "ServiceNow Build Agent Now Runs Inside Cursor, Windsurf, Claude Code, and GitHub Copilot"
-summary: "ServiceNow has made its Build Agent generally available inside every major AI coding environment — Cursor, Windsurf, Claude Code, and GitHub Copilot — bringing enterprise platform intelligence and built-in governance to wherever developers prefer to work. The integration means ServiceNow applications can now be built from outside ServiceNow Studio while retaining full deployment approvals, lifecycle governance, and organizational policy enforcement."
+title: "ServiceNow Build Agent Extends Its Core Skills to Cursor, Windsurf, Claude Code, and GitHub Copilot"
+summary: "ServiceNow has made Build Agent generally available in ServiceNow Studio and extended its core skills into Cursor, Windsurf, Claude Code, and GitHub Copilot, so developers can build from other environments with ServiceNow AI Platform context and governance. Applications deployed to the platform inherit audit trails, security checks, and compliance, and AEMC is available to all customers at no additional cost."
 category: "developer-tools"
 publishedAt: 2026-05-27
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: false
@@ -29,15 +30,15 @@ relatedSlugs:
 
 Enterprise software occupies an awkward position in the AI coding revolution. The tools driving the revolution — Cursor, Windsurf, Claude Code, GitHub Copilot — were built for software engineers who work in general-purpose codebases. ServiceNow, which powers IT service management, HR workflows, and business process automation for most of the Fortune 500, operates on a proprietary platform with its own data model, deployment mechanisms, and governance requirements. Until now, using an AI coding assistant to build ServiceNow applications meant either working inside ServiceNow's own Studio — isolated from the tools developers prefer — or using a general-purpose AI tool that had no idea what ServiceNow's live instance contained.
 
-ServiceNow's Build Agent general availability announcement closes that gap. Build Agent is now available as a first-class extension inside Cursor, Windsurf, Claude Code, and GitHub Copilot, alongside its native home in ServiceNow Studio. For the estimated 1.5 million ServiceNow developers worldwide, this is a substantive change in their daily workflow.
+ServiceNow's Build Agent general availability announcement closes that gap. Build Agent is now generally available in ServiceNow Studio, and its core skills have been extended into Cursor, Windsurf, Claude Code, and GitHub Copilot. For the estimated 1.5 million ServiceNow developers worldwide, this is a substantive change in their daily workflow.
 
 ## What Build Agent Brings to External IDEs
 
 The key capability Build Agent delivers is platform context. A general-purpose AI coding assistant given a ServiceNow task knows the API surface from its training data — but it doesn't know what your organization's instance actually contains: its specific data models, the custom configurations that have accumulated over years, the policies that govern which users can access which records, or the release management state of applications in flight.
 
-Build Agent connects to a live ServiceNow instance. When a developer prompts it from inside Cursor or Claude Code, it reads the actual state of the platform — existing workflows, catalog items, UI configurations, integration endpoints — before generating code. The result is generated applications that fit into the existing environment rather than assuming a clean-slate deployment.
+Build Agent connects to a live ServiceNow instance. Because Build Agent understands the live instance, it works from the actual state of the platform, including existing data models, configurations, and policies, when generating applications. The result is generated applications that fit into the existing environment rather than assuming a clean-slate deployment.
 
-ServiceNow describes this capability as Build Agent understanding "the live instance, including existing data models, configurations, and policies, enabling it to generate complete applications with workflows, catalog items, UI components, and configurations in a single session." For complex enterprise applications where the generated artifact needs to coexist with years of accumulated customization, this context awareness is the difference between useful output and output that requires extensive manual remediation.
+ServiceNow says that because Build Agent understands the live instance, "including existing data models, configurations, and policies, it can generate complete applications with workflows, catalog items, UI components, and configurations in a single session."" For complex enterprise applications where the generated artifact needs to coexist with years of accumulated customization, this context awareness is the difference between useful output and output that requires extensive manual remediation.
 
 ## Governance as a Default, Not an Add-On
 
@@ -64,3 +65,5 @@ The traditional model was that enterprise platforms attracted developers to prop
 This is, implicitly, a response to the threat that general-purpose AI coding tools pose to enterprise software moats. If an AI assistant can read the ServiceNow documentation from its training data and generate plausible ServiceNow code, the platform's defensibility depends on its unique runtime value — the actual instance data, the governance infrastructure, the integration ecosystem — rather than on the difficulty of learning its API surface.
 
 Build Agent's extension into external IDEs is ServiceNow's answer to that challenge: the moat is in the running instance and the organizational knowledge it encodes, not in the development environment. By making that moat accessible from wherever developers choose to work, ServiceNow is betting that governance and context will matter more to enterprise buyers than the choice of IDE. Given the regulatory and compliance pressures those buyers operate under, it is a reasonable bet.
+
+*Correction (November 15, 2026): 5 sentences were corrected or removed to match the sources listed on this page.*

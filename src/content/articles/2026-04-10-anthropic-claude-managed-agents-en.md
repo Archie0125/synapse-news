@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Launches Claude Managed Agents: A Fully Hosted Platform to Run AI Agents at Scale"
-summary: "Anthropic has launched Claude Managed Agents, a cloud-hosted service that handles all production infrastructure for AI agents—including sandboxed execution, state management, credential handling, permissions, and end-to-end tracing. Priced at $0.08 per runtime hour, the platform is already live with enterprise customers including Notion, Rakuten, and Asana."
+summary: "Anthropic has launched Claude Managed Agents, a cloud-hosted service that handles sandboxed execution, state management, credential management, scoped permissions, and end-to-end tracing for AI agents. Priced at $0.08 per session-hour of active runtime, the public beta platform has already been used by companies including Notion, Rakuten, and Asana."
 category: "developer-tools"
 publishedAt: 2026-04-10T09:05:00Z
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -33,7 +34,7 @@ relatedSlugs:
 
 Building production AI agents has never been harder—not because the models aren't capable, but because deploying them reliably involves a daunting amount of infrastructure work that has nothing to do with the actual intelligence. State management, sandboxed code execution, credential vaulting, permission scoping, checkpointing, observability tooling, loop-breaking logic—the list of plumbing required before an agent actually does anything useful in production is long, expensive, and technically risky.
 
-Anthropic's answer, unveiled on April 8th, is Claude Managed Agents: a fully hosted cloud service that absorbs all of that infrastructure complexity, letting developers focus on agent logic and business outcomes. The service entered public beta on the Claude Platform as of April 9th.
+Anthropic's answer, unveiled on April 8th, is Claude Managed Agents: a fully hosted cloud service that absorbs all of that infrastructure complexity, letting developers focus on agent logic and business outcomes. The service is available in public beta on the Claude Platform.
 
 ## What Managed Agents Actually Does
 
@@ -45,7 +46,7 @@ The platform also ships with a built-in agent harness—a pre-configured loop op
 
 ## The Pricing Structure
 
-Anthropic priced the service at $0.08 per runtime hour, on top of standard Claude model token costs. An agent running continuously would cost approximately $58 per month in runtime fees alone, before accounting for the inference costs that scale with usage. For intermittent or task-based workloads—the majority of enterprise use cases—costs will be substantially lower.
+Anthropic priced the service at $0.08 per session-hour of active runtime, on top of standard Claude platform token rates. An agent running continuously would cost approximately $58 per month in runtime fees alone, before accounting for the inference costs that scale with usage. For intermittent or task-based workloads—the majority of enterprise use cases—costs will be substantially lower.
 
 The pricing is designed to position Managed Agents as significantly cheaper than the engineering overhead of building equivalent infrastructure in-house. At current market rates for senior backend engineers, even a modest internal agent infrastructure project would cost multiples of what Anthropic is charging.
 
@@ -72,3 +73,5 @@ Anthropic's timing is notable. The company recently surpassed a $30 billion annu
 Claude Managed Agents is currently in public beta, available to developers through the Claude Platform. Anthropic has indicated that additional composable features—including enhanced multi-agent coordination tools and expanded tracing dashboards—are on the roadmap for later in 2026.
 
 The practical message to enterprise AI teams is clear: you no longer have to build the scaffold. Anthropic will hold the agents while you teach them what to do.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

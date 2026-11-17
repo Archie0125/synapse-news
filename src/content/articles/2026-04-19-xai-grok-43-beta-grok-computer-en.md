@@ -1,8 +1,9 @@
 ---
-title: "xAI Ships Grok 4.3 Beta With 2M-Token Context and Native Video, Launches Grok Computer Autonomous PC Agent"
-summary: "Elon Musk's xAI has pushed Grok 4.3 into early beta for SuperGrok Heavy subscribers at $300 per month, delivering a 2 million token context window, native video understanding, and document creation capabilities — while simultaneously opening beta access to Grok Computer, an autonomous PC agent tied to the broader Macrohard initiative backed by a $2 billion Tesla investment."
+title: "xAI Ships Grok 4.3 Beta With Native Video Input and Document Creation as Grok Computer Beta Widens"
+summary: "Elon Musk's xAI has pushed Grok 4.3 into early beta for SuperGrok Heavy subscribers at $300 per month, delivering native video input and document creation capabilities alongside a 2 million token context window, while Grok Computer, an autonomous PC agent, moves into wider beta access."
 category: "products"
 publishedAt: 2026-04-19
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -31,7 +32,7 @@ Taken together, the releases extend xAI's bet on a particular theory of what AI 
 
 ## What Grok 4.3 Delivers
 
-The headline technical upgrade in Grok 4.3 is a 2 million token context window, the largest of any publicly available model at this price tier. At roughly 1.5 million words — or approximately the combined length of the entire Lord of the Rings trilogy repeated seven times — this context window enables tasks that are simply impractical with shorter contexts: analyzing entire software codebases, synthesizing multi-year document archives, or maintaining conversation continuity across months of interaction history.
+Grok 4.3 retains a 2 million token context window carried over from Grok 4.20, which one review describes as the largest among Western closed models. At roughly 1.5 million words — or approximately the combined length of the entire Lord of the Rings trilogy repeated seven times — this context window enables tasks that are simply impractical with shorter contexts: analyzing entire software codebases, synthesizing multi-year document archives, or maintaining conversation continuity across months of interaction history.
 
 Native video understanding is the second major addition. Unlike image-capable models that process video as sampled frames, Grok 4.3 ingests continuous video streams and reasons about temporal relationships between events — understanding not just what appears in a frame but how actions and states evolve over time. The practical applications span surveillance footage analysis, instructional video parsing, and meeting transcription enriched with visual context.
 
@@ -53,7 +54,7 @@ Running in parallel to the Grok 4.3 launch, Grok Computer is a more structurally
 
 The core capability is straightforward to describe but technically complex to execute: Grok Computer can see your screen, understand what's on it, and take actions — clicking, typing, navigating between applications, filling forms, executing terminal commands, and chaining multi-step workflows — without requiring any API integration or application-specific configuration.
 
-It achieves this through pixel-level screen reading combined with a continuous 5-second video buffer that gives the agent an understanding of UI state and application context. Because it operates at the pixel level rather than the API level, it works with any software — including legacy applications from the early 2000s that predate modern API conventions.
+It achieves this through pixel-level screen reading combined with a continuous 5-second video buffer that gives the agent an understanding of UI state and application context. Because it operates at the pixel level rather than the API level, it can operate any software, including legacy programs from a decade ago.
 
 The practical implications are significant. Grok Computer can, according to xAI's documentation: research a topic in a browser, synthesize findings into a structured spreadsheet, format that spreadsheet into a presentation, and email it to a specified recipient — all in a single automated workflow, without human intervention at any step. It can test software by interacting with UI elements and generating test reports. It can operate within enterprise applications where no AI integration exists.
 
@@ -70,3 +71,5 @@ Musk's confirmation that Grok Computer will receive a "large-scale public testin
 The releases arrive as the autonomous agent space becomes increasingly competitive. OpenAI's Agents SDK, updated this week, provides a framework for developers to build agentic workflows; Anthropic's Claude has computer use capabilities available in API. Google is reportedly working on its own PC agent product. Microsoft, the incumbent the Macrohard name is designed to mock, has Copilot integrations in Windows 11 that provide a different but overlapping set of capabilities.
 
 xAI's competitive advantage, if it materializes, will likely come from vertical integration: a proprietary model (Grok), a proprietary distribution channel (X/Twitter with 600 million monthly users), and a proprietary physical world application (Optimus robots at Tesla). No other company has that stack. Whether the stack produces a product that is significantly better than its competitors' outputs, or simply different, remains to be seen. But the architecture of the bet is visible — and the pace at which xAI is shipping in April 2026 suggests it is in an execution phase, not a planning one.
+
+*Correction (November 15, 2026): 4 sentences were corrected or removed to match the sources listed on this page.*

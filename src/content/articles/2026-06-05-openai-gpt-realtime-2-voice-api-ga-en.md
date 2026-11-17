@@ -1,8 +1,9 @@
 ---
-title: "OpenAI's Real-Time Voice API Exits Beta with GPT-5-Class Reasoning Built In"
-summary: "OpenAI launched three new real-time audio models — GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper — and simultaneously moved the Realtime API out of beta into full production availability. The new models bring GPT-5-level reasoning to live voice interactions, real-time translation across 70+ languages, and sub-100ms streaming transcription."
+title: "OpenAI Launches Three New Realtime Voice Models, Led by GPT-Realtime-2 with GPT-5-Class Reasoning"
+summary: "OpenAI launched three new real-time audio models — GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper. The new models bring GPT-5-class reasoning to live voice interactions, live translation from 70+ input languages into 13 output languages, and streaming speech-to-text for live transcription."
 category: "developer-tools"
 publishedAt: 2026-06-05
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -68,7 +69,7 @@ Where GPT-Realtime-2 differentiates most clearly is reasoning depth. The ability
 
 ## What Developers Need to Know
 
-Pricing for the three models was not prominently disclosed at launch, following OpenAI's recent pattern of publishing token or minute-based rates separately in the API documentation. Developers building production systems should verify current rates against the API reference, particularly for GPT-Realtime-Translate, where per-minute costs at scale can compound significantly.
+OpenAI has published pricing for the three models: GPT-Realtime-2 is priced per token ($32 per 1M audio input tokens and $64 per 1M audio output tokens), GPT-Realtime-Translate at $0.034 per minute, and GPT-Realtime-Whisper at $0.017 per minute. Developers building production systems should verify current rates against the API reference, particularly for GPT-Realtime-Translate, where per-minute costs at scale can compound significantly.
 
 The models are accessible through the same Realtime API endpoint that developers were already using in beta, meaning existing integrations require minimal refactoring. OpenAI has published updated documentation covering the new tool-calling behavior in GPT-Realtime-2, which differs from the text model tool-use pattern in ways that catch developers off guard if they assume direct equivalence.
 
@@ -77,3 +78,5 @@ The models are accessible through the same Realtime API endpoint that developers
 Zoom out from the feature specifics and the direction is clear: OpenAI is building a platform that can handle not just text-based workflows but the full communication modalities humans actually use. Voice is the next frontier after text. Translation enables global scale. Real-time transcription powers everything from meeting intelligence to accessibility tools to compliance monitoring.
 
 The fact that all three models now carry production-grade SLAs — not beta-grade "best effort" — signals that OpenAI considers this infrastructure mature enough to sit inside critical business processes. For developers who've been waiting to commit voice AI to production, the waiting is effectively over.
+
+*Correction (November 15, 2026): 3 sentences were corrected or removed to match the sources listed on this page.*

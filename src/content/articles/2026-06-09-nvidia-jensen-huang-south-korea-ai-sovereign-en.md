@@ -3,6 +3,7 @@ title: "Jensen Huang's Seoul Blitz: NVIDIA Locks In Six Mega-Deals as South Kore
 summary: "NVIDIA CEO Jensen Huang completed a four-day Seoul visit culminating in six major partnerships spanning memory chips, cloud infrastructure, humanoid robotics, and autonomous vehicles. The deals — with SK Hynix, SK Telecom, Naver, Hyundai, LG, and Doosan — cement South Korea as a critical node in NVIDIA's global AI supply chain and signal Seoul's ambition to build sovereign AI capacity before the window closes."
 category: "hardware"
 publishedAt: 2026-06-09
+modifiedAt: 2026-11-15T00:00:00Z
 lang: "en"
 featured: false
 trending: true
@@ -42,7 +43,7 @@ SK Telecom's deal is the most operationally concrete. The Korean telecoms giant 
 
 To put that scale in context: a gigawatt is roughly the output of a large nuclear reactor, and it represents an order-of-magnitude step up from the 50-100 megawatt facilities that defined enterprise data centers just a few years ago. The frontier AI labs are already deploying at this scale; the SK Telecom announcement signals that national-level AI infrastructure is catching up.
 
-The facility will be designed for "sovereign and agentic AI capabilities" — a phrase that reflects Seoul's specific concern. South Korea, like many mid-sized economies, faces a choice: build independent AI infrastructure now, at enormous capital cost, or become dependent on US cloud providers for the compute that will increasingly underpin economic and military competitiveness. SK Telecom's gigawatt cloud is Hwang Changkyu's answer to that question.
+The first facility is expected to provide sovereign, physical and agentic AI capabilities. South Korea, like many mid-sized economies, faces a choice: build independent AI infrastructure now, at enormous capital cost, or become dependent on US cloud providers for the compute that will increasingly underpin economic and military competitiveness. SK Telecom's gigawatt cloud is Hwang Changkyu's answer to that question.
 
 ## Naver: From Search to AI Factory
 
@@ -54,7 +55,7 @@ Two of Korea's most iconic industrial brands are betting their futures on physic
 
 LG Group's deal focuses on humanoid robotics — a convergence of NVIDIA's Isaac robotics platform with LG's manufacturing expertise in motor technology and mechanical systems. Huang framed the collaboration in typically expansive terms: "We are working with them in motor technology as well as mechanical systems so that we can bring together humanoid robotics and the future of robotics."
 
-Hyundai Motor Group's partnership spans autonomous vehicles, robotics, and AI-powered manufacturing. Huang singled out Hyundai's Saemangeum complex — a massive industrial facility being built on reclaimed land on Korea's west coast — as what he called an "AI Valley." The ambition is to build AI into manufacturing processes themselves, not just deploy it in vehicles.
+Hyundai Motor Group's partnership spans autonomous vehicles, robotics, and AI-powered manufacturing. Huang likened Hyundai's planned Saemangeum data centre to an "AI Valley."" The ambition is to build AI into manufacturing processes themselves, not just deploy it in vehicles.
 
 Doosan Group rounds out the six, focusing on robotics and materials science applications of AI.
 
@@ -71,3 +72,5 @@ Huang's visit served that narrative perfectly. He arrived not as a vendor making
 Huang left Seoul with one explicit warning. He stressed the need to "synchronize the AI supply chain in the second half of 2026" — code for the growing complexity of coordinating memory production, GPU manufacturing, networking hardware, and facility construction across a global supply chain where any bottleneck cascades. With SK Hynix supplying HBM, TSMC manufacturing chips, South Korean conglomerates building data centers, and NVIDIA providing the connective tissue, the second half of 2026 will test whether that coordination holds at scale.
 
 For South Korea, the Jensen Huang visit is already a success measured in partnerships signed. Whether those partnerships deliver on their ambitions will be measured in gigawatts operational, models trained, and robotics deployed — starting in 2027.
+
+*Correction (November 15, 2026): 2 sentences were corrected or removed to match the sources listed on this page.*

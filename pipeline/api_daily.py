@@ -64,7 +64,10 @@ PRICES = {
 }
 MAX_PRICE = (10.0, 50.0)
 SEARCH_USD = 0.01
-CAPS = {"daily_run": 2.0, "daily_month": 35.0, "week_total": 40.0}
+# week_total 40 -> 70 and audit_total: owner's 2026-11-13 plan (US$100 for this round).
+# 70 -> 120 and 30 -> 90: owner's 2026-11-15 go-ahead (all old articles audited, Jan–Mar recaps; US$150 round).
+# fix_total: the correction plan of 2026-11-15, approved by the owner the same night (round cap US$230).
+CAPS = {"daily_run": 2.0, "daily_month": 35.0, "week_total": 120.0, "audit_total": 90.0, "fix_total": 150.0}
 SOURCE_CHARS = 40_000
 
 AI_NOTE_EN = ("\n\n---\n\n*This article was written by AI from the sources listed on this page. "
@@ -108,11 +111,14 @@ class Ledger:
 
     def __init__(self, path: Path, mode: str, run_id: str, today: date):
         self.path, self.mode, self.run_id, self.today = path, mode, run_id, today
-        self.entries: list[dict] = json.loads(path.read_text("utf-8")) if path.exists() else []
+        self.entries: list[dict] = []
         self._pending: str | None = None
+        # Read under the lock: another run may be rewriting the file right now (Codex, 2026-11-15).
+        with self._locked(write=False):
+            pass
 
     @contextmanager
-    def _locked(self):
+    def _locked(self, write: bool = True):
         lock = self.path.with_suffix(".lock")
         self.path.parent.mkdir(parents=True, exist_ok=True)
         deadline = time.monotonic() + 120
@@ -133,7 +139,8 @@ class Ledger:
         try:
             self.entries = json.loads(self.path.read_text("utf-8")) if self.path.exists() else []
             yield
-            self.path.write_text(json.dumps(self.entries, ensure_ascii=False, indent=1), "utf-8")
+            if write:
+                self.path.write_text(json.dumps(self.entries, ensure_ascii=False, indent=1), "utf-8")
         finally:
             os.close(fd)
             lock.unlink(missing_ok=True)
@@ -151,6 +158,9 @@ class Ledger:
     def week_spent(self) -> float:
         return self._sum(lambda e: e["mode"] == "week")
 
+    def audit_spent(self) -> float:
+        return self._sum(lambda e: e["mode"] == "audit")
+
     def reserve(self, worst_usd: float, step: str) -> None:
         with self._locked():
             if self.mode == "daily":
@@ -159,6 +169,13 @@ class Ledger:
                                          f"(spent {self.run_spent():.2f}, worst case {worst_usd:.2f})")
                 if self.month_spent() + worst_usd > CAPS["daily_month"]:
                     raise BudgetExceeded(f"{step}: month would exceed US${CAPS['daily_month']}")
+            elif self.mode == "audit":
+                if self.audit_spent() + worst_usd > CAPS["audit_total"]:
+                    raise BudgetExceeded(f"{step}: audits would exceed US${CAPS['audit_total']} "
+                                         f"(spent {self.audit_spent():.2f}, worst case {worst_usd:.2f})")
+            elif self.mode == "fix":
+                if self._sum(lambda e: e["mode"] == "fix") + worst_usd > CAPS["fix_total"]:
+                    raise BudgetExceeded(f"{step}: corrections would exceed US${CAPS['fix_total']}")
             elif self.week_spent() + worst_usd > CAPS["week_total"]:
                 raise BudgetExceeded(f"{step}: weekly recaps would exceed US${CAPS['week_total']} "
                                      f"(spent {self.week_spent():.2f}, worst case {worst_usd:.2f})")
@@ -206,9 +223,57 @@ def worst_case(model: str, prompt_tokens: int, max_tokens: int, searches: int = 
 
 # ================================================================ API calls
 
+class _CliBlock:
+    def __init__(self, text: str):
+        self.type, self.text = "text", text
+
+
+class _CliResponse:
+    """The bits of an API response the pipeline reads, filled from `claude -p --output-format json`."""
+    def __init__(self, text: str, model: str, stop_reason: str):
+        self.content, self.model, self.stop_reason, self.usage = [_CliBlock(text)], model, stop_reason, None
+
+
+def call_model_cli(ledger: Ledger, step: str, model: str, *, system: str, messages: list, effort: str,
+                   schema: dict | None) -> _CliResponse:
+    """Same prompt and schema through the owner's subscription (`claude -p`), for when the API key is gone
+    (owner 2026-11-15: 「API忽然不能用了 就用訂閱去跑完剩下的」). No tools: web search stays API-only.
+    The API key is removed from the child's environment so the CLI cannot bill it."""
+    import subprocess
+    parts = []
+    for m in messages:
+        c = m["content"]
+        parts.append(c if isinstance(c, str) else "\n\n".join(b.get("text", "") for b in c if b.get("type") == "text"))
+    args = ["claude", "-p", "--model", model, "--effort", effort, "--tools", "", "--no-session-persistence",
+            "--strict-mcp-config", "--disable-slash-commands", "--setting-sources", "project",
+            "--system-prompt", system, "--output-format", "json"]
+    if schema:
+        args += ["--json-schema", json.dumps(schema)]
+    env = {k: v for k, v in os.environ.items() if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
+    env.update(CLAUDE_CODE_DISABLE_CLAUDE_MDS="1", CLAUDE_CODE_DISABLE_AUTO_MEMORY="1")
+    try:
+        res = subprocess.run(args, input="\n\n".join(parts), capture_output=True, text=True, encoding="utf-8",
+                             env=env, timeout=1200)
+        out = json.loads(res.stdout)
+    except (subprocess.TimeoutExpired, json.JSONDecodeError, OSError) as e:
+        ledger.record(step, model, None, ok=False, note=f"cli: {type(e).__name__}", usd_override=0.0)
+        raise RuntimeError(f"{step}: claude -p failed ({type(e).__name__})") from e
+    if out.get("is_error"):
+        ledger.record(step, model, None, ok=False, note=f"cli: {str(out.get('result'))[:200]}", usd_override=0.0)
+        raise RuntimeError(f"{step}: claude -p error: {str(out.get('result'))[:200]}")
+    text = json.dumps(out["structured_output"], ensure_ascii=False) if schema and out.get("structured_output") is not None \
+        else str(out.get("result", ""))
+    ledger.record(step, model, None, ok=True, note="cli backend (subscription)", usd_override=0.0)
+    return _CliResponse(text, model, "end_turn")
+
+
 def call_model(client, ledger: Ledger, step: str, model: str, *, system: str, messages: list,
                max_tokens: int, effort: str, schema: dict | None = None, tools: list | None = None,
                searches: int = 0, fallbacks: bool = False):
+    if os.environ.get("FAQ_BACKEND") == "cli":
+        if tools:
+            raise RuntimeError(f"{step}: the subscription backend has no web search; this step needs the API")
+        return call_model_cli(ledger, step, model, system=system, messages=messages, effort=effort, schema=schema)
     prompt_tokens = est_tokens(system + json.dumps(messages, ensure_ascii=False, default=str))
     worst = worst_case(model, prompt_tokens, max_tokens, searches)
     ledger.reserve(worst, step)
@@ -229,6 +294,17 @@ def call_model(client, ledger: Ledger, step: str, model: str, *, system: str, me
             resp = client.beta.messages.create(**kwargs)
     except anthropic.APIStatusError as e:
         ledger.record(step, model, None, ok=False, note=f"{e.status_code}: {e.message}")
+        # The key expired, was revoked or ran out of credit: finish on the subscription instead (owner
+        # 2026-11-15). Web-search steps cannot move, so they still fail.
+        msg = str(e.message).lower()
+        key_gone = (e.status_code in (401, 403) or "credit balance" in msg
+                    or "enforced_spend_limit" in str(getattr(e, "body", "")) or "usage limits" in msg)
+        if key_gone and not tools and os.environ.get("FAQ_AUTO_FALLBACK", "1") != "0":
+            os.environ["FAQ_BACKEND"] = "cli"
+            print(f"{step}: API key unusable ({e.status_code}); switching to the subscription backend",
+                  file=sys.stderr)
+            return call_model_cli(ledger, step, model, system=system, messages=messages, effort=effort,
+                                  schema=schema)
         raise
     except anthropic.APIError as e:
         # Timeout / dropped connection / broken stream: we cannot know what was billed,
@@ -279,8 +355,23 @@ def recent_en(articles: list[dict], n: int) -> list[dict]:
 def write_pair(d: dict, sources: list[dict], *, slug_base: str, published: datetime, kind: str,
                articles: list[dict], head_note_en: str = "", head_note_zh: str = "",
                title_prefix_en: str = "", title_prefix_zh: str = "", overwrite: bool = False) -> list[Path]:
-    slugs = {a["slug"] for a in articles}
+    texts = render_pair(d, sources, published=published, kind=kind, articles=articles, head_note_en=head_note_en,
+                        head_note_zh=head_note_zh, title_prefix_en=title_prefix_en, title_prefix_zh=title_prefix_zh)
     paths = []
+    for lang, text in texts.items():
+        path = ARTICLES / f"{slug_base}-{lang}.md"
+        if path.exists() and not overwrite:
+            raise FileExistsError(path)
+        path.write_text(text, "utf-8")
+        paths.append(path)
+    return paths
+
+
+def render_pair(d: dict, sources: list[dict], *, published: datetime, kind: str, articles: list[dict],
+                head_note_en: str = "", head_note_zh: str = "", title_prefix_en: str = "",
+                title_prefix_zh: str = "") -> dict[str, str]:
+    slugs = {a["slug"] for a in articles}
+    out = {}
     for lang in ("en", "zh"):
         related = []
         for s in d.get("related_slugs", [])[:3]:
@@ -307,13 +398,22 @@ def write_pair(d: dict, sources: list[dict], *, slug_base: str, published: datet
         note = head_note_en if lang == "en" else head_note_zh
         body = ((note + "\n\n" if note else "") + G.strip_tags(d[f"body_{lang}"]).strip()
                 + (AI_NOTE_EN if lang == "en" else AI_NOTE_ZH))
-        text = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n\n" + body
-        path = ARTICLES / f"{slug_base}-{lang}.md"
-        if path.exists() and not overwrite:
-            raise FileExistsError(path)
-        path.write_text(text, "utf-8")
-        paths.append(path)
-    return paths
+        out[lang] = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n\n" + body
+    return out
+
+
+def assert_unedited(spec: dict, sources: list[dict], articles: list[dict]) -> None:
+    """Patch and addday rebuild an article from the cached draft and overwrite it.
+    If someone edited the published file by hand since, that edit would be lost,
+    so refuse instead (Fable, Codex review)."""
+    expected = render_pair(spec["draft"], sources, published=datetime.fromisoformat(spec["published"]),
+                           kind=spec["kind"], articles=articles, head_note_en=spec.get("head_note_en", ""),
+                           head_note_zh=spec.get("head_note_zh", ""), title_prefix_en=spec.get("title_prefix_en", ""),
+                           title_prefix_zh=spec.get("title_prefix_zh", ""))
+    for lang, text in expected.items():
+        path = ARTICLES / f"{spec['slug_base']}-{lang}.md"
+        if path.exists() and path.read_text("utf-8") != text:
+            raise RuntimeError(f"{path.name} was changed outside the pipeline; not overwriting it")
 
 
 # ================================================================ schemas
@@ -646,12 +746,13 @@ def date_words(days: list[date]) -> list[str]:
 
 
 def draft_until_clean(client, ledger, log, brief, sources, extra_pool, articles, run_date, mode,
-                      en_words, zh_chars, tag: str) -> dict | None:
+                      en_words, zh_chars, tag: str, start: dict | None = None) -> dict | None:
     cache = log.setdefault("_cache", {"sources": {}, "drafts": []})
     for s in sources:
         cache["sources"][s["url"]] = {k: s[k] for k in ("url", "final_url", "site", "title", "date", "text")}
     write_tokens = 48_000 if mode == "week" else 24_000
-    d = write(client, ledger, f"write:{tag}#1", brief, sources, max_tokens=write_tokens)
+    d = start if start is not None else write(client, ledger, f"write:{tag}#1", brief, sources,
+                                              max_tokens=write_tokens)
     for attempt in (1, 2, 3, 4):
         fails = gates(d, sources, extra_pool, articles, run_date, mode, en_words, zh_chars)
         if not fails:
@@ -744,11 +845,34 @@ def run_daily(client, fetcher: Fetcher, ledger: Ledger, log: dict, run_date: dat
     raise RuntimeError("no candidate passed the checks today; nothing published")
 
 
-GAP_START = date(2026, 8, 3)  # the Monday of the first gap week; used to order recaps
+# Orders recaps written on the same day by the week they cover (5 minutes apart). The Monday of the
+# first 2026 week, so the January–March recaps also land after midnight of the day they were written.
+GAP_START = date(2025, 12, 29)
+
+
+class CachedFetcher:
+    """Replays the source texts a failed recap run fetched, so resuming it keeps the
+    same [S#] numbering and asks no site again. URLs that run did not use come back
+    as not fetched, which leaves their items out exactly as before."""
+
+    def __init__(self, cached: dict):
+        self.cached = cached
+
+    def fetch(self, url: str) -> dict:
+        s = self.cached.get(url)
+        if s is None:
+            return {"url": url, "final_url": url, "ok": False, "reason": "not used by the resumed run",
+                    "text": "", "words": 0, "date": None, "title": "", "site": ""}
+        return {**s, "ok": True, "reason": "", "words": len(s["text"].split()),
+                "date": date.fromisoformat(s["date"]) if s.get("date") else None}
 
 
 def run_week(client, fetcher: Fetcher, ledger: Ledger, log: dict, week_start: date, until: date,
-             write_date: date) -> list[Path]:
+             write_date: date, resume: dict | None = None) -> list[Path]:
+    """`resume`: the cache of an earlier run of this week that failed its checks;
+    its sources are replayed and its last draft is fixed instead of rewritten."""
+    if resume is not None:
+        fetcher = CachedFetcher(resume["sources"])
     articles = load_articles()
     days = [week_start + timedelta(days=i) for i in range((until - week_start).days + 1)]
     # One cheap research call per day (a single call for the whole week returned
@@ -782,13 +906,17 @@ def run_week(client, fetcher: Fetcher, ledger: Ledger, log: dict, week_start: da
 
     kept: list[dict] = []
     seen_urls: set[str] = set()
+    # A source an earlier article already cites fails the duplicate gate and no rewrite can drop it, so it is
+    # left out here (2026-11-15: four Jan–Mar weeks failed four times on one such source each).
+    used = {_normalize_url(u) for a in articles for u in a["sources"]}
     for entry in data.get("days", []):
         for it in entry.get("items", [])[:2]:
             try:
                 ev = date.fromisoformat(it["event_date"][:10])
             except ValueError:
                 continue
-            urls = [u for u in it["source_urls"] if _normalize_url(u) in allow and u not in seen_urls][:3]
+            urls = [u for u in it["source_urls"] if _normalize_url(u) in allow and u not in seen_urls
+                    and _normalize_url(u) not in used][:3]
             fetched = [fetcher.fetch(u) for u in urls]
             good = [f for f in fetched if f["ok"]]
             fresh = G.item_fresh(ev, [f["date"] for f in good], week_start, until)
@@ -826,6 +954,9 @@ def run_week(client, fetcher: Fetcher, ledger: Ledger, log: dict, week_start: da
             if s["url"] not in seen:
                 seen.add(s["url"])
                 sources.append(s)
+    if resume is not None and [s["url"] for s in sources] != list(resume["sources"]):
+        raise RuntimeError("resume: the replayed sources differ from the failed run's; its [S#] markers "
+                           "would point at the wrong texts")
     index = {s["url"]: i + 1 for i, s in enumerate(sources)}
     dated, also = [], []
     for it in sorted(kept, key=lambda x: (x["day"] or x["reported"])):
@@ -858,9 +989,10 @@ def run_week(client, fetcher: Fetcher, ledger: Ledger, log: dict, week_start: da
              "category, tags, slug, related_slugs, zh_quotes.")
     extra = date_words(days + [s["date"] for s in sources if s["date"]])
     d = draft_until_clean(client, ledger, log, brief, sources, extra, articles, write_date, "week",
-                          (700, 2200), (1000, 3600), f"week-{week_start.isoformat()}")
+                          (700, 2200), (1000, 3600), f"week-{week_start.isoformat()}",
+                          start=resume["drafts"][-1]["draft"] if resume is not None else None)
     if d is None:
-        raise RuntimeError("weekly recap failed the checks after one rewrite")
+        raise RuntimeError("weekly recap failed the checks after 4 attempts")
 
     rng_en = f"{week_start:%b} {week_start.day}–" + (f"{until.day}" if until.month == week_start.month
                                                       else f"{until:%b} {until.day}") + f", {until.year}"
@@ -905,6 +1037,7 @@ def run_patch(client, ledger: Ledger, log: dict, src_run: str, failures: list[st
         sources.append(s)
     own = {f"{spec['slug_base']}-en", f"{spec['slug_base']}-zh"}
     articles = [a for a in load_articles() if a["slug"] not in own]
+    assert_unedited(spec, sources, articles)
     d = spec["draft"]
     for round_no in (1, 2):
         edits = fix(client, ledger, f"patch:fix#{round_no}", d, sources, failures)
@@ -933,18 +1066,171 @@ def run_patch(client, ledger: Ledger, log: dict, src_run: str, failures: list[st
     return paths
 
 
+ADDDAY_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["section_en", "section_zh", "zh_quotes"],
+    "properties": {"section_en": {"type": "string"}, "section_zh": {"type": "string"},
+                   "zh_quotes": WRITE_SCHEMA["properties"]["zh_quotes"]},
+}
+
+
+def run_addday(client, fetcher: Fetcher, ledger: Ledger, log: dict, src_run: str, day: date) -> list[Path]:
+    """Fill a day a published recap left empty: research that day again (Sonnet,
+    more searches), and if a source states something happened that day, write only
+    that day's section and insert it in date order. Existing sentences are changed
+    only if a check flags them. Same source rules as the recap itself."""
+    cache_path = CACHE_DIR / f"{src_run}.json"
+    cache = json.loads(cache_path.read_text("utf-8"))
+    spec = cache["publish"]
+    week_start = date.fromisoformat(spec["slug_base"].rsplit("-ai-week-", 1)[1])
+    until = min(week_start + timedelta(days=6), date(2026, 11, 12))
+    if not week_start <= day <= until:
+        raise ValueError(f"{day} is not in the week of {week_start}")
+    sources = []
+    for u in spec["source_urls"]:
+        s = dict(cache["sources"][u])
+        s["date"] = date.fromisoformat(s["date"]) if s.get("date") else None
+        sources.append(s)
+    own = {f"{spec['slug_base']}-en", f"{spec['slug_base']}-zh"}
+    articles = [a for a in load_articles() if a["slug"] not in own]
+    assert_unedited(spec, sources, articles)
+    used = {_normalize_url(a_url) for a in articles for a_url in a["sources"]} | {_normalize_url(s["url"]) for s in sources}
+
+    rcache = CACHE_DIR / f"research-day-sonnet-{day.isoformat()}.json"
+    if rcache.exists():
+        saved = json.loads(rcache.read_text("utf-8"))
+    else:
+        covered = "; ".join(s["title"] for s in sources if s.get("title"))
+        user = (f"Find the 1–2 most important AI and technology news items first reported on {day:%A}, "
+                f"{day:%B} {day.day}, {day.year} ({day.isoformat()}). Put the date in your search queries. For "
+                "each item give the day it happened, a one-line headline, a category and 2–4 source URLs from "
+                "different outlets that appeared in your search results. Prefer pages anyone can read without a "
+                "subscription, and include the company's or agency's own announcement page whenever one exists. "
+                f"Skip these stories, they are already covered: {covered}. If nothing solid was reported that "
+                "day, return an empty list.")
+        dlog: dict = {}
+        day_data, day_allow = research(client, ledger, dlog, user, RESEARCH_DAY_SCHEMA, max_uses=8,
+                                       complaint=day_complaint(day), step=f"addday-research:{day.isoformat()}")
+        saved = {"data": day_data, "allow": day_allow, "queries": dlog["research"]["queries"]}
+        rcache.write_text(json.dumps(saved, ensure_ascii=False, default=str), "utf-8")
+    log["research"] = {"queries": saved["queries"], "results": len(saved["allow"])}
+
+    kept: list[dict] = []
+    for it in saved["data"].get("items", [])[:2]:
+        try:
+            ev = date.fromisoformat(it["event_date"][:10])
+        except ValueError:
+            continue
+        urls = [u for u in it["source_urls"] if _normalize_url(u) in saved["allow"] and _normalize_url(u) not in used][:3]
+        fetched = [fetcher.fetch(u) for u in urls]
+        good = [f for f in fetched if f["ok"]]
+        fresh = G.item_fresh(ev, [f["date"] for f in good], week_start, until)
+        stated = ev == day and any(G.source_states_day(f["text"], f["date"], ev) for f in good)
+        reported = any(f["date"] == day for f in good)
+        log.setdefault("items", []).append({"event_date": ev.isoformat(), "headline": it["headline"],
+                                            "fresh": fresh, "stated": stated, "reported_that_day": reported,
+                                            "fetch": [{"url": f["url"], "ok": f["ok"], "reason": f["reason"]} for f in fetched]})
+        if good and fresh and (stated or reported):
+            used.update(_normalize_url(f["url"]) for f in good)
+            kept.append({"headline": it["headline"], "sources": good, "stated": stated})
+    if not kept:
+        log["day_result"] = "searched, 0 items"
+        return []
+    # Same rule as the recap: a day heading only for what a source places on that day;
+    # a story that was merely reported that day goes under "Also this week".
+    as_day = any(it["stated"] for it in kept)
+    kept = [it for it in kept if it["stated"]] if as_day else kept
+
+    new_sources = [s for it in kept for s in it["sources"]]
+    index = {s["url"]: i + 1 for i, s in enumerate(new_sources)}
+    items = "\n".join(f"- {it['headline']} " + "".join(f"[S{index[s['url']]}]" for s in it["sources"]) for it in kept)
+    if as_day:
+        shape = (f"ONE new day section. HEADINGS: English exactly \"{G.day_heading(day, 'en')}\", Chinese exactly "
+                 f"\"{G.day_heading(day, 'zh')}\". Return section_en and section_zh each starting with its heading.\n"
+                 f"DATES: describe only what the sources place on {day:%B} {day.day}. If a source gives a related "
+                 "development on another day, state that day explicitly. Do not invent a day for anything.\n")
+    else:
+        shape = ("ONE short paragraph per item for the recap's \"Also this week\" section. No heading. Begin "
+                 f"each English paragraph with \"Reported on {day:%B} {day.day}:\" and each Chinese paragraph "
+                 f"with \"{day.month} 月 {day.day} 日報導：\". The sources were published that day but do not say "
+                 "which day the event itself happened, so never name a day for the event.\n")
+    brief = (f"ARTICLE TYPE: an addition to an existing weekly recap of {week_start.isoformat()} to "
+             f"{until.isoformat()}: {shape}"
+             "This is not an article: no opening, no title, no summary, no What to Watch.\n"
+             "STYLE: a neutral record, not commentary; keep every qualifier and condition the source gives; "
+             "[S#] markers on every factual sentence, pointing at the sources given here.\n"
+             f"ITEMS:\n{items}\n"
+             "LENGTH: English 60–250 words; Chinese 120–450 characters.\n"
+             "Return JSON with section_en, section_zh and zh_quotes.")
+    resp = call_model(client, ledger, f"addday-write:{day.isoformat()}", WRITE_MODEL,
+                      system=(PROMPTS / "api_write.md").read_text("utf-8"),
+                      messages=with_sources(new_sources, brief), max_tokens=12_000, effort="high",
+                      schema=ADDDAY_SCHEMA)
+    if resp.stop_reason in ("refusal", "max_tokens"):
+        raise RuntimeError(f"addday writer stopped with {resp.stop_reason}")
+    part = last_json(resp)
+    n = len(sources)
+    d = dict(spec["draft"])
+    if as_day:
+        d["body_en"] = G.insert_day_section(d["body_en"], G.shift_markers(part["section_en"], n), day)
+        d["body_zh"] = G.insert_day_section(d["body_zh"], G.shift_markers(part["section_zh"], n), day)
+    else:
+        d["body_en"] = G.insert_also_paragraph(d["body_en"], G.shift_markers(part["section_en"], n), "en")
+        d["body_zh"] = G.insert_also_paragraph(d["body_zh"], G.shift_markers(part["section_zh"], n), "zh")
+    d["zh_quotes"] = list(d.get("zh_quotes", [])) + list(part.get("zh_quotes", []))
+    all_sources = sources + new_sources
+    extra = list(spec["extra_pool"]) + date_words([day] + [s["date"] for s in new_sources if s["date"]])
+    # The recap grows by one section; its length limits grow by that section's limits.
+    en_words = (spec["en_words"][0], spec["en_words"][1] + 250)
+    zh_chars = (spec["zh_chars"][0], spec["zh_chars"][1] + 450)
+    run_date = date.fromisoformat(spec["run_date"])
+    failures = gates(d, all_sources, extra, articles, run_date, "week", en_words, zh_chars)
+    if not failures:
+        failures = verify(client, ledger, "addday-verify#0", d, all_sources)
+    for round_no in (1, 2, 3):
+        if not failures:
+            break
+        edits = fix(client, ledger, f"addday-fix#{round_no}", d, all_sources, failures)
+        d, problems = G.apply_edits(d, edits)
+        failures = problems + gates(d, all_sources, extra, articles, run_date, "week", en_words, zh_chars)
+        if not failures:
+            failures = verify(client, ledger, f"addday-verify#{round_no}", d, all_sources)
+        log.setdefault("fix_rounds", []).append({"round": round_no, "edits": edits, "failures": failures})
+    if failures:
+        log["day_result"] = "written but failed the checks; not published"
+        raise RuntimeError(f"addday did not pass after 3 fix rounds: {failures[:3]}")
+    for s in new_sources:
+        cache["sources"][s["url"]] = {k: s[k] for k in ("url", "final_url", "site", "title", "date", "text")}
+    spec.update(draft=d, source_urls=[s["url"] for s in all_sources], extra_pool=extra,
+                en_words=list(en_words), zh_chars=list(zh_chars))
+    cache.setdefault("patches", []).append({"run": log["run"], "added_day": day.isoformat(), "draft": d})
+    cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=1, default=str), "utf-8")
+    log["day_result"] = f"{len(kept)} item(s) added " + ("as a day section" if as_day else "under Also this week")
+    log["outside_recheck_required"] = True
+    paths = publish_spec(spec, all_sources, articles, overwrite=True)
+    log["published"] = [p.name for p in paths]
+    return paths
+
+
 # ================================================================ main
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--mode", choices=["daily", "week", "patch"], required=True)
-    ap.add_argument("--run", help="patch: the run id whose article to fix")
+    ap.add_argument("--mode", choices=["daily", "week", "patch", "addday"], required=True)
+    ap.add_argument("--run", help="patch/addday: the run id whose article to change")
+    ap.add_argument("--day", help="addday: the empty day to fill")
     ap.add_argument("--failures", help="patch: JSON file with a list of problem strings")
     ap.add_argument("--date", help="daily: the news day (default: today in Asia/Taipei)")
     ap.add_argument("--week-start", help="week: first day covered")
     ap.add_argument("--until", help="week: last day covered (default week-start + 6)")
     ap.add_argument("--trial", action="store_true", help="local trial: skip the daily_until expiry check")
+    ap.add_argument("--resume", help="week: id of a failed run of the same week to continue from its last draft")
     a = ap.parse_args(argv)
+    if a.mode in ("patch", "addday") and not a.run:
+        ap.error(f"--mode {a.mode} needs --run")
+    if a.mode == "addday" and not a.day:
+        ap.error("--mode addday needs --day")
+    if a.mode == "patch" and not a.failures:
+        ap.error("--mode patch needs --failures")
 
     today = datetime.now(TPE).date()
     if a.mode == "daily" and not a.trial:
@@ -957,7 +1243,7 @@ def main(argv: list[str] | None = None) -> int:
 
     run_id = f"{today.isoformat()}-{a.mode}-{uuid.uuid4().hex[:6]}"
     budget_mode = a.mode
-    if a.mode == "patch":
+    if a.mode in ("patch", "addday"):
         budget_mode = json.loads((CACHE_DIR / f"{a.run}.json").read_text("utf-8"))["publish"]["mode"]
     ledger = Ledger(LEDGER, budget_mode, run_id, today)
     log: dict = {"run": run_id, "mode": a.mode, "started": datetime.now(timezone.utc).isoformat(timespec="seconds")}
@@ -969,10 +1255,19 @@ def main(argv: list[str] | None = None) -> int:
             run_daily(client, fetcher, ledger, log, date.fromisoformat(a.date) if a.date else today)
         elif a.mode == "patch":
             run_patch(client, ledger, log, a.run, json.loads(Path(a.failures).read_text("utf-8")))
+        elif a.mode == "addday":
+            log["src_run"], log["day"] = a.run, a.day
+            run_addday(client, fetcher, ledger, log, a.run, date.fromisoformat(a.day))
         else:
             ws = date.fromisoformat(a.week_start)
             until = date.fromisoformat(a.until) if a.until else ws + timedelta(days=6)
-            run_week(client, fetcher, ledger, log, ws, until, today)
+            resume = None
+            if a.resume:
+                resume = json.loads((CACHE_DIR / f"{a.resume}.json").read_text("utf-8"))
+                if not resume.get("drafts") or resume["drafts"][-1]["candidate"] != f"week-{ws.isoformat()}":
+                    raise ValueError(f"--resume {a.resume} is not a failed run of the week starting {ws}")
+                log["resumed_from"] = a.resume
+            run_week(client, fetcher, ledger, log, ws, until, today, resume)
     except (BudgetExceeded, RuntimeError, ValueError, FileExistsError, anthropic.APIError) as e:
         log["error"] = f"{type(e).__name__}: {e}"
         print(log["error"], file=sys.stderr)
@@ -987,7 +1282,7 @@ def main(argv: list[str] | None = None) -> int:
             (CACHE_DIR / f"{run_id}.json").write_text(json.dumps(cache, ensure_ascii=False, indent=1, default=str), "utf-8")
         RUNS.mkdir(parents=True, exist_ok=True)
         (RUNS / f"{run_id}.json").write_text(json.dumps(log, ensure_ascii=False, indent=1, default=str), "utf-8")
-        print(json.dumps({k: log.get(k) for k in ("run", "published", "error", "usd_this_run")},
+        print(json.dumps({k: log.get(k) for k in ("run", "published", "day_result", "error", "usd_this_run")},
                          ensure_ascii=False))
     return code
 

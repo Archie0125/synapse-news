@@ -160,10 +160,10 @@ _SCALE = {
     "萬": 1e4, "万": 1e4, "億": 1e8, "亿": 1e8, "兆": 1e12,
 }
 _PERCENT = {"%", "percent", "per cent", "個百分點", "百分點", "percentage point", "percentage points"}
-_MULTIPLE = {"x", "×", "倍", "-fold", "fold", "times"}
+_MULTIPLE = {"x", "×", "倍", "-fold", "fold", "times", "-times"}
 
 _UNIT_RE = (
-    r"(?:\s?(%|percent\b|per cent\b|percentage points?\b|個百分點|百分點|×|x\b|-fold\b|倍|成|"
+    r"(?:\s?(%|percent\b|per cent\b|percentage points?\b|個百分點|百分點|×|x\b|-fold\b|-?(?-i:times)\b|倍|成|"
     r"thousand\b|million\b|billion\b|trillion\b|bn\b|mn\b|[kKmMbBtT]\b|萬|万|億|亿|兆|千))?"
 )
 # Digits not glued to a preceding letter/digit/dot (so "2012" never yields "12",
@@ -172,8 +172,20 @@ _UNIT_RE = (
 # Numbers glued to (or followed by) a technical unit: "10GW", "64 GB", "2nm". Compared
 # together with the unit, so "10GW" is not supported by "1GW".
 _NUM_TECH_RE = re.compile(
-    r"(?<![A-Za-z0-9_.])(\d+(?:\.\d+)?)\s?(GB|TB|MB|PB|GW|MW|kW|kWh|MWh|GWh|TWh|nm|mm|cm|km|ms|GHz|MHz|Hz|"
+    r"(?<![A-Za-z0-9_.])(\d+(?:\.\d+)?)\s?((?:kilo|mega|giga|tera)watt-hours?|(?:kilo|mega|giga|tera)?watts?|"
+    r"(?:mega|giga|tera|peta)bytes?|nanomet(?:er|re)s?|"
+    r"GB|TB|MB|PB|GW|MW|kW|kWh|MWh|GWh|TWh|nm|mm|cm|km|ms|GHz|MHz|Hz|"
     r"mAh|fps|Gbps|Mbps|TOPS|TFLOPS|PFLOPS|EFLOPS|W)(?![A-Za-z0-9_])", re.I)
+# Spelled-out units compare with their symbols: "167 kilowatts" supports "167 kW".
+_TECH_ALIAS = {"kilowatt-hour": "kwh", "megawatt-hour": "mwh", "gigawatt-hour": "gwh", "terawatt-hour": "twh",
+               "watt": "w", "kilowatt": "kw", "megawatt": "mw", "gigawatt": "gw", "terawatt": "tw",
+               "megabyte": "mb", "gigabyte": "gb", "terabyte": "tb", "petabyte": "pb",
+               "nanometer": "nm", "nanometre": "nm"}
+
+
+def _tech_unit(u: str) -> str:
+    u = u.lower()
+    return _TECH_ALIAS.get(u.rstrip("s"), u)
 
 # Case-insensitive so Title Case headlines ("$20 Billion") keep their unit.
 _NUM_RE = re.compile(
@@ -242,6 +254,12 @@ def _unit_to(kind_default: str, unit: str | None) -> tuple[str, float]:
     return kind_default, _SCALE.get(u, 1.0)
 
 
+# Ratios only: "twice as fast", "doubled its revenue" -- not "met twice" or "doubled down".
+_TWICE = re.compile(r"\b(?:twice\s+(?:as|the)|doubl(?:ed|es|ing))\b(?!\s+(?:down|over|up|as|back)\b)(?!-)", re.I)
+# "times" is both a ratio ("2.6 times faster") and a count ("met 3 times"), and a
+# spelled-out unit is often dropped in translation ("6 gigawatts" -> 6 吉瓦), so these
+# also stand for the bare number. "3x", "3 倍" and "3GW" do not.
+_ALSO_NUMBER = re.compile(r"times|watt|byte|nanomet", re.I)
 _EN_SMALL = re.compile(r"\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|"
                        r"fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|"
                        r"sixty|seventy|eighty|ninety)\b", re.I)
@@ -262,7 +280,13 @@ def extract_quantities(text: str, pool: bool = False) -> list[Qty]:
             n = _zh_int(m.group(1))
             if n is not None:
                 out_pool.append(Qty(m.group(0), "number", float(n), 0, 1))
-    return out_pool + _extract(text)
+        for m in _TWICE.finditer(text):
+            out_pool.append(Qty(m.group(0), "multiple", 2.0, 0, 1))
+        found = _extract(text)
+        out_pool += [Qty(q.raw, "number", q.mantissa, q.decimals, q.scale) for q in found
+                     if (q.kind == "multiple" or q.kind.startswith("u:")) and _ALSO_NUMBER.search(q.raw)]
+        return out_pool + found
+    return _extract(text)
 
 
 def _extract(text: str) -> list[Qty]:
@@ -301,7 +325,7 @@ def _extract(text: str) -> list[Qty]:
             add(m, Qty(m.group(0), "time", int(m.group(1)) * 100 + int(m.group(2)), 0, 1))
     for m in _NUM_TECH_RE.finditer(text):
         if not taken(*m.span()):
-            add(m, Qty(m.group(0), "u:" + m.group(2).lower(), float(m.group(1)),
+            add(m, Qty(m.group(0), "u:" + _tech_unit(m.group(2)), float(m.group(1)),
                        len(m.group(1).split(".")[1]) if "." in m.group(1) else 0, 1))
     for m in _NUM_RE.finditer(text):
         if taken(*m.span()):
@@ -353,7 +377,9 @@ def _supported(q: Qty, pool: list[Qty]) -> bool:
                     s.kind == "date" and int(s.mantissa) // 100 == q.mantissa):
                 return True
             continue
-        if s.kind != q.kind:
+        # A digit "N times" may be a count, as before; "three times faster" stays a ratio.
+        if s.kind != q.kind and not (q.kind == "multiple" and s.kind == "number" and "times" in q.raw
+                                     and q.raw[:1].isdigit()):
             continue
         if s.value == q.value:
             return True
@@ -446,6 +472,10 @@ _NAME_STOP = {
     "neither", "nor", "not", "no", "our", "we", "they", "their", "his", "her", "one", "two",
     "if", "once", "until", "since", "because", "although", "though", "whether", "where",
 }
+# Titles the sources abbreviate: "Gov. Gavin Newsom" supports "Governor Gavin Newsom".
+_TITLE_ABBR = {"Governor": "Gov", "Senator": "Sen", "Representative": "Rep", "Lieutenant": "Lt",
+               "Professor": "Prof", "Doctor": "Dr", "Corporation": "Corp",
+               "Incorporated": "Inc", "Limited": "Ltd", "Company": "Co", "Department": "Dept"}
 _CALENDAR = set(_MONTHS) | {"monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"}
 # A dot belongs to a word only inside it ("U.S", "Node.js"), so a sentence end
 # breaks the sequence: "Android Police. Your" is two things, not one name.
@@ -477,7 +507,8 @@ def check_names(article_en: str, sources: list[str]) -> list[str]:
         seq = " ".join(words).strip(".,'")
         if seq in src:
             continue
-        missing = [w for w in caps if w not in src_words and w.rstrip("'s") not in src_words]
+        missing = [w for w in caps if w not in src_words and w.rstrip("'s") not in src_words
+                   and _TITLE_ABBR.get(w) not in src_words]
         if missing:
             fails.append(f"en: name「{seq}」— {', '.join(missing)} not in any source")
     return fails
@@ -731,3 +762,72 @@ def source_states_day(text: str, published: date | None, day: date) -> bool:
         return True
     wd = _WEEKDAYS[day.weekday()]
     return 0 <= gap <= 6 and re.search(rf"\b(?:on|last|this)\s+{wd}\b", text, re.I) is not None
+
+
+# ---------------------------------------------------------------- adding a day to a recap
+
+_ZH_WEEKDAY = "一二三四五六日"
+_DAY_HEAD_EN = re.compile(r"^##\s+(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(" + "|".join(
+    m.capitalize() for m in list(_MONTHS)[:12]) + r")\s+(\d{1,2})\s*$")
+_DAY_HEAD_ZH = re.compile(r"^##\s+(\d{1,2})\s*月\s*(\d{1,2})\s*日")
+# Sections that come after the day-by-day part of a recap.
+_TAIL_HEADS = ("Also this week", "What to Watch", "本週其他消息", "值得關注")
+
+
+def day_heading(day: date, lang: str) -> str:
+    if lang == "en":
+        return f"## {day:%A}, {day:%B} {day.day}"
+    return f"## {day.month} 月 {day.day} 日（週{_ZH_WEEKDAY[day.weekday()]}）"
+
+
+def heading_day(line: str, year: int) -> date | None:
+    s = line.strip()
+    m = _DAY_HEAD_EN.match(s)
+    if m:
+        return date(year, _MONTHS[m.group(1).lower()], int(m.group(2)))
+    m = _DAY_HEAD_ZH.match(s)
+    if m:
+        return date(year, int(m.group(1)), int(m.group(2)))
+    return None
+
+
+def insert_day_section(body: str, section: str, day: date) -> str:
+    """Put a new day section in date order: before the first later day heading,
+    or before "Also this week"/"What to Watch" when no later day is covered."""
+    lines = body.split("\n")
+    for i, line in enumerate(lines):
+        s = line.strip()
+        if not s.startswith("## "):
+            continue
+        d = heading_day(s, day.year)
+        if d == day:
+            raise ValueError(f"the recap already has a section for {day}")
+        if (d and d > day) or (d is None and any(t in s for t in _TAIL_HEADS)):
+            return "\n".join(lines[:i]).rstrip() + "\n\n" + section.strip() + "\n\n" + "\n".join(lines[i:])
+    return body.rstrip() + "\n\n" + section.strip() + "\n"
+
+
+def shift_markers(text: str, by: int) -> str:
+    """[S1] -> [S{1+by}]: new sources are appended after the recap's existing ones."""
+    return _TAG.sub(lambda m: re.sub(r"\d+", lambda n: str(int(n.group(0)) + by), m.group(0)), text)
+
+
+_ALSO_HEAD = {"en": "## Also this week", "zh": "## 本週其他消息"}
+_WATCH_HEADS = ("What to Watch", "值得關注")
+
+
+def insert_also_paragraph(body: str, paragraph: str, lang: str) -> str:
+    """Add a paragraph at the end of the "Also this week" section, creating the
+    section just before "What to Watch" if the recap has none."""
+    lines = body.split("\n")
+    head = _ALSO_HEAD[lang]
+    start = next((i for i, l in enumerate(lines) if l.strip() == head), None)
+    if start is not None:
+        end = next((i for i in range(start + 1, len(lines)) if lines[i].strip().startswith("## ")), len(lines))
+        return ("\n".join(lines[:end]).rstrip() + "\n\n" + paragraph.strip() + "\n\n" + "\n".join(lines[end:])).rstrip() + "\n"
+    watch = next((i for i, l in enumerate(lines) if l.strip().startswith("## ")
+                  and any(w in l for w in _WATCH_HEADS)), None)
+    block = head + "\n\n" + paragraph.strip()
+    if watch is None:
+        return body.rstrip() + "\n\n" + block + "\n"
+    return "\n".join(lines[:watch]).rstrip() + "\n\n" + block + "\n\n" + "\n".join(lines[watch:])

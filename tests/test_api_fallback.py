@@ -125,7 +125,12 @@ def test_spend_limit_named_only_in_the_body(monkeypatch, tmp_path):
 
 
 @pytest.mark.parametrize("status,message", [(500, "Internal server error"), (529, "Overloaded"),
-                                            (400, "messages: text content blocks must be non-empty")])
+                                            (400, "messages: text content blocks must be non-empty"),
+                                            # quota words in a server error or a schema error (Codex, 2026-11-18)
+                                            (500, "Internal billing service unavailable"),
+                                            (503, "usage limit service unavailable"),
+                                            (400, "Invalid schema: property balance must specify a type"),
+                                            (400, "Invalid schema: property quota must specify a type")])
 def test_server_and_request_errors_do_not_switch(monkeypatch, tmp_path, status, message):
     cli = FakeCli({"claude": [ok({"x": 1})]})
     monkeypatch.setattr(D, "cli_events", cli)
@@ -337,6 +342,19 @@ if mode == "grandchild":  # a child that keeps the stdout pipe open after the CL
     import subprocess
     subprocess.Popen([sys.executable, "-c", "import time; time.sleep(60)"])
     time.sleep(60)
+if mode == "flood":  # never stops printing: big bursts keep the reader's queue from ever running dry
+    burst = (json.dumps({"type": "system", "subtype": "status"}) + chr(10)) * 50_000
+    t = time.time()
+    while time.time() - t < 30:
+        sys.stdout.write(burst)
+        sys.stdout.flush()
+if mode == "leaky":  # fails with a key early in a long stderr, so only its tail survives a cut
+    sys.stderr.write("billing error: sk-ant-api03-" + "Z" * 40 + " " + "x" * 175)
+    sys.exit(1)
+if mode == "orphan":  # the CLI exits at once, its child keeps stdout open: no tree left for taskkill /T
+    import subprocess
+    subprocess.Popen([sys.executable, "-c", "import time; time.sleep(30)"])
+    sys.exit(0)
 print(json.dumps({"type": "result", "subtype": "success", "is_error": False, "result": "hello from the fake"}), flush=True)
 '''
 
@@ -360,6 +378,73 @@ def test_timeout_kills_the_whole_process_tree(monkeypatch, tmp_path):
     with pytest.raises(D.subprocess.TimeoutExpired):
         D.cli_once([sys.executable, str(script), "grandchild"], "p", D.cli_env(None), None, 0)
     assert time.monotonic() - t0 < 15
+
+
+def test_timeout_holds_when_the_cli_exits_and_an_orphan_keeps_stdout_open(monkeypatch, tmp_path):
+    script = tmp_path / "fake_claude.py"
+    script.write_text(FAKE_CLAUDE)
+    monkeypatch.setattr(D, "CLI_TIMEOUT", 2)
+    t0 = time.monotonic()
+    with pytest.raises(D.subprocess.TimeoutExpired):
+        D.cli_once([sys.executable, str(script), "orphan"], "p", D.cli_env(None), None, 0)
+    assert time.monotonic() - t0 < 10
+
+
+def test_timeout_holds_while_the_cli_keeps_printing(monkeypatch, tmp_path):
+    script = tmp_path / "fake_claude.py"
+    script.write_text(FAKE_CLAUDE)
+    monkeypatch.setattr(D, "CLI_TIMEOUT", 2)
+    t0 = time.monotonic()
+    with pytest.raises(D.subprocess.TimeoutExpired):
+        D.cli_once([sys.executable, str(script), "flood"], "p", D.cli_env(None), None, 0)
+    assert time.monotonic() - t0 < 10
+
+
+def test_a_key_in_long_cli_stderr_is_masked_before_it_is_cut(tmp_path):
+    script = tmp_path / "fake_claude.py"
+    script.write_text(FAKE_CLAUDE)
+    with pytest.raises((RuntimeError, D.AccountUnavailable)) as err:
+        D.cli_once([sys.executable, str(script), "leaky"], "p", D.cli_env(None), None, 0)
+    assert "ZZZZ" not in str(err.value)
+
+
+def test_ledger_notes_are_masked(tmp_path):
+    key = "sk-ant-api03-" + "y" * 40
+    led = D.Ledger(tmp_path / "l.json", "daily", "r1", date(2026, 11, 18))
+    led.record("write", "claude-opus-5-5", None, ok=False, note=f"rejected {key}", usd_override=0.0)
+    assert key not in (tmp_path / "l.json").read_text("utf-8")
+
+
+def test_the_run_log_is_masked_whatever_put_the_key_there(monkeypatch, tmp_path, capsys):
+    key = "sk-ant-api03-" + "w" * 40
+    monkeypatch.setattr(D, "RUNS", tmp_path / "runs")
+    monkeypatch.setattr(D, "LEDGER", tmp_path / "runs" / "ledger.json")
+    monkeypatch.setattr(D, "CACHE_DIR", tmp_path / "cache")
+    monkeypatch.setattr(D.anthropic, "Anthropic", lambda **kw: FakeClient(None))
+    monkeypatch.setattr(D, "Fetcher", lambda: None)
+
+    def fake_daily(client, fetcher, ledger, log, run_date):
+        log.setdefault("notes", []).append(f"some step echoed {key}")
+        log["published"] = [f"x-{key}"]
+    monkeypatch.setattr(D, "run_daily", fake_daily)
+    assert D.main(["--mode", "daily", "--trial"]) == 0
+    (log_path,) = [p for p in (tmp_path / "runs").glob("*.json") if p.name != "ledger.json"]
+    assert key not in log_path.read_text("utf-8") and key not in capsys.readouterr().out
+    json.loads(log_path.read_text("utf-8"))
+
+
+def test_cli_errors_are_redacted_in_the_ledger_and_stderr(monkeypatch, tmp_path, capsys):
+    key = "sk-ant-api03-" + "x" * 40
+    def boom(args, prompt, env, timeout):
+        raise D.AccountUnavailable(f"login failed for {key}")
+        yield  # pragma: no cover
+    monkeypatch.setattr(D, "cli_events", boom)
+    monkeypatch.setenv("FAQ_BACKEND", "cli")
+    led = D.Ledger(tmp_path / "l.json", "daily", "r1", date(2026, 11, 18))
+    with pytest.raises(RuntimeError) as err:
+        ask(FakeClient(None), led)
+    leaked = (tmp_path / "l.json").read_text("utf-8") + capsys.readouterr().err + str(err.value)
+    assert key not in leaked and "sk-ant-***" in leaked
 
 
 # ------------------------------------------------------------ the run log says which source was used

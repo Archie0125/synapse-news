@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import queue
 import re
 import shutil
 import subprocess
@@ -213,7 +214,7 @@ class Ledger:
             "output": getattr(usage, "output_tokens", 0) if usage else 0,
             "cache_r": (getattr(usage, "cache_read_input_tokens", 0) or 0) if usage else 0,
             "cache_w": (getattr(usage, "cache_creation_input_tokens", 0) or 0) if usage else 0,
-            "note": note[:300],
+            "note": redact(note)[:300],
         })
 
 
@@ -245,7 +246,8 @@ CLI_TIMEOUT = 1200
 CLI_SEARCH_OVERRUN = 2
 API_LIMIT_STATUS = (401, 402, 403, 429)
 # Also matched in the body, for errors that arrive inside a 200 stream or with an unexpected status.
-API_LIMIT_HINTS = ("balance", "usage limit", "enforced_spend_limit", "billing", "quota", "rate_limit_error")
+API_LIMIT_HINTS = ("credit balance", "insufficient balance", "usage limit", "enforced_spend_limit",
+                   "billing_error", "rate_limit_error")
 CLI_ACCOUNT_ERRORS = ("authentication_failed", "billing_error", "rate_limit", "oauth_org_not_allowed")
 # Word-bounded: "prompt is too long: 214290 tokens" is not a 429 (Fable, 2026-11-18).
 CLI_LIMIT_RE = re.compile(r"usage limit|limit reached|hit your limit|rate.?limit|\b429\b|not logged in|/login"
@@ -291,9 +293,13 @@ def switch_to_subscription(step: str, reason: str) -> bool:
 
 
 def api_unusable(e: anthropic.APIStatusError) -> bool:
-    """Out of quota, out of credit or locked out — not a transient server error (5xx, 529)."""
+    """Out of quota, out of credit or locked out — not a server error (5xx, 529), whatever its text says."""
+    if e.status_code >= 500:
+        return False
+    if e.status_code in API_LIMIT_STATUS:
+        return True
     text = f"{e.message} {getattr(e, 'body', '')}".lower()
-    return e.status_code in API_LIMIT_STATUS or any(h in text for h in API_LIMIT_HINTS)
+    return any(h in text for h in API_LIMIT_HINTS)
 
 
 def cli_accounts() -> list[tuple[str, str | None]]:
@@ -355,14 +361,17 @@ def cli_events(args: list[str], prompt: str, env: dict, timeout: int):
     errf = tempfile.TemporaryFile("w+", encoding="utf-8")
     p = subprocess.Popen(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=errf, text=True,
                          encoding="utf-8", env=env, cwd=tempfile.gettempdir(), start_new_session=os.name != "nt")
-    timed_out = threading.Event()
+    lines: queue.Queue = queue.Queue()
 
-    def kill():
-        timed_out.set()
-        _kill_tree(p)
-
-    timer = threading.Timer(timeout, kill)
-    timer.start()
+    def pump():
+        # Read on a thread so the deadline below holds even when something the CLI started keeps stdout
+        # open after the CLI itself exited: taskkill /T cannot find an orphan's tree (Codex, 2026-11-18).
+        try:
+            for line in p.stdout:
+                lines.put(line)
+        except (OSError, ValueError):
+            pass
+        lines.put(None)
 
     def feed():
         try:
@@ -372,21 +381,33 @@ def cli_events(args: list[str], prompt: str, env: dict, timeout: int):
             pass
 
     threading.Thread(target=feed, daemon=True).start()
+    threading.Thread(target=pump, daemon=True).start()
+    deadline = time.monotonic() + timeout
     try:
-        for line in p.stdout:
+        while True:
+            remaining = deadline - time.monotonic()  # checked per event: a CLI that never stops talking
+            if remaining <= 0:                        # must still time out (Codex, 2026-11-18)
+                raise subprocess.TimeoutExpired(args[0], timeout)
+            try:
+                line = lines.get(timeout=remaining)
+            except queue.Empty:
+                raise subprocess.TimeoutExpired(args[0], timeout) from None
+            if line is None:
+                break
             try:
                 ev = json.loads(line)
             except ValueError:
                 continue
             if isinstance(ev, dict):
                 yield ev
-        p.wait()
-        if timed_out.is_set():
-            raise subprocess.TimeoutExpired(args[0], timeout)
+        try:
+            p.wait(timeout=max(0.0, deadline - time.monotonic()))
+        except subprocess.TimeoutExpired:
+            raise subprocess.TimeoutExpired(args[0], timeout) from None
         errf.seek(0)
-        yield {"type": "_exit", "rc": p.returncode, "stderr": errf.read()[-400:]}
+        # Masked before any cut: a cut through a key's prefix would leave its tail unrecognisable (Codex)
+        yield {"type": "_exit", "rc": p.returncode, "stderr": redact(errf.read())[-400:]}
     finally:
-        timer.cancel()
         if p.poll() is None:
             _kill_tree(p)
         errf.close()
@@ -451,7 +472,7 @@ def cli_once(args: list[str], prompt: str, env: dict, schema: dict | None, searc
             elif kind == "result":
                 text = str(ev.get("result") or "")
                 if ev.get("is_error"):
-                    msg = text or str(ev.get("subtype") or "")
+                    msg = redact(text or str(ev.get("subtype") or ""))
                     if CLI_LIMIT_RE.search(msg):
                         raise AccountUnavailable(msg[:200])
                     raise RuntimeError(f"error result: {msg[:300]}")
@@ -507,18 +528,19 @@ def call_model_cli(ledger: Ledger, step: str, model: str, *, system: str, messag
             text, results, queries = cli_once(args, prompt, cli_env(config_dir), schema,
                                               searches * CLI_SEARCH_OVERRUN)
         except AccountUnavailable as e:
+            why = redact(str(e))
             _SPENT_ACCOUNTS.add(name)
-            skipped.append(f"{name}: {e}")
-            ledger.record(step, model, None, ok=False, note=f"{name} unavailable: {e}", usd_override=0.0,
+            skipped.append(f"{name}: {why}")
+            ledger.record(step, model, None, ok=False, note=f"{name} unavailable: {why}", usd_override=0.0,
                           source=source)
-            _note_call(step, source, False, str(e))
-            print(f"{step}: {name} unavailable ({e}); trying the next account", file=sys.stderr)
+            _note_call(step, source, False, why)
+            print(f"{step}: {name} unavailable ({why}); trying the next account", file=sys.stderr)
             continue
         except (RuntimeError, OSError, subprocess.TimeoutExpired) as e:
-            ledger.record(step, model, None, ok=False, note=f"{name}: {type(e).__name__}: {e}", usd_override=0.0,
-                          source=source)
-            _note_call(step, source, False, f"{type(e).__name__}: {e}")
-            raise RuntimeError(f"{step}: claude -p ({name}) failed: {type(e).__name__}: {str(e)[:300]}") from e
+            why = redact(f"{type(e).__name__}: {e}")
+            ledger.record(step, model, None, ok=False, note=f"{name}: {why}", usd_override=0.0, source=source)
+            _note_call(step, source, False, why)
+            raise RuntimeError(f"{step}: claude -p ({name}) failed: {why[:300]}") from e
         ledger.record(step, model, None, ok=True, note=f"served by {name}", usd_override=0.0, source=source)
         _note_call(step, source, True)
         return _CliResponse(text, model, results, queries)
@@ -788,7 +810,7 @@ def research(client, ledger: Ledger, log: dict, user: str, schema: dict, max_use
             if use_schema is None or "format" not in str(e).lower():
                 raise
             # Structured output not accepted together with web search: ask for JSON in text instead.
-            log.setdefault("notes", []).append(f"research: schema rejected with search ({e.message[:160]})")
+            log.setdefault("notes", []).append(f"research: schema rejected with search ({redact(e.message)[:160]})")
             use_schema = None
             messages[0]["content"] = user + "\n\nReturn the JSON object matching this schema:\n" + json.dumps(schema)
             continue
@@ -1566,9 +1588,11 @@ def main(argv: list[str] | None = None) -> int:
             CACHE_DIR.mkdir(parents=True, exist_ok=True)
             (CACHE_DIR / f"{run_id}.json").write_text(json.dumps(cache, ensure_ascii=False, indent=1, default=str), "utf-8")
         RUNS.mkdir(parents=True, exist_ok=True)
-        (RUNS / f"{run_id}.json").write_text(json.dumps(log, ensure_ascii=False, indent=1, default=str), "utf-8")
-        print(json.dumps({k: log.get(k) for k in ("run", "published", "day_result", "error", "source",
-                                                  "usd_this_run")}, ensure_ascii=False))
+        # The whole log is masked once more on its way out, whichever path put text into it (Codex)
+        (RUNS / f"{run_id}.json").write_text(redact(json.dumps(log, ensure_ascii=False, indent=1, default=str)),
+                                             "utf-8")
+        print(redact(json.dumps({k: log.get(k) for k in ("run", "published", "day_result", "error", "source",
+                                                         "usd_this_run")}, ensure_ascii=False)))
     return code
 
 

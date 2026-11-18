@@ -8,6 +8,10 @@ Flow: research (Sonnet + web search) -> fetch sources ourselves (robots, caps)
 needed -> write Markdown. Every API call is reserved against a budget before it
 is made and recorded in data/api-runs/ledger.json whether it succeeds or not.
 
+If the API cannot be used (429, no credit, spend limit, bad key, or our own cap reached) the run continues
+on the owner's Claude subscription through `claude -p`, account claude, then claude2…claude5 as each one
+hits its usage limit; the run log's `source` says which was used. FAQ_AUTO_FALLBACK=0 turns that off.
+
 Daily mode refuses to run (unless --trial) after `daily_until` in
 data/api-runs/config.json: the owner has to renew it after reviewing traffic.
 """
@@ -18,12 +22,17 @@ import argparse
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
+import threading
 import time
 import uuid
 from contextlib import contextmanager
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from types import SimpleNamespace
 from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
@@ -187,19 +196,19 @@ class Ledger:
             })
 
     def record(self, step: str, model: str, usage, ok: bool, note: str = "",
-               usd_override: float | None = None) -> float:
+               usd_override: float | None = None, source: str = "api") -> float:
         usd = usage_usd(model, usage) if usd_override is None else usd_override
         with self._locked():
             if self._pending:
                 self.entries = [e for e in self.entries if e.get("pending") != self._pending]
                 self._pending = None
-            self._append(step, model, usage, ok, note, usd)
+            self._append(step, model, usage, ok, note, usd, source)
         return usd
 
-    def _append(self, step: str, model: str, usage, ok: bool, note: str, usd: float) -> None:
+    def _append(self, step: str, model: str, usage, ok: bool, note: str, usd: float, source: str) -> None:
         self.entries.append({
             "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"), "run": self.run_id,
-            "mode": self.mode, "step": step, "model": model, "ok": ok, "usd": round(usd, 5),
+            "mode": self.mode, "step": step, "model": model, "source": source, "ok": ok, "usd": round(usd, 5),
             "input": getattr(usage, "input_tokens", 0) if usage else 0,
             "output": getattr(usage, "output_tokens", 0) if usage else 0,
             "cache_r": (getattr(usage, "cache_read_input_tokens", 0) or 0) if usage else 0,
@@ -223,60 +232,334 @@ def worst_case(model: str, prompt_tokens: int, max_tokens: int, searches: int = 
 
 # ================================================================ API calls
 
-class _CliBlock:
-    def __init__(self, text: str):
-        self.type, self.text = "text", text
+# ---------------------------------------------------------------- subscription fallback
+# When the API cannot be used (429, out of credit, spend limit, revoked key, or our own cap reached) the
+# rest of the run goes through the owner's logged-in Claude Code accounts instead (owner 2026-11-15
+# 「API忽然不能用了 就用訂閱去跑完剩下的」; 2026-11-18: also on 429, across claude～claude5, and say which
+# source was used). `claudeN` is the account in ~/.claude-acctN (see ~/bin/claudeN.cmd); `claude` is the
+# default ~/.claude. An account that reports a usage limit or a login problem is skipped for the rest
+# of the run and the next one takes over.
+CLI_ACCOUNTS = "claude,claude2,claude3,claude4,claude5"
+CLI_TIMEOUT = 1200
+# The CLI's web search has no max_uses; a session searching this many times the API's cap is runaway.
+CLI_SEARCH_OVERRUN = 2
+API_LIMIT_STATUS = (401, 402, 403, 429)
+# Also matched in the body, for errors that arrive inside a 200 stream or with an unexpected status.
+API_LIMIT_HINTS = ("balance", "usage limit", "enforced_spend_limit", "billing", "quota", "rate_limit_error")
+CLI_ACCOUNT_ERRORS = ("authentication_failed", "billing_error", "rate_limit", "oauth_org_not_allowed")
+# Word-bounded: "prompt is too long: 214290 tokens" is not a 429 (Fable, 2026-11-18).
+CLI_LIMIT_RE = re.compile(r"usage limit|limit reached|hit your limit|rate.?limit|\b429\b|not logged in|/login"
+                          r"|authenticat|credit balance|billing", re.I)
+_KEY_RE = re.compile(r"sk-ant-[A-Za-z0-9_\-]+")
+
+# Which source served each model call of this run; main() writes it into the run log.
+CALLS: list[dict] = []
+FALLBACK: dict = {}
+_SPENT_ACCOUNTS: set[str] = set()
 
 
-class _CliResponse:
-    """The bits of an API response the pipeline reads, filled from `claude -p --output-format json`."""
-    def __init__(self, text: str, model: str, stop_reason: str):
-        self.content, self.model, self.stop_reason, self.usage = [_CliBlock(text)], model, stop_reason, None
+class AccountUnavailable(RuntimeError):
+    """This subscription account cannot take requests now (usage limit, logged out, no access)."""
 
 
-def call_model_cli(ledger: Ledger, step: str, model: str, *, system: str, messages: list, effort: str,
-                   schema: dict | None) -> _CliResponse:
-    """Same prompt and schema through the owner's subscription (`claude -p`), for when the API key is gone
-    (owner 2026-11-15: 「API忽然不能用了 就用訂閱去跑完剩下的」). No tools: web search stays API-only.
-    The API key is removed from the child's environment so the CLI cannot bill it."""
-    import subprocess
+def redact(text: str) -> str:
+    """Error text goes into logs that are committed; never let a key ride along in it."""
+    text = _KEY_RE.sub("sk-ant-***", str(text))
+    for var in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN"):
+        secret = os.environ.get(var)
+        if secret and len(secret) >= 8:
+            text = text.replace(secret, "***")
+    return text
+
+
+def _note_call(step: str, source: str, ok: bool, why: str = "") -> None:
+    CALLS.append({"step": step, "source": source, "ok": ok, **({"why": redact(why)[:200]} if why else {})})
+
+
+def switch_to_subscription(step: str, reason: str) -> bool:
+    """Moves the rest of this process to the subscription. False when the owner turned that off or this
+    machine has no Claude Code CLI (e.g. the GitHub runner): then the original error stands."""
+    if os.environ.get("FAQ_AUTO_FALLBACK", "1") == "0" or not shutil.which("claude"):
+        return False
+    reason = redact(reason)
+    os.environ["FAQ_BACKEND"] = "cli"
+    if not FALLBACK:
+        FALLBACK.update(step=step, reason=reason[:300],
+                        at=datetime.now(timezone.utc).isoformat(timespec="seconds"))
+    print(f"{step}: {reason[:200]}; continuing on the Claude subscription", file=sys.stderr)
+    return True
+
+
+def api_unusable(e: anthropic.APIStatusError) -> bool:
+    """Out of quota, out of credit or locked out — not a transient server error (5xx, 529)."""
+    text = f"{e.message} {getattr(e, 'body', '')}".lower()
+    return e.status_code in API_LIMIT_STATUS or any(h in text for h in API_LIMIT_HINTS)
+
+
+def cli_accounts() -> list[tuple[str, str | None]]:
+    """(name, CLAUDE_CONFIG_DIR) in the order to try; `FAQ_CLI_ACCOUNTS` overrides the order."""
+    out = []
+    for name in (n.strip() for n in os.environ.get("FAQ_CLI_ACCOUNTS", CLI_ACCOUNTS).split(",")):
+        m = re.fullmatch(r"claude(\d*)", name)
+        if not m:
+            raise ValueError(f"FAQ_CLI_ACCOUNTS: {name!r} is not claude or claudeN")
+        if m.group(1) in ("", "1"):
+            out.append((name, None))
+        elif (d := Path.home() / f".claude-acct{m.group(1)}").is_dir():
+            out.append((name, str(d)))
+    return out
+
+
+def cli_env(config_dir: str | None) -> dict:
+    """The child must not see the API key (it would bill the API) or a base URL meant for the SDK."""
+    env = {k: v for k, v in os.environ.items()
+           if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN", "ANTHROPIC_BASE_URL", "CLAUDE_CONFIG_DIR")}
+    env.update(CLAUDE_CODE_DISABLE_CLAUDE_MDS="1", CLAUDE_CODE_DISABLE_AUTO_MEMORY="1")
+    if config_dir:
+        env["CLAUDE_CONFIG_DIR"] = config_dir
+    return env
+
+
+def _block_field(b, key: str):
+    return b.get(key) if isinstance(b, dict) else getattr(b, key, None)
+
+
+def cli_prompt(messages: list) -> str:
+    """One prompt from the conversation. An earlier assistant turn (a research follow-up) keeps its answer
+    and the search results it saw, so the new session can still cite them."""
     parts = []
     for m in messages:
         c = m["content"]
-        parts.append(c if isinstance(c, str) else "\n\n".join(b.get("text", "") for b in c if b.get("type") == "text"))
-    args = ["claude", "-p", "--model", model, "--effort", effort, "--tools", "", "--no-session-persistence",
-            "--strict-mcp-config", "--disable-slash-commands", "--setting-sources", "project",
-            "--system-prompt", system, "--output-format", "json"]
+        if isinstance(c, str):
+            text = c
+        else:
+            bits, found = [], []
+            for b in c:
+                kind = _block_field(b, "type")
+                if kind == "text":
+                    bits.append(_block_field(b, "text") or "")
+                elif kind == "web_search_tool_result" and isinstance(_block_field(b, "content"), list):
+                    found += [f"- {_block_field(r, 'title') or ''} — {_block_field(r, 'url')}"
+                              for r in _block_field(b, "content") if _block_field(r, "url")]
+            if found:
+                bits.insert(0, "Search results you already found (you may cite these URLs):\n" + "\n".join(found))
+            text = "\n\n".join(bits)
+        parts.append(text if m["role"] == "user" else f"[YOUR EARLIER ANSWER]\n{text}")
+    return "\n\n".join(parts)
+
+
+def cli_events(args: list[str], prompt: str, env: dict, timeout: int):
+    """Runs `claude -p --output-format stream-json` and yields its events as they arrive, then one
+    {"type": "_exit"} event. Streaming lets a usage-limit event stop the call at once instead of the CLI
+    waiting hours in its own retry loop. Closing the generator kills the process."""
+    errf = tempfile.TemporaryFile("w+", encoding="utf-8")
+    p = subprocess.Popen(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=errf, text=True,
+                         encoding="utf-8", env=env, cwd=tempfile.gettempdir(), start_new_session=os.name != "nt")
+    timed_out = threading.Event()
+
+    def kill():
+        timed_out.set()
+        _kill_tree(p)
+
+    timer = threading.Timer(timeout, kill)
+    timer.start()
+
+    def feed():
+        try:
+            p.stdin.write(prompt)
+            p.stdin.close()
+        except OSError:
+            pass
+
+    threading.Thread(target=feed, daemon=True).start()
+    try:
+        for line in p.stdout:
+            try:
+                ev = json.loads(line)
+            except ValueError:
+                continue
+            if isinstance(ev, dict):
+                yield ev
+        p.wait()
+        if timed_out.is_set():
+            raise subprocess.TimeoutExpired(args[0], timeout)
+        errf.seek(0)
+        yield {"type": "_exit", "rc": p.returncode, "stderr": errf.read()[-400:]}
+    finally:
+        timer.cancel()
+        if p.poll() is None:
+            _kill_tree(p)
+        errf.close()
+
+
+def _kill_tree(p: subprocess.Popen) -> None:
+    """Kills the CLI and anything it started: a child still holding stdout would keep the read blocked
+    after the timeout (Codex, 2026-11-18)."""
+    if os.name == "nt":
+        subprocess.run(["taskkill", "/T", "/F", "/PID", str(p.pid)], capture_output=True)
+    else:
+        import signal
+        try:
+            os.killpg(p.pid, signal.SIGKILL)
+        except (ProcessLookupError, PermissionError):
+            pass
+    if p.poll() is None:
+        p.kill()
+    p.wait()
+
+
+def _reset_text(epoch) -> str:
+    try:
+        return datetime.fromtimestamp(float(epoch), TPE).strftime("%m-%d %H:%M")
+    except (TypeError, ValueError, OverflowError, OSError):
+        return "?"
+
+
+def cli_once(args: list[str], prompt: str, env: dict, schema: dict | None, search_cap: int):
+    """One `claude -p` session -> (text, search results [{url, title}], queries).
+    Raises AccountUnavailable when the account itself is the problem, RuntimeError otherwise."""
+    results: list[dict] = []
+    queries: list[str] = []
+    searches = 0
+    events = cli_events(args, prompt, env, CLI_TIMEOUT)
+    try:
+        for ev in events:
+            kind = ev.get("type")
+            if kind == "rate_limit_event":
+                info = ev.get("rate_limit_info") or {}
+                if info.get("status") == "rejected" and not info.get("isUsingOverage"):
+                    raise AccountUnavailable(f"usage limit ({info.get('rateLimitType')}), "
+                                             f"resets {_reset_text(info.get('resetsAt'))} Taipei")
+            elif kind == "system" and ev.get("subtype") == "api_retry" and ev.get("error_status") in API_LIMIT_STATUS:
+                raise AccountUnavailable(f"api_retry {ev.get('error_status')}")
+            elif kind == "assistant" and ev.get("error") in CLI_ACCOUNT_ERRORS:
+                raise AccountUnavailable(str(ev["error"]))
+            elif kind == "user" and isinstance(ev.get("tool_use_result"), dict):
+                tur = ev["tool_use_result"]
+                if not isinstance(tur.get("results"), list):
+                    continue
+                n = tur.get("searchCount")
+                searches += n if isinstance(n, int) else 1
+                if tur.get("query"):
+                    queries.append(str(tur["query"]))
+                for r in tur["results"]:  # result blocks and the tool's own prose summary (a str) alternate
+                    for c in (r.get("content") or []) if isinstance(r, dict) else []:
+                        if isinstance(c, dict) and c.get("url"):
+                            results.append({"url": c["url"], "title": c.get("title") or ""})
+                if search_cap and searches > search_cap:
+                    raise RuntimeError(f"searched {searches} times (cap {search_cap})")
+            elif kind == "result":
+                text = str(ev.get("result") or "")
+                if ev.get("is_error"):
+                    msg = text or str(ev.get("subtype") or "")
+                    if CLI_LIMIT_RE.search(msg):
+                        raise AccountUnavailable(msg[:200])
+                    raise RuntimeError(f"error result: {msg[:300]}")
+                if schema and ev.get("structured_output") is not None:
+                    return json.dumps(ev["structured_output"], ensure_ascii=False), results, queries
+                if not text.strip():
+                    raise RuntimeError(f"empty result ({ev.get('subtype')})")
+                return text, results, queries
+            elif kind == "_exit":
+                tail = ev.get("stderr") or ""
+                if CLI_LIMIT_RE.search(tail):
+                    raise AccountUnavailable(tail.strip()[-200:])
+                raise RuntimeError(f"no result event (rc={ev.get('rc')}): {tail.strip()[-300:]}")
+        raise RuntimeError("no result event")
+    finally:
+        events.close()
+
+
+class _CliResponse:
+    """The parts of an API response the pipeline reads. Search results come back as the same block types
+    the API uses, so research() builds its allowlist from them without a separate path."""
+    def __init__(self, text: str, model: str, results: list[dict] = (), queries: list[str] = ()):
+        blocks = [SimpleNamespace(type="server_tool_use", name="web_search", input={"query": q}) for q in queries]
+        if results:
+            blocks.append(SimpleNamespace(type="web_search_tool_result", content=[
+                SimpleNamespace(type="web_search_result", url=r["url"], title=r["title"], page_age=None)
+                for r in results]))
+        blocks.append(SimpleNamespace(type="text", text=text))
+        self.content, self.model, self.stop_reason, self.usage = blocks, model, "end_turn", None
+
+
+def call_model_cli(ledger: Ledger, step: str, model: str, *, system: str, messages: list, effort: str,
+                   schema: dict | None, searches: int = 0) -> _CliResponse:
+    """Same prompt, model and schema through `claude -p` on the owner's subscription. `searches` > 0 opens
+    only the WebSearch tool (no WebFetch: the pipeline fetches sources itself), and source URLs still come
+    only from what the search tool returned. Costs US$0; the ledger row says which account served it."""
+    prompt = cli_prompt(messages)
+    if searches:
+        prompt += f"\n\n(You may run at most {searches} web searches.)"
+    args = [shutil.which("claude") or "claude", "-p", "--model", model, "--effort", effort,
+            "--no-session-persistence", "--strict-mcp-config", "--disable-slash-commands",
+            "--setting-sources", "project", "--system-prompt", system,
+            "--output-format", "stream-json", "--verbose"]
+    args += ["--tools", "WebSearch", "--allowedTools", "WebSearch"] if searches else ["--tools", ""]
     if schema:
         args += ["--json-schema", json.dumps(schema)]
-    env = {k: v for k, v in os.environ.items() if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
-    env.update(CLAUDE_CODE_DISABLE_CLAUDE_MDS="1", CLAUDE_CODE_DISABLE_AUTO_MEMORY="1")
-    try:
-        res = subprocess.run(args, input="\n\n".join(parts), capture_output=True, text=True, encoding="utf-8",
-                             env=env, timeout=1200)
-        out = json.loads(res.stdout)
-    except (subprocess.TimeoutExpired, json.JSONDecodeError, OSError) as e:
-        ledger.record(step, model, None, ok=False, note=f"cli: {type(e).__name__}", usd_override=0.0)
-        raise RuntimeError(f"{step}: claude -p failed ({type(e).__name__})") from e
-    if out.get("is_error"):
-        ledger.record(step, model, None, ok=False, note=f"cli: {str(out.get('result'))[:200]}", usd_override=0.0)
-        raise RuntimeError(f"{step}: claude -p error: {str(out.get('result'))[:200]}")
-    text = json.dumps(out["structured_output"], ensure_ascii=False) if schema and out.get("structured_output") is not None \
-        else str(out.get("result", ""))
-    ledger.record(step, model, None, ok=True, note="cli backend (subscription)", usd_override=0.0)
-    return _CliResponse(text, model, "end_turn")
+    skipped = []
+    for name, config_dir in cli_accounts():
+        if name in _SPENT_ACCOUNTS:
+            continue
+        source = f"subscription:{name}"
+        try:
+            text, results, queries = cli_once(args, prompt, cli_env(config_dir), schema,
+                                              searches * CLI_SEARCH_OVERRUN)
+        except AccountUnavailable as e:
+            _SPENT_ACCOUNTS.add(name)
+            skipped.append(f"{name}: {e}")
+            ledger.record(step, model, None, ok=False, note=f"{name} unavailable: {e}", usd_override=0.0,
+                          source=source)
+            _note_call(step, source, False, str(e))
+            print(f"{step}: {name} unavailable ({e}); trying the next account", file=sys.stderr)
+            continue
+        except (RuntimeError, OSError, subprocess.TimeoutExpired) as e:
+            ledger.record(step, model, None, ok=False, note=f"{name}: {type(e).__name__}: {e}", usd_override=0.0,
+                          source=source)
+            _note_call(step, source, False, f"{type(e).__name__}: {e}")
+            raise RuntimeError(f"{step}: claude -p ({name}) failed: {type(e).__name__}: {str(e)[:300]}") from e
+        ledger.record(step, model, None, ok=True, note=f"served by {name}", usd_override=0.0, source=source)
+        _note_call(step, source, True)
+        return _CliResponse(text, model, results, queries)
+    raise RuntimeError(f"{step}: no subscription account is available ("
+                       + ("; ".join(skipped) or "all already used up this run or none configured") + ")")
+
+
+def run_source() -> str:
+    """The run's model source in one string, for the run log and the summary line."""
+    used = []
+    for c in CALLS:
+        if c["ok"] and c["source"] not in used:
+            used.append(c["source"])
+    if not used:
+        return "none"
+    accounts = [s.split(":", 1)[1] for s in used if s.startswith("subscription:")]
+    parts = (["api"] if "api" in used else []) + ([f"subscription({','.join(accounts)})"] if accounts else [])
+    return " -> ".join(parts)
 
 
 def call_model(client, ledger: Ledger, step: str, model: str, *, system: str, messages: list,
                max_tokens: int, effort: str, schema: dict | None = None, tools: list | None = None,
                searches: int = 0, fallbacks: bool = False):
+    search = searches if tools else 0
+    if tools and any(t.get("name") != "web_search" for t in tools):
+        raise ValueError(f"{step}: only the web_search tool has a subscription equivalent")
     if os.environ.get("FAQ_BACKEND") == "cli":
-        if tools:
-            raise RuntimeError(f"{step}: the subscription backend has no web search; this step needs the API")
-        return call_model_cli(ledger, step, model, system=system, messages=messages, effort=effort, schema=schema)
+        return call_model_cli(ledger, step, model, system=system, messages=messages, effort=effort,
+                              schema=schema, searches=search)
     prompt_tokens = est_tokens(system + json.dumps(messages, ensure_ascii=False, default=str))
     worst = worst_case(model, prompt_tokens, max_tokens, searches)
-    ledger.reserve(worst, step)
+    try:
+        ledger.reserve(worst, step)
+    except BudgetExceeded as e:
+        # The daily API cap is reached (not a locked ledger): the subscription costs nothing extra. Only
+        # daily: for audit/fix/week batches the cap is the stop signal, not a reason to go on (Fable).
+        if (ledger.mode == "daily" and "would exceed" in str(e)
+                and switch_to_subscription(step, f"API budget reached: {e}")):
+            return call_model_cli(ledger, step, model, system=system, messages=messages, effort=effort,
+                                  schema=schema, searches=search)
+        raise
     output_config: dict = {"effort": effort}
     if schema:
         output_config["format"] = {"type": "json_schema", "schema": schema}
@@ -293,29 +576,24 @@ def call_model(client, ledger: Ledger, step: str, model: str, *, system: str, me
         else:
             resp = client.beta.messages.create(**kwargs)
     except anthropic.APIStatusError as e:
-        ledger.record(step, model, None, ok=False, note=f"{e.status_code}: {e.message}")
-        # The key expired, was revoked or ran out of credit: finish on the subscription instead (owner
-        # 2026-11-15). Web-search steps cannot move, so they still fail.
-        msg = str(e.message).lower()
-        key_gone = (e.status_code in (401, 403) or "credit balance" in msg
-                    or "enforced_spend_limit" in str(getattr(e, "body", "")) or "usage limits" in msg)
-        if key_gone and not tools and os.environ.get("FAQ_AUTO_FALLBACK", "1") != "0":
-            os.environ["FAQ_BACKEND"] = "cli"
-            print(f"{step}: API key unusable ({e.status_code}); switching to the subscription backend",
-                  file=sys.stderr)
+        ledger.record(step, model, None, ok=False, note=redact(f"{e.status_code}: {e.message}"))
+        _note_call(step, "api", False, f"{e.status_code}: {e.message}")
+        if api_unusable(e) and switch_to_subscription(step, f"API {e.status_code}: {e.message}"):
             return call_model_cli(ledger, step, model, system=system, messages=messages, effort=effort,
-                                  schema=schema)
+                                  schema=schema, searches=search)
         raise
     except anthropic.APIError as e:
         # Timeout / dropped connection / broken stream: we cannot know what was billed,
         # so book the whole reservation.
         ledger.record(step, model, None, ok=False, note=f"{type(e).__name__}: booked worst case",
                       usd_override=worst)
+        _note_call(step, "api", False, type(e).__name__)
         raise
     served = resp.model or model
     billed = served if price_of(served)[0] >= price_of(model)[0] else model
     ledger.record(step, billed, resp.usage, ok=resp.stop_reason not in ("refusal", "max_tokens"),
                   note=f"stop={resp.stop_reason} served_by={served}")
+    _note_call(step, "api", True)
     return resp
 
 
@@ -1250,6 +1528,9 @@ def main(argv: list[str] | None = None) -> int:
     client = anthropic.Anthropic(max_retries=0)  # a silent SDK retry would spend outside the reservation
     fetcher = Fetcher()
     code = 0
+    if (os.environ.get("FAQ_BACKEND") != "cli" and not os.environ.get("ANTHROPIC_API_KEY")
+            and not os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+        switch_to_subscription("start", "no API key in the environment")
     try:
         if a.mode == "daily":
             run_daily(client, fetcher, ledger, log, date.fromisoformat(a.date) if a.date else today)
@@ -1269,10 +1550,14 @@ def main(argv: list[str] | None = None) -> int:
                 log["resumed_from"] = a.resume
             run_week(client, fetcher, ledger, log, ws, until, today, resume)
     except (BudgetExceeded, RuntimeError, ValueError, FileExistsError, anthropic.APIError) as e:
-        log["error"] = f"{type(e).__name__}: {e}"
+        log["error"] = redact(f"{type(e).__name__}: {e}")
         print(log["error"], file=sys.stderr)
         code = 1
     finally:
+        log["source"] = run_source()
+        if FALLBACK:
+            log["fallback"] = dict(FALLBACK)
+        log["model_calls"] = list(CALLS)
         log["usd_this_run"] = round(ledger.run_spent(), 4)
         log["usd_month_daily"] = round(ledger.month_spent(), 4)
         log["usd_weeks_total"] = round(ledger.week_spent(), 4)
@@ -1282,8 +1567,8 @@ def main(argv: list[str] | None = None) -> int:
             (CACHE_DIR / f"{run_id}.json").write_text(json.dumps(cache, ensure_ascii=False, indent=1, default=str), "utf-8")
         RUNS.mkdir(parents=True, exist_ok=True)
         (RUNS / f"{run_id}.json").write_text(json.dumps(log, ensure_ascii=False, indent=1, default=str), "utf-8")
-        print(json.dumps({k: log.get(k) for k in ("run", "published", "day_result", "error", "usd_this_run")},
-                         ensure_ascii=False))
+        print(json.dumps({k: log.get(k) for k in ("run", "published", "day_result", "error", "source",
+                                                  "usd_this_run")}, ensure_ascii=False))
     return code
 
 
